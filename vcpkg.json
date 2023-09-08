@@ -1,0 +1,14 @@
+{
+	"name": "local-data-generator",
+	"version": "0.0.1",
+	"maintainers": [
+		"Baduit <lena.bertho@protonmail.com>"
+	],
+	"description": "Generate all the needed data for Pokeguesser from the data of github repository of pokeapi to avoid calling the API everyday",
+	"dependencies": [
+		"nlohmann-json",
+		"tl-generator",
+		"strong-type",
+		"units"
+	]
+}
