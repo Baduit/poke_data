@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Se dice que este Ultraente ha sido avistado\ndevorando montañas enteras y tragándose\nprominentes edificios.",
+        "Un Ultraente extremadamente peligroso. Engulle\ntodo lo que encuentra, pero, por alguna razón,\nno se han encontrado excrementos suyos.",
+        "Para los seres de este mundo resulta extraño\ny peligroso, pero en el mundo del que procede\nes una criatura muy común.",
+        "Uno de los extraños Ultraentes. Siempre está\ncomiendo algo, como poseído de un hambre\ninsaciable."
+    ],
+    "height": 5.5,
+    "id": 799,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "name": "Guzzlord",
+    "types": [
+        "Siniestro",
+        "Dragón"
+    ],
+    "weight": 888.0
+}

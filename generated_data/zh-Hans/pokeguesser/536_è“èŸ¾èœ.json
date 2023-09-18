@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "通过发出足以造成头痛的\n音波来充分削弱猎物之后，\n用黏糊糊的舌头将其捉住。",
+        "有时也会发出悦耳的叫声。\n身上突起物越大的蓝蟾蜍\n越能在更广的音域来鸣叫。"
+    ],
+    "height": 0.8,
+    "id": 536,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+    "name": "蓝蟾蜍",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 17.0
+}

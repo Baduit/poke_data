@@ -1,0 +1,34 @@
+{
+    "descriptions": [
+        "MANECTRIC is constantly discharging\nelectricity from its mane. The sparks\nsometimes ignite forest fires.\fWhen it enters a battle, this POKéMON\ncreates thunderclouds.",
+        "MANECTRIC discharges strong\nelectricity from its mane. The mane is\nused for collecting electricity in the\fatmosphere. This POKéMON creates\nthunderclouds above its head.",
+        "Because lightning falls in their vicinities,\nMANECTRIC were thought to have been born\nfrom lightning. In battle, they create\nthunderclouds.",
+        "It rarely appears before people.\nIt is said to nest where lightning has\nfallen.",
+        "It rarely appears before people.\nIt is said to nest where lightning has\nfallen.",
+        "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts.",
+        "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts.",
+        "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts.",
+        "Its nest can be found where a\nthunderbolt hits. It is discharging\nelectricity from its mane.",
+        "Its nest can be found where a\nthunderbolt hits. It is discharging\nelectricity from its mane.",
+        "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts.",
+        "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts.",
+        "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts.",
+        "It discharges electricity from its\nmane. It creates a thundercloud\noverhead to drop lightning bolts.",
+        "It rarely appears before people. It is said to nest\nwhere lightning has fallen.",
+        "It discharges electricity from its mane. It creates a\nthundercloud overhead to drop lightning bolts.",
+        "Manectric is constantly discharging electricity from its mane.\nThe sparks sometimes ignite forest fires. When it enters a\nbattle, this Pokémon creates thunderclouds.",
+        "Manectric discharges strong electricity from its mane.\nThe mane is used for collecting electricity in the atmosphere.\nThis Pokémon creates thunderclouds above its head.",
+        "Manectric can be found beneath unnatural\nthunderclouds. People say it can run at the\nsame speed as lightning striking.",
+        "It stimulates its own muscles with electricity, so\nit can move quickly. It eases its soreness with\nelectricity, too, so it can recover quickly as well.",
+        "It stimulates its own muscles with electricity, so\nit can move quickly. It eases its soreness with\nelectricity, too, so it can recover quickly as well.",
+        "It rarely appears before people. It is said to nest\nwhere lightning has fallen."
+    ],
+    "height": 1.5,
+    "id": 310,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "name": "Manectric",
+    "types": [
+        "Electric"
+    ],
+    "weight": 40.2
+}

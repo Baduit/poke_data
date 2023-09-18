@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "会将双掌上的爪子并拢，\n并让身体高速旋转，\n瞄准猎物冲过去。",
+        "会用爪子在地底挖掘前进。\n一些农民因为担心它会\n因此糟蹋蔬菜而讨厌它。"
+    ],
+    "height": 0.3,
+    "id": 529,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "name": "螺钉地鼠",
+    "types": [
+        "地面"
+    ],
+    "weight": 8.5
+}

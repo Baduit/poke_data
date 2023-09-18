@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "체내에서 석탄을 만들어 낸다.\n과거의 가라르에서는 떨어뜨린\n석탄을 생활에 이용했다.",
+        "다리를 고속으로 회전시켜\n시속 30km로 달린다.\n섭씨 1000도의 불꽃을 내뿜는다."
+    ],
+    "height": 1.1,
+    "id": 838,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "name": "탄차곤",
+    "types": [
+        "바위",
+        "불꽃"
+    ],
+    "weight": 78.0
+}

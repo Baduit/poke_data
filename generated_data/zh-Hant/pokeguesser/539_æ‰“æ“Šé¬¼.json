@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "不斷地尋求強大的實力。\n要是看到了在山上修行的\n打擊鬼，就靜靜地離開吧。",
+        "不斷重複練習的打擊鬼\n所使出的空手劈擁有\n足以劈開大海的破壞力。"
+    ],
+    "height": 1.4,
+    "id": 539,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
+    "name": "打擊鬼",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 51.0
+}

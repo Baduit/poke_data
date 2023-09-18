@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Ha una potenza vocale impressionante. Quando\nassume la tipica posa intimidatoria e si mette a\nurlare, si dice che sta facendo “sbarramento”.",
+        "Si è evoluto a forza di lottare. L’urlo di guerra\nche lancia mentre mette le braccia a X è in\ngrado di terrorizzare qualsiasi avversario."
+    ],
+    "height": 1.6,
+    "id": 862,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "name": "Obstagoon",
+    "types": [
+        "Buio",
+        "Normale"
+    ],
+    "weight": 46.0
+}

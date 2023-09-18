@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "圓圓的尾巴能用來代替\n救生圈。球裡面滿滿都是\n轉換成油脂的營養。",
+        "很能彈開水的體毛就算是\n從寒冷的海裡上岸時也能\n立刻乾掉，一點都不冷。"
+    ],
+    "height": 0.4,
+    "id": 183,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "name": "瑪力露",
+    "types": [
+        "水",
+        "妖精"
+    ],
+    "weight": 8.5
+}

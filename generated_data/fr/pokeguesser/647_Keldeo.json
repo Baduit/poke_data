@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il projette de l’eau depuis ses sabots\net se déplace ainsi à grande vitesse.\nSa botte secrète est le coup de sabot.",
+        "Il parcourt le monde en courant à la\nsurface des mers et des cours d’eau.\nIl apparaît là où l’eau est très pure.",
+        "Il parcourt le monde en courant à la surface des mers\net des cours d’eau. Il apparaît là où l’eau est très\npure.",
+        "Lorsqu’il est résolu, de l’énergie sature son corps\net le propulse à des vitesses qui dépassent la\nperception humaine.",
+        "Il parcourt le monde en courant à la surface des mers\net des cours d’eau. Il apparaît là où l’eau est très pure.",
+        "Lorsqu’il est résolu, de l’énergie sature son corps et\nle propulse à des vitesses qui dépassent la perception\nhumaine.",
+        "Cobaltium, Terrakium et Viridium lui ont appris\nà se battre. Il poursuit son entraînement\nen parcourant le monde.",
+        "Lorsqu’il livre un combat difficile, la corne\nsur son front se renforce et se développe,\nce qui éveillerait sa véritable puissance."
+    ],
+    "height": 1.4,
+    "id": 647,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "name": "Keldeo",
+    "types": [
+        "Eau",
+        "Combat"
+    ],
+    "weight": 48.5
+}

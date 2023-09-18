@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es más conocido como el legendario pájaro de fuego.\nCon cada aleteo crea brillantes llamas.",
+        "Uno de los legendarios Pokémon pájaro. Dicen que su\npresencia anuncia la llegada de la primavera.",
+        "Moltres es un Pokémon pájaro legendario que tiene la\nhabilidad de controlar el fuego. Dicen que, si resulta herido,\nse sumerge en el líquido magma de un volcán para arder y\ncurarse.",
+        "Moltres es un Pokémon pájaro legendario que tiene la\nhabilidad de controlar el fuego. Dicen que, si resulta herido,\nse sumerge en el líquido magma de un volcán para arder y\ncurarse.",
+        "Un Pokémon pájaro legendario. Cuando aletea\nsus flamígeras alas, la oscura noche se torna\nroja.",
+        "Un Pokémon pájaro legendario. Cuando aletea\nsus flamígeras alas, la oscura noche se torna\nroja.",
+        "Una de las aves legendarias. Al batir las alas,\nlas llamas que las envuelven emiten un hermoso\nfulgor rojo.",
+        "Se cuenta que alguna vez ha iluminado el camino\ncon sus alas flamígeras para rescatar a alguien\nque se había perdido en la montaña."
+    ],
+    "height": 2.0,
+    "id": 146,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "name": "Moltres",
+    "types": [
+        "Fuego",
+        "Volador"
+    ],
+    "weight": 60.0
+}

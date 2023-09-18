@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "La carapace qui recouvre son corps le protège\ndes attaques adverses, et ses piquants lui permettent\nde contre-attaquer.",
+        "Il renforce ses membres inférieurs en se ruant\nviolemment sur ses congénères. Naturellement\npaisible, il ne provoque jamais un combat.",
+        "La carapace qui recouvre son corps le protège des attaques\nadverses, et ses piquants lui permettent de contre-attaquer.",
+        "Il renforce ses membres inférieurs en se ruant violemment\nsur ses congénères. Naturellement paisible, il ne provoque\njamais un combat."
+    ],
+    "height": 0.7,
+    "id": 651,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "name": "Boguérisse",
+    "types": [
+        "Plante"
+    ],
+    "weight": 29.0
+}

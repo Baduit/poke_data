@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Nace de lodo alterado al filtrarse en el agua los\nrayos X reflejados por la Luna. Se alimenta de\nsustancias desagradables.",
+        "Aparece en zonas asquerosas. Crece absorbiendo los\nresiduos tóxicos expulsados por las fábricas.",
+        "El elástico cuerpo de lodo de Grimer le permite colarse por\ncualquier orificio, sea del tamaño que sea. Este Pokémon entra\nen los bajantes de las cloacas para beberse el agua sucia.",
+        "Grimer emergió del lodo que se formó en una zona\ncontaminada en el fondo del mar. A este Pokémon le encanta\ntodo lo que sea suciedad. Emana continuamente por todo el\ncuerpo un horrible fluido contaminado por bacterias.",
+        "Su principal fuente de alimento son los residuos\nindustriales. Últimamente la población de Grimer\nha menguado bastante.",
+        "Nace del lodo expuesto a los rayos X reflejados\npor la luna. Si el número de bacterias de su\ncuerpo disminuye, su vida corre peligro.",
+        "Surgió del limo oceánico. En hábitats impolutos,\nlos gérmenes de su cuerpo no pueden medrar y\ntermina falleciendo.",
+        "Debido a la reducción en los vertidos de aguas\nresiduales, su fuente de alimento ha menguado\ny ahora se encuentra en peligro de extinción.",
+        "Está hecho de lodo endurecido. Pocos se atreven\na tocarlo debido a su pestilencia y composición\nnociva. Allá por donde pasa no crece la hierba.",
+        "Está hecho de lodo endurecido. Pocos se atreven\na tocarlo debido a su pestilencia y composición\nnociva. Allá por donde pasa no crece la hierba."
+    ],
+    "height": 0.9,
+    "id": 88,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "name": "Grimer",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 30.0
+}

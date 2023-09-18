@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "500년 이상 전에 만들어진\n인조포켓몬이다. 사람의 말을\n이해하지만 말은 못 한다.",
+        "기계장치로 된 몸은 그릇에\n불과하다. 소울하트라고 불리는\n인조 영혼이 본체다.",
+        "의식을 동조시켜 상대의\n마음을 이해한다. 사람을\n도울 때 편리한 능력이다.",
+        "약 500년 전 과학자에 의해\n만들어졌다. 소울하트라고\n불리는 파츠가 본체다."
+    ],
+    "height": 1.0,
+    "id": 801,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+    "name": "마기아나",
+    "types": [
+        "강철",
+        "페어리"
+    ],
+    "weight": 80.5
+}

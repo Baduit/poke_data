@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Sus tres cabezas piensan de forma independiente.\nSin embargo, son amigas y no suelen discutir nunca.",
+        "Se le llama la Selva Andante. Si una cabeza crece\ndemasiado, se cae y forma un Exeggcute.",
+        "Exeggutor es originario del trópico. Cuando se expone a un\nsol intenso, le empiezan a crecer las cabezas. Hay quien dice\nque, cuando las cabezas caen al suelo, se unen para formar\nun Exeggcute.",
+        "Exeggutor es originario del trópico. Cuando se expone a un\nsol intenso, le empiezan a crecer las cabezas. Hay quien dice\nque, cuando las cabezas caen al suelo, se unen para formar\nun Exeggcute.",
+        "Cada una de sus cabezas piensa de forma\nindividual. Para tomar decisiones, se comunican\nentre ellas telepáticamente.",
+        "En algún momento de su vida, una de sus tres\ncabezas se desprende y se transforma en un\nnuevo Exeggcute.",
+        "Ataca al rival con poderes psíquicos. Como tiene\ntres cabezas, la potencia de sus ataques se ve\ntriplicada.",
+        "Sus tres cabezas poseen juicio propio. Si no se\nponen de acuerdo en qué dirección tomar,\nExeggutor se quedará plantado en el sitio.",
+        "El estrépito que causa se debe a que cada\nuna de las tres cabezas habla y actúa de forma\nindependiente, sin tener en cuenta a las demás.",
+        "El estrépito que causa se debe a que cada\nuna de las tres cabezas habla y actúa de forma\nindependiente, sin tener en cuenta a las demás.",
+        "Cada una de las tres cabezas piensa de forma\nindependiente y apenas muestra interés por el\nresto.",
+        "Puede lanzar ataques psíquicos de gran potencia\nsi sus tres cabezas se ponen de acuerdo. Cuando\nse nubla el cielo, sus movimientos se ralentizan."
+    ],
+    "height": 2.0,
+    "id": 103,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "name": "Exeggutor",
+    "types": [
+        "Planta",
+        "Psíquico"
+    ],
+    "weight": 120.0
+}

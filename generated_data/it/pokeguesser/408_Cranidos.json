@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "È stato fatto rivivere da un fossile di ferro simile a\nuna palla. Abbatte le prede con le punte sulla testa.",
+        "Abitava nella giungla già 100 milioni di anni fa.\nAbbatte gli alberi che lo ostacolano con delle testate.",
+        "È stato fatto rivivere da un fossile di ferro simile a una palla.\nAbbatte le prede con le punte sulla testa.",
+        "Abitava nella giungla già 100 milioni di anni fa. Abbatte\ngli alberi che lo ostacolano con delle testate.",
+        "Viveva nella giungla circa 100 milioni di anni fa.\nSi difendeva con potenti testate dal suo nemico\nnaturale Aerodactyl.",
+        "Nelle zone ricche di fossili di Cranidos si\ntrovano spesso anche numerosi fossili di\nalberi spezzati.",
+        "Pokémon che esisteva in epoca antica, dotato di\nun cranio duro e resistente ma dall’intelligenza\nnon altrettanto sviluppata.",
+        "Era caratterizzato da un cranio durissimo,\ngrazie al quale spezzava gli alberi a testate\nper poi cibarsi delle bacche mature."
+    ],
+    "height": 0.9,
+    "id": 408,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "name": "Cranidos",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 31.5
+}

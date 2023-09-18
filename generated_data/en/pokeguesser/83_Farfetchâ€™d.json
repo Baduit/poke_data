@@ -1,0 +1,41 @@
+{
+    "descriptions": [
+        "The sprig of\ngreen onions it\nholds is its\fweapon. It is\nused much like a\nmetal sword.",
+        "The sprig of\ngreen onions it\nholds is its\fweapon. It is\nused much like a\nmetal sword.",
+        "Lives where reedy\nplants grow. They\nare rarely seen,\fso it's thought\ntheir numbers are\ndecreasing.",
+        "If anyone tries to\ndisturb where the\nessential plant\fsticks grow, it\nuses its own stick\nto thwart them.",
+        "If it eats the\nplant stick it\ncarries as emer­\fgency rations, it\nruns off in search\nof a new stick.",
+        "In order to pre­\nvent their\nextinction, more\fpeople have made\nan effort to breed\nthese POKéMON.",
+        "FARFETCH’D is always seen with a stick\nfrom a plant of some sort. Apparently,\nthere are good sticks and bad sticks.\fThis POKéMON has been known to fight\nwith others over sticks.",
+        "FARFETCH’D is always seen with a stick\nfrom a plant of some sort. Apparently,\nthere are good sticks and bad sticks.\fThis POKéMON has been known to fight\nwith others over sticks.",
+        "It is always seen with a stick from a plant.\nApparently, there are good sticks and bad\nsticks. This POKéMON occasionally fights\nwith others over choice sticks.",
+        "It always walks about with a plant stalk\nclamped in its beak. The stalk is used for\nbuilding its nest.",
+        "The plant stalk it holds is its weapon.\nThe stalk is used like a sword to cut all\nsorts of things.",
+        "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life.",
+        "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life.",
+        "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life.",
+        "If anyone tries to disturb where the\nessential plant stalks grow, it uses its\nown stalk to thwart them.",
+        "If it eats the plant stalk it carries\nas emergency rations, it runs off\nin search of a new stalk.",
+        "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life.",
+        "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life.",
+        "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life.",
+        "It can’t live without the stalk it\nholds. That’s why it defends the\nstalk from attackers with its life.",
+        "The plant stalk it holds is its weapon. The stalk is\nused like a sword to cut all sorts of things.",
+        "It always walks about with a plant stalk clamped in\nits beak. The stalk is used for building its nest.",
+        "Farfetch’d is always seen with a stalk from a plant of some\nsort. Apparently, there are good stalks and bad stalks. This\nPokémon has been known to fight with others over stalks.",
+        "Farfetch’d is always seen with a stalk from a plant of some\nsort. Apparently, there are good stalks and bad stalks. This\nPokémon has been known to fight with others over stalks.",
+        "They live where reedy plants grow.\nFarfetch’d are rarely seen, so it’s thought\ntheir numbers are decreasing.",
+        "They live where reedy plants grow.\nFarfetch’d are rarely seen, so it’s thought\ntheir numbers are decreasing.",
+        "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+        "They use a plant stalk as a weapon, but not all\nof them use it in the same way. Several distinct\nstyles of stalk fighting have been observed."
+    ],
+    "height": 0.8,
+    "id": 83,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "name": "Farfetch’d",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 15.0
+}

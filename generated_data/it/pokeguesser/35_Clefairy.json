@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio.",
+        "Sembra che la luce lunare che raccoglie nelle ali\nsul dorso gli permetta di volare a mezz’aria.",
+        "In ogni notte di luna piena questi Pokémon escono in gruppo\na giocare. All’alba i Clefairy tornano stanchi nella quiete\ndelle loro tane montane e vanno a dormire stretti fra loro.",
+        "In ogni notte di luna piena questi Pokémon escono in gruppo\na giocare. All’alba i Clefairy tornano stanchi nella quiete\ndelle loro tane montane e vanno a dormire stretti fra loro.",
+        "È amato da donne e uomini di tutte le età per\nil suo aspetto adorabile e le sue graziose\nmovenze. Ne esistono solo pochi esemplari.",
+        "Nelle notti di luna piena, i Clefairy si radunano\nper danzare. Intorno a loro si crea un misterioso\ncampo magnetico.",
+        "Questo Pokémon molto popolare è piuttosto raro\ne prezioso. È meglio evitare di metterlo troppo in\nmostra, o si corre il rischio di farselo rubare.",
+        "Danza librandosi a mezz’aria senza sbattere\nle ali, che al chiarore della luna emettono un\ndebole scintillio.",
+        "È molto amato per l’aspetto adorabile\ne le graziose movenze, ma non si vede\nspesso perché ne esistono pochi esemplari.",
+        "È molto amato per l’aspetto adorabile\ne le graziose movenze, ma non si vede\nspesso perché ne esistono pochi esemplari.",
+        "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio.",
+        "Il suo verso e le sue movenze graziose rendono\nquesto adorabile Pokémon molto popolare.\nSfortunatamente, però, è molto raro."
+    ],
+    "height": 0.6,
+    "id": 35,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "name": "Clefairy",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 7.5
+}

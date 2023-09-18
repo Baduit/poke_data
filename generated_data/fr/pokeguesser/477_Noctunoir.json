@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Son corps se replie sur lui-même\npour emprisonner les esprits\nperdus et les ramener chez eux.",
+        "Son corps se replie sur lui-même\npour emprisonner les esprits\nperdus et les ramener chez eux.",
+        "Son corps se replie sur lui-même pour emprisonner\nles esprits perdus et les ramener chez eux.",
+        "L’antenne sur sa tête capte les ondes radio du monde\ndes esprits lui ordonnant d’y porter des gens.",
+        "Son corps se replie sur lui-même pour emprisonner les esprits\nperdus et les ramener chez eux.",
+        "L’antenne sur sa tête capte les ondes radio du monde\ndes esprits lui ordonnant d’y porter des gens.",
+        "Nul ne sait s’il est doté d’une volonté propre.\nLes ondes du monde des esprits le poussent\nà conduire humains et Pokémon vers l’au-delà.",
+        "Il dévore l’âme de ses ennemis en les\nengloutissant dans sa bouche ventrale.\nIl recrache ensuite leur enveloppe corporelle."
+    ],
+    "height": 2.2,
+    "id": 477,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "name": "Noctunoir",
+    "types": [
+        "Spectre"
+    ],
+    "weight": 106.6
+}

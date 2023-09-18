@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "脖子上挂有火焰铃铛。\n喷出火焰的时候，\n会叮铃铃地发出很响的声音。",
+        "以前肢的力量而自豪。\n一记拳击，连铁棒都能弯折。",
+        "如果亲近了，也会对训练家撒娇，\n但是力量很强，爪子也很锋利，\n所以会被弄得全身是伤。",
+        "鬃毛竖得直直的时候，\n证明它状态良好。\n状态不好时，毛发会向后倒。",
+        "脖子根部的火囊在进入战斗\n状态后火力就会上升，\n并发出铃铛般的声音。",
+        "如果敌人实力强劲，\n它便会更有战斗的欲望，\n火焰铃铛的火力也会随之上升。"
+    ],
+    "height": 0.7,
+    "id": 726,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+    "name": "炎热喵",
+    "types": [
+        "火"
+    ],
+    "weight": 25.0
+}

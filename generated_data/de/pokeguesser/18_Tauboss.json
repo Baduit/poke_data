@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Dieses Pokémon schnellt bei der Jagd blitzschnell\nunter Wasser, um seine ahnungslose Beute zu fangen.",
+        "Es breitet seine betörenden Schwingen aus,\num den Gegner einzuschüchtern.\nSeine Fluggeschwindigkeit liegt bei Mach 2.",
+        "Dieses Pokémon hat ein wunderschönes, glänzendes\nGefieder. Viele Trainer sind von der auffälligen Schönheit\nseines Federkleids begeistert, sodass sie Tauboss als ihr\nPokémon wählen.",
+        "Dieses Pokémon hat ein wunderschönes, glänzendes\nGefieder. Viele Trainer sind von der auffälligen Schönheit\nseines Federkleids begeistert, sodass sie Tauboss als ihr\nPokémon wählen.",
+        "Auf der Jagd nach Beute fliegt es mit einer\nGeschwindigkeit von bis zu Mach 2. Seine\nmächtigen Klauen gelten als gefürchtete Waffen.",
+        "Auf der Jagd nach Beute fliegt es mit einer\nGeschwindigkeit von bis zu Mach 2. Seine\nmächtigen Klauen gelten als gefürchtete Waffen."
+    ],
+    "height": 1.5,
+    "id": 18,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "name": "Tauboss",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 39.5
+}

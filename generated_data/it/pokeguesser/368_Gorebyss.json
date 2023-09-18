@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Vive sui fondali marini. In primavera il suo corpo\nrosato diventa più vivido per chissà quale motivo.",
+        "Nuota con grande eleganza. Si nutre di alghe, che\ncattura tra le rocce con il muso appuntito.",
+        "Gorebyss vive nei mari meridionali a profondità estreme.\nIl suo corpo è strutturato in modo da poter resistere\nall’incredibile pressione degli abissi. Proprio per questo\nil Pokémon è immune agli attacchi comuni.",
+        "Nonostante Gorebyss sia il ritratto dell’eleganza e della\nbellezza in nuoto, è anche molto crudele. Quando scova\nuna preda, la perfora con il muso appuntito e ne succhia\ni fluidi corporei.",
+        "Cambia colore in base alla temperatura\ndell’acqua. I Gorebyss che vivono ad Alola\nhanno un colore vivido e quasi abbagliante.",
+        "Succhia i fluidi corporei delle sue prede. La\ncarne che ne rimane sprofonda sui fondali marini\ne diventa prezioso nutrimento per altri Pokémon."
+    ],
+    "height": 1.8,
+    "id": 368,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "name": "Gorebyss",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 22.6
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "能在體內製造煤炭。\n在過去，伽勒爾人曾經用\n牠身上掉下來的煤炭生活。",
+        "能透過高速旋轉自己的腳，\n以３０公里的時速奔跑。\n能噴出攝氏１０００度的火焰。"
+    ],
+    "height": 1.1,
+    "id": 838,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "name": "大炭車",
+    "types": [
+        "岩石",
+        "火"
+    ],
+    "weight": 78.0
+}

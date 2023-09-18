@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "It can help in tunnel construction.\nIts drill has evolved into steel strong\nenough to bore through iron plates.",
+        "More than 300 feet below the surface,\nthey build mazelike nests. Their activity\ncan be destructive to subway tunnels.",
+        "Forming a drill with its steel claws\nand head, it can bore through a steel\nplate, no matter how thick it is.",
+        "Forming a drill with its steel claws\nand head, it can bore through a steel\nplate, no matter how thick it is.",
+        "It can help in tunnel construction. Its drill has\nevolved into steel strong enough to bore through\niron plates.",
+        "More than 300 feet below the surface, they build\nmazelike nests. Their activity can be destructive to\nsubway tunnels.",
+        "It can help in tunnel construction. Its drill has\nevolved into steel strong enough to bore through\niron plates.",
+        "More than 300 feet below the surface, they build\nmazelike nests. Their activity can be destructive to\nsubway tunnels.",
+        "It’s not uncommon for tunnels that appear to\nhave formed naturally to actually be a result\nof Excadrill’s rampant digging.",
+        "Known as the Drill King, this Pokémon can\ntunnel through the terrain at speeds of over\n90 mph."
+    ],
+    "height": 0.7,
+    "id": 530,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "name": "Excadrill",
+    "types": [
+        "Ground",
+        "Steel"
+    ],
+    "weight": 40.4
+}

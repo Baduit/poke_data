@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Die flinken Angriffe von Sengo kontert es mit\nseinem messerscharfen Schweif, aus dem Gift austritt.",
+        "Es hält die Klinge an seinem Schweif scharf,\nindem es sie ständig an Steinen wetzt. Es ist\nder Erzfeind von Sengo.",
+        "Vipitis lebt seit Generationen in Fehde mit Sengo.\nDie Narben auf seinem Körper sind Zeugen grausamer\nKämpfe. Dieses Pokémon greift seine Gegner mit seinem\nscharfkantigen Schweif an.",
+        "Vipitis kann mit seinem Schweif Feinden einen Hieb versetzen\nund sie mit einem abgesonderten Gift bespritzen. Dieses\nPokémon wird in der langwährenden Blutfehde mit Sengo\nnicht nachgeben."
+    ],
+    "height": 2.7,
+    "id": 336,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "name": "Vipitis",
+    "types": [
+        "Gift"
+    ],
+    "weight": 52.5
+}

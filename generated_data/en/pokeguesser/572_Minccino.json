@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "They greet one another by rubbing each\nother with their tails, which are always\nkept well groomed and clean.",
+        "These Pokémon prefer a tidy habitat.\nThey are always sweeping and dusting,\nusing their tails as brooms.",
+        "Minccino greet each other\nby grooming one another\nthoroughly with their tails.",
+        "Minccino greet each other\nby grooming one another\nthoroughly with their tails.",
+        "Minccino greet each other by grooming one another\nthoroughly with their tails.",
+        "These Pokémon prefer a tidy habitat. They are\nalways sweeping and dusting, using their tails\nas brooms.",
+        "Minccino greet each other by grooming one another\nthoroughly with their tails.",
+        "These Pokémon prefer a tidy habitat. They are\nalways sweeping and dusting, using their tails\nas brooms.",
+        "A clean freak that will not allow even the\nslightest mess, it uses its tail like a mop to\nthoroughly clean any and all filth.",
+        "When its tail has gotten dirty from self-cleaning\nor from cleaning its nest, Minccino spends a\nwhole day washing its tail in clean spring water.",
+        "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
+        "They pet each other with their tails as a form of\ngreeting. Of the two, the one whose tail is fluffier\nis a bit more boastful."
+    ],
+    "height": 0.4,
+    "id": 572,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "name": "Minccino",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.8
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il ressemble à une plante aquatique\net fait la navette pour les Pokémon\nqui ne savent pas nager.",
+        "Il ressemble à une plante aquatique\net fait la navette pour les Pokémon\nqui ne savent pas nager.",
+        "Il ressemble à une plante aquatique et fait la navette\npour les Pokémon qui ne savent pas nager.",
+        "Nénupiot recherche toujours les coins où coule\nde l’eau pure. S’il reste longtemps sans boire,\nla feuille sur sa tête commence à faner.",
+        "Nénupiot vit dans les étangs et les lacs, sur lesquels\nil flotte à la surface. Si sa feuille tombe, il est affaibli.\nDe temps en temps, ce Pokémon sort sur la terre ferme\nà la recherche d’eau propre.",
+        "On raconte que jadis, Nénupiot vivait sur terre. Mais on pense\nque ce Pokémon est retourné dans l’eau car la feuille sur\nsa tête était devenue trop grande et trop lourde. Maintenant,\nil vit en flottant à la surface de l’eau.",
+        "Il recherche toujours les endroits où coule\nde l’eau pure. S’il reste longtemps sans boire,\nla feuille sur sa tête commence à faner.",
+        "Sa feuille est devenue si grande et si lourde\nqu’il doit vivre en flottant sur l’eau."
+    ],
+    "height": 0.5,
+    "id": 270,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "name": "Nénupiot",
+    "types": [
+        "Eau",
+        "Plante"
+    ],
+    "weight": 2.6
+}

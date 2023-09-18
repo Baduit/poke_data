@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Delimita il suo territorio usando la coda come se fosse\nun pennello. Ha lasciato oltre 5000 segni diversi.",
+        "Quando è adulto tende a farsi lasciare orme di zampe\nsul dorso dai propri compagni.",
+        "Smeargle delimita i confini del suo territorio con il fluido\ncorporeo secreto dalla punta della coda. Sono state\nrinvenute ben 5000 diverse delimitazioni lasciate\nda questo Pokémon.",
+        "Smeargle delimita i confini del suo territorio con il fluido\ncorporeo secreto dalla punta della coda. Sono state\nrinvenute ben 5000 diverse delimitazioni lasciate\nda questo Pokémon.",
+        "Delimita i confini del suo territorio dipingendo\nsegni particolari con il fluido corporeo\nche secerne dalla punta della coda.",
+        "Marca il suo territorio dipingendo con la coda.\nNelle città che ospitano molti Smeargle, i muri\nsono pieni di graffiti.",
+        "Dalla punta della coda secerne un fluido\ncorporeo la cui tonalità cambia in base\nalle sue emozioni.",
+        "Traccia dei segni con il fluido prodotto dalla\npunta della coda. Gli appassionati comprano\nle sue opere a caro prezzo."
+    ],
+    "height": 1.2,
+    "id": 235,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "name": "Smeargle",
+    "types": [
+        "Normale"
+    ],
+    "weight": 58.0
+}

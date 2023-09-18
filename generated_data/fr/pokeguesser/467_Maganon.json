@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Quand il lance des boules de feu\nà plus de 2 000 °C, son corps\nest comme chauffé à blanc.",
+        "Quand il lance des boules de feu\nà plus de 2 000 °C, son corps\nest comme chauffé à blanc.",
+        "Il projette des boules de feu à 2 000 °C à bout de\nbras. Il vit dans les cratères volcaniques.",
+        "Il projette des boules de feu à 2 000 °C du bout de\nses bras. Même son souffle est brûlant.",
+        "Il projette des boules de feu à 2 000 °C à bout de bras.\nIl vit dans les cratères volcaniques.",
+        "Il projette des boules de feu à 2 000 °C du bout de ses bras.\nMême son souffle est brûlant.",
+        "Il vit dans les cratères de volcans. On dit que\nchaque volcan ne peut abriter qu’un seul couple\nde Maganon.",
+        "Son bras peut expulser des boules enflammées\nd’une température de 2 000 °C. S’il en tire trop\nd’un coup, son bras commence à fondre.",
+        "Il existe encore de nombreuses usines qui\nutilisent les flammes de Maganon pour faire\nfondre les métaux.",
+        "Il peut terrasser ses ennemis d’une seule boule\nde feu. Il évite toutefois de s’en servir pour\nchasser, car sa proie finirait carbonisée.",
+        "Quand il inspire profondément, les flammes\ndans son ventre gagnent en intensité et\natteignent les 2 000 °C.",
+        "Au fil du temps, son corps est devenu similaire\nà un volcan, et un de ses organes ressemble\ndésormais à une chambre magmatique."
+    ],
+    "height": 1.6,
+    "id": 467,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+    "name": "Maganon",
+    "types": [
+        "Feu"
+    ],
+    "weight": 68.0
+}

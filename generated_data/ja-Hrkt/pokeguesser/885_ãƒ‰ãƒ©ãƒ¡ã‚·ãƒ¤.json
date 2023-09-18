@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "こだいの　うみで　くらしていた。\nゴーストポケモンとして　よみがえり\nかつての　すみかを　さまよっている。",
+        "１ぴきでは　こどもにも　まけるくらい\nひりきだが　なかまの　きょうりょくで\nきたえられ　しんかして　つよくなる。"
+    ],
+    "height": 0.5,
+    "id": 885,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "name": "ドラメシヤ",
+    "types": [
+        "ドラゴン",
+        "ゴースト"
+    ],
+    "weight": 2.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在巢穴的深处产卵。\n受到熔蚁兽的袭击时会用\n大大的颚部咬住对方进行反击。",
+        "巨大的颚部能咬碎岩石。\n为了不让沙螺蟒把蛋抢走，\n会和其他同类一起并肩战斗。"
+    ],
+    "height": 0.3,
+    "id": 632,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "name": "铁蚁",
+    "types": [
+        "虫",
+        "钢"
+    ],
+    "weight": 33.0
+}

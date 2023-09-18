@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "A través de sus apéndices sensitivos con forma de\ncinta, emite unas ondas tranquilizadoras mediante las\ncuales detiene los combates.",
+        "Enrolla sus apéndices sensoriales con forma de cinta\nen los brazos de su querido Entrenador cuando\ncaminan juntos.",
+        "A través de sus apéndices sensitivos con forma de cinta,\nemite unas ondas tranquilizadoras mediante las cuales\ndetiene los combates.",
+        "Enrolla sus apéndices sensoriales con forma de cinta en los\nbrazos de su querido Entrenador cuando caminan juntos.",
+        "Con sus apéndices sensoriales con forma de\ncinta, puede emitir ondas que neutralizan la\nhostilidad y hacen bajar la guardia a su presa.",
+        "Al detectar a una presa, agita sus apéndices\nsensoriales con forma de cinta para distraerla y,\ncuando lo consigue, se abalanza sobre ella.",
+        "Cuando se enfrasca en un combate lo da todo\nsin titubear un segundo, aunque se enfrente a\nun Pokémon de tipo Dragón más grande que él.",
+        "Al rodear el brazo de su Entrenador con los\napéndices sensoriales en forma de cintas, es\ncapaz de comprender sus sentimientos.",
+        "Con sus apéndices sensoriales en forma de cinta,\npuede emitir ondas que neutralizan la hostilidad\ny detener así cualquier contienda.",
+        "En un cuento infantil de Galar se narra la victoria\nde un Sylveon de extraordinaria belleza sobre un\ntemible Pokémon de tipo Dragón."
+    ],
+    "height": 1.0,
+    "id": 700,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "name": "Sylveon",
+    "types": [
+        "Hada"
+    ],
+    "weight": 23.5
+}

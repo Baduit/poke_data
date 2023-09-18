@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Poiché i suoi escrementi sono molto caldi,\nnell’antichità gli uomini solevano conservarli in\nbuste per riscaldarsi.",
+        "Quando dorme ritrae gli arti. Anche il fuoco che gli\nbrucia dentro a 600 °C si affievolisce.",
+        "Poiché i suoi escrementi sono molto caldi, nell’antichità\ngli uomini solevano conservarli in buste per riscaldarsi.",
+        "Quando dorme ritrae gli arti. Anche il fuoco che gli brucia\ndentro a 600 °C si affievolisce.",
+        "La fiamma che brucia dentro il suo corpo è\nla fonte della sua potenza. Quando si affievolisce\nil Pokémon si addormenta all’istante.",
+        "Quando dorme è impossibile buttarlo giù,\nper quanto lo si spinga. I portafortuna che\nlo rappresentano sono molto popolari."
+    ],
+    "height": 0.6,
+    "id": 554,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "name": "Darumaka",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 37.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Nasconde in un luogo segreto ogni oggetto che\ntrova. Murkrow e Meowth si derubano tra di loro.",
+        "Molti lo temono e lo detestano credendo che porti\nsfortuna a coloro che lo vedono di notte.",
+        "Murkrow era temuto e disprezzato poiché si pensava\nportasse sfortuna. Questo Pokémon mostra un vivo interesse\nper tutto ciò che luccica e brilla. Arriva persino a tentare di\nrubare gli anelli alle signore.",
+        "Murkrow era temuto e disprezzato poiché si pensava\nportasse sfortuna. Questo Pokémon mostra un vivo interesse\nper tutto ciò che luccica e brilla. Arriva persino a tentare di\nrubare gli anelli alle signore.",
+        "Si sveglia al tramonto e vola nella notte buia.\nUn vecchio proverbio consiglia di tornare a casa\nprima che Murkrow si alzi in volo.",
+        "Molti lo detestano credendo che porti sfortuna.\nSe si affeziona al suo Allenatore, gli porta in\nregalo oggetti luccicanti.",
+        "Adora gli oggetti luccicanti. La sua brama di\ntesori lo porta a infiltrarsi nelle tane dei Gabite\nper rubare le pietre preziose che custodiscono.",
+        "Va in cerca di oggetti luccicanti per il suo capo.\nMolti lo temono e lo detestano credendo che\nporti sfortuna."
+    ],
+    "height": 0.5,
+    "id": 198,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "name": "Murkrow",
+    "types": [
+        "Buio",
+        "Volante"
+    ],
+    "weight": 2.1
+}

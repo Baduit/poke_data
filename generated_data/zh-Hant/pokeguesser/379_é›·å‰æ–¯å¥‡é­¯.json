@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "構成牠身體的神奇物質\n具有能夠伸縮的柔軟性，\n但卻比任何金屬都還要堅韌。",
+        "據說牠誕生於地底的\n地幔中，並且在大約\n１萬年前出現在地表。"
+    ],
+    "height": 1.9,
+    "id": 379,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "name": "雷吉斯奇魯",
+    "types": [
+        "鋼"
+    ],
+    "weight": 205.0
+}

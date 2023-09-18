@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Non ha occhi, ma avverte gli ostacoli con le onde\nultrasoniche che emette dalla bocca.",
+        "Non ha occhi, ma si sposta agilmente nella notte\nemettendo ultrasuoni la cui eco lo avverte degli\nostacoli.",
+        "Zubat rimane perfettamente immobile al buio durante le ore\ndiurne più luminose. Infatti la prolungata esposizione al sole\ngli provoca delle bruciature.",
+        "Zubat evita la luce del sole perché nociva per la sua salute.\nDurante il giorno sta rintanato in grotte o sotto i cornicioni\ndi vecchie case, dormendo appeso a testa in giù.",
+        "Di giorno dorme dentro le grotte.\nNon ha occhi e quando vola emette ultrasuoni\ntramite i quali percepisce l’ambiente circostante.",
+        "L’esposizione alla luce del sole gli provoca delle\nbruciature. La frequenza degli ultrasuoni che\nemette varia da un gruppo all’altro.",
+        "Non ha occhi e non può vedere, ma è in\ngrado di percepire l’ambiente circostante\nemettendo ultrasuoni dalla bocca.",
+        "Ha una pelle così sottile che la luce solare\ngli provoca delle bruciature. Quando fa freddo\nsi stringe ai suoi simili per scaldarsi.",
+        "Durante il volo emette degli ultrasuoni\ndalla bocca per localizzare gli ostacoli\nsul suo percorso.",
+        "Durante il volo emette degli ultrasuoni\ndalla bocca per localizzare gli ostacoli\nsul suo percorso.",
+        "Sonda l’ambiente circostante emettendo\nultrasuoni dalla bocca. In questo modo riesce\na volteggiare agilmente anche in caverne strette.",
+        "Vive in grotte mai rischiarate dalla luce del sole.\nQuando si fa giorno, si raggruppa con i suoi\nsimili per scaldarsi mentre dorme."
+    ],
+    "height": 0.8,
+    "id": 41,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "name": "Zubat",
+    "types": [
+        "Veleno",
+        "Volante"
+    ],
+    "weight": 7.5
+}

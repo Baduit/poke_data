@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Tiene una piel que repele el agua. De hecho, puede\npasarse horas jugando en el agua sin mojarse.",
+        "La punta de su cola está llena de un aceite que, al\nser más ligero que el agua, le permite flotar.",
+        "La cola de Marill contiene un aceite que hace las veces de\nchaleco salvavidas. Si ves una moviéndose en el agua, seguro\nque debajo hay un Marill medio sumergido buscando plantas\nacuáticas para comer.",
+        "Este Pokémon tiene la cola muy flexible y elástica. A la hora\nde pescar a su presa en una rápida corriente, Marill enrosca\nla cola en un árbol.",
+        "La punta redonda de su cola hace las veces de\nflotador. En ella almacena abundantes nutrientes\nen forma de aceite.",
+        "Su pelaje repele el agua, lo que evita que pase\nfrío al salir de mares gélidos porque se seca al\nmomento."
+    ],
+    "height": 0.4,
+    "id": 183,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "name": "Marill",
+    "types": [
+        "Agua",
+        "Hada"
+    ],
+    "weight": 8.5
+}

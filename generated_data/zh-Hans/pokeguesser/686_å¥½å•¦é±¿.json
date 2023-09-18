@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "闪烁着光，让猎物受诱惑靠近后，\n会用长长的触手缠住对方，\n封住其行动。",
+        "与伙伴交换信息时，\n会让身上的发光体\n以复杂的节奏发光。",
+        "旋转着闪烁自己的发光体。\n通过改变闪烁的方式\n来和其他伙伴交流。",
+        "会让敌人看到自己闪烁的\n发光体来让对方丧失战意，\n然后趁机逃之夭夭。"
+    ],
+    "height": 0.4,
+    "id": 686,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "name": "好啦鱿",
+    "types": [
+        "恶",
+        "超能力"
+    ],
+    "weight": 3.5
+}

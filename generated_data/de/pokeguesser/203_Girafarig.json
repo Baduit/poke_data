@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Während es schläft, hält sein Schweif Wache.\nDieser benötigt keinen Schlaf.",
+        "Sein Schweif hat ein eigenes Gehirn. Achtung!\nKommst du ihm zu nahe, kann es dich riechen\nund beißt.",
+        "Der Kopf an Girafarigs Hinterteil hat ein eigenes Gehirn.\nEr reagiert mit Angriffen auf Gerüche und Geräusche.\nWenn man sich diesem Pokémon von hinten nähert,\nkönnte der hintere Kopf plötzlich vorschnellen und zubeißen.",
+        "Der Kopf an Girafarigs Hinterteil verfügt nur über\nein kleines Gehirn, mit dem es nicht denken kann.\nDieses Gehirn benötigt jedoch keinen Schlaf und\nist somit in der Lage, die Umgebung rund um die\nUhr im Auge zu behalten."
+    ],
+    "height": 1.5,
+    "id": 203,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "name": "Girafarig",
+    "types": [
+        "Normal",
+        "Psycho"
+    ],
+    "weight": 41.5
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Su pelaje lanudo dobla su volumen al acumular\nelectricidad estática. Tocarlo puede dar calambre.",
+        "Almacena aire en el lanudo pelaje que tiene. Así, se\nmantiene fresco en verano y caliente en invierno.",
+        "Mareep tiene un pelaje lanudo suave que produce carga\nestática por el roce. Cuanto más se carga de electricidad\nestática, más brilla la bombilla que tiene en el extremo de la\ncola.",
+        "Mareep tiene un pelaje lanudo suave que produce carga\nestática por el roce. Cuanto más se carga de electricidad\nestática, más brilla la bombilla que tiene en el extremo de la\ncola.",
+        "Las prendas elaboradas con la lana de Mareep\nse cargan fácilmente de electricidad estática y\nrequieren de tratamientos especiales.",
+        "Su lana acumula electricidad estática con la\nfricción. Al ser tan adorable, la gente se acerca\npara acariciarlo y se lleva un doloroso chispazo."
+    ],
+    "height": 0.6,
+    "id": 179,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "name": "Mareep",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 7.8
+}

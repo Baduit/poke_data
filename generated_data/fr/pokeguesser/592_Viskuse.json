@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il s’enfonce dans les profondeurs de la\nmer en emmenant son ennemi, qu’il ligote\navec ses bras fins comme des voiles.",
+        "Il paralyse ses proies avec du poison et\nles entraîne jusqu’à son antre, qu’on\ndit situé à 8 000 m de profondeur.",
+        "Il paralyse ses proies avec du poison et les entraîne\njusqu’à son antre, qu’on dit situé à 8 000 m de\nprofondeur.",
+        "Il enserre ses proies dans ses voiles et les entraîne\nsous la surface de la mer jusqu’à plus de 8 000 m\nde profondeur.",
+        "Il paralyse ses proies avec du poison et les entraîne jusqu’à\nson antre, qu’on dit situé à 8 000 m de profondeur.",
+        "Il enserre ses proies dans ses voiles et les entraîne\nsous la surface de la mer jusqu’à plus de 8 000 m\nde profondeur.",
+        "Il enroule ses membres en forme de voiles\nautour de ses proies, puis les entraîne dans\nles abysses.",
+        "Ses membres en forme de voiles sont couverts\nde dards venimeux invisibles qui lui servent\nà paralyser ses ennemis avant de les noyer.",
+        "Il utilise ses membres en forme de voiles\npour enlacer ses proies et les entraîner à 8 000 m\nde profondeur sous la surface de l’eau.",
+        "Certaines légendes racontent que les Viskuse\nsont les habitants d’une ancienne cité engloutie\nqui ont été changés en Pokémon."
+    ],
+    "height": 1.2,
+    "id": 592,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "name": "Viskuse",
+    "types": [
+        "Eau",
+        "Spectre"
+    ],
+    "weight": 33.0
+}

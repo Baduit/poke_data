@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Wenn es am Fortsatz an seiner Brust kratzt und\ndadurch Strom erzeugt, dann erklingt in der\nUmgebung ein Ton wie von einer Gitarre.",
+        "Dieses streitsüchtige und leicht reizbare Pokémon\nkippt abgestandenes Wasser in sich hinein und\nnimmt die darin enthaltenen Giftstoffe in sich auf."
+    ],
+    "height": 1.6,
+    "id": 849,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "name": "Riffex",
+    "types": [
+        "Elektro",
+        "Gift"
+    ],
+    "weight": 40.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Allein bei Bummelz’ Anblick werden Gegner von\nTrägheit gepackt und schlummern alsbald ein.",
+        "Solange es täglich drei Blätter zu essen bekommt,\nist es zufrieden. Abgesehen davon schläft es\n20 Stunden am Tag.",
+        "Bummelz faulenzt zwanzig Stunden pro Tag. Da es sich\nsehr wenig bewegt, braucht es auch nicht viel Nahrung.\nSeine Tagesration besteht lediglich aus drei Blättern.",
+        "Bummelz’ Herz schlägt nur ein Mal pro Minute. Dieses\nPokémon ist damit zufrieden, bewegungslos herumzulungern.\nNur ganz selten sieht man dieses Pokémon in Bewegung."
+    ],
+    "height": 0.8,
+    "id": 287,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+    "name": "Bummelz",
+    "types": [
+        "Normal"
+    ],
+    "weight": 24.0
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Cuando utiliza su poder psíquico, emite poderosas\nondas alfa que pueden destruir dispositivos.",
+        "Si usa sus habilidades, emite ondas alfa especiales\nque hacen que las máquinas fallen.",
+        "Kadabra emite unas ondas alfa muy particulares que provocan\ndolores de cabeza a los demás. Solo aquellos que tengan gran\npoder mental podrán optar a ser Entrenador de este Pokémon.",
+        "Kadabra lleva siempre una cuchara de plata en la mano, que\nusa para amplificar las ondas alfa de su cerebro. Dicen que, sin\nla cuchara, sus poderes de telequinesia se reducen a la mitad.",
+        "Hace que sucedan cosas extrañas cuando está\ncerca, como que los relojes vayan al revés.",
+        "Algunos creen que Kadabra no es más que un\njoven que perdió el control de sus poderes\npsíquicos y que acabó transformándose.",
+        "Cuando Kadabra está cerca de la pantalla de\nalgún dispositivo, en esta aparece una sombra\nominosa que se dice que solo trae desdicha.",
+        "Es capaz de doblar una cuchara de plata fijando\nla mirada y usando sus poderes psíquicos, pero\nno puede hacer lo propio con una de oro.",
+        "Sus impresionantes poderes mentales se ven\nreducidos a la mitad cuando no lleva consigo\nsu cuchara de plata.",
+        "Hace que sucedan cosas extrañas cuando está\ncerca, como que los relojes vayan al revés.",
+        "Duerme suspendido en el aire gracias a sus\npoderes psíquicos. La cola, de una flexibilidad\nextraordinaria, hace las veces de almohada.",
+        "La potencia de su telequinesis es inmensa.\nAcumula poder psíquico en la estrella de la\nfrente como preparativo de cara a su evolución."
+    ],
+    "height": 1.3,
+    "id": 64,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "name": "Kadabra",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 56.5
+}

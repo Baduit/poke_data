@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "根据最新的研究显示，\n它们腹部的花纹有着\n２０种以上不同的图案。",
+        "用腹部的花纹让对手畏缩后，\n就会快速地用身体勒住对手，\n并等着对手的心跳停止。",
+        "根据研究证实，它腹部\n那可怕的纹路大约有\n６个种类已经得到确认。",
+        "根据研究证实，它腹部\n那可怕的纹路大约有\n６个种类已经得到确认。"
+    ],
+    "height": 3.5,
+    "id": 24,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "name": "阿柏怪",
+    "types": [
+        "毒"
+    ],
+    "weight": 65.0
+}

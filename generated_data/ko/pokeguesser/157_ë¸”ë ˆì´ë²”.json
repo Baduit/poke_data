@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "분노가 정점에 달했을 때\n건드린 자를 모두 순식간에\n불태워버릴 정도로 뜨겁다.",
+        "활활 타오르는 털을 문질러\n폭풍을 일으켜서 공격하는\n큰 기술을 감추어 놓고 있다.",
+        "작열하는 불꽃으로 주변에 아지랑이를\n만들어내서 모습을 숨길 수 있다.\n불타오르며 폭발하는 바람은 모든 것을 태운다.",
+        "작열하는 불꽃으로 주변에 아지랑이를\n만들어내서 모습을 숨길 수 있다.\n불타오르며 폭발하는 바람은 모든 것을 태운다."
+    ],
+    "height": 1.7,
+    "id": 157,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "name": "블레이범",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 79.5
+}

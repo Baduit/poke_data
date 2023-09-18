@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Même les Dresseurs confirmés ont\ndu mal à faire éclore sa belle fleur.\nUn Pokémon apprécié des célébrités.",
+        "La fleur sur sa tête a des propriétés\nrelaxantes. Elle se fane si on ne s’en\noccupe pas avec attention.",
+        "La fleur sur sa tête a des propriétés relaxantes.\nElle se fane si on ne s’en occupe pas avec attention.",
+        "Même les Dresseurs confirmés ont du mal à faire\néclore sa belle fleur. Un Pokémon apprécié des\ncélébrités.",
+        "La fleur sur sa tête a des propriétés relaxantes. Elle se fane\nsi on ne s’en occupe pas avec attention.",
+        "Même les Dresseurs confirmés ont du mal à faire éclore\nsa belle fleur. Un Pokémon apprécié des célébrités.",
+        "La main la plus verte au monde ne saurait faire\néclore une fleur de Fragilady aussi belle que\ncelles qui s’épanouissent à l’état sauvage.",
+        "Dès lors qu’une Fragilady trouve un compagnon\nmâle, sa si jolie fleur se dessèche, se flétrit\net finit par se faner.",
+        "Le parfum de sa fleur calme les nerfs et apaise\nl’esprit. Il varie légèrement selon la composition\nde la terre dans laquelle Fragilady a poussé.",
+        "Sa beauté lui confère une grande popularité\nauprès des autres Pokémon. Si l’on ne prend\npas soin de la fleur sur sa tête, elle fane.",
+        "On raconte que même les meilleurs horticulteurs\nont énormément de mal à faire éclore sa fleur.",
+        "L’huile essentielle extraite de sa fleur dégage\nun parfum exceptionnel, mais elle coûte\nextrêmement cher."
+    ],
+    "height": 1.1,
+    "id": 549,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+    "name": "Fragilady",
+    "types": [
+        "Plante"
+    ],
+    "weight": 16.3
+}

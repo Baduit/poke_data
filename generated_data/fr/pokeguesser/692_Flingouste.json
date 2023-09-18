@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Sa pince projette un jet d’eau sous pression\nsuffisamment puissant pour abattre ses proies en plein\nvol.",
+        "Il est capable de transformer son corps en canon\nà eau, grâce à la combustion d’un gaz interne.\nÀ bout portant, il peut réduire un rocher en miettes.",
+        "Sa pince projette un jet d’eau sous pression suffisamment\npuissant pour abattre ses proies en plein vol.",
+        "Il est capable de transformer son corps en canon à eau,\ngrâce à la combustion d’un gaz interne. À bout portant,\nil peut réduire un rocher en miettes.",
+        "Sa pince, à la chair délicieuse, tombe parfois.\nIl se fait alors tout petit et se cache le temps\nqu’elle repousse.",
+        "Il se déplace en propulsant de l’eau par sa pince\ndroite. Il n’est cependant pas très agile et est\nincapable de nager droit.",
+        "S’il perd ses pinces au combat, d’autres\nrepoussent à la place. La chair qu’elles\ncontiennent est un mets très apprécié à Galar.",
+        "Il concentre du gaz dans sa pince droite et\nle fait exploser pour tirer une rafale d’eau\nsur ses ennemis, comme une balle de pistolet."
+    ],
+    "height": 0.5,
+    "id": 692,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "name": "Flingouste",
+    "types": [
+        "Eau"
+    ],
+    "weight": 8.3
+}

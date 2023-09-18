@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "È molto intelligente e ha l’abitudine di arrostire le\nbacche prima di mangiarle. Adora aiutare gli esseri\numani.",
+        "Vive nelle grotte vulcaniche. L’interno del ciuffo che\nha in testa brucia a una temperatura di 300 °C.",
+        "È molto intelligente e ha l’abitudine di arrostire le bacche\nprima di mangiarle. Adora aiutare gli esseri umani.",
+        "Vive nelle grotte vulcaniche. L’interno del ciuffo che ha\nin testa brucia a una temperatura di 300 °C."
+    ],
+    "height": 0.6,
+    "id": 513,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "name": "Pansear",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 11.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "부드러운 실로 된 몸은\n시간이 지나면서 단단해진다.\n진화가 임박하면 갈라지기 시작한다.",
+        "고치에 들어가 있는 사이에\n받은 공격은 진화해도\n잊지 않고 반드시 앙갚음한다.",
+        "카스쿤의 몸은 입에서 나온 가는\n실이 몸을 둘러싸 딱딱해진 것이다.\n고치 안에서 진화의 준비를 하고 있다.",
+        "움직이면 튼튼한 몸으로 진화할 수 없어서\n아무리 괴롭혀도 가만히 있는다.\n그때 느낀 아픔을 계속 잊지 않는다."
+    ],
+    "height": 0.7,
+    "id": 268,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+    "name": "카스쿤",
+    "types": [
+        "벌레"
+    ],
+    "weight": 11.5
+}

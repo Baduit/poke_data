@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Cuando oye música alegre, sus músculos se llenan de\nenergía, y no puede evitar ponerse a bailar.",
+        "El ritmo de la música alegre y animada activa las\ncélulas de Ludicolo y estas le dan fuerza.",
+        "Ludicolo empieza a bailar en cuanto oye música alegre y de\nfiesta. Dicen que este Pokémon aparece cuando oye cantar a\nlos niños que van de excursión para hacer senderismo.",
+        "Las células de Ludicolo se revolucionan y llenan de energía\ncuando oye sonidos rítmicos y alegres. En combate hace gala\ntambién de esta cantidad desmesurada de energía.",
+        "El ritmo de la música alegre estimula sus células\ny aumenta su fuerza.",
+        "Mover su cuerpo al ritmo de música festiva\npuede hacer que aumente su fuerza."
+    ],
+    "height": 1.5,
+    "id": 272,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "name": "Ludicolo",
+    "types": [
+        "Agua",
+        "Planta"
+    ],
+    "weight": 55.0
+}

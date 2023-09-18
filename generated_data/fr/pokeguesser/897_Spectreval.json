@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Il se sert de tous ses sens pour se repérer, sauf\ncelui de la vue. Un coup de ses sabots suffirait\nà séparer l’âme du corps de sa cible.",
+        "Ce Pokémon friand de silence et de solitude\ngalope à travers les ténèbres nocturnes\net aspire l’énergie vitale des êtres endormis."
+    ],
+    "height": 2.0,
+    "id": 897,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "name": "Spectreval",
+    "types": [
+        "Spectre"
+    ],
+    "weight": 44.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "再生能力很高。\n即使被鱼宝可梦咬断，\n也会在几小时内恢复原状哦。",
+        "无形的浮游生物是它的主要食物。\n会到陆地上来，但原因尚不清楚。",
+        "曾经一直背着壳。\n在背的里面有着\n又硬又薄的壳的痕迹。",
+        "受栖息地和食物的影响，\n颜色和形状会发生变化。\n在波浪平稳的岩岸有很多。",
+        "为了觅食也会登上陆地。\n海兔兽经过的地方\n会留下黏糊糊的粘液。",
+        "身体软瘫瘫的但十分强韧。\n因为它身体的软度可以\n帮助分散它所受到的冲击。"
+    ],
+    "height": 0.9,
+    "id": 423,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "name": "海兔兽",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 29.9
+}

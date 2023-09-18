@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il utilise la marque sur son ventre\npour intimider l’ennemi. Il étouffe\nl’ennemi pétrifié par la peur.",
+        "Il utilise la marque sur son ventre\npour intimider l’ennemi. Il étouffe\nl’ennemi pétrifié par la peur.",
+        "Les motifs sur son corps ressemblent à un visage\nmenaçant. Les adversaires les plus craintifs fuient à la\nseule vue de ce Pokémon.",
+        "Pour apeurer ses ennemis, il gonfle sa poitrine et\német d’étranges sons avec sa bouche.",
+        "Ce Pokémon doté d’une force extraordinaire peut étrangler\nses proies avec son corps. Il peut même écraser des tonneaux\nmétalliques. Une fois sous l’étreinte d’Arbok, il est impossible\nde lui échapper.",
+        "Ce Pokémon doté d’une force extraordinaire peut étrangler\nses proies avec son corps. Il peut même écraser des tonneaux\nmétalliques. Une fois sous l’étreinte d’Arbok, il est impossible\nde lui échapper.",
+        "Une étude récente aurait recensé plus de vingt\nmotifs différents pouvant orner le devant du\ncapuchon des Arbok.",
+        "Il intimide sa proie grâce au motif situé sur\nle devant de son capuchon, puis l’enserre\njusqu’à ce que son cœur cesse de battre.",
+        "Des études ont révélé que les marques\neffrayantes de son corps pouvaient former\nsix motifs différents.",
+        "Des études ont révélé que les marques\neffrayantes de son corps pouvaient former\nsix motifs différents."
+    ],
+    "height": 3.5,
+    "id": 24,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "name": "Arbok",
+    "types": [
+        "Poison"
+    ],
+    "weight": 65.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Sein spitz zulaufender Kiefer ist sein ganzer Stolz.\nErblickt es etwas, das sich auch nur ein bisschen\nbewegt, setzt es geradewegs zum Stoßangriff an.",
+        "Seine Bewegungsfreiheit ist stark eingeschränkt,\nwenn es vollgefressen ist. So wird es zu leichter\nBeute für Urgl, das es im Ganzen verschlingt."
+    ],
+    "height": 0.5,
+    "id": 846,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+    "name": "Pikuda",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 1.0
+}

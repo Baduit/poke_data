@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il arrache de grands arbres et fait des moulinets\navec. Il a le pouvoir de rendre la végétation\nluxuriante pour ensuite se nourrir de cette force.",
+        "C’est l’indolent gardien d’Ula-Ula.\nIl se sert de la végétation pour immobiliser ses\nennemis, avant de les empaler avec ses cornes.",
+        "Bien qu’on le connaisse comme une divinité\nprotectrice, il peut se montrer sans pitié envers\nceux qu’il considère comme ses ennemis.",
+        "Il est le gardien d’Ula-Ula et le maître\ndes plantes. Il évite les combats inutiles en\nfaisant tinter sa queue pour signaler son arrivée."
+    ],
+    "height": 1.9,
+    "id": 787,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "name": "Tokotoro",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 45.5
+}

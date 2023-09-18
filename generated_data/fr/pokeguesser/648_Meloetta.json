@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sa voix si particulière lui permet de\nchanter des mélodies qui ensorcellent\nles gens et modifient leurs émotions.",
+        "De nombreux succès musicaux ont été\ncomposés en s’inspirant des mélodies\nchantées par Meloetta.",
+        "Les mélodies enivrantes de Meloetta touchent les\nPokémon, pouvant les rendre heureux ou tristes.",
+        "Sa voix si particulière lui permet de chanter des\nmélodies qui ensorcellent les gens et modifient\nleurs émotions.",
+        "Les mélodies enivrantes de Meloetta touchent les Pokémon,\npouvant les rendre heureux ou tristes.",
+        "Sa voix si particulière lui permet de chanter des mélodies\nqui ensorcellent les gens et modifient leurs émotions."
+    ],
+    "height": 0.6,
+    "id": 648,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "name": "Meloetta",
+    "types": [
+        "Normal",
+        "Psy"
+    ],
+    "weight": 6.5
+}

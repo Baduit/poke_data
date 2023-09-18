@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Le uova che depone sono piene di felicità. Un\nassaggio rende chiunque allegro.",
+        "Questo Pokémon buono cura i Pokémon malati e li\nfa guarire. Percepisce la tristezza altrui.",
+        "Blissey percepisce la tristezza degli altri tramite la sua soffice\npelliccia. In tal caso si reca da chi è triste, ovunque si trovi,\nper condividere un Fortunuovo che riporta il sorriso\nsul volto afflitto.",
+        "Blissey percepisce la tristezza degli altri tramite la sua soffice\npelliccia. In tal caso si reca da chi è triste, ovunque si trovi,\nper condividere un Fortunuovo che riporta il sorriso\nsul volto afflitto.",
+        "Si dice che le sue uova siano ricche di felicità\ne che rendano mansueti persino i Pokémon più\naggressivi.",
+        "È in grado di percepire i sentimenti di Pokémon\ned esseri umani tramite la sua soffice pelliccia.",
+        "Le sue uova sono talmente deliziose che si dice\nrendano felice chiunque le mangi. Per questo\nhanno prezzi altissimi sul mercato.",
+        "È molto affettuoso e comprensivo. Si dice che\npossa evolversi solo da un Chansey che va\nd’amore e d’accordo con il proprio Allenatore.",
+        "Quando incontra un Pokémon indebolito,\ncondivide con lui il proprio uovo e lo accudisce\nfino alla completa guarigione.",
+        "Le sue uova sono un magico concentrato\ndi felicità. Si dice che rendano gentile\nchiunque le mangia."
+    ],
+    "height": 1.5,
+    "id": 242,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "name": "Blissey",
+    "types": [
+        "Normale"
+    ],
+    "weight": 46.8
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dieses Pokémon sieht aus, als hätte man Blüten\nan einer nahrhaften Ranke angebracht. Diese\nblühen auf und sind äußerst wohlriechend.",
+        "Ein Wellness-Bad mit seinen Blüten hilft, dem\nAlltag zu entfliehen und gut zu entspannen.\nBei vielen Menschen daher äußerst beliebt.",
+        "Mit der klebrigen Ranke an seinem Kopf pflückt\nes Blumen und schmückt sich dann mit ihnen.\nFehlt ihm sein Blütenschmuck, wird es nervös.",
+        "Es pflückt Blumen und klebt sie mithilfe eines\nSekrets an seinen Körper. Von seinen Blüten\ngeht ein Duft mit heilsamer Wirkung aus.",
+        "Mit seiner Ranke pflückt es Blumen und schmückt\ndann seinen Körper mit ihnen. Aus irgendeinem\nGrund verwelken diese nie.",
+        "Dieses Pokémon riecht äußerst angenehm.\nDa jedes Curelei andere Blumen trägt,\nunterscheiden sie sich in ihrem Duft."
+    ],
+    "height": 0.1,
+    "id": 764,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+    "name": "Curelei",
+    "types": [
+        "Fee"
+    ],
+    "weight": 0.3
+}

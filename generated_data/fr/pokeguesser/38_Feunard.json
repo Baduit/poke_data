@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "On raconte que ses neuf queues\ndétiennent un pouvoir mystique.\nIl peut vivre pendant mille ans.",
+        "On raconte que ses neuf queues\ndétiennent un pouvoir mystique.\nIl peut vivre pendant mille ans.",
+        "Il a neuf longues queues et une fourrure qui brille\ncomme de l’or. On dit qu’il peut vivre 1 000 ans.",
+        "Il est très intelligent et rancunier. Attrapez une de\nses queues et il vous maudira pour 1 000 ans.",
+        "Feunard peut envoyer un inquiétant rayon avec ses yeux\nrouge vif pour prendre le contrôle de l’esprit de son ennemi.\nOn raconte que ce Pokémon peut vivre 1 000 ans.",
+        "La légende raconte que Feunard est apparu lorsque\nneuf sorciers aux pouvoirs sacrés décidèrent de fusionner.\nCe Pokémon est très intelligent. Il comprend la langue\ndes hommes.",
+        "L’aura mystique de ce Pokémon est telle qu’une\nlégende raconte que neuf grands sages ont\nun jour fusionné pour devenir un Feunard.",
+        "On raconte que ce Pokémon vit 1 000 ans.\nSes pouvoirs lui permettent de contrôler les\nflammes à volonté pour griller ses proies.",
+        "Un Pokémon très rancunier. S’il est offensé,\nson ressentiment peut poursuivre le coupable\net sa descendance pendant un millénaire.",
+        "Un Pokémon extrêmement intelligent qui crache\ndes flammes vacillantes pour hypnotiser\net capturer ses proies.",
+        "Selon la légende, neuf sages se sont unis\net incarnés dans ce Pokémon mystique.",
+        "Selon la légende, neuf sages se sont unis\net incarnés dans ce Pokémon mystique.",
+        "On dit qu’il vit 1 000 ans et que chacune\nde ses queues a un pouvoir magique.",
+        "Il est très intelligent et rancunier.\nQuiconque attrape une de ses queues se fera\nmaudire pour 1 000 ans."
+    ],
+    "height": 1.1,
+    "id": 38,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "name": "Feunard",
+    "types": [
+        "Feu"
+    ],
+    "weight": 19.9
+}

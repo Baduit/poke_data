@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "In seinem Beutel trägt es einen runden,\neiförmigen Stein, den es Freunden gibt.",
+        "Es hält den runden, weißen Stein für ein Ei\nund kümmert sich um ihn. Es achtet sehr\nauf seine Haarlocke.",
+        "In seinem Beutel trägt es einen runden, eiförmigen Stein,\nden es Freunden gibt.",
+        "Es hält den runden, weißen Stein für ein Ei und kümmert sich\num ihn. Es achtet sehr auf seine Haarlocke.",
+        "In seinem Beutel trägt es einen runden, weißen\nStein. Freundet man sich mit ihm an, kann es\nvorkommen, dass man ihn geschenkt bekommt.",
+        "Es ist noch zu jung, um Eier zu legen. Als Ersatz\nsucht es nach runden, weißen Steinen.",
+        "Eigentlich ein sehr braves Pokémon, das aber\nfürchterlich weint und tobt, wenn man den\nrunden, weißen Stein aus seinem Beutel nimmt.",
+        "Findet es weiße, runde Steine, verstaut es sie in\nseinem Beutel. Manchmal trägt es so viele davon\nbei sich, dass es nicht mehr laufen kann.",
+        "Es imitiert Chaneira und legt einen eiförmigen\nStein in den Beutel an seinem Bauch. Dieser Stein\nist sein größter Schatz.",
+        "Seinen kostbaren, runden Stein leiht Wonneira\nnur denjenigen, die es mag. Bekommt es diesen\nnicht zurück, tobt es und weint bitterlich."
+    ],
+    "height": 0.6,
+    "id": 440,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "name": "Wonneira",
+    "types": [
+        "Normal"
+    ],
+    "weight": 24.4
+}

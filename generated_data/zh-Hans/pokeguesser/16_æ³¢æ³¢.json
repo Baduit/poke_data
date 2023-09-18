@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "性格沉着冷静，即使受到\n攻击也很少反击，只会朝\n对手扬起沙子保护自己。",
+        "性格沉着冷静，即使受到\n攻击也很少反击，只会朝\n对手扬起沙子保护自己。"
+    ],
+    "height": 0.3,
+    "id": 16,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "name": "波波",
+    "types": [
+        "一般",
+        "飞行"
+    ],
+    "weight": 1.8
+}

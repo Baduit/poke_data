@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Volando rilascia un velo di particelle brillanti.\nSi dice che rappresenti la luna crescente.",
+        "Se si dorme con piume di Cresselia, si faranno bei\nsogni. È l’incarnazione di uno spicchio di luna.",
+        "Volando rilascia un velo di particelle brillanti. Si dice che\nrappresenti la luna crescente.",
+        "Se si dorme con piume di Cresselia, si faranno bei sogni.\nÈ l’incarnazione di uno spicchio di luna."
+    ],
+    "height": 1.5,
+    "id": 488,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "name": "Cresselia",
+    "types": [
+        "Psico"
+    ],
+    "weight": 85.6
+}

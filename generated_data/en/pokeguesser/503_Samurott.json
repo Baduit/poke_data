@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "One swing of the sword incorporated in\nits armor can fell an opponent. A simple\nglare from one of them quiets everybody.",
+        "Part of the armor on its anterior legs\nbecomes a giant sword. Its cry alone\nis enough to intimidate most enemies.",
+        "In the time it takes a foe to blink,\nit can draw and sheathe the seamitars\nattached to its front legs.",
+        "In the time it takes a foe to blink,\nit can draw and sheathe the seamitars\nattached to its front legs.",
+        "In the time it takes a foe to blink, it can draw and\nsheathe the seamitars attached to its front legs.",
+        "One swing of the sword incorporated in its armor\ncan fell an opponent. A simple glare from one of\nthem quiets everybody.",
+        "In the time it takes a foe to blink, it can draw and\nsheathe the seamitars attached to its front legs.",
+        "One swing of the sword incorporated in its armor\ncan fell an opponent. A simple glare from one of\nthem quiets everybody.",
+        "Hard of heart and deft of blade, this rare form of Samurott is\na product of the Pokémon's evolution in the region of Hisui. Its\nturbulent blows crash into foes like ceaseless pounding waves."
+    ],
+    "height": 1.5,
+    "id": 503,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+    "name": "Samurott",
+    "types": [
+        "Water"
+    ],
+    "weight": 94.6
+}

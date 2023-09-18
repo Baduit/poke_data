@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Quand il s’expose à la lumière de la\nlune, ses anneaux brillent et il\nobtient un mystérieux pouvoir.",
+        "Quand il s’expose à la lumière de la\nlune, ses anneaux brillent et il\nobtient un mystérieux pouvoir.",
+        "La lumière de la lune a modifié le code génétique\nd’Évoli. Il hante les ombres en quête d’une proie.",
+        "Quand il s’expose à la lumière de la lune, ses anneaux\nbrillent et il développe de mystérieux pouvoirs.",
+        "Noctali a évolué suite à une longue exposition aux rayons\nlunaires. Il se cache dans les recoins sombres et attend\npatiemment le passage de ses ennemis. Les anneaux sur\nson corps s’illuminent au moment où il bondit.",
+        "Noctali a évolué suite à une longue exposition aux rayons\nlunaires. Il se cache dans les recoins sombres et attend\npatiemment le passage de ses ennemis. Les anneaux sur\nson corps s’illuminent au moment où il bondit.",
+        "Quand il s’énerve, ses pores sécrètent une\nsueur empoisonnée qu’il envoie dans les yeux\nde ses ennemis.",
+        "Son pelage noir lui permet de se fondre dans\nla nuit. Il attend que sa proie baisse sa garde\npour l’attaquer en visant la gorge.",
+        "Les larges pupilles de ce Pokémon nocturne\nlui permettent de distinguer parfaitement ses\nproies même dans l’obscurité la plus profonde.",
+        "Il se cache dans la pénombre pour chasser.\nLes anneaux sur son corps brillent d’une aura\nlugubre quand il passe à l’attaque.",
+        "Quand il s’énerve, ses pores sécrètent une sueur\nempoisonnée qu’il projette dans les yeux\nde ses ennemis.",
+        "Les nuits de pleine lune, ou s’il est agité,\nles anneaux sur sa peau se mettent à briller."
+    ],
+    "height": 1.0,
+    "id": 197,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "name": "Noctali",
+    "types": [
+        "Ténèbres"
+    ],
+    "weight": 27.0
+}

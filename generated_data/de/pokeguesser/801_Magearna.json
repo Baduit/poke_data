@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Dieses Pokémon wurde vor über 500 Jahren\nkünstlich erschaffen. Es versteht die Sprache\nder Menschen, ohne sie selbst zu sprechen.",
+        "Sein mechanischer Körper ist nur ein Gefäß.\nDas eigentliche Pokémon ist eine künstlich\nerschaffene Seele namens „Seelenherz“.",
+        "Es synchronisiert sein Bewusstsein mit dem\nanderer, um ihre Gefühle zu verstehen. Dadurch\nfällt es ihm leicht, Menschen zu helfen.",
+        "Es wurde vor ungefähr 500 Jahren von einem\nWissenschaftler erschaffen. Sein eigentlicher\nKörper ist der als „Seelenherz“ bezeichnete Teil."
+    ],
+    "height": 1.0,
+    "id": 801,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+    "name": "Magearna",
+    "types": [
+        "Stahl",
+        "Fee"
+    ],
+    "weight": 80.5
+}

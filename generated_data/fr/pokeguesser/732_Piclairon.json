@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il garde toujours dans son bec les pépins des\nfruits qu’il mange, ce qui lui permet de faire feu\ndès qu’un ennemi se présente.",
+        "En déformant son bec, il peut produire une\nribambelle de sons différents, plus bruyants les\nuns que les autres. Le cauchemar des voisins.",
+        "Ce Pokémon est capable de produire plus\nde cent sons différents en recourbant le bout\nde son bec.",
+        "Il crache violemment les noyaux des Baies\nqu’il a mangées. Ils s’éparpillent au sol\net donnent naissance à de nouvelles plantes."
+    ],
+    "height": 0.6,
+    "id": 732,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "name": "Piclairon",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 14.8
+}

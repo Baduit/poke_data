@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Quand ils se tiennent par la main,\nleurs cerveaux forment un réseau qui\ndémultiplie leurs pouvoirs psychiques.",
+        "Il combat avec ses bras assez puissants\npour broyer des rochers.\nC’est un Pokémon très intelligent.",
+        "Ses bras, faits d’une matière conduisant ses pouvoirs\npsychiques, sont assez puissants pour broyer des\nrochers.",
+        "Quand ils se tiennent par la main, leurs cerveaux\nforment un réseau qui démultiplie leurs pouvoirs\npsychiques.",
+        "Ses bras, faits d’une matière conduisant ses pouvoirs\npsychiques, sont assez puissants pour broyer des rochers.",
+        "Quand ils se tiennent par la main, leurs cerveaux forment\nun réseau qui démultiplie leurs pouvoirs psychiques.",
+        "Fier d’avoir des bras, il préfère s’en servir\npour assommer ses adversaires plutôt que\nd’avoir recours à ses pouvoirs psychiques.",
+        "S’il ne s’agissait pas d’un poison violent que seul\nSymbios peut boire, son curieux fluide pourrait,\nselon les dires, rendre plus intelligent."
+    ],
+    "height": 1.0,
+    "id": 579,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+    "name": "Symbios",
+    "types": [
+        "Psy"
+    ],
+    "weight": 20.1
+}

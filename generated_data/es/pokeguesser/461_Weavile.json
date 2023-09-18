@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Vive en zonas nevadas. Deja marcas en los árboles\ncon sus garras para comunicarse con sus compañeros.",
+        "Viven en zonas frías y forman grupos de cuatro o\ncinco para cazar con gran coordinación.",
+        "Vive en zonas nevadas. Deja marcas en los árboles con sus\ngarras para comunicarse con sus compañeros.",
+        "Viven en zonas frías y forman grupos de cuatro o cinco para\ncazar con gran coordinación.",
+        "Siempre van en grupos de cuatro o cinco. Dejan\nmarcas en rocas y árboles al cazar para\ncoordinarse con sus compañeros.",
+        "Habita en lugares fríos. En Alola se alimenta\nprincipalmente de Vulpix y Sandshrew, presas\nque reparte entre sus congéneres.",
+        "Trabaja en parejas. Uno pone la zancadilla a un\nSandshrew y, cuando está boca arriba, el otro\nWeavile lo ataca con sus afiladas garras.",
+        "Se ha vuelto tan astuto que las disputas por las\npresas obtenidas son cosa del pasado. Quien se\nve golpeado por sus garras sufre congelaciones.",
+        "Cazan en grupo, lo que les permite abatir con\nfacilidad presas de gran tamaño, como los\nMamoswine.",
+        "Se comunican mediante marcas que tallan con\nsus garras. Se cree que tienen un repertorio de\nmás de 500."
+    ],
+    "height": 1.1,
+    "id": 461,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "name": "Weavile",
+    "types": [
+        "Siniestro",
+        "Hielo"
+    ],
+    "weight": 34.0
+}

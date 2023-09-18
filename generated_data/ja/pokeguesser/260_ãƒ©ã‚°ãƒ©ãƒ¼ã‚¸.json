@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "岩の　ように　硬い　腕を\n一振り　するだけで　巨大な　岩を\nコナゴナに　砕くぞ。",
+        "大型船を　引っ張って　泳ぐ\nパワーの　持ち主。太い　腕の\n一振りで　相手を　たたきのめす。",
+        "重さ　１トン以上　ある　岩の　塊を\n軽々　引っ張る　パワーを　持つ　ポケモンだ。\n濁った　水中も　見通す　視力。",
+        "ラグラージは　波音や　潮風の　わずかな\n違いを　ヒレで　感じ　嵐を　予感する。\n嵐になると　岩を　積み上げ　巣を　守る。"
+    ],
+    "height": 1.5,
+    "id": 260,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "name": "ラグラージ",
+    "types": [
+        "みず",
+        "じめん"
+    ],
+    "weight": 81.9
+}

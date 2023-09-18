@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Aus seinem porösen Schneckengehäuse sprudeln\nFeuerfontänen, die seinen Körper durchfluten.",
+        "Sein Körper ist heißer als Lava und wogt stets.\nManchmal schießen Flammen aus seinem Haus.",
+        "Magcargos Schale ist eigentlich seine Haut, die erhärtet\nist, als es auskühlte. Seine Schale ist sehr spröde und\nzerbrechlich. Schon bei einer leichten Berührung bricht sie\nauseinander. Dann muss es ein Bad in Magma nehmen.",
+        "Magcargos Körpertemperatur liegt bei etwa 10 000 °C.\nDieses Pokémon bringt Wasser sofort zum Verdampfen.\nWenn dieses Pokémon im Regen steht, werden die Tropfen\naugenblicklich zu Dampf und es entsteht dichter Nebel."
+    ],
+    "height": 0.8,
+    "id": 219,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+    "name": "Magcargo",
+    "types": [
+        "Feuer",
+        "Gestein"
+    ],
+    "weight": 55.0
+}

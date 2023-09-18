@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Por la superficie de su piel corre la electricidad. En la\noscuridad, su cuerpo se torna blanquecino.",
+        "Le encanta alimentarse de alta tensión. A veces,\naparece cerca de centrales eléctricas y zonas\nsimilares.",
+        "Al desatarse una tormenta, bandadas de estos Pokémon se\nenfrentan entre sí para ver quién alcanza antes sitios altos en\nlos que suelan caer rayos. Hay ciudades que usan Electabuzz\nen lugar de pararrayos.",
+        "Al desatarse una tormenta, bandadas de estos Pokémon se\nenfrentan entre sí para ver quién alcanza antes sitios altos en\nlos que suelan caer rayos. Hay ciudades que usan Electabuzz\nen lugar de pararrayos.",
+        "La mitad de los apagones los provoca este\nPokémon, pues suele merodear por las centrales\neléctricas para alimentarse de electricidad.",
+        "La cantidad de electricidad que descarga su\ncuerpo supera con creces la cantidad que\nconsume para alimentarse.",
+        "Su cuerpo entero emite energía eléctrica. Hace\ngirar los brazos cuales aspas de molino para\ncargar sus puñetazos con electricidad.",
+        "Cuando se produce un apagón, a menudo se\nculpa a este Pokémon, aunque en realidad el\nfallo haya sido de la compañía eléctrica.",
+        "Cuando hay un apagón, es señal inequívoca de\nque este Pokémon se ha comido la energía de\nuna central eléctrica.",
+        "Cuando hay un apagón, es señal inequívoca de\nque este Pokémon se ha comido la energía de\nuna central eléctrica.",
+        "Es habitual que las centrales eléctricas cuenten\ncon Pokémon de tipo Tierra para hacer frente a\nlos Electabuzz ávidos de electricidad.",
+        "Al desatarse una tormenta, se reúnen en torno\na los árboles de mayor altura y esperan inmóviles\na que caiga algún rayo."
+    ],
+    "height": 1.1,
+    "id": 125,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "name": "Electabuzz",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Quand il a peur, il pleure des larmes contenant\nune substance lacrymogène d’une puissance\néquivalente à celle de cent oignons.",
+        "Sa peau change de couleur et le rend invisible\nquand elle est mouillée, comme un camouflage."
+    ],
+    "height": 0.3,
+    "id": 816,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+    "name": "Larméléon",
+    "types": [
+        "Eau"
+    ],
+    "weight": 4.0
+}

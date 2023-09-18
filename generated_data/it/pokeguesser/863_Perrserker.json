@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "La pelliccia sulla testa si è indurita ed è\ndiventata simile a un elmetto di ferro.\nHa una natura molto combattiva.",
+        "Si è evoluto dopo aver passato giorni interi\na lottare e ha sviluppato degli artigli che,\nuna volta sfoderati, diventano temibili pugnali."
+    ],
+    "height": 0.8,
+    "id": 863,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "name": "Perrserker",
+    "types": [
+        "Acciaio"
+    ],
+    "weight": 28.0
+}

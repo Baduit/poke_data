@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "I Basculin con la linea rossa e quelli con la linea\nblu sono molto violenti e litigano spesso.",
+        "I Basculin con la linea rossa e quelli con la linea blu\nnon vanno d’accordo ma, chissà perché, in gruppo\nsi mescolano.",
+        "I Basculin con la linea rossa e quelli con la linea blu sono\nmolto violenti e litigano spesso.",
+        "I Basculin con la linea rossa e quelli con la linea blu non vanno\nd’accordo ma, chissà perché, in gruppo si mescolano.",
+        "È un Pokémon particolarmente violento e feroce.\nI Basculin con la linea rossa e quelli con la linea\nblu litigano spesso per il territorio.",
+        "I Basculin sono così violenti che, quando\narrivano in gruppo in un lago, tutti i Pokémon\nspariscono a parte i Corphish e i Crawdaunt.",
+        "È popolare tra i pescatori per le sue lotte audaci.\nContinua a proliferare perché numerosi esemplari\nvengono rilasciati nei laghi senza permesso.",
+        "Utilizzati in passato in cucina, i Basculin Forma\nLinearossa erano ritenuti adatti ai giovani\nper la loro carne ad alto contenuto di grassi."
+    ],
+    "height": 1.0,
+    "id": 550,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "name": "Basculin",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 18.0
+}

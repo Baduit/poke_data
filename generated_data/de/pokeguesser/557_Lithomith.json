@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Höhlt sich einen brauchbaren Stein aus, um darin\nzu wohnen. Geht er zu Bruch, ruht es nicht, bis es\neinen neuen findet.",
+        "Sobald es einen angemessen großen Stein findet,\nhöhlt es ihn mit einem ätzenden Sekret aus und\nkriecht hinein.",
+        "Höhlt sich einen brauchbaren Stein aus, um darin zu wohnen.\nGeht er zu Bruch, ruht es nicht, bis es einen neuen findet.",
+        "Sobald es einen angemessen großen Stein findet, höhlt es ihn\nmit einem ätzenden Sekret aus und kriecht hinein.",
+        "Lithomith sucht sich einen Stein, der ihm gefällt,\nund höhlt ihn aus, um darin zu wohnen. Es ist ein\nnatürlicher Feind von Kiesling und Klonkett.",
+        "Wenn es keinen Stein findet, der sich als Haus\neignet, lässt es sich manchmal in den Öffnungen\nim Körper eines Hippoterus’ nieder."
+    ],
+    "height": 0.3,
+    "id": 557,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "name": "Lithomith",
+    "types": [
+        "Käfer",
+        "Gestein"
+    ],
+    "weight": 14.5
+}

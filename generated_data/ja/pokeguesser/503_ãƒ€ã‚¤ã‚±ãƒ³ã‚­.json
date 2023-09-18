@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "敵が　瞬きする　あいだに\n前足に　ついた　アシガタナで\n相手を　切りつけ　元に戻せる。",
+        "よろいに　仕込まれた　剣の　一振りで\n相手を　倒す。\nひとにらみで　敵を　黙らせる。",
+        "敵が　瞬きする　あいだに\n前足に　ついた　アシガタナで\n相手を　切りつけ　元に戻せる。",
+        "よろいに　仕込まれた　剣の　一振りで\n相手を　倒す。\nひとにらみで　敵を　黙らせる。"
+    ],
+    "height": 1.5,
+    "id": 503,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+    "name": "ダイケンキ",
+    "types": [
+        "みず"
+    ],
+    "weight": 94.6
+}

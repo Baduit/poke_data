@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Il se protège des décharges grâce\nà sa queue qui dissipe l’électricité\ndans le sol.",
+        "Il se protège des décharges grâce\nà sa queue qui dissipe l’électricité\ndans le sol.",
+        "Quand il se charge en électricité, ses muscles se\ncontractent et il devient plus agressif.",
+        "Il peut terrasser des ennemis bien plus imposants en\nlibérant une décharge de 100 000 V.",
+        "Si ses joues contiennent trop d’électricité, Raichu plante\nsa queue dans le sol pour se décharger. On trouve des\nparcelles de terre brûlée à proximité du nid de ce Pokémon.",
+        "Ce Pokémon libère un faible champ électrique tout autour\nde son corps, ce qui le rend légèrement lumineux dans le noir.\nRaichu plante sa queue dans le sol pour évacuer de\nl’électricité.",
+        "Ce Pokémon peut accumuler jusqu’à\n100 000 volts. Il peut ainsi assommer\nun éléphant juste en le touchant.",
+        "Il devient plus agressif au fur et à mesure qu’il\naccumule de l’électricité. Même son Dresseur\ndoit faire attention à ne pas se faire attaquer.",
+        "Plus il est chargé en électricité, plus il se montre\nagressif. D’aucuns pensent que ce courant\nélectrique le stresse.",
+        "Ce Pokémon est très rare, car la plupart\ndes Dresseurs lui préfèrent Pikachu.",
+        "Il devient agressif quand il emmagasine\nde l’électricité. Il brille alors dans le noir.",
+        "Il devient agressif quand il emmagasine\nde l’électricité. Il brille alors dans le noir.",
+        "Sa longue queue agit comme une prise de terre\nqui l’empêche d’être affecté par le courant\nà haute tension accumulé dans son corps.",
+        "Si ses joues sont à court d’énergie, il lève la queue\net capte l’électricité contenue dans l’atmosphère."
+    ],
+    "height": 0.8,
+    "id": 26,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "name": "Raichu",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 30.0
+}

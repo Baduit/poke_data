@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "It can dig through the ground\nat a speed of 30 mph. It could give\na car running aboveground a good race.",
+        "It makes its way swiftly through the soil\nby putting both claws together and\nrotating at high speed.",
+        "By spinning its body, it can dig\nstraight through the ground\nat a speed of 30 mph.",
+        "By spinning its body, it can dig\nstraight through the ground\nat a speed of 30 mph.",
+        "It makes its way swiftly through the soil by putting\nboth claws together and rotating at high speed.",
+        "By spinning its body, it can dig straight through the\nground at a speed of 30 mph.",
+        "It makes its way swiftly through the soil by putting\nboth claws together and rotating at high speed.",
+        "By spinning its body, it can dig straight through the\nground at a speed of 30 mph.",
+        "It brings its claws together and whirls around at\nhigh speed before rushing toward its prey.",
+        "It’s a digger, using its claws to burrow through the\nground. It causes damage to vegetable crops, so\nmany farmers have little love for it."
+    ],
+    "height": 0.3,
+    "id": 529,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "name": "Drilbur",
+    "types": [
+        "Ground"
+    ],
+    "weight": 8.5
+}

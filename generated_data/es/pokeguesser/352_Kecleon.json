@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Puede mudar el color de su cuerpo a voluntad, pero el\ndibujo en zigzag de su panza nunca desaparece.",
+        "Acecha a sus presas adaptando sus colores a los del\npaisaje, pero los dibujos de su panza nunca cambian.",
+        "Kecleon puede alterar la pigmentación de la piel para\nmezclarse con su entorno. Lo único que no es capaz de\ncambiar es el trazado en zigzag que tiene en la panza.",
+        "Kecleon modifica la coloración de la piel para camuflarse en el\nmedio en el que esté. Así, puede acercarse a hurtadillas a su\nenemigo sin que se dé cuenta y lanzarle la larga y elástica\nlengua que tiene para atraparlo por sorpresa.",
+        "Cambia de color para fundirse con el paisaje,\npero, si pasa desapercibido demasiado tiempo,\nse enfurruña y no vuelve a hacerse visible.",
+        "Incluso cuando no se está mimetizando, el color\nde su cuerpo cambia según cómo se encuentre.\nUn color más intenso indica mayor vitalidad."
+    ],
+    "height": 1.0,
+    "id": 352,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "name": "Kecleon",
+    "types": [
+        "Normal"
+    ],
+    "weight": 22.0
+}

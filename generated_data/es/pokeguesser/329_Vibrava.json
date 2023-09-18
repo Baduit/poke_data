@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Al agitar a gran velocidad ambas alas, emite ondas\nultrasónicas que provocan fuertes dolores de cabeza.",
+        "Genera ondas ultrasónicas batiendo las alas\nviolentamente. Cuando debilita a su presa, la\ndestruye con ácido.",
+        "Para debilitar a su víctima, Vibrava genera ondas ultrasónicas\nhaciendo vibrar con fuerza las alas. Las ondas que crea son\ntan fuertes que pueden dar dolor de cabeza a la gente.",
+        "Vibrava no ha desarrollado las alas del todo. Más que para\nvolar y recorrer largas distancias, le resultan útiles para\ngenerar ondas ultrasónicas al hacer que vibren.",
+        "Las alas de Vibrava están subdesarrolladas.\nMás que para volar, las utiliza para crear ondas\nultrasónicas con las que ataca a sus enemigos.",
+        "Para terminar de desarrollar sus alas, se nutre\na diario de un gran número de presas, a las que\ndisuelve con ácido antes de devorarlas.",
+        "Emite ondas ultrasónicas cuando hace vibrar\nsus alas. Entierra bajo la arena a las presas que\nha dejado inconscientes para conservarlas.",
+        "Genera raras ondas sónicas batiendo las alas.\nEl estruendo es tal que sus Entrenadores\nnecesitan tapones para los oídos.",
+        "Al agitar sus alas a gran velocidad, emite ondas\nultrasónicas que provocan fuertes dolores de\ncabeza.",
+        "Para terminar de desarrollar sus alas, se nutre\na diario de un gran número de presas, a las que\ndisuelve con ácido antes de devorarlas."
+    ],
+    "height": 1.1,
+    "id": 329,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "name": "Vibrava",
+    "types": [
+        "Tierra",
+        "Dragón"
+    ],
+    "weight": 15.3
+}

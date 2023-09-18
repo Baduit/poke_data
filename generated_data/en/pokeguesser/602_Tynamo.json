@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "While one alone doesn’t have much power,\na chain of many Tynamo can be as\npowerful as lightning.",
+        "These Pokémon move in schools. They\nhave an electricity-generating organ, so\nthey discharge electricity if in danger.",
+        "One alone can emit only a trickle of\nelectricity, so a group of them gathers\nto unleash a powerful electric shock.",
+        "One alone can emit only a trickle of\nelectricity, so a group of them gathers\nto unleash a powerful electric shock.",
+        "While one alone doesn’t have much power, a chain\nof many Tynamo can be as powerful as lightning.",
+        "One alone can emit only a trickle of electricity,\nso a group of them gathers to unleash a powerful\nelectric shock.",
+        "While one alone doesn’t have much power, a chain\nof many Tynamo can be as powerful as lightning.",
+        "One alone can emit only a trickle of electricity,\nso a group of them gathers to unleash a powerful\nelectric shock."
+    ],
+    "height": 0.2,
+    "id": 602,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "name": "Tynamo",
+    "types": [
+        "Electric"
+    ],
+    "weight": 0.3
+}

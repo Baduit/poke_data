@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il a été recréé à partir d’un fossile\npréhistorique. Il peut plonger jusqu’à\n1 000 mètres de profondeur.",
+        "Il nageait dans les océans il y a 100\nmillions d’années. Il lui arrive de rallier\nla terre ferme pour attaquer ses proies.",
+        "Il nageait dans les océans il y a 100 millions\nd’années. Il lui arrive de rallier la terre ferme pour\nattaquer ses proies.",
+        "Il a été recréé à partir d’un fossile préhistorique.\nIl peut plonger jusqu’à 1 000 mètres de profondeur.",
+        "Il nageait dans les océans il y a 100 millions d’années.\nIl lui arrive de rallier la terre ferme pour attaquer ses proies.",
+        "Il a été recréé à partir d’un fossile préhistorique. Il peut\nplonger jusqu’à 1 000 mètres de profondeur.",
+        "L’étude de sa structure squelettique suggère\nqu’il était autrefois capable de plonger\njusqu’à 1 000 m de profondeur.",
+        "Ancêtre présumé de nombreuses espèces de\nPokémon tortues, il peuplait les mers chaudes\ndu monde il y a environ 100 millions d’années.",
+        "Il a été recréé à partir d’un fossile préhistorique.\nIl vivait autrefois dans la mer, mais avait su\ns’adapter pour chasser aussi sur la terre ferme.",
+        "Son terrain de chasse s’étendait sur un très\nvaste territoire, de la terre ferme jusqu’à\n1 000 m sous les mers.",
+        "Il vivait dans la mer pendant l’ère préhistorique.\nIl lui arrive de s’aventurer sur la terre ferme pour\nchasser, bien qu’il ne puisse que ramper.",
+        "Ancêtre présumé de nombreuses espèces\nde Pokémon tortues, il a été restauré à partir\nd’un fossile."
+    ],
+    "height": 0.7,
+    "id": 564,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "name": "Carapagos",
+    "types": [
+        "Eau",
+        "Roche"
+    ],
+    "weight": 16.5
+}

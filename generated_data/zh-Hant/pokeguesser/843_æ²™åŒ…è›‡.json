@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "一邊挖洞一邊把吃掉的\n沙子儲存在頸部的囊裡。\n囊裡面能裝進８公斤的沙子。",
+        "會從鼻孔噴射出沙子，\n趁敵人看不清的時候\n躲進地底下藏身。"
+    ],
+    "height": 2.2,
+    "id": 843,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "name": "沙包蛇",
+    "types": [
+        "地面"
+    ],
+    "weight": 7.6
+}

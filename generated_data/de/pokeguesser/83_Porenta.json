@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Dieses Pokémon nutzt eine Lauchstange als Waffe.\nEs setzt sie wie ein Schwert ein.",
+        "Es läuft stets mit einer Lauchstange umher.\nDamit baut es sein Nest.",
+        "Porenta trifft man immer mit einer Lauchstange an. Es gibt\ngute und schlechte Stangen. Dieses Pokémon kämpft mit\nHilfe seiner Stange gegen seine Gegner.",
+        "Porenta trifft man immer mit einem Pflanzenstängel an,\ndessen Qualität unterschiedlich ausfallen kann.\nVon diesem Pokémon wird behauptet, es kämpfe gegen\ndie eigenen Artgenossen um die besten Stängel.",
+        "Sie leben in Gebieten, in denen stangenförmige\nGewächse gedeihen. Da diese seltener werden,\nscheint es auch weniger Porenta zu geben.",
+        "Sie leben in Gebieten, in denen stangenförmige\nGewächse gedeihen. Da diese seltener werden,\nscheint es auch weniger Porenta zu geben.",
+        "Unter seinem Flügel trägt es eine Lauchstange,\ndie es wie ein Schwert gegen Feinde einsetzt und\nwelche ihm im Bedarfsfall auch als Nahrung dient.",
+        "Im Kampf verwendet es eine Lauchstange als\nWaffe. Es gibt verschiedene Meinungen dazu,\nwie diese korrekt zu schwingen sei."
+    ],
+    "height": 0.8,
+    "id": 83,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "name": "Porenta",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Su fuerza es tal que, de un empellón, puede hacer\nvolcar un tanque de 50 toneladas. Protege a sus\naliados cuando hace de escudo.",
+        "Cuando adopta una postura defensiva juntando\nambos puños delante de la cara, es capaz de\nresistir incluso el impacto directo de una bomba.",
+        "Su fuerza es tal que, de un empellón, puede hacer volcar un\ntanque de 50 toneladas. Protege a sus aliados cuando hace\nde escudo.",
+        "Cuando adopta una postura defensiva juntando ambos puños\ndelante de la cara, es capaz de resistir incluso el impacto\ndirecto de una bomba."
+    ],
+    "height": 1.6,
+    "id": 652,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "name": "Chesnaught",
+    "types": [
+        "Planta",
+        "Lucha"
+    ],
+    "weight": 90.0
+}

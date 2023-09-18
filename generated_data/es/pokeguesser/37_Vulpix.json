@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Cuando nace solo tiene una cola, pero a medida que\ncrece, esta se va dividiendo desde la punta.",
+        "De pequeño, tiene seis colas increíbles. A medida que\ncrece, le van saliendo más.",
+        "Al nacer, Vulpix tiene una cola blanca que se divide en seis si\nrecibe cariño por parte de su Entrenador. Las seis colas se le\nrizan de forma majestuosa.",
+        "En el interior del cuerpo de Vulpix arde una llama que nunca\nse extingue. Durante el día, cuando suben las temperaturas,\neste Pokémon libera llamas por la boca para evitar\nrecalentarse.",
+        "Es muy popular por su pelaje y sus colas. A\nmedida que crece, las colas se dividen y\naumentan en número.",
+        "Lanza llamas por la boca que se asemejan\na fuegos fatuos, por lo que algunos las\nconfunden con fantasmas.",
+        "Es muy popular por sus hermosas colas. Hay\nque cepillárselas a menudo o, de lo contrario,\nse le hacen enredos todo el rato.",
+        "Es capaz de controlar bolas de fuego con las\nque atrapa a sus presas. Le coge apego a quien\nlo críe desde cachorro, cual Pokémon Perrito.",
+        "Sus colas y pelaje son preciosos. A medida que\ncrece, las colas se dividen y forman otras\nnuevas.",
+        "Sus colas y pelaje son preciosos. A medida que\ncrece, las colas se dividen y forman otras\nnuevas.",
+        "De pequeño, tiene seis colas de gran belleza.\nA medida que crece, le van saliendo más.",
+        "Su pelaje se va volviendo más suave, lustroso\ny bello a medida que le crecen las seis colas.\nAl abrazarlo, emana una ligera calidez."
+    ],
+    "height": 0.6,
+    "id": 37,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "name": "Vulpix",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 9.9
+}

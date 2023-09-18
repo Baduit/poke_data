@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Mit der -150 °C kalten Luft, die den\ndiamantförmigen Kristallen auf seinem\nKörper entströmt, friert es Gegner ein.",
+        "Es nutzt seine diamantförmigen Kristalle, um im Nu\neine Wand aus Eis zur Abwehr gegnerischer Angriffe\nzu erschaffen.",
+        "Mit der -150 °C kalten Luft, die den diamantförmigen Kristallen\nauf seinem Körper entströmt, friert es Gegner ein.",
+        "Es nutzt seine diamantförmigen Kristalle, um im Nu eine Wand\naus Eis zur Abwehr gegnerischer Angriffe zu erschaffen.",
+        "Kürzlich sorgte der Fund eines in einem Eisberg\neingeschlossenen, perfekt konservierten\nAmagargas aus der Urzeit für Schlagzeilen.",
+        "Die Oberfläche seines Körpers ist -150 °C kalt.\nFür gewöhnlich ist es ein sehr besonnenes und\nsanftmütiges Pokémon.",
+        "Es wurde aus einem Fossil zurückverwandelt.\nWenn es seinen Ruf erschallen lässt, sollen\nPolarlichter am Nachthimmel erscheinen.",
+        "Wenn es von wildem Zorn erfüllt ist, entströmt\nihm gewaltige Kälte, die seine ganze Umgebung\neinfriert."
+    ],
+    "height": 2.7,
+    "id": 699,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "name": "Amagarga",
+    "types": [
+        "Gestein",
+        "Eis"
+    ],
+    "weight": 225.0
+}

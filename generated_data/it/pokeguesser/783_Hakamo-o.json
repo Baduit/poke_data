@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Piomba sulla preda con un urlo possente.\nLe sue squame riducono a fettine i nemici.",
+        "Cambia frequentemente le scaglie, che\ndiventano più dure e taglienti ogni volta\nche ricrescono.",
+        "Sbatte rumorosamente le sue squame tra di\nloro e, quando il ritmo raggiunge l’apice, si lancia\nall’attacco.",
+        "Le pentole e padelle fabbricate con le squame\nche perde sono apprezzate per la loro praticità\ne perché assicurano una cottura uniforme.",
+        "Come prova della sua forza, mostra orgoglioso\nall’avversario sconfitto le ferite sul suo corpo\ne le squame mancanti.",
+        "Fa risuonare le squame ed emette un possente\nurlo, per poi lanciarsi sull’avversario e farlo a\nfettine con i suoi artigli affilati."
+    ],
+    "height": 1.2,
+    "id": 783,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "name": "Hakamo-o",
+    "types": [
+        "Drago",
+        "Lotta"
+    ],
+    "weight": 47.0
+}

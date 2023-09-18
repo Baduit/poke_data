@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It aimed for the top but got lost and ended up\non a snowy mountain. Being forced to endure\nthe cold, this Pokémon evolved and grew fur.",
+        "It just throws punches indiscriminately. In times\nof desperation, it can lop off its own pincers\nand fire them like rockets.",
+        "It stores coldness in its pincers and pummels its\nfoes. It can even smash thick walls of ice\nto bits!",
+        "Before it stops to think, it just starts pummeling.\nThere are records of its turning back\navalanches with a flurry of punches."
+    ],
+    "height": 1.7,
+    "id": 740,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+    "name": "Crabominable",
+    "types": [
+        "Fighting",
+        "Ice"
+    ],
+    "weight": 180.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Si muove appena, ma è vivo. Sembra che sviluppi\npoteri paranormali mentre se ne sta rintanato nel\nsuo guscio senza bere né mangiare.",
+        "Continua a crescere dentro il suo guscio.\nIn attesa dell’evoluzione, percepisce il mondo\nesterno grazie ai suoi poteri psichici."
+    ],
+    "height": 0.4,
+    "id": 825,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "name": "Dottler",
+    "types": [
+        "Coleottero",
+        "Psico"
+    ],
+    "weight": 19.5
+}

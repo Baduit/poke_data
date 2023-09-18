@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "온몸이 근육덩어리다.\n촉수를 사용해서 펼치는\n조르기 기술의 위력은 무시무시하다.",
+        "자신의 실력을 시험하기 위해\n육지로 올라가 대전 상대를 찾는다.\n싸움이 끝나면 바다로 돌아간다."
+    ],
+    "height": 1.6,
+    "id": 853,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "name": "케오퍼스",
+    "types": [
+        "격투"
+    ],
+    "weight": 39.0
+}

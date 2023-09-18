@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il dissimule son apparence aux autres en se\ntapissant dans l’ombre. Son existence pourrait\nse révéler n’être qu’une fable.",
+        "En se glissant dans l’ombre de son adversaire,\nil peut copier ses mouvements et ses forces.\nC’est un Pokémon au caractère timide et craintif.",
+        "Il se fond dans l’ombre de son adversaire\npour imiter sa force et ses attaques.\nLa copie surpasse alors l’original.",
+        "Il se terre dans les ombres des humains\net des Pokémon. Il peut lire dans l’esprit\nde ses hôtes et copier leurs habilités.",
+        "Il s’est glissé dans l’ombre d’un maître du kung-fu.\nIl s’est aussi approprié sa botte secrète ultime\nen copiant ses mouvements.",
+        "Ce Pokémon ayant la capacité de se dissimuler\ndans les ombres, il est resté très longtemps\ncaché aux yeux du monde."
+    ],
+    "height": 0.7,
+    "id": 802,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "name": "Marshadow",
+    "types": [
+        "Combat",
+        "Spectre"
+    ],
+    "weight": 22.2
+}

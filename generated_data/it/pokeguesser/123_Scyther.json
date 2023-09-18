@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Fa a pezzi le prede con gli artigli spaventosamente\naffilati. Solo raramente spiega le ali per alzarsi in volo.",
+        "Si fa strada tra l’erba grazie alle lame affilate,\nmuovendosi troppo velocemente per l’occhio umano.",
+        "Scyther è veloce come una saetta. La sua rapidità migliora\nl’efficacia delle due falci sulle zampe anteriori.\nInfatti riesce a tranciare con un colpo secco persino\nun tronco secolare.",
+        "Scyther è veloce come una saetta. La sua rapidità migliora\nl’efficacia delle due falci sulle zampe anteriori.\nInfatti riesce a tranciare con un colpo secco persino\nun tronco secolare.",
+        "Confonde la sua preda muovendosi veloce\ncome un ninja e in pochi attimi la fa a pezzi\ncon le sue falci.",
+        "I giovani Scyther vivono in gruppi nei recessi\ndelle montagne, dove si esercitano a lottare\ncon le falci e a muoversi rapidissimi.",
+        "Usa le due falci affilate sia come armi durante\nla lotta, sia per sfilettare le prede prima di\nmangiarle.",
+        "I suoi rapidissimi movimenti gli permettono\ndi tagliare persino l’aria. Ad Alola è molto\npopolare ed è comunemente chiamato “ninja”.",
+        "Salta fuori all’improvviso dall’erba alta per fare\na fettine le prede con le sue falci affilate.\nI suoi movimenti ricordano quelli di un ninja.",
+        "Salta fuori all’improvviso dall’erba alta per fare\na fettine le prede con le sue falci affilate.\nI suoi movimenti ricordano quelli di un ninja.",
+        "Ad ogni lotta che affronta le sue falci diventano\npiù affilate. Può tranciare in due grossi tronchi\ncon un solo colpo.",
+        "Se ci si imbatte in una zona della foresta con\nmolti alberi abbattuti, si tratta del territorio\ndi uno Scyther."
+    ],
+    "height": 1.5,
+    "id": 123,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "name": "Scyther",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 56.0
+}

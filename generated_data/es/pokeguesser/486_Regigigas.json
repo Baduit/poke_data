@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se dice que usó rocas, magma y un hielo especial de\nmontaña para crear Pokémon con su aspecto.",
+        "Una antigua leyenda afirma que este Pokémon\narrastraba continentes con cuerdas.",
+        "Se dice que usó rocas, magma y un hielo especial de montaña\npara crear Pokémon con su aspecto.",
+        "Una antigua leyenda afirma que este Pokémon arrastraba\ncontinentes con cuerdas.",
+        "Existen leyendas en todo el mundo que narran\ncomo Regigigas creó otros Pokémon a su imagen\ny semejanza.",
+        "Dicen que creó a otros Pokémon a partir de\ndistintos materiales y que, después, colocó los\ncontinentes en su posición actual."
+    ],
+    "height": 3.7,
+    "id": 486,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "name": "Regigigas",
+    "types": [
+        "Normal"
+    ],
+    "weight": 420.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Wenn Jirachi erwacht, erfüllt es die Wünsche,\ndie man auf die Zettel an seinem Kopf geschrieben hat.",
+        "Man sagt, es kann alle 1 000 Jahre für eine Woche\njeden Wunsch erfüllen.",
+        "Einer Legende nach erfüllt Jirachi jeden Wunsch, der auf einen\nNotizzettel an seinem Kopf geschrieben wird. Wenn dieses\nPokémon Gefahr wittert, kämpft es bereits, bevor es überhaupt\naufgewacht ist.",
+        "Jirachi wird aus seinem tausendjährigen Schlaf erwachen,\nwenn du ihm mit klarer Stimme etwas vorsingst. Es soll\nangeblich alle Wünsche der Menschen erfüllen.",
+        "Durch den Klang einer reinen Singstimme kann es\nein Mal alle 1 000 Jahre für genau sieben Tage\naus seinem Schlaf erwachen.",
+        "Es heißt, wenn es aus seinem tausendjährigen\nSchlaf erwacht, erfüllt es die Wünsche, die auf\ndie Zettel an seinem Kopf geschrieben wurden."
+    ],
+    "height": 0.3,
+    "id": 385,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "name": "Jirachi",
+    "types": [
+        "Stahl",
+        "Psycho"
+    ],
+    "weight": 1.1
+}

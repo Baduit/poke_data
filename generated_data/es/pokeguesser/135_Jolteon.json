@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Todos los pelos de su cuerpo se ponen de punta si\nempieza a cargarse de electricidad.",
+        "Acumula iones negativos de la atmósfera para lanzar\nrayos de 10 000 voltios de potencia.",
+        "Las células de Jolteon generan un nivel bajo de electricidad,\ncuya intensidad aumenta con la electricidad estática que\nacumula en un pelaje formado por agujas cargadas de\nelectricidad. Esta característica le permite lanzar rayos.",
+        "Las células de Jolteon generan un nivel bajo de electricidad,\ncuya intensidad aumenta con la electricidad estática que\nacumula en un pelaje formado por agujas cargadas de\nelectricidad. Esta característica le permite lanzar rayos.",
+        "Lanza rayos de 10 000 voltios de potencia. Es\ndifícil congeniar con este Pokémon debido a su\nnaturaleza nerviosa.",
+        "Cuando su pelaje se pone de punta, es señal de\nque va a soltar una descarga. Hay que tener\ncuidado porque pueden caer rayos cerca.",
+        "Posee un órgano en los pulmones que genera\nelectricidad. Cuando respira se puede oír un\ncrepitar eléctrico.",
+        "Lanza sus pelos erizados a modo de púas. Tras\ndebilitar a su rival, lo remata con una descarga\nde 10 000 voltios.",
+        "Un Pokémon muy sensible que se entristece\no enfada con mucha facilidad. Se carga de\nelectricidad cada vez que cambia de humor.",
+        "Un Pokémon muy sensible que se entristece\no enfada con mucha facilidad. Se carga de\nelectricidad cada vez que cambia de humor.",
+        "Si se enfada o asusta, se le eriza el pelaje. Cada\nuno de sus pelos se convierte en una afilada púa\nque hace trizas al rival.",
+        "Acumula iones negativos de la atmósfera para\nlanzar rayos de 10 000 V de potencia."
+    ],
+    "height": 0.8,
+    "id": 135,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "name": "Jolteon",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 24.5
+}

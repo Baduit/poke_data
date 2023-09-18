@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Seguendo il filo che gli esce da dietro, si giunge\ndi certo fino al suo nido.",
+        "Aggancia la preda con un filo di seta e la lascia\nandare. Poi segue il filo e la trova quando è in gruppo.",
+        "Le zampe di Ariados sono dotate di artigli uncinati che gli\nconsentono di aggrapparsi a soffitti e pareti. Questo Pokémon\nintrappola il nemico con la sua ragnatela sottile e robusta.",
+        "Le zampe di Ariados sono dotate di artigli uncinati che gli\nconsentono di aggrapparsi a soffitti e pareti. Questo Pokémon\nintrappola il nemico con la sua ragnatela sottile e robusta.",
+        "In alcune regioni il filo di Ariados viene usato per\ntessere al telaio, grazie alla sua straordinaria\nresistenza.",
+        "Tesse un filo sia dalla bocca che dalla parte\nposteriore del corpo. Vi avvolge la preda\ne lentamente ne succhia i fluidi vitali.",
+        "Vaga di notte in cerca di prede. Quando ne\ntrova una, usa il suo filo per immobilizzarla e poi\nla divora con le sue zanne.",
+        "Intrappola la preda usando il filo che secerne\ndalla bocca. Quando scende la notte si allontana\ndalla tela per cacciare."
+    ],
+    "height": 1.1,
+    "id": 168,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "name": "Ariados",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 33.5
+}

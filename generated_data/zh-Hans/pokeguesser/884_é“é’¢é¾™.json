@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "身体犹如打磨过的金属，\n虽然轻而坚硬，却有着\n容易生锈的弱点。",
+        "由特殊金属构成的身体\n十分轻盈，能够灵活地活动。\n不喜欢下雨，所以住在洞窟里。"
+    ],
+    "height": 1.8,
+    "id": 884,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "name": "铝钢龙",
+    "types": [
+        "钢",
+        "龙"
+    ],
+    "weight": 40.0
+}

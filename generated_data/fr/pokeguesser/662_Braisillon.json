@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il crache des étincelles pour brûler les hautes herbes\net attraper les proies surprises qui tentent d’échapper\nà l’incendie.",
+        "Il possède une poche remplie de feu sur son ventre.\nPlus elle émet de chaleur, plus il vole vite.\nCependant, elle met quelque temps à chauffer.",
+        "Il crache des étincelles pour brûler les hautes herbes\net attraper les proies surprises qui tentent d’échapper\nà l’incendie.",
+        "Il possède une poche remplie de feu sur son ventre.\nPlus elle émet de chaleur, plus il vole vite. Cependant,\nelle met quelque temps à chauffer.",
+        "Il crache des escarbilles par le bec, en visant\nsa proie. Une fois celle-ci capturée, il la fait\nrôtir avant de la déguster.",
+        "Son territoire s’étend sur plusieurs kilomètres.\nL’intrusion d’autres Braisillon n’est en aucun cas\ntolérée.",
+        "Il enflamme des touffes d’herbe en crachant\ndes escarbilles. Il n’a plus qu’à s’emparer des\nPokémon Insecte qui s’enfuient pour les gober.",
+        "À peine décolle-t-il que sa vitesse lui permet\ndéjà de rivaliser avec les Pokémon oiseaux\nles plus rapides.",
+        "Il lance des étincelles dans le terrier de ses proies\npour les effrayer. Dès qu’elles en émergent,\nil les attaque à coups de serres.",
+        "De nature belliqueuse, il dispose d’un fort\ninstinct territorial. Quand il chasse, il se dispute\nrégulièrement les proies avec ses congénères."
+    ],
+    "height": 0.7,
+    "id": 662,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "name": "Braisillon",
+    "types": [
+        "Feu",
+        "Vol"
+    ],
+    "weight": 16.0
+}

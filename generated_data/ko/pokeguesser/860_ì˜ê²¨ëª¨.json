@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "납작 엎드려서 사과하는 척하다가\n창처럼 뾰족한 뒷머리로\n찌르는 전법을 구사한다.",
+        "못된 꾀를 내어 밤에 숲으로\n꾀어내려 한다. 농작물을\n키우는 힘을 갖고 있는 듯하다."
+    ],
+    "height": 0.8,
+    "id": 860,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+    "name": "쏘겨모",
+    "types": [
+        "악",
+        "페어리"
+    ],
+    "weight": 12.5
+}

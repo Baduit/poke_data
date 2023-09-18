@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "月亮的盈缺似乎会\n影响它力量的增减。\n每到满月之夜就会变得活跃。",
+        "第一次发现它是在\n４０年前陨石坠落的地方。\n只要注视敌人就能使其入睡。"
+    ],
+    "height": 1.0,
+    "id": 337,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "name": "月石",
+    "types": [
+        "岩石",
+        "超能力"
+    ],
+    "weight": 168.0
+}

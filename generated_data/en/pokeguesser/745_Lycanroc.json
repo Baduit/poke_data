@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Its quick movements confuse its enemies.\nWell equipped with claws and fangs, it also uses\nthe sharp rocks in its mane as weapons.",
+        "When properly raised from a young age, it will\nbecome a trustworthy partner that will\nabsolutely never betray its Trainer.",
+        "The sharp rocks in its mane can cut like knives.\nLycanroc wears its prey down by degrees\nbefore finishing them off.",
+        "The rocks in its mane are sharper than a knife.\nFragments that break off are treasured as\ngood luck charms.",
+        "This Lycanroc is calm and cautious. The rocks\njutting from its mane are razor sharp.",
+        "With swift movements, this Pokémon gradually\nbacks its prey into a corner. Lycanroc’s fangs are\nalways aimed toward opponents’ weak spots."
+    ],
+    "height": 0.8,
+    "id": 745,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "name": "Lycanroc",
+    "types": [
+        "Rock"
+    ],
+    "weight": 25.0
+}

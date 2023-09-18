@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Los símbolos de su espalda cambian según la región.\nA veces se mezcla con bancos de Remoraid y nada\njunto a ellos.",
+        "Cuando nada cerca de la superficie, pueden\nobservarse los dibujos de su lomo desde los barcos.",
+        "Los símbolos de su espalda cambian según la región. A veces\nse mezcla con bancos de Remoraid y nada junto a ellos.",
+        "Cuando nada cerca de la superficie, pueden observarse los\ndibujos de su lomo desde los barcos.",
+        "Es un Pokémon muy afable y profesa cariño por\nlos humanos. Los tours para nadar con Mantyke\nse han convertido en una actividad muy popular.",
+        "Su carácter afable lo lleva a acercarse sin temor\na barcos con presencia humana. Los dibujos del\nlomo cambian según la región.",
+        "Los Mantyke que habitan en los mares de Galar\nse mueven con lentitud, posiblemente por la baja\ntemperatura de las aguas de la región.",
+        "Nada con los bancos de Remoraid y lucha junto\na ellos cuando los ataca un enemigo."
+    ],
+    "height": 1.0,
+    "id": 458,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "name": "Mantyke",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 65.0
+}

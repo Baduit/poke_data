@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Lanza Geodude por los agujeros de las manos.\nGracias a Protector resiste erupciones volcánicas.",
+        "Pone rocas en los agujeros de sus manos y las lanza\ncon los músculos. A veces lanza Geodude.",
+        "Lanza Geodude por los agujeros de las manos. Gracias a\nProtector resiste erupciones volcánicas.",
+        "Pone rocas en los agujeros de sus manos y las lanza con los\nmúsculos. A veces lanza Geodude.",
+        "Introduce rocas o Roggenrola en las cavidades\nde las manos y los dispara con fuerza. Es capaz\nde cargar hasta tres proyectiles en cada brazo.",
+        "Repele los ataques usando un Protector y\naprovecha el momento en que el rival baja\nla guardia para perforarlo con su taladro."
+    ],
+    "height": 2.4,
+    "id": 464,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "name": "Rhyperior",
+    "types": [
+        "Tierra",
+        "Roca"
+    ],
+    "weight": 282.8
+}

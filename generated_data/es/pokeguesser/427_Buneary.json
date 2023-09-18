@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Lleva las orejas enrolladas. Cuando las extiende,\ngolpea con tal fuerza que incluso puede romper rocas.",
+        "Cuando siente peligro, levanta las orejas. En noches\nfrías, duerme con la cabeza metida en el pelaje.",
+        "Lleva las orejas enrolladas. Cuando las extiende, golpea con\ntal fuerza que incluso puede romper rocas.",
+        "Cuando siente peligro, levanta las orejas. En noches frías,\nduerme con la cabeza metida en el pelaje.",
+        "Si bien sus extremidades pecan de débiles, si\nenrolla las orejas y luego las extiende, puede\nhacer añicos incluso rocas bien grandes.",
+        "Siempre tiene una de las orejas enrollada para\npoder contraatacar de inmediato si un enemigo\nlanza su ofensiva.",
+        "Cuando enrolla ambas orejas, es señal de que\ntiene algún tipo de malestar físico o emocional\ny necesita cuidados.",
+        "Ataca estirando con un fuerte impulso las\norejas enrolladas. Cuanto más entrena esta\ntécnica, con más potencia la ejecuta."
+    ],
+    "height": 0.4,
+    "id": 427,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "name": "Buneary",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.5
+}

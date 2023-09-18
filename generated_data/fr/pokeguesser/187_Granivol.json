@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il dérive avec le vent. Sa présence\nen nombre dans les champs et les\nmontagnes annonce le printemps.",
+        "Il dérive avec le vent. Sa présence\nen nombre dans les champs et les\nmontagnes annonce le printemps.",
+        "Son corps est si léger qu’il doit s’agripper au sol pour\néviter de s’envoler les jours de brise.",
+        "Il dérive avec le vent. Sa présence en nombre dans\nles champs et les montagnes annonce le printemps.",
+        "Ce Pokémon flotte à la dérive, porté par le vent. S’il sent\nqu’un vent très fort approche, Granivol attache ses feuilles aux\nautres Granivol pour ne pas être emporté par la bourrasque.",
+        "Ce Pokémon flotte à la dérive, porté par le vent. S’il sent\nqu’un vent très fort approche, Granivol attache ses feuilles aux\nautres Granivol pour ne pas être emporté par la bourrasque."
+    ],
+    "height": 0.4,
+    "id": 187,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "name": "Granivol",
+    "types": [
+        "Plante",
+        "Vol"
+    ],
+    "weight": 0.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Vive en estanques, pero cuando se desata una\ntormenta puede aparecer en los charcos que se\nforman en las ciudades.",
+        "Parece que patina sobre el agua. Atrae a las presas\ncon el suave aroma de su cabeza.",
+        "Surskit segrega un aceite por la punta de las patas que le\npermite caminar sobre el agua como si fuera patinando. Este\nPokémon se alimenta de microorganismos en charcas y lagos.",
+        "Cuando Surskit siente que hay peligro, segrega un néctar\nespeso y dulce por la cabeza. Hay Pokémon a los que les\nencanta bebérselo.",
+        "Se mueve como si patinara sobre el agua.\nSuele pelearse con Dewpider por la comida.",
+        "Si se encuentra en peligro, segrega un líquido\ndulce que los Pokémon pájaro encuentran\ndesagradable.",
+        "Si se siente amenazado, segrega un líquido\ndulce por la cabeza. El sirope elaborado con\nese líquido resulta delicioso untado en pan.",
+        "Vive en estanques y pantanales donde abunde\nla flora acuática y compite fieramente con los\nDewpider por el territorio y el sustento."
+    ],
+    "height": 0.5,
+    "id": 283,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "name": "Surskit",
+    "types": [
+        "Bicho",
+        "Agua"
+    ],
+    "weight": 1.7
+}

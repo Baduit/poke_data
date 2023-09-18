@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il est capable de lancer des pierres recouvertes\nde mousse avec une précision suffisante pour toucher\nune canette vide à 30 m.",
+        "Son agilité est incomparable.\nIl peut gravir une tour de 600 m de haut en moins\nd’une minute.",
+        "Il est capable de lancer des pierres recouvertes de mousse\navec une précision suffisante pour toucher une canette vide\nà 30 m.",
+        "Son agilité est incomparable. Il peut gravir une tour de 600 m\nde haut en moins d’une minute."
+    ],
+    "height": 0.6,
+    "id": 657,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "name": "Croâporal",
+    "types": [
+        "Eau"
+    ],
+    "weight": 10.9
+}

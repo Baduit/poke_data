@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Gli antichi abitanti di Galar usavano il carbone\nprodotto da questo Pokémon all’interno del suo\ncorpo per le loro necessità quotidiane.",
+        "Corre a 30 km/h facendo girare velocemente\nle zampe. Emette fiamme a 1.000 ºC."
+    ],
+    "height": 1.1,
+    "id": 838,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "name": "Carkol",
+    "types": [
+        "Roccia",
+        "Fuoco"
+    ],
+    "weight": 78.0
+}

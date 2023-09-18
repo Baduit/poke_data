@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il analyse le courant grâce à la\nnageoire sur sa tête. Il est assez\nfort pour soulever des rochers.",
+        "Il analyse le courant grâce à la\nnageoire sur sa tête. Il est assez\nfort pour soulever des rochers.",
+        "Sa grande queue en forme de nageoire lui donne\nune puissance d’accélération incroyable. Il est très\ncostaud malgré sa taille.",
+        "Il analyse le courant grâce à la nageoire sur sa tête.\nIl est assez fort pour soulever des rochers.",
+        "La nageoire sur la tête de Gobou lui sert de radar\nhypersensible. Il l’utilise pour sentir les mouvements\nde l’eau et de l’air. Ainsi, ce Pokémon peut savoir ce qui\nse passe autour de lui sans avoir à se servir de ses yeux.",
+        "Sous l’eau, Gobou peut respirer grâce aux branchies sur\nses joues. S’il se retrouve en difficulté pendant un combat,\nce Pokémon déchaîne ses pouvoirs incroyables. Il peut\ndétruire des rochers plus gros que lui."
+    ],
+    "height": 0.4,
+    "id": 258,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "name": "Gobou",
+    "types": [
+        "Eau"
+    ],
+    "weight": 7.6
+}

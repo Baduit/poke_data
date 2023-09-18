@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Aufgrund der Ranken, die seinen Körper bedecken,\nkennt keiner seine wahre Form. Die blauen Ranken\nwachsen immer weiter.",
+        "Es berührt alles, was sich bewegt, mit seinen Ranken.\nDiese Berührungen kitzeln sehr.",
+        "Wenn man Tangelas Ranken berührt, fallen diese sofort ab.\nDas tut ihm aber nicht weh und es kann sich schnell in\nSicherheit bringen. Verliert es Ranken, werden diese am\nnächsten Tag durch neue ersetzt.",
+        "Wenn man Tangelas Ranken berührt, fallen diese oft ab.\nDabei empfindet es keine Schmerzen und es kann sich schnell\nin Sicherheit bringen. Verliert es Ranken, werden diese am\nnächsten Tag durch neue ersetzt.",
+        "Sein Körper liegt unter dichten, blauen Ranken\nverborgen, die niemals aufhören zu wachsen.",
+        "Sein Körper liegt unter dichten, blauen Ranken\nverborgen, die niemals aufhören zu wachsen.",
+        "Seine wahre Gestalt ist weiterhin ein Mysterium,\nda sie von Ranken verdeckt wird, die unaufhörlich\nnachwachsen, selbst wenn sie abreißen.",
+        "Seine Ranken verströmen einen eigentümlichen\nDuft, weshalb sie in bestimmten Gegenden von\nGalar als aromatische Kräuter verwendet werden."
+    ],
+    "height": 1.0,
+    "id": 114,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "name": "Tangela",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 35.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Seine kräftigen Beine geben ihm sicheren Halt.\nEs gräbt sich in Dreck ein, wenn es schlafen will.",
+        "Der zähe Morast seiner Heimat hat seine Beine\ngestählt und ihnen gewaltige Kraft verliehen.",
+        "Moorabbels Körper ist mit einem klebrigen Film überzogen,\ndurch den es an Land überleben kann. Dieses Pokémon spielt\nbei Ebbe in den Schlammpfützen am Strand.",
+        "Moorabbel kommt im Schlamm besser voran als im Wasser.\nDas Hinterteil dieses Pokémon ist gut entwickelt, sodass es\nauf seinen Hinterbeinen laufen kann."
+    ],
+    "height": 0.7,
+    "id": 259,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "name": "Moorabbel",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 28.0
+}

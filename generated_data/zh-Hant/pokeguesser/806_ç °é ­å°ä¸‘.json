@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "會扭動著身體靠近人，\n然後突然讓頭爆炸。\n似乎是究極異獸的一種。",
+        "從究極之洞中出現的究極異獸。\n會用爆炸嚇唬對手，\n然後趁機奪取對方的精氣。"
+    ],
+    "height": 1.8,
+    "id": 806,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "name": "砰頭小丑",
+    "types": [
+        "火",
+        "幽靈"
+    ],
+    "weight": 13.0
+}

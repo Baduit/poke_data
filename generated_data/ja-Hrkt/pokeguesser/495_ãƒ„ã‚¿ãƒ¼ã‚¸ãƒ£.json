@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "たいようの　ひかりを　あびると\nいつもよりも　すばやく　うごける。\nてよりも　ツルを　うまくつかう。",
+        "しっぽで　たいようを　あびて\nこうごうせいを　する。げんきを\nなくすと　しっぽが　たれさがる。",
+        "たいようの　ひかりを　あびると\nいつもよりも　すばやく　うごける。\nてよりも　ツルを　うまくつかう。",
+        "しっぽで　たいようを　あびて\nこうごうせいを　する。げんきを\nなくすと　しっぽが　たれさがる。"
+    ],
+    "height": 0.6,
+    "id": 495,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "name": "ツタージャ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 8.1
+}

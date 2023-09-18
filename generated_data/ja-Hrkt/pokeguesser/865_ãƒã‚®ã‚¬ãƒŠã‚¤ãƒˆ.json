@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "れきせんを　いきぬいた　ものが\nこのすがたに　しんかする。　ネギが\nかれるとき　せんじょうを　さる。",
+        "かたいネギの　はで　こうげきを\nいなし　するどい　クキで　はんげき。\nネギは　ぶぐで　あり　しょくざい。"
+    ],
+    "height": 0.8,
+    "id": 865,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "name": "ネギガナイト",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 117.0
+}

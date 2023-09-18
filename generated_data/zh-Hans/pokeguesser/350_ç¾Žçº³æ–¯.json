@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "也被称为最美的宝可梦，\n一直给予许多艺术家灵感。",
+        "栖息在清澈的湖底。\n在发生战争时出现，\n治愈人们的心。",
+        "被称为最美的宝可梦，\n对于因喜爱丑丑鱼而培育它的\n训练家，好像很微妙。",
+        "栖息在很大的湖底。\n听说，只要看见它那美丽的样子，\n心里的污秽就会被清除。",
+        "也被称为最美的宝可梦，\n一直给予许多艺术家灵感。",
+        "据说目睹了美纳斯美丽\n身姿的人，心中一切的\n愤恨都能得到抚慰。"
+    ],
+    "height": 6.2,
+    "id": 350,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "name": "美纳斯",
+    "types": [
+        "水"
+    ],
+    "weight": 162.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il attaque en crachant les graines des\nBaies qu’il accumule dans ses bajoues.\nS’il voit un ennemi, il dresse la queue.",
+        "Il intimide l’ennemi en faisant briller\nles motifs de son pelage. Ses yeux\npeuvent voir même dans l’obscurité.",
+        "Il intimide l’ennemi en faisant briller son pelage et\nses yeux grâce à une substance à l’intérieur de son\ncorps.",
+        "Il attaque en crachant les graines des Baies qu’il\naccumule dans ses bajoues. S’il voit un ennemi,\nil dresse la queue.",
+        "Il intimide l’ennemi en faisant briller son pelage et ses yeux\ngrâce à une substance à l’intérieur de son corps.",
+        "Il attaque en crachant les graines des Baies qu’il accumule\ndans ses bajoues. S’il voit un ennemi, il dresse la queue."
+    ],
+    "height": 1.1,
+    "id": 505,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "name": "Miradar",
+    "types": [
+        "Normal"
+    ],
+    "weight": 27.0
+}

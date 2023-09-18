@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "只要有東西靠近，牠就會\n發射鋼鐵外殼的碎片來攻擊。\n這是一種與意識無關的條件反射。",
+        "只有在吞下獵物的瞬間，\n殼裡的身體才會出現。\n至今還沒有人見過牠的真面目。"
+    ],
+    "height": 1.2,
+    "id": 205,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "name": "佛烈托斯",
+    "types": [
+        "蟲",
+        "鋼"
+    ],
+    "weight": 125.8
+}

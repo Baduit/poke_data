@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "強い　呪いを　こめて　描かれた\n古代の　絵が　デスマスの\n魂を　取り込み　動きだした。",
+        "影の　ような　体に　触れては\nいけない。　絵に　刻まれた\n恐ろしい　記憶を　見せられるぞ。"
+    ],
+    "height": 1.6,
+    "id": 867,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+    "name": "デスバーン",
+    "types": [
+        "じめん",
+        "ゴースト"
+    ],
+    "weight": 66.6
+}

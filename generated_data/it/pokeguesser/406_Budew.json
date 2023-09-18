@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "I raggi del sole gli fanno schiudere la gemma e\nrilasciare polline. Fa la tana vicino a bei corsi d’acqua.",
+        "D’inverno chiude la sua gemma e resiste al freddo.\nIn primavera la gemma si riapre e rilascia polline.",
+        "I raggi del sole gli fanno schiudere la gemma e rilasciare\npolline. Fa la tana vicino a bei corsi d’acqua.",
+        "D’inverno chiude la sua gemma e resiste al freddo.\nIn primavera la gemma si riapre e rilascia polline.",
+        "Più pulita è l’acqua con cui è a contatto durante\nla crescita, più aumentano i componenti tossici\ndel polline velenoso che sparge.",
+        "È sensibile agli sbalzi di temperatura.\nQuando le sue gemme si schiudono\nè segno che la primavera è vicina."
+    ],
+    "height": 0.2,
+    "id": 406,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "name": "Budew",
+    "types": [
+        "Erba",
+        "Veleno"
+    ],
+    "weight": 1.2
+}

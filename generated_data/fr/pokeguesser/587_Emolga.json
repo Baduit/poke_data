@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il accumule dans ses membranes\nl’électricité qu’il produit dans ses\nbajoues, et la relâche tout en planant.",
+        "Il vit au sommet des arbres de la forêt.\nIl plane en déchargeant l’électricité de\nses membranes semblables à une cape.",
+        "Il vit au sommet des arbres de la forêt. Il plane en\ndéchargeant l’électricité de ses membranes\nsemblables à une cape.",
+        "Il accumule dans ses membranes l’électricité qu’il\nproduit dans ses bajoues, et la relâche tout en\nplanant.",
+        "Il vit au sommet des arbres de la forêt. Il plane en déchargeant\nl’électricité de ses membranes semblables à une cape.",
+        "Il accumule dans ses membranes l’électricité qu’il produit\ndans ses bajoues, et la relâche tout en planant.",
+        "Telle une cape de super-héros, sa membrane\nde peau lui permet de planer. Il décharge alors\nson électricité sur ses ennemis... et ses alliés.",
+        "L’électricité lui sert à griller à point fruits et\nPokémon Insecte. Il fait généralement son nid\ndans les arbres creusés par les Picassaut.",
+        "Il plane dans les airs une fois qu’il est chargé en\nélectricité. Les nuits où le tonnerre gronde, des\ncentaines d’Emolga se regroupent dans le ciel.",
+        "Les Pokémon oiseaux ne s’approchent pas de lui\ncar il décharge de l’électricité en planant. Il peut\ndonc garder sa nourriture pour lui tout seul.",
+        "Il virevolte dans le ciel en libérant des gerbes\nd’électricité. Son vol est gracieux, mais peut\ns’avérer dangereux.",
+        "Les Baies sucrées sont son péché mignon.\nIl lui arrive d’en conserver beaucoup trop dans\nses bajoues, ce qui l’empêche de bien planer."
+    ],
+    "height": 0.4,
+    "id": 587,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "name": "Emolga",
+    "types": [
+        "Électrik",
+        "Vol"
+    ],
+    "weight": 5.0
+}

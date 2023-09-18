@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "从鸟嘴里喷出火花击中猎物。\n捉到的猎物烧了之后就会享用。",
+        "拥有半径数公里的领地，\n不允许其他火箭雀进入。",
+        "向草丛挥撒火花。\n然后大口吞食被火焰吓到\n从草丛跳出来的虫宝可梦。",
+        "刚起飞后的速度，\n在所有鸟宝可梦中也是顶级的。",
+        "会向猎物的巢穴中喷射火花，\n然后用锐利的爪子\n了结受惊而出的猎物。",
+        "领地意识很强，性格好战。\n火箭雀彼此之间会为了\n觅食的地方发生争斗。"
+    ],
+    "height": 0.7,
+    "id": 662,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "name": "火箭雀",
+    "types": [
+        "火",
+        "飞行"
+    ],
+    "weight": 16.0
+}

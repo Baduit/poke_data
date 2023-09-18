@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Su frágil cuerpo está recubierto de una coraza dura\ncomo el acero. Permanece quieto en su desarrollo.",
+        "Este Pokémon es vulnerable al ataque cuando su\ncoraza es blanda y no lo protege del todo.",
+        "La capa que recubre el cuerpo de este Pokémon es tan dura\ncomo una plancha de hierro. Metapod apenas se mueve.\nPermanece inmóvil para que las vísceras evolucionen dentro\nde la coraza que le rodea.",
+        "La capa que recubre el cuerpo de este Pokémon es tan dura\ncomo una plancha de hierro. Metapod apenas se mueve.\nPermanece inmóvil para que las vísceras evolucionen dentro\nde la coraza que le rodea.",
+        "La dura capa que le recubre el cuerpo protege\nsus delicadas vísceras. Metapod apenas se\nmueve para evitar que estas se desparramen.",
+        "Su coraza es muy dura, pero no deja de estar\nhecha de quitina, por lo que podría quebrarse.\nEs mejor no llevarlo en combates muy intensos.",
+        "El interior del caparazón es un líquido viscoso.\nTodas las células de su cuerpo se están\nregenerando en preparación para su evolución.",
+        "Su dura coraza resiste los picotazos de un\nPikipek, pero, si se agita mucho, su contenido\npuede verterse por el suelo.",
+        "Pese a su constante empeño por endurecer su\ncoraza para protegerse, puede romperse si\nrecibe un fuerte impacto y quedar expuesto.",
+        "Pese a su constante empeño por endurecer su\ncoraza para protegerse, puede romperse si\nrecibe un fuerte impacto y quedar expuesto.",
+        "Como en este estado solo puede endurecer\nsu coraza, permanece inmóvil a la espera de\nevolucionar.",
+        "Aunque cuenta con una coraza muy dura, tiene\nun cuerpo bastante blando. Un ataque violento\npuede acabar con él."
+    ],
+    "height": 0.7,
+    "id": 11,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "name": "Metapod",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 9.9
+}

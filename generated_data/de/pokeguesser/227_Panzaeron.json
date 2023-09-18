@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Die dornigen Zweige seines Nests bewirken,\ndass die Flügel seiner Jungen fest und hart werden.",
+        "Es wird komplett von einer eisenharten Rüstung\ngeschützt. Wenn es fliegt, erreicht es bis zu 300 km/h.",
+        "Panzaeron ist komplett in einen harten, schützenden Panzer\neingehüllt. Dieses Pokémon fliegt bis zu 300 km/h schnell.\nEs greift seine Feinde mit seinen messerscharfen Flügeln an.",
+        "Panzaerons Stahlflügel bekommen in den vielen Kämpfen,\ndie es austrägt, Risse und Beulen. Einmal im Jahr wachsen\nseine Flügel komplett nach und werden wiederhergestellt.",
+        "Die im Zuge seines Wachstums abgefallenen\nFedern sind sehr scharf. Krieger verwendeten\nsie früher als Schwerter.",
+        "Sein stählerner Körper ist robust, aber anfällig\nfür Rost. Regnerische Tage verbringt es daher\ngeduldig in seinem Nest.",
+        "Die Federn, die ihm ausfallen, werden zu\nKüchenmessern verarbeitet, mit deren Schärfe\nauch erstklassige Köche zufrieden sind.",
+        "Durch seinen stählernen Panzer sieht es zwar\nschwer aus, aber dennoch kann es bis zu\n300 km/h schnell fliegen.",
+        "Seine spitzen Federn sind schärfer als jedes\nSchwert. Es liefert sich erbitterte Revierkämpfe\nmit Krarmor.",
+        "Es wird gern als Vorlage für Wappenmotive\ngenutzt, da aus den Federn, die ihm ausfallen,\nSchwerter hergestellt werden."
+    ],
+    "height": 1.7,
+    "id": 227,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "name": "Panzaeron",
+    "types": [
+        "Stahl",
+        "Flug"
+    ],
+    "weight": 50.5
+}

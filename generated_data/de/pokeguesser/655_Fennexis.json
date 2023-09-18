@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es kann die Zukunft vorhersehen, indem es\nkonzentriert in die Flamme an der Spitze\nseines Zweiges blickt.",
+        "Mit seinen übernatürlichen Kräften kontrolliert es einen\n3 000 °C heißen Flammenwirbel, mit dem es seine\nGegner umhüllt und sie verbrennt.",
+        "Es kann die Zukunft vorhersehen, indem es konzentriert\nin die Flamme an der Spitze seines Zweiges blickt.",
+        "Mit seinen übernatürlichen Kräften kontrolliert es einen\n3 000 °C heißen Flammenwirbel, mit dem es seine Gegner\numhüllt und sie verbrennt."
+    ],
+    "height": 1.5,
+    "id": 655,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+    "name": "Fennexis",
+    "types": [
+        "Feuer",
+        "Psycho"
+    ],
+    "weight": 39.0
+}

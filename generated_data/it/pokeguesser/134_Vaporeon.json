@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Preferisce stare sulla costa. In acqua le sue cellule\nsimili a molecole acquee si possono scomporre.",
+        "Si è evoluto per adattarsi alla vita acquatica. Si può\nsciogliere nell’acqua diventando invisibile.",
+        "Vaporeon, frutto di una mutazione naturale, ha sviluppato\npinne e branchie per poter vivere sott’acqua. Questo\nPokémon ha la capacità di sfruttare l’acqua a suo vantaggio.",
+        "Vaporeon, frutto di una mutazione naturale, ha sviluppato\npinne e branchie per poter vivere sott’acqua. Questo\nPokémon ha la capacità di sfruttare l’acqua a suo vantaggio.",
+        "La sua struttura cellulare è simile a quella delle\nmolecole d’acqua. Vive sulle rive dei mari e dei\nlaghi e a volte viene scambiato per una sirena.",
+        "Si nasconde alle prede dissolvendosi nell’acqua\ne aspetta paziente che arrivi un Pokémon\nacquatico per catturarlo.",
+        "Vive principalmente sulle rive più belle.\nQuando percepisce la presenza di un predatore\nsi tuffa rapidamente nell’acqua per nascondersi.",
+        "Riesce a percepire l’umidità circostante con\nle pinne. Se cominciano a vibrare vuol dire\nche pioverà nel giro di poche ore.",
+        "La sua struttura cellulare è simile a quella\ndelle molecole dell’acqua. Quando si immerge\ndiventa invisibile.",
+        "La sua struttura cellulare è simile a quella\ndelle molecole dell’acqua. Quando si immerge\ndiventa invisibile.",
+        "Se le pinne di Vaporeon iniziano a vibrare,\nvuol dire che pioverà nel giro di poche ore.",
+        "La sua composizione cellulare è simile\na quella delle molecole d’acqua, in cui\nsi può dissolvere diventando invisibile."
+    ],
+    "height": 1.0,
+    "id": 134,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "name": "Vaporeon",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 29.0
+}

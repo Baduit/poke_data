@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "무엇이든 통째로 삼켜 버린다.\n모공에서 맹독의 체액을\n분비하여 상대에게 끼얹는다.",
+        "입에 들어가는 크기의 것이라면\n무엇이든 통째로 삼킨다. 특수한\n위액으로 무엇이든 소화한다.",
+        "먹이를 발견하면 모공에서 맹독의\n체액을 뿜어내어 끼얹는다.\n약해지면 커다란 입으로 한입에 먹는다.",
+        "이빨이 하나도 없어서 무엇이든 통째로 삼킨다.\n최대한 벌린 입은 정말 커서\n자동차 타이어마저도 쑥 들어간다."
+    ],
+    "height": 1.7,
+    "id": 317,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "name": "꿀꺽몬",
+    "types": [
+        "독"
+    ],
+    "weight": 80.0
+}

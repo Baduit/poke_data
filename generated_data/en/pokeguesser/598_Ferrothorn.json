@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "It fights by swinging around its three\nspiky feelers. A hit from these steel\nspikes can reduce a boulder to rubble.",
+        "They attach themselves to cave\nceilings, firing steel spikes at targets\npassing beneath them.",
+        "By swinging around its three\nspiky feelers and shooting spikes,\nit can obliterate an opponent.",
+        "By swinging around its three\nspiky feelers and shooting spikes,\nit can obliterate an opponent.",
+        "By swinging around its three spiky feelers and\nshooting spikes, it can obliterate an opponent.",
+        "They attach themselves to cave ceilings, firing steel\nspikes at targets passing beneath them.",
+        "By swinging around its three spiky feelers and\nshooting spikes, it can obliterate an opponent.",
+        "They attach themselves to cave ceilings, firing steel\nspikes at targets passing beneath them.",
+        "This Pokémon scrapes its spikes across rocks,\nand then uses the tips of its feelers to absorb\nthe nutrients it finds within the stone.",
+        "Its spikes are harder than steel. This Pokémon\ncrawls across rock walls by stabbing the spikes\non its feelers into the stone."
+    ],
+    "height": 1.0,
+    "id": 598,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "name": "Ferrothorn",
+    "types": [
+        "Grass",
+        "Steel"
+    ],
+    "weight": 110.0
+}

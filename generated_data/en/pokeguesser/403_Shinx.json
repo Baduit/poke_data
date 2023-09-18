@@ -1,0 +1,28 @@
+{
+    "descriptions": [
+        "All of its fur dazzles if danger is\nsensed. It flees while the foe is\nmomentarily blinded.",
+        "Its forelegs have a muscle-based\nsystem of generating electricity.\nIts body shines if endangered.",
+        "The extension and contraction of\nits muscles generates electricity.\nIt glows when in trouble.",
+        "The extension and contraction of\nits muscles generates electricity.\nIts fur glows when it’s in trouble.",
+        "The extension and contraction of\nits muscles generates electricity.\nIts fur glows when it’s in trouble.",
+        "The extension and contraction of\nits muscles generates electricity.\nIt glows when in trouble.",
+        "The extension and contraction of\nits muscles generates electricity.\nIt glows when in trouble.",
+        "The extension and contraction of\nits muscles generates electricity.\nIt glows when in trouble.",
+        "The extension and contraction of\nits muscles generates electricity.\nIt glows when in trouble.",
+        "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble.",
+        "All of its fur dazzles if danger is sensed. It flees\nwhile the foe is momentarily blinded.",
+        "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble.",
+        "All of its fur dazzles if danger is sensed. It flees\nwhile the foe is momentarily blinded.",
+        "This Pokémon generates electricity by contracting\nits muscles. Excited trembling is a sign that Shinx\nis generating a tremendous amount of electricity.",
+        "Electricity makes this Pokémon’s fur glow. Shinx\nsends signals to others of its kind by shaking the\ntip of its tail while the tail tip is shining brightly.",
+        "Shakes its body to generate electricity. Its stature belies its\naggression—one must be patient to tame this Pokémon."
+    ],
+    "height": 0.5,
+    "id": 403,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+    "name": "Shinx",
+    "types": [
+        "Electric"
+    ],
+    "weight": 9.5
+}

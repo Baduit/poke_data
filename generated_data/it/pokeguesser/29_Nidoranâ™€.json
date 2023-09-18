@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Sebbene piccolo, i suoi baffi velenosi sono molto\npericolosi. La femmina ha un corno più minuto.",
+        "Molto docile e minuta, se viene attaccata si protegge\ncon il piccolo corno velenoso.",
+        "Gli aculei di Nidoran♀ secernono un potente veleno.\nSi pensa che si siano sviluppati per proteggere questo\nPokémon dal corpo minuto. Quando è adirato, rilascia\nuna potente tossina dal corno.",
+        "Gli aculei di Nidoran♀ secernono un potente veleno.\nSi pensa che si siano sviluppati per proteggere questo\nPokémon dal corpo minuto. Quando è adirato, rilascia\nuna potente tossina dal corno.",
+        "Pokémon molto tranquillo che rifugge la lotta.\nBisogna fare attenzione al suo piccolo corno,\nche secerne veleno.",
+        "Pokémon molto tranquillo che rifugge la lotta.\nBisogna fare attenzione al suo piccolo corno,\nche secerne veleno.",
+        "È più sensibile agli odori rispetto ai maschi.\nCapta le correnti d’aria con le vibrisse e si\nposiziona sottovento per cercare le prede.",
+        "Mangia le bacche frantumandole con i robusti\nincisivi. La punta del corno è leggermente più\narrotondata rispetto a quella del maschio."
+    ],
+    "height": 0.4,
+    "id": 29,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "name": "Nidoran♀",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 7.0
+}

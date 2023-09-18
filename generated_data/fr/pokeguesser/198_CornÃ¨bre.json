@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Quand il est en danger, il tente de\nsemer ses poursuivants dans les\nchemins montagneux.",
+        "Quand il est en danger, il tente de\nsemer ses poursuivants dans les\nchemins montagneux.",
+        "Il vole tous les objets brillants qu’il voit. Les Cornèbre\net les Miaouss se volent mutuellement.",
+        "Craint et peu aimé, il paraît qu’il porte malheur à ceux\nqui croisent son chemin la nuit.",
+        "Jadis, Cornèbre était craint et détesté, car on disait\nqu’il portait malheur. Ce Pokémon est attiré par tout\nce qui brille. Parfois, il essaie de voler les bagues\ndes filles.",
+        "Jadis, Cornèbre était craint et détesté, car on disait\nqu’il portait malheur. Ce Pokémon est attiré par tout\nce qui brille. Parfois, il essaie de voler les bagues\ndes filles.",
+        "Il s’éveille au crépuscule et prend son envol à\nla nuit tombée. Un proverbe local conseille de\nrentrer chez soi avant l’envol du Cornèbre.",
+        "Les gens voient en lui un oiseau de malheur,\nmais il offre des choses brillantes aux\nDresseurs dont il devient l’ami.",
+        "Il est fasciné par tout ce qui brille. Son\nobsession pour les trésors est telle qu’il va\njusqu’à fouiller les nids des Carmache.",
+        "Il cherche des objets brillants pour son chef.\nSa réputation d’oiseau de mauvais augure lui\nvaut la haine de nombreuses personnes."
+    ],
+    "height": 0.5,
+    "id": 198,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "name": "Cornèbre",
+    "types": [
+        "Ténèbres",
+        "Vol"
+    ],
+    "weight": 2.1
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "It plunges the poison spike on its head into its\nprey. When the prey has weakened, Mareanie\ndeals the finishing blow with its 10 tentacles.",
+        "It’s found crawling on beaches and seafloors.\nThe coral that grows on Corsola’s head is as\ngood as a five-star banquet to this Pokémon.",
+        "They eat Corsola branches, so Mareanie are\nhated by craftsmen who work with Corsola\nbranches that have naturally fallen off.",
+        "Aside from its head, its body parts\nregenerate quickly if they’re cut off. After a\ngood night’s sleep, Mareanie is back to normal.",
+        "The first symptom of its sting is numbness.\nThe next is an itching sensation so intense that it’s\nimpossible to resist the urge to claw at your skin.",
+        "Unlike their Alolan counterparts, the Mareanie\nof the Galar region have not yet figured out\nthat the branches of Corsola are delicious."
+    ],
+    "height": 0.4,
+    "id": 747,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+    "name": "Mareanie",
+    "types": [
+        "Poison",
+        "Water"
+    ],
+    "weight": 8.0
+}

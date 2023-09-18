@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "むれを　つくり　みつりんで　くらす。\nとても　こうげきてきで　もりにすむ\nポケモンたちから　おそれられている。",
+        "からだに　はえる　ツルは　ちぎれると\nつちの　えいようぶんとなって　もりの\nしょくぶつたちを　そだてるのだ。"
+    ],
+    "height": 1.8,
+    "id": 893,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+    "name": "ザルード",
+    "types": [
+        "あく",
+        "くさ"
+    ],
+    "weight": 70.0
+}

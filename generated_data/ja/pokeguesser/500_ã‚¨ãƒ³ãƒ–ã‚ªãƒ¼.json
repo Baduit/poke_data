@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "アゴの　炎で　こぶしを　燃やして\n炎の　パンチを　繰り出す。\nとても　仲間思いの　ポケモン。",
+        "炎の　あごひげを　たくわえている。\nパワーと　スピードを　兼ね備えた\n格闘の　技を　身につけている。",
+        "アゴの　炎で　こぶしを　燃やして\n炎の　パンチを　繰り出す。\nとても　仲間思いの　ポケモン。",
+        "炎の　あごひげを　たくわえている。\nパワーと　スピードを　兼ね備えた\n格闘の　技を　身につけている。"
+    ],
+    "height": 1.6,
+    "id": 500,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "name": "エンブオー",
+    "types": [
+        "ほのお",
+        "かくとう"
+    ],
+    "weight": 150.0
+}

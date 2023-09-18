@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Si ritiene che sia l’unico Pokémon in grado\ndi volare fino allo spazio, ma ad oggi non è\nancora successo.",
+        "Questo Pokémon è il risultato di una ricerca umana.\nEsegue solo i movimenti più elementari.",
+        "Formato per intero da codici programmatici, può\nmuoversi liberamente nel ciberspazio.",
+        "Porygon è in grado di regredire ai suoi codici di\nprogrammazione originari ed entrare nel cyberspazio.\nQuesto Pokémon è dotato di un sistema antipirateria\nper evitarne la duplicazione illecita.",
+        "Porygon è in grado di regredire ai suoi codici di\nprogrammazione originari ed entrare nel cyberspazio.\nQuesto Pokémon è dotato di un sistema antipirateria\nper evitarne la duplicazione illecita.",
+        "Un Pokémon artificiale creato circa 20 anni fa\nsfruttando le conoscenze scientifiche più\navanzate dell’epoca.",
+        "Il suo corpo può essere digitalizzato, rendendolo\nin grado di entrare nel cyberspazio.",
+        "Un Pokémon creato circa 20 anni fa grazie alle\nconoscenze scientifiche dell’epoca. Molte sue\nparti sono ormai obsolete.",
+        "Un Pokémon creato 20 anni fa da alcuni\nscienziati che sognavano di esplorare lo spazio.\nIl loro sogno non è stato ancora realizzato.",
+        "Si ritiene che sia l’unico Pokémon in grado\ndi volare fino allo spazio, ma ad oggi non è\nancora successo.",
+        "È il primo Pokémon della storia a essere stato\ncreato tramite programmi, grazie all’impiego\ndi tecnologie all’avanguardia.",
+        "Negli ultimi anni ha assunto un ruolo di rilevanza\nnel cyberspazio, in cui si aggira per assicurarsi\nche non ci siano dati sospetti."
+    ],
+    "height": 0.8,
+    "id": 137,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "name": "Porygon",
+    "types": [
+        "Normale"
+    ],
+    "weight": 36.5
+}

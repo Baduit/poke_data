@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sein flacher, dünner Körper hängt immer an Wänden.\nSeine Form scheint eine Bedeutung zu haben.",
+        "Seine Form sieht aus wie antike Schrift. Was war\nzuerst da? Die Sprache oder Icognito?",
+        "Icognito hat die Form antiker Schriftzeichen. Bis heute ist\nunklar, was zuerst da war – die antiken Schriftzeichen oder\ndie vielen unterschiedlichen Icognito. Trotz umfangreicher\nForschung bleiben Fragen offen.",
+        "Icognito hat die Form antiker Schriftzeichen. Bis heute ist\nunklar, was zuerst da war – die antiken Schriftzeichen oder\ndie vielen unterschiedlichen Icognito. Trotz umfangreicher\nForschung bleiben Fragen offen."
+    ],
+    "height": 0.5,
+    "id": 201,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+    "name": "Icognito",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 5.0
+}

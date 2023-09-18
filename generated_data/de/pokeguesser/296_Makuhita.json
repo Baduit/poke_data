@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Indem es wieder und wieder Bäume rammt,\nerhält es einen zähen Körper und einen\nstahlharten Willen.",
+        "Sein hartes Training macht es stärker. Es ist ein\ntapferes Pokémon, das jeder Attacke trotzen kann.",
+        "Makuhita ist sehr zäh. Selbst wenn es im Kampf mehrfach\nniedergeschlagen wurde, steht es immer wieder auf und greift\nseinen Gegner an. Bei jedem Mal speichert es mehr Energie in\nseinem Körper für seine Entwicklung.",
+        "Makuhitas Geist ist unbezwingbar. Es gibt die Hoffnung\nniemals auf. Es frisst eine Menge, bekommt viel Schlaf\nund trainiert unermüdlich. Dadurch füllt es seinen Körper\nmit Energie auf.",
+        "Obwohl sie ursprünglich aus einer anderen\nRegion kommen, sind Alola-Makuhita heute\nbekannter als ihre übrigen Artgenossen.",
+        "Seine Tage beginnen morgens mit Training.\nEs folgen Mittagessen und Mittagsschlaf.\nDanach wird wieder fleißig weitertrainiert.",
+        "Es trainiert, indem es mit der flachen Hand auf\nBaumstämme einschlägt. Manchmal erwischt es\nKokowei und wird von diesen weggeschleudert.",
+        "Es heißt, es gebe einen Eintopf, den Trainer auf\ntraditionelle Weise zubereiten, um Makuhita\ndamit noch stärker zu machen."
+    ],
+    "height": 1.0,
+    "id": 296,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "name": "Makuhita",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 86.4
+}

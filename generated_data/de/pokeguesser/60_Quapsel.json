@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Seine glatte, schwarze Haut ist dünn und feucht.\nTeilweise sind seine Innereien als spiralförmige\nMuster sichtbar.",
+        "Dieses Pokémon kann sehr schlecht laufen.\nSein Bauchmuster ist unterschiedlich, je nach Region.",
+        "Quapsel hat eine sehr dünne Haut. Durch sie hindurch\nkann man sogar sein spiralförmiges Inneres sehen. Obwohl\nseine Haut so dünn ist, ist sie sehr elastisch. Selbst scharfe\nReißzähne können sie nicht durchdringen.",
+        "Quapsel hat eine sehr dünne Haut. Durch sie hindurch\nkann man sogar sein spiralförmiges Inneres sehen. Obwohl\nseine Haut so dünn ist, ist sie sehr elastisch. Selbst scharfe\nReißzähne können sie nicht durchdringen.",
+        "Durch seine Haut hindurch kann man sein\nspiralförmiges Inneres sehen. Färbt sich dieses\nweiß, deutet das darauf hin, dass es krank ist.",
+        "Es kann noch nicht gut laufen. Sein Trainer\nsollte daher jeden Tag Laufübungen mit ihm\ndurchführen.",
+        "Trotz der Gefahren kommt es gerne an Land.\nTaucht ein Feind auf, flitzt es hastig auf seinen\nnoch wackligen Beinen zurück ins Wasser.",
+        "Die Ausrichtung seiner Spirale weist je nach\nRegion subtile Unterschiede auf. Quapsel-Fans\nerkennen diese auf einen Blick.",
+        "Offenbar unterscheidet sich die Ausrichtung\nseiner Spirale je nach Geburtsregion. Es kann\nbesser schwimmen als laufen.",
+        "Offenbar unterscheidet sich die Ausrichtung\nseiner Spirale je nach Geburtsregion. Es kann\nbesser schwimmen als laufen.",
+        "Quapsel kann besser schwimmen als laufen. Das\nSpiralmuster auf seinem Bauch ist ein Teil seiner\nInnereien, der durch die Haut sichtbar ist.",
+        "In schnell fließenden Flüssen hält es sich mithilfe\nseiner dicken Lippen, die als Saugnapf fungieren,\nan Felsen fest."
+    ],
+    "height": 0.6,
+    "id": 60,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "name": "Quapsel",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 12.4
+}

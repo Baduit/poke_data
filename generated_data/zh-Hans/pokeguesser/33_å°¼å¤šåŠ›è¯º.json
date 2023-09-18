@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "头上的犄角里含有毒素，\n当犄角撞穿了什么东西时，\n毒素就会随着冲击而流出。",
+        "头上的犄角里含有毒素，\n当犄角撞穿了什么东西时，\n毒素就会随着冲击而流出。",
+        "见着岩石，就会用自己比\n钻石还硬的角将其弄碎。\n它这么做是为了寻找月之石。",
+        "神经敏感，动不动就打架。\n体内的肾上腺素一增加，\n毒素的浓度也会提高。"
+    ],
+    "height": 0.9,
+    "id": 33,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "name": "尼多力诺",
+    "types": [
+        "毒"
+    ],
+    "weight": 19.5
+}

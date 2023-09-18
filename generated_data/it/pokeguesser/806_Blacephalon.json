@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Sembra che sia un’Ultracreatura. Si avvicina\nalle persone ondeggiando e fa esplodere la\nsua testa all’improvviso.",
+        "Ultracreatura arrivata attraverso un Ultravarco.\nSorprende le prede con un’esplosione e ne\napprofitta per sottrarre la loro energia vitale."
+    ],
+    "height": 1.8,
+    "id": 806,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "name": "Blacephalon",
+    "types": [
+        "Fuoco",
+        "Spettro"
+    ],
+    "weight": 13.0
+}

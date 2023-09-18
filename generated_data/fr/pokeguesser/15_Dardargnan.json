@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il virevolte rapidement autour de\nl’ennemi et frappe de son dard\nempoisonné avant de décamper.",
+        "Il virevolte rapidement autour de\nl’ennemi et frappe de son dard\nempoisonné avant de décamper.",
+        "Il se sert de ses trois aiguillons empoisonnés pour\nattaquer sans relâche ses adversaires.",
+        "On le voit souvent voler dans un essaim. Il vole très\nrapidement, piquant sans cesse ses adversaires de\nson dard toxique.",
+        "Dardargnan est extrêmement possessif. Il vaut mieux ne pas\ntoucher son nid si on veut éviter d’avoir des ennuis.\nLorsqu’ils sont en colère, ces Pokémon attaquent en masse.",
+        "Dardargnan est extrêmement possessif. Il vaut mieux ne pas\ntoucher son nid si on veut éviter d’avoir des ennuis.\nLorsqu’ils sont en colère, ces Pokémon attaquent en masse.",
+        "Il se sert de ses trois aiguillons empoisonnés\nsitués sur les pattes avant et l’abdomen pour\nattaquer sans relâche ses adversaires.",
+        "Il se sert de ses trois aiguillons empoisonnés\nsitués sur les pattes avant et l’abdomen pour\nattaquer sans relâche ses adversaires."
+    ],
+    "height": 1.0,
+    "id": 15,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "name": "Dardargnan",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 29.5
+}

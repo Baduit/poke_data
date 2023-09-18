@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il absorbe l’énergie des poteaux\nélectriques et encourage ses amis\navec des pompons d’étincelles.",
+        "Il absorbe l’énergie des poteaux\nélectriques et encourage ses amis\navec des pompons d’étincelles.",
+        "Il absorbe l’énergie des poteaux électriques et\nencourage ses amis avec des pompons d’étincelles.",
+        "Il absorbe l’énergie des poteaux électriques et\ncourt-circuite son corps pour produire du bruit.",
+        "Posipi sert de supporter à ses partenaires. Chaque fois qu’un\nmembre de son équipe fait une belle action dans un combat,\nce Pokémon court-circuite son corps et libère des étincelles\npour montrer sa joie.",
+        "Quand Posipi veut encourager son partenaire, des étincelles\njaillissent un peu partout de son corps. Si son partenaire perd,\nce Pokémon pleure à chaudes larmes."
+    ],
+    "height": 0.4,
+    "id": 311,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "name": "Posipi",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 4.2
+}

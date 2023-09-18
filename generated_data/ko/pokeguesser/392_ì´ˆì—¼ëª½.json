@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "머리에서 타오르는 불꽃처럼\n과격한 성격의 포켓몬이다.\n스피드는 누구에게도 지지 않는다.",
+        "스피드로 상대를 농락한다.\n양팔 양다리를 활용한\n독특한 방식으로 싸운다.",
+        "머리에서 타오르는 불꽃처럼\n과격한 성격의 포켓몬이다.\n스피드는 누구에게도 지지 않는다.",
+        "스피드로 상대를 농락한다.\n양팔 양다리를 활용한\n독특한 방식으로 싸운다."
+    ],
+    "height": 1.2,
+    "id": 392,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "name": "초염몽",
+    "types": [
+        "불꽃",
+        "격투"
+    ],
+    "weight": 55.0
+}

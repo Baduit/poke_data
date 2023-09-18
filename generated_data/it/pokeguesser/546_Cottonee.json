@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Se viene attaccato crea una nuvola di cotone per\nconfondere il nemico, poi ne approfitta per fuggire.",
+        "Si sentono più sicuri in gruppo, e quando incontrano\ni loro simili non li lasciano più formando come una\ngrande nuvola.",
+        "Se viene attaccato crea una nuvola di cotone per confondere\nil nemico, poi ne approfitta per fuggire.",
+        "Si sentono più sicuri in gruppo, e quando incontrano i loro\nsimili non li lasciano più formando come una grande nuvola.",
+        "Quando si incontrano, i Cottonee si attaccano\nl’uno all’altro. Se sono in tanti, possono formare\nammassi simili a immense nuvole.",
+        "Il cotone prodotto da Cottonee viene usato\nper cuscini e materassi leggeri, traspiranti\ne di ottima qualità.",
+        "Si difende creando una nuvola di cotone.\nQuando piove, il cotone si appesantisce\nper l’umidità impedendogli di muoversi.",
+        "Se viene attaccato, crea una nuvola di cotone\ncome diversivo. Il cotone consumato a questo\nscopo ricresce immediatamente.",
+        "Si difende creando una nuvola di cotone.\nA volte viene trasportato fino all’altro capo\ndel mondo dai tifoni.",
+        "Le case di alta moda utilizzano pregiati tessuti\nrealizzati con il cotone prodotto da Cottonee\ned Eldegoss."
+    ],
+    "height": 0.3,
+    "id": 546,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "name": "Cottonee",
+    "types": [
+        "Erba",
+        "Folletto"
+    ],
+    "weight": 0.6
+}

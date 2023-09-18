@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "りょうてあしの　ツメを　たいでんさせ\nあいてを　やつざき。　かわされても\nとびちる　でんげきで　かんでんさせる。",
+        "かみなりが　おちるのと　おなじ\nはやさで　てきに　きゅうせっきん。\nするどい　ツメで　やつざきに　する。",
+        "カミナリに　ひってきする　スピードで\nはしり　だいでんあつを　はっする\nツメで　てきを　やつざきにする。",
+        "てあしの　にくきゅうから　ほうでん。\nゼラオラが　かけぬけると　イナズマが\nひかり　らいめいが　とどろく。"
+    ],
+    "height": 1.5,
+    "id": 807,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "ゼラオラ",
+    "types": [
+        "でんき"
+    ],
+    "weight": 44.5
+}

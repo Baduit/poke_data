@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Certains petits Pokémon peuvent\nnaître sur son dos et y passer\ntoute leur vie.",
+        "Certains petits Pokémon peuvent\nnaître sur son dos et y passer\ntoute leur vie.",
+        "Autrefois, les gens pensaient qu’un gigantesque\nTorterra vivait sous la surface de la Terre.",
+        "Il arrive que de petits Pokémon se rassemblent sur\nson dos immobile pour y faire leur nid.",
+        "Autrefois, les gens pensaient qu’un gigantesque Torterra vivait\nsous la surface de la Terre.",
+        "Il arrive que de petits Pokémon se rassemblent sur son dos\nimmobile pour y faire leur nid."
+    ],
+    "height": 2.2,
+    "id": 389,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+    "name": "Torterra",
+    "types": [
+        "Plante",
+        "Sol"
+    ],
+    "weight": 310.0
+}

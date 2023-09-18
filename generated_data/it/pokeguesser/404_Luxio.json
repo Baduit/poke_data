@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dagli artigli rilascia un’elettricità talmente intensa\nda mandare KO il nemico. Vive in piccoli gruppi.",
+        "I suoi artigli rilasciano una forte corrente elettrica e\ncon un solo graffio manda KO i nemici.",
+        "Dagli artigli rilascia un’elettricità talmente intensa da mandare\nKO il nemico. Vive in piccoli gruppi.",
+        "I suoi artigli rilasciano una forte corrente elettrica e con\nun solo graffio manda KO i nemici.",
+        "Se collega la coda con quella dei suoi simili per\nricevere energia elettrica, può emettere scariche\nelettriche ancora più potenti.",
+        "Se incontra un nemico, si prepara alla lotta\nestraendo gli artigli dotati di una potenza pari\na 1 milione di volt."
+    ],
+    "height": 0.9,
+    "id": 404,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "name": "Luxio",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 30.5
+}

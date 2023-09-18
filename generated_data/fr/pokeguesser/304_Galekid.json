@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il vit habituellement au cœur des\nmontagnes. Affamé, il dévore\nparfois des rails et des voitures.",
+        "Il vit habituellement au cœur des\nmontagnes. Affamé, il dévore\nparfois des rails et des voitures.",
+        "Il vit habituellement au cœur des montagnes.\nAffamé, il dévore parfois des rails et des voitures.",
+        "L’armure d’acier qui recouvre son corps s’émiette\nquand il évolue pour laisser place à une nouvelle.",
+        "Ce Pokémon a un corps en acier. Pour constituer son corps,\nGalekid se nourrit de minerai de fer extrait des montagnes.\nDe temps en temps, il cause de nombreux dégâts en mangeant\ndes ponts ou des rails.",
+        "Galekid a un corps d’acier. En une seule charge, ce Pokémon\npeut démolir un camion poids lourd. Le camion détruit devient\nensuite le repas de ce Pokémon.",
+        "Il se nourrit de minerai de fer et parfois même\nde rails pour se fabriquer une armure d’acier\nqui protège son corps.",
+        "Quand il évolue, il perd son armure d’acier.\nAutrefois, les gens la ramassaient pour\nen faire usage dans leur vie quotidienne."
+    ],
+    "height": 0.4,
+    "id": 304,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "name": "Galekid",
+    "types": [
+        "Acier",
+        "Roche"
+    ],
+    "weight": 60.0
+}

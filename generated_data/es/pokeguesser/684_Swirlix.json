@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Escupe hebras pegajosas de color blanco y textura\nparecida a la del algodón de azúcar, con las que\nenvuelve al enemigo y le impide que se mueva.",
+        "Como se alimenta exclusivamente de dulces, su\npelaje es tan pegajoso y dulzón como el algodón\nde azúcar.",
+        "Escupe hebras pegajosas de color blanco y textura parecida a\nla del algodón de azúcar, con las que envuelve al enemigo y\nle impide que se mueva.",
+        "Como se alimenta exclusivamente de dulces, su pelaje es tan\npegajoso y dulzón como el algodón de azúcar.",
+        "Ingiere diariamente una cantidad de azúcar\nequivalente a su peso corporal. De lo contrario,\nse pone de muy mal humor.",
+        "Su esponjoso pelaje desprende un olor dulzón\ncomo el del algodón de azúcar. Escupe hebras\npegajosas con las que envuelve a sus enemigos."
+    ],
+    "height": 0.4,
+    "id": 684,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+    "name": "Swirlix",
+    "types": [
+        "Hada"
+    ],
+    "weight": 3.5
+}

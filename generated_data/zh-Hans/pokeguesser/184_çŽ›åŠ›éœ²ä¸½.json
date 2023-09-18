@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "一天大部分的时间都在\n水中度过。天晴时会\n浮到水面上晒太阳。",
+        "会制作填满空气的泡泡。\n当露力丽在河里玩的时候，\n它就会用这个泡泡包住露力丽。"
+    ],
+    "height": 0.8,
+    "id": 184,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "name": "玛力露丽",
+    "types": [
+        "水",
+        "妖精"
+    ],
+    "weight": 28.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Vive en el agua y, cuando hace sol, se queda en la\norilla. De día duerme sobre las algas y de noche entra\nen acción.",
+        "Tiene carácter travieso. Si ve un pescador, tira del\nanzuelo para confundirlo.",
+        "Lombre es, además de travieso, nocturno; entra en acción de\nnoche. Cuando ve a gente pescando, se pone a tirar del sedal\npor debajo del agua y se divierte viendo la cara de enfado que\nse les queda.",
+        "Lombre está completamente recubierto por una película\nviscosa y resbaladiza. La sensación que produce cuando\nroza a alguien con las manos es muy desagradable. A veces\nse confunde a este Pokémon con un niño pequeño.",
+        "Este Pokémon nocturno entra en acción al caer\nla tarde. Se alimenta del musgo que crece en el\nlecho de los ríos.",
+        "Vive en las riberas bañadas por el sol. De día\nduerme sobre un lecho de plantas acuáticas y de\nnoche entra en acción."
+    ],
+    "height": 1.2,
+    "id": 271,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "name": "Lombre",
+    "types": [
+        "Agua",
+        "Planta"
+    ],
+    "weight": 32.5
+}

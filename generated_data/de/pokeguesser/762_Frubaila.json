@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Seinen Blütenkelch hat es zum Selbstschutz\nausgebildet. Er ist so hart, dass selbst das\nPicken von Vogel-Pokémon es nicht stört.",
+        "Es hüpft immerzu fröhlich umher. Seine\nlebensfrohe Art und sein Wohlgeruch\nziehen Pokémon in der Nähe förmlich an.",
+        "Es kann bedenkenlos mit Vogel-Pokémon\nspielen, da sein fester Blütenkelch es schützt.\nDas pausenlose Gepicke ist ihm einerlei.",
+        "Es bewegt sich hüpfend umher und schüttelt\ndabei den Blütenkelch auf seinem Kopf. Ein\nZusammenprall mit ihm ist ziemlich schmerzhaft.",
+        "Es dreht sich tänzerisch um sich selbst und\nverströmt einen süßen Duft, der jeden glücklich\nmacht, der ihn riecht.",
+        "Nach ihm pickende Kranoviz greift es mit dem\nBlütenkelch auf seinem Kopf an, bevor es sie mit\nagilen Kicktechniken bearbeitet."
+    ],
+    "height": 0.7,
+    "id": 762,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+    "name": "Frubaila",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 8.2
+}

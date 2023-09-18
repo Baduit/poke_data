@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Steht der Sommer bevor, werden die Blätter um\ndas Gesicht dieses Pokémon aktiv und lebhaft.",
+        "Warmes Sonnenlicht gibt ihm Energie. Daher wandert\nes stets dem Sonnenlicht hinterher.",
+        "Sonnflora verwandelt Solarenergie in Nährstoffe. Tagsüber,\nwenn es warm ist, ist es sehr aktiv. Wenn aber die Sonne\nuntergegangen ist, hört es auf, sich zu bewegen.",
+        "Sonnflora verwandelt Solarenergie in Nährstoffe. Tagsüber,\nwenn es warm ist, ist es sehr aktiv. Wenn aber die Sonne\nuntergegangen ist, hört es auf, sich zu bewegen."
+    ],
+    "height": 0.8,
+    "id": 192,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+    "name": "Sonnflora",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 8.5
+}

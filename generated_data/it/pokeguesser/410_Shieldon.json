@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si pulisce il muso strofinandolo contro i tronchi\ndegli alberi. È vulnerabile agli attacchi alle spalle.",
+        "Nato da un fossile portato alla luce da uno strato di\n100 milioni di anni fa. Ha un muso resistente.",
+        "Si pulisce il muso strofinandolo contro i tronchi degli alberi.\nÈ vulnerabile agli attacchi alle spalle.",
+        "Nato da un fossile portato alla luce da uno strato di\n100 milioni di anni fa. Ha un muso resistente.",
+        "Tutti gli esemplari fossilizzati di questo\nPokémon sono perfettamente conservati nella\nzona del muso, priva di qualsiasi scalfittura.",
+        "Viveva nelle giungle preistoriche. Si pensa\nche avesse pochi predatori per via del muso\nincredibilmente robusto.",
+        "Era un docile Pokémon erbivoro. Si serviva del\nmuso protetto dalla pelle coriacea per scavare\nnel terreno e mangiare le radici degli alberi.",
+        "Fossili di questo Pokémon sono stati trovati in\nstrati geologici antichissimi. Tuttavia, gli unici\nresti pervenuti costituiscono parti del muso."
+    ],
+    "height": 0.5,
+    "id": 410,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "name": "Shieldon",
+    "types": [
+        "Roccia",
+        "Acciaio"
+    ],
+    "weight": 57.0
+}

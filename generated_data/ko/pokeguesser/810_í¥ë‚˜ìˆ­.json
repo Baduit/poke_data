@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "특별한 스틱으로 리듬을 타면\n화초를 생생하게 만드는 힘이\n음파가 되어 퍼진다.",
+        "스틱으로 연타하여 공격한다.\n굉장한 속도로 치다 보면\n점점 텐션이 올라간다."
+    ],
+    "height": 0.3,
+    "id": 810,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+    "name": "흥나숭",
+    "types": [
+        "풀"
+    ],
+    "weight": 5.0
+}

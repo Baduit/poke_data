@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es benutzt das Fell an seinen Armen als Peitsche.\nBeide Arme bewegen sich dabei\nmit atemberaubender Geschwindigkeit.",
+        "Niemand kann es aufhalten, wenn es eine Angriffsserie\nmit seinen peitschenartigen Armen startet.",
+        "Es benutzt das Fell an seinen Armen als Peitsche. Beide Arme\nbewegen sich dabei mit atemberaubender Geschwindigkeit.",
+        "Niemand kann es aufhalten, wenn es eine Angriffsserie mit\nseinen peitschenartigen Armen startet.",
+        "Es überwältigt seine Gegner mit einer Serie aus\nAngriffen. Den finalen Stoß versetzt es ihnen\nerst, nachdem es seine Energie gebündelt hat.",
+        "Gibt es einen sonderbaren Laut von sich, sollte\nman schnell in Deckung gehen, da eine rasante\nAngriffsserie aus Schlägen und Tritten folgt.",
+        "Begegnet es einem wahrhaft starken Gegner,\nbeißt es das Fell an seinen Armen ab, um an\nBeweglichkeit zu gewinnen.",
+        "Seine mit atemberaubender Geschwindigkeit\nausgeführten Tritte können selbst riesige Felsen\nin winzige Stücke zerschmettern."
+    ],
+    "height": 1.4,
+    "id": 620,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "name": "Wie-Shu",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 35.5
+}

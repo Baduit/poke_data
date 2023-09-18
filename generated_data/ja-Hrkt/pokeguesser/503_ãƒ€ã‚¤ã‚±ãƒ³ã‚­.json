@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "てきが　まばたきする　あいだに\nまえあしに　ついた　アシガタナで\nあいてを　きりつけ　もとにもどせる。",
+        "よろいに　しこまれた　つるぎの\nひとふりで　あいてを　たおす。\nひとにらみで　てきを　だまらせる。",
+        "てきが　まばたきする　あいだに\nまえあしに　ついた　アシガタナで\nあいてを　きりつけ　もとにもどせる。",
+        "よろいに　しこまれた　つるぎの\nひとふりで　あいてを　たおす。\nひとにらみで　てきを　だまらせる。"
+    ],
+    "height": 1.5,
+    "id": 503,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+    "name": "ダイケンキ",
+    "types": [
+        "みず"
+    ],
+    "weight": 94.6
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Di notte comunica con gli altri illuminando la sua\ncoda. Ama il dolce aroma di Illumise.",
+        "Vive vicino a stagni puliti. Di notte, la sua coda\nlancia una luce intermittente per comunicare.",
+        "Quando cala la notte, Volbeat emette una luce intensa\ndalla coda. Comunica con gli altri regolando l’intensità e\nl’intermittenza della propria luce. Il Pokémon è attratto\ndal dolce aroma di Illumise.",
+        "La coda di Volbeat si illumina come una lampadina.\nAssieme ai suoi simili usa la coda per tracciare figure\ngeometriche nel cielo notturno. Questo Pokémon ama\nil dolce aroma emanato da Illumise."
+    ],
+    "height": 0.7,
+    "id": 313,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "name": "Volbeat",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 17.7
+}

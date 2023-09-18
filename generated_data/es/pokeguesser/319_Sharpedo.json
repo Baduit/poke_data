@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Con sus colmillos puede atravesar el acero. Nada a\n120 km/h. Le llaman el Terror de los Mares.",
+        "Propulsándose con sus aletas, nada a 120 km/h.\nEs el terror de los mares.",
+        "Conocido como el Terror de los Mares, Sharpedo es temido\npor todos. Si este Pokémon pierde los escalofriantes\ncolmillos que tiene, los recupera en breve. Basta con un\nSharpedo para destrozar un buque-cisterna.",
+        "Sharpedo puede alcanzar nadando los 120 km/h agitando\nla aleta trasera y propulsándose por el agua. El punto flaco\nde este Pokémon es la imposibilidad que tiene de nadar\nlargas distancias.",
+        "Puede nadar a 120 km/h y abatir a su presa\ncon sus colmillos, capaces de destrozar incluso\nel metal. Su apodo es el Terror de los Mares.",
+        "Este Pokémon tiene un pasado triste, ya que\nantaño fue pescado en exceso por lo deliciosa\nque era su aleta dorsal.",
+        "Existe la creencia de que sus dientes traen\nbuena suerte en la mar, por lo que se usan para\nla elaboración de amuletos y adornos.",
+        "Nada tragando agua marina, que le sirve de\npropulsión al expelerla por detrás. Su olfato es\nextremadamente sensible al olor de la sangre.",
+        "En cuanto detecta el olor de una presa, expele\nagua marina para propulsarse hacia delante y\natacar a una velocidad de 120 km/h.",
+        "Conocido como el Terror de los Mares, ataca sin\nexcepción a todo barco que ose adentrarse en su\nterritorio oceánico."
+    ],
+    "height": 1.8,
+    "id": 319,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "name": "Sharpedo",
+    "types": [
+        "Agua",
+        "Siniestro"
+    ],
+    "weight": 88.8
+}

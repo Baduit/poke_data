@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "La piel le sirve de escudo protector. Puede vivir en\nlava líquida a 2000 °C de temperatura.",
+        "Cuando evoluciona, comienza a andar con las patas\ntraseras. Es capaz de horadar rocas con el cuerno que\ntiene.",
+        "Rhydon tiene un cuerno capaz de horadar hasta un diamante\nen bruto y con una sacudida de la cola puede derribar un\nedificio. La piel de este Pokémon es muy fuerte; ni los\ndisparos de un cañón le arañarían.",
+        "Rhydon tiene un cuerno anillado que le sirve de taladro. Le\nresulta muy útil para horadar rocas y piedras. A veces, se\nqueda atrapado en corrientes de magma, pero la tosca piel\nque tiene impide que sienta el calor.",
+        "Pasar a ser bípedo le ha permitido desarrollar su\ninteligencia. La piel, rígida como una armadura,\nresiste incluso el magma.",
+        "Pasar a ser bípedo le ha permitido desarrollar su\ninteligencia. La piel, rígida como una armadura,\nresiste incluso el magma.",
+        "Cuando evoluciona, comienza a andar con las\npatas traseras. Es capaz de horadar rocas con el\ncuerno que tiene.",
+        "La piel le sirve de escudo protector. Puede vivir\nen lava líquida a 2000 °C."
+    ],
+    "height": 1.9,
+    "id": 112,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "name": "Rhydon",
+    "types": [
+        "Tierra",
+        "Roca"
+    ],
+    "weight": 120.0
+}

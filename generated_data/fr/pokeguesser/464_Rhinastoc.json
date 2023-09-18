@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il peut lancer des pierres à une\nvitesse saisissante en bandant et\nrelâchant ses muscles en un éclair.",
+        "Il peut lancer des pierres à une\nvitesse saisissante en bandant et\nrelâchant ses muscles en un éclair.",
+        "Ses paumes projettent des Racaillou, et son corps\ncouvert de Protecteurs résiste même à une éruption\nvolcanique.",
+        "Il bande ses muscles pour projeter des pierres ou\ndes Racaillou depuis le creux de ses paumes.",
+        "Ses paumes projettent des Racaillou, et son corps couvert\nde Protecteurs résiste même à une éruption volcanique.",
+        "Il bande ses muscles pour projeter des pierres ou\ndes Racaillou depuis le creux de ses paumes.",
+        "Il met des rochers ou des Nodulithe dans le creux\nde ses mains et les tire comme des obus.\nIl peut ainsi en charger trois par bras.",
+        "Il repousse les attaques avec ses Protecteurs et\nprofite du moment où l’adversaire est déstabilisé\npour le transpercer avec sa vrille, dont il est fier."
+    ],
+    "height": 2.4,
+    "id": 464,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "name": "Rhinastoc",
+    "types": [
+        "Sol",
+        "Roche"
+    ],
+    "weight": 282.8
+}

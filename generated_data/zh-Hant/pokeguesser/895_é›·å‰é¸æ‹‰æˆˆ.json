@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "有學者認為牠的手臂是\n古代龍寶可夢頭部的形狀。\n但這個學說尚未被證實。",
+        "全身是由龍之能量的結晶\n打造而成。據說牠擁有\n所有的龍寶可夢的力量。"
+    ],
+    "height": 2.1,
+    "id": 895,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+    "name": "雷吉鐸拉戈",
+    "types": [
+        "龍"
+    ],
+    "weight": 200.0
+}

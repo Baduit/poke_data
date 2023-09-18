@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Ses cellules ont commencé à changer\ndans sa robuste coquille. Il la perd\nen évoluant.",
+        "Ses cellules ont commencé à changer\ndans sa robuste coquille. Il la perd\nen évoluant.",
+        "Ses cellules ont commencé à changer dans sa\nrobuste coquille. Il la perd en évoluant.",
+        "Son corps renforcé repousse toutes les attaques.\nCependant, le poids important de cette armure\nempêche Drackhaus de se déplacer librement.",
+        "À l’intérieur de la carapace blindée de Drackhaus,\nses cellules sont en pleine transformation pour créer\nun nouveau corps. La carapace de ce Pokémon est\ntrès lourde, ce qui rend ses mouvements très lents.",
+        "Des excroissances osseuses recouvrent le corps de\nDrackhaus. Cette carapace est extrêmement dure et le\nprotège des attaques ennemies. En attendant son évolution,\nce Pokémon reste caché dans une caverne.",
+        "À l’intérieur de sa carapace, ses cellules\nsubissent un bouleversement cataclysmique.\nIl se prépare ainsi à son évolution.",
+        "Il se cache sans bouger au fond de sa grotte,\nsans eau ni nourriture. Les raisons de sa survie\nsont, à franchement parler, un véritable mystère.",
+        "À l’intérieur de sa carapace, dont la composition\ns’apparente à celle des os, son corps subit\nune véritable révolution cellulaire.",
+        "Il habite au fond des grottes et, bien à l’abri\nau creux de sa solide carapace, il rêve du jour\noù il pourra enfin s’envoler dans les cieux.",
+        "Ce Pokémon emmagasine l’énergie nécessaire\nà son évolution sous sa carapace dont\nla composition est identique à celles des os.",
+        "Il se prive de nourriture, résistant à la faim.\nOn dit que son évolution commence lorsque\nses réserves d’énergie sont épuisées."
+    ],
+    "height": 1.1,
+    "id": 372,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "name": "Drackhaus",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 110.5
+}

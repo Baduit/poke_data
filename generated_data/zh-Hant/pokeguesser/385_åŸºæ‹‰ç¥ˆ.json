@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "每１０００年讓牠聽一次\n清澈的歌聲，就能讓牠\n維持７天的清醒。",
+        "傳說當牠從１０００年的\n沉睡中醒來時，會實現\n寫在牠頭部許願箋上的願望。"
+    ],
+    "height": 0.3,
+    "id": 385,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "name": "基拉祈",
+    "types": [
+        "鋼",
+        "超能力"
+    ],
+    "weight": 1.1
+}

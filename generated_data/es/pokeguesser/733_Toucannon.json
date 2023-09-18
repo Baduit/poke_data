@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Cuando va a combatir, calienta su pico hasta\ntemperaturas que superan los 100 °C, lo que\npuede causar graves quemaduras al contacto.",
+        "Hace estallar los gases de su interior para\ndisparar semillas por el pico con una potencia\ncapaz de pulverizar rocas enormes.",
+        "Se comunican con sus compañeros chocando los\npicos. El número de veces y la fuerza con la que\nlo hacen transmiten sus distintos sentimientos.",
+        "Las parejas de Toucannon son famosas por la\narmonía que reina entre ellas. Por eso se llevan\na las bodas como portadores de buena fortuna."
+    ],
+    "height": 1.1,
+    "id": 733,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "name": "Toucannon",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 26.0
+}

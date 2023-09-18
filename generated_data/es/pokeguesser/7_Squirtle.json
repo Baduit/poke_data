@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se protege con su caparazón y luego contraataca\nlanzando agua a presión cuando tiene oportunidad.",
+        "Lanza agua a su presa desde el agua. Se esconde en\nsu concha cuando se siente en peligro.",
+        "El caparazón de Squirtle no le sirve de protección únicamente.\nSu forma redondeada y las hendiduras que tiene le ayudan\na deslizarse en el agua y le permiten nadar a gran velocidad.",
+        "El caparazón de Squirtle no le sirve de protección únicamente.\nSu forma redondeada y las hendiduras que tiene le ayudan\na deslizarse en el agua y le permiten nadar a gran velocidad.",
+        "Escupe chorros de agua mientras flota para\ncapturar a sus presas. Se esconde en su\ncaparazón cuando se siente en peligro.",
+        "Escupe chorros de agua mientras flota para\ncapturar a sus presas. Se esconde en su\ncaparazón cuando se siente en peligro.",
+        "Cuando retrae su largo cuello en el caparazón,\ndispara agua a una presión increíble.",
+        "Cuando se siente en peligro, se esconde en su\ncaparazón y escupe chorros de agua por la boca."
+    ],
+    "height": 0.5,
+    "id": 7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "name": "Squirtle",
+    "types": [
+        "Agua"
+    ],
+    "weight": 9.0
+}

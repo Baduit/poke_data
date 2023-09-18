@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Fue recreado a partir de un fósil con forma esférica.\nDerriba a las presas a cabezazos.",
+        "Vivía en la jungla hace 100 millones de años.\nApartaba los árboles del camino a cabezazos.",
+        "Fue recreado a partir de un fósil con forma esférica. Derriba a\nlas presas a cabezazos.",
+        "Vivía en la jungla hace 100 millones de años. Apartaba los\nárboles del camino a cabezazos.",
+        "Vivía en la jungla hace 100 millones de años.\nGracias a su destreza propinando cabezazos\npodía hacerle frente a Aerodactyl.",
+        "En los estratos geológicos donde se encuentran\nfósiles de Cranidos también aparecen muchos\nfósiles de árboles destrozados.",
+        "Este Pokémon arcaico cuenta con un cráneo\nsólido y resistente, pero su cerebro no está a la\npar.",
+        "Se caracteriza por la dureza de su cráneo.\nDerribaba árboles a cabezazos para comerse\nlas bayas maduras que colgaban de ellos."
+    ],
+    "height": 0.9,
+    "id": 408,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "name": "Cranidos",
+    "types": [
+        "Roca"
+    ],
+    "weight": 31.5
+}

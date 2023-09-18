@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ミツを見つけると　三日月模様が\n輝く。甘いミツが　染みこんだ\n手のひらを　いつも　なめている。",
+        "食べ物が　減る　冬の前に\nあちこちに　食べ物を　隠す\n習性を　持っている。",
+        "ミツの　染み込んだ　手の平を　なめている。\nヒメグマの　ミツは　果物と　スピアーの\n集めた　花粉が　ブレンドされて　つくられる。",
+        "ハチミツの　染み込んだ　手の平を　なめている。\nヒメグマの　ハチミツは　果物と　スピアーの\n集めた　花粉が　ブレンドされて　つくられる。"
+    ],
+    "height": 0.6,
+    "id": 216,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+    "name": "ヒメグマ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 8.8
+}

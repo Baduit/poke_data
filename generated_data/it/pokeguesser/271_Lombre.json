@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Vive in riva a specchi d’acqua, in aree soleggiate.\nDi giorno dorme su di un letto di alghe, mentre la\nnotte è attivo.",
+        "È un po’ dispettoso. Se vede un pescatore, gli tira\nla lenza solo per dargli fastidio.",
+        "Lombre è un Pokémon notturno, che si sveglia dopo\nil crepuscolo. È anche molto dispettoso: quando scopre\nun pescatore, inizia a tirare l’amo sott’acqua e si diverte\na spiare la costernazione del malcapitato.",
+        "L’intero corpo di Lombre è ricoperto di una pellicola viscida\ne scivolosa. Il contatto con le sue zampe dà una sensazione\norribile. Spesso Lombre è confuso con un bambino piccolo.",
+        "È un Pokémon notturno, che si sveglia dopo\nil crepuscolo. Si nutre di sfagno, che trova nei\nletti dei fiumi.",
+        "Vive in riva a specchi d’acqua, in aree soleggiate.\nDi giorno dorme su di un letto di piante\nacquatiche, mentre la notte è attivo."
+    ],
+    "height": 1.2,
+    "id": 271,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "name": "Lombre",
+    "types": [
+        "Acqua",
+        "Erba"
+    ],
+    "weight": 32.5
+}

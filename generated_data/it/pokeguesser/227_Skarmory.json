@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Facendo il nido tra i rovi, le ali dei suoi piccoli si\nrinforzano per i graffi causati dalle spine.",
+        "È interamente rivestito da un’armatura dura come\nl’acciaio. Vola alla velocità di 300 km/h.",
+        "Skarmory è interamente corazzato all’interno di una dura\narmatura di protezione. Vola alla velocità di 300 km/h.\nLacera il nemico con le sue ali taglienti come la lama\ndi una spada.",
+        "Le ali d’acciaio di Skarmory portano i segni e le ammaccature\ndelle lotte. Una volta l’anno le ali ricrescono completamente,\nripristinando il filo tagliente delle lame.",
+        "Le piume che perde nella crescita sono sottili\ne taglienti. In passato, i guerrieri le usavano\nper fabbricare le spade.",
+        "Il suo corpo d’acciaio è molto robusto, ma si\narrugginisce facilmente, quindi quando piove\ndeve starsene rintanato.",
+        "Le piume che perde vengono usate per\nfabbricare coltelli affilatissimi, particolarmente\napprezzati dai migliori cuochi.",
+        "L’armatura d’acciaio di cui è rivestito lo fa\nsembrare pesante, ma nonostante questa può\nvolare a una velocità di 300 km/h.",
+        "Le sue piume affilate sono più taglienti di una\nspada. Ha violenti scontri con Corviknight per\nil controllo del territorio.",
+        "Le piume perse da Skarmory sono utilizzate per\nprodurre spade. Per questo è molto apprezzato\ncome motivo degli stemmi nobiliari."
+    ],
+    "height": 1.7,
+    "id": 227,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "name": "Skarmory",
+    "types": [
+        "Acciaio",
+        "Volante"
+    ],
+    "weight": 50.5
+}

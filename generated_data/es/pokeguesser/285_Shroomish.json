@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Prefiere los sitios húmedos. De día está tranquilamente\nen el bosque, a la sombra. Expulsa polvo tóxico por la\ncabeza.",
+        "Lanza esporas venenosas desde la parte superior de\nla cabeza. Inhalarlas es muy doloroso.",
+        "Los Shroomish viven en zonas húmedas en la profunda\noscuridad del bosque. Suelen quedarse tranquilamente bajo\nlas hojas caídas. Se alimentan del abono que estas generan al\nempezar a pudrirse.",
+        "Si Shroomish siente peligro, agita el cuerpo y libera esporas\nvenenosas por la cabeza. Estas esporas son tan tóxicas que\npueden hacer que se marchiten los árboles y hasta las malas\nhierbas."
+    ],
+    "height": 0.4,
+    "id": 285,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "name": "Shroomish",
+    "types": [
+        "Planta"
+    ],
+    "weight": 4.5
+}

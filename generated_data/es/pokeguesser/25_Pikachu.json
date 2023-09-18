@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Levanta su cola para vigilar los alrededores. A veces,\npuede ser alcanzado por un rayo en esa pose.",
+        "Las bolsas de las mejillas están llenas de electricidad,\nque libera cuando se siente amenazado.",
+        "Cada vez que un Pikachu se encuentra con algo nuevo, le\nlanza una descarga eléctrica. Cuando se ve alguna baya\nchamuscada, es muy probable que sea obra de un Pikachu,\nya que a veces no controlan la intensidad de la descarga.",
+        "Este Pokémon tiene unas bolsas en las mejillas donde\nalmacena electricidad. Parece ser que se recargan por la\nnoche, mientras Pikachu duerme. A veces, cuando se acaba\nde despertar y está aún medio dormido, descarga un poco.",
+        "Recientemente se ha presentado un proyecto\npara reunir numerosos Pikachu y crear con ellos\nuna central eléctrica.",
+        "Pikachu almacena electricidad en su cuerpo.\nSi no la libera de vez en cuando y se desfoga,\npuede sufrir estrés.",
+        "Acumulan electricidad de forma natural. Los\nbosques donde habitan en grupos están en\npeligro constante de ser alcanzados por rayos.",
+        "Mientras duerme, acumula electricidad en las\nbolsas de sus mejillas. Si no logra conciliar el\nsueño, solo puede emitir débiles descargas.",
+        "Los bosques son su hábitat natural. En las bolsas\nde las mejillas acumula electricidad, por lo que\nquien las toque puede recibir una descarga.",
+        "Los bosques son su hábitat natural. En las bolsas\nde las mejillas acumula electricidad, por lo que\nquien las toque puede recibir una descarga.",
+        "Cuanto más potente es la energía eléctrica que\ngenera este Pokémon, más suaves y elásticas se\nvuelven las bolsas de sus mejillas.",
+        "Los miembros de esta especie se saludan entre\nsí uniendo sus colas y transmitiéndose corriente\neléctrica."
+    ],
+    "height": 0.4,
+    "id": 25,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "name": "Pikachu",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 6.0
+}

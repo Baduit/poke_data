@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "用速度快的招式压倒对手。\n使出必杀技时的展示时间过长，\n有时候会陷入危机。",
+        "会用轻巧的跳跃\n跳到对手的死角来战斗。\n也很擅长华丽的关节招式。",
+        "利用发挥轻盈体型优势的战法，\n在消耗了对手的体力之后\n使用华丽的绝招分出胜负。",
+        "在使出致命的绝招之前\n一定要先摆出华丽的姿势。\n有时也会在这一刻遭到反击。"
+    ],
+    "height": 0.8,
+    "id": 701,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "name": "摔角鹰人",
+    "types": [
+        "格斗",
+        "飞行"
+    ],
+    "weight": 21.5
+}

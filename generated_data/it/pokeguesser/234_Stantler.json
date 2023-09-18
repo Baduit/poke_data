@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Chi fissa le sue corna riceve una strana sensazione,\nquasi come se venisse risucchiato.",
+        "Le corna ricurve modificano le correnti d’aria, creando\nuna strana zona di distorsione della realtà.",
+        "Le magnifiche corna ramificate di Stantler venivano vendute\na caro prezzo come ornamenti preziosi. Questo ha causato\nuna caccia indiscriminata di questo Pokémon fin quasi\nall’estinzione.",
+        "Le magnifiche corna ramificate di Stantler venivano vendute\na caro prezzo come ornamenti preziosi. Questo ha causato\nuna caccia indiscriminata di questo Pokémon fin quasi\nall’estinzione."
+    ],
+    "height": 1.4,
+    "id": 234,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "name": "Stantler",
+    "types": [
+        "Normale"
+    ],
+    "weight": 71.2
+}

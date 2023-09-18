@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il accule l’ennemi par ses mouvements\nrapides et l’attaque avec ses cornes.\nIl ne s’arrête qu’au coup de grâce.",
+        "Il inocule du poison à ses ennemis\npar les griffes de son cou.\nIl est extrêmement agressif.",
+        "Il paralyse l’ennemi avec les griffes de son cou avant\nde mettre fin au combat grâce à son poison virulent.",
+        "Il accule l’ennemi par ses mouvements rapides et\nl’attaque avec ses cornes. Il ne s’arrête qu’au coup\nde grâce.",
+        "Il paralyse l’ennemi avec les griffes de son cou avant\nde mettre fin au combat grâce à son poison virulent.",
+        "Il accule l’ennemi par ses mouvements rapides et l’attaque\navec ses cornes. Il ne s’arrête qu’au coup de grâce.",
+        "Après avoir saisi sa proie à l’aide des griffes\nde son cou, il la plaque au sol puis la transperce\navec ses épines empoisonnées.",
+        "Il défend son territoire avec acharnement contre\nson ennemi Scolocendre. Le perdant sert de dîner\nau vainqueur."
+    ],
+    "height": 2.5,
+    "id": 545,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "name": "Brutapode",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 200.5
+}

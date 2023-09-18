@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Unter allen Pokémon verfügt es über die stärksten\nhypnotischen Kräfte, mit denen es Gegner nach\nBelieben kontrollieren kann.",
+        "Mit seinen hypnotischen Kräften lockt es Gegner an,\nhält sie mit den Tentakeln an seinem Kopf fest und\nzersetzt sie dann mit Verdauungssekret.",
+        "Unter allen Pokémon verfügt es über die stärksten\nhypnotischen Kräfte, mit denen es Gegner nach Belieben\nkontrollieren kann.",
+        "Mit seinen hypnotischen Kräften lockt es Gegner an, hält sie\nmit den Tentakeln an seinem Kopf fest und zersetzt sie dann\nmit Verdauungssekret.",
+        "Dieses Pokémon kann starke hypnotische\nKräfte einsetzen, die ständig von Halunken für\nüble Machenschaften missbraucht werden.",
+        "Mithilfe der blinkenden Muster an seinem Rumpf\nhypnotisiert es seine Beute und lockt sie an. Die\nEnden seiner Flossen sind rasiermesserscharf.",
+        "Blickt man in das Licht, das es mit seinem Körper\nerzeugt, wird man sofort hypnotisiert und steht\ndanach unter der Kontrolle von Calamanero.",
+        "Man erzählt sich, dass die hypnotischen Kräfte\ndieses Pokémon mit einigen geschichtsträchtigen\nEreignissen in Verbindung stehen."
+    ],
+    "height": 1.5,
+    "id": 687,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "name": "Calamanero",
+    "types": [
+        "Unlicht",
+        "Psycho"
+    ],
+    "weight": 47.0
+}

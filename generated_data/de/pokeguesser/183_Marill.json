@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sein Fell ist von Natur aus wasserabweisend.\nEs bleibt trocken, auch wenn es im Wasser spielt.",
+        "Seine Schweifspitze ist mit Öl gefüllt, das leichter\nals Wasser ist, sodass es nicht untergeht.",
+        "Marills Schweif ist mit Öl gefüllt und dient ihm als eine Art\nRettungsring. Wenn nur sein Schweif an der Wasseroberfläche\nzu sehen ist, taucht dieses Pokémon gerade, um sich von\nWasserpflanzen zu ernähren.",
+        "Wenn es am Ufer eines reißenden Flusses fischt,\nwickelt Marill seinen Schweif um einen Baumstamm.\nDer Schweif dieses Pokémon ist flexibel und elastisch,\nsodass es ihn ausdehnen kann.",
+        "Marills runde Schweifspitze dient ihm als eine Art\nSchwimmring. Sie ist mit Nährstoffen gefüllt,\ndie in Fett umgewandelt wurden.",
+        "Sein wasserabweisendes Fell trocknet sofort und\nhält Marill warm, selbst wenn es aus kaltem\nMeerwasser auftaucht."
+    ],
+    "height": 0.4,
+    "id": 183,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "name": "Marill",
+    "types": [
+        "Wasser",
+        "Fee"
+    ],
+    "weight": 8.5
+}

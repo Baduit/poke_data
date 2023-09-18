@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il améliore ses réflexes en\nstimulant ses muscles grâce à \nl’électricité dans sa fourrure.",
+        "Il améliore ses réflexes en\nstimulant ses muscles grâce à \nl’électricité dans sa fourrure.",
+        "Il améliore ses réflexes en stimulant ses muscles\ngrâce à l’électricité dans sa fourrure.",
+        "Dynavolt stocke de l’électricité statique dans sa\nfourrure. Il produit des étincelles lorsque le temps\ndevient orageux.",
+        "Dynavolt stocke de l’électricité dans les poils de son corps\nallongé. Ce Pokémon stimule les muscles de ses jambes\navec des charges électriques, ce qui le rend capable\nd’accélérations fulgurantes.",
+        "Dynavolt court tellement vite que l’œil humain ne peut pas\nle suivre. La friction générée par sa course est convertie en\nélectricité, puis stockée dans la fourrure de ce Pokémon.",
+        "La friction de ses poils avec l’air génère de\nl’électricité statique quand il court et produit\nun son qui s’apparente à des crépitements.",
+        "Il est très fier de sa vitesse et peut envelopper\nson corps d’électricité statique en frottant\nses longs poils.",
+        "Il émet des décharges à partir de l’électricité\nstatique accumulée dans sa fourrure. Il produit\ndes étincelles lorsque le temps devient orageux.",
+        "L’électricité statique s’accumule dans sa fourrure.\nPar temps sec, elle dégage des étincelles."
+    ],
+    "height": 0.6,
+    "id": 309,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "name": "Dynavolt",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 15.2
+}

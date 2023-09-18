@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "This Pokémon is said to have been born when\na lonely spirit possessed a cold, leftover cup\nof tea.",
+        "The teacup in which this Pokémon makes its\nhome is a famous piece of antique tableware.\nMany forgeries are in circulation."
+    ],
+    "height": 0.1,
+    "id": 854,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "name": "Sinistea",
+    "types": [
+        "Ghost"
+    ],
+    "weight": 0.2
+}

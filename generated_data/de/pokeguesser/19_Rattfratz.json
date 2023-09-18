@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es baut sein Nest, wo es Futter findet. Es ist den\nganzen Tag auf der Suche nach etwas Essbarem.",
+        "Seine Reißzähne sind lang und scharf. Da sie\nständig wachsen, nagt es immerzu an etwas,\num sie abzuwetzen.",
+        "Rattfratz ist extrem vorsichtig. Sogar im Schlaf nimmt es\nalles wahr, indem es seine Ohren bewegt. Es stellt keine\ngroßen Ansprüche an seinen Lebensraum und richtet sein\nNest überall ein.",
+        "Rattfratz ist extrem vorsichtig. Sogar im Schlaf nimmt es\nalles wahr, indem es seine Ohren bewegt. Es stellt keine\ngroßen Ansprüche an seinen Lebensraum und richtet sein\nNest überall ein.",
+        "Seine Nagezähne benötigen ständige Pflege, da\nsie sein ganzes Leben lang wachsen. Steht kein\nNagestein zur Verfügung, knabbert es an Holz.",
+        "Sie strotzen vor Lebenskraft und können selbst\nan schmutzigen Orten problemlos überleben.\nBleiben sie ungestört, vermehren sie sich rasch.",
+        "Seine Nagezähne wachsen sein ganzes Leben\nüber. Werden sie allzu lang, kann es damit nicht\nmehr fressen und verhungert.",
+        "Ein weitverbreitetes Pokémon, das nicht ganz\nungefährlich ist. Selbst hartes Holz zerkleinert\nes mit seinen scharfen Nagezähnen mühelos.",
+        "Es knabbert mit seinen zwei Nagezähnen alles\nund jeden an. Stößt man auf eines, findet man\nsicherlich 40 weitere in der Gegend.",
+        "Es knabbert mit seinen zwei Nagezähnen alles\nund jeden an. Stößt man auf eines, findet man\nsicherlich 40 weitere in der Gegend."
+    ],
+    "height": 0.3,
+    "id": 19,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "name": "Rattfratz",
+    "types": [
+        "Normal"
+    ],
+    "weight": 3.5
+}

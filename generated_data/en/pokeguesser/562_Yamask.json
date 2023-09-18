@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Each of them carries a mask that used\nto be its face when it was human.\nSometimes they look at it and cry.",
+        "These Pokémon arose from the spirits of\npeople interred in graves in past ages.\nEach retains memories of its former life.",
+        "These Pokémon arose from the spirits of\npeople interred in graves. Each retains\nmemories of its former life.",
+        "These Pokémon arose from the spirits of\npeople interred in graves. Each retains\nmemories of its former life.",
+        "These Pokémon arose from the spirits of people\ninterred in graves. Each retains memories of its\nformer life.",
+        "Each of them carries a mask that used to be its face\nwhen it was human. Sometimes they look at it\nand cry.",
+        "These Pokémon arose from the spirits of people\ninterred in graves. Each retains memories of its\nformer life.",
+        "Each of them carries a mask that used to be its face\nwhen it was human. Sometimes they look at it\nand cry.",
+        "It wanders through ruins by night, carrying a mask\nthat’s said to have been the face it had when it\nwas still human.",
+        "The spirit of a person from a bygone age became\nthis Pokémon. It rambles through ruins, searching\nfor someone who knows its face."
+    ],
+    "height": 0.5,
+    "id": 562,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png",
+    "name": "Yamask",
+    "types": [
+        "Ghost"
+    ],
+    "weight": 1.5
+}

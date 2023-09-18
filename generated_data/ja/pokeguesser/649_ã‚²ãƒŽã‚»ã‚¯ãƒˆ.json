@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "プラズマ団によって　改造された\n古代の　むしポケモン。\n背中の　大砲が　パワーアップした。",
+        "３億年前に　いた　ポケモン。\nプラズマ団に　改造　され\n背中に　砲台を　つけられた。",
+        "プラズマ団によって　改造された\n古代の　むしポケモン。\n背中の　大砲が　パワーアップした。",
+        "３億年前に　いた　ポケモン。\nプラズマ団に　改造　され\n背中に　砲台を　つけられた。"
+    ],
+    "height": 1.5,
+    "id": 649,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "name": "ゲノセクト",
+    "types": [
+        "むし",
+        "はがね"
+    ],
+    "weight": 82.5
+}

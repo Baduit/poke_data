@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Si avvinghia alla preda e la paralizza rilasciando\nelettricità dalle macchie tonde, poi la ingoia intera.",
+        "Pokémon dal grande appetito. Quando attacca,\nimmobilizza il nemico paralizzandolo con l’elettricità.",
+        "Si avvinghia alla preda e la paralizza rilasciando elettricità\ndalle macchie tonde, poi la ingoia intera.",
+        "Pokémon dal grande appetito. Quando attacca, immobilizza\nil nemico paralizzandolo con l’elettricità."
+    ],
+    "height": 1.2,
+    "id": 603,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "name": "Eelektrik",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 22.0
+}

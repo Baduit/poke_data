@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "頭の上に　咲いた　花は\n気温に　よって　開いたり\n閉じたりする　性質を　持つ。",
+        "太陽の　光を　浴びるため\n花びらを　広げるだけでなく\n近づこうと　空に　浮かんでしまう。",
+        "気温が　１８度を　超えると　花が　開く。\n温度に　より　花の　開きかたが　変わるので\n温度計の　代りに　することも　ある。",
+        "気温が　１８度を　超えると　花が　開く。\n温度に　より　花の　開きかたが　変わるので\n温度計の　代りに　することも　ある。"
+    ],
+    "height": 0.6,
+    "id": 188,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "name": "ポポッコ",
+    "types": [
+        "くさ",
+        "ひこう"
+    ],
+    "weight": 1.0
+}

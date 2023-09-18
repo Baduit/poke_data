@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il s’envole après avoir pris de l’élan.\nIl est assez intelligent pour chasser\nses proies en groupe.",
+        "Il est plus doué pour courir que pour\nvoler. Il fonce sur ses proies aussi vite\nqu’une voiture pour les attraper.",
+        "Il s’envole après avoir pris de l’élan. Il est assez\nintelligent pour chasser ses proies en groupe.",
+        "Il est plus doué pour courir que pour voler. Il doit\ns’élancer à 40 km/h avant de pouvoir s’envoler.",
+        "Il s’envole après avoir pris de l’élan. Il est assez intelligent\npour chasser ses proies en groupe.",
+        "Il est plus doué pour courir que pour voler. Il doit s’élancer\nà 40 km/h avant de pouvoir s’envoler.",
+        "Bien qu’ayant enfin acquis la capacité de voler,\nce Pokémon préférait bien souvent courir\nsur le sol, à une vitesse moyenne de 40 km/h.",
+        "Ce Pokémon avait pour habitude de chasser en\ngroupe. Une partie de la volée était chargée\nd’acculer la proie, et l’autre de porter l’estoc.",
+        "Les plumes de ce Pokémon antique sont si fines\nque seuls les experts les plus talentueux\npeuvent leur rendre justice en le reconstituant.",
+        "On dit que c’est l’ancêtre des Pokémon oiseaux.\nLes muscles de ses ailes étant assez faibles,\nil doit prendre son élan pour s’envoler.",
+        "Pour s’envoler, il doit d’abord prendre son élan\nsur 4 km à une vitesse de 40 km/h.",
+        "Il savait voler, mais il semble qu’il était beaucoup\nplus doué pour chasser ses proies sur la terre\nferme."
+    ],
+    "height": 1.4,
+    "id": 567,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "name": "Aéroptéryx",
+    "types": [
+        "Roche",
+        "Vol"
+    ],
+    "weight": 32.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sus alas emiten un velo de partículas brillantes. Se\ndice que representa un cuarto lunar.",
+        "Si alguien se duerme con una pluma suya, tendrá\nsueños maravillosos. Encarna el creciente lunar.",
+        "Sus alas emiten un velo de partículas brillantes. Se dice que\nrepresenta un cuarto lunar.",
+        "Si alguien se duerme con una pluma suya, tendrá sueños\nmaravillosos. Encarna el creciente lunar."
+    ],
+    "height": 1.5,
+    "id": 488,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "name": "Cresselia",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 85.6
+}

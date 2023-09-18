@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Crea bolas de agua con el líquido que segrega\npor las palmas de las manos y las usa en combate\nde forma estratégica.",
+        "Es inteligente, pero no muestra especial interés\npor nada. Distribuye trampas por su territorio\npara mantener alejados a sus enemigos."
+    ],
+    "height": 0.7,
+    "id": 817,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
+    "name": "Drizzile",
+    "types": [
+        "Agua"
+    ],
+    "weight": 11.5
+}

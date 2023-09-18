@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il accumule rapidement de l’énergie en\nfaisant tourner très vite le rouage\nqui contient son noyau rouge.",
+        "Son noyau rouge lui permet d’accumuler\nde l’énergie qu’il projette ensuite aux\nalentours grâce à ses pics.",
+        "Il accumule rapidement de l’énergie en faisant tourner\ntrès vite le rouage qui contient son noyau rouge.",
+        "Son noyau rouge lui permet d’accumuler de l’énergie\nqu’il projette ensuite aux alentours grâce à ses pics.",
+        "Il accumule rapidement de l’énergie en faisant tourner très vite\nle rouage qui contient son noyau rouge.",
+        "Son noyau rouge lui permet d’accumuler de l’énergie\nqu’il projette ensuite aux alentours grâce à ses pics.",
+        "Il peut envoyer de terribles décharges électriques\nde la pointe de ses pics. Il accumule de grandes\nquantités d’énergie dans son noyau rouge.",
+        "Bien que son nouveau rouage à pointes\nne soit pas doué de vie, il parvient à le faire\ntourner à grande vitesse avec les deux autres."
+    ],
+    "height": 0.6,
+    "id": 601,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "name": "Cliticlic",
+    "types": [
+        "Acier"
+    ],
+    "weight": 81.0
+}

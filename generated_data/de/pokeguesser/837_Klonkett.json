@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Es wurde vor circa 400 Jahren in einer Kohlemine\nentdeckt. Sein Körper besteht fast aus denselben\nKomponenten wie Steinkohle.",
+        "Auch auf steinigen, schlecht befahrbaren Wegen\nfährt es problemlos, als wäre es ein Einrad.\nEs verbrennt Steinkohle, um zu überleben."
+    ],
+    "height": 0.3,
+    "id": 837,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "name": "Klonkett",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 12.0
+}

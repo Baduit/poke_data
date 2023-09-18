@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Cible favorite des Pokémon Oiseaux,\nil tente de se protéger avec ses\népines venimeuses.",
+        "Cible favorite des Pokémon Oiseaux,\nil tente de se protéger avec ses\népines venimeuses.",
+        "Il adore manger des feuilles. Si un Étourmi l’attaque,\nil riposte avec les piquants de son postérieur.",
+        "Il habite les forêts et les hautes herbes. Attaqué,\nil riposte avec les piquants de son postérieur.",
+        "À l’aide de ses pointes arrière, Chenipotte déchire l’écorce\ndes arbres et mange la sève qui coule dessus.\nLes pattes de ce Pokémon sont dotées de coussinets à\nventouses pour adhérer aux parois en verre sans en glisser.",
+        "Chenipotte est la proie de Hélédelle. Ce Pokémon essaie de\nrésister en dirigeant les pointes de son dos vers le prédateur.\nIl affaiblit son ennemi en lui injectant du poison."
+    ],
+    "height": 0.3,
+    "id": 265,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "name": "Chenipotte",
+    "types": [
+        "Insecte"
+    ],
+    "weight": 3.6
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il adore se cacher dans les\nfissures de la roche. Il crache\nparfois de l’encre sur ses proies.",
+        "Il adore se cacher dans les\nfissures de la roche. Il crache\nparfois de l’encre sur ses proies.",
+        "Il adore se cacher dans les fissures et les épaves,\nd’où il attaque en crachant de l’encre.",
+        "Il capture ses ennemis avec ses tentacules et les\nécrase ensuite avec sa tête dure comme la pierre.",
+        "Octillery attrape son ennemi avec ses tentacules.\nCe Pokémon essaie de l’immobiliser avant de lui asséner\nle coup final. Si l’ennemi s’avère trop fort, Octillery lui crache\nde l’encre à la figure et s’échappe.",
+        "Octillery attrape son ennemi avec ses tentacules.\nCe Pokémon essaie de l’immobiliser avant de lui asséner\nle coup final. Si l’ennemi s’avère trop fort, Octillery lui crache\nde l’encre à la figure et s’échappe.",
+        "Il projette une encre spéciale quand il s’enfuit.\nCelle-ci perturbe l’odorat des Pokémon, même\nde ceux dotés d’un bon flair.",
+        "Il dort dans les cavités rocheuses.\nL’encre noire qu’il projette sert aussi\nd’ingrédient de cuisine.",
+        "Il adore se cacher dans des trous. Il n’hésite\npas à s’approprier les trous creusés par d’autres\nPokémon pour y dormir.",
+        "Il capture ses ennemis avec ses tentacules\net les écrase ensuite avec sa tête dure comme\nla pierre."
+    ],
+    "height": 0.9,
+    "id": 224,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "name": "Octillery",
+    "types": [
+        "Eau"
+    ],
+    "weight": 28.5
+}

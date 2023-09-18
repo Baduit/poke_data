@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ha un eccezionale senso del ritmo. Tiene il tempo\npiegando la testa a intervalli regolari.",
+        "Sta sempre su un piede solo. Cambia piede così\nrapidamente che è raro vederlo mentre lo fa.",
+        "Hoothoot è dotato di un organo interno che percepisce\ne segue la rotazione terrestre. Grazie a questo speciale\norgano inizia a urlare esattamente alla stessa ora ogni giorno.",
+        "Hoothoot è dotato di un organo interno che percepisce\ne segue la rotazione terrestre. Grazie a questo speciale\norgano inizia a urlare esattamente alla stessa ora ogni giorno.",
+        "Ogni giorno piega la testa a intervalli regolari.\nIn passato questi Pokémon venivano usati\ncome veri e propri orologi.",
+        "Fa il suo verso ogni giorno alla stessa ora.\nIn passato era trattato con rispetto, poiché lo si\ncredeva il messaggero di una divinità del tempo.",
+        "Sta sempre su una zampa sola. Cambia zampa\ncosì rapidamente che è quasi impossibile\nseguirne i movimenti.",
+        "Emette il suo verso ogni giorno alla stessa ora.\nAlcuni Allenatori preferiscono affidarsi a questo\nPokémon anziché usare un orologio."
+    ],
+    "height": 0.7,
+    "id": 163,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "name": "Hoothoot",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 21.2
+}

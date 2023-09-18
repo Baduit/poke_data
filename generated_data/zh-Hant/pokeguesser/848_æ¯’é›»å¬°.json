@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "會從皮膚把體內的毒囊裡\n儲存著的毒素分泌出來。\n一旦觸碰牠就會感到麻麻的。",
+        "透過讓自身的毒素產生\n化學反應來發電。電力\n雖然弱，卻能造成麻痺。"
+    ],
+    "height": 0.4,
+    "id": 848,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "name": "毒電嬰",
+    "types": [
+        "電",
+        "毒"
+    ],
+    "weight": 11.0
+}

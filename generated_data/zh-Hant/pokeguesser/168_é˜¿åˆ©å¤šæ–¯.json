@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "也有地方會使用\n阿利多斯的絲來織布。\n結實的布料廣受好評。",
+        "屁股和嘴裡都會吐出絲。\n用絲綁住獵物，\n慢慢地吸食獵物的體液。",
+        "每晚都為了尋求獵物而四處徘徊，\n發現獵物時會吐絲封鎖對方的行動，\n然後用牙齒啃食。",
+        "會吐絲來捕捉獵物。\n每到夜晚就會離開巢穴，\n積極地展開狩獵。"
+    ],
+    "height": 1.1,
+    "id": 168,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "name": "阿利多斯",
+    "types": [
+        "蟲",
+        "毒"
+    ],
+    "weight": 33.5
+}

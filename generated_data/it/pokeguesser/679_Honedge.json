@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sembra sia nato quando uno spirito si impossessò\ndi un’antica spada. Si lega agli esseri umani per\nassorbirne la forza vitale.",
+        "Avvolge il drappo blu attorno al braccio di chiunque\nsi azzardi a impugnarne l’elsa e assorbe la sua energia\nfino a fargli perdere i sensi.",
+        "Sembra sia nato quando uno spirito si impossessò di un’antica\nspada. Si lega agli esseri umani per assorbirne la forza vitale.",
+        "Avvolge il drappo blu attorno al braccio di chiunque si azzardi\na impugnarne l’elsa e assorbe la sua energia fino a fargli\nperdere i sensi.",
+        "La sua anima è quella di un essere umano ucciso\ntanto tempo fa dalla spada che ora forma\nil suo corpo.",
+        "L’occhio blu sull’elsa della spada è il suo\nvero corpo. Usa il drappo consunto per\nassorbire la forza vitale degli uomini."
+    ],
+    "height": 0.8,
+    "id": 679,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "name": "Honedge",
+    "types": [
+        "Acciaio",
+        "Spettro"
+    ],
+    "weight": 2.0
+}

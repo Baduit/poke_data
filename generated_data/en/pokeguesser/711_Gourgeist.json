@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Singing in eerie voices, they wander\ntown streets on the night of the new moon.\nAnyone who hears their song is cursed.",
+        "It enwraps its prey in its hairlike arms.\nIt sings joyfully as it observes the\nsuffering of its prey.",
+        "Singing in eerie voices, they wander\ntown streets on the night of the new moon.\nAnyone who hears their song is cursed.",
+        "It enwraps its prey in its hairlike arms.\nIt sings joyfully as it observes the\nsuffering of its prey.",
+        "Eerie cries emanate from its body in the dead of\nnight. The sounds are said to be the wails of\nspirits who are suffering in the afterlife.",
+        "In the darkness of a new-moon night, Gourgeist\nwill come knocking. Whoever answers the door\nwill be swept off to the afterlife."
+    ],
+    "height": 0.9,
+    "id": 711,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "name": "Gourgeist",
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "weight": 12.5
+}

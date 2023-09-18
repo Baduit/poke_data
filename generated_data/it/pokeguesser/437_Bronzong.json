@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "È stato venerato per secoli come Pokémon che porta\nla pioggia. A volte lo si trova sepolto nel terreno.",
+        "Anticamente si credeva Bronzong potesse essere\ninvocato per ottenere pioggia e buoni raccolti.",
+        "È stato venerato per secoli come Pokémon che porta\nla pioggia. A volte lo si trova sepolto nel terreno.",
+        "Anticamente si credeva Bronzong potesse essere invocato\nper ottenere pioggia e buoni raccolti.",
+        "Si dice che sia una divinità portatrice di pioggia.\nSe si arrabbia, emette un suono inquietante\ne minaccioso simile a quello di una campana.",
+        "Per via dei disegni sul corpo, molti studiosi\nritengono che non sia un Pokémon originario\ndi Galar."
+    ],
+    "height": 1.3,
+    "id": 437,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "name": "Bronzong",
+    "types": [
+        "Acciaio",
+        "Psico"
+    ],
+    "weight": 187.0
+}

@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il a assez d’énergie pour voler\ntoute la journée avec ses grandes\nailes. Il frappe de son bec acéré.",
+        "Il a assez d’énergie pour voler\ntoute la journée avec ses grandes\nailes. Il frappe de son bec acéré.",
+        "Ses ailes géantes lui permettent de voler sur de\nlongues distances sans qu’il ait besoin de se reposer.",
+        "Il a assez d’énergie pour voler toute la journée avec\nses grandes ailes. Il frappe de son bec acéré.",
+        "On reconnaît un Rapasdepic à son long cou et à son bec\nallongé. Ces attributs lui permettent d’attraper facilement\nses proies dans la terre ou dans l’eau. Il bouge son bec\nlong et fin avec une grande agilité.",
+        "On reconnaît un Rapasdepic à son long cou et à son bec\nallongé. Ces attributs lui permettent d’attraper facilement\nses proies dans la terre ou dans l’eau. Il bouge son bec\nlong et fin avec une grande agilité.",
+        "Un Pokémon robuste et extrêmement endurant.\nIl est capable de voler du matin au soir tout\nen transportant de lourdes charges.",
+        "Un Pokémon fort ancien, qui a même été identifié\nsur des fresques antiques.",
+        "Si vous vous promenez sur le territoire d’un\nRapasdepic en transportant de la nourriture,\nvous risquez de vite la voir s’envoler !",
+        "À Alola, il se repaît de Pokémon poissons.\nOn le voit souvent voler en cercle au-dessus\ndes flots en quête de nourriture.",
+        "Un Pokémon très ancien. S’il perçoit un danger,\nil fuit instantanément à haute altitude.",
+        "Un Pokémon très ancien. S’il perçoit un danger,\nil fuit instantanément à haute altitude."
+    ],
+    "height": 1.2,
+    "id": 22,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "name": "Rapasdepic",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 38.0
+}

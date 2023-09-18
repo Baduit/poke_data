@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Alla nascita ha solo una coda, che con il passare\ndel tempo sviluppa diverse diramazioni.",
+        "Quando è giovane ha sei meravigliose code, che si\nmoltiplicano durante la sua crescita.",
+        "Al momento della nascita Vulpix ha una sola coda bianca.\nSe il Pokémon riceve molto amore dal proprio Allenatore\nla coda si divide in sei diramazioni che poi si arricciano\nelegantemente.",
+        "All’interno del corpo di Vulpix brucia una fiamma inestinguibile.\nDi giorno, quando sale la temperatura, questo Pokémon\nemette fiamme dalla bocca per evitare il surriscaldamento\ndel proprio corpo.",
+        "È molto amato per il suo manto e le sue code.\nMan mano che cresce, la sua coda sviluppa\ndiverse diramazioni.",
+        "Emette dalla bocca fiamme simili a fuochi fatui,\ne per questo motivo a volte viene preso\nper un fantasma.",
+        "Le sue code lo rendono un Pokémon molto\namato. Vanno spazzolate con cura per\nevitare che si riempiano subito di nodi.",
+        "Crea palle infuocate che usa con maestria per\ncatturare le prede. Se allenato fin da cucciolo,\nsi affeziona come un Pokémon Cagnolino.",
+        "Il suo manto e le sue code sono meravigliosi.\nCrescendo, la sua coda sviluppa diverse\ndiramazioni.",
+        "Il suo manto e le sue code sono meravigliosi.\nCrescendo, la sua coda sviluppa diverse\ndiramazioni.",
+        "Quando è giovane ha sei meravigliose code,\nche si moltiplicano durante la sua crescita.",
+        "Man mano che cresce, le sue sei code diventano\nsempre più belle. La pelliccia di cui sono\nricoperte è calda al tatto."
+    ],
+    "height": 0.6,
+    "id": 37,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "name": "Vulpix",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 9.9
+}

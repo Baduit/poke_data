@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ses muscles génèrent un courant\nélectrique lorsqu’ils travaillent.\nIl s’illumine en cas de danger.",
+        "Ses muscles génèrent un courant\nélectrique lorsqu’ils travaillent.\nIl s’illumine en cas de danger.",
+        "Ses muscles génèrent un courant électrique lorsqu’ils\ntravaillent. Il s’illumine en cas de danger.",
+        "Sa fourrure étincelle en cas de danger. Il profite du\nfait que l’ennemi est aveuglé pour s’enfuir.",
+        "Ses muscles génèrent un courant électrique lorsqu’ils\ntravaillent. Il s’illumine en cas de danger.",
+        "Sa fourrure étincelle en cas de danger. Il profite du fait que\nl’ennemi est aveuglé pour s’enfuir.",
+        "Il produit de l’électricité en contractant ses\nmuscles. S’il tremble d’excitation, c’est le signe\nqu’il est en train d’en générer en grande quantité.",
+        "Sa fourrure s’illumine grâce à l’électricité.\nIl agite l’extrémité lumineuse de sa queue\npour envoyer des signes à ses congénères."
+    ],
+    "height": 0.5,
+    "id": 403,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+    "name": "Lixy",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 9.5
+}

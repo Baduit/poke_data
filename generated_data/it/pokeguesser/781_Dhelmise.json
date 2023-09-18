@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Roteando l’enorme ancora, è capace di mandare\nKO con un solo colpo persino un Wailord.\nIl suo vero corpo è composto da alghe verdi.",
+        "È la reincarnazione dello spirito delle alghe\nmarine. Si protegge stringendo a sé i rifiuti\nche trova in mare avvolgendoli nelle sue alghe.",
+        "Ruba l’energia vitale della preda avvolgendola\ncon le sue alghe verdi. Prende di mira solo\ni Pokémon di grossa stazza come Wailord.",
+        "Le sue alghe formano una specie di catena che\npuò allungarsi per diverse centinaia di metri. Per\nqualche strano motivo, va d’accordo con Skrelp.",
+        "Alcune alghe, impigliandosi a dei pezzi di relitti\nsul fondo del mare, si sono tramutate in questo\nPokémon di tipo Spettro.",
+        "Cattura le prede calando la sua ancora in mare.\nRiesce ad assorbire l’energia vitale persino\ndi Pokémon enormi come Wailord."
+    ],
+    "height": 3.9,
+    "id": 781,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+    "name": "Dhelmise",
+    "types": [
+        "Spettro",
+        "Erba"
+    ],
+    "weight": 210.0
+}

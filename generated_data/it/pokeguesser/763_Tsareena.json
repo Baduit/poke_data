@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Tirare calci è la sua specialità. Quando batte\nun avversario, adora umiliarlo ridendogli in\nfaccia e vantandosi della vittoria.",
+        "È talmente noto per la perfezione delle sue\ngambe che spesso viene ritratto nei manifesti\npubblicitari dei saloni di bellezza.",
+        "Tira calci con grazia ed eleganza. Uno solo\ndei suoi colpi è sufficiente per mandare al\ntappeto anche un campione di kickboxing.",
+        "È un Pokémon dal temperamento combattivo.\nLa sua specialità sono i calci e ogni volta che\nne assesta uno scoppia in una sonora risata.",
+        "Ha gambe lunghe e snelle, ed è molto temuto\nper il suo cuore crudele. Calpesta i nemici\nsenza alcuna pietà.",
+        "Tira calci all’avversario con la punta dura\ne appuntita dei piedi, lasciandogli cicatrici\nindelebili nel corpo e nell’animo."
+    ],
+    "height": 1.2,
+    "id": 763,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "name": "Tsareena",
+    "types": [
+        "Erba"
+    ],
+    "weight": 21.4
+}

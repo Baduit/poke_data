@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "體內滲出的油在\n白色的毛皮上形成覆膜，\n能滑溜溜地避開敵人的攻擊。",
+        "從全身滲出的油非常滑。\n對於因為肌膚乾燥而\n煩惱的人也很有效果。",
+        "潔癖使得牠連一絲灰塵都\n無法容忍，會把自己身上\n滲出的油塗在巢上保持清潔。",
+        "覆蓋著特別油脂的毛髮\n可以擋住攻擊。這種油\n以高價在市場上流通。"
+    ],
+    "height": 0.5,
+    "id": 573,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "name": "奇諾栗鼠",
+    "types": [
+        "一般"
+    ],
+    "weight": 7.5
+}

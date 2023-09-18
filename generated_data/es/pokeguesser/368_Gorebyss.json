@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Vive en el fondo del mar. En primavera, su cuerpo\nrosado adquiere colores más vivos.",
+        "Tiene una forma de nadar de lo más elegante. Se\nalimenta de las algas marinas que crecen entre las\nrocas.",
+        "Gorebyss vive en los mares del sur, en lo más profundo; de\nahí que tenga el cuerpo preparado para soportar la presión tan\ngrande que hay en el fondo marino, y que no le hagan daño\nlos ataques comunes.",
+        "Aunque Gorebyss es la imagen de la elegancia y la belleza al\nnadar, es también la definición de la crueldad. Al detectar a su\npresa, este Pokémon le hinca los finos dientes que tiene y le\nabsorbe los fluidos corporales.",
+        "Su color de piel varía en base a la temperatura\ndel agua, y los que viven en Alola adoptan\ncolores tan vivos que llegan a deslumbrar.",
+        "Absorbe los fluidos corporales de su presa. Los\nrestos que deja caen hasta el lecho marino y se\nconvierten en alimento para otros Pokémon."
+    ],
+    "height": 1.8,
+    "id": 368,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "name": "Gorebyss",
+    "types": [
+        "Agua"
+    ],
+    "weight": 22.6
+}

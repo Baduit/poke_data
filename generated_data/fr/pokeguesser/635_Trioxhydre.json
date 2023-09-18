@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Un Pokémon violent qui patrouille le ciel\navec ses six ailes et se jette sur tout\nce qui bouge, pensant voir un ennemi.",
+        "Les têtes sur ses bras n’ont pas\nde cerveau. Avec ses trois têtes,\nil dévore et détruit tout.",
+        "Les têtes sur ses bras n’ont pas de cerveau.\nAvec ses trois têtes, il dévore et détruit tout.",
+        "Un Pokémon effrayant. Ses trois têtes dévorent tout\nce qui bouge jusqu’à satiété.",
+        "Les têtes sur ses bras n’ont pas de cerveau. Avec ses trois\ntêtes, il dévore et détruit tout.",
+        "Un Pokémon effrayant. Ses trois têtes dévorent tout ce qui\nbouge jusqu’à satiété.",
+        "Il dévore tout ce qui bouge. Bon nombre\nde légendes mentionnent des villages entiers\nrasés par un Trioxhydre.",
+        "Chacune de ses trois têtes mord à tour de rôle.\nIl attaque ses adversaires sans relâche,\njusqu’à ce qu’ils s’écroulent."
+    ],
+    "height": 1.8,
+    "id": 635,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "name": "Trioxhydre",
+    "types": [
+        "Ténèbres",
+        "Dragon"
+    ],
+    "weight": 160.0
+}

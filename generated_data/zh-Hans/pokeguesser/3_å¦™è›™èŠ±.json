@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "它背上开出的大花\n能够吸收太阳光\n并将其转换为能量。",
+        "它背上开出的大花\n能够吸收太阳光\n并将其转换为能量。",
+        "把太阳的能源当成养分，\n开出硕大的花朵。总是\n朝着有阳光的地方移动。",
+        "花朵散发出的迷人香味\n能安抚激动的心情，\n甚至消弭斗争。"
+    ],
+    "height": 2.0,
+    "id": 3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "name": "妙蛙花",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 100.0
+}

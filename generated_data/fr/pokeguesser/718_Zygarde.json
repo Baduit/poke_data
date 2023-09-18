@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Lorsque l’écosystème de Kalos est menacé,\nce Pokémon apparaît et utilise son mystérieux pouvoir.",
+        "Il paraît qu’il vit au fond d’une grotte, d’où il\nsurveillerait les personnes qui détruisent l’écosystème.",
+        "Lorsque l’écosystème de Kalos est menacé, ce Pokémon\napparaît et utilise son mystérieux pouvoir.",
+        "Il paraît qu’il vit au fond d’une grotte, d’où il surveillerait\nles personnes qui détruisent l’écosystème.",
+        "La forme que Zygarde prend lorsqu’il rassemble\n50 % de ses Cellules. Il désintègre sans merci\ntout ennemi qui ose s’opposer à lui.",
+        "Ce Pokémon surveille l’équilibre de l’écosystème\nen permanence. Si l’on en croit la rumeur, il aurait\nun grand pouvoir caché...",
+        "La forme que Zygarde prend lorsqu’il rassemble\n50 % de ses Cellules. Sa mission est de\nsurveiller l’écosystème.",
+        "Ce Pokémon serait capable de prendre\nune forme encore plus puissante quand il se bat\ncontre un ennemi qui menace l’écosystème."
+    ],
+    "height": 5.0,
+    "id": 718,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "name": "Zygarde",
+    "types": [
+        "Dragon",
+        "Sol"
+    ],
+    "weight": 305.0
+}

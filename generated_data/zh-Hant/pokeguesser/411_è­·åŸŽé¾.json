@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "如果是從正面的話，\n可以防住所有的攻擊，\n但從後方遇襲的話就束手無策了。",
+        "與戰槌龍生活在相似的地方。\n也曾發現過２隻互相爭鬥後\n同歸於盡而變成的化石。",
+        "臉部的骨頭又大又硬，\n所以在復原成功之前\n一直被誤認為是脊椎骨。",
+        "大約１億年前的寶可夢。\n結實到極點的臉擁有\n超越鋼鐵的硬度。"
+    ],
+    "height": 1.3,
+    "id": 411,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "name": "護城龍",
+    "types": [
+        "岩石",
+        "鋼"
+    ],
+    "weight": 149.5
+}

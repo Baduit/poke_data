@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "È conosciuto per la sua forza di volontà.\nLancia sul nemico dei palloncini pieni d’acqua\nche gonfia con il naso.",
+        "Crea dei palloncini d’acqua che controlla\nnella lotta. Si allena costantemente per riuscire\na produrre palloni di grandi dimensioni.",
+        "Grazie al costante allenamento, i palloncini\nche gonfia con il naso diventano ogni giorno\nun po’ più grandi.",
+        "Sfrutta l’elasticità dei palloncini d’acqua per\nrimbalzarci sopra e saltare ancora più in alto.\nAnche nelle lotte è un vero acrobata!",
+        "Produce dei palloncini speciali dalla superficie\nelastica, che esplodendo feriscono l’avversario.",
+        "Si allena con impegno tutti i giorni fino a quando\nnon è in grado di produrre palloncini d’acqua\nabbastanza grandi e utili ai suoi scopi."
+    ],
+    "height": 0.4,
+    "id": 728,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "name": "Popplio",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 7.5
+}

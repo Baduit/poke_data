@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Volteggia elegante nel cielo. Canticchia soavemente,\nmandando in onirica estasi chi lo ascolta.",
+        "Nelle belle giornate, ama confondersi con le poche\nnuvole in cielo e cantare con una bellissima voce di\nsoprano.",
+        "Altaria danza e volteggia nel cielo tra le nubi soffici come\nbatuffoli di cotone. Cantando con la sua voce cristallina,\nriesce a mandare in onirica estasi chi lo ascolta.",
+        "Altaria canta con una sublime voce di soprano. Le sue ali\nspumeggianti, che sembrano nubi di cotone, gli consentono\ndi sfruttare le correnti ascensionali e di risalire verso l’infinito\ncielo blu.",
+        "Mentre si libra elegante in cielo, intona un canto\nsoave che ammalia chi lo sente.",
+        "Ha un carattere gentile, ma se lo si fa arrabbiare\nemette un verso minaccioso, per poi attaccare\nsenza pietà."
+    ],
+    "height": 1.1,
+    "id": 334,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "name": "Altaria",
+    "types": [
+        "Drago",
+        "Volante"
+    ],
+    "weight": 20.6
+}

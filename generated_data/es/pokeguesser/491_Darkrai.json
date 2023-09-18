@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Defiende su territorio de personas y Pokémon\nhaciéndoles dormir y provocándoles pesadillas.",
+        "Puede adormecer a la gente y hacerles soñar. Está\nactivo en las noches de luna nueva.",
+        "Defiende su territorio de personas y Pokémon haciéndoles\ndormir y provocándoles pesadillas.",
+        "Puede adormecer a la gente y hacerles soñar. Está activo en\nlas noches de luna nueva."
+    ],
+    "height": 1.5,
+    "id": 491,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "name": "Darkrai",
+    "types": [
+        "Siniestro"
+    ],
+    "weight": 50.5
+}

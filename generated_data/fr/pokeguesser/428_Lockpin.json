@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il est capable de décocher de\npuissants coups de pied si on\ntouche à ses délicates oreilles.",
+        "Il est capable de décocher de\npuissants coups de pied si on\ntouche à ses délicates oreilles.",
+        "Il détecte le moindre danger. Il file discrètement\npar petits bonds rapides quand il se sent menacé.",
+        "Il est capable de décocher de puissants coups de\npied si on touche à ses délicates oreilles.",
+        "Il détecte le moindre danger. Il file discrètement par petits\nbonds rapides quand il se sent menacé.",
+        "Il est capable de décocher de puissants coups de pied\nsi on touche à ses délicates oreilles.",
+        "Il mue deux fois par an. Les écharpes et\nles chapeaux fabriqués à partir de ses poils\ntiennent bien chaud.",
+        "Il est très vigilant et n’aime pas vraiment\nse battre, mais gare aux coups de patte\ndévastateurs qu’il peut décocher !",
+        "Constamment sur le qui-vive, il donne\ndes coups de pied particulièrement\ndévastateurs si une menace approche.",
+        "À la fin de la saison chaude, il mue et se recouvre\nd’une fourrure épaisse et légère pour se préparer\nà affronter le froid hivernal."
+    ],
+    "height": 1.2,
+    "id": 428,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "name": "Lockpin",
+    "types": [
+        "Normal"
+    ],
+    "weight": 33.3
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "They fly around at high speed, striking\nwith their pointed spears. Even when in\ntrouble, they face opponents bravely.",
+        "These Pokémon evolve by wearing the\nshell covering of a Shelmet. The steel\narmor protects their whole body.",
+        "Wearing the shell covering they stole\nfrom Shelmet, they defend themselves\nand attack with two lances.",
+        "Wearing the shell covering they stole\nfrom Shelmet, they defend themselves\nand attack with two lances.",
+        "Wearing the shell covering they stole from Shelmet,\nthey defend themselves and attack with two lances.",
+        "These Pokémon evolve by wearing the shell\ncovering of a Shelmet. The steel armor protects\ntheir whole body.",
+        "Wearing the shell covering they stole from Shelmet,\nthey defend themselves and attack with two lances.",
+        "These Pokémon evolve by wearing the shell\ncovering of a Shelmet. The steel armor protects\ntheir whole body.",
+        "They use shells they’ve stolen from Shelmet\nto arm and protect themselves. They’re very\npopular Pokémon in the Galar region.",
+        "It charges its enemies, lances at the ready.\nAn image of one of its duels is captured in a famous\npainting of Escavalier clashing with Sirfetch’d."
+    ],
+    "height": 1.0,
+    "id": 589,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+    "name": "Escavalier",
+    "types": [
+        "Bug",
+        "Steel"
+    ],
+    "weight": 33.0
+}

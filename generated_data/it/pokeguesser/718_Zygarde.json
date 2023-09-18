@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Secondo le leggende, quando l’equilibrio\ndell’ecosistema della regione di Kalos è in pericolo,\nappare e libera il suo potere misterioso.",
+        "Si dice che viva nelle profondità di una caverna e\nprotegga l’equilibrio dell’ecosistema da qualsiasi\nminaccia.",
+        "Secondo le leggende, quando l’equilibrio dell’ecosistema\ndella regione di Kalos è in pericolo, appare e libera il suo\npotere misterioso.",
+        "Si dice che viva nelle profondità di una caverna e protegga\nl’equilibrio dell’ecosistema da qualsiasi minaccia.",
+        "Quando il 50% delle sue cellule si aggrega,\nassume questa forma.\nAnnienta senza pietà chiunque gli si opponga.",
+        "Si ritiene che vigili sull’equilibrio dell’ecosistema.\nCorre voce che nasconda in sé un potere\npiù grande di quanto si possa immaginare.",
+        "Zygarde assume questa forma quando vengono\naggregate metà delle sue cellule. Questo\nPokémon presiede all’equilibrio dell’ecosistema.",
+        "Si dice che possa assumere una forma ancora\npiù potente quando si trova di fronte un nemico\nche rappresenta una minaccia per l’ecosistema."
+    ],
+    "height": 5.0,
+    "id": 718,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "name": "Zygarde",
+    "types": [
+        "Drago",
+        "Terra"
+    ],
+    "weight": 305.0
+}

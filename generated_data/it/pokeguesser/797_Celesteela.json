@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Questa Ultracreatura è arrivata attraverso\nun Ultravarco ed è stata avvistata mentre\nsolcava il cielo ad altissima velocità.",
+        "È una delle Ultracreature. È stata vista\nincenerire un’intera foresta emettendo gas\ndalle sue due braccia.",
+        "Una delle temibili Ultracreature. Rilevamenti\neffettuati sulle sue gigantesche braccia hanno\nmostrato reazioni energetiche ad alta intensità.",
+        "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune."
+    ],
+    "height": 9.2,
+    "id": 797,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+    "name": "Celesteela",
+    "types": [
+        "Acciaio",
+        "Volante"
+    ],
+    "weight": 999.9
+}

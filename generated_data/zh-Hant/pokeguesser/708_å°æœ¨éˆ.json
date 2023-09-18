@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "在森林中死去的孩子的靈魂\n寄生在樹樁上。\n用悲鳴般的詭異聲音鳴叫。",
+        "傳說摘取綠色的樹葉\n煎煮飲用的話，能治百病。",
+        "會模仿孩子的聲音，\n把人引到森林深處讓人迷路。\n因為牠想讓對方當自己的夥伴。",
+        "某種靈魂附在樹樁上\n而誕生。綠色的葉子\n煮出來的湯汁可治百病。",
+        "在森林中迷路死去的\n孩子的魂魄附在樹樁上，\n轉生成了寶可夢。",
+        "用類似人類小孩的聲音鳴叫，\n把大人引到森林的深處，\n讓他們在其中迷失方向。"
+    ],
+    "height": 0.4,
+    "id": 708,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "name": "小木靈",
+    "types": [
+        "幽靈",
+        "草"
+    ],
+    "weight": 7.0
+}

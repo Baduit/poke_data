@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dieses Pokémon war eine Puppe, die weggeworfen\nwurde. Es sucht nun das Kind, das dies getan hat.",
+        "Starke Gefühle des Hasses machten aus einer Puppe\nein Pokémon. Öffnet es seinen Mund, kann die ganze\nverfluchte Energie hinaus.",
+        "Banette belegt andere mit Flüchen, indem es Nadeln in seinen\neigenen Körper sticht. Dieses Pokémon war ursprünglich eine\nmitleiderregende Plüschpuppe, die weggeworfen wurde.",
+        "Die Energie eines Fluchs durchdrang die Füllung einer\nweggeworfenen und vergessenen Plüschpuppe und erweckte\nBanette zum Leben. Die Energie dieses Pokémon würde\nentweichen, wenn es seinen Mund öffnen sollte.",
+        "Einst als Plüschpuppe weggeworfen, ist dieses\nhasserfüllte Pokémon auf der Suche nach dem\nTäter, um sich an ihm zu rächen.",
+        "Geboren aus Hass, weil es weggeworfen wurde,\nsoll es sich wieder in eine Plüschpuppe\nzurückverwandeln, wenn es sich geliebt fühlt."
+    ],
+    "height": 1.1,
+    "id": 354,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "name": "Banette",
+    "types": [
+        "Geist"
+    ],
+    "weight": 12.5
+}

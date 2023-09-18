@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Como sus excrementos están muy calientes, la gente\nde antaño se los metía en los bolsillos para calentarse.",
+        "Cuando se dispone a dormir, retrae sus piernas y sus\nbrazos, y reduce la llama de su interior a 600 °C para\nrelajarse.",
+        "Como sus excrementos están muy calientes, la gente de\nantaño se los metía en los bolsillos para calentarse.",
+        "Cuando se dispone a dormir, retrae sus piernas y sus brazos,\ny reduce la llama de su interior a 600 °C para relajarse.",
+        "La llama que arde en su interior es la fuente\nde su poder. Si el fuego mengua, se sume en\nun estado de sopor de inmediato.",
+        "Cuando duerme es imposible tumbarlo por más\nque lo zarandeen. Es muy popular como amuleto\nde la suerte."
+    ],
+    "height": 0.6,
+    "id": 554,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "name": "Darumaka",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 37.5
+}

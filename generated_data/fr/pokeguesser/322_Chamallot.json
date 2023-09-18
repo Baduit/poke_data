@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Son dos bossu renferme une lave\nbouillonnante. Elle refroidit par \ntemps de pluie, ce qui le ralentit.",
+        "Son dos bossu renferme une lave\nbouillonnante. Elle refroidit par \ntemps de pluie, ce qui le ralentit.",
+        "Son dos bossu renferme une lave bouillonnante.\nElle refroidit par temps de pluie, ce qui le ralentit.",
+        "Son corps renferme une lave à plus de 1 200 °C.\nSa bosse se contracte lorsqu’il utilise des capacités\nde type Feu.",
+        "Chamallot est terriblement lent d’esprit. Il ne remarque même\npas quand il est touché. Il ne supporte pas d’avoir faim,\nmême une seconde. Le corps de ce Pokémon est comparable\nà un chaudron de magma bouillonnant.",
+        "Chamallot stocke du magma à 1 200 °C dans son corps.\nLorsqu’il est mouillé, le magma se refroidit et durcit. Le corps\ndu Pokémon devient alors très lourd et ses mouvements\ntrès lents."
+    ],
+    "height": 0.7,
+    "id": 322,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "name": "Chamallot",
+    "types": [
+        "Feu",
+        "Sol"
+    ],
+    "weight": 24.0
+}

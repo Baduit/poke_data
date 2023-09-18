@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Acumula velocidad nadando y puede saltar fuera del\nagua, alcanzando 100 metros de altura, para\ndescender luego planeando.",
+        "Nada con gran elegancia e ignora a los Remoraid que\nse aferran a sus aletas buscando restos de comida.",
+        "En los días que hace sol, es posible ver bancos de Mantine\nsaltando con elegancia por entre las olas del mar. A estos\nPokémon no les molestan los Remoraid que se les pegan.",
+        "En los días que hace sol, es posible ver bancos de Mantine\nsaltando con elegancia por entre las olas del mar. A estos\nPokémon no les molestan los Remoraid que se les pegan.",
+        "Un souvenir típico de Alola son las postales y\npósteres con dibujos de Mantine saltando\ngrácilmente sobre las olas del mar.",
+        "Muchos surfistas se iniciaron en la disciplina\ninspirados por el grácil nado de los Mantine.",
+        "Tras ganar velocidad nadando, aprovecha las olas\npara proyectarse y recorrer planeando hasta\n100 m de distancia.",
+        "Mientras nada plácidamente, no le importa que\nlos Remoraid se aferren a él para comerse sus\nsobras."
+    ],
+    "height": 2.1,
+    "id": 226,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "name": "Mantine",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 220.0
+}

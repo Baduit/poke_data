@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Lässt ein Feind auch nur einen der drei Köpfe\nfür nur eine Sekunde aus den Augen, wird er\nsofort gepickt.",
+        "Ein seltsames Exemplar, das nur selten gefunden wird.\nDie drei Köpfe repräsentieren Freude, Trauer und Wut.",
+        "Dodris drei Köpfe blicken in drei verschiedene Richtungen.\nEs ist immer auf der Hut. Du solltest dich diesem Pokémon\nnicht nähern, wenn es bereits misstrauisch ist. Es könnte\nnach dir hacken.",
+        "Dodri hat nicht nur drei Köpfe, auch andere Körperteile sind\ndreifach vorhanden. Es besitzt drei Herzen und drei Lungen,\nsodass es lange Strecken ohne Pause rennen kann.",
+        "Bei der Entwicklung zu Dodri hat sich einer von\nDodus Köpfen in zwei geteilt. Es flitzt mit einer\nGeschwindigkeit von 60 km/h über Wiesen.",
+        "Bei der Entwicklung zu Dodri hat sich einer von\nDodus Köpfen in zwei geteilt. Es flitzt mit einer\nGeschwindigkeit von 60 km/h über Wiesen."
+    ],
+    "height": 1.8,
+    "id": 85,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "name": "Dodri",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 85.2
+}

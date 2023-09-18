@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "視覚　以外の　五感を　使い\n様子を　探る。　蹴られたものは\n魂を　抜かれてしまうという。",
+        "闇夜を　駆けぬけ　寝ているものの\n生命エネルギーを　吸い取る。\n孤独と　静寂を　好む。"
+    ],
+    "height": 2.0,
+    "id": 897,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "name": "レイスポス",
+    "types": [
+        "ゴースト"
+    ],
+    "weight": 44.5
+}

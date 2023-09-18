@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Der Kern dieses Pokémon leuchtet in den Farben\ndes Regenbogens. Sein Kern gilt als Edelstein.",
+        "In der Körpermitte befindet sich ein roter Kern,\nder mysteriöse Radiowellen in die Nacht sendet.",
+        "Starmies Mittelteil, sein Kern, leuchtet in sieben Farben.\nAufgrund dieser Eigenschaft wird es auch „Juwel des Meeres“\ngenannt.",
+        "Starmie kann schwimmen, indem es seinen sternförmigen\nKörper wie eine Schiffsschraube dreht. Der Kern in seiner\nKörpermitte leuchtet in sieben Farben.",
+        "Offenbar sendet und empfängt sein leuchtender\nKern mysteriöse Radiowellen. Kommt man ihm\nzu nahe, löst es eventuell Kopfschmerzen aus.",
+        "Aufgrund seiner ungewöhnlichen Körperform\nhegen viele Einheimische den Verdacht, es sei\nin Wirklichkeit ein Eindringling aus dem All.",
+        "Sein leuchtender Kern, das „Juwel des Meeres“,\nist so wertvoll, dass manche ihn zu Schmuck\nverarbeiten und unter der Hand verkaufen.",
+        "Es rotiert seinen geometrischen Körper, um sich\nim Wasser fortzubewegen. Wie es scheint,\nsendet es immerzu mysteriöse Radiowellen aus.",
+        "Den Mittelteil seines Körpers nennt man „Kern“.\nMan sagt, es würde damit kommunizieren, wenn\ndieser in den Regenbogenfarben leuchtet.",
+        "Den Mittelteil seines Körpers nennt man „Kern“.\nMan sagt, es würde damit kommunizieren, wenn\ndieser in den Regenbogenfarben leuchtet.",
+        "Das als Kern bezeichnete Organ dieses Pokémon\nerstrahlt in den sieben Farben des Regenbogens,\nwenn Starmie mächtige Psycho-Kräfte entfesselt.",
+        "Starmie bewegt sich im Wasser fort, indem es\nseinen Körper mit hoher Geschwindigkeit rotieren\nlässt. Unterwegs absorbiert es winziges Plankton."
+    ],
+    "height": 1.1,
+    "id": 121,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "name": "Starmie",
+    "types": [
+        "Wasser",
+        "Psycho"
+    ],
+    "weight": 80.0
+}

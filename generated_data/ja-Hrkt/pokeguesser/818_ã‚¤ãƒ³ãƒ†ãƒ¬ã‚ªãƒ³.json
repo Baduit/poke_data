@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "たさいな　きのうを　かくしもつ。\nゆびから　みずを　ふんしゃして\nせなかの　ひまくで　かぜに　のる。",
+        "ゆびさきから　はなつ　みずでっぽうは\nマッハ３の　はやさ。　しゅんまくで\nきゅうしょを　みぬいて　うちぬくぞ。"
+    ],
+    "height": 1.9,
+    "id": 818,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "name": "インテレオン",
+    "types": [
+        "みず"
+    ],
+    "weight": 45.2
+}

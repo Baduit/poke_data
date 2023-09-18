@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Con le sue grandi orecchie può sollevare facilmente\nmassi da più di una tonnellata. Può essere di grande\naiuto nei cantieri edili.",
+        "Le orecchie potenti quanto una scavatrice\ngli permettono di sbriciolare anche rocce durissime.\nQuando ha finito di scavare, si rilassa beatamente.",
+        "Con le sue grandi orecchie può sollevare facilmente massi\nda più di una tonnellata. Può essere di grande aiuto nei\ncantieri edili.",
+        "Le orecchie potenti quanto una scavatrice gli permettono di\nsbriciolare anche rocce durissime. Quando ha finito di scavare,\nsi rilassa beatamente.",
+        "Riesce a scavare strati rocciosi durissimi grazie\nalla sua forza pari a quella di una scavatrice.\nÈ di grande aiuto nei lavori di scavo dei tunnel.",
+        "La pelliccia sul suo addome lo mantiene caldo.\nGli antichi confezionavano abiti termici resistenti\nal freddo con il pelo raccolto dopo la sua muta."
+    ],
+    "height": 1.0,
+    "id": 660,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "name": "Diggersby",
+    "types": [
+        "Normale",
+        "Terra"
+    ],
+    "weight": 42.4
+}

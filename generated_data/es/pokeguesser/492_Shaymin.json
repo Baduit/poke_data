@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Puede disolver las toxinas del aire para transformar\ntierra yerma en campos de flores.",
+        "Se dice que, cuando florecen las Gracídeas, Shaymin\nalza el vuelo para mostrar su gratitud.",
+        "Puede disolver las toxinas del aire para transformar tierra\nyerma en campos de flores.",
+        "Se dice que, cuando florecen las Gracídeas, Shaymin alza el\nvuelo para mostrar su gratitud."
+    ],
+    "height": 0.2,
+    "id": 492,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "name": "Shaymin",
+    "types": [
+        "Planta"
+    ],
+    "weight": 2.1
+}

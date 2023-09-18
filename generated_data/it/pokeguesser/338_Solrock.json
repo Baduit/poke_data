@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "L’energia solare è la fonte della sua potenza, per cui\nè più forte di giorno. Emana luce quando ruota su\nse stesso.",
+        "Durante il giorno assorbe la luce solare. Sempre\nperfettamente inespressivo, può leggere nel pensiero\ndel nemico.",
+        "Solrock è una nuova specie di Pokémon che pare sia\nprecipitata dallo spazio. Fluttua a mezz’aria spostandosi\nsilenziosamente. In lotta emana una luce estremamente\nintensa.",
+        "La luce solare è la fonte primaria dell’energia di Solrock.\nPare che riesca a carpire i pensieri degli altri. Il Pokémon\nemana un calore intenso roteando vorticosamente.",
+        "Ruota vorticosamente su se stesso per emanare\nuna luce abbagliante che acceca il nemico.",
+        "L’energia solare è la fonte della sua potenza,\nper cui è più forte di giorno. Emana luce quando\nruota su se stesso."
+    ],
+    "height": 1.2,
+    "id": 338,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "name": "Solrock",
+    "types": [
+        "Roccia",
+        "Psico"
+    ],
+    "weight": 154.0
+}

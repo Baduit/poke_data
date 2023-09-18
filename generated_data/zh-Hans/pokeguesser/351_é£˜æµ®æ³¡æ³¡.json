@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "根据天气而改变样子。\n听说气温和湿度的变化\n对细胞有影响。",
+        "细胞对气温和湿度的反应很敏感，\n导致样子会随意地变化。",
+        "样子会根据天气发生变化。\n但这是根据化学反应的结果，\n似乎并不是出于它的本意。",
+        "样子会根据天气发生变化。\n天气越恶劣，\n性格也会变得越暴躁。"
+    ],
+    "height": 0.3,
+    "id": 351,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+    "name": "飘浮泡泡",
+    "types": [
+        "一般"
+    ],
+    "weight": 0.8
+}

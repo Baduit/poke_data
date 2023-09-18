@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "はしりまわって　たいおんを　あげると\nほのおエネルギーが　からだを　めぐり\nほんらいの　ちからを　はっきできる。",
+        "たたかう　じゅんびが　ととのうと\nはなの　あたまと　あしの　うらの\nにくきゅうが　こうねつを　はっする。"
+    ],
+    "height": 0.3,
+    "id": 813,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "name": "ヒバニー",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 4.5
+}

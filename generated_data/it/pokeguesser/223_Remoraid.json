@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "La sua precisione è straordinaria. Può colpire una\npreda in movimento anche a più di 100 m.",
+        "Usando la pinna dorsale come una ventosa, s’attacca\nalla pancia di un Mantine cibandosi dei suoi avanzi.",
+        "Remoraid assorbe acqua che espelle ad alta pressione\nusando la potenza degli addominali per abbattere le prede\nin volo. Quando si avvicina il momento evolutivo si sposta\na valle seguendo il fiume.",
+        "Remoraid assorbe acqua che espelle ad alta pressione\nusando la potenza degli addominali per abbattere le prede\nin volo. Quando si avvicina il momento evolutivo si sposta\na valle seguendo il fiume.",
+        "Si attacca a Mantine e si ciba dei suoi avanzi.\nQuando Mantine viene attaccato, lotta insieme\na lui.",
+        "Detto anche “il cecchino del mare”, ha una\nprecisione straordinaria. Può colpire la preda\na più di 100 m di distanza con Pistolacqua.",
+        "I getti d’acqua che spara dalla bocca riescono\na colpire una preda in movimento anche\na 100 m di distanza.",
+        "Usando la pinna dorsale come una ventosa,\ns’attacca alla pancia di Mantine cibandosi\ndei suoi avanzi."
+    ],
+    "height": 0.6,
+    "id": 223,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+    "name": "Remoraid",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 12.0
+}

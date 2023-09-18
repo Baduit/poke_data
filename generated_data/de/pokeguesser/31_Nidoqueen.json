@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es benutzt seinen schuppigen Körper, um den\nHöhleneingang als Schutz für seine Jungen zu sperren.",
+        "Sein Körper ist mit massiven, nadelartigen\nSchuppen überzogen. Wenn es erregt ist,\nschießen die Nadeln hervor.",
+        "Nidoqueens Körper ist mit sehr harten Schuppen bedeckt.\nEs ist sehr geschickt darin, Gegner mit starken Attacken\nwegzuschleudern. Dieses Pokémon entwickelt am meisten\nKraft, wenn es seine Jungen verteidigt.",
+        "Nidoqueens Körper ist mit sehr harten Schuppen bedeckt.\nEs ist sehr geschickt darin, Gegner mit harten Attacken\nwegzuschleudern. Dieses Pokémon entwickelt die größte Kraft,\nwenn es seine Jungen verteidigt.",
+        "Nidoqueen besitzt einen robusten Körper,\nder von harten Schuppen bedeckt ist. Diese\nscheinen immer wieder nachzuwachsen.",
+        "Nidoqueen besitzt einen robusten Körper,\nder von harten Schuppen bedeckt ist. Diese\nscheinen immer wieder nachzuwachsen.",
+        "Sie sind eher defensiv als offensiv veranlagt.\nMit ihren panzerartigen Schuppen schützen sie\nihre Jungen vor jeglichen Angriffen.",
+        "Es beruhigt seine Jungen, indem es diese\nzwischen den Stacheln auf seinem Rücken reiten\nlässt. Die Stacheln sondern derweil kein Gift ab."
+    ],
+    "height": 1.3,
+    "id": 31,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "name": "Nidoqueen",
+    "types": [
+        "Gift",
+        "Boden"
+    ],
+    "weight": 60.0
+}

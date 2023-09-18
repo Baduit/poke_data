@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Son corps est recouvert d’un \nduvet qui reflète la lumière\net le rend invisible.",
+        "Son corps est recouvert d’un \nduvet qui reflète la lumière\net le rend invisible.",
+        "Il est doué d’empathie. Le duvet qui recouvre son\ncorps réfléchit la lumière et le rend invisible.",
+        "Latias peut communiquer avec les gens par télépathie.\nIl change son apparence en renvoyant la lumière.",
+        "Latias est extrêmement sensible aux émotions des gens.\nS’il ressent une hostilité, ce Pokémon ébouriffe ses plumes\net pousse un cri strident pour intimider son ennemi.",
+        "Latias est très intelligent et comprend le langage des hommes.\nIl est recouvert d’une espèce de duvet ressemblant à du verre.\nCe Pokémon s’enveloppe dans ce duvet et reflète la lumière\npour changer son apparence."
+    ],
+    "height": 1.4,
+    "id": 380,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+    "name": "Latias",
+    "types": [
+        "Dragon",
+        "Psy"
+    ],
+    "weight": 40.0
+}

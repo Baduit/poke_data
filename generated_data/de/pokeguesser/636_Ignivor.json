@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es heißt, es sei ein Produkt der Sonne.\nWenn es sich entwickelt, hüllt es sich in Flammen,\ndie es aus seinen Hörnern bläst.",
+        "Es lebt am Fuß von Vulkanen. Mit Gegnern räumt\nes auf, indem es aus seinen fünf Hörnern Flammen\nauf sie abfeuert.",
+        "Es heißt, es sei ein Produkt der Sonne. Wenn es sich\nentwickelt, hüllt es sich in Flammen, die es aus seinen\nHörnern bläst.",
+        "Es lebt am Fuß von Vulkanen. Mit Gegnern räumt es auf,\nindem es aus seinen fünf Hörnern Flammen auf sie abfeuert.",
+        "Es bekämpft seine Gegner mithilfe der Flammen,\ndie es aus seinen fünf Hörnern auf sie abfeuert.\nDiese erreichen Temperaturen bis zu 3 000 °C.",
+        "Es schützt sich mithilfe von Flammen. Früher\nglaubte man, dass sich sein Nest in der Sonne\nselbst befände.",
+        "Vor langer Zeit glaubten die Menschen,\nIgnivor sei von der Sonne herabgefallen.",
+        "Sein Körper ist ziemlich warm. Aus seinen\nHörnern feuert es Flammen ab, um Feinde und\nBeute einzuschüchtern."
+    ],
+    "height": 1.1,
+    "id": 636,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "name": "Ignivor",
+    "types": [
+        "Käfer",
+        "Feuer"
+    ],
+    "weight": 28.8
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "不断奔跑使体温升高后，\n火之能量会在它身体循环，\n促使它发挥出真正的力量。",
+        "一旦做好了战斗的准备，\n它鼻头上和脚底的肉球\n就会发出极度的高温。"
+    ],
+    "height": 0.3,
+    "id": 813,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "name": "炎兔儿",
+    "types": [
+        "火"
+    ],
+    "weight": 4.5
+}

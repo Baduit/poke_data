@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "细胞聚集了５０％的样子。\n会毫不留情地把敌对者全部消灭。",
+        "被认为监视着生态系统。\n有传言，它蕴藏着更为强大的力量。",
+        "基格尔德的一部分\n大约聚集了一半的样子。\n有着监视生态系统的职责。",
+        "据说，在与威胁到生态系统者战斗时，\n它会变化为更强大的样子。"
+    ],
+    "height": 5.0,
+    "id": 718,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "name": "基格尔德",
+    "types": [
+        "龙",
+        "地面"
+    ],
+    "weight": 305.0
+}

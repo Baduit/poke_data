@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "One of the dangerous Ultra Beasts, it has been\nspotted running across the land at\nterrific speeds.",
+        "One of the Ultra Beasts. It refuses to touch\nanything, perhaps because it senses some\nuncleanness in this world.",
+        "A life-form that lives in another world, its body\nis thin and supple, but it also possesses\ngreat power.",
+        "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives."
+    ],
+    "height": 1.8,
+    "id": 795,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "name": "Pheromosa",
+    "types": [
+        "Bug",
+        "Fighting"
+    ],
+    "weight": 25.0
+}

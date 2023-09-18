@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Conscient de sa propre faiblesse,\nil vit toujours en groupe, piaillant\nbruyamment quand il est seul.",
+        "Conscient de sa propre faiblesse,\nil vit toujours en groupe, piaillant\nbruyamment quand il est seul.",
+        "Il a coutume de se regrouper en larges volées.\nLes combats entre Étourvol sont très violents.",
+        "Il peuple les champs et les forêts. Lorsque deux\nvolées se croisent, elles luttent pour le territoire.",
+        "Il a coutume de se regrouper en larges volées.\nLes combats entre Étourvol sont très violents.",
+        "Il peuple les champs et les forêts. Lorsque deux volées\nse croisent, elles luttent pour le territoire."
+    ],
+    "height": 0.6,
+    "id": 397,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+    "name": "Étourvol",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 15.5
+}

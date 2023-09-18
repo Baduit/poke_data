@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Riesce a leggere i pensieri e i movimenti del\nnemico decifrando l’aura che questo emette.",
+        "Sa decifrare le onde emesse da ogni cosa. Questo gli\npermette di capire le emozioni di creature lontane\nanche 1 km.",
+        "Riesce a leggere i pensieri e i movimenti del nemico decifrando\nl’aura che questo emette.",
+        "Sa decifrare le onde emesse da ogni cosa. Questo gli permette\ndi capire le emozioni di creature lontane anche 1 km.",
+        "Oltre a essere in grado di percepire l’aura,\nha anche la capacità di controllarla.\nSfrutta questa sua abilità anche nelle lotte.",
+        "Riesce a identificare creature ed emozioni a\n1 km di distanza. Sfrutta la sua capacità di\npercepire l’aura per cacciare in gruppo.",
+        "È in grado di concentrare le sue energie\nspirituali per sprigionare un’aura che può\nfrantumare anche grossi macigni.",
+        "Riesce a identificare le emozioni dell’avversario\ntramite l’aura. A volte capta pensieri che\npreferirebbe ignorare e questo gli causa stress.",
+        "Caccia le prede usando un potere chiamato\naura, in grado di ridurre in frantumi anche\ngrossi macigni.",
+        "È in grado di comprendere anche i pensieri\ndegli esseri umani. Per questo, si affeziona\nsolo agli Allenatori dall’animo onesto."
+    ],
+    "height": 1.2,
+    "id": 448,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "name": "Lucario",
+    "types": [
+        "Lotta",
+        "Acciaio"
+    ],
+    "weight": 54.0
+}

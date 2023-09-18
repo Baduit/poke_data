@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "Il raffole du nectar des fleurs. Il\nest capable de repérer la plus\npetite quantité de pollen.",
+        "Il raffole du nectar des fleurs. Il\nest capable de repérer la plus\npetite quantité de pollen.",
+        "Il raffole du nectar des fleurs. Il est capable de\nrepérer la plus petite quantité de pollen.",
+        "Ses ailes sont recouvertes d’une poudre les\nprotégeant de la pluie. Ce Pokémon peut donc voler\npendant de grosses averses.",
+        "Papilusion est très doué pour repérer le délicieux nectar qu’il\nbutine dans les fleurs. Il peut détecter, extraire et transporter\nle nectar de fleurs situées à plus de 10 km de son nid.",
+        "Papilusion est très doué pour repérer le délicieux nectar qu’il\nbutine dans les fleurs. Il peut détecter, extraire et transporter\nle nectar de fleurs situées à plus de 10 km de son nid.",
+        "Si l’on regarde ses grands yeux de plus près,\non remarque qu’il s’agit en réalité d’une\nmultitude de petits yeux réunis.",
+        "Pour se défendre contre les agressions d’autres\nPokémon, il bat des ailes en éparpillant autour\nde lui un nuage de poussière toxique.",
+        "Lorsqu’il surprend un Pokémon oiseau attaquant\nun Chenipan, il répand les écailles très toxiques\nqui recouvrent ses ailes sur l’assaillant.",
+        "Il raffole du nectar des plus jolies fleurs.\nDans les prairies, les luttes territoriales\nl’opposant à Bombydou sont impitoyables.",
+        "Ses ailes sont enduites d’une poudre toxique\nimperméable lui permettant de voler sous\nla pluie.",
+        "Ses ailes sont enduites d’une poudre toxique\nimperméable lui permettant de voler sous\nla pluie.",
+        "En combat, il bat des ailes très rapidement pour\nprojeter de la poudre toxique sur ses ennemis.",
+        "Il ramasse du nectar chaque jour et l’agglutine\nsur les poils de ses pattes pour le transporter\njusqu’à son nid."
+    ],
+    "height": 1.1,
+    "id": 12,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "name": "Papilusion",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 32.0
+}

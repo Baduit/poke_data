@@ -1,0 +1,29 @@
+{
+    "descriptions": [
+        "Implements shaped like it were\ndiscovered in ancient tombs. It is\nunknown if they are related.",
+        "X-ray photos were taken to check\nits body structure. Nothing\nappeared, however.",
+        "There are researchers who believe\nthis Pokémon reflected like a mirror\nin the distant past.",
+        "Ancient people believed that the\npattern on BRONZOR’s back\ncontained a mysterious power.",
+        "Ancient people believed that the\npattern on BRONZOR’s back\ncontained a mysterious power.",
+        "There are researchers who believe\nthis Pokémon reflected like a mirror\nin the distant past.",
+        "There are researchers who believe\nthis Pokémon reflected like a mirror\nin the distant past.",
+        "They are found in ancient tombs.\nThe patterns on their backs are\nsaid to be imbued with mysterious power.",
+        "They are found in ancient tombs.\nThe patterns on their backs are\nsaid to be imbued with mysterious power.",
+        "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power.",
+        "Implements shaped like it were discovered in\nancient tombs. It is unknown if they are related.",
+        "Ancient people believed that the pattern on\nBronzor’s back contained a mysterious power.",
+        "Implements shaped like it were discovered in\nancient tombs. It is unknown if they are related.",
+        "It appears in ancient ruins. The pattern on its\nbody doesn’t come from any culture in the\nGalar region, so it remains shrouded in mystery.",
+        "Polishing Bronzor to a shine makes its surface\nreflect the truth, according to common lore.\nBe that as it may, Bronzor hates being polished.",
+        "Floats using a mysterious energy. The pattern engraved upon its\nback is held as sacred and can sometimes be found in imagery\nfrom ancient cemeteries and other such timeworn places."
+    ],
+    "height": 0.5,
+    "id": 436,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "name": "Bronzor",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "weight": 60.5
+}

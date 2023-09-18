@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "钳子是它强悍的武器，但在\n攻击时钳子偶尔会脱落。\n脱落后很快会长出新的来。",
+        "钳子是它强悍的武器，但在\n攻击时钳子偶尔会脱落。\n脱落后很快会长出新的来。",
+        "能在海边上找到它。\n巨大的钳子即使断掉，\n今后也会再长出来。",
+        "如果危险逼近，\n就会从嘴里吐出泡沫包裹全身，\n让身体看起来更大。"
+    ],
+    "height": 0.4,
+    "id": 98,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "name": "大钳蟹",
+    "types": [
+        "水"
+    ],
+    "weight": 6.5
+}

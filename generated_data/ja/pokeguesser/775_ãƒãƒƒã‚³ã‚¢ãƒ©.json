@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "寝たまま　生まれ　寝たまま　死ぬ。\nすべての　行動は　みている\n夢に　よる　寝相　らしい。",
+        "抱いた　木は　生まれたとき　親から\n与えられたもの。　よく　なつけば\nトレーナーの　腕にも　しがみつく。",
+        "生まれてから　ずっと　眠ったまま。\n深い　眠りに　落ちているときは\n一切　動かなくなる。",
+        "死ぬまで　ずっと　眠ったままなのは\nエサの　葉っぱに　麻酔の　ような\n成分が　含まれているからだ。"
+    ],
+    "height": 0.4,
+    "id": 775,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "name": "ネッコアラ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 19.9
+}

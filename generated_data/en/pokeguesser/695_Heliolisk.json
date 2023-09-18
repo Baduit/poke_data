@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "They flare their frills and generate energy.\nA single Heliolisk can generate sufficient\nelectricity to power a skyscraper.",
+        "It stimulates its muscles with electricity,\nboosting the strength in its legs and enabling\nit to run 100 yards in five seconds.",
+        "They flare their frills and generate energy.\nA single Heliolisk can generate sufficient\nelectricity to power a skyscraper.",
+        "It stimulates its muscles with electricity,\nboosting the strength in its legs and enabling\nit to run 100 yards in five seconds.",
+        "A now-vanished desert culture treasured these\nPokémon. Appropriately, when Heliolisk came to\nthe Galar region, treasure came with them.",
+        "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city."
+    ],
+    "height": 1.0,
+    "id": 695,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "name": "Heliolisk",
+    "types": [
+        "Electric",
+        "Normal"
+    ],
+    "weight": 21.0
+}

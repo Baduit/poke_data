@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sein Feuer erschuf einst das Land. Es und Kyogre\nlieferten sich einen langen Kampf.",
+        "Dieses Legendäre Pokémon soll das Land verkörpern.\nEs ist in einen Schlaf gefallen, nachdem es mit Kyogre\ngekämpft hat.",
+        "Es heißt, Groudon sei die Personifizierung des Landes.\nLegenden zufolge hat es in seinem Bestreben, sich die\nNaturenergie anzueignen, viele Male gegen Kyogre gekämpft.",
+        "Mithilfe von Naturenergie kann es eine Protomorphose\ndurchführen und so seine ursprüngliche Form zurückerlangen.\nDadurch kann es Magma hervorbringen und\ndie Landmasse vergrößern."
+    ],
+    "height": 3.5,
+    "id": 383,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "name": "Groudon",
+    "types": [
+        "Boden"
+    ],
+    "weight": 950.0
+}

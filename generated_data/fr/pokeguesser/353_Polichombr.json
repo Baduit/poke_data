@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il aime le goût de la vengeance.\nIls vivent en rangs sous les\ngouttières des gens vindicatifs.",
+        "Il aime le goût de la vengeance.\nIls vivent en rangs sous les\ngouttières des gens vindicatifs.",
+        "Ce Pokémon, très actif la nuit, utilise sa corne pour\nse repaître de rancune ou de jalousie.",
+        "Il aime le goût de la vengeance. Les Pokémon de\ncette espèce vivent en rangs sous les gouttières\ndes gens vindicatifs.",
+        "Les Polichombr sont attirés par les sentiments de jalousie\net les esprits revanchards. Si quelqu’un veut se venger,\nces Pokémon apparaissent en nuée et s’alignent devant\nla porte des gens concernés.",
+        "Polichombr grandit en se nourrissant des émotions négatives\ndes gens, comme le désir de vengeance ou la jalousie. Il erre\ndans les villes à la recherche des gens qui n’ont pas le moral.",
+        "Les gens apprécient ce Pokémon, car il se\nnourrit de leurs émotions négatives telles que\nla rancœur et la jalousie.",
+        "Il existe un proverbe ancien qui dit :\n« Fuis la demeure où les Polichombr se\nrassemblent en nombre à la pénombre. »"
+    ],
+    "height": 0.6,
+    "id": 353,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "name": "Polichombr",
+    "types": [
+        "Spectre"
+    ],
+    "weight": 2.3
+}

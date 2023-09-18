@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "It secretly marks potential targets with a scent.\nBy following the scent, it stalks its targets\nand steals from them when they least expect it.",
+        "With a lithe body and sharp claws, it goes\naround stealing food and eggs. Boltund\nis its natural enemy."
+    ],
+    "height": 1.2,
+    "id": 828,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "name": "Thievul",
+    "types": [
+        "Dark"
+    ],
+    "weight": 19.9
+}

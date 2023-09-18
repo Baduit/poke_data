@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "头上燃烧着的烛光让它的身体\n保持微热。会拉着迷路孩子的手，\n将他们带向灵界。",
+        "吸取到的灵魂越年轻，\n头上的烛光就会\n燃烧得越旺越诡异。"
+    ],
+    "height": 0.3,
+    "id": 607,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "name": "烛光灵",
+    "types": [
+        "幽灵",
+        "火"
+    ],
+    "weight": 3.1
+}

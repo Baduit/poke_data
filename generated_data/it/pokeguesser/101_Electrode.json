@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Può esplodere anche alla minima provocazione.\nLo chiamano “Bomba Ball”.",
+        "Dato che accumula nel proprio corpo un’incredibile\nquantità di elettricità, esplode alla minima\nprovocazione.",
+        "Electrode si nutre dell’elettricità presente nell’atmosfera.\nQuando i fulmini solcano il cielo, è possibile scorgere molti\ndi questi Pokémon esplodere per aver ingerito un’eccessiva\ndose di elettricità.",
+        "Una delle caratteristiche di Electrode è la sua affinità con\nl’elettricità. Si tratta di un Pokémon problematico che spesso\nsi raduna attorno alle centrali elettriche per trarre nutrimento\ndall’elettricità appena generata.",
+        "L’energia elettrica accumulata nel suo corpo\npuò provocare un’esplosione al minimo urto.",
+        "L’energia elettrica accumulata nel suo corpo\npuò provocare un’esplosione al minimo urto."
+    ],
+    "height": 1.2,
+    "id": 101,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "name": "Electrode",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 66.6
+}

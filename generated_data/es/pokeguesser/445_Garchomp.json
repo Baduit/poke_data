@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Cuando despliega su cuerpo y sus alas, parece un\navión a reacción. Vuela a velocidad sónica.",
+        "Vuela tan rápido como un avión a reacción. Nunca se\nle escapa una presa.",
+        "Cuando despliega su cuerpo y sus alas, parece un avión a\nreacción. Vuela a velocidad sónica.",
+        "Vuela tan rápido como un avión a reacción. Nunca se le\nescapa una presa.",
+        "Vuela tan rápido como un avión a reacción.\nEmbiste a bandadas de Pokémon pájaro y, si\natrapa a alguno, se lo traga de un bocado.",
+        "Las dos protuberancias que tiene en la cabeza\nle sirven de sensores. Puede rastrear presas\nque se encuentren a gran distancia.",
+        "Surca el aire a velocidad supersónica en busca\nde presas y no duda en librar una batalla aérea\ncon un Salamence para quedarse con ellas.",
+        "Sus escamas, pequeñas, lisas y afiladas, no solo\nlo hacen más aerodinámico, sino que le sirven\npara herir al rival que ose atacarlo.",
+        "Habita en montañas de origen volcánico. Vuela\ntan rápido como un avión a reacción en busca de\npresas.",
+        "Se mueve a gran velocidad incluso por tierra. Es\ncapaz de cazar una presa en una montaña nevada\ny volver a su guarida sin llegar a pasar frío."
+    ],
+    "height": 1.9,
+    "id": 445,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "name": "Garchomp",
+    "types": [
+        "Dragón",
+        "Tierra"
+    ],
+    "weight": 95.0
+}

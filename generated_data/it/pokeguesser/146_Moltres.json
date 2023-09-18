@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Noto come uccello leggendario del fuoco, quando\nsbatte le ali crea scintillanti lingue infuocate.",
+        "Un Pokémon uccello leggendario. Si dice che la sua\napparizione preannunci l’arrivo della primavera.",
+        "Moltres è un Pokémon uccello leggendario, perfettamente\nin grado di gestire il fuoco. Se rimane ferito, si dice che\nsi immerga nel magma liquido di un vulcano per ardere\ne tornare in salute.",
+        "Moltres è un Pokémon uccello leggendario, perfettamente\nin grado di gestire il fuoco. Se rimane ferito, si dice che\nsi immerga nel magma liquido di un vulcano per ardere\ne tornare in salute.",
+        "Quando questo Pokémon alato leggendario\nsbatte le ali di fuoco, anche il cielo notturno\nsi tinge di rosso.",
+        "Quando questo Pokémon alato leggendario\nsbatte le ali di fuoco, anche il cielo notturno\nsi tinge di rosso.",
+        "Uno dei leggendari Pokémon alati. Quando\nsbatte le ali, le fiamme che le circondano\nbrillano di uno splendido rosso acceso.",
+        "Si narra che abbia aiutato dei viandanti che si\nerano persi illuminando i sentieri montuosi con\nle splendide ali infuocate."
+    ],
+    "height": 2.0,
+    "id": 146,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "name": "Moltres",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 60.0
+}

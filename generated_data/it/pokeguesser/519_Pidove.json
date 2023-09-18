@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "È un Pokémon un po’ smemorato. A volte dimentica\nl’ordine appena ricevuto e allora aspetta di riceverne\nun altro.",
+        "Pokémon che vive in città. Si affeziona facilmente\nalle persone, perciò non è strano trovarlo in parchi\no piazze.",
+        "È un Pokémon un po’ smemorato. A volte dimentica l’ordine\nappena ricevuto e allora aspetta di riceverne un altro.",
+        "Pokémon che vive in città. Si affeziona facilmente alle persone,\nperciò non è strano trovarlo in parchi o piazze.",
+        "Appare dovunque vivano delle persone. Meglio\nessere prudenti quando gli si dà del cibo, perché\npotrebbero accorrere centinaia di esemplari.",
+        "È un po’ smemorato e non molto sveglio.\nTuttavia è diligente e si affeziona facilmente,\ne per questo molti Allenatori lo adorano."
+    ],
+    "height": 0.3,
+    "id": 519,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "name": "Pidove",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 2.1
+}

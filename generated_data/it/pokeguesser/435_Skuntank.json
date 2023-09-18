@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Attacca spruzzando un fluido puzzolente dalla\ncoda. Ha un raggio d’azione di oltre 50 m.",
+        "Spruzza un fluido puzzolente dalla coda. Quest’odore\ndiventa insopportabile se fatto suppurare.",
+        "Attacca spruzzando un fluido puzzolente dalla coda. Ha un\nraggio d’azione di oltre 50 m.",
+        "Spruzza un fluido puzzolente dalla coda. Quest’odore diventa\ninsopportabile se fatto suppurare.",
+        "Lotta spruzzando dalla coda il liquido puzzolente\naccumulato nel ventre. L’odore cambia a\nseconda del cibo di cui si è nutrito.",
+        "Il fluido che spruzza dalla punta della coda\nha un odore tremendo. Costruisce la tana\nscavando un buco nel terreno."
+    ],
+    "height": 1.0,
+    "id": 435,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "name": "Skuntank",
+    "types": [
+        "Veleno",
+        "Buio"
+    ],
+    "weight": 38.0
+}

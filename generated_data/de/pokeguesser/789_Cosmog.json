@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sein Körper besteht aus flüchtigem Gas.\nEs wächst durch das Sammeln von Staub\naus der Luft.",
+        "Vor langer Zeit nannte man es „Kind der Sterne“.\nEs soll aus einer anderen Welt stammen, doch\nniemand weiß Genaueres darüber.",
+        "Da sein Körper aus Gas besteht, kann es schon\nvon einem leichten Luftzug weggeweht werden.\nAber das scheint ihm nichts auszumachen.",
+        "Es ist unklar, ob es aus dieser Welt stammt oder\nnicht. Wenn es in Gefahr ist, teleportiert es sich\nan einen sicheren Ort und versteckt sich.",
+        "Es stammt aus einem anderen Universum. Sein\nKörper aus Gas ist so leicht, dass es sogar von\neiner sanften Brise weggeweht wird.",
+        "Es ist sehr neugierig und handelt oft unüberlegt,\nweshalb es häufig in brenzlige Situationen gerät.\nWenn es in Gefahr ist, teleportiert es sich weg."
+    ],
+    "height": 0.2,
+    "id": 789,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+    "name": "Cosmog",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 0.1
+}

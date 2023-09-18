@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "最早是从其他地区被带到这儿来的，\n但现在阿罗拉的幕下力士比较有名。",
+        "每天早上醒来后大家一起训练，\n到了中午就吃东西午睡，\n醒来后又继续训练。",
+        "会朝着树干反复练习巴掌招数。\n有时会因为朝着椰蛋树\n练习巴掌招数而被扔飞。",
+        "据说为了培育强大的幕下力士，\n存在着一种训练家们按传统\n手法制作的火锅料理。"
+    ],
+    "height": 1.0,
+    "id": 296,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "name": "幕下力士",
+    "types": [
+        "格斗"
+    ],
+    "weight": 86.4
+}

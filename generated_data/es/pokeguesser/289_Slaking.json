@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "El Pokémon más perezoso del mundo. Cambia de lugar\npara coger la comida al alcance de su mano.",
+        "Es el Pokémon más vago que hay. Aun así, puede\nliberar de una vez una cantidad tremenda de energía\nacumulada.",
+        "Slaking se pasa todo el día tumbado vagueando. Se come la\nhierba que tiene a su alcance y, una vez que ha acabado con\nella, se va de mala gana a otro sitio.",
+        "Cuando Slaking se instala a vivir en una zona, aparecen\ncírculos de un metro de radio de terreno baldío, pues se\ncome todo el césped que pilla mientras está tumbado boca\nabajo."
+    ],
+    "height": 2.0,
+    "id": 289,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "name": "Slaking",
+    "types": [
+        "Normal"
+    ],
+    "weight": 130.5
+}

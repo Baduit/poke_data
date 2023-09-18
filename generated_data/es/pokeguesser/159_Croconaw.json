@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Si pierde un colmillo, le crecerá otro en su lugar.\nSiempre tiene 48 colmillos en su boca.",
+        "Cuando muerde algo, no lo suelta hasta que pierde\nsus colmillos. Estos se regeneran rápidamente.",
+        "Una vez que Croconaw le ha clavado los colmillos a su presa,\nes imposible que escape porque los tiene hacia adentro como\nsi fueran anzuelos. Cuando Croconaw hinca los dientes, no\nhay escapatoria.",
+        "Una vez que Croconaw le ha clavado los colmillos a su presa,\nes imposible que escape porque los tiene hacia adentro como\nsi fueran anzuelos. Cuando Croconaw hinca los dientes, no\nhay escapatoria."
+    ],
+    "height": 1.1,
+    "id": 159,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+    "name": "Croconaw",
+    "types": [
+        "Agua"
+    ],
+    "weight": 25.0
+}

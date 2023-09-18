@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "原本是為了超越顛峰而深入山中修行，\n卻走錯路登上雪山，在忍受寒冷的同時，\n毛髮不斷生長而產生了進化。",
+        "不顧一切地打架。\n遇到突發危機便會自斷鉗子，\n像發射火箭一樣砸出去。",
+        "會將寒氣聚集在鉗子中\n然後用力痛毆。就算是\n厚厚的冰壁也能打得粉碎。",
+        "習慣不經過大腦先動手打了再說。\n以前曾有過用連續不斷的拳擊\n把雪崩推回去的紀錄。"
+    ],
+    "height": 1.7,
+    "id": 740,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+    "name": "好勝毛蟹",
+    "types": [
+        "格鬥",
+        "冰"
+    ],
+    "weight": 180.0
+}

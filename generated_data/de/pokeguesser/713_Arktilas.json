@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sein eisbedeckter Körper ist so hart wie Stahl.\nEs nutzt diese stahlharte Hülle, um Hindernisse\nzu zerschmettern und sich so seinen Weg zu bahnen.",
+        "Mit den zahlreichen Arktip auf seinem Rücken sieht es\naus wie ein Flugzeugträger aus Eis.",
+        "Sein eisbedeckter Körper ist so hart wie Stahl. Es nutzt diese\nstahlharte Hülle, um Hindernisse zu zerschmettern und sich so\nseinen Weg zu bahnen.",
+        "Mit den zahlreichen Arktip auf seinem Rücken sieht es aus wie\nein Flugzeugträger aus Eis.",
+        "Mit unzähligen Arktip auf dem Rücken schwimmt\nes wie ein Eisberg durch die kalten Meere hoher\nBreitengrade.",
+        "Die Risse auf seinem Körper werden im Zuge\nseiner täglichen Aktivitäten tiefer. Ihm genügt\njedoch eine Nacht, um sie wieder zu schließen."
+    ],
+    "height": 2.0,
+    "id": 713,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "name": "Arktilas",
+    "types": [
+        "Eis"
+    ],
+    "weight": 505.0
+}

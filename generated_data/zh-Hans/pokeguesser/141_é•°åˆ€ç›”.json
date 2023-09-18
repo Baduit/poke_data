@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "为了在陆地上也能活动，\n身体开始了演化，\n但没等演化完，它就灭绝了。",
+        "能以大约２９节的速度游动。\n快速接近猎物后，会用镰刀\n撕裂猎物并给予其致命一击。",
+        "用纤细的身体快速\n游动。似乎会用镰刀\n撕裂猎物吸取体液。",
+        "用纤细的身体快速\n游动。似乎会用镰刀\n撕裂猎物吸取体液。",
+        "会将猎物撕裂并吸取体液。\n被它丢弃的残骸会成为\n其他宝可梦的食物。",
+        "灭绝的原因尚不明确。\n曾经栖息在温暖的大海，\n是性格残暴的古代宝可梦。"
+    ],
+    "height": 1.3,
+    "id": 141,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "name": "镰刀盔",
+    "types": [
+        "岩石",
+        "水"
+    ],
+    "weight": 40.5
+}

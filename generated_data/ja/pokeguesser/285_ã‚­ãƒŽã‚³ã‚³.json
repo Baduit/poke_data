@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "湿った　場所を　好み　昼間は\n森の　木陰で　じっと　している。\n頭から　毒の　粉を　出す。",
+        "頭の　てっぺんから　毒胞子を\n噴き出す。胞子を　吸いこむと\n体の　節々が　痛くなる。",
+        "深い　森の　湿った　地面に　生息。\n落ち葉の　下で　じっとしていることが　多い。\n落ち葉が　積もって　できた　腐葉土を　食べる。",
+        "危険を　感じると　体を　震わせて\n頭の　てっぺんから　胞子を　ばらまくぞ。\n草木も　しおれてしまうほどの　猛毒だ。"
+    ],
+    "height": 0.4,
+    "id": 285,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "name": "キノココ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 4.5
+}

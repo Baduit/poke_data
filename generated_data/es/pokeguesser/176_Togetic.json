@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Si no está con gente amable, se entristece. Puede\nflotar en el aire sin mover las alas.",
+        "Dicen que aparece entre gentes cuidadosas y de\nbuen corazón, a quienes inunda de felicidad.",
+        "Dicen que Togetic es un Pokémon que trae buena suerte y\nque, si detecta a alguien que es puro de corazón, sale para\ncompartir su alegría con él.",
+        "Dicen que Togetic es un Pokémon que trae buena suerte y\nque, si detecta a alguien que es puro de corazón, sale para\ncompartir su alegría con él.",
+        "Dicen que se le aparece a la gente de buen\ncorazón y la inunda de felicidad.",
+        "Si no está con gente amable, se entristece.\nPuede flotar en el aire sin mover las alas."
+    ],
+    "height": 0.6,
+    "id": 176,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+    "name": "Togetic",
+    "types": [
+        "Hada",
+        "Volador"
+    ],
+    "weight": 3.2
+}

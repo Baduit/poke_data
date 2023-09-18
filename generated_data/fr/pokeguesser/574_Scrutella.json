@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Concentre des pouvoirs psychiques dans\nses antennes semblables à des rubans,\net regarde fixement... mais quoi?",
+        "Fixe les Pokémon et les Dresseurs du\nregard comme s’il y avait quelque chose\nque personne d’autre ne pouvait voir.",
+        "Concentre des pouvoirs psychiques dans ses\nantennes semblables à des rubans, et regarde\nfixement… mais quoi ?",
+        "Fixe les Pokémon et les Dresseurs du regard comme\ns’il y avait quelque chose que personne d’autre ne\npouvait voir.",
+        "Concentre des pouvoirs psychiques dans ses antennes\nsemblables à des rubans, et regarde fixement… mais quoi ?",
+        "Fixe les Pokémon et les Dresseurs du regard comme\ns’il y avait quelque chose que personne d’autre ne\npouvait voir.",
+        "Il n’est encore qu’un enfant, mais il lui arrive\nde se battre avec l’énergie psychique concentrée\ndans ses antennes en forme de rubans.",
+        "Parfois, ce Pokémon chuchote alors qu’il n’y a\npersonne aux alentours. On raconte qu’il parle\nà une entité que personne ne peut voir."
+    ],
+    "height": 0.4,
+    "id": 574,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "name": "Scrutella",
+    "types": [
+        "Psy"
+    ],
+    "weight": 5.8
+}

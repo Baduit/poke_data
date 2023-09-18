@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Frantuma grandi massi con la testa dura come il\nferro e gli allenatissimi muscoli del collo.",
+        "Sogna di poter volare un giorno e, pertanto, si allena\nregolarmente gettandosi da alture.",
+        "Bagon serba in sé il sogno di volare alto in cielo. Nei suoi vani\ntentativi di spiccare il volo, si lancia a picco dalle alture.\nA causa di queste rovinose cadute, la testa gli è diventata\ndura come l’acciaio temprato.",
+        "Da sempre Bagon serba in sé il sogno di volare alto tra le\nnuvole. Sfoga la sua frustrazione per l’incapacità di volare\nsbattendo la testa dura contro rocce enormi, che frantuma\nin mille pezzi.",
+        "Pare che la sua convinzione di poter imparare\na volare sia dovuta a delle informazioni\ncontenute nel suo codice genetico.",
+        "Colpisce tutto quello che gli capita a tiro\ncon la testa dura come l’acciaio per sfogare\nla frustrazione dovuta all’incapacità di volare.",
+        "Ogni volta che vede volare i Pokémon alati,\nviene preso dall’invidia e polverizza a testate\nqualunque cosa abbia a tiro.",
+        "Secondo una teoria, le potenti testate che sferra\npermetterebbero di stimolare le cellule che\npresiedono all’evoluzione.",
+        "Tempra il suo corpo ogni giorno gettandosi\nin un precipizio, nella speranza di riuscire\na volare, prima o poi.",
+        "Vive in solitudine senza formare branchi.\nÈ dotato di una testa così dura da poter spaccare\nin due rocce granitiche con un solo colpo."
+    ],
+    "height": 0.6,
+    "id": 371,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "name": "Bagon",
+    "types": [
+        "Drago"
+    ],
+    "weight": 42.1
+}

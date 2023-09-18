@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il apprécie particulièrement les\ngens qui respectent les autres\net évitent les conflits inutiles.",
+        "Il apprécie particulièrement les\ngens qui respectent les autres\net évitent les conflits inutiles.",
+        "On dit qu’il apparaît dans les contrées paisibles pour\ndispenser mille bienfaits.",
+        "Il apprécie particulièrement les gens qui respectent\nles autres et évitent les conflits inutiles.",
+        "On dit qu’il apparaît dans les contrées paisibles pour dispenser\nmille bienfaits.",
+        "Il apprécie particulièrement les gens qui respectent les autres\net évitent les conflits inutiles.",
+        "Il ne se montre jamais en temps de guerre\nou de conflit. Ces derniers temps, il est rare\nde le croiser.",
+        "On dit que ce Pokémon dispense ses bienfaits,\nce qui explique pourquoi il est représenté\nsur les porte-bonheurs depuis fort longtemps."
+    ],
+    "height": 1.5,
+    "id": 468,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "name": "Togekiss",
+    "types": [
+        "Fée",
+        "Vol"
+    ],
+    "weight": 38.0
+}

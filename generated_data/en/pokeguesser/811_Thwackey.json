@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "The faster a Thwackey can beat out a rhythm\nwith its two sticks, the more respect it wins from\nits peers.",
+        "When it’s drumming out rapid beats in battle, it\ngets so caught up in the rhythm that it won’t even\nnotice that it’s already knocked out its opponent."
+    ],
+    "height": 0.7,
+    "id": 811,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "name": "Thwackey",
+    "types": [
+        "Grass"
+    ],
+    "weight": 14.0
+}

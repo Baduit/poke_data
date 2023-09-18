@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Lorsqu’il court, on peut voir de l’électricité\nse former à la base de sa queue. Ce Pokémon\nest très populaire auprès des bergers de Galar.",
+        "Ce glouton assiste les humains dans leur travail\nen échange de friandises. Il court sans arrêt,\nle corps enveloppé d’électricité."
+    ],
+    "height": 0.3,
+    "id": 835,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "name": "Voltoutou",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 13.5
+}

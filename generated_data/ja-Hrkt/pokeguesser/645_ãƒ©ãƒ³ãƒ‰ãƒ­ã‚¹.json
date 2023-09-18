@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "ランドロスの　おとずれる　とちは\nさくもつが　たくさん　みのるため\nはたけのかみさま　と　いわれている。",
+        "かぜや　かみなりを　とりこみ　かえた\nエネルギーが　つちに　えいようを\nあたえて　だいちを　ゆたかに　する。",
+        "ランドロスの　おとずれる　とちは\nさくもつが　たくさん　みのるため\nはたけのかみさま　と　いわれている。",
+        "かぜや　かみなりを　とりこみ　かえた\nエネルギーが　つちに　えいようを\nあたえて　だいちを　ゆたかに　する。"
+    ],
+    "height": 1.5,
+    "id": 645,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "name": "ランドロス",
+    "types": [
+        "じめん",
+        "ひこう"
+    ],
+    "weight": 68.0
+}

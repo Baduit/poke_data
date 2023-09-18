@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "拍打翅膀生火。\n一边踩着华丽的步伐，\n一边洒下猛烈的火焰。",
+        "吸食了朱红色花蜜的花舞鸟。\n以热情的步伐将敌人的身心\n全部燃烧殆尽。",
+        "用热情的舞蹈抓住敌人的心，\n趁对方疏忽的间隙，\n用熊熊燃烧的火焰将其烧尽。",
+        "吸食了朱红色花蜜的花舞鸟。\n训练家弄错指示的话就会非常生气。\n是情感变化非常剧烈的家伙。"
+    ],
+    "height": 0.6,
+    "id": 741,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "name": "花舞鸟",
+    "types": [
+        "火",
+        "飞行"
+    ],
+    "weight": 3.4
+}

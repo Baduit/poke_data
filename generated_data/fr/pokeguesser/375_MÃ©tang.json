@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il est formé de deux Terhal\nsoudés. Son corps de fer résiste à\nun choc avec un avion à réaction.",
+        "Il est formé de deux Terhal\nsoudés. Son corps de fer résiste à\nun choc avec un avion à réaction.",
+        "Il est formé de deux Terhal soudés. Son corps de fer\nrésiste à un choc avec un avion à réaction.",
+        "Il est formé de deux Terhal soudés. Leurs deux\ncerveaux étant liés, ses pouvoirs psychiques sont\ntrès puissants.",
+        "Lorsque deux Terhal fusionnent, un Métang apparaît.\nLes cerveaux des Terhal sont reliés par un système nerveux\nmagnétique, ce qui permet à ce Pokémon de générer\nun puissant pouvoir télékinétique.",
+        "Lorsque deux Terhal fusionnent, un Métang se forme.\nLes cerveaux des Terhal sont reliés par un système nerveux\nmagnétique. Ce Pokémon dirige ses bras vers l’arrière\npour voyager à grande vitesse.",
+        "Lorsque deux Terhal fusionnent, leurs pouvoirs\npsychiques sont doublés. En revanche, ils ne\ndeviennent pas plus futés.",
+        "Il raffole des minéraux qui émettent des ondes\nmagnétiques. Il peut s’élancer à la poursuite\nd’un Tarinor à 100 km/h.",
+        "Grâce à ses deux cerveaux, il peut déchaîner\nune puissante force psychique qui lui permet\nd’immobiliser ses proies.",
+        "Il parcourt le ciel à toute allure à la recherche\nd’une proie. Quand il en trouve une, il l’attrape\navec ses griffes acérées et ne la lâche plus.",
+        "Composé de deux Terhal réunis par l’attraction\nmagnétique, ce Pokémon a vu sa puissance\npsychique doubler grâce aux deux cerveaux.",
+        "Ce Pokémon vole par magnétisme.\nIl poursuit ses proies en slalomant\nà toute allure entre les pics escarpés."
+    ],
+    "height": 1.2,
+    "id": 375,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "name": "Métang",
+    "types": [
+        "Acier",
+        "Psy"
+    ],
+    "weight": 202.5
+}

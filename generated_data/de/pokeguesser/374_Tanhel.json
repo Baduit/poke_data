@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es fliegt, indem es eine magnetische Kraft erzeugt,\ndurch die es der natürlichen Anziehungskraft der\nErde trotzt.",
+        "Es kommuniziert mit anderen durch magnetische\nImpulse. Im Schwarm bilden sie eine perfekte Einheit.",
+        "Anstelle von Blut fließt eine starke magnetische Energie durch\nTanhels Körper. Dieses Pokémon kommuniziert mit anderen,\nindem es kontrollierte magnetische Impulse aussendet.",
+        "Tanhel hält sich am Schweben, indem es eine magnetische\nKraft erzeugt, die dem Erdmagnetfeld entgegenwirkt.\nWenn es schläft, verankert sich dieses Pokémon mit den\nHaken an seinem Hinterteil an einem Felsen.",
+        "Seine Zellen sind magnetisch geladen.\nEs kommuniziert mit anderen, indem es\nmagnetische Impulse aussendet.",
+        "Es sendet magnetische Impulse aus, um Gegner\nzu sich heranzuziehen und sie dann mit den\nKrallen an seinem Hinterteil aufzuschlitzen.",
+        "Statt Blut fließt in seinem Körper magnetische\nEnergie. Wenn es sich nicht gut fühlt, kann man\nihm einen Magnet geben.",
+        "Wenn man es wütend macht, tobt es nicht nur,\nsondern sendet auch eine starke magnetische\nKraft aus, die manche Maschinen kaputtmacht.",
+        "Mit der Magnetkraft, die es an seinem Hinterteil\nerzeugt, zieht es Gegner ruckartig zu sich heran,\num sie mit seinen scharfen Krallen aufzuspießen.",
+        "Die Zellen seines Körpers bestehen aus\nMagneten. Anstelle von Blut fließt magnetische\nEnergie durch Tanhel."
+    ],
+    "height": 0.6,
+    "id": 374,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "name": "Tanhel",
+    "types": [
+        "Stahl",
+        "Psycho"
+    ],
+    "weight": 95.2
+}

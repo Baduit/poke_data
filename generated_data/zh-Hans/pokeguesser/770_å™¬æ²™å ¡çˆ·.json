@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "操纵人们，\n让沙丘进化为沙堡。\n诅咒的力量也得到了提升。",
+        "在城堡的下面埋藏着大量\n被吸干了精气者的骸骨。",
+        "即使是一粒沙子也有思想。\n会吞下小型的宝可梦，\n活生生地夺走对方的生命气息。",
+        "会卷起沙暴，封住对手的行动后\n再夺走其生命气息，\n是恐怖的宝可梦。",
+        "也被称为沙滩的噩梦。\n会操控沙子让猎物陷入沙中，\n然后吸取其灵魂。",
+        "虽然住在沙滩上，但是\n讨厌水。要是淋了大雨，\n就无法维持城堡的造型。"
+    ],
+    "height": 1.3,
+    "id": 770,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+    "name": "噬沙堡爷",
+    "types": [
+        "幽灵",
+        "地面"
+    ],
+    "weight": 250.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sein Rückenpanzer ist explosiv, man sollte ihm\nalso niemals auf den Rücken klopfen. Das Loch\nin seinem Bauch ist seine Schwachstelle.",
+        "Es greift mit Feuer und Giftgas aus den\nNasenlöchern an. Sein Kot ist explosiv\nund vielseitig einsetzbar.",
+        "Es lebt an Vulkanen, wo es sich von Schwefel\nund Mineralien ernährt. Durch diese Bestandteile\nwird sein Rückenpanzer explosiv.",
+        "Sein explosiver Rückenpanzer ist gefährlich,\nverträgt aber keine Feuchtigkeit. Bei Regen\nzieht es sich deshalb tief in eine Höhle zurück.",
+        "Sein Panzer ist mit einer explosiven Schicht\nüberzogen. Gegnerische Angriffe quittiert es\nmit gewaltigen Explosionen.",
+        "Da es in Vulkanen lebt, nimmt es mit der Nahrung\nviel Schwefel auf, was seinen Panzer und seinen\nKot explosiv macht. Letzterer ist ein Gefahrengut."
+    ],
+    "height": 2.0,
+    "id": 776,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "name": "Tortunator",
+    "types": [
+        "Feuer",
+        "Drache"
+    ],
+    "weight": 212.0
+}

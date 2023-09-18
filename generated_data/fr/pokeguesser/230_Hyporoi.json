@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Chacun de ses déplacements provoque\ndes tourbillons. Il vit dans les grottes\nsous-marines.",
+        "Chacun de ses déplacements provoque\ndes tourbillons. Il vit dans les grottes\nsous-marines.",
+        "On dit qu’il se cache dans les grottes sous-marines.\nIl peut créer des tourbillons en bâillant.",
+        "Il emmagasine de l’énergie en restant dans les fonds\nmarins, là où rien d’autre ne peut survivre.",
+        "Hyporoi vit au fin fond des profondeurs océaniques\ngénéralement inhabitées. On a longtemps cru que\nle bâillement de ce Pokémon créait les tourbillons\ndans les océans.",
+        "Hyporoi dort au fond de l’océan, où aucune autre forme\nde vie ne réside. On raconte que lorsqu’une tempête survient,\nc’est que ce Pokémon s’éveille et erre dans les profondeurs\nen quête de proies.",
+        "Il apparaît à la surface de l’océan lorsqu’une\ntempête arrive. Dès qu’il croise un Dracolosse,\nun combat féroce s’ensuit.",
+        "Les écailles qui se détachent de son corps\nbrillent d’un éclat si élégant et si intense\nqu’on les offre aux familles royales."
+    ],
+    "height": 1.8,
+    "id": 230,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "name": "Hyporoi",
+    "types": [
+        "Eau",
+        "Dragon"
+    ],
+    "weight": 152.0
+}

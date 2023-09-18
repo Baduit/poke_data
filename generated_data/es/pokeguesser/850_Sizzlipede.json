@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Genera calor consumiendo el gas inflamable que\nalmacena en su cuerpo. Los círculos amarillos del\nabdomen están particularmente calientes.",
+        "Oprime a sus presas con su cuerpo candente.\nUna vez bien tostadas, las devora con fruición."
+    ],
+    "height": 0.7,
+    "id": 850,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "name": "Sizzlipede",
+    "types": [
+        "Fuego",
+        "Bicho"
+    ],
+    "weight": 1.0
+}

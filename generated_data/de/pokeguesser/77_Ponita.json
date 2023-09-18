@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Neugeboren kann es kaum stehen. Durch das\nGaloppieren werden seine Beine aber schneller\nund kräftiger.",
+        "Seine Beine werden kräftig, da es seinen Eltern\nhinterherläuft. Es rennt den ganzen Tag umher.",
+        "Nach seiner Geburt ist Ponita so schwach, dass es kaum von\nalleine aufstehen kann. Dieses Pokémon wird dadurch schnell\nstärker, dass es sich beim Versuch, mit seinen Eltern Schritt\nzu halten, immer wieder aufrappeln muss.",
+        "Nach seiner Geburt ist Ponita sehr schwach. Es braucht sehr\nlange, bis es auf allen Vieren steht. Dieses Pokémon wird\nstärker, da es bei dem Versuch, mit seinen Eltern Schritt zu\nhalten, immer wieder stolpert und hinfällt.",
+        "Es kann unglaublich hoch springen. Die Wucht\nder Landung absorbiert es mit seinen robusten\nHufen und Beinen.",
+        "Es kann unglaublich hoch springen. Die Wucht\nder Landung absorbiert es mit seinen robusten\nHufen und Beinen.",
+        "Nach der Geburt fällt ihm das Laufen schwer.\nDie Wettrennen, die es sich mit seinen Freunden\nliefert, stärken jedoch seine Beinmuskulatur.",
+        "Hat man erst einmal das Vertrauen eines Ponitas\ngewonnen, kann man seltsamerweise sogar seine\nfeurige Mähne anfassen, ohne sich zu verbrennen."
+    ],
+    "height": 1.0,
+    "id": 77,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "name": "Ponita",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 30.0
+}

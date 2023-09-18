@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "用尾巴尖端按住敵人，\n灌注高壓電流。\n敵人瞬間就變成黑炭了。",
+        "興奮的時候會捶胸發出聲響。\n每次捶胸都會飛濺出電火花，\n雷聲會在四周回響。",
+        "會握住帶著強烈電流的尾巴，\n形成帶電的拳頭，\n然後使盡力氣痛毆對手。",
+        "只要１隻電擊魔獸就能提供\n整座大都市所有建築物\n一整年所需的電力。",
+        "發電量與心跳數成正比。\n當牠面臨戰鬥的時候，\n電壓就會急速飆升。",
+        "發電量在電氣寶可夢中是\n屬於最頂級的。會從尾巴的\n前端放出高壓電流。"
+    ],
+    "height": 1.8,
+    "id": 466,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "name": "電擊魔獸",
+    "types": [
+        "電"
+    ],
+    "weight": 138.6
+}

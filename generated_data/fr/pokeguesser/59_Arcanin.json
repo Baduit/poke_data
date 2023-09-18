@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Son port altier et son attitude\nfière ont depuis longtemps\nconquis le cœur des hommes.",
+        "Son port altier et son attitude\nfière ont depuis longtemps\nconquis le cœur des hommes.",
+        "Un Pokémon très recherché pour sa grâce légendaire.\nIl court avec tellement d’agilité qu’on dirait qu’il vole.",
+        "Son aboiement est tout simplement majestueux.\nOn ne peut que ramper à ses pieds après l’avoir\nentendu.",
+        "Arcanin est célèbre pour son extraordinaire vitesse.\nOn le dit capable de parcourir plus de 10 000 km en 24 h.\nLe feu qui fait rage à l’intérieur du corps de ce Pokémon\nest la source de son pouvoir.",
+        "Arcanin est célèbre pour son extraordinaire vitesse.\nOn le dit capable de parcourir plus de 10 000 km en 24 h.\nLe feu qui fait rage à l’intérieur du corps de ce Pokémon\nest la source de son pouvoir.",
+        "Ce Pokémon apparaît dans de vieux contes\nd’Extrême-Orient. Aussi beau que majestueux,\nsa puissance est légendaire.",
+        "La flamme qui brûle dans son corps lui donne\nl’énergie de parcourir les contrées.\nDe nombreuses légendes existent à son sujet.",
+        "Une légende célèbre relate les exploits d’un\nchef de guerre et de son Arcanin à la conquête\nd’un certain royaume antique.",
+        "Tant de mythes circulent sur son compte\nqu’il est parfois qualifié de légendaire, alors\nqu’en réalité, il est on ne peut plus commun.",
+        "Un Pokémon légendaire en Extrême-Orient.\nIl est admiré pour la grâce et la beauté de\nsa course.",
+        "Un Pokémon légendaire en Extrême-Orient.\nIl est admiré pour la grâce et la beauté de\nsa course.",
+        "De nombreuses personnes ont été charmées\nà la vue de ce Pokémon parcourant 10 000 km\nen 24 heures.",
+        "Ce Pokémon est admiré depuis toujours pour\nsa beauté. Il court avec tellement de légèreté\nqu’on dirait qu’il vole."
+    ],
+    "height": 1.9,
+    "id": 59,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "name": "Arcanin",
+    "types": [
+        "Feu"
+    ],
+    "weight": 155.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "非常喜欢宝石，\n因此到处追着小碎钻。\n但却被尖牙陆鲨半路夺走。",
+        "宝石的眼睛发出诡异光芒时，\n就会摄取人的魂魄。\n是令人恐惧的宝可梦。",
+        "用坚硬的爪子掘土，\n用粗粗的牙齿嘎嘣嘎嘣地嚼宝石。\n非常喜欢吃小碎钻。",
+        "所吃宝石的成分会在\n身体表面浮现出来。\n所形成的花纹变化无限。",
+        "宝石的眼睛发出诡异光芒时，\n就会摄取人的魂魄。\n是令人恐惧的宝可梦。",
+        "会去吃宝石的结晶。\n双眼在漆黑一片的地方\n会发出宝石的光芒。"
+    ],
+    "height": 0.5,
+    "id": 302,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "name": "勾魂眼",
+    "types": [
+        "恶",
+        "幽灵"
+    ],
+    "weight": 11.0
+}

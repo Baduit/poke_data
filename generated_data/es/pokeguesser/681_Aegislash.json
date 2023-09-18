@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Han permanecido junto a estirpes de reyes durante\ngeneraciones. Mediante su poder espectral pueden\ncontrolar a humanos y a Pokémon.",
+        "Al parecer, puede intuir si un humano tiene madera\nde rey. Según se dice, las personas que obtuvieron\nsu reconocimiento acabaron siendo reyes.",
+        "Han permanecido junto a estirpes de reyes durante\ngeneraciones. Mediante su poder espectral pueden controlar\na humanos y a Pokémon.",
+        "Al parecer, puede intuir si un humano tiene madera de rey.\nSegún se dice, las personas que obtuvieron su reconocimiento\nacabaron siendo reyes.",
+        "Gracias a su cuerpo de acero y a una barrera de\npoder espectral, crea una defensa que le permite\nmitigar prácticamente cualquier ataque.",
+        "Mediante el control ejercido con su inmenso\npoder espectral, logró que humanos y Pokémon\nle forjaran un país a medida de sus necesidades."
+    ],
+    "height": 1.7,
+    "id": 681,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "name": "Aegislash",
+    "types": [
+        "Acero",
+        "Fantasma"
+    ],
+    "weight": 53.0
+}

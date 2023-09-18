@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "Quand il se laisse emporter par la\nrage, il ne se calme qu’après avoir\ndétruit tout ce qui l’entoure.",
+        "Quand il se laisse emporter par la\nrage, il ne se calme qu’après avoir\ndétruit tout ce qui l’entoure.",
+        "La littérature ancienne fait état d’un Léviator qui\naurait rasé un village sous le coup de la colère.",
+        "Gigantesque et maléfique, il est capable de raser\nune ville entière dans un accès de rage.",
+        "Quand Magicarpe évolue et devient Léviator, la structure de\nses cellules cérébrales est modifiée. On pense que l’extrême\nviolence de ce Pokémon découle de cette modification.",
+        "Lorsque Léviator commence à s’énerver, sa nature violente\nne se calme qu’une fois qu’il a tout réduit en cendres.\nLa fureur de ce Pokémon peut durer pendant un mois.",
+        "Il existe une légende à propos d’une ville qui a\nmis un Léviator en colère et qui a été réduite\nen cendres en une nuit.",
+        "Certaines personnes croient que les endroits où\nun Léviator apparaît sont destinés à connaître\nla destruction.",
+        "Avec son Ultralaser, il anéantit d’immenses\nétendues. Dans ces régions dévastées, il est\nsurnommé « le dieu de la destruction ».",
+        "L’énergie libérée au moment de son évolution\na fortement stimulé ses cellules cérébrales\net causé son tempérament pour le moins violent.",
+        "Brutal et dangereux, il est connu pour avoir rasé\ndes villes entières par le passé.",
+        "Brutal et dangereux, il est connu pour avoir rasé\ndes villes entières par le passé.",
+        "Il est d’une nature très agressive.\nLes lasers qu’il tire de sa bouche sont capables\nde désintégrer n’importe quelle cible.",
+        "Quand il se laisse emporter par la rage,\nmême la plus violente des tempêtes ne peut\nl’empêcher de détruire tout ce qui l’entoure."
+    ],
+    "height": 6.5,
+    "id": 130,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "name": "Léviator",
+    "types": [
+        "Eau",
+        "Vol"
+    ],
+    "weight": 235.0
+}

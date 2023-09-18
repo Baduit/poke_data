@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "静電気が　たまって　パチパチする\n毛玉を　大好物の　木の実と　一緒に\n幹の　穴に　隠す。",
+        "たまった　電気を　分け与えようと\nほほ袋を　こすり合わせる\nパチリスを　見かけることも　ある。",
+        "静電気が　たまって　パチパチする\n毛玉を　大好物の　木の実と　一緒に\n幹の　穴に　隠す。",
+        "たまった　電気を　分け与えようと\nほほ袋を　こすり合わせる\nパチリスを　見かけることも　ある。"
+    ],
+    "height": 0.4,
+    "id": 417,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "name": "パチリス",
+    "types": [
+        "でんき"
+    ],
+    "weight": 3.9
+}

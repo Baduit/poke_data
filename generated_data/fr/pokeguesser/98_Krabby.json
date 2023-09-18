@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il creuse son terrier sur des plages\nsablonneuses. Ses pinces repoussent\nsi on les brise.",
+        "Il creuse son terrier sur des plages\nsablonneuses. Ses pinces repoussent\nsi on les brise.",
+        "S’il est menacé, il se cache derrière les bulles\némises par sa bouche pour paraître plus gros.",
+        "On trouve ce Pokémon près de la mer. Ses grosses\npinces peuvent repousser si elles se font arracher.",
+        "Krabby vit sur les plages, enterré dans le sable. Sur les plages\noù on trouve peu de nourriture, on peut voir ces Pokémon\nse disputer pour défendre leur territoire.",
+        "Krabby vit sur les plages, enterré dans le sable. Sur les plages\noù on trouve peu de nourriture, on peut voir ces Pokémon\nse disputer pour défendre leur territoire.",
+        "Ses pinces sont des armes puissantes. Il peut\narriver qu’elles se brisent durant un combat,\nmais elles repoussent vite.",
+        "Ses pinces sont des armes puissantes. Il peut\narriver qu’elles se brisent durant un combat,\nmais elles repoussent vite.",
+        "On trouve ce Pokémon près de la mer.\nSes grosses pinces peuvent repousser\nsi elles sont arrachées.",
+        "S’il se sent menacé, il se cache derrière les bulles\némises par sa bouche pour paraître plus gros."
+    ],
+    "height": 0.4,
+    "id": 98,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "name": "Krabby",
+    "types": [
+        "Eau"
+    ],
+    "weight": 6.5
+}

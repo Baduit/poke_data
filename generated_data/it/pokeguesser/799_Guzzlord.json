@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Stando alle testimonianze, è in grado di divorare\nintere montagne e di inghiottire edifici in un solo\nboccone. È una delle Ultracreature.",
+        "È una delle pericolose Ultracreature.\nMangia continuamente, ma per qualche strano\nmotivo non produce escrementi.",
+        "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune.",
+        "Una misteriosa forma di vita nota come\nUltracreatura. Mangia in continuazione, come\nse fosse costantemente affamata."
+    ],
+    "height": 5.5,
+    "id": 799,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "name": "Guzzlord",
+    "types": [
+        "Buio",
+        "Drago"
+    ],
+    "weight": 888.0
+}

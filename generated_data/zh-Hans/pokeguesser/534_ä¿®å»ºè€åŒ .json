@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "即使成分相同，\n修建老匠搅拌的混凝土\n格外地坚硬结实。",
+        "要是认真起来就会\n扔掉手中的混凝土柱，\n赤手空拳地扑向敌人。"
+    ],
+    "height": 1.4,
+    "id": 534,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "name": "修建老匠",
+    "types": [
+        "格斗"
+    ],
+    "weight": 87.0
+}

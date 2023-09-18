@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Son corps frêle est protégé par sa\ncarapace d’acier. Il encaisse les\ncoups durs en attendant d’évoluer.",
+        "Son corps frêle est protégé par sa\ncarapace d’acier. Il encaisse les\ncoups durs en attendant d’évoluer.",
+        "Son corps frêle est protégé par sa carapace d’acier.\nIl encaisse les coups durs en attendant d’évoluer.",
+        "Il est vulnérable aux attaques tant que sa carapace\nest molle, car il expose son corps tendre et mou.",
+        "La carapace protégeant ce Pokémon est dure comme du\nmétal. Chrysacier ne bouge pas beaucoup. Il reste immobile\npour préparer les organes à l’intérieur de sa carapace en vue\nd’une évolution future.",
+        "La carapace protégeant ce Pokémon est dure comme du\nmétal. Chrysacier ne bouge pas beaucoup. Il reste immobile\npour préparer les organes à l’intérieur de sa carapace en vue\nd’une évolution future.",
+        "Sous sa carapace, il est tout mou et tendre.\nIl bouge très peu afin de ne pas secouer son\ncorps encore fragile.",
+        "Même si sa carapace est solide, elle n’est guère\ncomposée que de chitine et peut se briser\naisément. Mieux vaut éviter les combats rudes.",
+        "Sa carapace contient un liquide gluant.\nSa structure cellulaire est en cours de\nmodification en vue de son évolution prochaine.",
+        "Sa carapace est très solide et résiste sans\npeine aux assauts des Picassaut. Si elle bascule,\npar contre, son contenu s’éparpille au sol.",
+        "Il renforce sa carapace pour se protéger,\nmais un coup puissant peut l’en déloger.",
+        "Il renforce sa carapace pour se protéger,\nmais un coup puissant peut l’en déloger.",
+        "En attendant sa prochaine évolution, il ne peut\nque durcir sa carapace et rester immobile\npour éviter de se faire attaquer.",
+        "Bien que son corps soit entouré d’une carapace\nsolide, l’intérieur est si mou qu’il ne résisterait\npas à une attaque violente."
+    ],
+    "height": 0.7,
+    "id": 11,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "name": "Chrysacier",
+    "types": [
+        "Insecte"
+    ],
+    "weight": 9.9
+}

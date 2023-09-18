@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Ein Legendäres Pokémon mit der Macht, die Welt\ndurch Donner einzuäschern. Hilft allen, die einer\nWelt der Wünsche harren.",
+        "Sein Schweif erzeugt Strom. Es verbirgt sich hinter\ndichten Gewitterwolken und fliegt durch den Luftraum\nüber Einall.",
+        "Ein Legendäres Pokémon mit der Macht, die Welt durch\nDonner einzuäschern. Hilft allen, die einer Welt der Wünsche\nharren.",
+        "Sein Schweif erzeugt Strom. Es verbirgt sich hinter dichten\nGewitterwolken und fliegt durch den Luftraum über Einall.",
+        "Rotiert das Innere seines Schweifs wie eine\nTurbine, werden dadurch unzählige Blitze\nerzeugt, welche die Umgebung durchzucken.",
+        "Viele Mythen besingen den Donner, mit dem es\ndie Welt vernichten wird, wenn die Menschen\nden Sinn für die Gerechtigkeit verlieren."
+    ],
+    "height": 2.9,
+    "id": 644,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "name": "Zekrom",
+    "types": [
+        "Drache",
+        "Elektro"
+    ],
+    "weight": 345.0
+}

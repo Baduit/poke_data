@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Vive un metro sotto terra, dove si nutre di radici.\nTalvolta compare in superficie.",
+        "La sua pelle è sottilissima. Se si espone alla luce,\nil sangue si riscalda, indebolendolo.",
+        "Diglett è allevato in molte aziende agricole. La ragione\nè semplice: quando questo Pokémon scava, lascia il suolo\nperfettamente arato per la semina. Il suolo è poi pronto\nper la coltivazione di squisite verdure.",
+        "Diglett è allevato in molte aziende agricole. La ragione\nè semplice: quando questo Pokémon scava, lascia il suolo\nperfettamente arato per la semina. Il suolo è poi pronto\nper la coltivazione di squisite verdure.",
+        "Vive nutrendosi delle radici che trova\nsottoterra. Causa problemi agli agricoltori\nper la coltivazione di certe verdure.",
+        "È allevato in molte aziende agricole perché,\nvivendo sottoterra, ara il terreno e lo concima\ncon i suoi escrementi.",
+        "Si sposta scavando gallerie nel terreno.\nOdia la luce e sale in superficie solo dopo\nil tramonto.",
+        "Gli agricoltori piantano attorno ai campi gli alberi\namati da questi Pokémon per fare in modo che\narino il terreno per loro.",
+        "Ama i luoghi bui e vive soprattutto sottoterra,\nma esce spesso allo scoperto nelle grotte.",
+        "Ama i luoghi bui e vive soprattutto sottoterra,\nma esce spesso allo scoperto nelle grotte.",
+        "Se Diglett attraversa un terreno nel corso dei\nsuoi scavi, lo lascia perfettamente lavorato e\npronto per la semina.",
+        "Scava buche a bassa profondità. La terra\nsollevata che lascia al suo passaggio lo rende\nfacilmente individuabile."
+    ],
+    "height": 0.2,
+    "id": 50,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "name": "Diglett",
+    "types": [
+        "Terra"
+    ],
+    "weight": 0.8
+}

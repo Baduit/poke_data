@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Trasferisce alle zampe l’elettricità che produce\nper aumentarne la resistenza. Può correre per\ntre giorni interi senza mai fermarsi.",
+        "La potenza delle sue zampe aumenta grazie\nall’energia elettrica. Quando corre a tutta\nvelocità supera facilmente i 90 km/h."
+    ],
+    "height": 1.0,
+    "id": 836,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "name": "Boltund",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 34.0
+}

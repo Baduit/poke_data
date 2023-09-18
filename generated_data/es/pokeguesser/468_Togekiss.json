@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Se dice que aparece en zonas pacíficas y las bendice\ncon sus dones.",
+        "Congenia muy bien con las personas que respetan los\nderechos de los demás y evitan riñas innecesarias.",
+        "Se dice que aparece en zonas pacíficas y las bendice con sus\ndones.",
+        "Congenia muy bien con las personas que respetan los\nderechos de los demás y evitan riñas innecesarias.",
+        "Este Pokémon jamás se muestra en lugares donde\nreine la discordia y la disensión. Últimamente\napenas se avistan ejemplares.",
+        "Se dice que es portador de buena suerte.\nPor ello, su imagen aparece representada en\ntalismanes y amuletos desde la antigüedad."
+    ],
+    "height": 1.5,
+    "id": 468,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "name": "Togekiss",
+    "types": [
+        "Hada",
+        "Volador"
+    ],
+    "weight": 38.0
+}

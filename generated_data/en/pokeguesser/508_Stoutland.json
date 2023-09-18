@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "It rescues people stranded by\nblizzards in the mountains. Its\nshaggy fur shields it from the cold.",
+        "This extremely wise Pokémon excels\nat rescuing people stranded at sea or\nin the mountains.",
+        "Being wrapped in its long fur is so\ncomfortable that a person would be fine\neven overnight on a wintry mountain.",
+        "Being wrapped in its long fur is so\ncomfortable that a person would be fine\neven overnight on a wintry mountain.",
+        "It rescues people stranded by blizzards in the\nmountains. Its shaggy fur shields it from the cold.",
+        "Being wrapped in its long fur is so comfortable\nthat a person would be fine even overnight on a\nwintry mountain.",
+        "It rescues people stranded by blizzards in the\nmountains. Its shaggy fur shields it from the cold.",
+        "Being wrapped in its long fur is so comfortable\nthat a person would be fine even overnight on a\nwintry mountain.",
+        "Intelligent, good-natured, and valiant,\nit’s a trustworthy partner on rescue teams.",
+        "With this wise Pokémon, there could be no\nconcern that it would ever attack people. Some\nparents even trust it to babysit.",
+        "It pays no mind to the cold, thanks to its long\nwarm coat. Stoutland in Alola look a\nlittle uncomfortable.",
+        "Its fur is long and thick. A long time ago in cold\nregions, every household kept a Stoutland.",
+        "These Pokémon seem to enjoy living with humans.\nEven a Stoutland caught in the wild will warm up\nto people in about three days.",
+        "Stoutland is immensely proud of its impressive\nmoustache. It’s said that moustache length is what\ndetermines social standing among this species."
+    ],
+    "height": 1.2,
+    "id": 508,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png",
+    "name": "Stoutland",
+    "types": [
+        "Normal"
+    ],
+    "weight": 61.0
+}

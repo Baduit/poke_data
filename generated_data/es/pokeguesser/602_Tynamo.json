@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "La electricidad de uno solo es diminuta, pero, si\nmultitud de Tynamo se conectan, consiguen la\npotencia de un rayo.",
+        "Apenas puede generar energía por sí mismo, pero un\nbanco de Tynamo puede crear violentas descargas\neléctricas.",
+        "La electricidad de uno solo es diminuta, pero, si multitud de\nTynamo se conectan, consiguen la potencia de un rayo.",
+        "Apenas puede generar energía por sí mismo, pero un banco\nde Tynamo puede crear violentas descargas eléctricas."
+    ],
+    "height": 0.2,
+    "id": 602,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "name": "Tynamo",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 0.3
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Früher glaubten die Menschen, dem Muster auf\nseinem Rücken wohne eine mysteriöse Kraft inne.",
+        "Sein Körper sieht aus, als seien Teile davon\nin alten Gräbern gefunden worden.",
+        "Früher glaubten die Menschen, dem Muster auf seinem Rücken\nwohne eine mysteriöse Kraft inne.",
+        "Sein Körper sieht aus, als seien Teile davon in alten Gräbern\ngefunden worden.",
+        "Es erscheint in alten Ruinen. Sein Muster ist ein\nRätsel, da es nicht aus einer in Galar\nbeheimateten Kultur stammt.",
+        "Es heißt, wenn man es poliert, spiegelt sich die\nWahrheit in ihm wider. Bronzel mag es jedoch\nüberhaupt nicht, poliert zu werden."
+    ],
+    "height": 0.5,
+    "id": 436,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "name": "Bronzel",
+    "types": [
+        "Stahl",
+        "Psycho"
+    ],
+    "weight": 60.5
+}

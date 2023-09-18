@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ein von Team Plasma modifiziertes Käfer-Pokémon\naus dem Altertum. Die Kanone auf seinem Rücken\nist nun noch stärker.",
+        "Es lebte vor 300 Millionen Jahren. Team Plasma\nmodifizierte es und pflanzte ihm am Rücken\neine Kanone ein.",
+        "Ein von Team Plasma modifiziertes Käfer-Pokémon aus dem\nAltertum. Die Kanone auf seinem Rücken ist nun noch stärker.",
+        "Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte\nes und pflanzte ihm am Rücken eine Kanone ein."
+    ],
+    "height": 1.5,
+    "id": 649,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "name": "Genesect",
+    "types": [
+        "Käfer",
+        "Stahl"
+    ],
+    "weight": 82.5
+}

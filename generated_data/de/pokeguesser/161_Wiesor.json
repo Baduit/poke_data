@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Wenn es Wache hat, warnt es seine Artgenossen,\nindem es schreit und mit dem Schwanz auf den\nBoden schlägt.",
+        "Es stellt sich auf den Schweif, um weiter zu blicken.\nErspäht es einen Feind, schreit es laut auf.",
+        "Wenn Wiesor schläft, hält immer jemand Wache. Beim ersten\nAnflug von Gefahr weckt die Wache die anderen auf. Wenn\ndieses Pokémon von seinen Artgenossen getrennt wird,\nkann es vor Angst nicht mehr schlafen.",
+        "Wenn Wiesor schläft, hält immer jemand Wache. Beim ersten\nAnflug von Gefahr weckt die Wache die anderen auf. Wenn\ndieses Pokémon von seinen Artgenossen getrennt wird,\nkann es vor Angst nicht mehr schlafen."
+    ],
+    "height": 0.8,
+    "id": 161,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+    "name": "Wiesor",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

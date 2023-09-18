@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Über die Fühler an seinen Ohren kann es ertasten,\nwie es einer Person geht oder wann ein Pokémon\naus seinem Ei schlüpft.",
+        "Berührt es jemanden mit den Fühlern an seinen Ohren,\nerfährt es durch den Herzschlag der Person,\nwie es ihr geht.",
+        "Über die Fühler an seinen Ohren kann es ertasten, wie es einer\nPerson geht oder wann ein Pokémon aus seinem Ei schlüpft.",
+        "Berührt es jemanden mit den Fühlern an seinen Ohren,\nerfährt es durch den Herzschlag der Person, wie es ihr geht.",
+        "Dieses Pokémon verfügt über ein außerordentlich\ngutes Gehör. Es kann sogar das Kullern eines\nKiesels aus 2 km Entfernung vernehmen.",
+        "Berührt dieses herzensgute Pokémon jemanden\nmit seinen Fühlern, kann es dessen körperliche\nVerfassung und Gemütszustand ertasten."
+    ],
+    "height": 1.1,
+    "id": 531,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "name": "Ohrdoch",
+    "types": [
+        "Normal"
+    ],
+    "weight": 31.0
+}

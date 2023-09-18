@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "虽然能通过冻结四周来捕捉猎物，\n但由于嘴长在头顶上，\n所以吃起东西来不太方便。",
+        "面部的皮肤无论受到什么攻击\n都不会受伤，但由于呼吸起来\n不方便而灭绝了。"
+    ],
+    "height": 2.0,
+    "id": 883,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+    "name": "鳃鱼海兽",
+    "types": [
+        "水",
+        "冰"
+    ],
+    "weight": 175.0
+}

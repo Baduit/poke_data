@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il change de couleur à volonté,\nmais le motif en zigzag qui orne\nson ventre reste le même.",
+        "Il change de couleur à volonté,\nmais le motif en zigzag qui orne\nson ventre reste le même.",
+        "Il change de couleur à volonté, mais le motif en\nzigzag qui orne son ventre reste le même.",
+        "Il se fond dans son environnement en changeant de\ncouleur, mais le motif sur son ventre reste le même.",
+        "Kecleon est capable de modifier les couleurs de son corps\npour se fondre dans son environnement. Il y a cependant\nune exception : ce Pokémon ne peut pas modifier la figure\ngéométrique en zigzag sur son ventre.",
+        "Kecleon change la couleur de son corps pour se fondre\ndans son environnement, ce qui lui permet de s’approcher\nde sa proie sans être repéré. Il envoie ensuite sa grande\nlangue élastique pour piéger sa proie qui ne se doute de rien.",
+        "Il change de couleur pour se camoufler, mais si\non cesse de lui prêter attention pendant trop\nlongtemps, il se vexe et ne se montre plus...",
+        "Sa couleur change quand il se cache, mais varie\naussi selon son humeur et son état de santé :\nplus il est en forme, plus sa couleur est vive."
+    ],
+    "height": 1.0,
+    "id": 352,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "name": "Kecleon",
+    "types": [
+        "Normal"
+    ],
+    "weight": 22.0
+}

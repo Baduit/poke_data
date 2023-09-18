@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+        "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common."
+    ],
+    "height": 1.4,
+    "id": 987,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+    "name": "Flutter Mane",
+    "types": [
+        "Ghost",
+        "Fairy"
+    ],
+    "weight": 4.0
+}

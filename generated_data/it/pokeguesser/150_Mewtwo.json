@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Creato da uno scienziato dopo anni di orribili\nesperimenti di ingegneria genetica.",
+        "Un Pokémon creato usando i geni di Mew. Si dice che\nfra i Pokémon sia quello con l’animo più crudele.",
+        "Mewtwo è stato creato grazie a una manipolazione genetica.\nTuttavia, sebbene la scienza sia riuscita a creare un corpo\ndi Pokémon, ha fallito nell’intento di dare a Mewtwo\nun animo generoso.",
+        "Mewtwo è stato creato grazie a una manipolazione genetica.\nTuttavia, sebbene la scienza sia riuscita a creare un corpo\ndi Pokémon, ha fallito nell’intento di dare a Mewtwo\nun animo generoso.",
+        "Il suo DNA è quasi uguale a quello di Mew.\nCiò nonostante, sono agli antipodi per\ndimensioni e carattere.",
+        "Il suo DNA è quasi uguale a quello di Mew.\nCiò nonostante, sono agli antipodi per\ndimensioni e carattere."
+    ],
+    "height": 2.0,
+    "id": 150,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "name": "Mewtwo",
+    "types": [
+        "Psico"
+    ],
+    "weight": 122.0
+}

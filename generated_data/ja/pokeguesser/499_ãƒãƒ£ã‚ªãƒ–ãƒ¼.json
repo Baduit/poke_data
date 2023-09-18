@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "食べるほどに　燃やすものが　増えて\n胃袋内の　炎が　強まり\nパワーも　どんどん　あふれ出すのだ。",
+        "体内の　炎が　燃え上がると\n動きの　キレと　スピードが　増す。\nピンチになると　煙を　噴き出す。",
+        "食べるほどに　燃やすものが　増えて\n胃袋内の　炎が　強まり\nパワーも　どんどん　あふれ出すのだ。",
+        "体内の　炎が　燃え上がると\n動きの　キレと　スピードが　増す。\nピンチになると　煙を　噴き出す。"
+    ],
+    "height": 1.0,
+    "id": 499,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "name": "チャオブー",
+    "types": [
+        "ほのお",
+        "かくとう"
+    ],
+    "weight": 55.5
+}

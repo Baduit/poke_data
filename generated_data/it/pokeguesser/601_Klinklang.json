@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Facendo girare velocemente l’ingranaggio dotato\ndel nucleo rosso, accumula una grande quantità di\nenergia.",
+        "Il nucleo rosso serve da serbatoio di energia, che\npoi spara intorno a sé attraverso gli spuntoni.",
+        "Facendo girare velocemente l’ingranaggio dotato del nucleo\nrosso, accumula una grande quantità di energia.",
+        "Il nucleo rosso serve da serbatoio di energia, che poi spara\nintorno a sé attraverso gli spuntoni.",
+        "Emette una forte scarica elettrica dall’estremità\ndei suoi spuntoni. Il nucleo rosso contiene\nun’enorme quantità di energia.",
+        "I suoi tre ingranaggi girano ad altissima velocità.\nQuello con gli spuntoni, apparso dopo\nl’evoluzione, è inanimato."
+    ],
+    "height": 0.6,
+    "id": 601,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "name": "Klinklang",
+    "types": [
+        "Acciaio"
+    ],
+    "weight": 81.0
+}

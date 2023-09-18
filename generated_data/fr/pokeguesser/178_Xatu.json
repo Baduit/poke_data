@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Cet étrange Pokémon peut voir\nl’avenir et le passé. Il guette\nsans cesse la course du soleil.",
+        "Cet étrange Pokémon peut voir\nl’avenir et le passé. Il guette\nsans cesse la course du soleil.",
+        "Il peut rester à méditer sans bouger, du lever du\nsoleil jusqu’à la tombée de la nuit.",
+        "On dit qu’il est calme et tranquille car il peut voir en\npermanence le passé et le futur.",
+        "Xatu se tient debout et immobile toute la journée.\nCertains pensent que ce Pokémon a adopté cette\nposition à cause de la terreur qu’il a ressentie en\nprévoyant l’avenir.",
+        "On sait que Xatu se tient toute la journée debout,\nles yeux perdus vers l’horizon. Certaines personnes\nle vénèrent comme un Pokémon mystique, persuadées\nque Xatu a le pouvoir de prédire l’avenir.",
+        "Ce Pokémon aurait le pouvoir de voir l’avenir.\nIl n’a malheureusement pas celui de le changer.",
+        "Bien qu’il puisse voir l’avenir, il n’a aucune\nintention de le changer. Cela expliquerait\npourquoi il reste immobile.",
+        "On dit qu’il reste immobile et silencieux parce\nqu’il observe simultanément le passé et le futur.",
+        "Capable de voir le passé et l’avenir, ce Pokémon\nmystérieux consacre toutes ses journées\nà observer la course du soleil."
+    ],
+    "height": 1.5,
+    "id": 178,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "name": "Xatu",
+    "types": [
+        "Psy",
+        "Vol"
+    ],
+    "weight": 15.0
+}

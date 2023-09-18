@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Dieses Pokémon verfolgt schnelle Objekte in der\nHoffnung, ein Wettrennen gegen sie zu gewinnen.",
+        "Seine Mähne lodert auf, wenn es mit 240 km/h\npfeilschnell galoppiert.",
+        "Man kann Gallopa dabei beobachten, wie es lässig über Felder\nund Wiesen galoppiert. Wenn dieses Pokémon jedoch Ernst\nmacht, erreicht es bis zu 240 km/h. Dann beginnt seine Mähne\nzu lodern.",
+        "Man kann Gallopa dabei beobachten, wie es fröhlich über\nFelder und Wiesen galoppiert. Wenn dieses Pokémon jedoch\nErnst macht, erreicht es bis zu 240 km/h. Dann beginnt seine\nMähne zu lodern.",
+        "Es galoppiert für sein Leben gern. Entdeckt es\netwas, das schneller ist als es selbst, nimmt es\nblitzschnell die Verfolgung auf.",
+        "Es galoppiert für sein Leben gern. Entdeckt es\netwas, das schneller ist als es selbst, nimmt es\nblitzschnell die Verfolgung auf.",
+        "Die lodernde Mähne dieses Pokémon flattert im\nWind, wenn es mit einer Geschwindigkeit von\n240 km/h über Felder und Wiesen galoppiert.",
+        "Das schnellste Exemplar wird zum Anführer\nbestimmt und gibt als solcher den Zielort und\ndie Geschwindigkeit der Herde vor."
+    ],
+    "height": 1.7,
+    "id": 78,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "name": "Gallopa",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 95.0
+}

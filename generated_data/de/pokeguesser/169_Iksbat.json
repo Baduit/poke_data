@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Mit seinen vier Flügeln fliegt es so geräuschlos\ndurch die Nacht, dass man es nicht bemerkt.",
+        "Dank seiner vier Flügel kann es sich seiner Beute\nnoch schneller und leiser nähern, ohne dabei\nbemerkt zu werden.",
+        "Wenn Iksbat fliegt, indem es entweder das vordere oder\ndas hintere Paar Flügel bewegt, ist dies ein Anzeichen dafür,\ndass dieses Pokémon bereits eine lange Strecke hinter sich\nhat. Dann wechselt es die Flügel häufig.",
+        "Iksbats Flügelschlag ist so leise, dass die Beute lautlos\nüberrascht wird. Dieses Pokémon ruht sich aus, indem es\nsich mit seinen Hinterbeinen an einen Ast hängt.",
+        "Es kann sich nur schwer am Boden fortbewegen,\nda aus seinen zwei Beinen Flügel geworden sind.\nDaher ist es nur zu Kriechbewegungen fähig.",
+        "Mit seinen vier Flügeln kann es schnell und leise\nfliegen. Ehe seine Beute sich versieht, hat es sie\nschon gebissen und ihr alles Blut ausgesaugt.",
+        "Iksbat hat sehr scharfe Zähne, sodass seine\nBeute oft nichts davon merkt, wenn es in der\nDunkelheit zubeißt und ihr Blut aussaugt.",
+        "Frisches Blut von Menschen und Pokémon ist\nseine Nahrung. Ohne konstanten Nachschub\nwird es schwach und kann nicht mehr fliegen.",
+        "Seine zwei Beine wurden zu Flügeln. Es fliegt\nschnell und lautlos zu seiner Beute, um ihr dann\ndie Zähne in den Nacken zu bohren.",
+        "Seine vier Flügel können unabhängig voneinander\nschlagen. So vermag es auch in engen Höhlen\nohne Geschwindigkeitsverlust umherzufliegen."
+    ],
+    "height": 1.8,
+    "id": 169,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "name": "Iksbat",
+    "types": [
+        "Gift",
+        "Flug"
+    ],
+    "weight": 75.0
+}

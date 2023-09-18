@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Wenn es bei Sonnenaufgang anfängt zu meditieren,\nvergeht der ganze Tag, ehe es sich wieder bewegt.",
+        "Man sagt, es sei so still und in sich gekehrt, weil es\ndie Zukunft und die Vergangenheit parallel sieht.",
+        "Xatu bleibt den ganzen Tag an ein und demselben Ort\nwie angewurzelt stehen. Die Menschen glauben, dass es\ndies aus Angst vor den Dingen tut, die es für die Zukunft\nvorausgesehen hat.",
+        "Xatu steht den ganzen Tag bewegungslos herum und starrt\ndie Sonne an. Einige Menschen verehren es als ein mystisches\nPokémon. Sie glauben, dass Xatu in die Zukunft sehen könne.",
+        "Dieses Pokémon kann zwar angeblich die\nZukunft voraussehen, aber seine Kräfte\nreichen nicht aus, um diese auch zu ändern.",
+        "Es kann anscheinend in die Zukunft sehen, hat\naber keine Absicht, diese zu ändern. Deshalb\nsteht es einfach nur bewegungslos herum.",
+        "Man sagt, es sei so still und in sich gekehrt,\nweil es die Zukunft und die Vergangenheit\nparallel sieht.",
+        "Dieses kuriose Pokémon kann die Vergangenheit\nund die Zukunft sehen. Es beobachtet täglich den\nLauf der Sonne."
+    ],
+    "height": 1.5,
+    "id": 178,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "name": "Xatu",
+    "types": [
+        "Psycho",
+        "Flug"
+    ],
+    "weight": 15.0
+}

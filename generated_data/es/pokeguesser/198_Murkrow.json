@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Esconde objetos brillantes en un lugar secreto.\nMeowth y Murkrow suelen saquear su escondite.",
+        "Temido y odiado por muchos, dicen que trae la\ndesgracia a todos aquellos que lo ven por la noche.",
+        "Murkrow ha sido temido y repudiado por todos por ser\nsupuestamente fuente de mala suerte. Este Pokémon siente\ndebilidad por todo lo que brilla y resplandece. A las mujeres\nles roba los anillos.",
+        "Murkrow ha sido temido y repudiado por todos por ser\nsupuestamente fuente de mala suerte. Este Pokémon siente\ndebilidad por todo lo que brilla y resplandece. A las mujeres\nles roba los anillos.",
+        "Se despierta al ponerse el sol y vuela toda la\nnoche. Por eso, un viejo refrán aconseja volver\na casa antes de que Murkrow levante el vuelo.",
+        "Es odiado por muchos, pues se dice que atrae\nla desgracia. Si se lleva bien con su Entrenador,\nlo obsequiará con objetos brillantes.",
+        "Le gustan los objetos brillantes. Su fascinación\npor todo cuanto reluce lo lleva a buscar tesoros\nincluso en los nidos de Gabite.",
+        "Busca objetos brillantes para su patrón. No\ncuenta con muchas simpatías, pues la gente lo\nconsidera ave de mal agüero."
+    ],
+    "height": 0.5,
+    "id": 198,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "name": "Murkrow",
+    "types": [
+        "Siniestro",
+        "Volador"
+    ],
+    "weight": 2.1
+}

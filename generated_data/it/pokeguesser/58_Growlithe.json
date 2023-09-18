@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Molto amichevole e fedele verso le persone.\nAllontana i nemici abbaiando e mordendoli.",
+        "Coraggioso e fedele, si oppone senza timore anche\na nemici più grandi e forti di lui.",
+        "Growlithe ha un senso dell’olfatto molto sviluppato:\nuna volta annusato qualcosa non scorda più quell’odore.\nSfrutta questa dote per determinare le emozioni delle\naltre creature.",
+        "Growlithe ha un senso dell’olfatto molto sviluppato:\nuna volta annusato qualcosa non scorda più quell’odore.\nSfrutta questa dote per determinare le emozioni delle\naltre creature.",
+        "È intelligente e fedele, ma abbaia minaccioso\ncontro gli sconosciuti e contro chiunque invada\nil suo territorio.",
+        "Sembra tanto carino, ma se qualcuno si avvicina\nal suo Allenatore, reagisce abbaiando\ne mordendo.",
+        "È molto docile con gli esseri umani a cui\nsi affeziona, ma in natura lotta furiosamente\ncon i Rockruff per il controllo del territorio.",
+        "Vive con gli esseri umani da tempi antichissimi.\nSono state ritrovate ossa di questo Pokémon\nin siti archeologici risalenti all’età della pietra.",
+        "È un Pokémon molto affettuoso, ma si mette\nad abbaiare impetuosamente contro chiunque\ninvada il suo habitat.",
+        "È un Pokémon molto affettuoso, ma si mette\nad abbaiare impetuosamente contro chiunque\ninvada il suo habitat.",
+        "Coraggioso e fedele, si oppone senza paura\nanche a nemici più grandi e forti di lui.",
+        "Di indole molto leale, abbaia furiosamente\ncontro chiunque minacci di attaccare il suo\nAllenatore."
+    ],
+    "height": 0.7,
+    "id": 58,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "name": "Growlithe",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 19.0
+}

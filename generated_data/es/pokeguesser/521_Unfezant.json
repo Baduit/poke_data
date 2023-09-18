@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "El macho amenaza al enemigo meciendo el adorno de\nsu cabeza. Al volar, la hembra es mucho más diestra\nque el macho.",
+        "El macho hace gala de ornamentación en la cabeza.\nNo es dado a hacerse amigo de alguien que no sea\nsu Entrenador.",
+        "El macho amenaza al enemigo meciendo el adorno de su\ncabeza. Al volar, la hembra es mucho más diestra que el\nmacho.",
+        "El macho hace gala de ornamentación en la cabeza. No es\ndado a hacerse amigo de alguien que no sea su Entrenador.",
+        "Hacen gala de una soberbia destreza al volar.\nLa hembra posee una mayor resistencia, mientras\nque el macho la supera en velocidad.",
+        "Es un Pokémon muy inteligente y orgulloso.\nSe tiene en alta estima a aquellos que se\nconvierten en sus Entrenadores."
+    ],
+    "height": 1.2,
+    "id": 521,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "name": "Unfezant",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 29.0
+}

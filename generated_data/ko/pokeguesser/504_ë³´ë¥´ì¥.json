@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "볼의 주머니에 먹이를 모아두고\n며칠이고 망보기를 계속한다.\n꼬리로 동료에게 신호한다.",
+        "경계심이 강해서 반드시\n한 마리는 망을 보고 있으나\n뒤에서 오는 상대는 알아차리지 못한다.",
+        "볼의 주머니에 먹이를 모아두고\n며칠이고 망보기를 계속한다.\n꼬리로 동료에게 신호한다.",
+        "경계심이 강해서 반드시\n한 마리는 망을 보고 있으나\n뒤에서 오는 상대는 알아차리지 못한다."
+    ],
+    "height": 0.5,
+    "id": 504,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+    "name": "보르쥐",
+    "types": [
+        "노말"
+    ],
+    "weight": 11.6
+}

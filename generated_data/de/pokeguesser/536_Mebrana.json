@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Wenn es die Beulen auf seinem Kopf zum\nSchwingen bringt, tobt je nach Umgebung\nentweder das Wasser oder die Erde bebt.",
+        "Es lebt zu Wasser und zu Lande. Mit seiner langen,\nklebrigen Zunge raubt es Gegnern die\nBewegungsfreiheit.",
+        "Wenn es die Beulen auf seinem Kopf zum Schwingen bringt,\ntobt je nach Umgebung entweder das Wasser oder die Erde\nbebt.",
+        "Es lebt zu Wasser und zu Lande. Mit seiner langen,\nklebrigen Zunge raubt es Gegnern die Bewegungsfreiheit.",
+        "Es schwächt seine Beute mit Kopfschmerzen\nerregenden Schallwellen und umschlingt\nsie anschließend mit seiner klebrigen Zunge.",
+        "Gelegentlich singt es sehr schön. Je größer die\nFortsätze an seinem Körper ausgebildet sind,\ndesto ausgeprägter fällt sein Stimmumfang aus."
+    ],
+    "height": 0.8,
+    "id": 536,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+    "name": "Mebrana",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 17.0
+}

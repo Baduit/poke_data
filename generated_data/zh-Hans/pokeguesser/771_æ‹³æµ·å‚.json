@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "栖息在沙滩等浅海地区。\n从身体里飞出体内器官，\n捕捉食物，或是与敌人战斗。",
+        "大量生活在沙滩上。\n包裹着身体的黏糊糊液体\n对于日晒后的护肤非常有用。",
+        "扔拳海参的文化始于\n将冲上岸的拳海参扔回海里这个习俗。",
+        "全身因体液而滑溜溜的。\n如果不小心踩上去就会摔倒，\n而且还会被生气的它殴打。",
+        "栖息于温暖的浅滩。\n遇到敌人时，会从嘴里\n吐出内脏来攻击对方。",
+        "覆盖着皮肤的粘液\n具有出众的保湿效果，\n即使在陆地上待好几天也不会干掉。"
+    ],
+    "height": 0.3,
+    "id": 771,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "name": "拳海参",
+    "types": [
+        "水"
+    ],
+    "weight": 1.2
+}

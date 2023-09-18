@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "커다란 꼬리지느러미로 물을 헤치면\n스피드가 쑥쑥 오른다.\n작은 몸이지만 힘이 장사다.",
+        "머리의 지느러미로 물의 흐름을\n느껴 주위의 상황을 파악한다.\n바위를 들어 올릴 정도로 힘이 세다.",
+        "머리의 지느러미는 매우 민감한 레이더다.\n물이나 공기의 움직임을 통해 눈을 쓰지 않고\n주변의 상황을 알아낼 수 있다.",
+        "물속에서는 뺨의 아가미로 호흡한다.\n위급해지면 몸보다 큰 바위를\n산산이 부숴버리는 파워를 발휘한다."
+    ],
+    "height": 0.4,
+    "id": 258,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "name": "물짱이",
+    "types": [
+        "물"
+    ],
+    "weight": 7.6
+}

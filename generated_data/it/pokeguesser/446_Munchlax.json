@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Nasconde il cibo sotto i lunghi peli del suo corpo.\nTuttavia, finisce spesso per dimenticarlo.",
+        "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte\nsenza masticarlo: glop!",
+        "Nasconde il cibo sotto i lunghi peli del suo corpo. Tuttavia,\nfinisce spesso per dimenticarlo.",
+        "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza\nmasticarlo: glop!",
+        "Deve divorare ogni giorno una quantità di cibo\npari al suo peso corporeo. Mangia qualunque\ncosa, senza badare troppo al sapore.",
+        "Appena trova qualcosa di commestibile, lo\ninghiotte senza masticarlo. Per questo il suo\npeso aumenta a vista d’occhio.",
+        "Nasconde il cibo sotto il lungo pelo, ma spesso\nse ne dimentica finché non inizia a esalare\nodori molesti a causa della putrefazione.",
+        "Inghiotte qualunque cosa sia commestibile senza\nmasticare. Ha uno stomaco robusto che gli\npermette di digerire anche il cibo andato a male.",
+        "Mangiare in quantità è la sua preoccupazione\nprincipale. Non bada al gusto e non si fa\nproblemi se il cibo è andato a male.",
+        "Conserva il cibo sotto la pelliccia e talvolta ne\ncondivide un boccone con chi si è guadagnato\nla sua piena fiducia."
+    ],
+    "height": 0.6,
+    "id": 446,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "name": "Munchlax",
+    "types": [
+        "Normale"
+    ],
+    "weight": 105.0
+}

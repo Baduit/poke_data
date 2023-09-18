@@ -1,0 +1,37 @@
+{
+    "descriptions": [
+        "WINGULL has the habit of carrying prey\nand valuables in its beak and hiding\nthem in all sorts of locations.\fThis POKéMON rides the winds and flies\nas if it were skating across the sky.",
+        "WINGULL rides updrafts rising from the\nsea by extending its long and narrow\nwings to glide.\fThis POKéMON’s long beak is useful for\ncatching prey.",
+        "It makes its nest on a sheer cliff at the\nedge of the sea. It has trouble keeping\nits wings flapping in flight. Instead, it\nsoars on updrafts.",
+        "It rides upon ocean winds as if it were\na glider. In the winter, it hides food\naround its nest.",
+        "It rides upon ocean winds as if it were\na glider. In the winter, it hides food\naround its nest.",
+        "It makes its nest on steep sea\ncliffs. Riding updrafts, it soars\nto great heights.",
+        "Catching sea winds with its long\nwings, it soars as if it were a\nglider. It folds its wings to rest.",
+        "It soars high in the sky, riding on\nupdrafts like a glider. It carries\nfood tucked in its bill.",
+        "It soars on updrafts without\nflapping its wings. It makes a nest\non sheer cliffs at the sea’s edge.",
+        "It soars on updrafts without\nflapping its wings. It makes a nest\non sheer cliffs at the sea’s edge.",
+        "It soars high in the sky, riding on\nupdrafts like a glider. It carries\nfood tucked in its bill.",
+        "It soars high in the sky, riding on\nupdrafts like a glider. It carries\nfood tucked in its bill.",
+        "It makes its nest on sheer cliffs.\nRiding the sea breeze, it glides\nup into the expansive skies.",
+        "It makes its nest on sheer cliffs.\nRiding the sea breeze, it glides\nup into the expansive skies.",
+        "Catching sea winds with its long wings, it soars\nas if it were a glider. It folds its wings to rest.",
+        "It makes its nest on steep sea cliffs.\nRiding updrafts, it soars to great heights.",
+        "Wingull has the habit of carrying prey and valuables in its beak\nand hiding them in all sorts of locations. This Pokémon rides\nthe winds and flies as if it were skating across the sky.",
+        "Wingull rides updrafts rising from the sea by extending its long\nand narrow wings to glide. This Pokémon’s long beak is useful\nfor catching prey.",
+        "Its hollow bones enhance its lightness.\nIt spreads its wings to the wind and soars away\ninto the sky.",
+        "Fishermen keep an eye out for Wingull in the\nsky, because wherever they’re circling, the\nocean is sure to be teeming with fish Pokémon.",
+        "With its long, thin wings, it catches updrafts\nand flies like a glider high up into the sky.",
+        "It builds nests in cliffs by the sea. It circles the\nskies above the ocean looking for its favorite\nfood—Wishiwashi.",
+        "It makes its nest on sheer cliffs. Riding the sea\nbreeze, it glides up into the expansive skies.",
+        "It soars on updrafts without flapping its wings.\nIt makes a nest on sheer cliffs at the sea’s edge."
+    ],
+    "height": 0.6,
+    "id": 278,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "name": "Wingull",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "weight": 9.5
+}

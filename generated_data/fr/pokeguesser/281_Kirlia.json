@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quand il sent la joie de son\nDresseur, il se met à danser,\ndébordant d’énergie.",
+        "Quand il sent la joie de son\nDresseur, il se met à danser,\ndébordant d’énergie.",
+        "Ce Pokémon tire ses pouvoirs psy du soutien de son\nDresseur. Il danse et tourne sur lui-même quand il est\ncontent.",
+        "Il peut distordre l’espace-temps grâce à ses pouvoirs\npsy et ainsi voir l’avenir.",
+        "On dit qu’un Kirlia exposé aux émotions positives de\nson Dresseur devient très beau. Le cerveau surdéveloppé\nde ce Pokémon lui permet de contrôler les forces\ntélékinétiques.",
+        "Kirlia utilise ses cornes pour amplifier ses pouvoirs\ntélékinétiques. Lorsque ce Pokémon utilise son pouvoir,\nl’air ambiant se déforme et crée des mirages de paysages\nqui n’existent pas.",
+        "Quand il ressent la joie de son Dresseur,\nil déborde d’énergie et se met à danser\nen tournant sur lui-même.",
+        "Il peut distordre l’espace-temps grâce\nà ses pouvoirs psychiques et ainsi voir l’avenir."
+    ],
+    "height": 0.8,
+    "id": 281,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "name": "Kirlia",
+    "types": [
+        "Psy",
+        "Fée"
+    ],
+    "weight": 20.2
+}

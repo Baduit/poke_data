@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Incendia i cespugli producendo scintille con il becco\ne cattura le prede che ne escono spaventate.",
+        "Nel ventre ha una sacca ardente che gli permette di\nvolare più velocemente in base all’intensità del fuoco,\nma per riscaldarla al punto giusto occorre del tempo.",
+        "Incendia i cespugli producendo scintille con il becco e cattura\nle prede che ne escono spaventate.",
+        "Nel ventre ha una sacca ardente che gli permette di volare più\nvelocemente in base all’intensità del fuoco, ma per riscaldarla\nal punto giusto occorre del tempo.",
+        "Attacca le prede scagliando scintille dal becco\ne, dopo averle catturate, le arrostisce e le\nmangia.",
+        "Difende gelosamente il suo territorio, che si\nestende per vari chilometri, tenendo lontani\ngli altri Fletchinder.",
+        "Sparge scintille per incendiare i cespugli e fa\nman bassa dei Pokémon Coleottero che saltano\nfuori spaventati.",
+        "La velocità che raggiunge subito dopo aver\nspiccato il volo è una delle più alte registrate\ntra i Pokémon alati.",
+        "Scaglia scintille nelle tane delle prede e attacca\ncon i suoi artigli affilati quelle che ne escono\nspaventate.",
+        "È molto territoriale e aggressivo. Si contende\nil territorio di caccia con gli altri Fletchinder."
+    ],
+    "height": 0.7,
+    "id": 662,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "name": "Fletchinder",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 16.0
+}

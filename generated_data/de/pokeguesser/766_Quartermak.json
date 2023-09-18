@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es gründet Gruppen von etwa 20 Exemplaren.\nDer Zusammenhalt der Gruppe ist extrem stark,\nkein Kamerad wird jemals im Stich gelassen.",
+        "Es setzt eine harte Beere im Kampf ein. Diese\nTechnik wird vom Anführer der Gruppe von\nGeneration zu Generation weitervererbt.",
+        "Mit Speichel klebt es sich Blätter als Markierung\nauf die Schultern. Die Anordnung dieser Blätter\nzeigt, welcher Gruppe sie angehören.",
+        "Beeren sind nicht nur sein Hauptnahrungsmittel,\nsie dienen auch als Waffe. Wer sie am weitesten\nwerfen kann, gilt als Anführer der Gruppe.",
+        "Bei der Beerensuche stellen sie ihre legendäre\nTeamfähigkeit unter Beweis, indem sie als\nGruppe die Befehle des Anführers befolgen.",
+        "Sie bilden Gruppen von 20 Exemplaren. Durch\nklare Aufgabenteilung haben sie den Gefahren\nder Natur getrotzt und bis heute überlebt."
+    ],
+    "height": 2.0,
+    "id": 766,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
+    "name": "Quartermak",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 82.8
+}

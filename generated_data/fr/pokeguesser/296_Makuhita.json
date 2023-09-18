@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il fortifie son corps en fonçant\nsur des arbres épais. Son nid est\nentouré d’arbres abattus.",
+        "Il fortifie son corps en fonçant\nsur des arbres épais. Son nid est\nentouré d’arbres abattus.",
+        "Il fonce sur des arbres larges pour fortifier son corps\nrobuste et son cœur vaillant.",
+        "Il suit un entraînement drastique pour devenir encore\nplus fort. C’est un Pokémon plein de volonté, et\ncapable de faire face à toutes les attaques.",
+        "Makuhita est tenace. Même s’il est presque battu,\nil continue à se relever et à attaquer son ennemi.\nChaque fois qu’il se relève, ce Pokémon stocke plus\nd’énergie en vue de sa future évolution.",
+        "Makuhita a un moral d’acier. Il ne désespère jamais.\nIl mange beaucoup, dort beaucoup et s’entraîne avec rigueur.\nSon hygiène de vie permet à ce Pokémon d’accumuler\nun maximum d’énergie.",
+        "Les Makuhita d’Alola sont aujourd’hui les plus\nconnus, bien qu’ils aient à l’origine été amenés\nsur l’archipel depuis des régions étrangères.",
+        "La journée de ce Pokémon est placée sous\nle signe de l’entraînement intensif, qui ne\ns’interrompt que pour manger et faire la sieste.",
+        "Il s’entraîne en frappant les arbres de la paume\nde la main. Il peut arriver qu’il s’attaque à un\npauvre Noadkoko, qui l’envoie alors valser.",
+        "Il existerait un plat mijoté traditionnel que\nles Dresseurs cuisinent pour rendre leur\nMakuhita encore plus fort."
+    ],
+    "height": 1.0,
+    "id": 296,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "name": "Makuhita",
+    "types": [
+        "Combat"
+    ],
+    "weight": 86.4
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "I fiori che ha sulla testa spandono un profumo\nrilassante, ma necessitano di continue attenzioni\nper non appassire.",
+        "Neanche gli Allenatori più navigati riescono sempre a\nfare schiudere il suo fiore. Va di moda fra le celebrità.",
+        "I fiori che ha sulla testa spandono un profumo rilassante,\nma necessitano di continue attenzioni per non appassire.",
+        "Neanche gli Allenatori più navigati riescono sempre a fare\nschiudere il suo fiore. Va di moda fra le celebrità.",
+        "Per quanto si possano impiegare tempo, denaro\ne fatica nella cura di questo Pokémon, il suo\nfiore sarà sempre più bello se sboccia in natura.",
+        "Appena trova un compagno, il meraviglioso fiore\nche ha sulla testa appassisce e si secca.",
+        "Il profumo del suo fiore, che varia lievemente in\nbase alla composizione del terreno dove il\nPokémon è cresciuto, dona serenità.",
+        "La sua bellezza affascina anche gli altri\nPokémon. Il fiore che ha sulla testa necessita\ndi continue attenzioni, altrimenti appassisce.",
+        "Si dice che riuscire a far sbocciare il fiore sulla\nsua testa sia un’impresa ardua anche per\ni floricoltori più esperti.",
+        "L’olio essenziale che si ottiene dal fiore ha un\nprofumo sublime, ma costa un occhio della testa."
+    ],
+    "height": 1.1,
+    "id": 549,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+    "name": "Lilligant",
+    "types": [
+        "Erba"
+    ],
+    "weight": 16.3
+}

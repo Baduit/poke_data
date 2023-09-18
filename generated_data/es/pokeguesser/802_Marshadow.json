@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Debido a que siempre se ha ocultado en las\nsombras y no le gusta dejarse ver, su misma\nexistencia es todo un misterio.",
+        "Se infiltra en la sombra de su oponente y copia\nsus movimientos y su fuerza. Es un Pokémon\ntímido y un poco cobardica.",
+        "Se oculta en la sombra de su oponente y copia\nsus movimientos y su fuerza. Su imitación\nresulta más poderosa que el original.",
+        "Se infiltra en la sombra de las personas y los\nPokémon. Sintoniza con sus sentimientos y\ncopia sus capacidades.",
+        "Tras infiltrarse en la sombra de un maestro de\nartes marciales y copiar sus movimientos, es\ncapaz de utilizar su técnica secreta definitiva.",
+        "Posee la extraordinaria capacidad de infiltrarse\nen cualquier sombra, por lo que nadie lo había\nvisto en mucho tiempo."
+    ],
+    "height": 0.7,
+    "id": 802,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "name": "Marshadow",
+    "types": [
+        "Lucha",
+        "Fantasma"
+    ],
+    "weight": 22.2
+}

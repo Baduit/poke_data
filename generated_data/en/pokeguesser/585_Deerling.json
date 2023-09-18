@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "The color and scent of their fur changes\nto match the mountain grass. When they\nsense hostility, they hide in the grass.",
+        "The turning of the seasons changes the\ncolor and scent of this Pokémon’s fur.\nPeople use it to mark the seasons.",
+        "Their coloring changes according to the\nseasons and can be slightly affected by\nthe temperature and humidity as well.",
+        "Their coloring changes according to the\nseasons and can be slightly affected by\nthe temperature and humidity as well.",
+        "Their coloring changes according to the seasons\nand can be slightly affected by the temperature and\nhumidity as well.",
+        "The turning of the seasons changes the color and\nscent of this Pokémon’s fur. People use it to mark\nthe seasons.",
+        "Their coloring changes according to the seasons\nand can be slightly affected by the temperature and\nhumidity as well.",
+        "The turning of the seasons changes the color and\nscent of this Pokémon’s fur. People use it to mark\nthe seasons."
+    ],
+    "height": 0.6,
+    "id": 585,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "name": "Deerling",
+    "types": [
+        "Normal",
+        "Grass"
+    ],
+    "weight": 19.5
+}

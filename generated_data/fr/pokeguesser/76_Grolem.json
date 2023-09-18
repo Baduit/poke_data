@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Aucun explosif ne pourrait entamer\nsa carapace de pierre. Il mue une\nfois par an.",
+        "Aucun explosif ne pourrait entamer\nsa carapace de pierre. Il mue une\nfois par an.",
+        "À force de dévaler les falaises, il a creusé de larges\nsillons. Mieux vaut ne pas s’en approcher.",
+        "Aucun explosif ne pourrait entamer sa carapace de\npierre. Il mue une fois par an.",
+        "Grolem vit à la montagne. Lorsqu’il y a un tremblement de\nterre, ces Pokémon roulent en groupe vers les contreforts\nmontagneux.",
+        "On sait que les Grolem se laissent rouler en bas\ndes montagnes. Afin d’éviter qu’ils roulent sur les maisons\ndes gens, des tranchées ont été creusées le long des\nmontagnes pour les guider dans leurs descentes infernales.",
+        "Son corps est si solide qu’il peut résister à\nl’explosion d’un bâton de dynamite, mais il\ncraint l’humidité et la pluie.",
+        "Ce Pokémon mue une fois par an. Sa carapace\nse transforme en humus très prisé par les\nagriculteurs.",
+        "Lorsqu’il arrive à un âge avancé, il arrête de\nmuer. Un Grolem ayant vécu très longtemps\nest recouvert de mousse verte.",
+        "Il est capable de faire exploser une partie de\nson corps. Le souffle lui permet de se projeter\nà toute vitesse vers les sommets.",
+        "Juste après la mue, son corps est blanc et\ntendre. Au contact de l’air, sa peau se solidifie\net forme une armure.",
+        "Juste après la mue, son corps est blanc et\ntendre. Au contact de l’air, sa peau se solidifie\net forme une armure."
+    ],
+    "height": 1.4,
+    "id": 76,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "name": "Grolem",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 300.0
+}

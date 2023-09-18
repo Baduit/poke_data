@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Malgrado il suo aspetto, è molto timido. Se si\narrabbia, tuttavia, colpisce con le sue enormi zanne.",
+        "Se spalanca la bocca mostrando i grandi denti,\nquasi tutti i Pokémon fuggono spaventati.",
+        "Granbull è dotato di una mascella inferiore particolarmente\nsviluppata. A causa delle enormi e pesanti zanne deve\ninclinare la testa per mantenersi in equilibrio.\nSe spaventato, può mordere in modo inconsulto.",
+        "Granbull è dotato di una mascella inferiore particolarmente\nsviluppata. A causa delle enormi e pesanti zanne deve\ninclinare la testa per mantenersi in equilibrio.\nSe spaventato, può mordere in modo inconsulto.",
+        "Attacca i nemici con la grossa mascella\ninferiore, dotata di zanne massicce.\nMorde solo quando è arrabbiato.",
+        "È persino più timido di Snubbull. I giovani lo\ntrovano irresistibile proprio per lo scarto tra\nil suo aspetto minaccioso e il suo carattere.",
+        "Ha una mascella molto potente, ma non ama\nbattersi, perciò non ha molte occasioni di dare\nprova della sua forza.",
+        "Piace moltissimo ai giovani.\nDi indole timida e delicata, non è adatto a fare\nla guardia."
+    ],
+    "height": 1.4,
+    "id": 210,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "name": "Granbull",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 48.7
+}

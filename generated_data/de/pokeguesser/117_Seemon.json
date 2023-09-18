@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Sein Körper ist mit scharfen Stacheln gespickt.\nWenn man sorglos ist und es berührt, kann man\ndurch die Stacheln bewusstlos werden.",
+        "Dieses Pokémon kann rückwärts schwimmen,\nindem es Flügel und Schwanz als Flossen einsetzt.",
+        "Sobald sich Seemon um eine Koralle gewickelt hat, schläft es.\nVon Zeit zu Zeit werden Menschen durch die Widerhaken\ndieses Pokémon verletzt, wenn sie versuchen, Korallen zu\nernten und es dabei nicht bemerken.",
+        "Seemon erzeugt Strudel, indem es sich schnell um die eigene\nAchse dreht. Diese Strudel können sogar Fischerboote in die\nTiefe reißen. Damit schwächt es Beute, bevor es sie im Ganzen\nverschlingt.",
+        "Eine Berührung seiner Rückenflossen betäubt. Es\nklammert sich mit dem Schwanz an Korallen fest,\num sich im Schlaf vor der Strömung zu schützen.",
+        "Eine Berührung seiner Rückenflossen betäubt. Es\nklammert sich mit dem Schwanz an Korallen fest,\num sich im Schlaf vor der Strömung zu schützen.",
+        "Männlichen Seemon obliegt es, den Nachwuchs\ngroßzuziehen. In diesem Zeitraum ist das Gift in\nihren Rückenstacheln stärker und dickflüssiger.",
+        "Selbst Beute, die größer als sein kleiner Mund ist,\nkann es dank dessen starker Saugkraft im Nu\neinsaugen und verspeisen."
+    ],
+    "height": 1.2,
+    "id": 117,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "name": "Seemon",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 25.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Kriecht mit seinen zwölf Beinen über den\nMeeresboden. Es hinterlässt oft etliche\nÜberreste von Corasonn.",
+        "Wer das Gift von Aggrostella abbekommt,\ndurchleidet drei schlimme Tage und Nächte.\nÜberlebende tragen bleibende Schäden davon.",
+        "Es feuert hochgiftige Dornen auf seine Gegner\nab. Kommen sie ihm zu nahe, mäht es sie mit\nden Krallen an seinen Beinen nieder.",
+        "Seine zwölf Beine bilden eine schützende\nKuppel, in der es sich gut leben lässt, da das\nInnere nicht von der Strömung erfasst wird.",
+        "Um dem kalten Wasser der Galar-Region zu\ntrotzen, bilden seine Beine eine Kuppel, deren\nInneres es mittels Körperwärme aufheizt.",
+        "In dem Giftbeutel in seinem Inneren bewahrt es\ngroße Mengen eines Gifts auf, das selbst einem\nWailord drei Tage und Nächte lang stark zusetzt."
+    ],
+    "height": 0.7,
+    "id": 748,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "name": "Aggrostella",
+    "types": [
+        "Gift",
+        "Wasser"
+    ],
+    "weight": 14.5
+}

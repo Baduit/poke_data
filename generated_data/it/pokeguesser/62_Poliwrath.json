@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Ha dei muscoli tanto sviluppati da riuscire ad\nattraversare a nuoto interi oceani senza fermarsi.",
+        "Esperto nuotatore di rana, crawl e altri stili, supera\nfacilmente i migliori nuotatori umani.",
+        "Poliwrath è dotato di muscoli molto sviluppati e robusti.\nPer quanto si alleni, non si stanca mai.\nQuesto Pokémon è così infaticabile e forte che riesce\nad attraversare a nuoto interi oceani.",
+        "Poliwrath è dotato di muscoli molto sviluppati e robusti.\nPer quanto si alleni, non si stanca mai.\nQuesto Pokémon è così infaticabile e forte che riesce\nad attraversare a nuoto interi oceani.",
+        "I Poliwrath di Alola sono specialisti del nuoto\na rana. Molti bambini imparano a nuotare\nimitandoli.",
+        "Ha una percentuale di grasso corporeo pari a\nzero ed è tutto muscoli. Ha sviluppato una\ngrande forza per potersi spostare nuotando.",
+        "È un nuotatore particolarmente abile anche\nrispetto ad altri Pokémon che vivono in acqua,\nma di solito vive sulla terraferma.",
+        "È dotato di muscoli vigorosi, sviluppatisi\ngrazie al nuoto. Con un pugno può mandare\nin frantumi anche un grosso masso.",
+        "Nuota velocissimo usando tutti i muscoli.\nRiesce persino a battere atleti di caratura\nmondiale.",
+        "Nuota velocissimo usando tutti i muscoli.\nRiesce persino a battere atleti di caratura\nmondiale.",
+        "Il suo corpo è un ammasso di muscoli. Nuota\nanche nei mari più freddi frantumando il ghiaccio\nfluttuante con le braccia vigorose per farsi strada.",
+        "È abile sia nel nuoto che nella lotta corpo\na corpo. Sferra pugni vigorosi grazie alle sue\nbraccia allenate."
+    ],
+    "height": 1.3,
+    "id": 62,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "name": "Poliwrath",
+    "types": [
+        "Acqua",
+        "Lotta"
+    ],
+    "weight": 54.0
+}

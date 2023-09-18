@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Di solito, il maschio con la criniera fiammeggiante\npiù ampia guida i compagni del gruppo.",
+        "Minaccia furiosamente i nemici soffiando aria a una\ntemperatura che raggiunge i 6000 °C. Le femmine\nproteggono i piccoli del gruppo.",
+        "Di solito, il maschio con la criniera fiammeggiante più ampia\nguida i compagni del gruppo.",
+        "Minaccia furiosamente i nemici soffiando aria a una temperatura\nche raggiunge i 6000 °C. Le femmine proteggono i piccoli\ndel gruppo.",
+        "Di solito il maschio passa le giornate nell’ozio,\nma se compare un nemico temibile è pronto a\nrischiare la vita per proteggere i compagni.",
+        "Con il suo soffio, infiamma l’aria a una\ntemperatura di 6.000 °C, ma evita di farlo con\nle prede perché preferisce la carne cruda."
+    ],
+    "height": 1.5,
+    "id": 668,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+    "name": "Pyroar",
+    "types": [
+        "Fuoco",
+        "Normale"
+    ],
+    "weight": 81.5
+}

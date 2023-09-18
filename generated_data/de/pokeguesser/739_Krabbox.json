@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Schützt mit den Scheren seine Schwachstellen\nund bereitet einen Gegenschlag vor. Verliert es,\nbläst es Trübsal.",
+        "Es verliert oft seine Scheren im Kampf, aber sie\nwachsen schnell nach. Obwohl diese nur wenig\nFleisch enthalten, gelten sie als Delikatesse.",
+        "Seine harten Scheren eignen sich sowohl für\noffensive als auch defensive Techniken. Kämpfe\nzwischen zwei Krabbox ähneln Boxkämpfen.",
+        "Manchmal hält es ein Kokowei für eine Palme\nund klettert es hinauf. Dieses schüttelt es dann\nwütend ab und verpasst ihm einen Tritt."
+    ],
+    "height": 0.6,
+    "id": 739,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "name": "Krabbox",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 7.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "La sua devastante forza fisica lo rende\nestremamente pericoloso, tanto che di solito\nè vietato l’accesso alle zone in cui vive.",
+        "Ha il vizio di abbracciare gli amici con una forza\ndisumana. Le sue effusioni hanno un effetto\ndistruttivo sulle ossa del proprio Allenatore.",
+        "Agita energicamente le braccia in segno di\nminaccia o di avvertimento. L’unica via di\nscampo è darsela a gambe.",
+        "Va fiero della propria forza smisurata.\nMolti ritengono che Bewear sia il Pokémon\npiù pericoloso di Alola.",
+        "Cerca di abbracciare chi considera suo amico in\nsegno di affetto, ma bisogna guardarsi dalla sua\nstretta, talmente potente da frantumare le ossa.",
+        "Dopo aver abbattuto le prede con mosse che\nfarebbero impallidire i lottatori più esperti, se le\ncarica una per zampa e se ne torna alla tana."
+    ],
+    "height": 2.1,
+    "id": 760,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "name": "Bewear",
+    "types": [
+        "Normale",
+        "Lotta"
+    ],
+    "weight": 135.0
+}

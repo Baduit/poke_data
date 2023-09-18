@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Il soulève les plus lourdes charges\navec plaisir et facilité. Il donne un\ncoup de main tout en s’entraînant!",
+        "Il soulève les plus lourdes charges\navec plaisir et facilité. Il donne un\ncoup de main tout en s’entraînant!",
+        "Son corps est si puissant qu’il lui faut une ceinture\nde force pour équilibrer ses mouvements.",
+        "Il peut soulever un camion d’une main. Il se sert\nde sa force pour aider dans les tâches physiques.",
+        "Les muscles toniques de Machopeur sont durs comme\nde l’acier. Ce Pokémon est si fort qu’il peut facilement\nsoulever un sumo avec un seul doigt.",
+        "Machopeur pratique le body-building tous les jours,\nmême lorsqu’il aide les gens à réaliser de durs travaux.\nPendant ses congés, ce Pokémon va s’entraîner dans\nles champs et les montagnes.",
+        "Grâce à un long entraînement, il a obtenu\nune force incroyable, qu’il met au service des\nhumains pour les aider dans leurs travaux.",
+        "Il aide les humains dans les travaux de force.\nIl n’y a aucun scrupule à avoir, car il est ravi\nde pouvoir faire travailler ses muscles.",
+        "Quand il rencontre un adversaire vraiment\nredoutable, il retire sa ceinture de force\net déchaîne toute sa puissance.",
+        "C’est un modèle très en vogue chez les\nsculpteurs. De nombreux artistes ne jurent\nque par sa musculature parfaite.",
+        "Sa ceinture sert à retenir son énergie. Sans elle,\nil serait incontrôlable.",
+        "Sa ceinture sert à retenir son énergie. Sans elle,\nil serait incontrôlable.",
+        "Son corps est si puissant qu’il lui faut une ceinture\npour maîtriser sa force.",
+        "Son corps robuste ne se fatigue jamais.\nIl n’hésite pas à aider les gens lorsqu’il s’agit\nde soulever des objets très lourds."
+    ],
+    "height": 1.5,
+    "id": 67,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "name": "Machopeur",
+    "types": [
+        "Combat"
+    ],
+    "weight": 70.5
+}

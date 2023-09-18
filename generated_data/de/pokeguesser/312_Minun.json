@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Mit elektrischen Schlägen regen Plusle und Minun\nden Blutkreislauf an und lösen so Verspannungen.",
+        "Es feuert Freunde an. Sind diese im Begriff zu\nverlieren, gibt sein Körper immer mehr Funken ab.",
+        "Minun kümmert sich mehr um das Anfeuern seiner Partner\nals um seine eigene Sicherheit. Es nutzt die Elektrizität in\nseinem Körper dazu, einen Funkenregen zu erzeugen und\nseine Teamkameraden anzufeuern.",
+        "Minun liebt es, seinen Partner im Kampf anzufeuern. Dabei\nsprüht es Funken aus seinem Körper. Wenn sein Partner in\nSchwierigkeiten gerät, sprüht es immer mehr Funken."
+    ],
+    "height": 0.4,
+    "id": 312,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "name": "Minun",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 4.2
+}

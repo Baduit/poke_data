@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Acurruca a sus crías para que duerman. Acorrala a los\nenemigos con su enorme velocidad.",
+        "Construye un nido donde introducir su largo y delgado\ncuerpo, en el que no pueden entrar otros Pokémon.",
+        "Furret es de constitución muy delgada. En combate le resulta\nútil porque puede escabullirse con habilidad por cualquier\nhuequito y escapar. A pesar de que tiene patas cortas, es ágil\ny veloz.",
+        "Furret es de constitución muy delgada. En combate le resulta\nútil porque puede escabullirse con habilidad por cualquier\nhuequito y escapar. A pesar de que tiene patas cortas, es ágil\ny veloz."
+    ],
+    "height": 1.8,
+    "id": 162,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "name": "Furret",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.5
+}

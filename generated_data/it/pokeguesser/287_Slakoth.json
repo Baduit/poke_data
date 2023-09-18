@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Coloro che osservano Slakoth, perdono la voglia di\nmuoversi e vengono colti da sonnolenza.",
+        "Tre foglie al giorno bastano a saziarlo e dorme fino\na 20 ore.",
+        "Slakoth ciondola in ozio per oltre 20 ore al giorno. Poiché\nsi muove così poco, non ha bisogno di molto nutrimento.\nL’unico pasto giornaliero di questo Pokémon consiste\nin tre foglie fresche.",
+        "Il cuore di Slakoth batte con una frequenza di appena\nun battito al minuto. Qualsiasi cosa accada, non si muove mai.\nInfatti adora poltrire, riducendo al minimo i suoi movimenti."
+    ],
+    "height": 0.8,
+    "id": 287,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+    "name": "Slakoth",
+    "types": [
+        "Normale"
+    ],
+    "weight": 24.0
+}

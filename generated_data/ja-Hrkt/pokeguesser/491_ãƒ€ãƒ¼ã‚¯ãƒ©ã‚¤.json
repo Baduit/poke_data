@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ふかい　ねむりに　さそう　ちからで\nひとや　ポケモンに　あくむを　みせて\nじぶんの　なわばりから　おいだす。",
+        "ひとびとを　ふかい　ねむりに　さそい\nゆめを　みせる　のうりょくを　もつ。\nしんげつの　よるに　かつどうする。",
+        "ふかい　ねむりに　さそう　ちからで\nひとや　ポケモンに　あくむを　みせて\nじぶんの　なわばりから　おいだす。",
+        "ひとびとを　ふかい　ねむりに　さそい\nゆめを　みせる　のうりょくを　もつ。\nしんげつの　よるに　かつどうする。"
+    ],
+    "height": 1.5,
+    "id": 491,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "name": "ダークライ",
+    "types": [
+        "あく"
+    ],
+    "weight": 50.5
+}

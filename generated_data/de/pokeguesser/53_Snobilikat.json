@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Dieses Pokémon hat sehr schönes Fell.\nEs ist jedoch ein schwer erziehbares Haustier.",
+        "Aufgrund seiner geschmeidigen Muskeln kann es sich\nlautlos bewegen. Es greift ohne Vorwarnung an.",
+        "Snobilikat hat sechs dicke Schnurrhaare, wodurch es Furcht\neinflößend wirkt. Durch diese nimmt es wahr, wenn sich etwas\nin seiner Nähe bewegt. Es wird sehr zutraulich, wenn man es\nan den Schnurrhaaren berührt.",
+        "Snobilikat hat sechs dicke Schnurrhaare, wodurch es Furcht\neinflößend wirkt. Durch diese nimmt es wahr, wenn sich etwas\nin seiner Nähe bewegt. Es wird sehr zutraulich, wenn man es\nan den Schnurrhaaren berührt.",
+        "Sieht man diesem ungestümen Pokémon nur\nin die Augen, fällt es einen bereits an. Seine\nscharfen Klauen hinterlassen tiefe Wunden.",
+        "Es ist von Natur aus sehr stolz, wenn auch\nnicht im gleichen Maße wie Snobilikat aus Alola.\nSie lassen sich nur sehr schwer zähmen.",
+        "Das Juwel auf seiner Stirn hat eine andere Farbe\nals jenes von Snobilikat aus Alola, doch die\nZusammensetzung ist großteils gleich.",
+        "Unter Wohlbetuchten ein besonders beliebtes\nPokémon. Räuberbanden haben es stets auf\ndas Juwel auf seiner Stirn abgesehen.",
+        "Es trägt ein leuchtendes Juwel an der Stirn.\nZusammen mit seinem anmutigen Gang wirkt\nes dadurch elegant wie eine Königin.",
+        "Es trägt ein leuchtendes Juwel an der Stirn.\nZusammen mit seinem anmutigen Gang wirkt\nes dadurch elegant wie eine Königin.",
+        "Es ist sehr stolz, was es nicht leicht macht, mit\nihm Freundschaft zu schließen. Wenn ihm etwas\nmissfällt, fährt es unverzüglich die Krallen aus.",
+        "Sein Auftreten ist anmutig und elegant. Es kommt\nmit Mauzingers grober Art nicht zurecht. Beide\nArten strafen sich gegenseitig mit Verachtung."
+    ],
+    "height": 1.0,
+    "id": 53,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "name": "Snobilikat",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.0
+}

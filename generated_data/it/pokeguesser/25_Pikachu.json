@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Solleva la coda per esaminare l’ambiente circostante.\nA volte la coda è colpita da un fulmine quando è in\nquesta posizione.",
+        "Se spaventato, perde scariche elettriche dalle due\nsacche che ha sulle guance.",
+        "Quando Pikachu incontra qualcosa che non conosce, lo\ncolpisce con una scarica elettrica. Quando si vede una bacca\nannerita, è evidente che questo Pokémon ha emesso una\nscossa troppo forte.",
+        "Pikachu immagazzina l’elettricità nelle guance. Pare che\nqueste si ricarichino durante la notte quando dorme.\nTalvolta emette delle scariche elettriche al risveglio mentre\nè ancora assonnato.",
+        "Recentemente è stato presentato un progetto\nper riunire numerosi Pikachu e costruire\nuna centrale elettrica.",
+        "Accumula naturalmente elettricità. Se ogni tanto\nnon si sfoga emettendo scariche elettriche,\nrischia di essere sopraffatto dallo stress.",
+        "Accumula naturalmente elettricità. I boschi\npopolati da gruppi di Pikachu sono pericolosi\nperché continuamente colpiti dai fulmini.",
+        "Mentre dorme produce energia elettrica nelle\nsacche che ha sulle guance. Se non riposa\nabbastanza può emettere solo deboli scariche.",
+        "Vive nelle foreste. Accumula elettricità nelle\nsacche sulle guance, e chiunque le tocchi\nprende la scossa.",
+        "Vive nelle foreste. Accumula elettricità nelle\nsacche sulle guance, e chiunque le tocchi\nprende la scossa.",
+        "Più potente è l’energia elettrica prodotta dal\nPokémon, più le sacche sulle sue guance sono\nmorbide ed elastiche.",
+        "I Pikachu si salutano fra loro unendo le code\ne facendovi passare elettricità attraverso."
+    ],
+    "height": 0.4,
+    "id": 25,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "name": "Pikachu",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 6.0
+}

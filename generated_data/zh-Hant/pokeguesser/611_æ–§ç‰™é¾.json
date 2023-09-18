@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "牙齒一旦折斷就不會再次生長。\n戰鬥結束之後會用河灘上的\n岩石仔細地磨牙。",
+        "皮膚像盔甲一樣堅硬。\n非常擅長在撞擊的同時\n用牙齒猛刺的戰法。"
+    ],
+    "height": 1.0,
+    "id": 611,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "name": "斧牙龍",
+    "types": [
+        "龍"
+    ],
+    "weight": 36.0
+}

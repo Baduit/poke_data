@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "飛行するときは　ベールのような\n羽から　光る　粒子を　出す。\n三日月の化身と　呼ばれている。",
+        "クレセリアの　羽を　持って　寝ると\n楽しい　夢が　見られると　いう。\n三日月の化身　と　呼ばれている。",
+        "飛行するときは　ベールのような\n羽から　光る　粒子を　出す。\n三日月の化身と　呼ばれている。",
+        "クレセリアの　羽を　持って　寝ると\n楽しい　夢が　見られると　いう。\n三日月の化身　と　呼ばれている。"
+    ],
+    "height": 1.5,
+    "id": 488,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "name": "クレセリア",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 85.6
+}

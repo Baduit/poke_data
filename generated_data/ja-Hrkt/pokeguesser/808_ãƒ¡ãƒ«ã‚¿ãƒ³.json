@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "とろりと　とけた　はがねの　からだ。\nちちゅうの　てつぶんや　きんぞくを\nとかして　きゅうしゅうする。",
+        "とろりと　とけた　はがねの　からだ。\nちちゅうの　てつぶんや　きんぞくを\nとかして　きゅうしゅうする。",
+        "きんぞくを　とかして　たべてしまう。\nえきたいきんぞくを　じゅんかんさせて\nたいないで　エネルギーを　つくる。",
+        "むれになって　せいかつするが　ときが\nくると　１ぴきの　つよい　メルタンが\nなかまたちを　とりこみ　しんかする。"
+    ],
+    "height": 0.2,
+    "id": 808,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+    "name": "メルタン",
+    "types": [
+        "はがね"
+    ],
+    "weight": 8.0
+}

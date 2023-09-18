@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "La fumée qui sort de son front contient\nles rêves de nombreuses personnes et\nceux de nombreux Pokémon.",
+        "Il peut matérialiser les rêves qu’il a\nmangés. La fumée qui sort de son front\nprend la forme des objets vus en rêve.",
+        "La fumée qui sort de son front contient les rêves\nde nombreuses personnes et ceux de nombreux\nPokémon.",
+        "La fumée qui sort de son front change de couleur\nselon le contenu des rêves qu’il a mangés.",
+        "La fumée qui sort de son front contient les rêves de\nnombreuses personnes et ceux de nombreux Pokémon.",
+        "La fumée qui sort de son front change de couleur\nselon le contenu des rêves qu’il a mangés.",
+        "Il est recommandé de ne pas l’approcher quand\nla fumée qui sort de son front a une teinte noire,\nsinon son cauchemar risque de se matérialiser.",
+        "Il est sans cesse assoupi, plongé dans ses rêves.\nIl vaut mieux éviter de le déranger, car il est\ntoujours mal luné au réveil."
+    ],
+    "height": 1.1,
+    "id": 518,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "name": "Mushana",
+    "types": [
+        "Psy"
+    ],
+    "weight": 60.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Pokémon nocturno. Atraído por las luces de la ciudad,\nse come las hojas y arbustos de las avenidas.",
+        "Cuando se le ataca, bate las alas con fuerza para\nesparcir polvo tóxico. Es un Pokémon nocturno.",
+        "Los Dustox se acercan a la luz de forma instintiva. De hecho,\nse agrupan en enjambres alrededor de las luces de las\nciudades y causan estragos en las hojas de los árboles que\nestán a pie de calle para alimentarse.",
+        "Cuando Dustox bate las alas, libera un polvillo fino que en\nrealidad es un peligroso veneno que puede resultar dañino\nhasta al más fuerte de los fuertes. Las antenas le sirven de\nradar para buscar comida."
+    ],
+    "height": 1.2,
+    "id": 269,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "name": "Dustox",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 31.6
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le sommet de sa tête libère des\nspores empoisonnées. Il est\ndangereux de les inhaler.",
+        "Le sommet de sa tête libère des\nspores empoisonnées. Il est\ndangereux de les inhaler.",
+        "Il préfère les endroits humides. La journée, il reste\nà la lisière de la forêt. Il libère de la poudre toxique\npar sa tête.",
+        "Le sommet de sa tête libère des spores\nempoisonnées. Il est dangereux de les inhaler.",
+        "Les Balignon vivent dans les sols humides et les recoins\nsombres des grandes forêts. On les trouve souvent immobiles\nsous les feuilles mortes. Ce Pokémon se nourrit d’un compost\nfait de feuilles mortes pourries.",
+        "Lorsque Balignon sent un danger, il secoue son corps et\nrépand ses spores du haut de sa tête. Les spores de ce\nPokémon sont si toxiques qu’elles font dépérir les arbres\net les herbes."
+    ],
+    "height": 0.4,
+    "id": 285,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "name": "Balignon",
+    "types": [
+        "Plante"
+    ],
+    "weight": 4.5
+}

@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Blades comprise this Pokémon’s entire\nbody. If battling dulls the blades, it\nsharpens them on stones by the river.",
+        "They fight at Bisharp’s command.\nThey cling to their prey and inflict\ndamage by sinking their blades into it.",
+        "Ignoring their injuries, groups attack\nby sinking the blades that cover their\nbodies into their prey.",
+        "Ignoring their injuries, groups attack\nby sinking the blades that cover their\nbodies into their prey.",
+        "Blades comprise this Pokémon’s entire body.\nIf battling dulls the blades, it sharpens them on\nstones by the river.",
+        "Ignoring their injuries, groups attack by sinking\nthe blades that cover their bodies into their prey.",
+        "Blades comprise this Pokémon’s entire body.\nIf battling dulls the blades, it sharpens them on\nstones by the river.",
+        "Ignoring their injuries, groups attack by sinking\nthe blades that cover their bodies into their prey.",
+        "After shredding its prey, it sharpens its blades\non a stone by the river. Each Pawniard has its\nown favorite sharpening stone.",
+        "It follows Bisharp’s orders to a tee when it\nattacks enemies. After slashing an opponent,\nPawniard clangs both of its blades together.",
+        "It uses river stones to maintain the cutting edges\nof the blades covering its body. These sharpened\nblades allow it to bring down opponents.",
+        "A pack of these Pokémon forms to serve a\nBisharp boss. Each Pawniard trains diligently,\ndreaming of one day taking the lead."
+    ],
+    "height": 0.5,
+    "id": 624,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "name": "Pawniard",
+    "types": [
+        "Dark",
+        "Steel"
+    ],
+    "weight": 10.2
+}

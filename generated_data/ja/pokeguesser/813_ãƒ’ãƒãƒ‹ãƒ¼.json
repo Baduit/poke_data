@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "走りまわって　体温を　上げると\n炎エネルギーが　体を　巡り\n本来の　力を　発揮できる。",
+        "戦う　準備が　整うと\n鼻の　頭と　足の　裏の\n肉球が　高熱を　発する。"
+    ],
+    "height": 0.3,
+    "id": 813,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "name": "ヒバニー",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 4.5
+}

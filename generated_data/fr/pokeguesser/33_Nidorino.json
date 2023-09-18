@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "D’un tempérament violent, il\nempale l’ennemi sur sa corne\nqui distille un poison puissant.",
+        "D’un tempérament violent, il\nempale l’ennemi sur sa corne\nqui distille un poison puissant.",
+        "Il dresse ses oreilles à l’affût d’un bruit suspect et\nattaque toute menace se rapprochant de lui.",
+        "Très agressif, il est prompt à répondre à la violence.\nLa corne sur sa tête est venimeuse.",
+        "Nidorino dispose d’une corne plus dure que du diamant.\nS’il sent une présence hostile, toutes les pointes de son dos\nse hérissent d’un coup, puis il défie son ennemi.",
+        "Nidorino dispose d’une corne plus dure que du diamant.\nS’il sent une présence hostile, toutes les pointes de son dos\nse hérissent d’un coup, puis il défie son ennemi.",
+        "Sa corne est venimeuse. Si elle perce un ennemi,\nelle lui injecte un poison violent.",
+        "Sa corne est venimeuse. Si elle perce un ennemi,\nelle lui injecte un poison violent.",
+        "Il erre à la recherche d’une Pierre Lune,\nbrisant tous les rochers sur son passage\navec sa corne plus solide qu’un diamant.",
+        "D’un naturel nerveux, il est prompt à se battre.\nLorsqu’il a une montée d’adrénaline,\nla concentration de son poison augmente."
+    ],
+    "height": 0.9,
+    "id": 33,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "name": "Nidorino",
+    "types": [
+        "Poison"
+    ],
+    "weight": 19.5
+}

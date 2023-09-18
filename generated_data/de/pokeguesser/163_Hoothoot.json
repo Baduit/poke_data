@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sein Zeitgefühl ist perfekt. Was auch immer passiert,\nes behält den Rhythmus, da sein Kopf wackelt.",
+        "Es steht immer auf einem Bein. Es wechselt sein\nStandbein so schnell, dass man es kaum sieht.",
+        "Hoothoot besitzt ein inneres Organ, das die Erdumdrehung\nwahrnimmt. Dieses besondere Organ ermöglicht es diesem\nPokémon, jeden Tag zur selben Zeit zu schreien.",
+        "Hoothoot besitzt ein inneres Organ, das die Erdumdrehung\nwahrnimmt. Dieses besondere Organ ermöglicht es diesem\nPokémon, jeden Tag zur selben Zeit zu schreien.",
+        "Es neigt seinen Kopf tagein, tagaus in einem\nfestgelegten Rhythmus. Früher verwendete man\nes als Uhr.",
+        "Hoothoot ruft jeden Tag zur exakt gleichen Zeit.\nFrüher wurde es daher als Bote der Zeitgottheit\nverehrt und geschätzt.",
+        "Es steht immer auf einem Bein. Es wechselt sein\nStandbein so schnell, dass man es kaum sieht.",
+        "Es stößt immer zur gleichen Uhrzeit seinen Ruf\naus. Einige Trainer nehmen es deswegen statt\neiner Armbanduhr mit."
+    ],
+    "height": 0.7,
+    "id": 163,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "name": "Hoothoot",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 21.2
+}

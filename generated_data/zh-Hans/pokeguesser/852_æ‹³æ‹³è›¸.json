@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "会为了寻找食物而登上陆地。\n拥有旺盛的好奇心，不管看到什么，\n都会先用触手打一打再说。",
+        "智商大致相当于３岁的儿童。\n虽然触手经常断掉，但因为\n能再生，所以它并不在意。"
+    ],
+    "height": 0.6,
+    "id": 852,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "name": "拳拳蛸",
+    "types": [
+        "格斗"
+    ],
+    "weight": 4.0
+}

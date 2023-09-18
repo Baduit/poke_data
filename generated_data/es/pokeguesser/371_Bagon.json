@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Su desarrollado cuello y su cabeza dura como el acero\nle permiten reducir a añicos rocas enormes.",
+        "Sueña con volar algún día, por lo que siempre practica\nsaltando desde acantilados.",
+        "Bagon sueña con poder pasar un día volando por el cielo. En\nvanos intentos por volar, ha llegado a tirarse desde riscos.\nComo resultado de estas caídas en picado, se le ha puesto la\ncabeza dura como las piedras.",
+        "Bagon sueña siempre con lo mismo: pasar todo un día\nvolando entre las nubes. Frustrado ante la imposibilidad de\nvolar, parece que se desahoga dándose cabezazos contra\nrocas enormes hasta hacerlas añicos.",
+        "Parece ser que la información genética de los\nBagon les impulsa a creer que algún día serán\ncapaces de volar.",
+        "Se lanza de cabeza contra todo lo que se le\npone a tiro para lidiar con la frustración que le\ncausa el no poder surcar los cielos.",
+        "Cada vez que ve volar a un Pokémon pájaro le\ncorroe la envidia por dentro y asesta cabezazos\na todo lo que le rodea hasta hacerlo añicos.",
+        "Según una teoría, los fuertes cabezazos que\npropina estimulan las células implicadas en su\nevolución.",
+        "En su afán por volar, fortalece su cuerpo a diario\nsaltando desde acantilados.",
+        "Vive en solitario, sin formar manadas, y posee\nuna cabeza dura como la piedra que le permite\nhacer añicos rocas enormes de un solo golpe."
+    ],
+    "height": 0.6,
+    "id": 371,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "name": "Bagon",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 42.1
+}

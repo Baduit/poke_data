@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "牠的鉗子是威力強大的武器，\n但在攻擊時偶爾會脫落。\n脫落後很快就會長回來。",
+        "牠的鉗子是威力強大的武器，\n但在攻擊時偶爾會脫落。\n脫落後很快就會長回來。",
+        "能在海邊找到牠。\n巨大的鉗子即使斷掉\n也會再長出來。",
+        "如果危險逼近，\n就會從嘴裡吐出泡沫包裹全身，\n讓身體看起來更大。"
+    ],
+    "height": 0.4,
+    "id": 98,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "name": "大鉗蟹",
+    "types": [
+        "水"
+    ],
+    "weight": 6.5
+}

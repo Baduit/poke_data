@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es jagt in Rudeln von ungefähr zehn Magnayen. Beim\nEinkreisen der Beute arbeiten sie perfekt zusammen.",
+        "Es wird stets die Befehle eines begabten Trainers\nbefolgen. Dieses Verhalten geht darauf zurück,\ndass es früher im Rudel lebte.",
+        "Magnayen sendet deutliche Signale aus, wenn es sich auf\neinen Angriff vorbereitet. Es knurrt heftig und macht sich flach.\nDieses Pokémon kann mit seinen spitzen Zähnen brutal\nzubeißen.",
+        "Magnayen zieht in Gruppen durch die Wildnis.\nDurch seine Erfahrungen in der Wildnis hört es nur\nauf Trainer, die außergewöhnliche Fähigkeiten haben."
+    ],
+    "height": 1.0,
+    "id": 262,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "name": "Magnayen",
+    "types": [
+        "Unlicht"
+    ],
+    "weight": 37.0
+}

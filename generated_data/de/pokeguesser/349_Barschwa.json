@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es frisst einfach alles und kann daher\nauch in verschmutzter Umgebung leben.\nNiemand beachtet es.",
+        "Das schäbigste Pokémon von allen. Es lebt auf dem\nGrund von Flüssen, wo viele Wasserpflanzen wachsen.",
+        "Barschwas Flossen waren schon immer zerfetzt. Wegen seines\nmerkwürdigen Aussehens wird dieses Pokémon weitgehend\nignoriert. Es kann sowohl im Meer als auch in Flüssen leben.",
+        "Obwohl Barschwas Körper zerfetzt ist, besitzt es eine harte\nund zähe Lebenskraft, sodass es überall leben kann. Aber\ndieses Pokémon ist langsam und dusselig. Daher ist es leicht\nzu fangen.",
+        "Dieses robuste Pokémon fühlt sich selbst in\nverschmutztem Wasser wohl. So schäbig und\nzerfetzt es ist, so unbeliebt ist es auch.",
+        "Sein unvorteilhaftes Aussehen macht es zwar\nunbeliebt, doch seine erstaunliche Lebenskraft\nhat das Interesse der Forscher an ihm geweckt.",
+        "Wegen ihres schäbigen Aussehens werden sie\nnicht gefangen und auch als Beute verschmäht.\nDadurch vermehren sie sich ungehindert.",
+        "Die meisten Menschen schenken ihm wegen\nseines armseligen Äußeren keine Beachtung.\nDoch es gibt Sammler, die nur Barschwa wollen.",
+        "Sein unvorteilhaftes Aussehen macht es zwar\nunbeliebt, doch seine erstaunliche Lebenskraft\nhat das Interesse der Forscher an ihm geweckt.",
+        "Ein schäbiges, ja sogar hässliches Pokémon.\nDafür ist es abgehärtet und überlebt auch mit\nwenig Wasser."
+    ],
+    "height": 0.6,
+    "id": 349,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "name": "Barschwa",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 7.4
+}

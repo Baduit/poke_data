@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "This Pokémon is a cluster of electrical energy.\nIt’s said that removing the rings on Regieleki’s\nbody will unleash the Pokémon’s latent power.",
+        "Its entire body is made up of a single organ that\ngenerates electrical energy. Regieleki is capable\nof creating all Galar’s electricity."
+    ],
+    "height": 1.2,
+    "id": 894,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+    "name": "Regieleki",
+    "types": [
+        "Electric"
+    ],
+    "weight": 145.0
+}

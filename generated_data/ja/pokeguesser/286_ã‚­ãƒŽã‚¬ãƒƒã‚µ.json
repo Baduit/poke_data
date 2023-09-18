@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "短い　腕は　パンチを　出すとき\nグーンと　伸びる。プロボクサー\n顔負けの　テクニックを　持つ。",
+        "毒の　胞子を　ばらまき\n吸いこんで　苦しむ　相手に\n強烈な　パンチを　くらわせる。",
+        "軽やかな　フットワークで　敵に　近づき\n伸び縮みする　腕で　パンチを　繰り出す。\nボクサー　顔負けの　テクニックの　持ち主。",
+        "シッポの　タネは　毒の　胞子が　固まって\nできた　ものなので　食べたら　大変だ。\n一口で　お腹が　グルグル　鳴りだすぞ。"
+    ],
+    "height": 1.2,
+    "id": 286,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "name": "キノガッサ",
+    "types": [
+        "くさ",
+        "かくとう"
+    ],
+    "weight": 39.2
+}

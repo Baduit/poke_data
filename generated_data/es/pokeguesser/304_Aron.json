@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Suele vivir en lugares inaccesibles de las montañas,\npero el hambre lo empuja a comer raíles y coches.",
+        "Al evolucionar, la coraza de acero que recubre todo\nsu cuerpo se cae para crear una nueva.",
+        "Este Pokémon tiene el cuerpo de acero. Para mantenerlo, se\nalimenta del hierro que saca de las montañas. A veces, causa\nverdaderos problemas, pues se come puentes y vías de tren.",
+        "Aron tiene el cuerpo de acero. Con una carga hecha con toda\nla fuerza es capaz de demoler hasta un camión de basura y,\na continuación, comérselo.",
+        "Se alimenta de minerales de hierro o, en\nocasiones, de vías de tren para producir la\ncoraza de acero que le protege el cuerpo.",
+        "Antiguamente se recogía la coraza de acero\nque este Pokémon desprende al evolucionar\ny se empleaba para distintos usos."
+    ],
+    "height": 0.4,
+    "id": 304,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "name": "Aron",
+    "types": [
+        "Acero",
+        "Roca"
+    ],
+    "weight": 60.0
+}

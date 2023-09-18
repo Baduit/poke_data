@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Il suo corpo è fatto di panna. È nato dall’unione\ndi particelle di profumo dolce disperse nell’aria.",
+        "Si dice che le pasticcerie in cui è apparso\nun Milcery avranno un successo assicurato!"
+    ],
+    "height": 0.2,
+    "id": 868,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "name": "Milcery",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 0.3
+}

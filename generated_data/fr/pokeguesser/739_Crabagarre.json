@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il protège ses points faibles avec ses pinces en\nguettant le moment propice pour riposter.\nIl crache de l’écume lorsqu’il tombe K.O.",
+        "Ses pinces se décrochent lorsqu’il s’en sert trop\npour frapper, mais repoussent heureusement\naussitôt. Leur chair est fine et délicieuse.",
+        "Ses robustes pinces sont aussi efficaces pour\nl’attaque que pour la défense. Les combats de\nCrabagarre ressemblent à des matchs de boxe.",
+        "Il grimpe parfois sur un Noadkoko qu’il a pris\npour un cocotier. Il se fait alors éjecter puis\npiétiner par le Noadkoko courroucé."
+    ],
+    "height": 0.6,
+    "id": 739,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "name": "Crabagarre",
+    "types": [
+        "Combat"
+    ],
+    "weight": 7.0
+}

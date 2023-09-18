@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "能利用肌肉的伸縮來產生\n電流。當牠全身都在抖動時，\n就代表牠正在激烈地發電。",
+        "體毛通電就會發光。\n會揮動明亮發光的尾巴\n前端來向夥伴打信號。"
+    ],
+    "height": 0.5,
+    "id": 403,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+    "name": "小貓怪",
+    "types": [
+        "電"
+    ],
+    "weight": 9.5
+}

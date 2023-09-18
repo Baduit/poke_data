@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Leurs poils blancs sont recouverts\nd’une graisse spéciale qui leur permet\nd’esquiver facilement les attaques.",
+        "La texture de ses poils blancs est\nincomparable. Elle n’attire ni la\npoussière, ni l’électricité statique.",
+        "La texture de ses poils blancs est incomparable.\nElle n’attire ni la poussière, ni l’électricité statique.",
+        "Son corps est recouvert d’une sorte de lubrifiant qui\nfait glisser les coups sur lui comme si de rien n’était.",
+        "La texture de ses poils blancs est incomparable.\nElle n’attire ni la poussière, ni l’électricité statique.",
+        "Son corps est recouvert d’une sorte de lubrifiant qui fait\nglisser les coups sur lui comme si de rien n’était.",
+        "Grâce à la sécrétion huileuse dont ses poils\nblancs sont recouverts, les attaques glissent\nsur sa fourrure comme sur de la soie.",
+        "Le liquide que son corps sécrète est\nétrangement huileux. C’est un remède efficace\npour les personnes qui ont la peau sèche.",
+        "Il ne supporte pas de voir le moindre grain\nde poussière. Il utilise l’huile qu’il sécrète pour\nrecouvrir son nid d’un revêtement protecteur.",
+        "La sécrétion huileuse de ses poils lui permet\nde dévier les attaques. Elle s’arrache à prix d’or\nsur les marchés."
+    ],
+    "height": 0.5,
+    "id": 573,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "name": "Pashmilla",
+    "types": [
+        "Normal"
+    ],
+    "weight": 7.5
+}

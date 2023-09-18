@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il dort dans une faille des grands\nfonds. Ses battements d’ailes\ngénèrent une tempête de 40 jours.",
+        "Il dort dans une faille des grands\nfonds. Ses battements d’ailes\ngénèrent une tempête de 40 jours.",
+        "Il dort dans une faille des grands fonds.\nSes battements d’ailes génèrent une tempête de 40\njours.",
+        "Il est supposé être le gardien des sept mers.\nOn raconte qu’il est apparu une nuit de forte tempête.",
+        "Les ailes de Lugia renferment une puissance dévastatrice.\nUn simple battement de ses ailes peut détruire de petites\nmaisons. Du coup, ce Pokémon a choisi de vivre loin de tout,\ndans les profondeurs océaniques.",
+        "Les ailes de Lugia renferment une puissance dévastatrice.\nUn simple battement de ses ailes peut détruire de petites\nmaisons. Du coup, ce Pokémon a choisi de vivre loin de tout,\ndans les profondeurs océaniques."
+    ],
+    "height": 5.2,
+    "id": 249,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "name": "Lugia",
+    "types": [
+        "Psy",
+        "Vol"
+    ],
+    "weight": 216.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "喜歡吃水果。是個美食家，\n會對水果發射超音波，\n從中挑選出成熟的果實來吃。",
+        "為了尋找能當食物的水果\n而四處飛翔。能用超音波\n判斷水果是否已成熟。",
+        "每到太陽下山時，\n牠便會離開居住的洞窟四處飛行，\n用超音波尋找熟透的果實。",
+        "可以控制所有頻率的音波。\n就算是體型巨大的寶可夢，\n也對牠的超音波束手無策。"
+    ],
+    "height": 0.5,
+    "id": 714,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "name": "嗡蝠",
+    "types": [
+        "飛行",
+        "龍"
+    ],
+    "weight": 8.0
+}

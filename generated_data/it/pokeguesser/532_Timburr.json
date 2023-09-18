@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Porta sempre con sé una tavola di legno. Appare\nnei cantieri dove aiuta nei lavori.",
+        "Porta sempre con sé una tavola di legno e aiuta nei\nlavori edilizi. Quando cresce si sceglie una tavola\npiù grande.",
+        "Porta sempre con sé una tavola di legno. Appare nei cantieri\ndove aiuta nei lavori.",
+        "Porta sempre con sé una tavola di legno e aiuta nei lavori\nedilizi. Quando cresce si sceglie una tavola più grande.",
+        "Gli piace dare una mano nei lavori edili, e\nquando vengono interrotti per la pioggia,\nsi sfoga facendo roteare la sua trave.",
+        "Quando diventa capace di reggere travi di legno\ntre volte più grandi di lui, l’evoluzione è vicina."
+    ],
+    "height": 0.6,
+    "id": 532,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "name": "Timburr",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 12.5
+}

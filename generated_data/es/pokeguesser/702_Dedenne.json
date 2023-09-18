@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sus bigotes hacen la función de antenas, por lo\nque puede enviar y recibir ondas eléctricas para\ncomunicarse a grandes distancias.",
+        "Con su cola absorbe la electricidad procedente de las\ncentrales de energía o los enchufes de las casas,\npara liberarla en forma de ataque por los bigotes.",
+        "Sus bigotes hacen la función de antenas, por lo que puede\nenviar y recibir ondas eléctricas para comunicarse a grandes\ndistancias.",
+        "Con su cola absorbe la electricidad procedente de las\ncentrales de energía o los enchufes de las casas, para\nliberarla en forma de ataque por los bigotes.",
+        "Se infiltra en los hogares para robar energía de\nlos enchufes. Si la factura de la electricidad es\ninusualmente alta, seguro que él tiene la culpa.",
+        "Los bigotes superiores actúan como sensores\ndel entorno, mientras que los inferiores son\nórganos que generan electricidad.",
+        "Se sirve de sus bigotes para captar las ondas que\nemiten sus compañeros, con las que se indican\ndónde encontrar sustento o electricidad.",
+        "Su capacidad para producir electricidad es muy\nlimitada, de modo que tiene que robarla de las\ntomas de corriente o de otros Pokémon."
+    ],
+    "height": 0.2,
+    "id": 702,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "name": "Dedenne",
+    "types": [
+        "Eléctrico",
+        "Hada"
+    ],
+    "weight": 2.2
+}

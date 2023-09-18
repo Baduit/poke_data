@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es lebt in vulkanischen Höhlen. Mit seinen\nkreuzförmigen Klauen kann es sogar an der Decke\nlaufen.",
+        "Das Blut, das durch seinen Körper fließt, brodelt\nheiß wie Magma. Es lebt in vulkanischen Höhlen.",
+        "Es lebt in vulkanischen Höhlen. Mit seinen kreuzförmigen\nKlauen kann es sogar an der Decke laufen.",
+        "Das Blut, das durch seinen Körper fließt, brodelt heiß\nwie Magma. Es lebt in vulkanischen Höhlen."
+    ],
+    "height": 1.7,
+    "id": 485,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "name": "Heatran",
+    "types": [
+        "Feuer",
+        "Stahl"
+    ],
+    "weight": 430.0
+}

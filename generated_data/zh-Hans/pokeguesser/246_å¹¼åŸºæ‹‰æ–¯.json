@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "诞生于地下，会一边吃着泥土，\n一边朝至亲所在的地面前进。\n因为光线刺眼，所以它不太能适应哦。",
+        "靠着土壤中的养分长大。\n当吃下大约一座山那么多的土后，\n它就会变成蛹。",
+        "诞生于地底深处。\n把周围的土都吃光后，\n就会出现在地上变成蛹。",
+        "以吃土为生。\n吃掉一座大山后，\n就会为了成长而开始沉睡。"
+    ],
+    "height": 0.6,
+    "id": 246,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "name": "幼基拉斯",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 72.0
+}

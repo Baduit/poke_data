@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "空气中甜甜香气的\n成分集中之后诞生。\n身体由鲜奶油构成。",
+        "据说有小仙奶\n现身过的蛋糕店\n保证能生意兴隆。"
+    ],
+    "height": 0.2,
+    "id": 868,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "name": "小仙奶",
+    "types": [
+        "妖精"
+    ],
+    "weight": 0.3
+}

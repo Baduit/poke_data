@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Vive negli abissi marini. Attira le prede illuminando\ni motivi delle sue quattro pinne.",
+        "Per non farsi scoprire dai nemici, si muove lentamente\nsui fondali marini con le due pinne pettorali.",
+        "Vive negli abissi marini. Attira le prede illuminando i motivi\ndelle sue quattro pinne.",
+        "Per non farsi scoprire dai nemici, si muove lentamente sui\nfondali marini con le due pinne pettorali.",
+        "Con la sua luce attira le prede, ma anche i\nPokémon acquatici suoi predatori.",
+        "Vive negli abissi marini. Si sposta sui fondali\nmuovendo agilmente le pinne in cerca degli\nStarmie, di cui è ghiotto.",
+        "I fondali marini non gli offrono molte occasioni\nper cibarsi, perciò si scontra continuamente\ncon i Lanturn per accaparrarsi le prede migliori.",
+        "Avanza strisciando sul fondo degli abissi marini.\nLa luce meravigliosa delle sue pinne ricorda\nle stelle risplendenti del cielo notturno."
+    ],
+    "height": 1.2,
+    "id": 457,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "name": "Lumineon",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 24.0
+}

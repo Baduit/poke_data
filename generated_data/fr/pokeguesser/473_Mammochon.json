@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "On a libéré un spécimen de sa prison\nglacée au bout de 10 000 ans.\nIl n’en revenait pas.",
+        "On a libéré un spécimen de sa prison\nglacée au bout de 10 000 ans.\nIl n’en revenait pas.",
+        "Un Pokémon si vieux qu’on l’a découvert sous\ndes glaces vieilles de 10 000 ans.",
+        "Ses défenses spectaculaires sont glacées. Il a failli\ndisparaître dans la canicule suivant l’ère glaciaire.",
+        "Un Pokémon si vieux qu’on l’a découvert sous des glaces\nvieilles de 10 000 ans.",
+        "Ses défenses spectaculaires sont glacées. Il a failli disparaître\ndans la canicule suivant l’ère glaciaire.",
+        "On le retrouve dessiné sur des fresques murales\nvieilles de 10 000 ans. On a cru pendant un temps\nque son espèce s’était éteinte.",
+        "Comme son physique le laisse deviner, il est très\nfort. La taille de ses défenses de glace augmente\nà mesure que la température baisse."
+    ],
+    "height": 2.5,
+    "id": 473,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "name": "Mammochon",
+    "types": [
+        "Glace",
+        "Sol"
+    ],
+    "weight": 291.0
+}

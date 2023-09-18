@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "偶尔会有石子卡在身体的孔洞里。\n因为石居蟹会帮忙把石子拿出来，\n所以会用心地保护它们。",
+        "生气的时候非常凶暴。\n会喷出储存在体内的\n沙子来引发沙尘暴。"
+    ],
+    "height": 2.0,
+    "id": 450,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "name": "河马兽",
+    "types": [
+        "地面"
+    ],
+    "weight": 300.0
+}

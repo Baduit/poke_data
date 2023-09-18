@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es explodiert schon bei kleinsten Reizen.\nSein Spitzname „Die Bombenkugel“ spiegelt\ndie Furcht der Menschen wider.",
+        "Es speichert eine riesige Menge Elektrizität in\nseinem Körper. Es explodiert beim kleinsten Ruck.",
+        "Lektrobal ernährt sich von Elektrizität aus der Atmosphäre.\nAn Tagen, an denen es blitzt, explodiert dieses Pokémon\ndauernd, da es zu viel Elektrizität zu sich nimmt.",
+        "Typisch für Lektrobal ist seine große Faszination für Elektrizität.\nEs ist ein problematisches Pokémon, das sich meistens in\nKraftwerken niederlässt, wo es sich von frisch erzeugtem Strom\nernähren kann.",
+        "Es speichert elektrische Energie in seinem\nKörper. Schon die geringste Erschütterung\nlässt es explodieren.",
+        "Es speichert elektrische Energie in seinem\nKörper. Schon die geringste Erschütterung\nlässt es explodieren."
+    ],
+    "height": 1.2,
+    "id": 101,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "name": "Lektrobal",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 66.6
+}

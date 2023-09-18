@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es un Pokémon famoso por su astucia e ingenio.\nDesprecia a los Entrenadores novatos y prefiere\na los más veteranos.",
+        "Vive en lo alto de los árboles en plena espesura\nde la jungla. Muy de vez en cuando se acerca a\nla costa para medir su ingenio con Slowking.",
+        "Se pasa las horas meditando en lo alto de los\nárboles. Cuando se le antoja, lanza Poké Balls a\notros Pokémon y les da órdenes.",
+        "Los Oranguru se llevan mal entre ellos y\ncompiten constantemente para saber cuál es\nsuperior y más inteligente que los demás.",
+        "Cuando agita su abanico hecho de hojas y pelo,\npuede controlar a otros Pokémon y hacer que\ncumplan su voluntad.",
+        "Conoce hasta el último rincón del bosque y, si\nencuentra un Pokémon herido, va en busca de\nhierbas medicinales para curarlo."
+    ],
+    "height": 1.5,
+    "id": 765,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "name": "Oranguru",
+    "types": [
+        "Normal",
+        "Psíquico"
+    ],
+    "weight": 76.0
+}

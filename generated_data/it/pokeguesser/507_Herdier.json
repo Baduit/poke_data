@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "È un Pokémon molto leale, che aiuta il suo Allenatore\ne al contempo si prende cura degli altri Pokémon\ndella squadra.",
+        "La pelliccia nera che lo ricopre come un manto è\nestremamente dura e ammortizza i colpi che gli\nvengono inferti.",
+        "È un Pokémon molto leale, che aiuta il suo Allenatore e al\ncontempo si prende cura degli altri Pokémon della squadra.",
+        "La pelliccia nera che lo ricopre come un manto è estremamente\ndura e ammortizza i colpi che gli vengono inferti.",
+        "La folta pelliccia scura di questo Pokémon\nè estremamente resistente, quindi i prezzi della\ntoelettatura sono sempre piuttosto alti.",
+        "Se l’Allenatore si guadagna il suo rispetto,\nsegue fedelmente le istruzioni, altrimenti\nnon lo ascolta affatto.",
+        "La pelliccia scura diventa più dura e resistente\ncon la crescita e lo difende dagli artigli e dalle\nzanne dei nemici.",
+        "Vive al fianco degli esseri umani da tempo\nimmemorabile, tanto che lo si trova raffigurato\npersino in antichissime pitture murali.",
+        "È molto intelligente e si affeziona con facilità.\nSecondo alcune teorie sarebbe stato il primo\nPokémon a diventare il compagno degli umani.",
+        "La pelliccia scura che ricopre il suo corpo è\nspessa ed elastica, al punto da respingere\nanche delle zanne affilate."
+    ],
+    "height": 0.9,
+    "id": 507,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "name": "Herdier",
+    "types": [
+        "Normale"
+    ],
+    "weight": 14.7
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Weicht flink gegnerischen Angriffen aus und schießt\nFlammen aus dem Rüssel, mit denen es gern auch\nmal Nüsse röstet.",
+        "Floink liebt es, selbst geröstete Nüsse zu verspeisen.\nAb und zu verkohlt es sie jedoch ungewollt vor lauter\nVorfreude.",
+        "Weicht flink gegnerischen Angriffen aus und schießt Flammen\naus dem Rüssel, mit denen es gern auch mal Nüsse röstet.",
+        "Floink liebt es, selbst geröstete Nüsse zu verspeisen.\nAb und zu verkohlt es sie jedoch ungewollt vor lauter\nVorfreude."
+    ],
+    "height": 0.5,
+    "id": 498,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "name": "Floink",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 9.9
+}

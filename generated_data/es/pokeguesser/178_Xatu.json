@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cuando se pone a meditar al amanecer, pierde la\nnoción del tiempo. Puede pasarse así todo el día.",
+        "Dicen que se mantiene quieto y en silencio porque\nobserva el pasado y el futuro al mismo tiempo.",
+        "Xatu permanece de pie inmóvil y tranquilo en el mismo sitio\ndurante todo el día. Se cree que no se mueve por temor a lo\nque ha visto que ocurrirá en el futuro.",
+        "Xatu es conocido por el hábito que tiene de quedarse todo\nel día contemplando el sol. Hay mucha gente que lo venera\ncomo Pokémon místico, pues piensan que Xatu tiene el poder\nde ver el futuro.",
+        "Según se cree, este Pokémon posee el don de la\nclarividencia, pero carece del poder para alterar\nel futuro.",
+        "Puede prever el futuro, pero no alberga la menor\nintención de alterarlo. Probablemente sea ese el\nmotivo por el que permanece inmóvil.",
+        "Dicen que se mantiene prácticamente inmóvil y\nen silencio porque observa el pasado y el futuro\nal mismo tiempo.",
+        "Este extraño Pokémon puede ver el pasado y el\nfuturo. Se pasa el día mirando al sol."
+    ],
+    "height": 1.5,
+    "id": 178,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "name": "Xatu",
+    "types": [
+        "Psíquico",
+        "Volador"
+    ],
+    "weight": 15.0
+}

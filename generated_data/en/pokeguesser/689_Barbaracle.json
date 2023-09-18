@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "When they evolve, two Binacle multiply into seven.\nThey fight with the power of seven Binacle.",
+        "Barbaracle’s legs and hands have minds\nof their own, and they will move independently.\nBut they usually follow the head’s orders.",
+        "When they evolve, two Binacle multiply into seven.\nThey fight with the power of seven Binacle.",
+        "Barbaracle’s legs and hands have minds\nof their own, and they will move independently.\nBut they usually follow the head’s orders.",
+        "Seven Binacle come together to form one\nBarbaracle. The Binacle that serves as the head\ngives orders to those serving as the limbs.",
+        "Having an eye on each palm allows it to keep\nwatch in all directions. In a pinch, its limbs start\nto act on their own to ensure the enemy’s defeat."
+    ],
+    "height": 1.3,
+    "id": 689,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
+    "name": "Barbaracle",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "weight": 96.0
+}

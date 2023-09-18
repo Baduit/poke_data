@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il suo corpo è duro come la roccia. Riesce a muoversi\ncome un razzo espellendo gas con tutta la sua forza.",
+        "Fortissimo e con un guscio duro come roccia.\nHa un Colpo capace di abbattere una montagna.",
+        "All’interno del suo corpo Pupitar genera un gas che comprime\ned espelle con forza come il propulsore di un jet. Il suo corpo\nè estremamente resistente, anche in caso di impatto con\nacciaio massiccio.",
+        "All’interno del suo corpo Pupitar genera un gas che comprime\ned espelle con forza come il propulsore di un jet. Il suo corpo\nè estremamente resistente, anche in caso di impatto con\nacciaio massiccio.",
+        "In attesa dell’evoluzione, sfoga la sua\nimpazienza svolazzando ovunque spinto dal gas\ncompresso che espelle, dando fastidio a tutti.",
+        "È una pericolosa crisalide che semina\ndistruzione. All’interno del guscio duro come\nuna roccia si sta formando il suo nuovo corpo.",
+        "Può muoversi liberamente anche se è chiuso\nnel guscio. Resistente e rapido, ha un enorme\npotere distruttivo.",
+        "È una crisalide ma non sta mai fermo. Gli arti\nsono già formati sotto il duro guscio."
+    ],
+    "height": 1.2,
+    "id": 247,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "name": "Pupitar",
+    "types": [
+        "Roccia",
+        "Terra"
+    ],
+    "weight": 152.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es hat Nerven wie Drahtseile, nichts kann es\nerschüttern. Es ist agiler und aktiver, als es scheint.",
+        "Es knabbert ständig an Holz und Steinen, um seine\nVorderzähne zu kürzen. Es nistet am Wasser.",
+        "Es hat Nerven wie Drahtseile, nichts kann es erschüttern.\nEs ist agiler und aktiver, als es scheint.",
+        "Es knabbert ständig an Holz und Steinen, um seine\nVorderzähne zu kürzen. Es nistet am Wasser."
+    ],
+    "height": 0.5,
+    "id": 399,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
+    "name": "Bidiza",
+    "types": [
+        "Normal"
+    ],
+    "weight": 20.0
+}

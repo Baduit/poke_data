@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Se esfuerza mucho para que el enemigo no lo\nmenosprecie, pero su mirada no intimida demasiado.\nSe caracteriza por mascar siempre una hoja.",
+        "Se desvive tratando de fulminar a su rival con una\nmirada aterradora, pero en cuanto le acarician la\ncabeza, no puede evitar sonreír de oreja a oreja.",
+        "Se esfuerza mucho para que el enemigo no lo menosprecie,\npero su mirada no intimida demasiado. Se caracteriza por\nmascar siempre una hoja.",
+        "Se desvive tratando de fulminar a su rival con una mirada\naterradora, pero en cuanto le acarician la cabeza, no puede\nevitar sonreír de oreja a oreja.",
+        "En su afán por madurar, toma como modelo a\nPangoro, hacia el que profesa sumo respeto.\nPara él es como una especie de mentor.",
+        "Solo masca la hoja que lleva porque le gusta el\naire que le confiere. Su carácter pícaro lo hace\nincompatible con los Entrenadores novatos.",
+        "Sigue los pasos de Pangoro, a quien considera\nsu maestro. En caso de cometer un grave error,\neste le arrebata la hierba de la boca.",
+        "Intenta amedrentar a su oponente a toda costa.\nSi fija la mirada en alguien, solo hay que\naparentar tener miedo para hacerlo feliz.",
+        "Sigue los pasos de Pangoro, a quien considera su\nmentor. A base de imitarlo, aprende a combatir y\na cazar presas.",
+        "Siempre lanza una mirada fulminante al rival para\nque no lo menosprecie, pero en cuanto se relaja\nesboza sin querer una sonrisa."
+    ],
+    "height": 0.6,
+    "id": 674,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "name": "Pancham",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 8.0
+}

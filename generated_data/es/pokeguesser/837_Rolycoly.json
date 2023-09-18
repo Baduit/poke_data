@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Fue descubierto hace aproximadamente 400\naños en una mina. Casi la totalidad de su cuerpo\npresenta una composición igual a la del carbón.",
+        "Recorre incluso los caminos más impracticables y\npedregosos como si de un monociclo se tratase.\nLa combustión de carbón es su fuente vital."
+    ],
+    "height": 0.3,
+    "id": 837,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "name": "Rolycoly",
+    "types": [
+        "Roca"
+    ],
+    "weight": 12.0
+}

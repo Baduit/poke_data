@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sus largas orejas son sensores que pueden percibir\nmovimientos de seres vivos en el lecho del río.",
+        "Gracias al dibujo que tiene en el estómago, le resulta\nbastante fácil camuflarse en el agua.",
+        "Azumarill puede hacer burbujas de aire si ve a algún Pokémon\nque esté a punto de ahogarse. Estas burbujas de aire son\nbásicas para que los Pokémon puedan seguir respirando.",
+        "Azumarill puede hacer burbujas de aire si ve a algún Pokémon\nque esté a punto de ahogarse. Estas burbujas de aire son\nbásicas para que los Pokémon puedan seguir respirando.",
+        "Pasa la mayor parte del tiempo en el agua. Los\ndías despejados, aprovecha para tomar el sol\nflotando en la superficie.",
+        "Crea burbujas llenas de aire con las que cubre a\nlos Azurill cuando juegan en el río."
+    ],
+    "height": 0.8,
+    "id": 184,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "name": "Azumarill",
+    "types": [
+        "Agua",
+        "Hada"
+    ],
+    "weight": 28.5
+}

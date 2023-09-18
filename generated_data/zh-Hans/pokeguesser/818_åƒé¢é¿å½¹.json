@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "身上隐藏着多种特殊能力，\n例如从手指喷射水流，\n以及用背部的翼膜滑翔等等。",
+        "能从指尖射出速度高达３马赫\n的水枪。它的瞬膜能帮助它看穿\n敌人的弱点，准确地击中要害。"
+    ],
+    "height": 1.9,
+    "id": 818,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "name": "千面避役",
+    "types": [
+        "水"
+    ],
+    "weight": 45.2
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es heißt, es sei die weibliche Endstufe der\nEntwicklungsreihe von Cosmog. Ist sein drittes\nAuge aktiviert, zieht es in eine andere Welt.",
+        "Man sagt, es komme aus einer anderen Welt.\nEs verschlingt unaufhörlich Licht und sorgt\nso auch am helllichten Tag für Dunkelheit.",
+        "In Schriftstücken aus längst vergangenen\nZeiten wird es als „Mondbringer“ bezeichnet.",
+        "Öffnet es eine Ultrapforte, ebnet es mitunter\nfür fremde Kräfte und Lebewesen den Weg in\nunsere Welt.",
+        "Ihm wurde der Name „Mondbringer“ verliehen.\nSolange es lebt, wandelt es jedes Licht in\nEnergie um.",
+        "Es raubt seiner Umgebung all ihr Licht und nimmt\ndie Gestalt des Vollmondes an. So leuchtet es in\nder Dunkelheit der Nacht."
+    ],
+    "height": 4.0,
+    "id": 792,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "name": "Lunala",
+    "types": [
+        "Psycho",
+        "Geist"
+    ],
+    "weight": 120.0
+}

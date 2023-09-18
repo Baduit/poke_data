@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "Ce grand benêt connaît des éclairs\nde lucidité lorsque le Kokiyas de sa\nqueue se met à mordre.",
+        "Ce grand benêt connaît des éclairs\nde lucidité lorsque le Kokiyas de sa\nqueue se met à mordre.",
+        "Le Kokiyas accroché à sa queue est friand de ce qu’il\ndévore et ne veut pas lâcher prise.",
+        "Un Kokiyas s’est un jour accroché à la queue d’un\nRamoloss qui pêchait et l’a fait évoluer en Flagadoss.",
+        "Flagadoss a un Kokiyas solidement attaché à sa queue.\nDu coup, il ne peut plus l’utiliser pour pêcher. Flagadoss est\ndonc obligé, à contrecœur, de nager pour attraper ses proies.",
+        "Flagadoss a un Kokiyas solidement attaché à sa queue.\nDu coup, il ne peut plus l’utiliser pour pêcher. Flagadoss est\ndonc obligé, à contrecœur, de nager pour attraper ses proies.",
+        "Il aime contempler la mer sans bouger. Le poison\ndu Kokiyas répandu dans son organisme a\nencore plus ralenti son métabolisme.",
+        "Chaque fois que le Kokiyas mord avec force,\nil a soudain une idée de génie, mais il l’oublie\nimmédiatement.",
+        "Ce Pokémon passe son temps dans l’oisiveté\nla plus totale. Sa queue se détache parfois et il\nperd son Kokiyas, redevenant ainsi un Ramoloss.",
+        "Un Kokiyas avide s’est accroché à sa queue\npour en sucer le jus sucré et s’est transformé\npour prendre une forme en spirale.",
+        "Il mène une vie tranquille en bord de mer.\nSi le Kokiyas accroché à sa queue s’en va,\nil redevient un Ramoloss.",
+        "Il mène une vie tranquille en bord de mer.\nSi le Kokiyas accroché à sa queue s’en va,\nil redevient un Ramoloss.",
+        "Il a évolué après qu’un Kokiyas lui a mordu\nla queue. Celle-ci sécrète une substance sucrée\nqui enchante particulièrement les Kokiyas.",
+        "La morsure du Kokiyas l’a tellement surpris\nqu’il est devenu bipède. Il paraît qu’il redevient\nun Ramoloss si le Kokiyas lâche prise."
+    ],
+    "height": 1.6,
+    "id": 80,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "name": "Flagadoss",
+    "types": [
+        "Eau",
+        "Psy"
+    ],
+    "weight": 78.5
+}

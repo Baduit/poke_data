@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "꼬리에 나무열매를 모아둔다.\n너무 많이 모아둬서 툭툭 흘리지만\n둔감해서 눈치채지 못한다.",
+        "아무리 단단한 나무열매 껍질도\n이빨로 아작아작 갉아 먹는다.\n가라르에서 쉽게 볼 수 있는 포켓몬이다."
+    ],
+    "height": 0.6,
+    "id": 820,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "name": "요씽리스",
+    "types": [
+        "노말"
+    ],
+    "weight": 6.0
+}

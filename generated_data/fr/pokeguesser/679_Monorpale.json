@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Ce Pokémon naît quand l’âme d’un défunt prend\npossession d’une épée ancienne. Il s’accroche aux\nhumains pour absorber leur énergie vitale.",
+        "Si quelqu’un s’aventure à l’empoigner, il enroule son\nétoffe bleue autour du bras de l’infortuné et aspire\nson énergie vitale jusqu’à ce que ce dernier s’écroule.",
+        "Ce Pokémon naît quand l’âme d’un défunt prend possession\nd’une épée ancienne. Il s’accroche aux humains pour absorber\nleur énergie vitale.",
+        "Si quelqu’un s’aventure à l’empoigner, il enroule son étoffe\nbleue autour du bras de l’infortuné et aspire son énergie vitale\njusqu’à ce que ce dernier s’écroule.",
+        "L’âme de Monorpale est celle d’un humain\nqui a été tué il y a fort longtemps, par la même\nlame qui forme maintenant son corps.",
+        "L’œil bleu sur la garde de la lame est le véritable\ncorps de Monorpale. Il aspire l’énergie vitale\ndes gens avec son étoffe usée par le temps."
+    ],
+    "height": 0.8,
+    "id": 679,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "name": "Monorpale",
+    "types": [
+        "Acier",
+        "Spectre"
+    ],
+    "weight": 2.0
+}

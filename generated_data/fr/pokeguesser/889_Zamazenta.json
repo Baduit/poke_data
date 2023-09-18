@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Ce Pokémon sauva autrefois Galar en joignant\nses forces à celles du roi des Hommes.\nIl absorbe du métal quand il passe au combat.",
+        "Ce Pokémon, changé en statue, est resté pétrifié\nsi longtemps qu’il a failli tomber dans l’oubli."
+    ],
+    "height": 2.9,
+    "id": 889,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+    "name": "Zamazenta",
+    "types": [
+        "Combat"
+    ],
+    "weight": 210.0
+}

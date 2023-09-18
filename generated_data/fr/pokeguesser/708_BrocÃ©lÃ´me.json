@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ce Pokémon apparaît lorsqu’un esprit possède\nun arbre en décomposition. Il vit dans les forêts où\nles humains n’osent pas s’aventurer.",
+        "D’après la légende, cette espèce de Pokémon aurait\nvu le jour quand des âmes d’enfants perdus dans\nla forêt auraient possédé des souches d’arbres.",
+        "Ce Pokémon apparaît lorsqu’un esprit possède un arbre\nen décomposition. Il vit dans les forêts où les humains\nn’osent pas s’aventurer.",
+        "D’après la légende, cette espèce de Pokémon aurait vu\nle jour quand des âmes d’enfants perdus dans la forêt\nauraient possédé des souches d’arbres.",
+        "Ce Pokémon est une souche d’arbre possédée\npar l’âme d’un enfant mort en forêt. Son cri\nressemble à des pleurs.",
+        "Une légende raconte qu’il est possible de créer\nune panacée en infusant les feuilles vertes qui\npoussent sur ses branches.",
+        "Il imite la voix d’un enfant pour inciter les gens\nà se perdre au plus profond des bois. Il espère\nainsi se faire de nouveaux amis.",
+        "Il est né lorsqu’une âme est venue se loger dans\nune souche. Les infusions de ses feuilles vertes\npermettent de guérir toutes les maladies.",
+        "Ce Pokémon prend vie lorsque l’âme d’un enfant\ndisparu en forêt prend possession d’une souche\nd’arbre.",
+        "Il imite des cris d’enfants pour pousser les adultes\nà venir se perdre au plus profond de la forêt."
+    ],
+    "height": 0.4,
+    "id": 708,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "name": "Brocélôme",
+    "types": [
+        "Spectre",
+        "Plante"
+    ],
+    "weight": 7.0
+}

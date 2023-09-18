@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es liebt Honig und stiehlt den Honig,\nder von Wadribie gesammelt wurde.",
+        "Nachts fliegt es emsig umher und stiehlt,\nwährend Wadribie schläft, Honig aus dessen Nest.",
+        "Es liebt Honig und stiehlt den Honig, der von Wadribie\ngesammelt wurde.",
+        "Nachts fliegt es emsig umher und stiehlt, während Wadribie\nschläft, Honig aus dessen Nest."
+    ],
+    "height": 0.9,
+    "id": 414,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "name": "Moterpel",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 23.3
+}

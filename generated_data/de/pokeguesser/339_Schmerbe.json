@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es bedeckt seinen Körper mit einer schleimigen\nSubstanz und kann sich so aus Umklammerungen\nwinden.",
+        "Seine Barthaare sind ein hervorragendes Radar.\nMit ihnen spürt es selbst in Dreckwasser Beute auf.",
+        "Schmerbes empfindliche Barthaare dienen ihm als\nhervorragendes Radarsystem. Dieses Pokémon versteckt sich\nim Schlamm, sodass nur noch seine Barthaare herausgucken,\nund wartet auf Beute.",
+        "Schmerbes Körper ist mit einem schleimigen Film bedeckt.\nWenn ein Gegner es packen will, entgeht es seinem Griff.\nDieses Pokémon wird geschwächt, wenn sein schleimiger\nÜberzug austrocknet.",
+        "Seine zwei Barthaare dienen als empfindliches\nRadarsystem. Selbst in schlammigem Wasser\nkennt es so die Position seiner Beute.",
+        "Sein schleimiger Körper ist schwer zu greifen.\nAuf Volksfesten wetteifert man gar, wer mit\nbloßen Händen die meisten fangen kann.",
+        "Sein glitschiger Körper ermöglicht es ihm, dem\nSchnabel von Vogel-Pokémon zu entkommen.",
+        "In seinen Barthaaren laufen Nervenstränge\nzusammen. Damit riecht und schmeckt es wie\nMenschen mit ihrer Nase und Zunge.",
+        "Sein schleimiger Körper ist schwer zu greifen.\nIn einer Region sagt man, es sei aus gehärtetem\nSchlamm entstanden.",
+        "Es untersucht schlammige Flussbetten mit seinen\nbeiden langen Schnurrhaaren. Sein Körper wird\nvon einem Schleimfilm geschützt."
+    ],
+    "height": 0.4,
+    "id": 339,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "name": "Schmerbe",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 1.9
+}

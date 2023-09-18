@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "頭で　燃える　炎の　ように\n激しい　性格の　ポケモン。\n素早さでは　だれにも　負けない。",
+        "素早さで　相手を　翻弄する。\n両手　両足を　使った\n独特の　戦い方を　する。",
+        "頭で　燃える　炎の　ように\n激しい　性格の　ポケモン。\n素早さでは　だれにも　負けない。",
+        "素早さで　相手を　翻弄する。\n両手　両足を　使った\n独特の　戦い方を　する。"
+    ],
+    "height": 1.2,
+    "id": 392,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "name": "ゴウカザル",
+    "types": [
+        "ほのお",
+        "かくとう"
+    ],
+    "weight": 55.0
+}

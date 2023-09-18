@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Il libère de l’électricité depuis la pointe de ses\népines, et se nourrit des algues accrochées aux\nrochers en les arrachant avec ses dents aiguisées.",
+        "Chacune de ses épines est chargée en électricité.\nS’il en perd une, celle-ci continue d’émettre\nun courant électrique pendant trois heures."
+    ],
+    "height": 0.3,
+    "id": 871,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "name": "Wattapik",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 1.0
+}

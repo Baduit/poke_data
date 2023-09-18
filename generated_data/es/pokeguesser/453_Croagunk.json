@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Tiene bolsas venenosas en las mejillas. Pilla\ndesprevenidos a sus rivales para pincharles.",
+        "Infla sus bolsas venenosas para emitir un sonido\nmacabro mientras asesta golpes que hacen retroceder\na los rivales.",
+        "Tiene bolsas venenosas en las mejillas. Pilla desprevenidos a\nsus rivales para pincharles.",
+        "Infla sus bolsas venenosas para emitir un sonido macabro\nmientras asesta golpes que hacen retroceder a los rivales.",
+        "Amenaza a los rivales haciendo sonar las bolsas\nvenenosas de sus mejillas y aprovecha su estupor\npara inyectarles toxinas.",
+        "Su veneno posee propiedades medicinales si se\ndiluye. Se ha vuelto muy popular desde que una\nempresa farmacéutica lo adoptó como mascota."
+    ],
+    "height": 0.7,
+    "id": 453,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "name": "Croagunk",
+    "types": [
+        "Veneno",
+        "Lucha"
+    ],
+    "weight": 23.0
+}

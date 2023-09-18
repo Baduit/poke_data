@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Normalerweise murmelt es, aber bei Gefahr beginnt\nes laut zu schreien. Es hört auf zu schreien,\nwenn seine Ohrmuscheln bedeckt werden.",
+        "Sein Schrei ist so laut wie ein Düsenflugzeug.\nBei Gefahr vertreibt es damit seine Feinde.",
+        "Normalerweise ist Flurmels Stimme sehr leise,\nselbst mit größter Anstrengung ist sie kaum hörbar.\nWenn dieses Pokémon jedoch eine Gefahr wittert,\nstößt es ohrenbetäubende Schreie aus.",
+        "Flurmel ist sehr scheu. Wenn es laut brüllt, erschrickt es und\nbrüllt dadurch noch lauter. Wenn es schließlich damit aufhört,\nist es völlig ausgepumpt und legt sich schlafen.",
+        "Sein Schrei erreicht eine Lautstärke von über\n100 Dezibel. Hört man diesen aus der Nähe,\nleidet man den ganzen Tag unter Kopfschmerzen.",
+        "Stößt Flurmel einen Schrei aus, so erschrickt es\nvor seiner eigenen Stimme und brüllt noch lauter,\nbis es erschöpft ist und sich schlafen legen muss."
+    ],
+    "height": 0.6,
+    "id": 293,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "name": "Flurmel",
+    "types": [
+        "Normal"
+    ],
+    "weight": 16.3
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Le mâle intimide ses ennemis\navec ses caroncules.\nLa femelle vole mieux que le mâle.",
+        "Le mâle a une parure sur la tête.\nIls sont très farouches et ne\ns’attachent qu’à leur Dresseur.",
+        "Le mâle intimide ses ennemis avec ses caroncules.\nLa femelle vole mieux que le mâle.",
+        "Ils sont très farouches et ne s’attachent qu’à leur\nDresseur. Les mâles ont une parure sur la tête.",
+        "Le mâle intimide ses ennemis avec ses caroncules.\nLa femelle vole mieux que le mâle.",
+        "Ils sont très farouches et ne s’attachent qu’à leur Dresseur.\nLes mâles ont une parure sur la tête.",
+        "Ce Pokémon a une excellente technique de vol.\nLes femelles ont plus d’endurance que les mâles,\nmais ces derniers peuvent voler plus vite.",
+        "Ce Pokémon est aussi intelligent qu’il est arrogant.\nLes Dresseurs de Déflaisan sont tenus en haute\nestime."
+    ],
+    "height": 1.2,
+    "id": 521,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "name": "Déflaisan",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 29.0
+}

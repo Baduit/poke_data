@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Vive en mares cálidos. Se dice que, si una pareja lo\nencuentra, será bendecida con amor eterno.",
+        "Durante el desove, multitud de Luvdisc se concentran\nen los arrecifes de coral coloreando de rosa el agua.",
+        "Luvdisc vive en aguas tropicales poco profundas. Este\nPokémon con forma de corazón se ha ganado la reputación\nque tiene por ir nadando detrás de las parejas de enamorados\nque veía entre las olas del océano.",
+        "Luvdisc tiene forma de corazón y simboliza el amor y el\nromanticismo. Dicen que la pareja que se encuentre con él\nmantendrá una relación de amor de por vida.",
+        "Cuando un Luvdisc se halla solo, su energía\ndisminuye y baja la guardia, momento que\naprovechan los Pelipper para hacerse con ellos.",
+        "Es popular entre las parejas de enamorados,\npor lo que se suelen soltar en las piscinas de\nlos hoteles donde se celebran lunas de miel.",
+        "Según las leyendas, una escama con forma de\ncorazón brinda suerte en el amor, lo que condujo\ntiempo ha a su pesca excesiva.",
+        "Vive en los arrecifes de coral de mares cálidos.\nDormir entre las ramas de los Corsola es algo\npor lo que siente una especial predilección."
+    ],
+    "height": 0.6,
+    "id": 370,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "name": "Luvdisc",
+    "types": [
+        "Agua"
+    ],
+    "weight": 8.7
+}

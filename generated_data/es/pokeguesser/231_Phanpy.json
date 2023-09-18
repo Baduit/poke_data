@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Como muestra de afecto, golpea con su trompa.\nAunque es tan fuerte que te mandará lejos.",
+        "A pesar de su tamaño reducido, es tan fuerte que\npuede llevar a un humano a su espalda con facilidad.",
+        "Phanpy cava un agujero profundo para hacer su nido en el\nsuelo, en la ribera de los ríos, y marca con la trompa la zona\npara que el resto vea que ese terreno ya está ocupado.",
+        "Phanpy se vale de la trompa para ducharse. Cuando varios se\nagrupan, se dedican a echarse agua unos a otros. Es muy fácil\nver a estos Pokémon secándose cerca del agua."
+    ],
+    "height": 0.5,
+    "id": 231,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "name": "Phanpy",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 33.5
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "C’est un voyou qui utilise ses\npinces pour chasser les autres\nPokémon hors de sa mare.",
+        "C’est un voyou qui utilise ses\npinces pour chasser les autres\nPokémon hors de sa mare.",
+        "C’est un voyou qui utilise ses pinces pour chasser\nles autres Pokémon hors de sa mare.",
+        "C’est un voyou qui utilise ses pinces pour chasser\nles autres Pokémon hors de son territoire.",
+        "Colhomard a un tempérament très violent, ce qui le pousse\nà défier tout ce qui passe près de lui. Certaines formes de vie\nrefusent d’habiter dans les étangs occupés par ce Pokémon\net désertent ces eaux.",
+        "Colhomard mue et perd sa carapace régulièrement.\nImmédiatement après sa mue, sa nouvelle carapace est tendre\net molle. Il s’enterre au fond des cours d’eau pour ne pas\nêtre attaqué avant que sa carapace ne soit assez dure.",
+        "D’un tempérament fougueux, il adore se battre,\nmais perd tout courage si ses pinces tombent.\nIl n’attend alors qu’une chose : leur repousse !",
+        "Ses pinces tombent facilement, mais sa chair\nest poisseuse et dégoûtante, contrairement\nà celle de Crabagarre et de Flingouste.",
+        "Ce Pokémon très coriace agite tout le temps\nses énormes pinces. Il faut beaucoup de patience\npour le dresser.",
+        "Il adore se battre et frappe comme une brute\ntous ceux qui approchent de sa mare."
+    ],
+    "height": 1.1,
+    "id": 342,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "name": "Colhomard",
+    "types": [
+        "Eau",
+        "Ténèbres"
+    ],
+    "weight": 32.8
+}

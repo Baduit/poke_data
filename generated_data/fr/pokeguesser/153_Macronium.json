@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le collier de bourgeons à son cou\nrépand un arôme épicé qui vous\ndonne du tonus.",
+        "Le collier de bourgeons à son cou\nrépand un arôme épicé qui vous\ndonne du tonus.",
+        "Un arôme épicé émane de son cou. Il agit comme\nun stimulant et lui fait récupérer son énergie.",
+        "Le collier de bourgeons à son cou répand un arôme\népicé qui vous donne du tonus.",
+        "Le cou de Macronium est entouré de nombreuses feuilles.\nDans chacune d’elles se trouve une pousse d’arbre. Le parfum\nde cette pousse donne la pêche aux personnes qui le sentent.",
+        "Le cou de Macronium est entouré de nombreuses feuilles.\nDans chacune d’elles se trouve une pousse d’arbre. Le parfum\nde cette pousse donne la pêche aux personnes qui le sentent."
+    ],
+    "height": 1.2,
+    "id": 153,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+    "name": "Macronium",
+    "types": [
+        "Plante"
+    ],
+    "weight": 15.8
+}

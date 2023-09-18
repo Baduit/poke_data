@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es trägt ein Pendel. Man berichtet von einem\nVorfall, bei dem es ein Kind mitnahm,\ndas es zuvor hypnotisiert hatte.",
+        "Ein Blick auf das Pendel versetzt einen in\ndrei Sekunden in Schlaf, selbst wenn man\ngar nicht müde ist.",
+        "Hypno hält ein Pendel in der Hand. Das Schwingen und\nGlitzern des Pendels versetzt seine Feinde in eine tiefe\nHypnose. Während dieses Pokémon auf der Suche nach\nBeute ist, poliert es sein Pendel.",
+        "Hypno hält ein Pendel in der Hand. Das Schwingen und\nGlitzern des Pendels versetzt seine Feinde in eine tiefe\nHypnose. Während dieses Pokémon auf der Suche nach\nBeute ist, poliert es sein Pendel.",
+        "Dieses Pokémon ist äußerst gefährlich.\nFür Menschen, die an Schlaflosigkeit leiden,\nist es aber ein wahrer Retter in der Not.",
+        "Es versetzt jeden, dem es begegnet, sofort in\nSchlaf und kostet seine Träume. Schmeckt ihm\nein Traum, nimmt es die Person mit.",
+        "In Alola hat es Hypno hauptsächlich auf Koalelu\nabgesehen. Menschen schadet es kaum.",
+        "Manchmal unterstützt es das medizinische\nPersonal in Krankenhäusern, wenn Patienten\nan Schlaflosigkeit leiden.",
+        "Läuft man einem Hypno über den Weg, sollte\nman wegsehen, da es andere mit dem Pendel\nin seiner Hand hypnotisieren kann.",
+        "Läuft man einem Hypno über den Weg, sollte\nman wegsehen, da es andere mit dem Pendel\nin seiner Hand hypnotisieren kann."
+    ],
+    "height": 1.6,
+    "id": 97,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "name": "Hypno",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 75.6
+}

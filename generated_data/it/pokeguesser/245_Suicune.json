@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Corre per tutto il mondo per purificare l’acqua\ncontaminata. Si allontana con i venti del nord.",
+        "Si dice che sia la reincarnazione dei venti nordici.\nPurifica all’istante l’acqua torbida e putrida.",
+        "Suicune rappresenta la purezza delle sorgenti d’acqua dolce.\nCorre con grazia immerso nella natura. Questo Pokémon\nha la facoltà di depurare le acque di scarico.",
+        "Suicune rappresenta la purezza delle sorgenti d’acqua dolce.\nCorre con grazia immerso nella natura. Questo Pokémon\nha la facoltà di depurare le acque di scarico."
+    ],
+    "height": 2.0,
+    "id": 245,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "name": "Suicune",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 187.0
+}

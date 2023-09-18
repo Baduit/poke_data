@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "據說一旦發現不聽話的孩子，\n牠就會在深夜裡把那個孩子\n帶去某個不知名的地方。",
+        "會讓身體變透明，\n然後偷偷地靠近獵物。\n擁有穿過厚牆壁的能力。"
+    ],
+    "height": 0.8,
+    "id": 355,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "name": "夜巡靈",
+    "types": [
+        "幽靈"
+    ],
+    "weight": 15.0
+}

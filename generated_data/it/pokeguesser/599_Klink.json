@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Produce l’energia che gli serve per vivere incastrando\ne facendo ruotare le due parti che lo compongono.",
+        "I due ingranaggi che lo compongono combaciano\nunicamente l’uno con l’altro. Qualsiasi altro incastro\nè impossibile.",
+        "Produce l’energia che gli serve per vivere incastrando\ne facendo ruotare le due parti che lo compongono.",
+        "I due ingranaggi che lo compongono combaciano unicamente\nl’uno con l’altro. Qualsiasi altro incastro è impossibile.",
+        "I due ingranaggi che lo compongono sono più\nuniti di una coppia di gemelli. Se combinati con\ningranaggi diversi, non combaciano bene.",
+        "Si dice che gli uomini del passato abbiano\ninventato gli ingranaggi dopo aver visto\nquesto Pokémon."
+    ],
+    "height": 0.3,
+    "id": 599,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "name": "Klink",
+    "types": [
+        "Acciaio"
+    ],
+    "weight": 21.0
+}

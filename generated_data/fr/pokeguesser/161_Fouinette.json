@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ce Pokémon très nerveux\nprend appui sur sa queue pour\nobserver ses alentours.",
+        "Ce Pokémon très nerveux\nprend appui sur sa queue pour\nobserver ses alentours.",
+        "S’il fait le guet, il prévient les autres d’un danger\nen criant et en frappant le sol de sa queue.",
+        "Il se tient dressé sur sa queue pour voir les ennemis\narriver de loin. À ce moment, il avertit ses amis.",
+        "Lorsqu’un Fouinette dort, un autre monte la garde.\nLa sentinelle réveille les autres au moindre signe de danger.\nSi un de ces Pokémon est séparé de sa meute, il est incapable\nde dormir, car il a peur.",
+        "Lorsqu’un Fouinette dort, un autre monte la garde.\nLa sentinelle réveille les autres au moindre signe de danger.\nSi un de ces Pokémon est séparé de sa meute, il est incapable\nde dormir, car il a peur."
+    ],
+    "height": 0.8,
+    "id": 161,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+    "name": "Fouinette",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

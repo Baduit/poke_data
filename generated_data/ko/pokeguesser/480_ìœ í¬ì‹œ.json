@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "지식의 신이라 불리고 있다.\n눈을 마주친 사람의 기억을 지워\n버리는 힘을 가지고 있다고 한다.",
+        "유크시의 탄생에 의해\n사람들의 생활을 풍요롭게 하는\n지혜가 생겨났다고 전해진다.",
+        "지식의 신이라 불리고 있다.\n눈을 마주친 사람의 기억을 지워\n버리는 힘을 가지고 있다고 한다.",
+        "유크시의 탄생에 의해\n사람들의 생활을 풍요롭게 하는\n지혜가 생겨났다고 전해진다."
+    ],
+    "height": 0.3,
+    "id": 480,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+    "name": "유크시",
+    "types": [
+        "에스퍼"
+    ],
+    "weight": 0.3
+}

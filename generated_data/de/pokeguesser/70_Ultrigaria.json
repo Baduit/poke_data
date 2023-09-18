@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Die Blätter werden eingesetzt, um Gegner\naufzuschlitzen. Dieses Pokémon spuckt eine\nFlüssigkeit, die alles auflöst.",
+        "Dieses Pokémon lähmt den Gegner mit Giftpuder,\nbevor es ihn mit Säure erledigt.",
+        "Ultrigaria hat einen großen Haken an seinem Hinterteil.\nNachts hängt sich dieses Pokémon zum Schlafen an einen\nAst. Wenn es sich im Schlaf bewegt, kann es passieren,\ndass es auf dem Boden wieder aufwacht.",
+        "Ultrigaria hat einen großen Haken an seinem Hinterteil.\nNachts hängt sich dieses Pokémon zum Schlafen an einen\nAst. Wenn es sich im Schlaf bewegt, kann es passieren,\ndass es auf dem Boden wieder aufwacht.",
+        "Wenn es hungrig ist, schnappt es willkürlich nach\nallem, was sich bewegt. Nachdem es seine Beute\nverschluckt hat, schaltet es sie mit Säure aus.",
+        "Wenn es hungrig ist, schnappt es willkürlich nach\nallem, was sich bewegt. Nachdem es seine Beute\nverschluckt hat, schaltet es sie mit Säure aus."
+    ],
+    "height": 1.0,
+    "id": 70,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "name": "Ultrigaria",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 6.4
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il fait lui-même geler son haleine. Il\nest bon nageur et sillonne les mers\ndu nord à la recherche de ses proies.",
+        "Il gèle son haleine et en fait des crocs\net des griffes de glace pour combattre.\nIl vit dans les terres gelées du nord.",
+        "Il aime les mers glaciales du nord. Il y trace son\nchemin en créant des îlots de glace pour éviter de\nnager.",
+        "Il gèle son haleine et en fait des crocs et des griffes\nde glace pour combattre. Il vit dans les terres gelées\ndu nord.",
+        "Il aime les mers glaciales du nord. Il y trace son chemin\nen créant des îlots de glace pour éviter de nager.",
+        "Il gèle son haleine et en fait des crocs et des griffes de glace\npour combattre. Il vit dans les terres gelées du nord.",
+        "Les crocs qu’il façonne en gelant son souffle\nsont plus durs que l’acier. Il sillonne les eaux\ndes mers glaciales à la recherche de nourriture.",
+        "Il sillonne les mers glaciales avec aisance.\nQuand il est fatigué, il gèle l’eau de mer\nd’un souffle et se repose sur l’iceberg improvisé."
+    ],
+    "height": 2.6,
+    "id": 614,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "name": "Polagriffe",
+    "types": [
+        "Glace"
+    ],
+    "weight": 260.0
+}

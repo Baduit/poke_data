@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "头上长有尖锐的针。\n它喜欢藏在森林或\n草丛里大量吞食树叶。",
+        "头上长有尖锐的针。\n它喜欢藏在森林或\n草丛里大量吞食树叶。"
+    ],
+    "height": 0.3,
+    "id": 13,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "name": "独角虫",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 3.2
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Levanta el vuelo tras coger carrerilla. Coopera con sus\ncompañeros de bandada para atrapar a sus presas.",
+        "Corre a mayor velocidad de la que puede volar.\nAlcanza una velocidad de 40 km/h antes de alzarse\nen vuelo hacia el cielo.",
+        "Levanta el vuelo tras coger carrerilla. Coopera con sus\ncompañeros de bandada para atrapar a sus presas.",
+        "Corre a mayor velocidad de la que puede volar. Alcanza una\nvelocidad de 40 km/h antes de alzarse en vuelo hacia el cielo.",
+        "Pese a haber desarrollado la capacidad de\nvolar, prefería seguir corriendo por la superficie\nterrestre, con una velocidad media de 40 km/h.",
+        "Se agrupaban en bandadas para salir de caza.\nPrimero, unos arrinconaban a la presa y luego\notros se lanzaban en picado sobre ella.",
+        "Pokémon vetusto de plumaje tan fino que solo\nalguien con extremada pericia puede regenerar\na partir de un fósil.",
+        "Precursor de los Pokémon pájaro. Para alzar el\nvuelo necesita coger carrerilla, debido a una\nmusculatura en las alas poco desarrollada.",
+        "Coge carrerilla durante aproximadamente 4 km\na una velocidad de 40 km/h para poder levantar\nel vuelo.",
+        "Si bien era capaz de volar, parece ser que se le\ndaba mucho mejor cazar presas en tierra firme\nque en el aire."
+    ],
+    "height": 1.4,
+    "id": 567,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "name": "Archeops",
+    "types": [
+        "Roca",
+        "Volador"
+    ],
+    "weight": 32.0
+}

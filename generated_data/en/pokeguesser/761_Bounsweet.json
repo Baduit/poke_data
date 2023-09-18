@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "A delectable aroma pours from its body.\nThey are often swallowed whole by Toucannon\nlured by that wafting deliciousness.",
+        "Although it’s too sugary for human consumption,\nBounsweet’s sweat can be watered down into a\njuice with just the right amount of sweetness.",
+        "Because of its sweet, delicious aroma, bird\nPokémon are always after it, but it’s not\nintelligent enough to care.",
+        "It tries to resist being swallowed by a bird\nPokémon by spinning the sepals on its head.\nIt’s usually a fruitless attempt.",
+        "Its body gives off a sweet, fruity scent that is\nextremely appetizing to bird Pokémon.",
+        "When under attack, it secretes a sweet\nand delicious sweat. The scent only calls\nmore enemies to it."
+    ],
+    "height": 0.3,
+    "id": 761,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+    "name": "Bounsweet",
+    "types": [
+        "Grass"
+    ],
+    "weight": 3.2
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Dans les temps anciens, aucun Pokémon ne pouvait\nrivaliser avec lui. Ses puissantes mâchoires peuvent\nréduire une épaisse plaque de métal en confettis.",
+        "Il y a 100 millions d’années, ce Pokémon régnait en\nmaître absolu. Personne ne pouvait se mesurer à lui.",
+        "Dans les temps anciens, aucun Pokémon ne pouvait\nrivaliser avec lui. Ses puissantes mâchoires peuvent\nréduire une épaisse plaque de métal en confettis.",
+        "Il y a 100 millions d’années, ce Pokémon régnait en\nmaître absolu. Personne ne pouvait se mesurer à lui.",
+        "La reconstitution de Pokémon est un art\nimparfait. D’aucuns pensent même qu’il était en\nfait couvert d’une robe semblable à un plumage.",
+        "Il régnait sur le monde en maître incontesté.\nSa mâchoire est si puissante qu’il n’a aucun\nmal à croquer une voiture.",
+        "Ce Pokémon a vécu il y a 100 millions d’années.\nIl est très violent, mais sa contenance noble lui\ndonne des airs de royauté.",
+        "Ce Pokémon peut réduire une voiture en miettes\nd’un seul coup de mâchoire. Il était considéré\ncomme le roi du monde préhistorique."
+    ],
+    "height": 2.5,
+    "id": 697,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "name": "Rexillius",
+    "types": [
+        "Roche",
+        "Dragon"
+    ],
+    "weight": 270.0
+}

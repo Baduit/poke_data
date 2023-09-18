@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "有著十分好戰的性格。\n頭上像鐵頭盔一樣的東西\n其實是牠硬化後的體毛。",
+        "在日復一日的戰鬥中得以進化。\n進化的結果是那危險的指甲，\n留長後能當作短劍來用。"
+    ],
+    "height": 0.8,
+    "id": 863,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "name": "喵頭目",
+    "types": [
+        "鋼"
+    ],
+    "weight": 28.0
+}

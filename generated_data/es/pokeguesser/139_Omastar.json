@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Tiene los tentáculos tan desarrollados que le sirven de\nmanos y pies. Con ellos atrapa a su presa y le da un\nbocado.",
+        "Cuando agarra a su presa, nunca la deja escapar.\nSe la come despedazándola con sus colmillos.",
+        "Omastar usa los tentáculos para atrapar a su presa. Se cree\nque el motivo de su extinción fue el tamaño y el peso\nque llegó a alcanzar la concha que lleva a cuestas, lo que le\nentorpeció y ralentizó los movimientos.",
+        "Omastar usa los tentáculos para atrapar a su presa. Se cree\nque el motivo de su extinción fue el tamaño y el peso\nque llegó a alcanzar la concha que lleva a cuestas, lo que le\nentorpeció y ralentizó los movimientos.",
+        "Un posible antepasado remoto de Octillery\ncuya extinción se cree debida a que su concha\nse hizo demasiado pesada.",
+        "Atrapa a sus presas con los tentáculos y, una\nvez inmovilizadas, las desgarra con sus afilados\ncolmillos.",
+        "Poseía unos colmillos afilados, pero el excesivo\ntamaño de su concha le impedía moverse con\nlibertad, lo que acabó provocando su extinción.",
+        "Poseía unos colmillos afilados, pero el excesivo\ntamaño de su concha le impedía moverse con\nlibertad, lo que acabó provocando su extinción.",
+        "Se cree que se extinguió porque el excesivo\ntamaño y peso de su concha le impedían\nmoverse con rapidez para capturar presas.",
+        "Posee unos colmillos afilados con los que puede\npartir piedras, pero solo ataca a presas que se\nhallan al alcance de sus tentáculos."
+    ],
+    "height": 1.0,
+    "id": 139,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "name": "Omastar",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 35.0
+}

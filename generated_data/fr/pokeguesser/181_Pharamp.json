@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Le bout de sa queue brille avec\nintensité. Jadis, on s’en servait\npour envoyer des signaux.",
+        "Le bout de sa queue brille avec\nintensité. Jadis, on s’en servait\npour envoyer des signaux.",
+        "Le bout de sa queue brille si fort qu’il peut être vu\nde très loin. Il sert de balise aux gens.",
+        "Le bout de sa queue brille si fort qu’il peut être vu de\ntrès loin. Il sert de balise aux gens.",
+        "Pharamp est si lumineux qu’on peut le voir de l’espace.\nJadis, les gens utilisaient la lumière de ce Pokémon pour\ncommuniquer et s’envoyer des signaux à grande distance.",
+        "Pharamp est si lumineux qu’on peut le voir de l’espace.\nJadis, les gens utilisaient la lumière de ce Pokémon pour\ncommuniquer et s’envoyer des signaux à grande distance.",
+        "La lumière de sa queue est si vive qu’on peut\nla voir depuis l’espace. En général, il l’éteint\ndonc pour éviter de se faire repérer.",
+        "Sa queue brille d’une lumière éclatante.\nDepuis des temps très anciens, il est vénéré\ncomme le guide des marins."
+    ],
+    "height": 1.4,
+    "id": 181,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "name": "Pharamp",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 61.5
+}

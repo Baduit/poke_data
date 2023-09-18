@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Vive nelle foreste sulle cime degli alberi. Plana\nusando una membrana simile a un mantello,\nelettrificata all’interno.",
+        "Accumula nelle membrane l’elettricità che produce\nall’interno delle guance, poi la rilascia planando.",
+        "Vive nelle foreste sulle cime degli alberi. Plana usando\nuna membrana simile a un mantello, elettrificata all’interno.",
+        "Accumula nelle membrane l’elettricità che produce all’interno\ndelle guance, poi la rilascia planando.",
+        "Si serve della membrana simile a un mantello\nper planare. Emana scariche elettriche che\npossono colpire nemici e alleati.",
+        "Arrostisce bacche e Pokémon Coleottero con\nscariche elettriche per poi mangiarli. Fa il nido\nnei buchi degli alberi fatti da Pikipek.",
+        "Si carica di energia e si alza in volo.\nNelle notti di fulmini e tempesta, questi Pokémon\nsono così numerosi da invadere tutto il cielo.",
+        "Vola emettendo scariche elettriche che tengono\nalla larga gli altri Pokémon alati, e per questo\nnon fa molta fatica a procurarsi il cibo.",
+        "Vola nei cieli come danzando mentre sprigiona\nelettricità. È molto grazioso, ma può creare dei\nfastidi.",
+        "Va ghiotto di bacche dolci. A volte accumula\ntroppo cibo nelle guance e fa fatica a volare."
+    ],
+    "height": 0.4,
+    "id": 587,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "name": "Emolga",
+    "types": [
+        "Elettro",
+        "Volante"
+    ],
+    "weight": 5.0
+}

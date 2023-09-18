@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Asiduo a las zonas volcánicas, se desliza lentamente\nen busca de lugares calientes.",
+        "Su cuerpo se compone de magma. Si deja de\nmoverse, se enfría y se endurece.",
+        "Por el sistema circulatorio de Slugma corre magma líquido. Si\neste Pokémon se enfriara, el magma perdería el calor y se\nsolidificaría, por lo que se resquebrajaría por completo,\nperdería algunos trozos y reduciría su tamaño.",
+        "Slugma no tiene sangre en su organismo, sino ardiente\nmagma que hace circular por todo el cuerpo los nutrientes\ny el oxígeno que necesitan sus órganos."
+    ],
+    "height": 0.7,
+    "id": 218,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+    "name": "Slugma",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 35.0
+}

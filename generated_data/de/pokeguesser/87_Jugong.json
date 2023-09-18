@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sein Körper ist mit reinem, weißem Fell überzogen.\nJe kälter es wird, desto aktiver wird dieses Pokémon.",
+        "Es verspürt kaum Widerstand im Wasser. Je niedriger\ndie Temperatur, desto verspielter verhält es sich.",
+        "Jugong liebt es, auf bitterkalten Eisschollen ein Nickerchen\nzu machen. Ein Seemann, der einmal ein solches Pokémon\nschlafend auf einem Eisberg sah, hielt es irrtümlicherweise\nfür eine Meerjungfrau.",
+        "Jugong liebt es, auf bitterkalten Eisschollen ein Nickerchen zu\nmachen. Ein Seemann, der ein solches Pokémon eines Tages\nauf einem Eisberg schlafen sah, hielt es für eine Meerjungfrau.",
+        "Es schwimmt mit bis zu acht Knoten im Meer\nund sucht nach Beute. Für Lusardin hat es eine\nbesondere Vorliebe.",
+        "Nach einer Mahlzeit genießt es ein Sonnenbad\nam Strand. Durch die erhöhte Körpertemperatur\nwird seine Verdauung unterstützt.",
+        "Sein ganzer Körper ist schneeweiß. Da ihm Kälte\nnichts ausmacht, kann es selbst in Eiswasser\nkraftvoll schwimmen.",
+        "Sein ganzer Körper ist schneeweiß. Da ihm Kälte\nnichts ausmacht, kann es selbst in Eiswasser\nkraftvoll schwimmen."
+    ],
+    "height": 1.7,
+    "id": 87,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "Jugong",
+    "types": [
+        "Wasser",
+        "Eis"
+    ],
+    "weight": 120.0
+}

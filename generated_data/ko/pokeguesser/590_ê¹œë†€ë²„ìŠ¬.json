@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "몬스터볼을 닮은 무늬로\n유인한 후 독 포자를 뿌려댄다.\n왜 닮았는지는 불가사의다.",
+        "몬스터볼과 똑 닮은\n무늬로 포켓몬을 유인해\n독 포자를 뿌린다.",
+        "몬스터볼을 닮은 무늬로\n유인한 후 독 포자를 뿌려댄다.\n왜 닮았는지는 불가사의다.",
+        "몬스터볼과 똑 닮은\n무늬로 포켓몬을 유인해\n독 포자를 뿌린다.",
+        "몬스터볼을 많이 닮았는데\n그 의미와 이유는\n아직 아무도 모른다.",
+        "양손에서 내뿜는 포자는\n맹독이지만 잘 말리면\n복통약이 된다고 한다."
+    ],
+    "height": 0.2,
+    "id": 590,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
+    "name": "깜놀버슬",
+    "types": [
+        "풀",
+        "독"
+    ],
+    "weight": 1.0
+}

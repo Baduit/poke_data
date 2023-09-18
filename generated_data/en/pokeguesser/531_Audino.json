@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "It touches others with the feelers on\nits ears, using the sound of their\nheartbeats to tell how they are feeling.",
+        "Its auditory sense is astounding. It has\na radarlike ability to understand its\nsurroundings through slight sounds.",
+        "Using the feelers on its ears,\nit can tell how someone is feeling\nor when an egg might hatch.",
+        "Using the feelers on its ears,\nit can tell how someone is feeling\nor when an egg might hatch.",
+        "Using the feelers on its ears, it can tell how\nsomeone is feeling or when an egg might hatch.",
+        "It touches others with the feelers on its ears, using\nthe sound of their heartbeats to tell how they\nare feeling.",
+        "Using the feelers on its ears, it can tell how\nsomeone is feeling or when an egg might hatch.",
+        "It touches others with the feelers on its ears, using\nthe sound of their heartbeats to tell how they\nare feeling.",
+        "Audino’s sense of hearing is superb. Not even a\npebble rolling along over a mile away will escape\nAudino’s ears.",
+        "This Pokémon has a kind heart. By touching with\nits feelers, Audino can gauge other creatures’\nfeelings and physical conditions."
+    ],
+    "height": 1.1,
+    "id": 531,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "name": "Audino",
+    "types": [
+        "Normal"
+    ],
+    "weight": 31.0
+}

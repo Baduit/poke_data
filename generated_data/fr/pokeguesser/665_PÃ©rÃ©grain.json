@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Vit caché sous le couvert des buissons.\nPoursuivi par un ennemi, il tente de l’intimider\nen hérissant les poils qui lui couvrent le corps.",
+        "Même les becs acérés des Pokémon Oiseaux ne\nparviennent pas à meurtrir son corps très dur.\nIl se défend en crachant de la poudre.",
+        "Vit caché sous le couvert des buissons. Poursuivi par\nun ennemi, il tente de l’intimider en hérissant les poils\nqui lui couvrent le corps.",
+        "Même les becs acérés des Pokémon Oiseaux ne parviennent\npas à meurtrir son corps très dur. Il se défend en crachant\nde la poudre."
+    ],
+    "height": 0.3,
+    "id": 665,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+    "name": "Pérégrain",
+    "types": [
+        "Insecte"
+    ],
+    "weight": 8.4
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Aussi éloigné qu’il puisse se trouver,\nil parvient toujours à retourner\nauprès de son Dresseur.",
+        "On dit que tout au fond de la forêt\noù il vit, il y aurait un pays paisible\nqui n’a jamais connu la guerre.",
+        "On dit que tout au fond de la forêt où il vit, il y aurait\nun pays paisible qui n’a jamais connu la guerre.",
+        "Quel que soit le lieu où il se trouve, il arrive toujours\nà retrouver son Dresseur comme son propre nid.",
+        "On dit que tout au fond de la forêt où il vit, il y aurait un pays\npaisible qui n’a jamais connu la guerre.",
+        "Quel que soit le lieu où il se trouve, il arrive toujours\nà retrouver son Dresseur comme son propre nid.",
+        "Il vole relativement vite et peut parcourir\ndes kilomètres sans oublier où se trouvent\nson Dresseur et son nid.",
+        "Il est intelligent et possède une bonne mémoire.\nOn raconte que les livreurs le choisissent souvent\ncomme partenaire."
+    ],
+    "height": 0.6,
+    "id": 520,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "name": "Colombeau",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "When it battles, its beak heats up. The\ntemperature can easily exceed 212 degrees\nFahrenheit, causing severe burns when it hits.",
+        "Within its beak, its internal gas ignites,\nexplosively launching seeds with enough power\nto pulverize boulders.",
+        "They smack beaks with others of their kind to\ncommunicate. The strength and number of hits\ntell each other how they feel.",
+        "Known for forming harmonious couples, this\nPokémon is brought to wedding ceremonies as a\ngood luck charm."
+    ],
+    "height": 1.1,
+    "id": 733,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "name": "Toucannon",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 26.0
+}

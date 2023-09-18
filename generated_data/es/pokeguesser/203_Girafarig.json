@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Cuando duerme, la cabeza de su cola se queda\nvigilando, ya que ella no necesita dormir.",
+        "Su cola tiene un pequeño cerebro. ¡Cuidado! Si te\nacercas, puede reaccionar a tu olor y morder.",
+        "Girafarig tiene un cerebro también en la cabeza de la cola que\nreacciona atacando ante olores y sonidos. Cuando alguien se\nacerca a este Pokémon por la espalda, puede provocar que la\ncabeza trasera se abalance y lo muerda.",
+        "La cabeza trasera de Girafarig tiene un cerebro muy pequeño\npara pensar, pero, como no le hace falta dormir, al menos\npuede hacer de centinela las 24 horas del día."
+    ],
+    "height": 1.5,
+    "id": 203,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "name": "Girafarig",
+    "types": [
+        "Normal",
+        "Psíquico"
+    ],
+    "weight": 41.5
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "最近的研究表明，它那\n能够自由伸长的２个手臂\n其实是由藤蔓聚集而成的。",
+        "栖息的地域越是温暖，藤蔓\n生长得就越快。藤蔓变长后，\n它会亲手将其扯断使其变短。"
+    ],
+    "height": 2.0,
+    "id": 465,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "name": "巨蔓藤",
+    "types": [
+        "草"
+    ],
+    "weight": 128.6
+}

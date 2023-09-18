@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Di solito si muove lentamente, ma quando attacca e\nmorde la preda si muove a una velocità incredibile.",
+        "Mordendo con le grandi e potenti mandibole, agita\nil capo riducendo la vittima in brandelli.",
+        "Feraligatr spaventa il nemico spalancando la sua bocca\nenorme. Nella lotta pesta pesantemente il terreno con le\nsue possenti zampe posteriori per scagliarsi contro il nemico\na un’incredibile velocità.",
+        "Feraligatr spaventa il nemico spalancando la sua bocca\nenorme. Nella lotta pesta pesantemente il terreno con le\nsue possenti zampe posteriori per scagliarsi contro il nemico\na un’incredibile velocità."
+    ],
+    "height": 2.3,
+    "id": 160,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+    "name": "Feraligatr",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 88.8
+}

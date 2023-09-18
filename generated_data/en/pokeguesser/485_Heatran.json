@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "It dwells in volcanic caves. It\ndigs in with its cross-shaped feet\nto crawl on ceilings and walls.",
+        "It dwells in volcanic caves. It\ndigs in with its cross-shaped feet\nto crawl on ceilings and walls.",
+        "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat.",
+        "Boiling blood, like magma, circulates\nthrough its body. It makes its dwelling\nplace in volcanic caves.",
+        "Boiling blood, like magma, circulates\nthrough its body. It makes its dwelling\nplace in volcanic caves.",
+        "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat.",
+        "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat.",
+        "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat.",
+        "Its body is made of rugged steel.\nHowever, it is partially melted in\nspots because of its own heat.",
+        "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
+        "Boiling blood, like magma, circulates through its\nbody. It makes its dwelling place in volcanic caves.",
+        "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls.",
+        "Boiling blood, like magma, circulates through its\nbody. It makes its dwelling place in volcanic caves.",
+        "Stories tell of this Pokémon being birthed from the boiling\nmagma within Mount Coronet. Its molten-steel body holds\nmany mysteries."
+    ],
+    "height": 1.7,
+    "id": 485,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "name": "Heatran",
+    "types": [
+        "Fire",
+        "Steel"
+    ],
+    "weight": 430.0
+}

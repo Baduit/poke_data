@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "頭の房に　ためこんだ　水は\n栄養　たっぷり。尻尾を使って\nその　水を　草木に　かけている。",
+        "頭の　ふさに　ためた　水は\n栄養　たっぷり。\n植物に　かけると　大きく　育つのだ。",
+        "頭の房に　ためこんだ　水は\n栄養　たっぷり。尻尾を使って\nその　水を　草木に　かけている。",
+        "頭の　ふさに　ためた　水は\n栄養　たっぷり。\n植物に　かけると　大きく　育つのだ。"
+    ],
+    "height": 0.6,
+    "id": 515,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "name": "ヒヤップ",
+    "types": [
+        "みず"
+    ],
+    "weight": 13.5
+}

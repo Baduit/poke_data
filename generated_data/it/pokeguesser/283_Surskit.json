@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Normalmente vivono negli stagni, ma dopo un\nacquazzone è possibile trovarli anche in città,\nnelle pozzanghere.",
+        "Cammina a pelo d’acqua. Dall’aculeo sulla testa\nemana un dolce aroma con cui attira le prede.",
+        "Dalla punta delle zampe Surskit secerne un olio che gli\nconsente di camminare sul pelo dell’acqua come se\nstesse pattinando. Si ciba di organismi microscopici\nin stagni e laghi.",
+        "In caso di pericolo Surskit secerne un fluido denso e\nzuccheroso dall’aculeo posto sulla sommità del capo.\nEsistono Pokémon che adorano cibarsi di questo fluido.",
+        "Si muove scivolando sul pelo dell’acqua come\nse stesse pattinando. Spesso si scontra con\ni Dewpider per il cibo.",
+        "Quando si sente minacciato, secerne dalla punta\ndella testa un liquido dal sapore dolciastro che\ni Pokémon alati detestano.",
+        "Quando è in difficoltà, secerne un liquido dolce\ndalla punta della testa. Lo sciroppo ricavato da\nquesto liquido è ottimo da spalmare sul pane.",
+        "Vive tra le piante acquatiche di stagni e paludi.\nSpesso lotta con i Dewpider per contendersi\nil cibo e il territorio."
+    ],
+    "height": 0.5,
+    "id": 283,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "name": "Surskit",
+    "types": [
+        "Coleottero",
+        "Acqua"
+    ],
+    "weight": 1.7
+}

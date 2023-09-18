@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "秒間１６連打　で　木を　突き\n穴を　ほる。　開けた　穴は　餌を\n仕舞う　貯蔵庫や　巣に　使う。",
+        "きのみが　餌。　喰らった後の\nタネを　弾として　口から\n発射し　攻撃に　利用。",
+        "硬いクチバシで　樹木を　つつく。\nつつくリズムで　そのときの　機嫌や\n体調も　なんとなく　わかる。",
+        "細く　見えるが　強靭な\n首の　筋肉を持つ。　秒間\n１６連打で　木を　突きまくるぞ。"
+    ],
+    "height": 0.3,
+    "id": 731,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+    "name": "ツツケラ",
+    "types": [
+        "ノーマル",
+        "ひこう"
+    ],
+    "weight": 1.2
+}

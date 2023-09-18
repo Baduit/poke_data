@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "몸은 일곱 빛으로 빛나고\n날아간 자리에는 무지개가 생긴다는\n신화 속에 남아 있는 포켓몬이다.",
+        "마음이 올바른 트레이너의 앞에\n무지개색의 날개를 빛내며\n모습을 드러낸다고 전해진다.",
+        "빛이 닿는 각도에 따라 일곱 빛깔로\n반짝이는 깃털은 행복을 가져다준다고 한다.\n무지개 끝에 산다고 전해진다.",
+        "빛이 닿는 각도에 따라 일곱 빛깔로\n반짝이는 깃털은 행복을 가져다준다고 한다.\n무지개 끝에 산다고 전해진다."
+    ],
+    "height": 3.8,
+    "id": 250,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "name": "칠색조",
+    "types": [
+        "불꽃",
+        "비행"
+    ],
+    "weight": 199.0
+}

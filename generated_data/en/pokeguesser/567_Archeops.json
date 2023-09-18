@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "They are intelligent and will cooperate\nto catch prey. From the ground, they\nuse a running start to take flight.",
+        "It runs better than it flies.\nIt catches prey by running at speeds\ncomparable to those of an automobile.",
+        "It runs better than it flies.\nIt takes off into the sky by\nrunning at a speed of 25 mph.",
+        "It runs better than it flies.\nIt takes off into the sky by\nrunning at a speed of 25 mph.",
+        "They are intelligent and will cooperate to catch\nprey. From the ground, they use a running start to\ntake flight.",
+        "It runs better than it flies. It takes off into the sky\nby running at a speed of 25 mph.",
+        "They are intelligent and will cooperate to catch\nprey. From the ground, they use a running start to\ntake flight.",
+        "It runs better than it flies. It takes off into the sky\nby running at a speed of 25 mph.",
+        "Although apparently able to fly, they tended\nto run along the ground, averaging speeds of\nroughly 25 mph.",
+        "They hunted in flocks. When one Archeops had\nthe prey cornered, another would swoop on it.",
+        "This ancient Pokémon’s plumage is delicate,\nso if anyone other than an experienced\nprofessional tries to restore it, they will fail.",
+        "Said to be an ancestor of bird Pokémon, the\nmuscles it uses to flap its wings are still weak,\nso it needs a long runway in order to take off.",
+        "It needs a running start to take off. If Archeops\nwants to fly, it first needs to run nearly 25 mph,\nbuilding speed over a course of about 2.5 miles.",
+        "Though capable of flight, Archeops was\napparently better at hunting on the ground."
+    ],
+    "height": 1.4,
+    "id": 567,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "name": "Archeops",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "weight": 32.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "It expresses its feelings by smacking\nits scales. Metallic sounds echo through\nthe tall mountains where Jangmo-o lives.",
+        "They live in mountains where no trace of\nhumans can be detected. Jangmo-o grow\nlittle by little as they battle one another.",
+        "It smacks the scales on its head against rocks\nor against the ground to frighten its opponents.\nIt can also contact its friends with these noises.",
+        "It will never show an enemy its back in battle.\nAncient warriors liked Jangmo-o for its valiant\ndisposition and made it one of their own.",
+        "They learn to fight by smashing their head scales\ntogether. The dueling strengthens both their skills\nand their spirits.",
+        "Jangmo-o strikes its scales to communicate with\nothers of its kind. Its scales are actually fur that’s\nbecome as hard as metal."
+    ],
+    "height": 0.6,
+    "id": 782,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+    "name": "Jangmo-o",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 29.7
+}

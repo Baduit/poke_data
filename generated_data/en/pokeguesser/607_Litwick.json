@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Litwick shines a light that absorbs the\nlife energy of people and Pokémon,\nwhich becomes the fuel that it burns.",
+        "While shining a light and pretending\nto be a guide, it leeches off the life\nforce of any who follow it.",
+        "Its flame is usually out, but it starts\nshining when it absorbs life force\nfrom people or Pokémon.",
+        "Its flame is usually out, but it starts\nshining when it absorbs life force\nfrom people or Pokémon.",
+        "While shining a light and pretending to be a guide,\nit leeches off the life force of any who follow it.",
+        "Litwick shines a light that absorbs the life energy of\npeople and Pokémon, which becomes the fuel that\nit burns.",
+        "While shining a light and pretending to be a guide,\nit leeches off the life force of any who follow it.",
+        "Litwick shines a light that absorbs the life energy of\npeople and Pokémon, which becomes the fuel that\nit burns.",
+        "The flame on its head keeps its body slightly\nwarm. This Pokémon takes lost children by the\nhand to guide them to the spirit world.",
+        "The younger the life this Pokémon absorbs,\nthe brighter and eerier the flame on its\nhead burns."
+    ],
+    "height": 0.3,
+    "id": 607,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "name": "Litwick",
+    "types": [
+        "Ghost",
+        "Fire"
+    ],
+    "weight": 3.1
+}

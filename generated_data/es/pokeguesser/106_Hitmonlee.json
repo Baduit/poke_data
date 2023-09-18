@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Encoge y estira las patas a su antojo. Cuando las\nestira, es capaz de propinar una buena patada al\nenemigo.",
+        "Si empieza a dar patadas, sus patas se alargarán aún\nmás para golpear al enemigo en su huida.",
+        "Hitmonlee tiene la facilidad de encoger y estirar las patas.\nCon extremidades tan flexibles, propina unas patadas\ndemoledoras. Tras la lucha, se masajea las piernas y relaja\nlos músculos para descansar.",
+        "Hitmonlee tiene la facilidad de encoger y estirar las patas.\nCon extremidades tan flexibles, propina unas patadas\ndemoledoras. Tras la lucha, se masajea las piernas y relaja\nlos músculos para descansar.",
+        "La planta de los pies se le vuelve tan dura como\nel diamante al dar patadas a su oponente, hasta\nel punto de aniquilarlo.",
+        "La planta de los pies se le vuelve tan dura como\nel diamante al dar patadas a su oponente, hasta\nel punto de aniquilarlo.",
+        "Este Pokémon tiene un sentido del equilibrio\nincreíble. Puede dar patadas desde cualquier\nposición.",
+        "Encoge y estira las piernas a su antojo. De hecho,\nhasta puede propinar una patada a un rival que\nse encuentre lejos."
+    ],
+    "height": 1.5,
+    "id": 106,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "name": "Hitmonlee",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 49.8
+}

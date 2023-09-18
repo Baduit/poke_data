@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Vit dans les hauts-fonds des mers\nchaudes. Il déterre sa proie du\nsable quand la marée se retire.",
+        "Vit dans les hauts-fonds des mers\nchaudes. Il déterre sa proie du\nsable quand la marée se retire.",
+        "Vit dans les hauts-fonds des mers chaudes.\nIl déterre sa proie du sable quand la marée se retire.",
+        "Lorsqu’il chasse, Vacilys utilise ses huit tentacules.\nIl dissout sa proie à l’aide d’un puissant acide avant\nde l’avaler.",
+        "Vacilys erre dans les profondeurs de l’océan pour chercher\nde la nourriture. Ce Pokémon peut allonger son cou à volonté\net capturer ses proies à l’aide de ses huit tentacules.",
+        "Le corps de Vacilys lui sert d’ancre et l’empêche d’être\nemporté quand la mer est déchaînée. Les tentacules\nde ce Pokémon sécrètent un puissant fluide digestif.",
+        "Il habitait généralement dans les hauts-fonds,\nmais parcourait le littoral en quête de proies\nlorsque la marée était basse.",
+        "Ce carnivore des mers antiques attrape sa proie\nà l’aide de ses huit tentacules, puis la dissout\navec ses sucs digestifs.",
+        "Il se déplace lentement avec ses petites pattes,\nmais il peut tripler la longueur de son cou et\nde ses tentacules pour capturer ses proies.",
+        "Il attrape ses proies à l’aide de ses tentacules,\npuis les dissout immédiatement avec ses sucs\ndigestifs pour en absorber les nutriments."
+    ],
+    "height": 1.5,
+    "id": 346,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "name": "Vacilys",
+    "types": [
+        "Roche",
+        "Plante"
+    ],
+    "weight": 60.4
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "È pigro per natura. Sta sul fondo dei fiumi con la\nbocca aperta in attesa di afferrare la preda.",
+        "Questo Pokémon sbarazzino non si fa grossi problemi:\nnuotando urta sempre gli scafi delle barche.",
+        "In acqua Quagsire attende la preda tenendo sempre la bocca\nspalancata per catturare qualche ignaro malcapitato.\nPoiché questo Pokémon non fa molto moto, non è mai\ntroppo affamato.",
+        "In acqua Quagsire attende la preda tenendo sempre la bocca\nspalancata per catturare qualche ignaro malcapitato.\nPoiché questo Pokémon non fa molto moto, non è mai\ntroppo affamato.",
+        "È molto tranquillo per natura. Non si scompone\nse nuotando sbatte la testa contro lo scafo delle\nbarche o le rocce dei fiumi.",
+        "Ha un corpo molto viscido. Spesso, nuotando,\nsbatte la testa sul letto dei fiumi, ma non\nse ne preoccupa."
+    ],
+    "height": 1.4,
+    "id": 195,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "name": "Quagsire",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 75.0
+}

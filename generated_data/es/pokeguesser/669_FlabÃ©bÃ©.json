@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Acumula el polen de las flores para confeccionar\nla tiara que lleva en la cabeza, que cuenta con\npropiedades curativas.",
+        "Puede controlar el poder oculto de las flores. La flor\nque lleva consigo es como si formara parte de su\ncuerpo.",
+        "En cuanto encuentra una flor de su agrado, la\nconvierte en su hogar para toda la vida.\nFlota en el aire a su antojo cabalgando el viento.",
+        "Puede controlar el poder oculto de las flores. La flor que\nlleva consigo es como si formara parte de su cuerpo.",
+        "En cuanto encuentra una flor de su agrado, la convierte en\nsu hogar para toda la vida. Flota en el aire a su antojo\ncabalgando el viento.",
+        "Sin el poder que le confiere la flor es una presa\nfácil, así que busca una del tamaño y color\nidóneos y no cesa hasta dar con ella."
+    ],
+    "height": 0.1,
+    "id": 669,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "name": "Flabébé",
+    "types": [
+        "Hada"
+    ],
+    "weight": 0.1
+}

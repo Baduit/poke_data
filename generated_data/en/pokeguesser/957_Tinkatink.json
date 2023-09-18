@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+        "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result."
+    ],
+    "height": 0.4,
+    "id": 957,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "name": "Tinkatink",
+    "types": [
+        "Fairy",
+        "Steel"
+    ],
+    "weight": 8.9
+}

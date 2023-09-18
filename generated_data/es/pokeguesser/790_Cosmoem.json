@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Permanece inmóvil, como si estuviera muerto,\naunque al tocarlo se percibe un ligero calor.\nAntaño se le llamaba Crisálida de las Estrellas.",
+        "Se dice que es un Pokémon procedente de otro\nmundo. Alrededor del núcleo negro que alberga\nsu duro caparazón parece acumularse algo.",
+        "En la antigüedad, un rey de Alola lo apodó\nCrisálida de las Estrellas y erigió un altar en su\nhonor.",
+        "Crece continuamente gracias a la luz que\nabsorbe. Su caparazón dorado es más duro de\nlo que parece.",
+        "Está recubierto de un caparazón de una dureza\nque escapa al entendimiento humano. Crece al\nexponerse a la luz de las estrellas.",
+        "Absorbe impetuoso polvo de la atmósfera y\npone todo su empeño en crear en su núcleo\nla energía necesaria para evolucionar."
+    ],
+    "height": 0.1,
+    "id": 790,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "name": "Cosmoem",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 999.9
+}

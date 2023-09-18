@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Son corps contient des hectolitres de poison.\nIl fait partie de ces créatures que l’on nomme\n« Ultra-Chimères ».",
+        "Cette Ultra-Chimère utilise son aiguillon pour\nsécréter un venin toxique, luisant et gluant."
+    ],
+    "height": 3.6,
+    "id": 804,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "name": "Mandrillon",
+    "types": [
+        "Poison",
+        "Dragon"
+    ],
+    "weight": 150.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "白天的時候，一邊沐浴陽光\n一邊睡覺。到了晚上就會為\n尋找更安全的睡床而走出來。",
+        "會發出清爽而甘甜的香味。\n萌虻經常聚集在偽螳草\n藏匿的草叢裡。",
+        "太陽出來時，會張開\n４片葉子來做日光浴。\n會從頭頂發出宜人的香味。",
+        "最喜歡太陽光。\n會透過充分沐浴陽光，\n讓自己長得色彩鮮豔。",
+        "沐浴陽光後就會\n散發出甘甜迷人的香味，\n因此蟲寶可夢會被吸引而來。",
+        "白天時會沐浴著陽光\n酣酣睡覺。到了半夜\n才會醒來活動。"
+    ],
+    "height": 0.3,
+    "id": 753,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+    "name": "偽螳草",
+    "types": [
+        "草"
+    ],
+    "weight": 1.5
+}

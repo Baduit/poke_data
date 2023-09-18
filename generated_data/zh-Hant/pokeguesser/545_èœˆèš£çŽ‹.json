@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "用頸部的爪子夾住獵物後，\n會直接將對方摔到地上，\n然後用毒刺戳下去。",
+        "為了搶地盤，會和焚焰蚣\n激烈地爭鬥。輸掉的那一方\n會直接變成對手的獵物。"
+    ],
+    "height": 2.5,
+    "id": 545,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "name": "蜈蚣王",
+    "types": [
+        "蟲",
+        "毒"
+    ],
+    "weight": 200.5
+}

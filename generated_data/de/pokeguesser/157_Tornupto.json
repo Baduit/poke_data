@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Wenn sein Zorn den Zenit übersteigt, wird es so\nheiß, dass alles, was es berührt, in Flammen aufgeht.",
+        "Es verfügt über eine verheerende Geheimattacke.\nEs reibt sein Fell, um Explosionen zu erzeugen.",
+        "Tornupto versteckt sich hinter einem flimmernden\nHitzeschild, den es mithilfe seiner heißen Flammen\nerzeugt. Dieses Pokémon erzeugt Explosionen,\ndie alles in Schutt und Asche legen.",
+        "Tornupto versteckt sich hinter einem flimmernden\nHitzeschild, den es mithilfe seiner heißen Flammen\nerzeugt. Dieses Pokémon erzeugt Explosionen,\ndie alles in Schutt und Asche legen."
+    ],
+    "height": 1.7,
+    "id": 157,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "name": "Tornupto",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 79.5
+}

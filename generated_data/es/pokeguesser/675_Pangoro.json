@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es muy temperamental, pero no permite que nadie se\nmeta con los débiles. Mediante su hoja, predice los\nmovimientos del enemigo.",
+        "No se arredra ante los ataques y embiste con una\nfuerza tan abrumadora que sería capaz de derribar\nun robusto poste telefónico de hormigón.",
+        "Es muy temperamental, pero no permite que nadie se meta\ncon los débiles. Mediante su hoja, predice los movimientos\ndel enemigo.",
+        "No se arredra ante los ataques y embiste con una fuerza tan\nabrumadora que sería capaz de derribar un robusto poste\ntelefónico de hormigón.",
+        "Su aspecto imponente rinde justicia a la fuerza\nde la que hace gala. Todo aspirante a entrenarlo\ndeberá entender el lenguaje de los puños.",
+        "Predice los movimientos del enemigo mediante\nsu hoja. Pese a su carácter temperamental, se\nmuestra muy afable con sus compañeros.",
+        "Pokémon un tanto agresivo que se jacta de la\nfuerza de sus puños. A muchos Entrenadores\nles llama la atención su carácter atrevido.",
+        "Prefiere solucionar las disputas a mamporros.\nPuede embestir un camión y hacerlo volar por\nlos aires a largas distancias sin despeinarse.",
+        "Este Pokémon de carácter agresivo lo soluciona\ntodo a golpes. Desata su espíritu combativo al\nenfrentarse a los Obstagoon.",
+        "La hoja que lleva en la boca le permite predecir\nlos movimientos del rival. Puede reducir un\ncamión a chatarra de un solo puñetazo."
+    ],
+    "height": 2.1,
+    "id": 675,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+    "name": "Pangoro",
+    "types": [
+        "Lucha",
+        "Siniestro"
+    ],
+    "weight": 136.0
+}

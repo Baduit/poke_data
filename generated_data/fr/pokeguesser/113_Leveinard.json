@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Ce Pokémon très serviable distribue\nses œufs hautement nutritifs aux\nhumains et Pokémon blessés.",
+        "Ce Pokémon très serviable distribue\nses œufs hautement nutritifs aux\nhumains et Pokémon blessés.",
+        "Il est censé apporter la joie. Ce Pokémon charitable\noffre ses œufs aux blessés.",
+        "Il peut pondre plusieurs œufs par jour. Ses œufs sont\ntrès riches en nutriments et vraiment délicieux.",
+        "Leveinard pond tous les jours des œufs pleins de vitamines.\nCes œufs sont tellement bons que les gens les mangent\nmême quand ils n’ont pas faim.",
+        "Leveinard pond tous les jours des œufs pleins de vitamines.\nCes œufs sont tellement bons que les gens les mangent\nmême quand ils n’ont pas faim.",
+        "Les œufs pondus par Leveinard sont\nextrêmement nutritifs. C’est la nourriture\nfavorite de beaucoup de Pokémon.",
+        "C’est un Pokémon assez rare et qui prend la\nfuite très rapidement. Apercevoir ce Pokémon\nest un signe que la chance vous sourit.",
+        "À force de fuir les Pokémon qui en avaient après\nses œufs, réputés pour leur goût et leur valeur\nnutritive, il a appris à courir plus vite.",
+        "Pendant longtemps, ce Pokémon a été chassé\nà outrance pour ses œufs, ce qui explique\nsa population fort réduite.",
+        "D’un naturel gentil et aimable, il partage\nses œufs nourrissants avec les blessés.",
+        "D’un naturel gentil et aimable, il partage\nses œufs nourrissants avec les blessés.",
+        "Ses œufs sont si délicieux et nutritifs qu’on\nles considère comme des ingrédients de luxe.",
+        "Ce Pokémon lent à l’origine a appris à fuir\nplus vite pour protéger ses œufs des voleurs."
+    ],
+    "height": 1.1,
+    "id": 113,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "name": "Leveinard",
+    "types": [
+        "Normal"
+    ],
+    "weight": 34.6
+}

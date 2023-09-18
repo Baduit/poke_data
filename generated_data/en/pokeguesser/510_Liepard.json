@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "These Pokémon vanish and appear\nunexpectedly. Many Trainers are drawn\nto their beautiful form and fur.",
+        "Stealthily, it sneaks up on its target,\nstriking from behind before its victim\nhas a chance to react.",
+        "Their beautiful form comes from\nthe muscles they have developed.\nThey run silently in the night.",
+        "Their beautiful form comes from\nthe muscles they have developed.\nThey run silently in the night.",
+        "Their beautiful form comes from the muscles they\nhave developed. They run silently in the night.",
+        "Stealthily, it sneaks up on its target, striking from\nbehind before its victim has a chance to react.",
+        "Their beautiful form comes from the muscles they\nhave developed. They run silently in the night.",
+        "Stealthily, it sneaks up on its target, striking from\nbehind before its victim has a chance to react.",
+        "Don’t be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
+        "This stealthy Pokémon sneaks up behind prey\nwithout making any sound at all. It competes with\nThievul for territory."
+    ],
+    "height": 1.1,
+    "id": 510,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "name": "Liepard",
+    "types": [
+        "Dark"
+    ],
+    "weight": 37.5
+}

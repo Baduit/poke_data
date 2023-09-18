@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Copre con le orecchie gli organi che presiedono ai suoi\ngrandi poteri psichici per non perderne il controllo.",
+        "Controlla a fatica un potere psichico enorme, in grado\ndi scaraventare in aria oggetti nel raggio di 100 m.",
+        "Copre con le orecchie gli organi che presiedono ai suoi\ngrandi poteri psichici per non perderne il controllo.",
+        "Controlla a fatica un potere psichico enorme, in grado di\nscaraventare in aria oggetti nel raggio di 100 m.",
+        "Il suo sguardo è inespressivo, ma in realtà sta\nfacendo uno sforzo enorme per tenere sotto\ncontrollo i suoi potentissimi poteri psichici.",
+        "I suoi poteri psichici sono talmente forti da\nscaraventare in aria un lottatore di wrestling,\nma ha seri problemi nel controllarli."
+    ],
+    "height": 0.3,
+    "id": 677,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+    "name": "Espurr",
+    "types": [
+        "Psico"
+    ],
+    "weight": 3.5
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es liebt funkelnde Dinge und sucht nach Schätzen\nin Höhlen, die es dann in seinem Nest hortet.",
+        "Die Rohedelsteine, die beim Erweitern seiner Höhle\nzum Vorschein kommen, hortet es in seinem Nest.",
+        "Es liebt funkelnde Dinge und sucht nach Schätzen in Höhlen,\ndie es dann in seinem Nest hortet.",
+        "Die Rohedelsteine, die beim Erweitern seiner Höhle\nzum Vorschein kommen, hortet es in seinem Nest.",
+        "Ab und zu häutet es sich und verliert Schuppen.\nMedizin, die solche Schuppen enthält, macht\nmüde Körper munter.",
+        "Es liebt funkelnde Dinge. Edelsteine und\ngefangene Rocara nimmt es mit in sein Nest,\num sich an ihrem Anblick zu weiden.",
+        "Es liebt funkelnde Dinge. Sieht es ein Zobiris,\ndas ein Rocara jagt, stürzt es sich wütend auf\nden Verfolger.",
+        "Wenn es wächst, streift es seine Schuppen ab.\nDiese lassen sich zu einem Pulver zerkleinern,\ndas als Basis für natürliche Heilmittel dient.",
+        "Aus den Fortsätzen an beiden Seiten seines\nKopfes stößt es Ultraschallwellen aus, um sich\nin stockfinsteren Höhlen zurechtzufinden.",
+        "In der Höhle, die Knarksel als Nest dient,\nvergräbt es Edelsteine. Wer sie betritt, wird\nsofort von seinen Krallen und Zähnen zerfetzt."
+    ],
+    "height": 1.4,
+    "id": 444,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "name": "Knarksel",
+    "types": [
+        "Drache",
+        "Boden"
+    ],
+    "weight": 56.0
+}

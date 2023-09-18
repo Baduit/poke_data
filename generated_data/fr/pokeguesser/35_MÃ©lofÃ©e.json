@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "On dit que ceux qui voient danser\nun groupe de Mélofée sous la pleine\nlune connaîtront un grand bonheur.",
+        "On dit que ceux qui voient danser\nun groupe de Mélofée sous la pleine\nlune connaîtront un grand bonheur.",
+        "On dit que ceux qui voient danser un groupe de\nMélofée sous la pleine lune connaîtront un grand\nbonheur.",
+        "La lumière de la lune qu’il emmagasine dans ses ailes\ndorsales lui permet de flotter dans les airs.",
+        "Les nuits de pleine lune, des groupes de ces Pokémon\nsortent jouer. Lorsque l’aube commence à poindre,\nles Mélofée fatigués rentrent dans leur retraite montagneuse\net vont dormir, blottis les uns contre les autres.",
+        "Les nuits de pleine lune, des groupes de ces Pokémon\nsortent jouer. Lorsque l’aube commence à poindre,\nles Mélofée fatigués rentrent dans leur retraite montagneuse\net vont dormir, blottis les uns contre les autres.",
+        "Son apparence et ses mimiques charmantes lui\nont valu de nombreux fans de tous âges, mais\nil reste un Pokémon relativement rare.",
+        "Ce Pokémon retrouve ses congénères et danse\nlors des nuits de pleine lune. Un champ\nmagnétique mystérieux s’étend alors alentour.",
+        "Il est très rare en dépit de sa popularité. Ne le\nlaissez pas sans surveillance, car il risquerait\nde se faire dérober par un voleur de Pokémon !",
+        "Quand ses ailes absorbent la lumière de la lune,\nelles brillent légèrement et le font léviter pour\nlui permettre de danser dans les airs.",
+        "Adoré pour son aspect mignon et joyeux,\non le suppose rare, car on en voit très peu\nde spécimens.",
+        "Adoré pour son aspect mignon et joyeux,\non le suppose rare, car on en voit très peu\nde spécimens.",
+        "On dit que ceux qui voient danser un groupe\nde Mélofée sous la pleine lune connaîtront\nun grand bonheur.",
+        "Son comportement et son cri adorables font de\nlui un Pokémon très populaire. Malheureusement,\nil est difficile d’en croiser un spécimen."
+    ],
+    "height": 0.6,
+    "id": 35,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "name": "Mélofée",
+    "types": [
+        "Fée"
+    ],
+    "weight": 7.5
+}

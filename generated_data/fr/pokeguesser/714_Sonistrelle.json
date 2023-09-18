@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il apprécie les grottes les plus sombres.\nSes grandes oreilles lui permettent de générer\ndes ultrasons d’une fréquence de 200 000 Hz.",
+        "Les ultrasons à 200 000 Hz qu’il émet suffiraient\nà rendre groggy le plus chevronné des lutteurs.",
+        "Il apprécie les grottes les plus sombres. Ses grandes oreilles\nlui permettent de générer des ultrasons d’une fréquence\nde 200 000 Hz.",
+        "Les ultrasons à 200 000 Hz qu’il émet suffiraient à rendre\ngroggy le plus chevronné des lutteurs.",
+        "Il adore les fruits et, en véritable gourmet, il ne\nmange que ceux qui sont bien mûrs. Il utilise ses\nultrasons pour déterminer le degré de maturité.",
+        "Il vole à la recherche de fruits à manger.\nIl peut déterminer si un fruit est mûr ou non\ngrâce à ses ultrasons.",
+        "À la tombée de la nuit, il quitte la grotte\noù il réside et s’envole à la recherche de fruits\nmûrs avec ses ultrasons.",
+        "Il peut contrôler des ondes à n’importe quelle\nfréquence du spectre. Même les plus grands\nPokémon ne peuvent supporter ses ultrasons."
+    ],
+    "height": 0.5,
+    "id": 714,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "name": "Sonistrelle",
+    "types": [
+        "Vol",
+        "Dragon"
+    ],
+    "weight": 8.0
+}

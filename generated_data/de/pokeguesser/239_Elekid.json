@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es bewegt seine Arme und generiert damit\nElektrizität. Diese kann es aber nicht speichern.",
+        "Wenn es seine Arme kreisen lässt, um Strom\nzu erzeugen, entstehen zwischen seinen Hörnern\nhellblaue Funken.",
+        "Elekid speichert Elektrizität in seinem Körper. Wenn es Metall\nberührt und versehentlich die aufgestaute Energie entlädt,\nrotiert es mit den Armen, um sich wieder aufzuladen.",
+        "Elekid speichert Elektrizität in seinem Körper. Wenn es Metall\nberührt und versehentlich die aufgestaute Energie entlädt,\nrotiert es mit den Armen, um sich wieder aufzuladen.",
+        "Daheim hängt es an der Steckdose wie an\neinem Babyfläschchen und nuckelt genüsslich\nden Strom.",
+        "Es muss sich oft mit Togedemaru herumärgern,\ndas ihm Strom klauen will. Ihre Raufereien enden\njedoch meist unentschieden.",
+        "Elekid freut sich, wenn es Donner hört. Es lohnt\nsich, das Geräusch aufzunehmen und es ihm\nvorzuspielen, wenn es mal schlecht drauf ist.",
+        "Seine Hörner leuchten weiß-blau, wenn es sich\nfertig aufgeladen hat. Fasst man es dann an,\nbekommt man einen Schlag und wird gelähmt.",
+        "Nähert sich ein Sturm, wird Elekid unruhig.\nSobald es Donnergrollen hört, ist es nicht\nmehr zu halten und fängt an zu toben.",
+        "Es kann Elektrizität noch nicht so gut speichern.\nUm sich diese einzuverleiben, schleicht es sich\nauf der Suche nach Steckdosen in fremde Häuser."
+    ],
+    "height": 0.6,
+    "id": 239,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "name": "Elekid",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 23.5
+}

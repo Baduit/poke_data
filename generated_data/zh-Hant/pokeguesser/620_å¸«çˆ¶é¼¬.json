@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "快到無法看清的踢腿\n非常強烈，即使是\n巨大的岩石也能粉碎。",
+        "會用連續攻擊壓倒對手。\n致命的一擊會在\n緩慢蓄力之後施展出來。",
+        "當牠用奇妙聲音發出叫喊時是很危險的，\n由快到無法看清的踢腿和手刀\n組成的連續攻擊將接踵而來。",
+        "當牠遇上真正的強敵時，\n會將雙臂的毛咬斷丟棄，\n讓自己的身體更加輕盈。"
+    ],
+    "height": 1.4,
+    "id": 620,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "name": "師父鼬",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 35.5
+}

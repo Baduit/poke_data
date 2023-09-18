@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "蜷缩身体后从鼻孔里喷射出\n１００公斤的沙子。没有了\n沙子就会变得很懦弱。",
+        "它之所以会以独特的方式\n盘绕自己的身体，是为了能\n更高效地喷射砂囊中的沙子。"
+    ],
+    "height": 3.8,
+    "id": 844,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "name": "沙螺蟒",
+    "types": [
+        "地面"
+    ],
+    "weight": 65.5
+}

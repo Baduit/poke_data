@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Repliega sus extremidades en el agua para hacerse\nmás compacto, y mueve su concha para nadar rápido.",
+        "Este Pokémon es un hábil y rápido nadador. Atrapa a\nsu presa para drenar sus fluidos vitales.",
+        "Este Pokémon es un rápido nadador gracias a su\ncuerpo esbelto. Con las garras despedaza las\npresas que atrapa para sorber sus fluidos.",
+        "Hace mucho tiempo, Kabutops buceaba para atrapar a sus\npresas. Parece ser que en algún momento cambió de hábitat\ny se adaptó a vivir en tierra firme. La transformación que se\naprecia en las patas y branquias así lo confirma.",
+        "Hace mucho tiempo, Kabutops buceaba para atrapar a sus\npresas. Parece ser que en algún momento cambió de hábitat\ny se adaptó a vivir en tierra firme. La transformación que se\naprecia en las patas y branquias así lo confirma.",
+        "Empezó a desarrollar rasgos de adaptación a la\nvida en tierra firme, pero fue demasiado tarde\npara evitar la extinción de la especie.",
+        "Nada a una velocidad de 29 nudos. Se abalanza\nsobre su presa y la desgarra con sus afiladas\npatas antes de asestar el golpe de gracia.",
+        "Este Pokémon es un rápido nadador gracias a su\ncuerpo esbelto. Con las garras despedaza las\npresas que atrapa para sorber sus fluidos.",
+        "Despedaza a las presas que atrapa para sorber\nsus fluidos y deja los restos para que otros\nPokémon den buena cuenta de ellos.",
+        "Se desconoce el motivo de la extinción de este\nferoz Pokémon prehistórico que habitaba en los\ncálidos mares de antaño."
+    ],
+    "height": 1.3,
+    "id": 141,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "name": "Kabutops",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 40.5
+}

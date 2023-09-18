@@ -1,0 +1,28 @@
+{
+    "descriptions": [
+        "It ensnares prey by extending\narms made of vines. Losing arms to\npredators does not trouble it.",
+        "It ensnares prey by extending\narms made of vines. Losing arms to\npredators does not trouble it.",
+        "Its arms are made of plants that\nbind themselves to things. They\ngrow back right away if cut.",
+        "When it remains still, it appears to be a\nlarge shrub. Unsuspecting prey that\nwander near get ensnared by its vines.",
+        "Its vines grow so profusely that, in the\nwarm season, you can’t even see\nits eyes.",
+        "Its arms are made of plants that\nbind themselves to things. They\ngrow back right away if cut.",
+        "Its arms are made of plants that\nbind themselves to things. They\ngrow back right away if cut.",
+        "Even if one of its arms is eaten,\nit’s fine. The Pokémon regenerates\nquickly and will go right back to normal.",
+        "Even if one of its arms is eaten,\nit’s fine. The Pokémon regenerates\nquickly and will go right back to normal.",
+        "It ensnares prey by extending arms made of vines.\nLosing arms to predators does not trouble it.",
+        "Its vines grow so profusely that, in the warm\nseason, you can’t even see its eyes.",
+        "It ensnares prey by extending arms made of vines.\nLosing arms to predators does not trouble it.",
+        "Its vines grow so profusely that, in the warm\nseason, you can’t even see its eyes.",
+        "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines.",
+        "Vine growth is accelerated for Tangrowth living in\nwarm climates. If the vines grow long, Tangrowth\nshortens them by tearing parts of them off.",
+        "Draped with long vines, it resembles a shrub in appearance.\nIt swings bundles of vines as though they were arms, wrapping\nthem around prey to ensnare them."
+    ],
+    "height": 2.0,
+    "id": 465,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "name": "Tangrowth",
+    "types": [
+        "Grass"
+    ],
+    "weight": 128.6
+}

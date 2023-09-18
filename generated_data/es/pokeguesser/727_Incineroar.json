@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Posee un carácter rudo y egoísta. Si un\nEntrenador no le cae en gracia, ignora sus\nórdenes con total impasibilidad.",
+        "Descarga ráfagas de demoledores puñetazos y\npatadas sobre sus rivales, a los que luego\nremata con las llamas que manan de su vientre.",
+        "Este Pokémon rudo y egoísta considera aburrido\nenfrentarse a un rival inferior a él y prefiere dar\nlo mejor de sí mismo contra rivales más fuertes.",
+        "Cuanto mayor es su espíritu combativo, con más\nfuerza arden las llamas que rodean su cintura.",
+        "Las llamas que libera por el ombligo superan los\n2000 °C. Su especialidad son los combates sin\nreglas ni restricciones.",
+        "A pesar de que a menudo se comporta de forma\nviolenta, tiene un lado amable que se manifiesta\ncuando ayuda a Pokémon más pequeños."
+    ],
+    "height": 1.8,
+    "id": 727,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+    "name": "Incineroar",
+    "types": [
+        "Fuego",
+        "Siniestro"
+    ],
+    "weight": 83.0
+}

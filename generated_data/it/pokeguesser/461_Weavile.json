@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il suo habitat sono le grandi aree innevate. Con gli\nartigli, incide sui tronchi segnali per i suoi simili.",
+        "Questi Pokémon vivono in zone fredde in gruppi di\nquattro o cinque. Insieme sono cacciatori abilissimi.",
+        "Il suo habitat sono le grandi aree innevate. Con gli artigli,\nincide sui tronchi segnali per i suoi simili.",
+        "Questi Pokémon vivono in zone fredde in gruppi di quattro\no cinque. Insieme sono cacciatori abilissimi.",
+        "Si muove in gruppi di quattro o cinque individui.\nDurante la caccia, si coordina con i compagni\nlasciando dei segni sulle rocce e sugli alberi.",
+        "È un Pokémon che vive nelle zone fredde.\nAd Alola caccia i Vulpix e i Sandshrew,\ndividendo le prede con i suoi compagni.",
+        "Caccia in coppia: un Weavile fa cadere\nSandshrew mandandolo a gambe all’aria mentre\nun altro dà il colpo di grazia con gli artigli affilati.",
+        "Si è fatto furbo e non ha più bisogno di lottare\nper il cibo. Il tocco dei suoi artigli provoca dei\ngeloni.",
+        "Caccia in gruppo. Grazie al lavoro di squadra\nriesce ad avere la meglio anche su prede di\ngrossa taglia come i Mamoswine.",
+        "Comunica con i suoi simili tramite i segni che\ntraccia con le unghie. Si dice che esistano più\ndi 500 segni diversi."
+    ],
+    "height": 1.1,
+    "id": 461,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "name": "Weavile",
+    "types": [
+        "Buio",
+        "Ghiaccio"
+    ],
+    "weight": 34.0
+}

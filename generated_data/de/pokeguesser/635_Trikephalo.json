@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Die Köpfe an seinen beiden Armen haben kein\neigenes Gehirn. Seine drei Mäuler kauen alles\nradikal kurz und klein.",
+        "Ein kaltblütiges Pokémon, das auf alles reagiert,\nwas sich bewegt, indem es mit seinen drei Köpfen\ndanach schnappt.",
+        "Die Köpfe an seinen beiden Armen haben kein eigenes Gehirn.\nSeine drei Mäuler kauen alles radikal kurz und klein.",
+        "Ein kaltblütiges Pokémon, das auf alles reagiert, was sich\nbewegt, indem es mit seinen drei Köpfen danach schnappt.",
+        "Es beißt alles, was sich bewegt. In zahlreichen\nalten Sagen wird von Trikephalo berichtet, die\nganze Dörfer in Schutt und Asche gelegt haben.",
+        "Im Kampf beißen die drei Köpfe abwechselnd zu\nund lassen nicht ab, bis ihr Opfer am Boden liegt."
+    ],
+    "height": 1.8,
+    "id": 635,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "name": "Trikephalo",
+    "types": [
+        "Unlicht",
+        "Drache"
+    ],
+    "weight": 160.0
+}

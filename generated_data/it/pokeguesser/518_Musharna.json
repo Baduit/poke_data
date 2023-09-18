@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Nel fumo che gli esce dalla fronte sono racchiusi\nmolti sogni di esseri umani e di Pokémon.",
+        "Il fumo che esce dalla sua fronte cambia colore a\nseconda del contenuto del sogno che ha mangiato.",
+        "Nel fumo che gli esce dalla fronte sono racchiusi molti sogni\ndi esseri umani e di Pokémon.",
+        "Il fumo che esce dalla sua fronte cambia colore a seconda del\ncontenuto del sogno che ha mangiato.",
+        "Meglio non avvicinarsi quando emette\nun fumo di colore scuro, perché gli incubi\ndiventano realtà.",
+        "Sonnecchia costantemente, sognando.\nQuando si sveglia è di pessimo umore,\nquindi è meglio tenersi a debita distanza."
+    ],
+    "height": 1.1,
+    "id": 518,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "name": "Musharna",
+    "types": [
+        "Psico"
+    ],
+    "weight": 60.5
+}

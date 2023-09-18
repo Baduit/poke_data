@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Aunque no lo parezca por su grácil elegancia, puede\nbatir con fuerza las alas y volar durante miles de\nkilómetros.",
+        "Comienzan a danzar al amanecer. El líder de la\nbandada se sitúa en el centro.",
+        "Aunque no lo parezca por su grácil elegancia, puede batir con\nfuerza las alas y volar durante miles de kilómetros.",
+        "Comienzan a danzar al amanecer. El líder de la bandada se\nsitúa en el centro."
+    ],
+    "height": 1.3,
+    "id": 581,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+    "name": "Swanna",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 24.2
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sus antenas tienen dibujos de ojos, mientras que sus\nalas le permiten volar en cualquier dirección.",
+        "Sus cuatro alas le permiten volar en cualquier\ndirección a su antojo.",
+        "Masquerain intimida a sus enemigos con los ojos que tiene\ndibujados en las antenas. Este Pokémon bate las cuatro alas\nque tiene para volar libremente en cualquier dirección, hasta\nde lado y hacia atrás, como un helicóptero.",
+        "Masquerain tiene unas antenas con ojos dibujados que le dan\naspecto de estar enfadado. Si tiene los “ojos” medio cerrados\ny con aspecto triste, es probable que esté a punto de caer\nun buen aguacero.",
+        "Amenaza a sus enemigos con las grandes\npupilas de sus antenas. Sus cuatro alas le\npermiten volar en cualquier dirección.",
+        "Sus alas y antenas son muy sensibles a la\nhumedad. Cuando deja de llover se dirige\nvolando hacia el sol para secarlas.",
+        "Intimida a sus enemigos con las grandes pupilas\nde sus antenas. Si esto no funciona, bate sus\ncuatro alas para huir.",
+        "Sus grandes antenas en forma de ojos tienden a\nabsorber humedad. Los días de lluvia, se refugia\nen cavidades de los árboles y espera paciente."
+    ],
+    "height": 0.8,
+    "id": 284,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "name": "Masquerain",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 3.6
+}

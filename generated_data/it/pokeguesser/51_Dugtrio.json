@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Nella lotta, scava tunnel nel terreno per sorprendere\nil nemico attaccandolo da una direzione imprevedibile.",
+        "Estremamente forte, può scavare una fossa anche\nnella terra più dura fino a 100 km di profondità.",
+        "Dugtrio è un Pokémon formato da tre unità legate in un solo\ncorpo. Ogni trio è un’unica mente pensante. Le tre unità\ncollaborano scavando instancabilmente.",
+        "Dugtrio è un Pokémon formato da tre unità legate in un solo\ncorpo. Ogni trio è un’unica mente pensante. Le tre unità\ncollaborano scavando instancabilmente.",
+        "Le tre unità agiscono collaborando fra loro.\nGrazie al lavoro di squadra possono scavare\nfino a raggiungere i 100 km di profondità.",
+        "È un Pokémon amato da molti, soprattutto dagli\nagricoltori. Nessuno ha mai visto la parte del\nsuo corpo che si trova sottoterra.",
+        "In genere le tre teste vanno d’accordo, ma a\nvolte può capitare che scoppi una lite furiosa\nper decidere quale mangerà per prima.",
+        "Le sue teste sono perfettamente lisce e\nincredibilmente dure. Può scavare a testate\nqualsiasi tipo di terreno.",
+        "Un gruppo di tre Diglett che può scavare\ngallerie fino a 100 km di profondità. Per questo\nsi dice che causi dei terremoti.",
+        "Un gruppo di tre Diglett che può scavare\ngallerie fino a 100 km di profondità. Per questo\nsi dice che causi dei terremoti.",
+        "Trio di Diglett che eccellono nel lavoro di\nsquadra. Scava fino a 100 km di profondità,\nprovocando a volte dei terremoti.",
+        "Questo trio di Diglett può scavare fino a 100 km\ndi profondità. Nessuno ha mai visto la parte\nnascosta sotto terra."
+    ],
+    "height": 0.7,
+    "id": 51,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "name": "Dugtrio",
+    "types": [
+        "Terra"
+    ],
+    "weight": 33.3
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il prévient ses camarades du danger en\nfaisant vibrer ses joues pour générer\nun signal d’alarme très aigu.",
+        "Il fait vibrer ses joues pour émettre\ndes sons imperceptibles pour l’homme.\nIl communique grâce à leur rythme.",
+        "Il fait vibrer ses joues pour émettre des sons\ninaudibles pour les humains et alerter ses semblables\ndes dangers.",
+        "Il fait vibrer ses joues pour émettre des sons\nimperceptibles pour l’homme. Il communique grâce\nà leur rythme.",
+        "Il fait vibrer ses joues pour émettre des sons inaudibles\npour les humains et alerter ses semblables des dangers.",
+        "Il fait vibrer ses joues pour émettre des sons imperceptibles\npour l’homme. Il communique grâce à leur rythme.",
+        "Lorsqu’un Tritonde pousse des cris aigus\nsous l’eau, des ondes ravissantes se propagent\nà la surface.",
+        "Il communique avec ses compagnons en émettant\ndes ondes. Son cri d’alerte est inaudible\npour les humains et les autres Pokémon."
+    ],
+    "height": 0.5,
+    "id": 535,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+    "name": "Tritonde",
+    "types": [
+        "Eau"
+    ],
+    "weight": 4.5
+}

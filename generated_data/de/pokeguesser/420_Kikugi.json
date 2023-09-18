@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sonnenlicht färbt es rot. Verliert das kleine Bällchen\nNährstoffe, welkt es und die Entwicklung beginnt.",
+        "Es saugt Nährstoffe, die in seinem Bällchen enthalten\nsind, und nutzt die Energie für seine Entwicklung.",
+        "Sonnenlicht färbt es rot. Verliert das kleine Bällchen\nNährstoffe, welkt es und die Entwicklung beginnt.",
+        "Es saugt Nährstoffe, die in seinem Bällchen enthalten sind,\nund nutzt die Energie für seine Entwicklung.",
+        "Sein nährstoffreiches Bällchen erfreut sich bei\nVogel-Pokémon großer Beliebtheit. Es ist ständig\nauf der Flucht, damit es nicht gefressen wird.",
+        "Je stärker die Rotfärbung seines Körpers ist,\ndesto mehr Nährstoffe stecken in ihm und umso\nsüßer und besser schmeckt sein Bällchen."
+    ],
+    "height": 0.4,
+    "id": 420,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+    "name": "Kikugi",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 3.3
+}

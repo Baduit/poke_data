@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "La parte inferior de su cuerpo, similar a una nube, está\nrecubierta de un campo de energía. Vuela a 300 km/h.",
+        "La energía que desprende de su cola genera violentas\ntempestades capaces de echar abajo casas.",
+        "La parte inferior de su cuerpo, similar a una nube, está\nrecubierta de un campo de energía. Vuela a 300 km/h.",
+        "La energía que desprende de su cola genera violentas\ntempestades capaces de echar abajo casas."
+    ],
+    "height": 1.5,
+    "id": 641,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "name": "Tornadus",
+    "types": [
+        "Volador"
+    ],
+    "weight": 63.0
+}

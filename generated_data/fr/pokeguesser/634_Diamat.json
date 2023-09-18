@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quand il a mangé tout ce qui traînait sur\nson territoire, il migre vers d’autres\nhorizons. Ses 2 têtes s’entendent mal.",
+        "Ses deux têtes s’entendent mal. Même en\nmangeant, elles se cherchent des noises\net dévorent à qui mieux mieux.",
+        "Ses deux têtes s’entendent mal et sont en\ncompétition permanente pour savoir qui mangera le\nplus et qui sera le chef.",
+        "Quand il a mangé tout ce qui traînait sur son territoire,\nil migre vers d’autres horizons. Ses 2 têtes\ns’entendent mal.",
+        "Ses deux têtes s’entendent mal et sont en compétition\npermanente pour savoir qui mangera le plus et qui sera\nle chef.",
+        "Quand il a mangé tout ce qui traînait sur son territoire, il migre\nvers d’autres horizons. Ses 2 têtes s’entendent mal.",
+        "Il cherche des proies en arpentant son territoire.\nSes deux têtes se disputent souvent pour savoir\nquelle direction prendre.",
+        "Ses deux têtes se disputent la même proie.\nIl est toujours couvert de blessures, même\ns’il n’a affronté personne."
+    ],
+    "height": 1.4,
+    "id": 634,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "name": "Diamat",
+    "types": [
+        "Ténèbres",
+        "Dragon"
+    ],
+    "weight": 50.0
+}

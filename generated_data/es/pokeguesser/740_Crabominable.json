@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Tras perderse intentando coronar una alta\nmontaña, desarrolló una capa de pelo para\nprotegerse del frío.",
+        "Asesta golpes con las pinzas a diestro y\nsiniestro. Si se ve en apuros, se desprende de\nellas lanzándolas como si fueran cohetes.",
+        "En el interior de las pinzas acumula aire gélido.\nLos golpes que asesta son capaces de hacer\nañicos incluso gruesas paredes de hielo.",
+        "No se lo piensa dos veces a la hora de zurrar.\nSe tiene constancia de que sus puñetazos\nfrenéticos han llegado a detener aludes."
+    ],
+    "height": 1.7,
+    "id": 740,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+    "name": "Crabominable",
+    "types": [
+        "Lucha",
+        "Hielo"
+    ],
+    "weight": 180.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Vive assieme ai Dreepy, che ospita all’interno\ndei buchi sulle sue corna. Quando lotta\nli espelle alla velocità del suono.",
+        "I Dreepy che vivono nelle sue corna attendono\nansiosamente di essere sparati alla velocità\ndel suono."
+    ],
+    "height": 3.0,
+    "id": 887,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "name": "Dragapult",
+    "types": [
+        "Drago",
+        "Spettro"
+    ],
+    "weight": 50.0
+}

@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Si on l’attaque, il projette un nuage de\ncoton. L’ennemi le confond avec lui, ce\nqui permet à Doudouvet de s’enfuir.",
+        "Il dérive librement au gré du vent.\nLes jours de pluie, il s’alourdit et\nse réfugie au pied des arbres.",
+        "Si on l’attaque, il projette un nuage de coton.\nL’ennemi le confond avec lui, ce qui permet à\nDoudouvet de s’enfuir.",
+        "Pokémon à l’instinct grégaire, ils se collent les uns\naux autres et finissent par former un gros nuage.",
+        "Si on l’attaque, il projette un nuage de coton.\nL’ennemi le confond avec lui, ce qui permet à\nDoudouvet de s’enfuir.",
+        "Pokémon à l’instinct grégaire, ils se collent les uns aux autres\net finissent par former un gros nuage.",
+        "Les Doudouvet se collent entre eux quand ils\nse rencontrent. Lorsqu’ils sont assez nombreux,\nils forment de véritables cumulonimbus vivants.",
+        "Le coton qu’il produit est utilisé dans la\nconfection d’oreillers et de couettes de haute\nqualité, qui allient légèreté et fraîcheur.",
+        "Il projette un nuage de coton pour se protéger.\nQuand il pleut, son coton s’imbibe d’eau et\nle rend si lourd qu’il est incapable de bouger.",
+        "Lorsqu’on l’attaque, il sème du coton pour faire\ndiversion. Celui-ci repousse tout de suite.",
+        "Il sème du coton pour se protéger. Il lui arrive\nd’être emporté par une tempête à l’autre bout\ndu monde.",
+        "Les marques de luxe utilisent les étoffes\nsplendides issues du mélange des cotons\nde Doudouvet et de Blancoton."
+    ],
+    "height": 0.3,
+    "id": 546,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "name": "Doudouvet",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 0.6
+}

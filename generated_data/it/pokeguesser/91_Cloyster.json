@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Ai Cloyster che vivono in mari con forti maree\ncrescono grandi aculei affilati sui gusci.",
+        "Neppure una bomba può scalfire il suo duro guscio,\nche apre soltanto quando sta attaccando.",
+        "Cloyster è in grado di nuotare in mare aperto, ingerendo\nacqua dalla bocca per poi espellerla violentemente\na mo’ di propulsore. Questo Pokémon usa lo stesso\nmetodo per sparare punte dalla conchiglia.",
+        "Cloyster è in grado di nuotare in mare aperto, ingerendo\nacqua dalla bocca per poi espellerla violentemente\na mo’ di propulsore. Questo Pokémon usa lo stesso\nmetodo per sparare punte dalla conchiglia.",
+        "Il suo guscio non può essere scalfito neanche\nda una bomba. Nessuno sa cosa si cela\nal suo interno.",
+        "Nei tumuli di popoli dediti alla caccia sono state\nrinvenute lance fabbricate con aculei provenienti\ndal guscio di questo Pokémon.",
+        "Ha un guscio estremamente duro. Le parti\ndanneggiate si ispessiscono fino a diventare\ndei grossi aculei affilati.",
+        "A volte sale sulla terraferma in cerca di\nSlowpoke perché va matto per la sua coda.",
+        "Usa la sua conchiglia dura come il diamante\nper proteggersi e può anche scagliare gli\naculei di cui è dotata per attaccare.",
+        "Usa la sua conchiglia dura come il diamante\nper proteggersi e può anche scagliare gli\naculei di cui è dotata per attaccare.",
+        "Neppure una bomba può scalfire il suo duro\nguscio, che apre soltanto quando sta attaccando.",
+        "Quando richiude il guscio nessuno può aprirlo,\nneppure chi è dotato di una forza straordinaria."
+    ],
+    "height": 1.5,
+    "id": 91,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "name": "Cloyster",
+    "types": [
+        "Acqua",
+        "Ghiaccio"
+    ],
+    "weight": 132.5
+}

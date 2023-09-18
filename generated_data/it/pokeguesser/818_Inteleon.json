@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Ha vari assi nella manica. Emette getti d’acqua\ndalle dita e si fa trasportare dal vento grazie\nalla membrana che ha sulla schiena.",
+        "Spara getti d’acqua dalla punta delle dita a una\nvelocità di Mach 3. Grazie alle sue membrane\nnittitanti individua i punti deboli del nemico."
+    ],
+    "height": 1.9,
+    "id": 818,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "name": "Inteleon",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 45.2
+}

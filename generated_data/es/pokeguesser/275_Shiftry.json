@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Habita los bosques y se le tiene miedo. Es capaz\nde leer los pensamientos del rival y actuar en\nconsecuencia.",
+        "Con sus abanicos puede provocar vientos de 30 m/s\ncapaces de levantar casas.",
+        "Shiftry es un enigmático Pokémon que vive, dicen, en las\ncopas de los árboles milenarios. Este Pokémon genera fuertes\ncorrientes de aire con los abanicos que lleva en las manos.",
+        "Las grandes manos con forma de hoja que tiene Shiftry\ngeneran grandes corrientes de aire que pueden alcanzar\n30 m/s y barrer lo que sea. Este Pokémon opta por vivir\ntranquilo en medio del bosque.",
+        "Infundía temor por su condición de guardián de\nlos bosques. Es capaz de leer los pensamientos\ndel rival y actuar en consecuencia.",
+        "Vive sigiloso en lo más profundo del bosque.\nSe dice que con sus abanicos puede generar\nvientos gélidos."
+    ],
+    "height": 1.3,
+    "id": 275,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "name": "Shiftry",
+    "types": [
+        "Planta",
+        "Siniestro"
+    ],
+    "weight": 59.6
+}

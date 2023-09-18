@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ハサミで　じゃくてんを　ガードしつつ\nスキを　うかがい　パンチを　はなつ。\nまけたほうは　アワを　ふいて　ダウン。",
+        "なぐりすぎで　ハサミは　よく　もげるが\nすぐに　はえる。　ハサミの　なかみは\nすくないが　コクがあって　うまいぞ。",
+        "かたい　ハサミは　せめも　まもりも\nとくい。　マケンカニ　どうしの\nたたかいは　ボクシングの　ようだ。",
+        "ヤシのきと　まちがえて　ナッシーに\nのぼることもある。　いかりを　かって\nふりおとされて　ふみつけられる。"
+    ],
+    "height": 0.6,
+    "id": 739,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "name": "マケンカニ",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 7.0
+}

@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "On pense qu’il peuplait les plages\nil y a 300 millions d’années. Il est\nprotégé par une coquille robuste.",
+        "On pense qu’il peuplait les plages\nil y a 300 millions d’années. Il est\nprotégé par une coquille robuste.",
+        "On pense qu’il peuplait les plages il y a 300 millions\nd’années. Il est protégé par une coquille robuste.",
+        "Ce Pokémon a été reconstitué à partir du fossile\nd’une ancienne créature. Il se protège à l’aide de\nsa carapace.",
+        "Kabuto est un Pokémon ressuscité à partir d’un fossile.\nCependant, on a découvert des spécimens vivants.\nCe Pokémon n’a pas changé depuis 300 millions d’années.",
+        "Kabuto est un Pokémon ressuscité à partir d’un fossile.\nCependant, on a découvert des spécimens vivants.\nCe Pokémon n’a pas changé depuis 300 millions d’années.",
+        "Un Pokémon qui prospérait il y a 300 millions\nd’années. On raconte que de rares survivants\nsubsistent dans une certaine région.",
+        "Ce Pokémon, doté d’une solide carapace\nprotectrice, a totalement disparu de la surface\nde la terre, sauf dans une région particulière.",
+        "Un Pokémon reconstitué à partir d’un fossile.\nIl utilise les yeux situés sur son dos pour regarder\nalentour quand il se cache au fond de l’eau.",
+        "Un Pokémon reconstitué à partir d’un fossile.\nIl utilise les yeux situés sur son dos pour regarder\nalentour quand il se cache au fond de l’eau.",
+        "Ce Pokémon au bord de l’extinction\nmue tous les trois jours et renforce\nainsi davantage sa carapace.",
+        "On raconte qu’ils se seraient éteints,\nmais apparemment, on peut souvent\nen croiser dans une zone particulière."
+    ],
+    "height": 0.5,
+    "id": 140,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "name": "Kabuto",
+    "types": [
+        "Roche",
+        "Eau"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "メロエッタの　奏でる　旋律は\nまわりの　ポケモンを　喜ばせたり\n悲しませるほどの　パワーがある。",
+        "特殊な　発声法で　歌う　メロディは\n聞いた者の　感情を\n自在に　操る。",
+        "メロエッタの　奏でる　旋律は\nまわりの　ポケモンを　喜ばせたり\n悲しませるほどの　パワーがある。",
+        "特殊な　発声法で　歌う　メロディは\n聞いた者の　感情を\n自在に　操る。"
+    ],
+    "height": 0.6,
+    "id": 648,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "name": "メロエッタ",
+    "types": [
+        "ノーマル",
+        "エスパー"
+    ],
+    "weight": 6.5
+}

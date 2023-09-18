@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Puzza da levare il fiato! Tuttavia circa una persona\nsu mille adora annusarne il fetido lezzo.",
+        "Il fluido che fuoriesce dalla sua bocca è così\npuzzolente che si sente anche a 2 km di distanza.",
+        "Gloom rilascia un odore fetido dal pistillo del suo fiore.\nQuando è in pericolo, l’olezzo peggiora. Quando invece\nsi sente tranquillo e sicuro, non emana questa sostanza\nmaleodorante.",
+        "Dalla bocca di Gloom fuoriesce una resina maleodorante\ne disgustosa. Evidentemente adora questo fetido olezzo,\npoiché lo annusa avidamente producendo poi altra resina.",
+        "Puzza da levare il fiato! Tuttavia circa una\npersona su mille adora annusarne il fetido\nlezzo.",
+        "Puzza da levare il fiato! Tuttavia circa una\npersona su mille adora annusarne il fetido\nlezzo.",
+        "I pistilli emanano un puzzo orribile, capace\ndi far svenire chiunque nel raggio di 2 km.",
+        "Ciò che sembra bava è in realtà dolce nettare.\nÈ molto viscoso: si appiccica appena lo si sfiora."
+    ],
+    "height": 0.8,
+    "id": 44,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "name": "Gloom",
+    "types": [
+        "Erba",
+        "Veleno"
+    ],
+    "weight": 8.6
+}

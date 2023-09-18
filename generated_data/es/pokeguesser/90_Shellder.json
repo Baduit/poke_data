@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "La concha lo protege de cualquier tipo de ataque.\nSolo es vulnerable cuando se abre.",
+        "Cuando atenaza a sus enemigos, se vuelve vulnerable.\nPor eso solo utiliza esta técnica como último recurso.",
+        "Por la noche, este Pokémon usa la ancha lengua que tiene\npara hacer un agujero en el fondo del mar y echarse a dormir.\nMientras duerme, Shellder cierra la concha, pero deja la\nlengua por fuera.",
+        "Por la noche, este Pokémon usa la ancha lengua que tiene\npara hacer un agujero en el fondo del mar y echarse a dormir.\nMientras duerme, Shellder cierra la concha, pero deja la\nlengua por fuera.",
+        "Su concha, más dura que un diamante, se\nempleaba en la antigüedad para la fabricación\nde escudos.",
+        "Este Pokémon usa su lengua diestramente para\nexcavar en el fondo del mar y buscar alimento.",
+        "La arena que acumula en su interior termina por\ntransformarse en una perla, pero la escupe\nporque le supone un estorbo.",
+        "Siempre tiene la lengua fuera, aun con la concha\ncerrada. Si uno tira de ella con fuerza, la abrirá\ndel susto.",
+        "La dura concha que lo recubre resiste cualquier\nataque, por lo que su frágil cuerpo solo queda\nexpuesto cuando esta se abre.",
+        "La dura concha que lo recubre resiste cualquier\nataque, por lo que su frágil cuerpo solo queda\nexpuesto cuando esta se abre.",
+        "Nada hacia atrás abriendo y cerrando su concha.\nEs sorprendentemente rápido.",
+        "La concha lo protege de cualquier tipo de\nataque. Solo es vulnerable cuando se abre."
+    ],
+    "height": 0.3,
+    "id": 90,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "name": "Shellder",
+    "types": [
+        "Agua"
+    ],
+    "weight": 4.0
+}

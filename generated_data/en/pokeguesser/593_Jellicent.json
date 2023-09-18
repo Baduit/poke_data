@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "The fate of the ships and crew that\nwander into Jellicent’s habitat:\nall sunken, all lost, all vanished.",
+        "They propel themselves by expelling\nabsorbed seawater from their bodies.\nTheir favorite food is life energy.",
+        "Its body is mostly seawater.\nIt’s said there’s a castle of ships\nJellicent have sunk on the seafloor.",
+        "Its body is mostly seawater.\nIt’s said there’s a castle of ships\nJellicent have sunk on the seafloor.",
+        "Its body is mostly seawater. It’s said there’s a\ncastle of ships Jellicent have sunk on the seafloor.",
+        "The fate of the ships and crew that wander into\nJellicent’s habitat: all sunken, all lost, all vanished.",
+        "Its body is mostly seawater. It’s said there’s a\ncastle of ships Jellicent have sunk on the seafloor.",
+        "The fate of the ships and crew that wander into\nJellicent’s habitat: all sunken, all lost, all vanished.",
+        "Jellicent is always hanging around fancy cruise\nships and tankers, hoping to drag away its prey.",
+        "Fishermen are terrified of Jellicent.\nIt’s rumored to drag them into the sea\nand steal their lives away.",
+        "Most of this Pokémon’s body composition is\nidentical to sea water. It makes sunken ships\nits lair.",
+        "Whenever a full moon hangs in the night sky,\nschools of Jellicent gather near the surface of\nthe sea, waiting for their prey to appear."
+    ],
+    "height": 2.2,
+    "id": 593,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "name": "Jellicent",
+    "types": [
+        "Water",
+        "Ghost"
+    ],
+    "weight": 135.0
+}

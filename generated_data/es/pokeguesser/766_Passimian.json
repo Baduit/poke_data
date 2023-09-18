@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Suele ir en grupos de unos veinte ejemplares.\nSus miembros permanecen siempre unidos y\nnunca se abandonan unos a otros.",
+        "Utiliza bayas duras en combate. Para que esta\ntécnica perviva de generación en generación, los\njefes la transmiten a un grupo de elegidos.",
+        "Adorna sus hombros con hojas que adhiere con\nsu saliva. La distribución de estas hojas indica\na qué manada pertenece.",
+        "Las bayas son su arma, además de su sustento.\nEl que sea capaz de lanzarlas a mayor distancia\nse convierte en el líder de la manada.",
+        "Bajo la tutela del líder, hacen gala de una gran\ncapacidad de trabajo en equipo para buscar sus\nbayas predilectas y ayudarse los unos a los otros.",
+        "Viven en grupos de unos veinte ejemplares.\nCada individuo tiene un rol definido, lo que les\npermite sobrevivir en entornos hostiles."
+    ],
+    "height": 2.0,
+    "id": 766,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
+    "name": "Passimian",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 82.8
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il étrangle ses ennemis avec son bras\ndroit et les achève avec le gaz puant et\nempoisonné qu’il exhale par la bouche.",
+        "Il aspire les déchets et les intègre à\nson corps. Les doigts de sa main droite\nexsudent un fluide empoisonné.",
+        "Il étrangle ses ennemis avec son bras gauche et les\nachève avec le gaz puant et empoisonné qu’il exhale\npar la bouche.",
+        "Il aspire les déchets et les intègre à son corps pour\nproduire des gaz et des fluides toxiques.",
+        "Il étrangle ses ennemis avec son bras gauche et les achève\navec le gaz puant et empoisonné qu’il exhale par la bouche.",
+        "Il aspire les déchets et les intègre à son corps pour produire\ndes gaz et des fluides toxiques.",
+        "Méfiez-vous du poison qu’il projette de son\nbras droit, sans quoi ses toxines non identifiées\nvous feront passer un sale quart d’heure.",
+        "Il fut un temps où les Miasmax étaient LE fléau\nd’Alola. Heureusement, leur population a vite\ndiminué après l’arrivée des Tadmorv.",
+        "Il maîtrise son adversaire de son bras gauche,\npuis l’arrose d’un liquide toxique paralysant.",
+        "Ce serait pour pouvoir faire face à Grotadmorv,\nson ennemi juré, que le Miasmax d’Alola est\nlégèrement plus robuste que les autres.",
+        "Il produit du poison dans son corps à partir\ndes ordures qu’il ingurgite. Selon ce qu’il mange,\nla composition des toxines diffère.",
+        "Le liquide qu’il projette de son bras droit\nest si toxique que si une créature fragile\nen est aspergée, elle succombe sur-le-champ."
+    ],
+    "height": 1.9,
+    "id": 569,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "name": "Miasmax",
+    "types": [
+        "Poison"
+    ],
+    "weight": 107.3
+}

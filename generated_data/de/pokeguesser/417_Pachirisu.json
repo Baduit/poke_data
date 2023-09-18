@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es bildet ein Fellknäuel, der vor statischer Energie\nknistert. Es speichert die Energie in Bäumen.",
+        "Um gespeicherte Elektrizität zu teilen, reiben zwei\nvon ihnen ihre Backentaschen aneinander.",
+        "Es bildet ein Fellknäuel, der vor statischer Energie knistert.\nEs speichert die Energie in Bäumen.",
+        "Um gespeicherte Elektrizität zu teilen, reiben zwei von ihnen\nihre Backentaschen aneinander."
+    ],
+    "height": 0.4,
+    "id": 417,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "name": "Pachirisu",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 3.9
+}

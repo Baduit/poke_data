@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "They never vary the route they fly,\nbecause their memories of guarding\nan ancient city remain steadfast.",
+        "The guardians of an ancient city, they\nuse their psychic power to attack\nenemies that invade their territory.",
+        "The guardians of an ancient city, they\nalways fly the same route while\nkeeping watch for invaders.",
+        "The guardians of an ancient city, they\nalways fly the same route while\nkeeping watch for invaders.",
+        "The guardians of an ancient city, they use their\npsychic power to attack enemies that invade\ntheir territory.",
+        "The guardians of an ancient city, they always fly\nthe same route while keeping watch for invaders.",
+        "The guardians of an ancient city, they use their\npsychic power to attack enemies that invade\ntheir territory.",
+        "The guardians of an ancient city, they always fly\nthe same route while keeping watch for invaders.",
+        "Psychic power allows these Pokémon to fly. Some\nsay they were the guardians of an ancient city.\nOthers say they were the guardians’ emissaries.",
+        "A discovery was made in the desert where\nSigilyph fly. The ruins of what may have been\nan ancient city were found beneath the sands."
+    ],
+    "height": 1.4,
+    "id": 561,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "name": "Sigilyph",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "weight": 14.0
+}

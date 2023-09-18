@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "用钳子保护自己的弱点，\n同时伺机出拳。\n输了的话会吐泡泡倒下。",
+        "因为打架太频繁，钳子常常掉落，\n但很快又会长出来。钳子里的肉很少，\n但味道浓郁非常鲜美。",
+        "坚硬的钳子攻守皆宜。\n好胜蟹同类之间的战斗\n就像是拳击一样。",
+        "有时会把椰蛋树错认为椰子树\n而爬上去。惹怒椰蛋树后\n被抖落下来，并遭到踩踏。"
+    ],
+    "height": 0.6,
+    "id": 739,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "name": "好胜蟹",
+    "types": [
+        "格斗"
+    ],
+    "weight": 7.0
+}

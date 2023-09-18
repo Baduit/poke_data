@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "因為長時間生活在地底下，\n所以眼睛幾乎什麼都看不到。\n會靠觸角來探察周圍的狀況。",
+        "有時會在土裡生活\n１０年以上。會從樹木\n的根部吸取營養。"
+    ],
+    "height": 0.5,
+    "id": 290,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "name": "土居忍士",
+    "types": [
+        "蟲",
+        "地面"
+    ],
+    "weight": 5.5
+}

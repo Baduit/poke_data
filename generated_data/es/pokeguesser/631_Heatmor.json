@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Usa su lengua de fuego para derretir la armadura de\nacero de los Durant y llegar así hasta su interior.",
+        "Absorbe aire por el orificio de su cola para prender\nuna lengua de llamas con la que derrite a los Durant\npara comerlos.",
+        "Usa su lengua de fuego para derretir la armadura de acero de\nlos Durant y llegar así hasta su interior.",
+        "Absorbe aire por el orificio de su cola para prender una lengua\nde llamas con la que derrite a los Durant para comerlos.",
+        "Absorbe aire por el orificio de la cola para\nprender las llamas que expulsa. Si la abertura\nse obstruye, enferma.",
+        "Usa llamas a modo de lengua para derretir\nel duro exoesqueleto de los Durant antes de\ndevorarlos."
+    ],
+    "height": 1.4,
+    "id": 631,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "name": "Heatmor",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 58.0
+}

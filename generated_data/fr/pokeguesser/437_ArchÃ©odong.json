@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il apportait la pluie en créant un\nportail vers une autre dimension.\nIl était synonyme de bonne récolte.",
+        "Il apportait la pluie en créant un\nportail vers une autre dimension.\nIl était synonyme de bonne récolte.",
+        "Il a longtemps été célébré pour avoir apporté la pluie.\nOn le trouve parfois enterré dans le sol.",
+        "On croyait autrefois que lui adresser des prières\nfaisait pleuvoir et assurait les récoltes.",
+        "Il a longtemps été célébré pour avoir apporté la pluie.\nOn le trouve parfois enterré dans le sol.",
+        "On croyait autrefois que lui adresser des prières faisait pleuvoir\net assurait les récoltes.",
+        "On dit qu’il appelle la pluie. Si on attise sa colère,\nil se met à gronder en émettant un son lugubre\nsemblable à celui d’une cloche.",
+        "De nombreux savants pensent que ce Pokémon\nn’est pas originaire de Galar à cause des motifs\nqui ornent son corps."
+    ],
+    "height": 1.3,
+    "id": 437,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "name": "Archéodong",
+    "types": [
+        "Acier",
+        "Psy"
+    ],
+    "weight": 187.0
+}

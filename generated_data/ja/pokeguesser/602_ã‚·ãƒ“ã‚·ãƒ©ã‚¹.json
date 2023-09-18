@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "１匹の　電力は　小さいが\nたくさんの　シビシラスが　つながると\n雷と　同じ　威力になる。",
+        "弱い　電気しか　だせないので\nたくさんの　シビシラスで　集まり\n強力な　電気を　放つ。",
+        "１匹の　電力は　小さいが\nたくさんの　シビシラスが　つながると\n雷と　同じ　威力になる。",
+        "弱い　電気しか　だせないので\nたくさんの　シビシラスで　集まり\n強力な　電気を　放つ。"
+    ],
+    "height": 0.2,
+    "id": 602,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "name": "シビシラス",
+    "types": [
+        "でんき"
+    ],
+    "weight": 0.3
+}

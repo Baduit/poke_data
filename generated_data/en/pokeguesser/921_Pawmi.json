@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+        "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
+    ],
+    "height": 0.3,
+    "id": 921,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+    "name": "Pawmi",
+    "types": [
+        "Electric"
+    ],
+    "weight": 2.5
+}

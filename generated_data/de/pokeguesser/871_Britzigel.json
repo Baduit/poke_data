@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Aus den Spitzen seiner Stacheln setzt es\nElektrizität frei. Mit seinen scharfen Zähnen\nschabt es Algen von Steinen ab und frisst sie.",
+        "In jedem einzelnen seiner Stacheln speichert es\nElektrizität. Selbst abgebrochene Stacheln sind\nnoch drei Stunden lang geladen."
+    ],
+    "height": 0.3,
+    "id": 871,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "name": "Britzigel",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 1.0
+}

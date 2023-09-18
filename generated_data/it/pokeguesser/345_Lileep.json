@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cattura le prede che si avvicinano con i tentacoli a\nforma di corolla. Si è estinto 100 milioni di anni fa.",
+        "Viveva sul fondo marino 100 milioni di anni fa ed è\nstato rigenerato in laboratorio.",
+        "Lileep si è estinto circa 100 milioni di anni or sono.\nQuesto Pokémon antico si aggrappa alle rocce sui fondali\nmarini e cattura le prede che si avvicinano con i propri\ntentacoli a forma di petali di fiori.",
+        "Lileep è un Pokémon antico rigenerato da un fossile. Rimane\nsempre attaccato alla roccia. Dalla sua postazione fissa,\nquesto Pokémon scandaglia attentamente i fondali con i suoi\ndue occhi.",
+        "Anticamente viveva nei mari caldi. Si finge alga\nmarina per tendere un agguato alla preda e\nquando si avvicina la inghiotte in un sol boccone.",
+        "Si attacca alle rocce con ventose potentissime,\nresistendo anche alle mareggiate più violente.",
+        "Questo Pokémon è stato rigenerato da un fossile.\nViveva nei mari caldi circa 100 milioni di anni fa.",
+        "Si attacca alle rocce dei fondali marini e usa\ni tentacoli simili a petali per catturare le prede\nche si avvicinano."
+    ],
+    "height": 1.0,
+    "id": 345,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+    "name": "Lileep",
+    "types": [
+        "Roccia",
+        "Erba"
+    ],
+    "weight": 23.8
+}

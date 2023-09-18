@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "몸속에 불꽃 주머니를 지니고 있어서\n껴안으면 따끈따끈하다.\n살아 있는 한 계속 불타오른다.",
+        "체내에 불꽃이 타오르고 있어\n껴안으면 무척 따뜻하다.\n1000도의 불구슬을 날린다.",
+        "트레이너에게 바짝 붙어 아장아장 걷는다.\n입에서 날리는 불꽃은 섭씨 1000도다.\n상대를 새까맣게 태우는 작열하는 불덩이다.",
+        "체내에 불꽃을 태우는 곳이 있어서\n껴안으면 따끈따끈 정말 따뜻하다.\n전신이 푹신푹신한 깃털로 덮여 있다."
+    ],
+    "height": 0.4,
+    "id": 255,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "name": "아차모",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 2.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si riempie di energia grazie ai grandi petali del fiore,\nche spalanca catturando i raggi solari.",
+        "Dopo la pioggia, il fiore sul suo dorso emana un\nprofumo più intenso e attira gli altri Pokémon.",
+        "C’è un grande fiore sulla schiena di Venusaur. Si dice che\ni colori diventino più vividi con il giusto nutrimento e i\nraggi solari. Il suo profumo calma le reazioni emotive\ndelle persone.",
+        "C’è un grande fiore sulla schiena di Venusaur. Si dice che\ni colori diventino più vividi con il giusto nutrimento e i\nraggi solari. Il suo profumo calma le reazioni emotive\ndelle persone.",
+        "Il grande fiore che ha sulla schiena può assorbire\ni raggi solari e trasformarli in energia.",
+        "Il grande fiore che ha sulla schiena può assorbire\ni raggi solari e trasformarli in energia.",
+        "Il fiore sboccia assorbendo energia solare.\nSi muove continuamente in cerca di luce.",
+        "Il suo fiore emana una fragranza inebriante\ncapace di placare l’animo di chi è impegnato\nnella lotta."
+    ],
+    "height": 2.0,
+    "id": 3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "name": "Venusaur",
+    "types": [
+        "Erba",
+        "Veleno"
+    ],
+    "weight": 100.0
+}

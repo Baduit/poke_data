@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "處於防禦狀態時，\n會用鋼之身體和靈力的屏障\n來減弱一切的攻擊。",
+        "堅盾劍怪曾經用強大的靈力\n控制人和寶可夢，建立了\n適合自己生活的國家。"
+    ],
+    "height": 1.7,
+    "id": 681,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "name": "堅盾劍怪",
+    "types": [
+        "鋼",
+        "幽靈"
+    ],
+    "weight": 53.0
+}

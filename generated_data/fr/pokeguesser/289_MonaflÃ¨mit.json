@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le Pokémon le plus fainéant du\nmonde. Il s’allonge pour économiser\nses forces et contre-attaquer.",
+        "Le Pokémon le plus fainéant du\nmonde. Il s’allonge pour économiser\nses forces et contre-attaquer.",
+        "Le Pokémon le plus fainéant du monde. Il bouge\nquand il a mangé tout ce qui était à portée de main.",
+        "C’est le Pokémon le plus paresseux du monde.\nIl est cependant capable de libérer une puissance\nphénoménale en une seule attaque.",
+        "Monaflèmit passe toute sa journée allongé à paresser.\nIl mange toute l’herbe qu’il trouve à portée de main.\nEnsuite, il change d’endroit, à contrecœur.",
+        "On trouve parfois des cercles de plus de 1 m de rayon\ntotalement désherbés dans les plaines. Ils sont faits\npar les Monaflèmit qui passent leurs journées allongés\nà manger toute l’herbe à portée de main."
+    ],
+    "height": 2.0,
+    "id": 289,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "name": "Monaflèmit",
+    "types": [
+        "Normal"
+    ],
+    "weight": 130.5
+}

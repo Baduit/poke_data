@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sus ojos están especialmente adaptados.\nConcentran la luz para poder ver en la oscuridad.",
+        "Cuando necesita pensar, gira su cabeza 180° para\nagudizar su capacidad intelectual.",
+        "Noctowl no falla a la hora de cazar a su presa en la oscuridad.\nEl éxito se lo debe a una vista privilegiada, que le permite ver\ndonde apenas hay luz, y a las ligeras y flexibles alas que\ntiene, que no hacen ruido alguno al volar.",
+        "Noctowl no falla a la hora de cazar a su presa en la oscuridad.\nEl éxito se lo debe a una vista privilegiada, que le permite ver\ndonde apenas hay luz, y a las ligeras y flexibles alas que\ntiene, que no hacen ruido alguno al volar.",
+        "Apodado el Emperador Nocturno, su aguzada\nvista lo convierte en un formidable cazador aun\nen la más impenetrable oscuridad.",
+        "Si da media vuelta a la cabeza es señal de que\nestá preocupado y conviene no molestarlo.\nQuien lo haga se arriesga a recibir un picotazo.",
+        "Tiene los ojos muy desarrollados y puede ver con\nincreíble claridad en la oscuridad más absoluta.",
+        "Cuando necesita pensar, gira la cabeza 180°\npara agudizar su capacidad intelectual."
+    ],
+    "height": 1.6,
+    "id": 164,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "name": "Noctowl",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 40.8
+}

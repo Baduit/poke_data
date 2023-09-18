@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Questo Pokémon viaggia attraverso il tempo. Le\nforeste in cui appare prosperano rigogliose.",
+        "Ha il potere di viaggiare attraverso il tempo, ma si\ndice che appaia solo in periodi di pace.",
+        "Celebi è giunto a noi dal futuro, viaggiando attraverso\nil tempo. Si dice che ogni sua apparizione preannunci\nun futuro roseo e splendente.",
+        "Celebi è giunto a noi dal futuro, viaggiando attraverso\nil tempo. Si dice che ogni sua apparizione preannunci\nun futuro roseo e splendente.",
+        "Ha il potere di viaggiare nel tempo. Documenti\ndi epoche diverse lo descrivono come divinità\ndelle foreste.",
+        "È giunto dal futuro, viaggiando nel tempo.\nCura le ferite e dona vigore alla vegetazione."
+    ],
+    "height": 0.6,
+    "id": 251,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "name": "Celebi",
+    "types": [
+        "Psico",
+        "Erba"
+    ],
+    "weight": 5.0
+}

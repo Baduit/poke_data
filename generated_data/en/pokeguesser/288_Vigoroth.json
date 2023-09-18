@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "VIGOROTH is always itching and agitated\nto go on a wild rampage. It simply can’t\ntolerate sitting still for even a minute.\fThis POKéMON’s stress level rises if it\ncan’t be moving constantly.",
+        "VIGOROTH is simply incapable of\nremaining still. Even when it tries to\nsleep, the blood in its veins grows\fagitated, compelling this POKéMON to\nrun wild throughout the jungle before\nit can settle down.",
+        "It can’t keep still because its blood boils\nwith energy. It runs through the fields\nand mountains all day to calm itself. If it\ndoesn’t, it can’t sleep at night.",
+        "It is always hungry because it won’t stop\nrampaging. Even while it is eating, it\ncan’t keep still.",
+        "It is always hungry because it won’t stop\nrampaging. Even while it is eating, it\ncan’t keep still.",
+        "Its heart beats at a tenfold\ntempo, so it cannot sit still for\neven a moment.",
+        "Its heart beats at a tenfold\ntempo, so it cannot sit still for\neven a moment.",
+        "Its heart beats at a tenfold\ntempo, so it cannot sit still for\neven a moment.",
+        "Its stress level rises if it\ncannot keep moving constantly.\nToo much stress makes it feel sick.",
+        "Its stress level rises if it\ncannot keep moving constantly.\nToo much stress makes it feel sick.",
+        "Its heart beats at a tenfold\ntempo, so it cannot sit still for\neven a moment.",
+        "Its heart beats at a tenfold\ntempo, so it cannot sit still for\neven a moment.",
+        "Its heartbeat is fast and\nits blood so agitated that\nit can’t sit still for one second.",
+        "Its heartbeat is fast and\nits blood so agitated that\nit can’t sit still for one second.",
+        "Its heartbeat is fast and its blood so agitated that\nit can’t sit still for one second.",
+        "Its stress level rises if it cannot keep moving\nconstantly. Too much stress makes it feel sick.",
+        "Vigoroth is always itching and agitated to go on a wild\nrampage. It simply can’t tolerate sitting still for even\na minute. This Pokémon’s stress level rises if it can’t\nbe moving constantly.",
+        "Vigoroth is simply incapable of remaining still. Even when it\ntries to sleep, the blood in its veins grows agitated, compelling\nthis Pokémon to run wild throughout the jungle before it can\nsettle down."
+    ],
+    "height": 1.4,
+    "id": 288,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "name": "Vigoroth",
+    "types": [
+        "Normal"
+    ],
+    "weight": 46.5
+}

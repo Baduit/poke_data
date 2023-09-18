@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "動くものを　つい　追ってしまう。\n自分の　尻尾を　追いかけて\n同じ　場所を　グルグル　回る。",
+        "自分の　尻尾を　追いかけて\n遊んでいると　目を　回すといった\n可愛らしい　一面を　みせる。",
+        "動く　ものを　見つけると　夢中に　なって\n追いかけ回す　習性を　持つ　ポケモン。\n自分の　シッポを　追いかけて　目を　回す。",
+        "自分の　シッポを　追いかけ回す　ポケモン。\n野生は　森の　樹木の　穴で　暮らす。\n愛くるしい　顔で　ペットとして　大人気。"
+    ],
+    "height": 0.6,
+    "id": 300,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "name": "エネコ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 11.0
+}

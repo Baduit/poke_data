@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "In den Legenden Sinnohs heißt es, es sei aus\neinem Ei geschlüpft und hätte die gesamte Welt\ngeschaffen.",
+        "Die Mythologie erzählt, dass dieses Pokémon geboren\nwurde, bevor das Universum überhaupt existierte.",
+        "In den Legenden Sinnohs heißt es, es sei aus einem Ei\ngeschlüpft und hätte die gesamte Welt geschaffen.",
+        "Die Mythologie erzählt, dass dieses Pokémon geboren wurde,\nbevor das Universum überhaupt existierte."
+    ],
+    "height": 3.2,
+    "id": 493,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "name": "Arceus",
+    "types": [
+        "Normal"
+    ],
+    "weight": 320.0
+}

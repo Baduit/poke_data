@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "会用背上的硬毛摩擦树木，\n留下代表自己地盘的标记。\n性情比伽勒尔的蛇纹熊温驯。",
+        "伽勒尔的蛇纹熊适应了\n其他地区环境后的样子。\n十分擅长找东西。"
+    ],
+    "height": 0.4,
+    "id": 263,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "name": "蛇纹熊",
+    "types": [
+        "一般"
+    ],
+    "weight": 17.5
+}

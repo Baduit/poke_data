@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es hat neun lange Schweife und sein Fell glänzt\ngülden. Man sagt, es soll 1 000 Jahre alt werden.",
+        "Dieses Pokémon ist intelligent, aber rachsüchtig.\nSein Schweif kann einen schweren Fluch übertragen.",
+        "Vulnona sendet einen unheimlichen Lichtstrahl aus seinen\nhellroten Augen aus, um totale Kontrolle über die Gedanken\nseines Gegners zu erlangen. Man sagt, dieses Pokémon\nkönne 1 000 Jahre leben.",
+        "Eine Legende besagt, dass Vulnona zu existieren begann,\nals neun Zauberer mit heiligen Kräften zu einem verschmolzen.\nDieses Pokémon ist hochintelligent und versteht die\nmenschliche Sprache.",
+        "Einer Legende nach entstand dieses mystische\nPokémon, als einst neun Zauberer mit heiligen\nKräften zu einem verschmolzen.",
+        "Man sagt, es könne bis zu 1 000 Jahre alt\nwerden. Mit mystischen Kräften kontrolliert es\ndas Feuer und brät sich damit seine Beute.",
+        "Dieses Pokémon ist sehr rachsüchtig. Wer\nseinen Groll provoziert, den verfolgt bis in seine\nNachkommenschaft ein tausendjähriger Fluch.",
+        "Ein höchst intelligentes Pokémon. Es speit\nzuckende Flammen aus dem Mund, um seine\nBeute vor dem Angriff zu hypnotisieren.",
+        "Einer Sage nach ist Vulnona die Wiedergeburt\nder Seelen von neun edlen Zauberern, die\nmiteinander verschmolzen sind.",
+        "Einer Sage nach ist Vulnona die Wiedergeburt\nder Seelen von neun edlen Zauberern, die\nmiteinander verschmolzen sind.",
+        "Man sagt, es lebe 1 000 Jahre und jedem seiner\nSchweife wohnen übernatürliche Kräfte inne.",
+        "Dieses Pokémon ist intelligent, aber rachsüchtig.\nWer zum Spaß einen seiner Schweife ergreift,\nkann sich einen tausendjährigen Fluch einhandeln."
+    ],
+    "height": 1.1,
+    "id": 38,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "name": "Vulnona",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 19.9
+}

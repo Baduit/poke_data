@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il vit au plus profond de l’océan. Il attire sa proie en illuminant\nles motifs de ses quatre nageoires.",
+        "Il rampe au fond de l’océan grâce\naux nageoires de son torse.\nLe Lanturn est son rival.",
+        "Il rampe au fond de l’océan grâce\naux nageoires de son torse.\nLe Lanturn est son rival.",
+        "Il vit au plus profond de l’océan. Il attire sa proie en\nilluminant les motifs de ses quatre nageoires.",
+        "Pour éviter de se faire voir par ses ennemis, il rampe\nau fond de l’eau grâce aux nageoires sur son torse.",
+        "Pour éviter de se faire voir par ses ennemis, il rampe au fond\nde l’eau grâce aux nageoires sur son torse.",
+        "Il attire ses proies en émettant de la lumière,\nmais à son grand dam, cela attire aussi ses\nprédateurs : les Pokémon poissons carnassiers.",
+        "Ce Pokémon des profondeurs vit tout au fond\nde l’océan. Il rampe à l’aide de ses nageoires\nventrales et cherche les Staross dont il raffole.",
+        "La nourriture étant très rare dans les abysses\nmarins, Luminéon doit souvent se disputer\nses précieuses proies avec Lanturn.",
+        "Il se déplace en rampant dans les profondeurs\nde l’océan. Ses nageoires brillent telles des\nétoiles dans le ciel nocturne."
+    ],
+    "height": 1.2,
+    "id": 457,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "name": "Luminéon",
+    "types": [
+        "Eau"
+    ],
+    "weight": 24.0
+}

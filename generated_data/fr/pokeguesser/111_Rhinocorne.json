@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ses puissantes charges pourraient\ndémolir n’importe quel bâtiment.\nDommage qu’il soit stupide.",
+        "Ses puissantes charges pourraient\ndémolir n’importe quel bâtiment.\nDommage qu’il soit stupide.",
+        "Costaud mais pas très intelligent, ce Pokémon est\ncapable de détruire un immeuble entier en utilisant\nsa Charge.",
+        "Ses petites jambes ne lui permettent pas de tourner\nfacilement. Il ne peut charger que tout droit.",
+        "Rhinocorne charge droit devant lui, détruisant tout sur\nson passage. Il ne s’arrête jamais, même lorsqu’il charge\nun bloc d’acier. Malgré tout, il sent la douleur le lendemain.",
+        "Le cerveau de Rhinocorne est tout petit, à tel point que\nlorsqu’il attaque, il lui arrive d’oublier pourquoi il a commencé\nà charger. Il lui arrive de se souvenir qu’il a démoli certaines\nchoses.",
+        "Un Pokémon obstiné. S’il se met à charger,\nil s’arrête uniquement quand il s’endort.",
+        "Un Pokémon obstiné. S’il se met à charger,\nil s’arrête uniquement quand il s’endort.",
+        "Costaud, mais pas très intelligent, ce Pokémon\nest capable de détruire un immeuble entier\nen fonçant dessus.",
+        "Il ne peut se souvenir que d’une chose à la fois.\nS’il se met à courir, il en oublie tout de suite\nla raison."
+    ],
+    "height": 1.0,
+    "id": 111,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "name": "Rhinocorne",
+    "types": [
+        "Sol",
+        "Roche"
+    ],
+    "weight": 115.0
+}

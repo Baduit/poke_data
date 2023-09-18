@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Le teste che ha sugli arti non hanno cervello.\nDistrugge e divora qualsiasi cosa usando tutte\ne tre le teste.",
+        "È davvero terrificante. Reagisce a ogni cosa che\nsi muove, attaccandola e sbranandola con le sue\ntre teste.",
+        "Le teste che ha sugli arti non hanno cervello. Distrugge\ne divora qualsiasi cosa usando tutte e tre le teste.",
+        "È davvero terrificante. Reagisce a ogni cosa che si muove,\nattaccandola e sbranandola con le sue tre teste.",
+        "Azzanna tutto ciò che si muove. Sono molte\nle storie che narrano di villaggi rasi al suolo\nda questo Pokémon.",
+        "Le sue tre teste si alternano nel mordere e\nnon cessa i suoi attacchi fino a quando\nl’avversario non ha più energie."
+    ],
+    "height": 1.8,
+    "id": 635,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "name": "Hydreigon",
+    "types": [
+        "Buio",
+        "Drago"
+    ],
+    "weight": 160.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "當牠旋轉自己的身體時，\n會發出太陽般的光芒，\n讓敵人的眼睛暫時失明。",
+        "太陽能量是力量的來源，\n所以在白天裡很強。\n旋轉時身體會發光。"
+    ],
+    "height": 1.2,
+    "id": 338,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "name": "太陽岩",
+    "types": [
+        "岩石",
+        "超能力"
+    ],
+    "weight": 154.0
+}

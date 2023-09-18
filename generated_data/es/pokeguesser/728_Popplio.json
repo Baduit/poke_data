@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se le conoce por su diligencia y predisposición.\nSegrega agua por la nariz para hinchar globos\ncon los que golpea a sus rivales.",
+        "Maneja con soltura los globos de agua que crea,\npero, para poder hacer uno bien grande,\nnecesita practicar sin descanso.",
+        "Gracias al entrenamiento diario al que se\nsomete, es capaz de inflar burbujas cada vez\nmás grandes a través de la nariz.",
+        "Monta sobre las burbujas de agua para realizar\ngrandes saltos. Su estilo de combate es\nbastante acrobático.",
+        "Crea unos globos especiales muy elásticos que\nhieren al rival al estallar.",
+        "Entrena con ahínco a diario hasta que por fin es\ncapaz de crear globos de un tamaño y eficacia\nadecuados."
+    ],
+    "height": 0.4,
+    "id": 728,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "name": "Popplio",
+    "types": [
+        "Agua"
+    ],
+    "weight": 7.5
+}

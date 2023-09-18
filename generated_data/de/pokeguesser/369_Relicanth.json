@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "100 Millionen Jahre lang blieb es unverändert.\nEs wurde bei einer Tiefsee-Tauchexpedition entdeckt.",
+        "Tiefseeforscher fanden dieses seltene Pokémon,\ndas sich in 100 Millionen Jahren nicht verändert hat.",
+        "Relicanth ist eine Pokémon-Art, die seit 100 Millionen Jahren\nexistiert, ohne jemals ihre Form zu verändern. Dieses\nprähistorische Pokémon hat ein zahnloses Maul und ernährt\nsich von Mikroorganismen.",
+        "Relicanth ist eine seltene Art, die auf einer\nTiefsee-Expedition entdeckt wurde. Dieses Pokémon\nhält dem enormen Wasserdruck des Ozeans stand.\nSein Körper ist mit steinharten Schuppen bedeckt.",
+        "Relicanth existiert seit 100 Millionen Jahren in\nunveränderter Form. Dank seines Körperfetts\nhält es dem Wasserdruck der Tiefsee stand.",
+        "Es wurde zufällig auf einer Tiefsee-Expedition\nentdeckt. Es ernährt sich von Mikroorganismen,\ndie es mit seinem zahnlosen Maul einsaugt.",
+        "Es galt als ausgestorben. Der Name Relicanth\nist eine Abwandlung des Namens seines\nEntdeckers.",
+        "Seine seit 100 Millionen Jahren unveränderte\nGestalt wird als Zeichen dafür gesehen, dass\nes eine vollendete Lebensform ist.",
+        "Dank seiner steinharten Schuppen und mit\nFett gefüllten Schwimmblasen kann es dem\nWasserdruck der Tiefsee standhalten.",
+        "Es wurde auf einer Tiefsee-Expedition entdeckt.\nMan nennt es ein „lebendes Fossil“, da es sich\nseit 100 Millionen Jahren nicht verändert hat."
+    ],
+    "height": 1.0,
+    "id": 369,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+    "name": "Relicanth",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 23.4
+}

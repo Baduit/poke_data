@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Il fixe sa cuillère d’argent afin de\nconcentrer son esprit et d’émettre\nun maximum d’ondes alpha.",
+        "Il fixe sa cuillère d’argent afin de\nconcentrer son esprit et d’émettre\nun maximum d’ondes alpha.",
+        "Son pouvoir psychique émet des ondes alpha qui\nbrouillent les appareils électroniques.",
+        "En utilisant ses pouvoirs, il émet des ondes alpha et\ncause des distorsions électroniques.",
+        "Kadabra émet une onde alpha si particulière qu’elle vous\ndonne mal à la tête. Seuls les gens avec un psychisme\npuissant peuvent espérer devenir Dresseur de ce Pokémon.",
+        "Kadabra tient une cuiller en argent dans la main. Elle est\nutilisée pour amplifier les ondes alpha de son cerveau.\nSans elle, on raconte que ce Pokémon ne peut utiliser que\nla moitié de ses pouvoirs télékinétiques.",
+        "Certains pensent que lorsqu’un enfant humain\ntélépathe perd le contrôle de ses pouvoirs\npsychiques, il devient un Kadabra.",
+        "Lorsqu’un Kadabra se trouve à proximité d’un\nécran, une télé par exemple, une ombre sinistre\ndont la vision porte malheur traverse l’image.",
+        "Il fixe sa cuiller d’argent pour concentrer son\nénergie psychique avant de la libérer, mais\nil ne peut rien faire avec une cuiller en or.",
+        "Son esprit est doté d’impressionnantes\nfacultés, mais elles sont diminuées de moitié\ns’il n’a pas de cuiller d’argent.",
+        "Sa présence cause des évènements étranges,\ncomme des horloges tournant à l’envers.",
+        "Sa présence cause des évènements étranges,\ncomme des horloges tournant à l’envers.",
+        "Ses pouvoirs psychiques lui permettent de léviter\nen dormant. Il utilise alors sa queue très souple\ncomme un oreiller.",
+        "Incroyablement doué en télékinésie, il concentre\nson énergie psychique dans l’étoile sur son front\nen prévision de son évolution."
+    ],
+    "height": 1.3,
+    "id": 64,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "name": "Kadabra",
+    "types": [
+        "Psy"
+    ],
+    "weight": 56.5
+}

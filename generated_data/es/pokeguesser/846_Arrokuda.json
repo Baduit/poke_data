@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Se siente muy orgulloso de su afilada mandíbula.\nEn cuanto detecta el más mínimo movimiento,\nva directo al objetivo para cargar contra él.",
+        "Cuando tiene el estómago lleno, le cuesta\nmoverse y corre el riesgo de ser engullido por\nalgún Cramorant."
+    ],
+    "height": 0.5,
+    "id": 846,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+    "name": "Arrokuda",
+    "types": [
+        "Agua"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Al almacenar mucha electricidad, desprende chispas de\nuna claridad increíble entre sus dos cuernos.",
+        "Toca a su enemigo con las puntas de sus dos colas\ny le suelta una descarga de más de 20 000 voltios.",
+        "Al almacenar mucha electricidad, desprende chispas de una\nclaridad increíble entre sus dos cuernos.",
+        "Toca a su enemigo con las puntas de sus dos colas y le\nsuelta una descarga de más de 20 000 voltios.",
+        "Toca a su enemigo con la punta de sus colas\ny le suelta una descarga de alta tensión que lo\ndeja achicharrado al instante.",
+        "Al exaltarse, se golpea con ímpetu el pecho.\nCada vez que lo hace saltan chispas y un\ntrueno resuena por la zona.",
+        "Agarra sus colas para electrificar los puños y\nluego soltar puñetazos devastadores.",
+        "La electricidad que genera un solo Electivire es\nsuficiente para cubrir la demanda energética de\nlos edificios de una metrópoli durante un año.",
+        "La cantidad de electricidad que genera es\nproporcional a su pulso. Al enzarzarse en\ncombate, su voltaje aumenta drásticamente.",
+        "Es de los Pokémon de tipo Eléctrico que más\nelectricidad producen. Genera una corriente\nde alta tensión desde las puntas de las colas."
+    ],
+    "height": 1.8,
+    "id": 466,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "name": "Electivire",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 138.6
+}

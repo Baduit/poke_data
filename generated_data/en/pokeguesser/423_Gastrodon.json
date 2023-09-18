@@ -1,0 +1,33 @@
+{
+    "descriptions": [
+        "It has a pliable body without any\nbones. If any part of its body is\ntorn off, it grows right back.",
+        "It apparently had a huge shell for\nprotection in ancient times.\nIt lives in shallow tidal pools.",
+        "Long ago, its entire back was\nshielded with a sturdy shell. There\nare traces of it left in its cells.",
+        "When its natural enemy attacks,\nit oozes purple fluid and escapes.",
+        "When its natural enemy attacks,\nit oozes purple fluid and escapes.",
+        "Long ago, its entire back was\nshielded with a sturdy shell. There\nare traces of it left in its cells.",
+        "Long ago, its entire back was\nshielded with a sturdy shell. There\nare traces of it left in its cells.",
+        "Long ago, its entire back was\nshielded with a sturdy shell. There\nare traces of it left in its cells.",
+        "Long ago, its entire back was\nshielded with a sturdy shell. There\nare traces of it left in its cells.",
+        "When its natural enemy attacks, it oozes purple\nfluid and escapes.",
+        "It apparently had a huge shell for protection in\nancient times. It lives in shallow tidal pools.",
+        "When its natural enemy attacks, it oozes purple\nfluid and escapes.",
+        "It apparently had a huge shell for protection in\nancient times. It lives in shallow tidal pools.",
+        "It has strong regenerative capabilities. Even if\nparts of it are bitten off by fish Pokémon, it will\nreturn to normal within a few hours.",
+        "Plankton, invisible to the naked eye, is its main\nfood source. It comes onto the land periodically,\nbut the reason for this is not known.",
+        "Long ago, it had a shell on its back. There’s now\na vestigial plate on its back that’s hard but thin.",
+        "Their shape and color change, depending on\ntheir environment and diet. There are many of\nthem at beaches where the waves are calm.",
+        "Its search for food sometimes leads it onto land,\nwhere it leaves behind a sticky trail of slime as it\npasses through.",
+        "The softness of its body helps disperse the force\nof impacts, so although its body is uncommonly\nsquishy, it’s also surprisingly resilient.",
+        "Eats beach sand for nourishment. Should one Gastrodon\nencounter another of a different color, a fierce battle will inevitably ensue."
+    ],
+    "height": 0.9,
+    "id": 423,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "name": "Gastrodon",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "weight": 29.9
+}

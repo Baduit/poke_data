@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il ne produit qu’une perle durant\nson existence. On raconte qu’elle\namplifie les pouvoirs psychiques.",
+        "Il ne produit qu’une perle durant\nson existence. On raconte qu’elle\namplifie les pouvoirs psychiques.",
+        "Il ne produit qu’une perle durant son existence,\nquand il évolue. Elle amplifie les pouvoirs psychiques.",
+        "Ce Pokémon ferme sa coquille pour se protéger du\ndanger. Il ne crée qu’une seule perle de toute sa vie,\nmais celle-ci est magnifique.",
+        "La puissante coquille de Coquiperl ne sert pas qu’à\nle protéger. Elle lui permet également de pincer et\nd’attraper sa proie. Une coquille de Coquiperl adulte\nporte souvent de nombreuses égratignures et éraflures.",
+        "Coquiperl grandit protégé par sa coquille dure comme de la\npierre. Lorsque son corps devient trop grand pour sa coquille,\ncela signifie que ce Pokémon va bientôt évoluer.",
+        "Malgré les apparences, c’est un carnivore qui\nattrape sa proie avec sa coquille et l’immobilise\njusqu’à ce qu’elle ne se débatte plus.",
+        "La perle de Coquiperl est tellement précieuse\nqu’elle peut valoir plus de dix fois la valeur\nde celle de Kokiyas."
+    ],
+    "height": 0.4,
+    "id": 366,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+    "name": "Coquiperl",
+    "types": [
+        "Eau"
+    ],
+    "weight": 52.5
+}

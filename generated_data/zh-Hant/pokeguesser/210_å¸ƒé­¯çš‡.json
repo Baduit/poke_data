@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "發達的下顎和沉重的牙齒\n是牠的武器。只要不惹牠生氣，\n就不太會咬人哦。",
+        "比布魯更加膽小。\n與外表之間的反差萌很受歡迎，\n在年輕女性中人氣很高。",
+        "下顎的力量很強，\n但因為生性不喜歡鬥爭，\n所以很少有展露的機會。",
+        "雖然很受年輕女性歡迎，\n但牠不但膽小而且個性纖細，\n以看門狗來說一點用都沒有。"
+    ],
+    "height": 1.4,
+    "id": 210,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "name": "布魯皇",
+    "types": [
+        "妖精"
+    ],
+    "weight": 48.7
+}

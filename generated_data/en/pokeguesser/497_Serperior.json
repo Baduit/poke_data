@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "It can stop its opponents’\nmovements with just a glare. It takes\nin solar energy and boosts it internally.",
+        "They raise their heads to intimidate\nopponents but only give it their all\nwhen fighting a powerful opponent.",
+        "It only gives its all against strong\nopponents who are not fazed by the\nglare from Serperior’s noble eyes.",
+        "It only gives its all against strong\nopponents who are not fazed by the\nglare from Serperior’s noble eyes.",
+        "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes.",
+        "It can stop its opponents’ movements with just a\nglare. It takes in solar energy and boosts\nit internally.",
+        "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior’s\nnoble eyes.",
+        "It can stop its opponents’ movements with just a\nglare. It takes in solar energy and boosts\nit internally."
+    ],
+    "height": 3.3,
+    "id": 497,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+    "name": "Serperior",
+    "types": [
+        "Grass"
+    ],
+    "weight": 63.0
+}

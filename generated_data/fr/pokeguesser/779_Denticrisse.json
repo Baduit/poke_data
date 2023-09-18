@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Lorsqu’il utilise l’appendice sur sa tête pour\nprojeter ses pouvoirs psychiques, il émet un\nbruit aussi irritant qu’un grincement de dents.",
+        "Il engourdit ses proies grâce à sa force mentale\navant de les dévorer avec ses grosses dents.\nIl peut briser les Kokiyas sans problème.",
+        "Enfoui dans le sable, il projette ses pouvoirs\npsychiques via l’appendice qu’il a sur la tête,\net scanne les environs en attendant sa proie.",
+        "Sa peau est si épaisse que même les épines\nde Vorastérie ne peuvent la percer. Il les croque\nbruyamment grâce à ses dents solides."
+    ],
+    "height": 0.9,
+    "id": 779,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "name": "Denticrisse",
+    "types": [
+        "Eau",
+        "Psy"
+    ],
+    "weight": 19.0
+}

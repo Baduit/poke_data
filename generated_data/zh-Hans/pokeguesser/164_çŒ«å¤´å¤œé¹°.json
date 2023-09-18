@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "即便是在黑暗里，它的眼睛也能\n看得一清二楚，不会放过任何猎物。\n所以也被称为黑夜帝王。",
+        "头倒转过来就表示它非常烦恼。\n如果这时去惊动它，就会被啄。",
+        "双眼有着特殊的构造，只要有\n些微的光线，即使在黑暗中\n也能看得像白天一样清楚。",
+        "开始思考事情时，\n会将脖子旋转１８０度，\n以此提高大脑的工作效率。"
+    ],
+    "height": 1.6,
+    "id": 164,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "name": "猫头夜鹰",
+    "types": [
+        "一般",
+        "飞行"
+    ],
+    "weight": 40.8
+}

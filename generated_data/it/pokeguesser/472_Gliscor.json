@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sta appeso ai rami con la testa in giù. Alla prima\noccasione, si butta a capofitto sulla preda.",
+        "Vola senza far rumore. Afferra le prede con la lunga\ncoda e perfora il loro punto vitale con i canini.",
+        "Sta appeso ai rami con la testa in giù. Alla prima occasione,\nsi butta a capofitto sulla preda.",
+        "Vola senza far rumore. Afferra le prede con la lunga coda\ne perfora il loro punto vitale con i canini."
+    ],
+    "height": 2.0,
+    "id": 472,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "name": "Gliscor",
+    "types": [
+        "Terra",
+        "Volante"
+    ],
+    "weight": 42.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "It lives hidden within thicket shadows.\nWhen predators attack, it quickly bristles the fur\ncovering its body in an effort to threaten them.",
+        "The beaks of bird Pokémon can’t begin\nto scratch its stalwart body.\nTo defend itself, it spews powder.",
+        "It lives hidden within thicket shadows.\nWhen predators attack, it quickly bristles the fur\ncovering its body in an effort to threaten them.",
+        "The beaks of bird Pokémon can’t begin\nto scratch its stalwart body.\nTo defend itself, it spews powder."
+    ],
+    "height": 0.3,
+    "id": 665,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+    "name": "Spewpa",
+    "types": [
+        "Bug"
+    ],
+    "weight": 8.4
+}

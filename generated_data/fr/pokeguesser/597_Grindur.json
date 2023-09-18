@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quand il sent un danger, il réagit en\nprojetant toutes ses épines d’un coup\net s’enfuit en roulant sur lui-même.",
+        "Il s’accroche aux parois des grottes\nà l’aide de ses épines et absorbe les\nminéraux contenus dans la roche.",
+        "Quand il sent un danger, il réagit en projetant toutes\nses épines d’un coup et s’enfuit en roulant sur\nlui-même.",
+        "Il s’accroche aux parois des grottes et en absorbe\nles minéraux. Il projette ses épines en cas de danger.",
+        "Quand il sent un danger, il réagit en projetant toutes\nses épines d’un coup et s’enfuit en roulant sur lui-même.",
+        "Il s’accroche aux parois des grottes et en absorbe\nles minéraux. Il projette ses épines en cas de danger.",
+        "Il se protège en projetant ses épines,\nmais il lui faut beaucoup d’entraînement\npour réussir à tirer dans une direction précise.",
+        "Il aime les grottes pleines de mousse.\nLes enzymes contenues dans ces plantes l’aident\nà obtenir des épines grandes et solides."
+    ],
+    "height": 0.6,
+    "id": 597,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "name": "Grindur",
+    "types": [
+        "Plante",
+        "Acier"
+    ],
+    "weight": 18.8
+}

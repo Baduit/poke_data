@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si nutre di terra. Dopo aver divorato una montagna\nintera, si addormenta per poter crescere.",
+        "Nasce nelle profondità del sottosuolo. Dopo aver\ndivorato la terra circostante emerge in superficie e\ndiventa crisalide.",
+        "Larvitar nasce nelle viscere della terra. Per emergere\nin superficie deve farsi strada inghiottendo la terra che\nlo ostacola. Larvitar non può vedere il volto dei propri\ngenitori finché non emerge.",
+        "Larvitar nasce nelle viscere della terra. Per emergere\nin superficie deve farsi strada inghiottendo la terra che\nlo ostacola. Larvitar non può vedere il volto dei propri\ngenitori finché non emerge.",
+        "Nasce sottoterra e risale in superficie verso i\ngenitori mangiando la terra lungo il cammino.\nDetesta la luce, che trova troppo abbagliante.",
+        "Cresce assorbendo nutrimento dal terreno.\nDopo aver divorato una quantità di terra\npari a una montagna, diventa crisalide.",
+        "Nasce nelle profondità del sottosuolo.\nDopo aver divorato la terra circostante\nemerge in superficie e diventa crisalide.",
+        "Si nutre di terra. Dopo aver divorato una\nmontagna intera, si addormenta per poter\ncrescere."
+    ],
+    "height": 0.6,
+    "id": 246,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "name": "Larvitar",
+    "types": [
+        "Roccia",
+        "Terra"
+    ],
+    "weight": 72.0
+}

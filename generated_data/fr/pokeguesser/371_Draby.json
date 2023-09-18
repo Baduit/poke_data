@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il rêve de pouvoir voler un jour.\nPour l’heure, il s’entraîne en\nsautant du haut des falaises.",
+        "Il rêve de pouvoir voler un jour.\nPour l’heure, il s’entraîne en\nsautant du haut des falaises.",
+        "Il réduit en miettes les plus gros rochers grâce à\nson cou musculeux et à sa tête dure comme l’acier.",
+        "Il rêve de pouvoir voler un jour. Pour l’heure,\nil s’entraîne en sautant du haut des falaises.",
+        "Draby rêve de pouvoir un jour s’élancer dans les cieux.\nBien que voué à l’échec, ce Pokémon se jette des falaises\npour essayer de voler. À force, sa tête est devenue\naussi dure que de l’acier.",
+        "Draby rêve depuis toujours de voler au milieu des nuages.\nCe Pokémon éclate d’énormes rochers avec sa tête, comme\npour exorciser le fait qu’il ne puisse pas voler.",
+        "Sa lubie de voler lui viendrait d’une information\ncontenue dans ses gènes.",
+        "Il charge sans distinction tout ce qui l’entoure,\ndistribuant allègrement les coups de tête.\nIl extériorise ainsi son stress de ne pas voler.",
+        "Il est jaloux des Pokémon oiseaux. Dès qu’il en\nvoit un voler, il donne des coups de tête dans\ntous les sens et détruit tout sur son passage.",
+        "Selon certaines théories, il donne des coups\nde tête pour stimuler les cellules qui lui\npermettent d’évoluer.",
+        "Tous les jours, il se jette du haut d’une falaise\npour renforcer son corps, dans l’espoir de\npouvoir voler un jour.",
+        "La tête de ce Pokémon solitaire est si solide\nqu’il est capable de fendre en deux un rocher\nd’un seul coup."
+    ],
+    "height": 0.6,
+    "id": 371,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "name": "Draby",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 42.1
+}

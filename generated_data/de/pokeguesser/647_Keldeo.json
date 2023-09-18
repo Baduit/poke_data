@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es kann auf dem Wasser laufen und reist auf\nFlüssen und Meeren um die Welt. Zu sehen in\nmalerischen Küstengebieten.",
+        "Ist es sich seiner Sache sicher, strotzt es vor Kraft\nund seine Sprünge werden zu schnell für die\nmenschliche Wahrnehmung.",
+        "Es kann auf dem Wasser laufen und reist auf Flüssen und\nMeeren um die Welt. Zu sehen in malerischen Küstengebieten.",
+        "Ist es sich seiner Sache sicher, strotzt es vor Kraft und seine\nSprünge werden zu schnell für die menschliche Wahrnehmung.",
+        "Kobalium, Terrakium und Viridium haben ihm das\nKämpfen beigebracht. Nun reist es um die Welt\nund setzt sein Training fort.",
+        "Man sagt, wenn Keldeo schwere Kämpfe\nübersteht und das Horn an seiner Stirn stärker\nwird, erwache irgendwann seine wahre Kraft."
+    ],
+    "height": 1.4,
+    "id": 647,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "name": "Keldeo",
+    "types": [
+        "Wasser",
+        "Kampf"
+    ],
+    "weight": 48.5
+}

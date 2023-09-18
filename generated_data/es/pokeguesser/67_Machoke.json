@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Su musculoso cuerpo es tan fuerte que usa un cinto\nantifuerza para controlar sus movimientos.",
+        "Puede levantar un gran camión con una mano. Utiliza\nsu fuerza para ayudar a la gente.",
+        "Los entrenados músculos de Machoke son tan fuertes como el\nacero. Este Pokémon es tan fuerte que puede levantar con un\nsolo dedo a un luchador de sumo.",
+        "Machoke realiza sesiones de culturismo todos los días.\nDe entrenamiento le sirven también las veces que ayuda a\nla gente en tareas de esfuerzo físico. En sus días libres, va\nal campo o a la montaña para hacer más ejercicio.",
+        "Posee una fuerza extraordinaria, obtenida a\ntravés de un tenaz entrenamiento. Utiliza su\nfuerza para ayudar a las personas.",
+        "Ayuda a las personas cuyos trabajos requieren\nmucha fuerza, ya que esto le sirve de\nentrenamiento para fortalecer sus músculos.",
+        "Cuando encuentra un rival realmente formidable,\nse quita el cinturón que restringe su energía y\ncombate con todas sus fuerzas.",
+        "Su escultural figura lo convierte en un modelo\nideal para artistas del cincel, a los que su\nperfecta musculatura embelesa sin remisión.",
+        "El cinto antifuerza que lleva puesto limita sus\nmovimientos. Sin él, resultaría imparable.",
+        "El cinto antifuerza que lleva puesto limita sus\nmovimientos. Sin él, resultaría imparable.",
+        "Su musculoso cuerpo es tan fuerte que usa un\ncinto antifuerza para controlar sus movimientos.",
+        "Tiene una complexión tan fuerte que nunca se\ncansa. Suele ayudar a la gente a cargar objetos\npesados."
+    ],
+    "height": 1.5,
+    "id": 67,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "name": "Machoke",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 70.5
+}

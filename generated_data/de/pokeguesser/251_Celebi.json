@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Dieses Pokémon reist durch Zeit und Raum.\nBäume und Wiesen wuchern, wenn es in der Nähe ist.",
+        "Es kann durch die Zeit reisen, aber es erscheint nur\nzu friedlichen Zeiten.",
+        "Dieses Pokémon kommt aus der Zukunft und ist durch die\nZeit gereist. Solange Celebi auftaucht, ist der Menschheit\nangeblich eine rosige Zukunft beschieden.",
+        "Dieses Pokémon kommt aus der Zukunft und ist durch die\nZeit gereist. Solange Celebi auftaucht, ist der Menschheit\nangeblich eine rosige Zukunft beschieden.",
+        "Es kann durch die Zeit reisen und findet in\nAufzeichnungen aus verschiedenen Zeitaltern\nals „Hüter des Waldes“ Erwähnung.",
+        "Dieses Pokémon kommt aus der Zukunft und ist\ndurch die Zeit gereist. Es heilt Wunden und\nspendet Pflanzen Kraft."
+    ],
+    "height": 0.6,
+    "id": 251,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "name": "Celebi",
+    "types": [
+        "Psycho",
+        "Pflanze"
+    ],
+    "weight": 5.0
+}

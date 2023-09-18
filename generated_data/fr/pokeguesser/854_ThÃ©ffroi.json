@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "On raconte que ce Pokémon est né lorsqu’une\nâme esseulée a plongé dans un reste de thé noir\nfroid.",
+        "Il élit domicile dans des tasses de thé anciennes\nde grand renom. Parmi celles-ci se trouvent\nde nombreuses contrefaçons."
+    ],
+    "height": 0.1,
+    "id": 854,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "name": "Théffroi",
+    "types": [
+        "Spectre"
+    ],
+    "weight": 0.2
+}

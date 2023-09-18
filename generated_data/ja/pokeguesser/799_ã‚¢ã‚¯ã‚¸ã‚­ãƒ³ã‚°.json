@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "山を　喰らい　削り　ビルを\n飲みこむ　姿が　報告　された。\nウルトラビーストの　一種。",
+        "危険生物　ビーストの　一種。\nつねに　なにかを　喰らっているようだが\nなぜか　フンは　未発見。",
+        "この世界では　異質で　危険だが\n本来　棲んでいる　世界では\n普通に　見かける　生物らしい。",
+        "ＵＢと　呼ばれる　未知の　生命。\n常に　腹を　すかせているのか\nずっと　なにかを　喰らっている。"
+    ],
+    "height": 5.5,
+    "id": 799,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "name": "アクジキング",
+    "types": [
+        "あく",
+        "ドラゴン"
+    ],
+    "weight": 888.0
+}

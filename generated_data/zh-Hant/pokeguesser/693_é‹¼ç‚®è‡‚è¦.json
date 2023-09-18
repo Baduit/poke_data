@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "會將吸入體內的水\n壓縮之後發射出去，威力足以\n在厚厚的鐵板上打穿一個洞。",
+        "右臂的肉非常緊實飽滿。\n脫落下來的鉗子會被\n當成食材外銷到海外。",
+        "能夠利用巨大鉗子的\n觸角探測獵物的位置，\n然後發射水砲彈。",
+        "右臂是能夠發射海水\n砲彈的大砲。威力之強，\n甚至能夠擊沉油輪。"
+    ],
+    "height": 1.3,
+    "id": 693,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "name": "鋼炮臂蝦",
+    "types": [
+        "水"
+    ],
+    "weight": 35.3
+}

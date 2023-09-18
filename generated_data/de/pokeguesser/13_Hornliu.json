@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es lebt bevorzugt in Wäldern und in hohem Gras.\nAuf dem Kopf trägt es einen circa 5 cm langen,\nspitzen, giftigen Stachel.",
+        "Sein Giftstachel ist gefährlich. Sein hellleuchtender\nKörper soll Feinde abschrecken.",
+        "Hornliu verfügt über einen ausgezeichneten Geruchssinn.\nSo kann es seine Lieblingsblätter von denen unterscheiden,\ndie es nicht mag, indem es mit seiner großen roten Nase\ndaran schnuppert.",
+        "Hornliu verfügt über einen ausgezeichneten Geruchssinn.\nEs ist in der Lage, seine Lieblingsblätter von denen zu\nunterscheiden, die es nicht mag, indem es mit seinem großen\nroten Rüssel daran schnuppert.",
+        "Auf seinem Kopf befindet sich ein spitzer\nStachel. Es versteckt sich im hohen Gras\nsowie in Wäldern und frisst eifrig Blätter.",
+        "Auf seinem Kopf befindet sich ein spitzer\nStachel. Es versteckt sich im hohen Gras\nsowie in Wäldern und frisst eifrig Blätter."
+    ],
+    "height": 0.3,
+    "id": 13,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "name": "Hornliu",
+    "types": [
+        "Käfer",
+        "Gift"
+    ],
+    "weight": 3.2
+}

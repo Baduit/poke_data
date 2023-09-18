@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Ein außerirdischer Virus kam mit einem Meteor auf\ndie Erde. Seine DNA mutierte. So entstand Deoxys.",
+        "Deoxys ist ein außerirdisches Virus, das zu einem\nPokémon mutierte. Es erscheint in der Nähe von\nAuroras.",
+        "Die DNS eines Weltraumvirus hat eine spontane Mutation\nerfahren, da sie einem Laserstrahl ausgesetzt wurde.\nDaraus entstand Deoxys. Das kristallartige Organ auf\nder Brust dieses Pokémon ist sein Gehirn.",
+        "Deoxys ging aus einem Virus aus dem Weltraum hervor.\nEs ist sehr intelligent und nutzt psychokinetische Energie.\nDieses Pokémon verschießt Laserstrahlen aus einem\nkristallartigen Organ auf seinem Brustkorb."
+    ],
+    "height": 1.7,
+    "id": 386,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "name": "Deoxys",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 60.8
+}

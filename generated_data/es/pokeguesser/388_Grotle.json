@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Vive en los bosques cerca del agua. Por el día, sale a\nque les dé el sol a las plantas de su espalda.",
+        "Sabe dónde encontrar manantiales de agua pura y\nlleva a los Pokémon amigos hasta allí en su lomo.",
+        "Vive en los bosques cerca del agua. Por el día, sale a que les\ndé el sol a las plantas de su espalda.",
+        "Sabe dónde encontrar manantiales de agua pura y lleva a\nlos Pokémon amigos hasta allí en su lomo."
+    ],
+    "height": 1.1,
+    "id": 388,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+    "name": "Grotle",
+    "types": [
+        "Planta"
+    ],
+    "weight": 97.0
+}

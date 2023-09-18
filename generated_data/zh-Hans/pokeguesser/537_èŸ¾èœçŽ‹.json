@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "通过震动全身的瘤，\n引发地震般的晃动。\n与不良蛙是相近的物种。",
+        "在老年人之间广受欢迎。\n因为他们觉得它身上的瘤\n发出的震动拿来按摩刚刚好。"
+    ],
+    "height": 1.5,
+    "id": 537,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+    "name": "蟾蜍王",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 62.0
+}

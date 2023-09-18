@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Questo Pokémon leggendario può riempire il mondo\ndi fulmini e saette. Aiuta chi vuole costruire un mondo\nideale.",
+        "Produce elettricità con la coda. Vola nei cieli di\nUnima nascosto fra lampi e saette.",
+        "Questo Pokémon leggendario può riempire il mondo di fulmini\ne saette. Aiuta chi vuole costruire un mondo ideale.",
+        "Produce elettricità con la coda. Vola nei cieli di Unima\nnascosto fra lampi e saette.",
+        "Quando l’interno della sua coda inizia a girare\ncome una turbina, emette lampi e saette che\nsquarciano l’aria tutta intorno.",
+        "Secondo le leggende, può radere al suolo\nun intero paese con fulmini terribili se i suoi\nabitanti hanno perso il senso della giustizia."
+    ],
+    "height": 2.9,
+    "id": 644,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "name": "Zekrom",
+    "types": [
+        "Drago",
+        "Elettro"
+    ],
+    "weight": 345.0
+}

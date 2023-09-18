@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es entsteht aus der Vereinigung einer in der Welt\nder Lebenden gefangenen Seele mit einem Kürbis.\nEs wird erst nach Sonnenuntergang aktiv.",
+        "Man sagt, es führe verlorene Seelen dem Ende ihres\nrastlosen irdischen Wandelns entgegen und geleite sie\nsicher ins Jenseits.",
+        "Es entsteht aus der Vereinigung einer in der Welt der\nLebenden gefangenen Seele mit einem Kürbis. Es wird erst\nnach Sonnenuntergang aktiv.",
+        "Man sagt, es führe verlorene Seelen dem Ende ihres\nrastlosen irdischen Wandelns entgegen und geleite sie\nsicher ins Jenseits.",
+        "Verlorene Seelen, die in der Welt der Lebenden\ngefangen sind, finden in seinem Körper Platz,\num ihre Reise ins Jenseits anzutreten.",
+        "Blicken Menschen und Pokémon in das Licht, das\naus den Löchern seines Kürbisses dringt, werden\nsie hypnotisiert und von Irrbis kontrolliert."
+    ],
+    "height": 0.4,
+    "id": 710,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "name": "Irrbis",
+    "types": [
+        "Geist",
+        "Pflanze"
+    ],
+    "weight": 5.0
+}

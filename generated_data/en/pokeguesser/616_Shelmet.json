@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "When attacked, it defends itself by\nclosing the lid of its shell. It can spit\na sticky, poisonous liquid.",
+        "It evolves when bathed in an\nelectric-like energy along with\nKarrablast. The reason is still unknown.",
+        "When it and Karrablast are together,\nand both receive electrical stimulation,\nthey both evolve.",
+        "When it and Karrablast are together,\nand both receive electrical stimulation,\nthey both evolve.",
+        "When it and Karrablast are together, and both\nreceive electrical stimulation, they both evolve.",
+        "It evolves when bathed in an electric-like energy\nalong with Karrablast. The reason is still unknown.",
+        "When it and Karrablast are together, and both\nreceive electrical stimulation, they both evolve.",
+        "It evolves when bathed in an electric-like energy\nalong with Karrablast. The reason is still unknown.",
+        "When attacked, it tightly shuts the lid of its shell.\nThis reaction fails to protect it from Karrablast,\nhowever, because they can still get into the shell.",
+        "It has a strange physiology that responds to\nelectricity. When together with Karrablast,\nShelmet evolves for some reason."
+    ],
+    "height": 0.4,
+    "id": 616,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "name": "Shelmet",
+    "types": [
+        "Bug"
+    ],
+    "weight": 7.7
+}

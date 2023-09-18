@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Una moltitudine di liane brulicanti, in crescita perenne,\nne ricopre il corpo celandone la vera forma.",
+        "Intrappola nelle liane qualsiasi cosa si muova. Il lieve\nmovimento di queste può fare il solletico.",
+        "Se afferrate, le liane di Tangela si staccano con facilità,\nma in modo indolore, consentendo così una pratica\nscappatoia. Le liane cadute vengono sostituite da quelle\nnuove il giorno dopo.",
+        "Se afferrate, le liane di Tangela si staccano con facilità,\nma in modo indolore, consentendo così una pratica\nscappatoia. Le liane cadute vengono sostituite da quelle\nnuove il giorno dopo.",
+        "È coperto da una massa di liane blu che non\nsmettono mai di crescere. Nessuno sa quale\nsia il suo vero aspetto.",
+        "È coperto da una massa di liane blu che non\nsmettono mai di crescere. Nessuno sa quale\nsia il suo vero aspetto.",
+        "Non è ancora chiaro quale sia il vero aspetto\ncelato dietro alle sue liane, che crescono\nall’infinito anche dopo essere state recise.",
+        "Le sue liane emanano un odore peculiare.\nIn alcune zone di Galar vengono usate come\nerbe aromatiche."
+    ],
+    "height": 1.0,
+    "id": 114,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "name": "Tangela",
+    "types": [
+        "Erba"
+    ],
+    "weight": 35.0
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "I nemici che guardano la luce lampeggiante emessa\ndal suo corpo rimangono abbagliati e perdono il loro\nspirito combattivo.",
+        "Fa lampeggiare i motivi sul suo corpo in una sequenza\nipnotica per far perdere lo spirito combattivo ai nemici,\nriuscendo così a fuggire.",
+        "I nemici che guardano la luce lampeggiante emessa dal suo\ncorpo rimangono abbagliati e perdono il loro spirito\ncombattivo.",
+        "Fa lampeggiare i motivi sul suo corpo in una sequenza ipnotica\nper far perdere lo spirito combattivo ai nemici, riuscendo così\na fuggire.",
+        "Attira a sé la preda con luci lampeggianti\nper poi immobilizzarla avvinghiandola con\ni suoi tentacoli.",
+        "Scambia informazioni con i suoi simili facendo\nlampeggiare i motivi sul suo corpo in sequenze\ncomplesse.",
+        "Gira su se stesso facendo lampeggiare i motivi\nche ha sul corpo. Comunica con i suoi simili\nemettendo segnali luminosi.",
+        "Fa perdere ai nemici lo spirito combattivo\ngrazie alla luce lampeggiante che emette\ndal suo corpo e ne approfitta per scappare."
+    ],
+    "height": 0.4,
+    "id": 686,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "name": "Inkay",
+    "types": [
+        "Buio",
+        "Psico"
+    ],
+    "weight": 3.5
+}

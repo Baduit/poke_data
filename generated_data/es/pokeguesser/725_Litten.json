@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Prende las bolas de pelo que se forman en su\nestómago tras acicalarse. Las llamas que\nescupe tienen formas variopintas.",
+        "A este Pokémon le encanta la vida en solitario y\nno expresa nunca sus emociones. Se necesita\nmuchísimo tiempo para ganarse su confianza.",
+        "Detesta que lo acaricien demasiado, aunque lo\nhagan sus seres queridos. En caso de sentirse\nagobiado se recluye en sí mismo.",
+        "Muda el pelo dos veces al año. Cuando llega el\nmomento, su cuerpo arde y le prende fuego al\npelaje viejo.",
+        "Se acicala lamiéndose constantemente. Prende\nlas bolas de pelo acumuladas en el estómago y\nlas usa para ejecutar movimientos de tipo Fuego.",
+        "Quien trate de acariciarlo antes de ganarse su\nplena confianza se arriesga a comprobar de\nprimera mano lo afiladas que están sus garras."
+    ],
+    "height": 0.4,
+    "id": 725,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+    "name": "Litten",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 4.3
+}

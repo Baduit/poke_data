@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "会喷出带毒的孢子。\n如果不马上把它洗掉，\n那里就会长出蘑菇来哦。",
+        "平常一般不太动。\n只是一动不动地待在\n掉落于地面的精灵球旁边。"
+    ],
+    "height": 0.6,
+    "id": 591,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "name": "败露球菇",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 10.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "会粘在巨翅飞鱼身上，\n吃一点残羹剩饭。如果巨翅飞鱼\n受到袭击，它就会与其一同战斗。",
+        "它又被称为海洋狙击手。\n即便是１００米开外的猎物，\n它射出的水枪也一定能够命中。",
+        "从嘴里喷出的水\n连１００米外的\n活动猎物都能命中。",
+        "会用变成吸盘状的背鳍\n吸附在巨翅飞鱼身上，\n让它分一点吃剩的东西给自己吃。"
+    ],
+    "height": 0.6,
+    "id": 223,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+    "name": "铁炮鱼",
+    "types": [
+        "水"
+    ],
+    "weight": 12.0
+}

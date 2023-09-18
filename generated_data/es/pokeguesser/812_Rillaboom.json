@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Controla los poderes y las raíces de su singular\ntocón en combate golpeándolo como si fuera\nun tambor.",
+        "El percusionista con la técnica más depurada se\nconvierte en líder. Son de carácter tranquilo y\ndan mucha importancia a la armonía del grupo."
+    ],
+    "height": 2.1,
+    "id": 812,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "name": "Rillaboom",
+    "types": [
+        "Planta"
+    ],
+    "weight": 90.0
+}

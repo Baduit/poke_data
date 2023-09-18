@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Su campo visual es de 360° sin girar la cabeza.\nDetecta hasta las presas que están a su espalda.",
+        "Si aletea muy rápido, genera ondas expansivas\ncapaces de hacer añicos todas las ventanas próximas.",
+        "Yanma tiene un ángulo de visión de 360° sin mover los ojos.\nEs un gran volador, experto en hacer repentinas paradas y\ncambios de dirección en el aire. Aprovecha la habilidad que\ntiene de volar para lanzarse sobre su presa.",
+        "Yanma tiene un ángulo de visión de 360° sin mover los ojos.\nEs un gran volador, experto en hacer repentinas paradas y\ncambios de dirección en el aire. Aprovecha la habilidad que\ntiene de volar para lanzarse sobre su presa."
+    ],
+    "height": 1.2,
+    "id": 193,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
+    "name": "Yanma",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 38.0
+}

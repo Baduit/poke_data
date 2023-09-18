@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Als verfaulter Seetang getarnt, lauert es auf Beute und\nbespritzt alles und jeden, der sich ahnungslos nähert,\nmit flüssigem Gift, bevor es ihm den Rest gibt.",
+        "Mit seinem an verfaulten Seetang erinnernden\nAussehen führt es den Gegner in die Irre, während\nes selbst Energie zur Weiterentwicklung speichert.",
+        "Als verfaulter Seetang getarnt, lauert es auf Beute und\nbespritzt alles und jeden, der sich ahnungslos nähert,\nmit flüssigem Gift, bevor es ihm den Rest gibt.",
+        "Mit seinem an verfaulten Seetang erinnernden Aussehen\nführt es den Gegner in die Irre, während es selbst Energie\nzur Weiterentwicklung speichert.",
+        "Es versteckt sich regungslos zwischen Algen,\num Angriffe von großen Pokémon zu vermeiden.\nVerfaulter Seetang ist seine bevorzugte Speise.",
+        "Es wickelt sich um treibende Algenfetzen, da es\nein schlechter Schwimmer ist. In Alola sieht man\nes oft Seite an Seite mit Moruda.",
+        "Es treibt versteckt zwischen Algen durchs Meer.\nNähert sich ein Pokémon, um diese zu essen,\nwird es von Algitt erledigt und verspeist.",
+        "Da es wie verfaulter Seetang aussieht, versteckt\nes sich zwischen den im Meer treibenden Algen,\num sich den Blicken seiner Feinde zu entziehen."
+    ],
+    "height": 0.5,
+    "id": 690,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "name": "Algitt",
+    "types": [
+        "Gift",
+        "Wasser"
+    ],
+    "weight": 7.3
+}

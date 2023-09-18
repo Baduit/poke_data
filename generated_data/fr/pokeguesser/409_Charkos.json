@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Quand deux Charkos se rentrent\ndedans, leur crâne extrêmement\népais les empêche de s’assommer.",
+        "Quand deux Charkos se rentrent\ndedans, leur crâne extrêmement\népais les empêche de s’assommer.",
+        "À force de cogner son crâne pourtant hyper résistant,\nCharkos a un cerveau atrophié.",
+        "Son crâne est dur comme du fer. Cette brute abat\ndes arbres quand elle chasse sa proie dans la jungle.",
+        "À force de cogner son crâne pourtant hyper résistant,\nCharkos a un cerveau atrophié.",
+        "Son crâne est dur comme du fer. Cette brute abat des arbres\nquand elle chasse sa proie dans la jungle.",
+        "À force d’enchaîner les coups de tête, sa calotte\ncrânienne s’est épaissie. Son cerveau a donc dû\nrétrécir et il est plus petit que celui du Kranidos.",
+        "Des rapports font état d’un Charkos qui, après\nreconstitution et évolution, aurait pris la fuite en\ndémolissant un gratte-ciel d’un coup de tête.",
+        "Il y a bien longtemps, les hommes fabriquaient\ndes casques plus solides que l’acier à partir de\ncrânes de Charkos fossilisés.",
+        "Pokémon préhistorique célèbre pour ses coups\nde tête puissants et son petit cerveau, son\nextinction serait due à son extrême bêtise."
+    ],
+    "height": 1.6,
+    "id": 409,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "name": "Charkos",
+    "types": [
+        "Roche"
+    ],
+    "weight": 102.5
+}

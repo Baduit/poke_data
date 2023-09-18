@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Gracias a su entrenada musculatura, puede blandir\nvigas de acero sin problema para así derribar edificios\nenteros.",
+        "Sus músculos están tan desarrollados que no se\ninmuta aunque lo ataquen varios luchadores.",
+        "Gracias a su entrenada musculatura, puede blandir vigas de\nacero sin problema para así derribar edificios enteros.",
+        "Sus músculos están tan desarrollados que no se inmuta\naunque lo ataquen varios luchadores.",
+        "A menudo realiza competiciones de fuerza con\nsus congéneres y con los Machoke. El perdedor\ndebe pasar un tiempo sin dejarse ver.",
+        "Blande vigas de acero con gran destreza, pero la\nconstrucción no se le da muy bien; de hecho, su\nespecialidad es la demolición."
+    ],
+    "height": 1.2,
+    "id": 533,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "name": "Gurdurr",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 40.0
+}

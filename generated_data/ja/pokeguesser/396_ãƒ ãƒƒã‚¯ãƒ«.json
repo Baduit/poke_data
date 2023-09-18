@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "たくさんの　群れで　行動する。\n体は　小さいが\n羽ばたく　力は　非常に　強い。",
+        "むしポケモンを　ねらって　野山を\n大勢の　群れで　飛び回る。\n鳴き声が　とても　やかましい。",
+        "たくさんの　群れで　行動する。\n体は　小さいが\n羽ばたく　力は　非常に　強い。",
+        "むしポケモンを　ねらって　野山を\n大勢の　群れで　飛び回る。\n鳴き声が　とても　やかましい。"
+    ],
+    "height": 0.3,
+    "id": 396,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "name": "ムックル",
+    "types": [
+        "ノーマル",
+        "ひこう"
+    ],
+    "weight": 2.0
+}

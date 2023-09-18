@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Ses oreilles repliées se déroulent\navec une force capable de briser\nun gros rocher.",
+        "Ses oreilles repliées se déroulent\navec une force capable de briser\nun gros rocher.",
+        "Ses oreilles repliées se déroulent avec une force\ncapable de briser un gros rocher.",
+        "Il dresse les oreilles quand il sent un danger.\nIl dort la tête dans sa fourrure pendant les nuits\nfroides.",
+        "Ses oreilles repliées se déroulent avec une force capable de\nbriser un gros rocher.",
+        "Il dresse les oreilles quand il sent un danger. Il dort la tête\ndans sa fourrure pendant les nuits froides.",
+        "Il possède peu de force dans ses membres,\nmais il lui suffit de déplier son oreille comme\nun ressort pour réduire un rocher en poussière.",
+        "S’il a toujours une oreille repliée, c’est pour être\nà même de contre-attaquer dès qu’un ennemi\ntente de s’en prendre à lui.",
+        "Quand ses deux oreilles sont repliées, c’est\nsigne qu’il ne se sent pas bien physiquement\nou mentalement et qu’il a besoin de soins.",
+        "Plus il s’entraîne, plus les coups qu’il assène\nen déroulant vigoureusement ses oreilles\ngagnent en puissance."
+    ],
+    "height": 0.4,
+    "id": 427,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "name": "Laporeille",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.5
+}

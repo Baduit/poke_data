@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Su estrategia consiste en postrarse ante el rival y\nfingir una disculpa para ensartarlo con el mechón\nque tiene en la espalda, afilado cual lanza.",
+        "De noche, atrae con astucia a su objetivo hasta\nel bosque. Al parecer, tiene la capacidad de\nhacer crecer productos agrícolas."
+    ],
+    "height": 0.8,
+    "id": 860,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+    "name": "Morgrem",
+    "types": [
+        "Siniestro",
+        "Hada"
+    ],
+    "weight": 12.5
+}

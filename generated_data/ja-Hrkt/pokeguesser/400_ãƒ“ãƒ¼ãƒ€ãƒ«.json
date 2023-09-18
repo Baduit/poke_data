@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "するどい　まえばで　けずりとった\nきのえだや　ねっこを　つみあげて\nみずべに　せっせと　すを　つくる。",
+        "かわを　きのみきや　どろの　ダムで\nせきとめて　すみかを　つくる。\nはたらきものとして　しられている。",
+        "するどい　まえばで　けずりとった\nきのえだや　ねっこを　つみあげて\nみずべに　せっせと　すを　つくる。",
+        "かわを　きのみきや　どろの　ダムで\nせきとめて　すみかを　つくる。\nはたらきものとして　しられている。"
+    ],
+    "height": 1.0,
+    "id": 400,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+    "name": "ビーダル",
+    "types": [
+        "ノーマル",
+        "みず"
+    ],
+    "weight": 31.5
+}

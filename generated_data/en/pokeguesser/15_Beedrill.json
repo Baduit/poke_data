@@ -1,0 +1,39 @@
+{
+    "descriptions": [
+        "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly.",
+        "Flies at high\nspeed and attacks\nusing its large\fvenomous stingers\non its forelegs\nand tail.",
+        "Flies at high\nspeed and attacks\nusing its large\fvenomous stingers\non its forelegs\nand tail.",
+        "It has 3 poisonous\nstingers on its\nforelegs and its\ftail. They are\nused to jab its\nenemy repeatedly.",
+        "It can take down\nany opponent with\nits powerful poi­\fson stingers. It\nsometimes attacks\nin swarms.",
+        "It has three\npoison barbs.\nThe barb on its\ftail secretes the\nmost powerful\npoison.",
+        "It uses sharp,\npoisonous stings\nto defeat prey,\fthen takes the\nvictim back to its\nnest for food.",
+        "BEEDRILL is extremely territorial.\nNo one should ever approach its nest -\nthis is for their own safety.\fIf angered, they will attack in a furious\nswarm.",
+        "BEEDRILL is extremely territorial.\nNo one should ever approach its nest -\nthis is for their own safety.\fIf angered, they will attack in a furious\nswarm.",
+        "A BEEDRILL is extremely territorial.\nFor safety reasons, no one should \never approach its nest. If angered,\nthey will attack in a swarm.",
+        "May appear in a swarm. Flies at violent\nspeeds, all the while stabbing with the\ntoxic stinger on its rear.",
+        "It flies at high speed and attacks using \nthe large venomous stingers on its\nforelegs and tail.",
+        "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+        "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+        "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+        "It can take down any opponent with\nits powerful poison stingers.\nIt sometimes attacks in swarms.",
+        "It has three poison barbs.\nThe barb on its tail secretes the\nmost powerful poison.",
+        "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+        "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+        "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+        "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+        "May appear in a swarm. Flies at violent speeds,\nall the while stabbing with the toxic stinger on\nits rear.",
+        "Beedrill is extremely territorial. No one should ever approach\nits nest—this is for their own safety. If angered, they will attack\nin a furious swarm.",
+        "Beedrill is extremely territorial. No one should ever approach\nits nest—this is for their own safety. If angered, they will attack\nin a furious swarm.",
+        "It has three poisonous stingers on its\nforelegs and its tail. They are used to jab\nits enemy repeatedly.",
+        "It has three poisonous stingers on its\nforelegs and its tail. They are used to jab\nits enemy repeatedly."
+    ],
+    "height": 1.0,
+    "id": 15,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "name": "Beedrill",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 29.5
+}

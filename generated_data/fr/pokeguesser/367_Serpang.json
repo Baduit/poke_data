@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il vit loin sous la mer. Il appâte\nles proies crédules avec sa queue\nqui rappelle un petit poisson.",
+        "Il vit loin sous la mer. Il appâte\nles proies crédules avec sa queue\nqui rappelle un petit poisson.",
+        "Il vit dans les abysses, là où la lumière ne va jamais.\nIl allume le bout de sa queue, qui ressemble à un\npoisson, pour attirer ses proies.",
+        "Il vit loin sous la mer. Il appâte les proies crédules\navec sa queue qui rappelle un petit poisson.",
+        "L’existence de Serpang fut longtemps ignorée, car il vit\ndans les profondeurs abyssales des océans. Les yeux\nde ce Pokémon sont excellents et peuvent même voir\nà travers les eaux troubles des grandes profondeurs.",
+        "La queue de Serpang est en forme de poisson. Il l’utilise pour\nattirer sa proie qu’il avale en une fois grâce à sa bouche\nbéante. Ce Pokémon nage en tortillant son corps comme\nun serpent.",
+        "Ce piètre nageur se sert de sa queue pour\nappâter ses proies. Il les gobe si elles\napprochent de trop près.",
+        "Il habite dans les profondeurs de l’océan.\nUn Serpang trouvé sur la plage serait\nun mauvais présage."
+    ],
+    "height": 1.7,
+    "id": 367,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+    "name": "Serpang",
+    "types": [
+        "Eau"
+    ],
+    "weight": 27.0
+}

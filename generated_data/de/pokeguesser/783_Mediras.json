@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Mit einem Kampfschrei stürzt es sich auf seine\nBeute und reißt sie mithilfe seiner Schuppen in\nkleine Stücke.",
+        "Seine Schuppen wachsen sehr schnell nach.\nJede neue Schuppe ist härter und schärfer\nals die vorherige.",
+        "Es lässt seine Schuppen erklingen, indem es sie\naneinanderschlägt. Wenn der Rhythmus seinen\nHöhepunkt erreicht, geht es zum Angriff über.",
+        "Seine abgefallenen Schuppen lassen sich zu\nTöpfen oder Pfannen verarbeiten, welche Hitze\ngut übertragen und einfach zu verwenden sind.",
+        "Für sie sind zerschmetterte Schuppen und Narben\nTrophäen, die sie besiegten Gegnern nach dem\nKampf voller Stolz zeigen.",
+        "Bevor es angreift, rasselt es mit den Schuppen\nund stößt einen Kampfschrei aus. Dann reißt es\nden Gegner mit seinen scharfen Klauen in Stücke."
+    ],
+    "height": 1.2,
+    "id": 783,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "name": "Mediras",
+    "types": [
+        "Drache",
+        "Kampf"
+    ],
+    "weight": 47.0
+}

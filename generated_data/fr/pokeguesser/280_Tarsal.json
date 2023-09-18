@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quand ses cornes captent les ondes\npositives d’un Pokémon ou d’un\nhumain, son corps se réchauffe.",
+        "Quand ses cornes captent les ondes\npositives d’un Pokémon ou d’un\nhumain, son corps se réchauffe.",
+        "Quand ses cornes captent les ondes positives d’un\nPokémon ou d’un humain, son corps se réchauffe.",
+        "Il est très sensible aux émotions des gens et\ndes Pokémon. Il se cache au moindre signe\nd’hostilité.",
+        "Tarsal ressent les émotions des gens grâce à ses cornes.\nCe Pokémon se montre rarement, mais il arrive qu’il s’approche\nd’une personne s’il la sent dans un état d’esprit positif.",
+        "Tarsal a le pouvoir de ressentir les émotions des gens.\nSi son Dresseur est d’humeur joyeuse, ce Pokémon devient\nlui aussi gai et enjoué.",
+        "Il est très sensible aux émotions des gens\net des Pokémon. Il se cache au moindre\nsigne d’hostilité.",
+        "Quand ses cornes rouges captent les ondes\npositives d’un Pokémon ou d’un humain,\ntout son corps se réchauffe."
+    ],
+    "height": 0.4,
+    "id": 280,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "name": "Tarsal",
+    "types": [
+        "Psy",
+        "Fée"
+    ],
+    "weight": 6.6
+}

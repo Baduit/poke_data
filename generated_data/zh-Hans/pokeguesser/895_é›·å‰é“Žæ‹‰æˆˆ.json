@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "有一种未经证实的学术说法\n认为它手臂的形状\n是古代龙宝可梦的头，",
+        "整个身体是龙之能量的\n结晶。据说它拥有\n所有龙宝可梦的能力。"
+    ],
+    "height": 2.1,
+    "id": 895,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+    "name": "雷吉铎拉戈",
+    "types": [
+        "龙"
+    ],
+    "weight": 200.0
+}

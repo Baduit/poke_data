@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Los huevos que pone están llenos de felicidad. Solo\ncon probar un poquito de uno, cualquiera sonríe.",
+        "Este amable Pokémon cuida de Pokémon enfermos y\nlos sana. Puede percibir la tristeza.",
+        "Blissey es capaz de sentir la tristeza a través del sedoso\npelaje. Si detecta que alguien está apenado, irá hasta donde\nesté y compartirá un Huevo Suerte para devolverle la sonrisa.",
+        "Blissey es capaz de sentir la tristeza a través del sedoso\npelaje. Si detecta que alguien está apenado, irá hasta donde\nesté y compartirá un Huevo Suerte para devolverle la sonrisa.",
+        "Se dice que los huevos de Blissey están llenos\nde felicidad y que un solo bocado puede calmar\nhasta al más feroz de los Pokémon.",
+        "Con su sedoso pelaje, que funciona como un\nsensor, puede detectar los sentimientos de los\nPokémon y las personas.",
+        "Se dice que los huevos de Blissey están tan\nricos que dan la felicidad a quien los prueba.\nPor eso alcanzan precios exorbitantes.",
+        "Un Pokémon que rebosa amor y del que se dice\nque solo puede evolucionar de un Chansey que\nesté muy unido a su Entrenador.",
+        "Si se encuentra un Pokémon enfermo, comparte\nsu huevo con él y lo cuida hasta que se recupera.",
+        "Pone unos extraños huevos llenos de felicidad.\nDicen que aquellos que los prueban se vuelven\namables con todo el mundo."
+    ],
+    "height": 1.5,
+    "id": 242,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "name": "Blissey",
+    "types": [
+        "Normal"
+    ],
+    "weight": 46.8
+}

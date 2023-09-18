@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "El espíritu guardián de Melemele, curioso e\ninquisitivo. Invoca nubes de tormenta y acumula\nel poder de los rayos en su cuerpo.",
+        "Su endiablada velocidad aturde por completo al\nenemigo. Pese a su extrema irascibilidad, olvida\nrápidamente el motivo de su enfado.",
+        "Aunque se le considera un espíritu guardián,\nobra también como espíritu vengativo contra\nlas personas y Pokémon que desatan su ira.",
+        "El espíritu guardián de Melemele, capaz de\nblandir el rayo. Su eterna curiosidad le lleva\na veces a mostrarse ante las personas."
+    ],
+    "height": 1.8,
+    "id": 785,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "name": "Tapu Koko",
+    "types": [
+        "Eléctrico",
+        "Hada"
+    ],
+    "weight": 20.5
+}

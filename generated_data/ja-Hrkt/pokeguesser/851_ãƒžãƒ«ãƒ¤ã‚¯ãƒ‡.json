@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "はつねつじの　たいおんは　およそ\n８００ど。　からだを　ムチのように\nしならせて　とびかかってくるぞ。",
+        "こうげきてきな　せいしつ。\nやけた　からだも　きけんだが\nおおきな　キバも　するどいぞ。"
+    ],
+    "height": 3.0,
+    "id": 851,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "name": "マルヤクデ",
+    "types": [
+        "ほのお",
+        "むし"
+    ],
+    "weight": 120.0
+}

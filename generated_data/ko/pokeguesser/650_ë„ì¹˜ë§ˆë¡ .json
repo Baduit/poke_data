@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "머리의 가시는 평소에는 부드럽지만\n힘을 주면 뾰족하고 날카로워지며\n바위를 뚫어 버릴 정도로 단단해진다.",
+        "머리와 등이 단단한 껍데기로\n덮여 있기 때문에 트럭이\n부딪혀와도 아무렇지 않다.",
+        "머리의 가시는 평소에는 부드럽지만\n힘을 주면 뾰족하고 날카로워지며\n바위를 뚫어 버릴 정도로 단단해진다.",
+        "머리와 등이 단단한 껍데기로\n덮여 있기 때문에 트럭이\n부딪혀와도 아무렇지 않다."
+    ],
+    "height": 0.4,
+    "id": 650,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+    "name": "도치마론",
+    "types": [
+        "풀"
+    ],
+    "weight": 9.0
+}

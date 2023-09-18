@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "殼內好像塞滿了許多幸福，\n據說只要溫柔地對待牠，\n牠就會把幸運分給對方。",
+        "好運的象徵。\n據說在牠的殼裡\n裝著滿滿的幸福。"
+    ],
+    "height": 0.3,
+    "id": 175,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+    "name": "波克比",
+    "types": [
+        "妖精"
+    ],
+    "weight": 1.5
+}

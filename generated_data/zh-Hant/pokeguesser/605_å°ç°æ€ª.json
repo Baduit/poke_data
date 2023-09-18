@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "操縱著驚人的精神力量。\n大部分目擊到外星人的消息\n都是把小灰怪錯看成外星人了。",
+        "據說是大約５０年前從\n墜落到地上的ＵＦＯ中出現。\n是充滿未解之謎的寶可夢。",
+        "當牠站在電視機旁邊時，\n畫面上會出現奇怪的景色。\n據說那是牠的故鄉。",
+        "在大約５０年前被發現的寶可夢。\n會用又大又發達的大腦\n來操縱精神力量。"
+    ],
+    "height": 0.5,
+    "id": 605,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "name": "小灰怪",
+    "types": [
+        "超能力"
+    ],
+    "weight": 9.0
+}

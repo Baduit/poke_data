@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "逃跑时吐出来的墨汁很特别。\n里面有着能让嗅觉变迟钝的成分，\n连鼻子灵敏的宝可梦也能迷惑。",
+        "岩洞是它主要的栖身之所。\n章鱼桶吐出的漆黑墨汁\n还会被当成制作料理时的食材。",
+        "有着爱钻洞的习性。\n会抢夺其他宝可梦筑的\n巢穴，在里面睡觉。",
+        "有着结实的坚硬脑袋。\n会用带吸盘的脚缠住对手，\n然后再一个劲地用头猛撞。"
+    ],
+    "height": 0.9,
+    "id": 224,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "name": "章鱼桶",
+    "types": [
+        "水"
+    ],
+    "weight": 28.5
+}

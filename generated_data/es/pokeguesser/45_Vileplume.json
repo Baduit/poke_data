@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida.",
+        "Tiene los pétalos más grandes del mundo. Estos\nexpulsan densas nubes de polen tóxico al caminar.",
+        "El polen que contienen las esporas tóxicas de Vileplume causa\nunos ataques de alergia muy agudos. Por eso, no es\naconsejable acercarse a ninguna flor selvática, por muy bonita\nque sea.",
+        "Vileplume tiene los mayores pétalos del mundo. Los usa para\natraer a sus presas y llenarlas de esporas tóxicas. Una vez\nque ha inmovilizado a las víctimas, las atrapa y las devora.",
+        "Sacude sus enormes pétalos para propagar\npolen venenoso, lo cual provoca un verdadero\nestruendo.",
+        "Sacude sus enormes pétalos para propagar\npolen venenoso, lo cual provoca un verdadero\nestruendo.",
+        "Tiene los pétalos más grandes del mundo. Al\ncaminar, de ellos se desprenden densas nubes\nde polen tóxico.",
+        "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida."
+    ],
+    "height": 1.2,
+    "id": 45,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "name": "Vileplume",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 18.6
+}

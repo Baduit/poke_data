@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Man geht davon aus, dass dieses Pokémon vor\n300 Millionen Jahren die Strände bevölkerte.",
+        "Dieses Pokémon wurde aus dem Fossil einer\naltertümlichen Kreatur geschaffen. Es schützt sich\nmittels eines harten Panzers.",
+        "Kabuto ist ein Pokémon, das aus einem Fossil reproduziert\nwurde. Höchst selten wurden lebende Exemplare dieser Art\nentdeckt. Dieses Pokémon hat sich seit 300 Millionen Jahren\nüberhaupt nicht verändert.",
+        "Kabuto ist ein Pokémon, das aus einem Fossil reproduziert\nwurde. Höchst selten wurden lebende Exemplare dieser Art\nentdeckt. Dieses Pokémon hat sich seit 300 Millionen Jahren\nüberhaupt nicht verändert.",
+        "Kabuto erlebte seine Blütezeit vor 300 Millionen\nJahren. Doch in einer bestimmten Region gibt es\nangeblich noch einige lebende Exemplare.",
+        "Dieses Pokémon ist überall ausgestorben, mit\nAusnahme einer bestimmten Region. Es schützt\nsich mit einem harten Panzer.",
+        "Es wurde aus einem Fossil zurückverwandelt.\nAus Verstecken am Meeresboden spähte es mit\nden Augen auf seinem Rücken die Gegend aus.",
+        "Es wurde aus einem Fossil zurückverwandelt.\nAus Verstecken am Meeresboden spähte es mit\nden Augen auf seinem Rücken die Gegend aus.",
+        "Dieses Pokémon ist so gut wie ausgestorben.\nSein Panzer wird immer härter, indem es sich\nalle drei Tage häutet.",
+        "Es heißt zwar, dass Kabuto ausgestorben sei,\ndoch in einer bestimmten Gegend trifft man es\nnoch relativ häufig an."
+    ],
+    "height": 0.5,
+    "id": 140,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "name": "Kabuto",
+    "types": [
+        "Gestein",
+        "Wasser"
+    ],
+    "weight": 11.5
+}

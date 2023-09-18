@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "El pelo que cubre su cuerpo proporciona una\nagradable sensación al tocarlo. No acumula ni polvo\nni electricidad estática.",
+        "El cuerpo de Cinccino está recubierto por una grasa\nespecial que hace que los golpes y ataques enemigos\nno acierten.",
+        "El pelo que cubre su cuerpo proporciona una agradable\nsensación al tocarlo. No acumula ni polvo ni electricidad\nestática.",
+        "El cuerpo de Cinccino está recubierto por una grasa especial\nque hace que los golpes y ataques enemigos no acierten.",
+        "Su níveo pelaje está recubierto de una sustancia\noleosa, secretada por su propio cuerpo, que\nhace resbalar los golpes enemigos.",
+        "La grasa que exuda por todo el cuerpo es muy\nlubrificante y altamente apreciada por las\npersonas con problemas de piel seca.",
+        "Es tan sumamente pulcro que no puede ver ni\nuna mota de polvo. La grasa que exuda por el\ncuerpo le sirve de película protectora.",
+        "Su pelaje está recubierto por una grasa especial\nque repele los ataques enemigos y por la que se\nllegan a pagar auténticas fortunas."
+    ],
+    "height": 0.5,
+    "id": 573,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "name": "Cinccino",
+    "types": [
+        "Normal"
+    ],
+    "weight": 7.5
+}

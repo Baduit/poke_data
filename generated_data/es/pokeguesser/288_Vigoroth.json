@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Su corazón palpita a un ritmo frenético, haciendo que\nsu sangre bulla, así que no puede estarse quieto ni un\nsegundo.",
+        "Si no puede estar en continuo movimiento, su nivel\nde estrés se dispara y puede llegar a enfermar.",
+        "Vigoroth está continuamente inquieto, rabiando por salir\ncorriendo sin control. Estar quieto un solo minuto es superior\na sus fuerzas. Si no puede estar en continuo movimiento, el\nnivel de estrés de este Pokémon se dispara.",
+        "A Vigoroth le resulta totalmente imposible estarse quieto.\nCuando intenta dormir, la sangre le fluye a velocidad de\nvértigo y se pone a correr por el bosque de un lado a otro\nhasta que se calma."
+    ],
+    "height": 1.4,
+    "id": 288,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "name": "Vigoroth",
+    "types": [
+        "Normal"
+    ],
+    "weight": 46.5
+}

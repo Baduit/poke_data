@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "En cas de coup de fatigue, il grignote des rameaux\npour recharger ses batteries. Ses oreilles dégagent\nune chaleur qui dépasse les 200 °C.",
+        "Il a toujours une brindille avec lui en cas de petit\ncreux. Il projette de l’air chaud par ses oreilles pour\nintimider ses ennemis.",
+        "En cas de coup de fatigue, il grignote des rameaux\npour recharger ses batteries. Ses oreilles dégagent\nune chaleur qui dépasse les 200 °C.",
+        "Il a toujours une brindille avec lui en cas de petit creux.\nIl projette de l’air chaud par ses oreilles pour intimider\nses ennemis."
+    ],
+    "height": 0.4,
+    "id": 653,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "name": "Feunnec",
+    "types": [
+        "Feu"
+    ],
+    "weight": 9.4
+}

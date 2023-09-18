@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Son instinct de survie le pousse à\nne pas se battre dans les règles.\nC’est une mascotte populaire.",
+        "Son instinct de survie le pousse à\nne pas se battre dans les règles.\nC’est une mascotte populaire.",
+        "Ses joues contiennent des glandes toxiques.\nIl attaque par surprise et utilise son toucher\nempoisonné.",
+        "Ses glandes se gonflent de venin tout en émettant\nun son effrayant, le laissant ainsi empoisonner ses\nproies pétrifiées.",
+        "Ses joues contiennent des glandes toxiques. Il attaque\npar surprise et utilise son toucher empoisonné.",
+        "Ses glandes se gonflent de venin tout en émettant un son\neffrayant, le laissant ainsi empoisonner ses proies pétrifiées.",
+        "Il intimide ses ennemis en faisant résonner\nles glandes toxiques de ses joues, puis leur\nporte un coup empoisonné par surprise.",
+        "Dilué, son poison sert de remède. Cela lui a valu\nde devenir la mascotte populaire d’une entreprise\nde produits pharmaceutiques."
+    ],
+    "height": 0.7,
+    "id": 453,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "name": "Cradopaud",
+    "types": [
+        "Poison",
+        "Combat"
+    ],
+    "weight": 23.0
+}

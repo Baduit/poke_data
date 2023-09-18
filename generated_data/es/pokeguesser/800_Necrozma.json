@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se dice que yacía en el interior de la tierra. Se\ncree que esta criatura, parecida a un Ultraente,\nvino de otro mundo hace muchísimo tiempo.",
+        "Este Ultraente parece alimentarse de luz. Posee\nun carácter muy hostil y no duda en lanzar\nrayos láser.",
+        "La luz es su fuente de energía y la busca con tal\ndesespero que da la impresión de que sufre.\nParece ser una criatura de otro mundo.",
+        "La luz es su fuente de energía. Si no absorbe la\nsuficiente, empieza a acumular impurezas que\nhacen que se quede negruzco e inmóvil.",
+        "La luz es su fuente de energía. Se volvió negro\ndebido a las impurezas acumuladas en su cuerpo\nmientras yacía en el interior de la tierra.",
+        "Con sus rayos láser destruye todo a su paso en\nbusca de luz para sustentarse."
+    ],
+    "height": 2.4,
+    "id": 800,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
+    "name": "Necrozma",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 230.0
+}

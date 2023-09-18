@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "랜드로스가 찾아온 땅에는\n작물에 열매가 많이 열리기 때문에\n농지의 신이라고 전해진다.",
+        "바람이나 번개를 거둬들여 바꾼\n에너지가 흙에 영양을\n주어 대지를 풍족하게 한다.",
+        "랜드로스가 찾아온 땅에는\n작물에 열매가 많이 열리기 때문에\n농지의 신이라고 전해진다.",
+        "바람이나 번개를 거둬들여 바꾼\n에너지가 흙에 영양을\n주어 대지를 풍족하게 한다."
+    ],
+    "height": 1.5,
+    "id": 645,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "name": "랜드로스",
+    "types": [
+        "땅",
+        "비행"
+    ],
+    "weight": 68.0
+}

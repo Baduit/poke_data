@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "对手的体型越是巨大，它就会\n喝下越多的水使身体膨胀，\n仿佛马上就要破裂一般。",
+        "全身上下的小针都是由鳞片\n变化而来的。如果被刺中的话，\n就会因中毒而昏迷。"
+    ],
+    "height": 0.5,
+    "id": 211,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "name": "千针鱼",
+    "types": [
+        "水",
+        "毒"
+    ],
+    "weight": 3.9
+}

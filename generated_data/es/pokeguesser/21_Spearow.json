@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Muy protector de su territorio, mueve sus cortas alas\nsin descanso para lanzarse a toda velocidad.",
+        "Come bichos en zonas de hierba. Agita sus cortas alas\nmuy rápido para mantenerse en el aire.",
+        "Spearow pía con tanta fuerza que se le puede oír a 1 km de\ndistancia. Si al agudo chillido le sigue una especie de eco,\nestaremos oyendo la respuesta de otros Spearow que\ncontestan ante el aviso de peligro.",
+        "Spearow pía con tanta fuerza que se le puede oír a 1 km de\ndistancia. Si al agudo chillido le sigue una especie de eco,\nestaremos oyendo la respuesta de otros Spearow que\ncontestan ante el aviso de peligro.",
+        "Sus alas cortas hacen que no se le dé muy bien\nvolar. Corretea apresuradamente, picoteando los\nPokémon insecto que se encuentre en la hierba.",
+        "Tiene un apetito voraz y come con frecuencia.\nEn las granjas crían Spearow para combatir\nplagas de Pokémon insecto.",
+        "Su temperamento temerario hace que no dude\nen enfrentarse a rivales mucho más grandes\na la hora de defender su territorio.",
+        "Sus cortas alas le impiden volar grandes\ndistancias, por lo que revolotea inquieto y\npicotea a todo Pokémon insecto que ve.",
+        "A la hora de proteger su territorio, compensa su\nincapacidad para volar a gran altura con una\nincreíble velocidad.",
+        "A la hora de proteger su territorio, compensa su\nincapacidad para volar a gran altura con una\nincreíble velocidad."
+    ],
+    "height": 0.3,
+    "id": 21,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "name": "Spearow",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 2.0
+}

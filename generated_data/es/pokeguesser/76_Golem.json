@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Se lanza montaña abajo y deja un surco desde la cima\nhasta el pie. Es mejor mantenerse alejado.",
+        "Ni siquiera la dinamita puede dañar su cuerpo rocoso.\nMuda la piel una vez al año.",
+        "Golem vive en las montañas. Si se produce un gran terremoto,\nestos Pokémon descienden rodando en masa por las laderas.",
+        "Golem es conocido por su afición a bajar de las montañas\nrodando. La gente que vive en la falda de las mismas ha\ncavado surcos para conducirlo en su descenso por las laderas\ny evitar que se cuele en sus casas.",
+        "Su robusto cuerpo puede soportar una explosión\nde dinamita sin inmutarse, pero no tolera bien ni\nla humedad ni la lluvia.",
+        "Muda su caparazón una vez al año. En muchas\ngranjas lo aprovechan, pues este se puede\nutilizar para fertilizar el suelo.",
+        "A medida que envejece, pierde la facultad de\nmudar la piel. Se han observado ejemplares de\nedad avanzada totalmente cubiertos de musgo.",
+        "Puede hacer estallar su cuerpo a voluntad. El\nimpulso que esto genera le permite ascender\na toda velocidad a la cima de las montañas.",
+        "Nada más mudar la piel, su cuerpo se vuelve\nblando y blanquecino, pero se endurece al poco\ntiempo de entrar en contacto con el aire.",
+        "Nada más mudar la piel, su cuerpo se vuelve\nblando y blanquecino, pero se endurece al poco\ntiempo de entrar en contacto con el aire."
+    ],
+    "height": 1.4,
+    "id": 76,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "name": "Golem",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 300.0
+}

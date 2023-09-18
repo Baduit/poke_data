@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Usa el pelaje de sus brazos a manera de látigos.\nSus ataques alcanzan velocidades de vértigo.",
+        "Usa el pelaje de sus brazos a modo de látigos para\nencadenar ataques que nadie puede parar una vez\niniciados.",
+        "Usa el pelaje de sus brazos a manera de látigos. Sus ataques\nalcanzan velocidades de vértigo.",
+        "Usa el pelaje de sus brazos a modo de látigos para encadenar\nataques que nadie puede parar una vez iniciados.",
+        "Ataca al rival con una rápida ráfaga de golpes,\nmientras reúne poco a poco la energía necesaria\npara asestar el golpe definitivo.",
+        "Si emite extraños aullidos, hay que extremar la\nprecaución: empezará a repartir un sinfín de\npatadas y puñetazos a una velocidad pasmosa.",
+        "Cuando se encuentra frente a un oponente de\ncategoría, se arranca parte del pelaje de los\nbrazos a mordiscos para ganar agilidad.",
+        "Sus veloces patadas, que escapan al ojo humano,\nson capaces de reducir a escombros incluso rocas\nde gran tamaño."
+    ],
+    "height": 1.4,
+    "id": 620,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "name": "Mienshao",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 35.5
+}

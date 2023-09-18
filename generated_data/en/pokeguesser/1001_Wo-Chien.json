@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+        "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+    ],
+    "height": 1.5,
+    "id": 1001,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+    "name": "Wo-Chien",
+    "types": [
+        "Dark",
+        "Grass"
+    ],
+    "weight": 74.2
+}

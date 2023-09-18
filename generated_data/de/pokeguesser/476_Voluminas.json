@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es gibt starken Magnetismus ab. Es steuert drei\nkleine Einheiten, die sich Mininasen nennen.",
+        "Es steuert drei kleine Einheiten mithilfe von\nstarkem Magnetismus. Man nennt sie Mininasen.",
+        "Es gibt starken Magnetismus ab. Es steuert drei kleine\nEinheiten, die sich Mininasen nennen.",
+        "Es steuert drei kleine Einheiten mithilfe von\nstarkem Magnetismus. Man nennt sie Mininasen.",
+        "Durch seinen starken Magnetismus macht es\nElektrogeräte in seiner Nähe kaputt.",
+        "Sein Körper selbst bewegt sich nicht. Um Beute\nzu fangen, steuert es drei kleine Einheiten,\ndie Mininasen genannt werden.",
+        "Es steuert kleine Einheiten, die man Mininasen\nnennt. Leider verirren sie sich manchmal, und es\nheißt, dass einige von ihnen nie wiederkehren.",
+        "Sein Körper selbst befehligt meist nur die drei\nkleinen Einheiten, die an seiner Stelle kämpfen\nund für die Nahrungssuche zuständig sind."
+    ],
+    "height": 1.4,
+    "id": 476,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "name": "Voluminas",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 340.0
+}

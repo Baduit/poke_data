@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Grazie alla folta pelliccia resiste al freddo\ned è in grado di sferrare mosse infuocate\na temperature ancora più alte.",
+        "Per perfezionare i suoi calci, si esercita\nprendendo le bacche dai rami degli alberi\ne palleggiando senza usare le mani."
+    ],
+    "height": 0.6,
+    "id": 814,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "name": "Raboot",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 9.0
+}

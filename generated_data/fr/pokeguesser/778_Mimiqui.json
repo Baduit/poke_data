@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sa véritable apparence est inconnue. Les\nchercheurs qui ont vu sous son déguisement\nsont littéralement morts de peur.",
+        "Son apparence est si effrayante qu’il doit se\ndéguiser pour oser s’approcher des gens et\ndes autres Pokémon.",
+        "Ce Pokémon docile déteste la solitude, mais\nil oppose une résistance acharnée si l’on essaie\nde jeter un coup d’œil sous son déguisement.",
+        "Une bourrasque a un jour permis à un Dresseur\nde voir sous le déguisement de Mimiqui. Il est\nmort le soir même dans d’atroces souffrances.",
+        "Il se cache sous des guenilles en forme de Pikachu\npour avoir l’air moins effrayant, mais cela le rend\nencore plus inquiétant.",
+        "Les malheureux chercheurs qui ont regardé\nsous son déguisement en lambeaux ont succombé\nà une mystérieuse maladie."
+    ],
+    "height": 0.2,
+    "id": 778,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "name": "Mimiqui",
+    "types": [
+        "Spectre",
+        "Fée"
+    ],
+    "weight": 0.7
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "No soporta los lugares sucios. Le encanta acicalarse\nel pelaje cuando está a gusto en un sitio.",
+        "Tiene mucho éxito entre las Entrenadoras por su suave\npelaje. No vive en un sitio fijo.",
+        "Delcatty prefiere llevar una vida independiente y hacer lo que\nse le antoje. Como este Pokémon come y duerme según vea\nen cada momento, no se puede decir que tenga unos hábitos\nregulares en el día a día.",
+        "Delcatty duerme en cualquier lugar sin tener que mantener el\nnido en un mismo sitio. Si otro Pokémon se le acerca mientras\nduerme, no se pondrá a luchar con él; simplemente se irá a\notro sitio."
+    ],
+    "height": 1.1,
+    "id": 301,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+    "name": "Delcatty",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.6
+}

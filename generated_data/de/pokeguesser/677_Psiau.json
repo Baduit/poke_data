@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Damit die starken Psycho-Kräfte dieses Pokémon\nnicht unkontrolliert nach außen dringen, ist das Organ,\ndas diese freisetzt, von seinen Ohren bedeckt.",
+        "Es verfügt zwar über genug Psycho-Kräfte, um Objekte\nin einem Umkreis von 100 m wegzublasen, aber es\nkann sie noch nicht gut kontrollieren.",
+        "Damit die starken Psycho-Kräfte dieses Pokémon nicht\nunkontrolliert nach außen dringen, ist das Organ, das diese\nfreisetzt, von seinen Ohren bedeckt.",
+        "Es verfügt zwar über genug Psycho-Kräfte, um Objekte in\neinem Umkreis von 100 m wegzublasen, aber es kann sie\nnoch nicht gut kontrollieren.",
+        "Sein Gesicht ist stets ausdruckslos. Grund dafür\nist die enorme Anstrengung, die es aufbringen\nmuss, um seine Psycho-Kräfte zu kontrollieren.",
+        "Mit seinen Psycho-Kräften könnte es selbst\nProfi-Wrestler vom Platz fegen. Es fällt ihm aber\nschwer, diese Kräfte zu kontrollieren."
+    ],
+    "height": 0.3,
+    "id": 677,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+    "name": "Psiau",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 3.5
+}

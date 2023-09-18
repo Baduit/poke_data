@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il est prisonnier d’une coquille\nd’acier. Ses yeux vigilants sont la\nseule partie visible de son corps.",
+        "Il est prisonnier d’une coquille\nd’acier. Ses yeux vigilants sont la\nseule partie visible de son corps.",
+        "Il est prisonnier d’une coquille d’acier. Ses yeux\nvigilants sont la seule partie visible de son corps.",
+        "Il est totalement fixé à son arbre. Il lance des\nmorceaux de sa carapace pour faire fuir son ennemi.",
+        "Foretress se cache dans sa carapace en acier trempé.\nLa carapace s’ouvre quand il attrape sa proie, mais cela se\npasse tellement vite qu’il est impossible de voir à l’intérieur.",
+        "Foretress se cache dans sa carapace en acier trempé.\nLa carapace s’ouvre quand il attrape sa proie, mais cela se\npasse tellement vite qu’il est impossible de voir à l’intérieur.",
+        "Il attaque tout ce qui s’approche d’un peu trop\nprès en lançant des morceaux de sa coquille\nd’acier. Il n’a aucun contrôle sur ce réflexe.",
+        "On ne peut voir l’intérieur de sa carapace que\nlorsqu’il engloutit sa nourriture, mais il est si\nrapide que personne n’a encore jamais réussi."
+    ],
+    "height": 1.2,
+    "id": 205,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "name": "Foretress",
+    "types": [
+        "Insecte",
+        "Acier"
+    ],
+    "weight": 125.8
+}

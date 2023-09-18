@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Dieses Pokémon jagt über das Land. Man sagt,\nin jedem neuen Vulkan wird ein Entei geboren.",
+        "Man sagt, wenn es brüllt, bricht irgendwo\nin der Welt ein Vulkan aus.",
+        "Entei verfügt über die Leidenschaft von Magma. Dieses\nPokémon wurde bei einem Vulkanausbruch geboren und\nbringt Feuersbrünste hervor, die alles auslöschen, was mit\nihnen in Kontakt kommt.",
+        "Entei verfügt über die Leidenschaft von Magma. Dieses\nPokémon wurde bei einem Vulkanausbruch geboren und\nbringt Feuersbrünste hervor, die alles auslöschen, was mit\nihnen in Kontakt kommt."
+    ],
+    "height": 2.1,
+    "id": 244,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "name": "Entei",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 198.0
+}

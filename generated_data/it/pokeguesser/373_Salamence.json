@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Quando è adirato diventa una furia. Con i suoi artigli\nlaceranti e le fiammate che lancia può distruggere\nqualsiasi cosa.",
+        "Quando è adirato diventa una furia. Volteggia nel cielo\nsputando fiamme che bruciano le campagne intorno.",
+        "Salamence rappresenta la realizzazione del sogno atavico\ne irrinunciabile di volare. Si dice che questo forte desiderio\nabbia scatenato l’improvvisa mutazione delle sue cellule,\nportando infine alla crescita di ali meravigliose.",
+        "Evolvendosi in Salamence, questo Pokémon realizza finalmente\nil suo antico sogno di volare. Per esprimere la sua gioia,\nvolteggia e turbina nel cielo sputando fiamme dalla bocca.",
+        "Se si infuria, perde completamente il controllo.\nDevasta tutto ciò che ha intorno e non si ferma\nfinché non è sfinito.",
+        "Volteggia nel cielo con le grandi ali cresciutegli\ncon l’evoluzione. Esprime la sua gioia sputando\nfiamme e bruciando le campagne che sorvola.",
+        "Esprime la sua gioia di essere finalmente in\ngrado di volare scorrazzando nel cielo e scende\na terra solo quando è sfinito e assonnato.",
+        "Il suo intenso desiderio di volare ha provocato\nuna mutazione cellulare che ha fatto nascere le\ntanto agognate ali.",
+        "Questo insolito Pokémon è riuscito a evolversi\nin una creatura dotata di ali in seguito al suo\nintenso desiderio di librarsi nel cielo.",
+        "È generalmente di buon umore e traboccante\ndi gioia per essere riuscito a volare, ma se si\narrabbia diventa una furia incontrollabile."
+    ],
+    "height": 1.5,
+    "id": 373,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "name": "Salamence",
+    "types": [
+        "Drago",
+        "Volante"
+    ],
+    "weight": 102.6
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "With its sharp fangs, it will bite anything.\nIt did not originally live in Alola but was\nimported from another region.",
+        "It wanders around in a never-ending search for\nfood. At dusk, it collapses from exhaustion and\nfalls asleep on the spot.",
+        "Its stomach takes up most of its long torso.\nIt’s a big eater, so the amount Trainers have to\nspend on its food is no laughing matter.",
+        "Although it will eat anything, it prefers fresh\nliving things, so it marches down streets\nin search of prey."
+    ],
+    "height": 0.4,
+    "id": 734,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "name": "Yungoos",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

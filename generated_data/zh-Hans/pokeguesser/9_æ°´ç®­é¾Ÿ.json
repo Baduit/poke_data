@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "一旦锁定了目标，\n它会以超越了消防\n水枪的力道来喷水。",
+        "一旦锁定了目标，\n它会以超越了消防\n水枪的力道来喷水。",
+        "身体很重，压住对手后\n就能让对手昏厥。\n遇到危险时会躲进壳里。",
+        "从龟壳上的大炮里\n放出的喷射水流\n足以贯穿厚实的铁板。"
+    ],
+    "height": 1.6,
+    "id": 9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "name": "水箭龟",
+    "types": [
+        "水"
+    ],
+    "weight": 85.5
+}

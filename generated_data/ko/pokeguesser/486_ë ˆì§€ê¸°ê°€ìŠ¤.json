@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "특수한 빙산이나 암석,\n마그마에서 자신의 모습과 닮은\n포켓몬을 만들었다고 전해진다.",
+        "밧줄로 묶은 대륙을\n당겨서 움직였다고 하는\n전설이 남아 있다.",
+        "특수한 빙산이나 암석,\n마그마에서 자신의 모습과 닮은\n포켓몬을 만들었다고 전해진다.",
+        "밧줄로 묶은 대륙을\n당겨서 움직였다고 하는\n전설이 남아 있다.",
+        "자신의 모습을 닮은\n포켓몬을 만들었다는 전설이\n온 세계에 남아 있다.",
+        "다양한 재료로 포켓몬을\n만든 후 대륙을 지금의\n장소로 이동시켰다고 전해진다."
+    ],
+    "height": 3.7,
+    "id": 486,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "name": "레지기가스",
+    "types": [
+        "노말"
+    ],
+    "weight": 420.0
+}

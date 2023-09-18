@@ -1,0 +1,43 @@
+{
+    "descriptions": [
+        "A POKéMON that\nwas resurrected\nfrom a fossil\ffound in what was\nonce the ocean\nfloor eons ago.",
+        "A POKéMON that\nwas resurrected\nfrom a fossil\ffound in what was\nonce the ocean\nfloor eons ago.",
+        "A POKéMON that was\nrecovered from a\nfossil. It uses\fthe eyes on its\nback while hiding\non the sea floor.",
+        "On rare occasions,\nsome have been\nfound as fossils\fwhich they became\nwhile hiding on\nthe ocean floor.",
+        "This POKéMON lived\nin ancient times.\nOn rare occasions,\fit has been\ndiscovered as a\nliving fossil.",
+        "Three hundred\nmillion years ago,\nit hid on the sea\ffloor. It also has\neyes on its back\nthat glow.",
+        "KABUTO is a POKéMON that has been\nregenerated from a fossil. However, in\nextremely rare cases, living examples\fhave been discovered.\nThe POKéMON has not changed at all for\n300 million years.",
+        "KABUTO is a POKéMON that has been\nregenerated from a fossil. However, in\nextremely rare cases, living examples\fhave been discovered.\nThe POKéMON has not changed at all for\n300 million years.",
+        "It is a POKéMON that has been regenerated\nfrom a fossil. However, in rare cases, living\nexamples have been discovered. KABUTO\nhave not changed for 300 million years.",
+        "This POKéMON was regenerated from the\nfossil of an ancient creature. It protects\nitself with a hard shell.",
+        "A POKéMON that was regenerated from a\nfossil found in what was once the ocean\nfloor long ago.",
+        "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell.",
+        "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell.",
+        "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell.",
+        "On rare occasions, some have been\nfound as fossils which they became\nwhile hiding on the ocean floor.",
+        "This Pokémon lived in ancient times.\nOn rare occasions, it has been\ndiscovered as a living fossil.",
+        "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell.",
+        "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell.",
+        "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell.",
+        "It is thought to have inhabited\nbeaches 300 million years ago.\nIt is protected by a stiff shell.",
+        "It is thought to have inhabited beaches 300 million\nyears ago. It is protected by a stiff shell.",
+        "This Pokémon was regenerated from the fossil of an\nancient creature. It protects itself with a hard shell.",
+        "Kabuto is a Pokémon that has been regenerated from a fossil.\nHowever, in extremely rare cases, living examples have been\ndiscovered. The Pokémon has not changed at all for\n300 million years.",
+        "Kabuto is a Pokémon that has been regenerated from a fossil.\nHowever, in extremely rare cases, living examples have\nbeen discovered. The Pokémon has not changed at all for\n300 million years.",
+        "This Pokémon thrived 300 million years ago. It’s\nsaid that living specimens can still be seen\nin a certain region—a rare sight.",
+        "This Pokémon became extinct everywhere,\nexcept in a few areas. It protects itself with its\nhard shell.",
+        "A Pokémon that was recovered from a fossil.\nIt used the eyes on its back while hiding\non the seafloor.",
+        "A Pokémon that was recovered from a fossil.\nIt used the eyes on its back while hiding\non the seafloor.",
+        "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder.",
+        "While some say this species has gone extinct,\nKabuto sightings are apparently fairly common\nin some places."
+    ],
+    "height": 0.5,
+    "id": 140,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "name": "Kabuto",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "weight": 11.5
+}

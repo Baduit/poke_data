@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Vive en regiones secas y con pocas lluvias. Una vez al\naño, le brota una flor amarilla.",
+        "Prefiere los medios hostiles como los desiertos.\nPuede sobrevivir 30 días sin beber, gracias al agua\nque almacena.",
+        "Cacnea habita en desiertos y otras zonas áridas. Para atraer\na su presa, libera un fuerte aroma por la flor y, cuando se le\nacerca, le lanza pinchos por todo el cuerpo para reducirla.",
+        "Cuanto más árido y hostil sea el hábitat de Cacnea, más\nbonita y aromática será la flor que le crece. Este Pokémon\nlucha agitando violentamente los brazos cargados de pinchos\nque tiene."
+    ],
+    "height": 0.4,
+    "id": 331,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "name": "Cacnea",
+    "types": [
+        "Planta"
+    ],
+    "weight": 51.3
+}

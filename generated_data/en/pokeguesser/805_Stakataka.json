@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It appeared from an Ultra Wormhole. Each one\nappears to be made up of many life-forms\nstacked one on top of each other.",
+        "When stone walls started moving and attacking,\nthe brute’s true identity was this mysterious\nlife-form, which brings to mind an Ultra Beast."
+    ],
+    "height": 5.5,
+    "id": 805,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png",
+    "name": "Stakataka",
+    "types": [
+        "Rock",
+        "Steel"
+    ],
+    "weight": 820.0
+}

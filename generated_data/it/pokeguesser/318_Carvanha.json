@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "I Carvanha attaccano le navi in branco e ne strappano\ngli scafi a morsi. Abitano i fiumi della giungla.",
+        "Vive in grandi fiumi che attraversano la giungla,\nlanciandosi in branco contro gli intrusi.",
+        "Le sviluppate mascelle di Carvanha e i denti estremamente\nappuntiti e affilati hanno una potenza distruttiva tale da\nsventrare la carena di una nave. Già molte navi sono state\nattaccate e affondate da questo Pokémon.",
+        "In caso di invasione del proprio territorio, i Carvanha si\nlanciano in branco contro gli intrusi annientandoli senza\npietà. Preso singolarmente, invece, questo Pokémon diventa\nestremamente timido.",
+        "I branchi di Carvanha difendono il territorio\nlanciandosi contro gli intrusi e attaccandoli\ncon le zanne micidiali.",
+        "In gruppo, questo Pokémon attacca le prede\nappena avverte odore di sangue.\nDa solo, invece, è molto timido.",
+        "È di indole timida e non va mai a caccia da solo,\nma in un gruppo di quattro o cinque esemplari\ndiventa molto feroce.",
+        "Può frantumare una nave di legno usando le\nsue mascelle robuste e dai denti affilati.\nSi contende il cibo con i Basculin.",
+        "Se è da solo, non assale la preda.\nPreferisce aspettare i suoi compagni\nper attaccare in gruppo.",
+        "È dotato di denti affilati e mascelle robuste.\nChi viaggia per mare si tiene accuratamente\nalla larga dalle tane di Carvanha."
+    ],
+    "height": 0.8,
+    "id": 318,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "name": "Carvanha",
+    "types": [
+        "Acqua",
+        "Buio"
+    ],
+    "weight": 20.8
+}

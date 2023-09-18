@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Questo Pokémon è stato usato a lungo per ricerche\ncome forza motrice su motori speciali.",
+        "Il suo corpo è composto di plasma. È solito infiltrarsi\nnegli strumenti elettronici per provocare caos.",
+        "Questo Pokémon è stato usato a lungo per ricerche come\nforza motrice su motori speciali.",
+        "Il suo corpo è composto di plasma. È solito infiltrarsi negli\nstrumenti elettronici per provocare caos.",
+        "L’invenzione di un ragazzo ha dato l’avvio\nalla fabbricazione di vari apparecchi che\nsfruttano le caratteristiche peculiari di Rotom.",
+        "Si intrufola in diversi apparecchi con il suo corpo\ncomposto di plasma. Gli piace tanto sorprendere\nle persone."
+    ],
+    "height": 0.3,
+    "id": 479,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "name": "Rotom",
+    "types": [
+        "Elettro",
+        "Spettro"
+    ],
+    "weight": 0.3
+}

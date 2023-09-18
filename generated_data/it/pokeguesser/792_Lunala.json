@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Si dice che viva in un altro mondo.\nAssorbe la luce facendo calare le tenebre anche\nsulle giornate più luminose.",
+        "Si dice che sia l’evoluzione femminile di Cosmog.\nQuando il suo terzo occhio si manifesta, significa\nche sta volando verso un altro mondo.",
+        "In antichissimi documenti si parla di lui come\ndella “creatura che evoca la luna”.",
+        "A volte gli Ultravarchi che apre servono da\npassaggio verso il nostro mondo per forze\ne forme di vita sconosciute.",
+        "Viene chiamato “la creatura che evoca la luna”.\nConverte qualsiasi tipo di luce in energia\nper sostentarsi.",
+        "Assorbe tutta la luce che lo circonda\nper assumere la forma di una splendente\nluna piena che illumina l’oscurità notturna."
+    ],
+    "height": 4.0,
+    "id": 792,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "name": "Lunala",
+    "types": [
+        "Psico",
+        "Spettro"
+    ],
+    "weight": 120.0
+}

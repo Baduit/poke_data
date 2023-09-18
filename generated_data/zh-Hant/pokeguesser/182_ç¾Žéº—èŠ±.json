@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在南國大量生活著。\n跳舞時花瓣會互相碰觸，\n發出悅耳的聲音。",
+        "有時美麗花們會聚在一起，\n做出像是跳舞的動作。\n據說這是呼喚太陽的儀式。"
+    ],
+    "height": 0.4,
+    "id": 182,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "name": "美麗花",
+    "types": [
+        "草"
+    ],
+    "weight": 5.8
+}

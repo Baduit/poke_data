@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il vit dans le sable des déserts.\nLe sable chauffé par le soleil empêche\nson corps de refroidir.",
+        "Il se déplace dans le sable en gardant\nle nez et les yeux à découvert.\nLa membrane noire protège ses yeux.",
+        "Il se déplace dans le sable en gardant le nez et\nles yeux à découvert. La membrane noire protège\nses yeux.",
+        "Il vit dans le sable des déserts. Le sable chauffé par\nle soleil empêche son corps de refroidir.",
+        "Il se déplace dans le sable en gardant le nez et les yeux\nà découvert. La membrane noire protège ses yeux.",
+        "Il vit dans le sable des déserts. Le sable chauffé par le soleil\nempêche son corps de refroidir.",
+        "Ce Pokémon avance tapi dans le sable, une\nmanière pour lui de se cacher des prédateurs\net de maintenir sa température corporelle.",
+        "Tapi dans le sable, il attend qu’une proie passe\npour lui croquer la patte. Il a notamment un gros\nfaible pour les Kraknoix en guise d’apéritif.",
+        "Les températures tropicales d’Alola sont idéales\npour ce Pokémon, que l’on peut même parfois\nrencontrer en dehors du désert.",
+        "N’étant pas très bon chasseur, il se nourrit de\nla charogne qu’il trouve dans les dunes, ce qui\nlui vaut son surnom de « nettoyeur du désert ».",
+        "Il se protège du froid qui sévit la nuit dans\nle désert en s’enfouissant profondément dans\nle sable, où il dort jusqu’au lever du soleil.",
+        "Malgré son petit gabarit, il a beaucoup de force\ndans les pattes arrière. Il parcourt le désert\ncomme s’il nageait dans le sable."
+    ],
+    "height": 0.7,
+    "id": 551,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "name": "Mascaïman",
+    "types": [
+        "Sol",
+        "Ténèbres"
+    ],
+    "weight": 15.2
+}

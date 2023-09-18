@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es fliegt auf Wiesen umher und kümmert sich um\nwelkende Blumen. Es setzt deren geheime Kräfte frei\nund nutzt diese zum Kämpfen.",
+        "Wenn die Blumen auf einem liebevoll gepflegten\nBlumenbeet blühen, erscheint es und feiert den\nAnblick mit einem eleganten Tanz.",
+        "Es fliegt auf Wiesen umher und kümmert sich um welkende\nBlumen. Es setzt deren geheime Kräfte frei und nutzt diese\nzum Kämpfen.",
+        "Wenn die Blumen auf einem liebevoll gepflegten\nBlumenbeet blühen, erscheint es und feiert den\nAnblick mit einem eleganten Tanz.",
+        "Es kämpft mit einer Blume, die es selbst\ngezüchtet hat. Je schöner ihre Blüte, desto\nstärker die Macht, die sie birgt.",
+        "Es überträgt seine Kraft auf Blumen und pflegt\ndiese mit ganzem Herzen. Es verzeiht keinem,\nder sein Blumenbeet verwüstet."
+    ],
+    "height": 0.2,
+    "id": 670,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "name": "Floette",
+    "types": [
+        "Fee"
+    ],
+    "weight": 0.9
+}

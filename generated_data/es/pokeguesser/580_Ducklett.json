@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Cuando se ve atacado, las plumas que lo recubren\ndespiden ráfagas de agua que lo ayudan a escapar.",
+        "Nada a mayor velocidad de la que puede volar. Se\nsumerge en el agua para buscar musgo acuático, su\ncomida favorita.",
+        "Cuando se ve atacado, las plumas que lo recubren despiden\nráfagas de agua que lo ayudan a escapar.",
+        "Nada a mayor velocidad de la que puede volar. Se sumerge\nen el agua para buscar musgo acuático, su comida favorita."
+    ],
+    "height": 0.5,
+    "id": 580,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+    "name": "Ducklett",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 5.5
+}

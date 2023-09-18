@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "靠伸缩肌肉来制造电能。\n如果看到它兴奋地浑身颤抖，\n就说明它正在猛烈发电。",
+        "体毛通电后就会发光。\n会摇晃明亮发光的尾巴\n尖端来向伙伴发送信号。"
+    ],
+    "height": 0.5,
+    "id": 403,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+    "name": "小猫怪",
+    "types": [
+        "电"
+    ],
+    "weight": 9.5
+}

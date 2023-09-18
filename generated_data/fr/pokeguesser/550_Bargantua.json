@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Les bleus et les rouges se détestent\ncordialement et se battent dès qu’ils\ns’aperçoivent. Un Pokémon très violent.",
+        "Les rouges et les bleus se détestent,\nmais il y en a toujours un ou deux\ndans un groupe de l’autre couleur.",
+        "Les rouges et les bleus se détestent et se battent\ndès qu’ils s’aperçoivent. Un Pokémon violent mais\ndélicieux.",
+        "Les rouges et les bleus se détestent, mais il y en\na toujours un ou deux dans un groupe de l’autre\ncouleur.",
+        "Les rouges et les bleus se détestent et se battent dès qu’ils\ns’aperçoivent. Un Pokémon violent mais délicieux.",
+        "Les rouges et les bleus se détestent, mais il y en a toujours\nun ou deux dans un groupe de l’autre couleur.",
+        "C’est un Pokémon d’une grande férocité.\nLes Bargantua bleus et les Bargantua rouges\nse livrent une guerre territoriale sans merci.",
+        "Il est si violent que tous les Pokémon\ndisparaissent des lacs où un banc de Bargantua\ns’installe, à part les Écrapince et les Colhomard.",
+        "Le capturer est un défi que les Pêcheurs aiment\nrelever. Ils vont jusqu’à en libérer illégalement\ndans les lacs, ce qui conduit à leur prolifération.",
+        "On l’utilisait autrefois en cuisine.\nLa chair grasse des Bargantua à motif rouge\nétait plutôt destinée aux jeunes."
+    ],
+    "height": 1.0,
+    "id": 550,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "name": "Bargantua",
+    "types": [
+        "Eau"
+    ],
+    "weight": 18.0
+}

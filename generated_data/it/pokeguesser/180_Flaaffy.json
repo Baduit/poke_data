@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "La soffice pelliccia raccoglie elettricità. Non resta\nfulminato grazie a uno strato di pelle gommosa.",
+        "Se il suo manto è del tutto carico d’elettricità, la\ncoda s’illumina. Lancia peli che danno la scossa.",
+        "La qualità della lana di Flaaffy varia in modo da generare\nun’alta carica elettrostatica con un ridotto quantitativo di lana.\nLe parti scoperte e vulnerabili del suo corpo sono schermate\ncontro le scosse.",
+        "La qualità della lana di Flaaffy varia in modo da generare\nun’alta carica elettrostatica con un ridotto quantitativo di lana.\nLe parti scoperte e vulnerabili del suo corpo sono schermate\ncontro le scosse.",
+        "La pelle gommosa che ricopre le aree del suo\ncorpo prive di pelliccia non conduce elettricità e\npuò essere toccata senza prendere la scossa.",
+        "Raccoglie elettricità nel soffice manto. Alcune\nparti del suo corpo sono diventate interamente\nglabre per la troppa elettricità immagazzinata."
+    ],
+    "height": 0.8,
+    "id": 180,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "name": "Flaaffy",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 13.3
+}

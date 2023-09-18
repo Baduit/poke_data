@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "ひとのおうと　ちからを　あわせ\nガラルを　すくった　ポケモン。\nきんぞくを　とりこみ　たたかう。",
+        "せきぞうの　ような　すがたで\nわすれさられるほどの　あいだ\nねむりに　ついていた　ポケモン。"
+    ],
+    "height": 2.9,
+    "id": 889,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+    "name": "ザマゼンタ",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 210.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "かしこい　ポケモンとして　ゆうめい。\nおおきな　のうみそは　きょうりょくな\nサイコパワーを　もつ　あかし。",
+        "サイコパワーを　はなち　しゅういを\nしらべている。　かんそくはんいは\nしゅうい　１０キロにも　たっするぞ。"
+    ],
+    "height": 0.4,
+    "id": 826,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+    "name": "イオルブ",
+    "types": [
+        "むし",
+        "エスパー"
+    ],
+    "weight": 40.8
+}

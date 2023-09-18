@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "La pesada máscara le impide liberar toda su\nfuerza, que se cree que es extraordinaria.",
+        "Un Pokémon artificial. La máscara de contención\nque lleva sirve para evitar que se descontrole.",
+        "Este Pokémon se creó en un laboratorio como\narma para cierto fin. Fue criogenizado tras\ndesbocarse durante un experimento.",
+        "La máscara que lleva sirve para contener su\nverdadero poder y evitar que se descontrole.",
+        "Se rumorea que ha sido recreado en Galar a\npartir de documentos de investigación de alto\nsecreto robados.",
+        "Fue creado a imagen de un Pokémon mitológico.\nLleva una máscara de contención para evitar que\nsu poder se descontrole."
+    ],
+    "height": 1.9,
+    "id": 772,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
+    "name": "Código Cero",
+    "types": [
+        "Normal"
+    ],
+    "weight": 120.5
+}

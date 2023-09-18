@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Ein Legendäres Pokémon mit der Macht, die Welt\nmit seinen Flammen einzuäschern. Hilft allen,\ndie nach Wirklichkeit streben.",
+        "Lodert das Feuer in seinem Schweif auf, gerät die\nErdatmosphäre durch die Hitze in Wallung und\ndas Weltklima ändert sich.",
+        "Ein Legendäres Pokémon mit der Macht, die Welt mit seinen\nFlammen einzuäschern. Hilft allen, die nach Wirklichkeit\nstreben.",
+        "Lodert das Feuer in seinem Schweif auf, gerät die\nErdatmosphäre durch die Hitze in Wallung und das\nWeltklima ändert sich.",
+        "Durch Feuerschübe aus seinem Schweif fliegt es\nschnell wie ein Düsenjet durch die Lüfte. Seine\nFlammen sollen die Welt einäschern können.",
+        "Alte Mythen warnen, dass es alle Welt in Brand\nsetzen wird, wenn die Menschen die Wirklichkeit\nmissachten und der Gier verfallen."
+    ],
+    "height": 3.2,
+    "id": 643,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "name": "Reshiram",
+    "types": [
+        "Drache",
+        "Feuer"
+    ],
+    "weight": 330.0
+}

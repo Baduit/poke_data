@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Starrt man auf sein Geweih, bekommt man\ndas seltsame Gefühl, in dessen Mitte\ngezogen zu werden.",
+        "Sein gebogenes Geweih generiert via Luftänderung\neinen Raum, in dem die Wirklichkeit verzerrt wird.",
+        "Damhirplex hat ein prächtiges Geweih, für das hohe Preise\ngezahlt werden, da sie als Kunstwerke gelten. Daher wurde\ndieses Pokémon gejagt und wäre beinahe ausgestorben.",
+        "Damhirplex hat ein prächtiges Geweih, für das hohe Preise\ngezahlt werden. Daher wurde dieses Pokémon gejagt und\nwäre beinahe ausgestorben."
+    ],
+    "height": 1.4,
+    "id": 234,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "name": "Damhirplex",
+    "types": [
+        "Normal"
+    ],
+    "weight": 71.2
+}

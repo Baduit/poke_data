@@ -1,0 +1,29 @@
+{
+    "descriptions": [
+        "It grips prey with its tail claws\nand injects poison. It tenaciously\nhangs on until the poison takes.",
+        "It lives in arid lands. It buries\nitself in sand and lies in wait for\nunsuspecting prey.",
+        "As soon as the tail claws close,\nits needle tips secrete poison.\nIt can survive a year without food.",
+        "It burrows under the sand to lie in\nwait for prey. Its tail claws can inject\nits prey with a savage poison.",
+        "It burrows under the sand to lie in\nwait for prey. Its tail claws can inject\nits prey with a savage poison.",
+        "As soon as the tail claws close,\nits needle tips secrete poison.\nIt can survive a year without food.",
+        "As soon as the tail claws close,\nits needle tips secrete poison.\nIt can survive a year without food.",
+        "It lives in arid regions and\ncan go without food for a year\nwhile waiting for prey.",
+        "It lives in arid regions and\ncan go without food for a year\nwhile waiting for prey.",
+        "It grips prey with its tail claws and injects poison.\nIt tenaciously hangs on until the poison takes.",
+        "It burrows under the sand to lie in wait for prey.\nIts tail claws can inject its prey with a\nsavage poison.",
+        "It grips prey with its tail claws and injects poison.\nIt tenaciously hangs on until the poison takes.",
+        "It burrows under the sand to lie in wait for prey.\nIts tail claws can inject its prey with a\nsavage poison.",
+        "After burrowing into the sand, it waits patiently\nfor prey to come near. This Pokémon and\nSizzlipede share common descent.",
+        "It attacks using the claws on its tail. Once locked\nin its grip, its prey is unable to move as this\nPokémon’s poison seeps in.",
+        "Its claws are not only razor-sharp but poisonous, making Skorupi\na highly dangerous Pokémon. It seems to be weakened by cold\ntemperatures, however."
+    ],
+    "height": 0.8,
+    "id": 451,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "name": "Skorupi",
+    "types": [
+        "Poison",
+        "Bug"
+    ],
+    "weight": 12.0
+}

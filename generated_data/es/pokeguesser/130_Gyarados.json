@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "En la literatura antigua se dice que un Gyarados\nrebosante de violencia arrasó un poblado.",
+        "No es frecuente verlo en su medio. Es enorme y\nmalvado, y capaz de destruir ciudades enteras de\nun ataque.",
+        "Cuando Magikarp evoluciona y se convierte en Gyarados,\nsufre un cambio estructural en las células del cerebro. Dicen\nque esa transformación es la causa de la naturaleza violenta\ny salvaje de este Pokémon.",
+        "Una vez que Gyarados se desmanda, la presión incontrolable\ny enrabiada de la sangre no se le calmará hasta que no haya\nquemado todo lo que le rodea. Según parece, a este\nPokémon le duran los arranques de cólera hasta un mes.",
+        "Cuentan que un Gyarados se enfadó tanto que\narrasó un poblado en una sola noche y no dejó\nni rastro.",
+        "Alguna gente cree que aquellos lugares donde\naparece Gyarados están abocados a la\ndestrucción.",
+        "Allí donde alcanza su Hiperrayo la tierra queda\ncarbonizada por completo. En algunas regiones\nlo consideran una deidad destructiva.",
+        "La energía desprendida durante la evolución\nafecta de forma irreversible sus neuronas,\ndando origen a su agresividad manifiesta.",
+        "Este Pokémon tan salvaje como destructivo es\nconocido por haber reducido a escombros\nciudades enteras en el pasado.",
+        "Este Pokémon tan salvaje como destructivo es\nconocido por haber reducido a escombros\nciudades enteras en el pasado.",
+        "Es exageradamente agresivo. El Hiperrayo que\nlanza por la boca reduce a cenizas todo lo que\nencuentra.",
+        "Cuando monta en cólera, puede quemarlo todo,\nincluso en medio de la más violenta tormenta."
+    ],
+    "height": 6.5,
+    "id": 130,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "name": "Gyarados",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 235.0
+}

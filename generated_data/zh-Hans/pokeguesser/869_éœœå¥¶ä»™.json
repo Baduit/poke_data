@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "它会把自己用鲜奶油\n装饰过的树果送给\n自己信任的训练家。",
+        "当它感到幸福的时候，\n手中产生出的鲜奶油\n会变得更加香浓甜美。"
+    ],
+    "height": 0.3,
+    "id": 869,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+    "name": "霜奶仙",
+    "types": [
+        "妖精"
+    ],
+    "weight": 0.5
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Rafforza le sue difese attirando su di sé gli oggetti\ndi ferro circostanti con il suo naso magnetico che\nindica sempre il nord.",
+        "Ha un naso magnetico che punta sempre verso nord,\ne che i viaggiatori controllano per orientarsi.",
+        "Il naso magnetico di Nosepass è sempre puntato verso nord.\nQuando incontra un suo simile, non riesce a guardarlo in volto\nda vicino perché i nasi magnetici si respingono l’un l’altro.",
+        "Pare che Nosepass sia completamente immobile, sempre\ncol naso magnetico puntato verso nord. Tuttavia, studi più\ndettagliati hanno rivelato che questo Pokémon si sposta\ndi 1 cm all’anno.",
+        "Il naso magnetico di Nosepass è una bussola\ninfallibile e questo lo rende il compagno\ndi viaggio ideale per ogni Allenatore.",
+        "Il suo potente magnetismo gli permette di\nattirare le prede e anche oggetti di ferro, che\nusa per proteggersi.",
+        "Si sposta di 1 cm all’anno, ma quando si trova\nin difficoltà ruota su se stesso e in un attimo\nsi nasconde sottoterra.",
+        "Il suo potente magnetismo gli permette di\nattirare le prede senza muoversi, ma a volte\nattrae anche i suoi nemici naturali."
+    ],
+    "height": 1.0,
+    "id": 299,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "name": "Nosepass",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 97.0
+}

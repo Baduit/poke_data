@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "あたまのふさに　ためこんだ　みずは\nえいよう　たっぷり。しっぽをつかって\nその　みずを　くさきに　かけている。",
+        "あたまの　ふさに　ためた　みずは\nえいよう　たっぷり。しょくぶつに\nかけると　おおきく　そだつのだ。",
+        "あたまのふさに　ためこんだ　みずは\nえいよう　たっぷり。しっぽをつかって\nその　みずを　くさきに　かけている。",
+        "あたまの　ふさに　ためた　みずは\nえいよう　たっぷり。しょくぶつに\nかけると　おおきく　そだつのだ。"
+    ],
+    "height": 0.6,
+    "id": 515,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "name": "ヒヤップ",
+    "types": [
+        "みず"
+    ],
+    "weight": 13.5
+}

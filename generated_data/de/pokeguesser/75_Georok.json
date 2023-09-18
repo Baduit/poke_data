@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es ist ihm völlig gleichgültig, wenn Stücke aus ihm\nherausbrechen, während es Berge hinabrollt.",
+        "Dieses Pokémon bewegt sich nur rollend fort.\nKein Hindernis kann es vom Kurs abbringen.",
+        "Georok wächst, indem es sich von Steinen ernährt. Am liebsten\nmag es Steine, die mit Moos überzogen sind. Dieses Pokémon\nfrisst sich täglich durch eine riesige Menge von Steinen.",
+        "Steine sind Georoks Lieblingsspeise. Dieses Pokémon klettert\nvom Fuße eines Berges zu seinem Gipfel empor und zermalmt\ndabei das Gestein. Wenn es den Gipfel erreicht hat, rollt es\nwieder herunter.",
+        "Mit Moos überzogene Steine sind seine absolute\nLeibspeise. Es vertilgt täglich laut knirschend\neine ganze Tonne davon.",
+        "Da sich seine Beine nicht zum Gehen eignen,\nbewegt es sich rollend fort. Kommt es richtig\nin Fahrt, erreicht es dabei bis zu 100 km/h.",
+        "Es klettert Berghänge bis zum Gipfel empor.\nEinmal oben angekommen, rollt es über den\nBergpfad sogleich wieder hinunter.",
+        "Es bewegt sich rollend über Abhänge fort.\nStürzt es versehentlich in einen Fluss, sprengt\nes sich in seiner Verzweiflung selbst in die Luft.",
+        "Es rollt sich gerne Gebirgspfade hinunter.\nDabei ist es ihm egal, wer oder was sich in\nseinem Weg befindet.",
+        "Es rollt sich gerne Gebirgspfade hinunter.\nDabei ist es ihm egal, wer oder was sich in\nseinem Weg befindet."
+    ],
+    "height": 1.0,
+    "id": 75,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "name": "Georok",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 105.0
+}

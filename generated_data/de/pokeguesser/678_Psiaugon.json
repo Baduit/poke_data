@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "In Gefahrensituationen hebt es seine Ohren an und\nsetzt Psycho-Kräfte frei, die einen 10 t schweren LKW\nzu Schrott verarbeiten können.",
+        "Über das Augenmuster auf der Innenseite seiner Ohren\nsetzt es seine Psycho-Kräfte frei. Da diese aber viel zu\nstark sind, hält es das Muster bedeckt.",
+        "In Gefahrensituationen hebt es seine Ohren an und setzt\nPsycho-Kräfte frei, die einen 10 t schweren LKW zu Schrott\nverarbeiten können.",
+        "Über das Augenmuster auf der Innenseite seiner Ohren setzt\nes seine Psycho-Kräfte frei. Da diese aber viel zu stark sind,\nhält es das Muster bedeckt.",
+        "Über das Augenmuster auf der Innenseite seiner\nOhren kann es seine Psycho-Kräfte freisetzen.\nFür gewöhnlich hält es sie aber verborgen.",
+        "Männliche Psiaugon haben einen ausgeprägten\nBeschützerinstinkt. Sie sind dann am stärksten,\nwenn sie sich oder ihren Trainer verteidigen."
+    ],
+    "height": 0.6,
+    "id": 678,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+    "name": "Psiaugon",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 8.5
+}

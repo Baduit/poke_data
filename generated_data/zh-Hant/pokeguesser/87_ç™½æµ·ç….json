@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "能以８節的速度在海中游動，\n尋找能當成獵物的寶可夢。\n弱丁魚是牠最愛吃的東西。",
+        "進食之後會在沙灘上\n做日光浴，藉此提高體溫\n來幫助消化。",
+        "全身上下一片雪白。\n不畏寒冷，在滿是浮冰的海上\n也能元氣十足地游來游去。",
+        "全身上下一片雪白。\n不畏寒冷，在滿是浮冰的海上\n也能元氣十足地游來游去。"
+    ],
+    "height": 1.7,
+    "id": 87,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "白海獅",
+    "types": [
+        "水",
+        "冰"
+    ],
+    "weight": 120.0
+}

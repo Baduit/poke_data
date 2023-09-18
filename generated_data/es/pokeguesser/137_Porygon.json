@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Pokémon creado por el hombre tras muchas\ninvestigaciones. Sus habilidades son básicas.",
+        "Un Pokémon formado por códigos de programación.\nSe mueve libre por el ciberespacio.",
+        "Porygon es capaz de convertirse otra vez en datos\ninformáticos y de entrar en el ciberespacio. Tiene protección\nanticopia, así que es imposible duplicarlo.",
+        "Porygon es capaz de convertirse otra vez en datos\ninformáticos y de entrar en el ciberespacio. Tiene protección\nanticopia, así que es imposible duplicarlo.",
+        "Se creía que sería el único Pokémon capaz de\nvolar por el espacio, pero aún no se ha visto a\nninguno que lo haya conseguido.",
+        "Un Pokémon que fue creado por el hombre hace\nunos 20 años con los medios tecnológicos que\nhabía disponibles en aquel momento.",
+        "Porygon es capaz de convertirse en datos\ninformáticos y de entrar en el ciberespacio.",
+        "Fue creado por el hombre unos 20 años atrás\ncon los medios del momento, por lo que ahora\nestá desfasado en muchos aspectos.",
+        "Fue creado hace 20 años por un grupo de\ncientíficos que soñaba con explorar el espacio.\nDicho sueño aún no se ha cumplido.",
+        "Se creía que sería el único Pokémon capaz de\nvolar por el espacio, pero aún no se ha visto a\nninguno que lo haya conseguido.",
+        "Se trata del primer Pokémon del mundo creado\na partir de códigos de programación gracias al\nuso de tecnología de vanguardia.",
+        "Durante los últimos años, ha estado muy activo\nen el ciberespacio comprobando que no haya\ndatos sospechosos."
+    ],
+    "height": 0.8,
+    "id": 137,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "name": "Porygon",
+    "types": [
+        "Normal"
+    ],
+    "weight": 36.5
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Son pelage fourni absorbe les chocs\net lui permet d’asséner sans broncher\nle plus violent des coups de tête.",
+        "Il charge tout ce qui bouge sans\nréfléchir. Il peut faire dérailler\nun train en marche.",
+        "Il charge tout ce qui bouge sans réfléchir. Il peut faire\ndérailler un train en marche.",
+        "Son pelage fourni absorbe les chocs et lui permet\nd’asséner sans broncher le plus violent des coups\nde tête.",
+        "Il charge tout ce qui bouge sans réfléchir. Il peut faire dérailler\nun train en marche.",
+        "Son pelage fourni absorbe les chocs et lui permet d’asséner\nsans broncher le plus violent des coups de tête.",
+        "Il peut détruire une voiture d’un coup de tête.\nPlus sa crinière est volumineuse, plus son rang\nau sein du troupeau est élevé.",
+        "Les Frison vivent en troupeau d’une vingtaine\nd’individus. Pour une raison inconnue, si l’un\nd’eux trahit le groupe, il perd sa crinière."
+    ],
+    "height": 1.6,
+    "id": 626,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
+    "name": "Frison",
+    "types": [
+        "Normal"
+    ],
+    "weight": 94.6
+}

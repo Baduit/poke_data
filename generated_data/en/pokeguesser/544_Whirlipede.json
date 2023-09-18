@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Protected by a hard shell, it spins\nits body like a wheel and crashes\nfuriously into its enemies.",
+        "It is usually motionless, but when\nattacked, it rotates at high speed and\nthen crashes into its opponent.",
+        "Storing energy for evolution, it sits.\nBut, when predators approach, it\nmoves to stab them with poison spikes.",
+        "Storing energy for evolution, it sits.\nBut, when predators approach, it\nmoves to stab them with poison spikes.",
+        "Protected by a hard shell, it spins its body like a\nwheel and crashes furiously into its enemies.",
+        "It is usually motionless, but when attacked,\nit rotates at high speed and then crashes into\nits opponent.",
+        "Protected by a hard shell, it spins its body like a\nwheel and crashes furiously into its enemies.",
+        "It is usually motionless, but when attacked,\nit rotates at high speed and then crashes into\nits opponent.",
+        "This Pokémon spins itself rapidly and charges into\nits opponents. Its top speed is just over 60 mph.",
+        "Whirlipede protects itself with a sturdy shell and\npoisonous spikes while it stores up the energy it’ll\nneed for evolution."
+    ],
+    "height": 1.2,
+    "id": 544,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "name": "Whirlipede",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 58.5
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Conserva talmente tante bacche nella coda\nche le perde una dopo l’altra, ma non essendo\nmolto perspicace non se ne rende conto.",
+        "Un Pokémon che si incontra spesso a Galar.\nHa denti eccezionali, con i quali rosicchia anche\nle bacche più dure."
+    ],
+    "height": 0.6,
+    "id": 820,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "name": "Greedent",
+    "types": [
+        "Normale"
+    ],
+    "weight": 6.0
+}

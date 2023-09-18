@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Está formado por seda que se endurece poco a\npoco. Si se resquebraja el capullo, está a punto\nde evolucionar.",
+        "Jamás olvida a quienes lo atacaron mientras estaba\nen su capullo. Cuando evoluciona, busca venganza.",
+        "Cascoon forma el capullo que lo protege enrollándose por\ncompleto en la seda que libera por la boca. Cuando está\ntotalmente recubierto, se prepara para evolucionar en el\ninterior del capullo.",
+        "Si atacan a Cascoon, se queda inmóvil aunque le hayan hecho\nmucho daño, puesto que, si se moviera, perdería fuerzas para\nevolucionar. Nunca olvida el daño que le han hecho."
+    ],
+    "height": 0.7,
+    "id": 268,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+    "name": "Cascoon",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Desconcierta a sus rivales imitando sus movimientos a\nla perfección y aprovecha para darse a la fuga.",
+        "Suele imitar a sus enemigos. Cuando lo hace, su rival\nno puede apartar los ojos de él.",
+        "Desconcierta a sus rivales imitando sus movimientos a la\nperfección y aprovecha para darse a la fuga.",
+        "Suele imitar a sus enemigos. Cuando lo hace, su rival no\npuede apartar los ojos de él.",
+        "Imita los movimientos y las expresiones de otros\ntan bien como puede, aunque aún le queda\nmucho por mejorar.",
+        "Es un gran imitador. Cuando logra sorprender a\nsu adversario, la alegría le embarga de tal forma\nque se olvida de continuar su actuación.",
+        "Imita todo lo que ve, especialmente los gráciles\npasos de baile de Mr. Rime, que practica con\ngran tesón.",
+        "Su admiración por Mr. Rime, un consumado\ndanzarín, lo lleva a seguirlo para aprender de él\ne imitar con esmero sus pasos de baile."
+    ],
+    "height": 0.6,
+    "id": 439,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+    "name": "Mime Jr.",
+    "types": [
+        "Psíquico",
+        "Hada"
+    ],
+    "weight": 13.0
+}

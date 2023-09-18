@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "뛰어난 다리와 턱의 힘 덕분에\n고대에는 무적이었으나\n먹이를 모두 잡아먹어버려서 멸종했다.",
+        "특유의 다릿심으로 시속 60km\n이상으로 달릴 수 있지만\n물속에서만 호흡할 수 있다."
+    ],
+    "height": 2.3,
+    "id": 882,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "name": "어래곤",
+    "types": [
+        "물",
+        "드래곤"
+    ],
+    "weight": 215.0
+}

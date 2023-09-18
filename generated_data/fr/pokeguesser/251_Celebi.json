@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il a le pouvoir de voyager dans le\ntemps. Cependant, on dit qu’il\nn’apparaît qu’en temps de paix.",
+        "Il a le pouvoir de voyager dans le\ntemps. Cependant, on dit qu’il\nn’apparaît qu’en temps de paix.",
+        "Ce Pokémon voyage dans le temps. Les forêts où\nil apparaît deviennent prodigieusement luxuriantes.",
+        "Il a le pouvoir de voyager dans le temps.\nCependant, on dit qu’il n’apparaît qu’en temps de\npaix.",
+        "Ce Pokémon est venu du futur en voyageant dans le temps.\nOn raconte que quand Celebi apparaît, cela signifie que\nle futur sera bon et agréable.",
+        "Ce Pokémon est venu du futur en voyageant dans le temps.\nOn raconte que quand Celebi apparaît, cela signifie que\nle futur sera bon et agréable.",
+        "Il possède le pouvoir de voyager dans le temps.\nIl a été considéré comme une divinité sylvestre\nà différentes époques.",
+        "Ce Pokémon venu du futur soigne les blessures\net donne de la force aux plantes."
+    ],
+    "height": 0.6,
+    "id": 251,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "name": "Celebi",
+    "types": [
+        "Psy",
+        "Plante"
+    ],
+    "weight": 5.0
+}

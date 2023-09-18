@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quando tira calci, si protegge dai danni con la pelle\ndella muta. Più grande è la cresta e più arie si dà.",
+        "Il capo del gruppo viene scelto in base alla grandezza\ndella cresta. Spacca blocchi di cemento con dei calci.",
+        "Quando tira calci, si protegge dai danni con la pelle\ndella muta. Più grande è la cresta e più arie si dà.",
+        "Il capo del gruppo viene scelto in base alla grandezza della\ncresta. Spacca blocchi di cemento con dei calci.",
+        "È un Pokémon violento, ma al tempo stesso\nmolto dedito alla famiglia, ai membri del proprio\ngruppo e al suo territorio.",
+        "Provoca il nemico sputandogli addosso.\nQuando conquista un territorio, non lo\nabbandona più per tutta la vita.",
+        "Pur se tirati con aria svogliata, i suoi calci sono\ncosì distruttivi da sgretolare perfino i pilastri di\ncemento di Conkeldurr.",
+        "Ha un’indole estremamente aggressiva, ma se\nsi tratta della sua famiglia, dei suoi compagni e\ndel suo territorio, diventa molto protettivo."
+    ],
+    "height": 1.1,
+    "id": 560,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "name": "Scrafty",
+    "types": [
+        "Buio",
+        "Lotta"
+    ],
+    "weight": 30.0
+}

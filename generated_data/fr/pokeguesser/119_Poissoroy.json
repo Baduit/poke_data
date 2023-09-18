@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "En automne, à la saison des amours,\nil fait des réserves de graisse et\narbore des couleurs chatoyantes.",
+        "En automne, à la saison des amours,\nil fait des réserves de graisse et\narbore des couleurs chatoyantes.",
+        "Pendant la saison des amours, on peut le voir nager\ndans les rivières et les lacs.",
+        "Il niche dans des rochers du ruisseau qu’il évide\navec sa corne. Il donnerait sa vie pour ses Œufs.",
+        "En automne, on peut voir les Poissoroy mâles effectuer des\ndanses nuptiales dans les rivières pour plaire aux femelles.\nC’est pendant cette saison que le corps de ce Pokémon\nprend ses plus belles couleurs.",
+        "Les Poissoroy font tout pour protéger leurs œufs.\nLes mâles et les femelles patrouillent pour surveiller le nid et\nles œufs. La garde de ces œufs dure un peu plus d’un mois.",
+        "Quand il commence à faire froid, son corps\ndevient rouge vif. Ce spectacle annonce\ntraditionnellement la venue de l’automne.",
+        "Il existe deux types de Dresseurs de Poissoroy :\nceux qui aiment sa corne et ceux qui préfèrent\nses nageoires. Les deux groupes se détestent.",
+        "Il peut forer des rocs en faisant tourner sa\ncorne comme une perceuse. Les mâles ont\ndes couleurs plus vives que les femelles.",
+        "Les mâles dansent devant les femelles pour\ns’attirer leurs faveurs ; les plus talentueux\ngagneront leur admiration.",
+        "Le mâle utilise la corne située sur son front\npour creuser un nid dans les rochers au fond\ndes rivières.",
+        "Le mâle utilise la corne située sur son front\npour creuser un nid dans les rochers au fond\ndes rivières.",
+        "En automne, à la saison des amours, il fait\ndes réserves de graisse et arbore des couleurs\nchatoyantes.",
+        "S’il fait des trous dans les rochers avec sa corne\npour bâtir son nid, c’est pour éviter que ses Œufs\nne soient emportés par les flots."
+    ],
+    "height": 1.3,
+    "id": 119,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "name": "Poissoroy",
+    "types": [
+        "Eau"
+    ],
+    "weight": 39.0
+}

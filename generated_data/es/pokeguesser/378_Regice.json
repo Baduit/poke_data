@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dicen que ha yacido durmiendo en un glaciar durante\nmilenios. Ni el magma puede derretir su cuerpo.",
+        "Su cuerpo está hecho con hielo de la glaciación.\nControla aire gélido a -200 °C.",
+        "Regice surgió durante la edad de hielo. El cuerpo de este\nPokémon está totalmente congelado, ni siquiera el fuego\npuede derretirlo. Regice libera y regula un aire gélido de\n-200 °C.",
+        "Regice se rodea de un aire gélido que llega a -200 °C y deja\ncongelado a todo lo que se le acerca. Es imposible derretir a\neste Pokémon; tiene una temperatura demasiado baja.",
+        "Usa corrientes de aire gélido de hasta -200 ºC\npara congelar en un instante a cualquiera que se\nle acerque.",
+        "Todo su cuerpo está compuesto de hielo.\nSe dice que surgió bajo una gruesa placa\nde hielo durante alguna glaciación."
+    ],
+    "height": 1.8,
+    "id": 378,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "name": "Regice",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 175.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "相手を　一撃で　打ち負かすほど\nパワフルだが　忘れっぽいので\n戦っている　相手を　忘れる。",
+        "食いしん坊で　エサの　サシカマスを\n丸飲みするが　たまに　間違えて\nほかの　ポケモンに　食らいつく。"
+    ],
+    "height": 0.8,
+    "id": 845,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "name": "ウッウ",
+    "types": [
+        "ひこう",
+        "みず"
+    ],
+    "weight": 18.0
+}

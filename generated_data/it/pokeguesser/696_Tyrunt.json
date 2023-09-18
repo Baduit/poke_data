@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Pokémon risvegliatosi da un fossile.\nSe viene disturbato, si infuria e provoca disastri.",
+        "Questo Pokémon visse 100 milioni di anni fa.\nGrazie alle fauci tremendamente forti, potrebbe\nmasticare un’automobile senza sforzo.",
+        "Pokémon risvegliatosi da un fossile. Se viene disturbato,\nsi infuria e provoca disastri.",
+        "Questo Pokémon visse 100 milioni di anni fa. Grazie alle fauci\ntremendamente forti, potrebbe masticare un’automobile\nsenza sforzo.",
+        "La sua mandibola ha un’enorme forza\ndistruttrice. Secondo alcuni il suo aspetto\noriginale è un po’ diverso da quello rigenerato.",
+        "È capriccioso e ama farsi coccolare.\nAnche se non lo fa di proposito, può ferire\ngravemente il suo compagno di giochi.",
+        "Un antico Pokémon rigenerato da un fossile.\nHa un’indole violenta ed egoista. Con la sua\nenorme mandibola fa a pezzi qualsiasi cosa.",
+        "È capriccioso e ama farsi coccolare.\nQuando gioca con il suo Allenatore,\nrischia di ferirlo gravemente."
+    ],
+    "height": 0.8,
+    "id": 696,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "name": "Tyrunt",
+    "types": [
+        "Roccia",
+        "Drago"
+    ],
+    "weight": 26.0
+}

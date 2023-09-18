@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Sa laine fournie enfle lorsqu’il\naccumule de l’électricité statique.\nSon contact peut choquer. ",
+        "Sa laine fournie enfle lorsqu’il\naccumule de l’électricité statique.\nSon contact peut choquer. ",
+        "Sa laine fournie enfle lorsqu’il accumule de\nl’électricité statique. Son contact peut choquer.",
+        "Il garde une grande quantité d’air dans sa toison pour\nne pas subir les variations de température.",
+        "L’épaisse fourrure cotonneuse de Wattouat se charge\nd’électricité statique lorsqu’on la frotte. Plus elle est chargée,\nplus l’ampoule au bout de sa queue est lumineuse.",
+        "L’épaisse fourrure cotonneuse de Wattouat se charge\nd’électricité statique lorsqu’on la frotte. Plus elle est chargée,\nplus l’ampoule au bout de sa queue est lumineuse.",
+        "En raison de leur tendance à stocker l’électricité\nstatique, les vêtements en laine de Wattouat\nsubissent un traitement spécial.",
+        "Il a beau être mignon, sa laine génère de\nl’électricité quand on la frotte. Tentez de le\ncaresser, et il vous mettra vite au courant !"
+    ],
+    "height": 0.6,
+    "id": 179,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "name": "Wattouat",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 7.8
+}

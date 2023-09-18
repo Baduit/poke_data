@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "It warms its body by absorbing sunlight\nwith its wings. When its body temperature\nfalls, it can no longer move.",
+        "It races through narrow caves, using\nits sharp claws to catch prey. The skin\non its face is harder than a rock.",
+        "It runs through the narrow tunnels\nformed by Excadrill and Onix.\nIt uses its sharp claws to catch prey.",
+        "It runs through the narrow tunnels\nformed by Excadrill and Onix.\nIt uses its sharp claws to catch prey.",
+        "It races through narrow caves, using its sharp claws\nto catch prey. The skin on its face is harder than\na rock.",
+        "It warms its body by absorbing sunlight with its\nwings. When its body temperature falls, it can no\nlonger move.",
+        "It races through narrow caves, using its sharp claws\nto catch prey. The skin on its face is harder than\na rock.",
+        "It warms its body by absorbing sunlight with its\nwings. When its body temperature falls, it can no\nlonger move.",
+        "The red skin on its face is harder than rock.\nIn narrow caves, it squares off against its\nenemies and charges face-first right into them.",
+        "It infiltrates tunnels that Pokémon like Diglett\nand Dugtrio have dug and quietly waits for prey\nto pass through.",
+        "Druddigon lives in caves, but it never skips\nsunbathing—it won’t be able to move if its body\ngets too cold.",
+        "Druddigon are vicious and cunning. They take up\nresidence in nests dug out by other Pokémon,\ntreating the stolen nests as their own lairs."
+    ],
+    "height": 1.6,
+    "id": 621,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "name": "Druddigon",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 139.0
+}

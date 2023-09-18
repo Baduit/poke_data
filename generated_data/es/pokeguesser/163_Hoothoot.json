@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Su percepción del tiempo es exacta. Ocurra lo que\nocurra, lleva el ritmo moviendo la cabeza.",
+        "Camina con una sola pata. Cambia tan rápidamente\nde pata que apenas se le ve.",
+        "Hoothoot tiene un órgano interno que identifica y percibe la\nrotación de la tierra. Gracias a este órgano, el Pokémon ulula\ntodos los días a la misma hora.",
+        "Hoothoot tiene un órgano interno que identifica y percibe la\nrotación de la tierra. Gracias a este órgano, el Pokémon ulula\ntodos los días a la misma hora.",
+        "Mueve la cabeza a un ritmo preciso y constante,\npor lo que en la antigüedad la gente lo usaba\ncomo reloj.",
+        "Canta todos los días a la misma hora exacta.\nPor eso en la antigüedad lo veneraban como\nemisario de la divinidad del tiempo.",
+        "Se apoya en una sola pata y, cuando cambia de\nuna a otra, se mueve tan rápido que apenas se\npercibe.",
+        "Todos los días empieza a ulular a la misma hora,\npor lo que algunos Entrenadores lo usan a modo\nde reloj."
+    ],
+    "height": 0.7,
+    "id": 163,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "name": "Hoothoot",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 21.2
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "천진난만하고 잔혹한 아칼라의\n수호신이다. 향기로운\n꽃향기가 에너지의 근원이다.",
+        "팔랑팔랑 날아다니며 이상하게 빛나는\n인분을 흩뿌린다. 이것에 닿은 자는\n곧 건강을 되찾는다고 한다.",
+        "빛나는 인분을 흩뿌려\n사람이나 포켓몬의 상처를 치료한다.\n아칼라에서 모시는 수호신이다.",
+        "수호신으로 불리지만 천진난만하면서\n잔혹한 성질도 겸비한\n자연의 화신이라 할 수 있는 존재다."
+    ],
+    "height": 1.2,
+    "id": 786,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "카푸나비나",
+    "types": [
+        "에스퍼",
+        "페어리"
+    ],
+    "weight": 18.6
+}

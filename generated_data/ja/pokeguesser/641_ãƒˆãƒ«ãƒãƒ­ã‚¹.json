@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "雲のような　エネルギー体に\n下半身が　包まれている。\n時速３００キロで　空を　飛ぶ。",
+        "トルネロスの　尻尾から　噴き出した\nエネルギーが　大嵐を　起こす。\n民家を　吹き飛ばす　パワー。",
+        "雲のような　エネルギー体に\n下半身が　包まれている。\n時速３００キロで　空を　飛ぶ。",
+        "トルネロスの　尻尾から　噴き出した\nエネルギーが　大嵐を　起こす。\n民家を　吹き飛ばす　パワー。"
+    ],
+    "height": 1.5,
+    "id": 641,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "name": "トルネロス",
+    "types": [
+        "ひこう"
+    ],
+    "weight": 63.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "為了尋找食物而到地上來。\n戴著水泡是為了呼吸，\n以及保護柔軟的頭部。",
+        "發現獵物或敵人後，\n會將頭上戴著的水泡彈出去，\n用水進行攻擊。",
+        "滴蛛們在與同類相遇時，\n會互相炫耀自己頭上的水泡，\n水泡小的一方會乖乖讓路。",
+        "因為只能吸收溶解在\n水中的氧氣，所以在陸地上\n走動時會戴著水泡。",
+        "用臀部讓水泡膨脹，\n並包裹住自己的頭部。\n會和同類比拼水泡的大小。",
+        "平時生活在水中，\n也會戴上水泡去\n陸地上尋找食物。"
+    ],
+    "height": 0.3,
+    "id": 751,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "name": "滴蛛",
+    "types": [
+        "水",
+        "蟲"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "小时候会与伙伴们群居生活。\n一旦自己能捕猎后，\n就会被赶出群体独立生活。",
+        "血气方刚且好奇心旺盛。\n如果生气或是开始战斗，\n短短的鬃毛就会变热。"
+    ],
+    "height": 0.6,
+    "id": 667,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+    "name": "小狮狮",
+    "types": [
+        "火",
+        "一般"
+    ],
+    "weight": 13.5
+}

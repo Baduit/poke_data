@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "空心的骨頭是為了保持輕盈。\n用大大的翅膀迎著風，\n飛向浩瀚的天空。",
+        "在長翅鷗飛來飛去的海底下\n聚集著成群的魚寶可夢，\n所以漁夫會先尋找長翅鷗。",
+        "翅膀又細又長，\n能乘著上升氣流，\n像滑翔機一般飛上天空。",
+        "在海邊的懸崖上築巢。\n會在海上盤旋，尋找牠\n最愛吃的弱丁魚。",
+        "在陡峭的岩壁上築巢，\n會藉助海風，飛升到\n廣闊的天空中滑翔。",
+        "利用氣流，\n不拍打翅膀就能飛上天空。\n會在海邊的岩壁上築巢。"
+    ],
+    "height": 0.6,
+    "id": 278,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "name": "長翅鷗",
+    "types": [
+        "水",
+        "飛行"
+    ],
+    "weight": 9.5
+}

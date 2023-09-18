@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Das Vertrauen zu seinem Trainer weckt seine\nKräfte. Es kann seinen Typ im Kampf nach\nBelieben wechseln.",
+        "Seinen Namen hat es von dem Jungen erhalten,\nder es Typ:Null zum ersten Mal ermöglichte,\nsich zu entwickeln.",
+        "Nun, da es erwacht ist und im Verlauf der\nEntwicklung seine schwere Maske verlor, hat es\ndeutlich an Geschwindigkeit hinzugewonnen.",
+        "Es konnte seine Kontrollmaske nur zerbrechen,\nweil die besondere Bindung zu seinem Trainer\nihm die nötige Willensstärke verlieh.",
+        "Seine wahren Kräfte wurden durch eine starke\nBindung zu seinem Trainer erweckt. Es kann\nseinen Typ nach Belieben wechseln.",
+        "Der entscheidende Faktor, durch den es seine\nwahren Kräfte freisetzen kann, ist die enge\nBindung zu einem Trainer, dem es vertraut."
+    ],
+    "height": 2.3,
+    "id": 773,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "name": "Amigento",
+    "types": [
+        "Normal"
+    ],
+    "weight": 100.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Tirando pugni, i suoi cortissimi arti si allungano. Usa\nuna tecnica simile a quella dei pugili professionisti.",
+        "Sparge spore tossiche con orribili effetti sul nemico\nche le respira, e aggiunge una scarica di pugni.",
+        "Breloom si avvicina al nemico con passettini leggeri e veloci,\npoi sferra scariche di pugni con gli elastici arti superiori.\nLe sue tecniche di lotta superano quelle dei pugili più esperti.",
+        "I semi sulla punta della coda di Breloom sono costituiti da\nspore tossiche indurite. Se ingeriti hanno un effetto orribile,\ninfatti un solo morso a questi semi crea gravi disturbi\nallo stomaco."
+    ],
+    "height": 1.2,
+    "id": 286,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "name": "Breloom",
+    "types": [
+        "Erba",
+        "Lotta"
+    ],
+    "weight": 39.2
+}

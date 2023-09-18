@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Only Farfetch’d that have survived many battles\ncan attain this evolution. When this Pokémon’s\nleek withers, it will retire from combat.",
+        "After deflecting attacks with its hard leaf shield,\nit strikes back with its sharp leek stalk. The leek\nstalk is both weapon and food."
+    ],
+    "height": 0.8,
+    "id": 865,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "name": "Sirfetch’d",
+    "types": [
+        "Fighting"
+    ],
+    "weight": 117.0
+}

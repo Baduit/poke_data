@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "擅長與夥伴合作。\n只要與訓練家成為搭檔，\n就會徹底服從訓練家的命令。",
+        "會在天亮前反覆發出令人\n不寒而慄的長嚎，藉此強調\n自己群體的存在。"
+    ],
+    "height": 0.6,
+    "id": 228,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "name": "戴魯比",
+    "types": [
+        "惡",
+        "火"
+    ],
+    "weight": 10.8
+}

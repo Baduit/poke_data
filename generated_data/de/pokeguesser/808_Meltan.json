@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sein Körper besteht aus geschmolzenem Stahl.\nEs bringt Eisen und andere Metalle im Boden\nzum Schmelzen, um sie dann zu absorbieren.",
+        "Sein Körper besteht aus geschmolzenem Stahl.\nEs bringt Eisen und andere Metalle im Boden\nzum Schmelzen, um sie dann zu absorbieren.",
+        "Es schmilzt Metall ein und frisst es. In seinem\nKörper wandelt es das flüssig gewordene Metall\nin Energie um.",
+        "Sie leben in Gruppen. Doch wenn die Zeit reif\nist, nimmt ein starkes Meltan seine Artgenossen\nin sich auf und entwickelt sich."
+    ],
+    "height": 0.2,
+    "id": 808,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+    "name": "Meltan",
+    "types": [
+        "Stahl"
+    ],
+    "weight": 8.0
+}

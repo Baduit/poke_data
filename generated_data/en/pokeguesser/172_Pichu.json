@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        "It is not yet\nskilled at storing\nelectricity.\fIt may send out a\njolt if amused\nor startled.",
+        "Despite its small\nsize, it can zap\neven adult humans.\fHowever, if it\ndoes so, it also\nsurprises itself.",
+        "It is unskilled at\nstoring electric\npower. Any kind of\fshock causes it to\ndischarge energy\nspontaneously.",
+        "PICHU charges itself with electricity\nmore easily on days with thunderclouds\nor when the air is very dry.\fYou can hear the crackling of static\nelectricity coming off this POKéMON.",
+        "When PICHU plays with others, it may\nshort out electricity with another\nPICHU, creating a shower of sparks.\fIn that event, this POKéMON will begin\ncrying, startled by the flash of sparks.",
+        "It is still inept at retaining electricity.\nWhen it is startled, it discharges power\naccidentally. It gets better at holding\npower as it grows older.",
+        "Despite its small size, it can zap even\nadult humans. However, if it does so, it\nalso surprises itself.",
+        "It is not yet skilled at storing\nelectricity. It may send out a jolt if\namused or startled.",
+        "The electric pouches on its cheeks\nare still small. They cannot store\nmuch electricity yet.",
+        "It plays with others by touching\ntails and setting off sparks. This\nappears to be a test of courage.",
+        "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked.",
+        "It is not yet skilled at storing\nelectricity. It may send out a\njolt if amused or startled.",
+        "Despite its small size, it can zap\neven adult humans. However, if it\ndoes so, it also surprises itself.",
+        "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked.",
+        "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked.",
+        "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked.",
+        "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked.",
+        "It plays with others by touching tails and setting off\nsparks. This appears to be a test of courage.",
+        "It is not yet skilled at storing electricity.\nIt may send out a jolt if amused or startled.",
+        "Pichu charges itself with electricity more easily on days with\nthunderclouds or when the air is very dry. You can hear the\ncrackling of static electricity coming off this Pokémon.",
+        "When Pichu plays with others, it may short out electricity with\nanother Pichu, creating a shower of sparks. In that event, this\nPokémon will begin crying, startled by the flash of sparks.",
+        "It is not yet skilled at controlling electricity.\nIf you take your eyes off it, it may shock itself.",
+        "Despite this Pokémon’s cute appearance, those\nwho want to live with one should prepare to be\non the receiving end of its electric jolts.",
+        "It still can’t use electricity well. When it’s\nsurprised or excited, it discharges\nelectricity unintentionally.",
+        "It has electric sacs in its cheeks. When they’re\nfully charged, Pichu plays very energetically.",
+        "Despite its small size, it can zap even adult\nhumans. However, if it does so, it also\nsurprises itself.",
+        "The electric sacs in its cheeks are small. If even a\nlittle electricity leaks, it becomes shocked.",
+        "Pichu stores electricity in the sacs on its cheeks but discharges it\ninadvertently when agitated or excited. Being yet immature,\nthe Pokémon's handling of electricity is rather inept."
+    ],
+    "height": 0.3,
+    "id": 172,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "name": "Pichu",
+    "types": [
+        "Electric"
+    ],
+    "weight": 2.0
+}

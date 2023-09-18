@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Seine zwei Köpfe sind sich spinnefeind.\nBeide versuchen, über Fresswettbewerbe\ndie Oberhand zu gewinnen.",
+        "Wenn es sein Revier leergejagt hat, sucht es sich ein\nneues. Seine beiden Köpfe liegen ständig im Streit.",
+        "Seine zwei Köpfe sind sich spinnefeind. Beide versuchen,\nüber Fresswettbewerbe die Oberhand zu gewinnen.",
+        "Wenn es sein Revier leergejagt hat, sucht es sich ein neues.\nSeine beiden Köpfe liegen ständig im Streit.",
+        "Es durchstreift sein Revier auf der Suche nach\nBeute. Die zwei Köpfe streiten sich oft darüber,\nwelche Richtung sie einschlagen sollten.",
+        "Sein Körper weist immer Narben auf, selbst wenn\nes gar nicht gekämpft hat. Die beiden Köpfe\nnehmen sich ständig gegenseitig das Futter weg."
+    ],
+    "height": 1.4,
+    "id": 634,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "name": "Duodino",
+    "types": [
+        "Unlicht",
+        "Drache"
+    ],
+    "weight": 50.0
+}

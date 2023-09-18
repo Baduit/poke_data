@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Son aspect change avec la météo.\nOn a récemment découvert que ses\nmolécules étaient pareilles à l’eau.",
+        "Son aspect change avec la météo.\nOn a récemment découvert que ses\nmolécules étaient pareilles à l’eau.",
+        "Les variations de température ou d’humidité affectent\nsa structure cellulaire et son apparence.",
+        "Morphéo a la capacité de changer son apparence\nen fonction du temps. Il utilise la force de la nature\npour combattre.",
+        "L’apparence de Morphéo change en fonction du temps.\nCe Pokémon a appris à utiliser l’immense pouvoir de la nature\npour protéger son corps minuscule.",
+        "Morphéo emprunte le pouvoir de la nature pour prendre\nl’apparence du soleil, de la pluie ou de la neige. Le type\nde ce Pokémon change en fonction du temps.",
+        "Son apparence change en fonction du temps.\nLes changements de température et d’humidité\ninfluenceraient sa structure cellulaire.",
+        "Comme ses cellules réagissent au moindre\nchangement de température ou d’humidité, il ne\ncontrôle pas ses changements d’apparence.",
+        "Il change de forme en fonction de la météo,\nmais ce phénomène serait en fait une réaction\nchimique indépendante de sa volonté.",
+        "Il n’y a pas que son apparence qui change en\nfonction de la météo : son tempérament aussi !\nPlus il y a de vent, plus il se montre agressif."
+    ],
+    "height": 0.3,
+    "id": 351,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+    "name": "Morphéo",
+    "types": [
+        "Normal"
+    ],
+    "weight": 0.8
+}

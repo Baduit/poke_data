@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Man sagt, durch sein Horn ernähre es sich von\nRachsucht und Neid. Erst nachts wird es richtig aktiv.",
+        "Es liebt Rachegefühle. Diese Pokémon hängen sich\nan Dachrinnen von Häusern, in denen Rachsüchtige\nleben.",
+        "Shuppet wird durch Gefühle wie Neid und Rachsucht\nangezogen. Wenn jemand starke Rachegelüste entwickelt,\nerscheinen diese Pokémon in Scharen und reihen sich unter\nder Dachrinne des Hauses dieser Person auf.",
+        "Shuppet wächst, indem es sich von düsteren Gefühlen\nwie Rachsucht und Neid ernährt. Es streift durch Städte\nund sucht nach Empfindungen, die als Ursache für den\nVerderb der Menschen gelten.",
+        "Da es sich von Gefühlen wie Rachsucht, Neid\nund Eifersucht ernährt, sind die Menschen für\ndie Existenz dieses Pokémon dankbar.",
+        "Einem alten Sprichwort zufolge soll man sich von\nHäusern fernhalten, an denen sich bei Einbruch\nder Dunkelheit Shuppet aneinanderreihen."
+    ],
+    "height": 0.6,
+    "id": 353,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "name": "Shuppet",
+    "types": [
+        "Geist"
+    ],
+    "weight": 2.3
+}

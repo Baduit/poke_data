@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "È nato da un sacchetto della spazzatura che ha\nsubito un cambiamento chimico a causa delle scorie\nindustriali.",
+        "Predilige luoghi insalubri. Esala gas dalle fauci in\ngrado di addormentare per una settimana.",
+        "È nato da un sacchetto della spazzatura che ha subito\nun cambiamento chimico a causa delle scorie industriali.",
+        "Predilige luoghi insalubri. Esala gas dalle fauci in grado di\naddormentare per una settimana.",
+        "Predilige luoghi insalubri. Nella regione\ndi Alola lo si vede spesso inseguito da\nGrimer.",
+        "Quando si rimpinza di spazzatura esala dalle\nfauci un gas tossico. Chi lo respira finisce\nimmediatamente all’ospedale.",
+        "Esala gas tossici a ogni respiro.\nQuando Muk ne sente l’odore, si dirige verso\ndi lui con l’acquolina in bocca.",
+        "Il gas tossico che gli sfugge dalla bocca può\nessere pericolosissimo se inalato da bambini\no piccoli di Pokémon.",
+        "Predilige luoghi insalubri. Sbuca fuori nelle case\ndove è stata lasciata spazzatura in giro e vi si\nstabilisce.",
+        "È nato da un sacchetto pieno di spazzatura.\nI Weezing di Galar sono ghiotti del gas tossico\nche esala."
+    ],
+    "height": 0.6,
+    "id": 568,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "name": "Trubbish",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 31.0
+}

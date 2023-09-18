@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Ses violents battements d’ailes\ngénèrent des vagues d’ultrasons\nqui donnent mal au crâne.",
+        "Ses violents battements d’ailes\ngénèrent des vagues d’ultrasons\nqui donnent mal au crâne.",
+        "Ses violents battements d’ailes génèrent des vagues\nd’ultrasons qui donnent d’intenses migraines.",
+        "Il génère des ondes ultrasoniques en battant\nviolemment des ailes. Dès que sa proie est\ninconsciente, il l’arrose d’acide pour pouvoir l’avaler.",
+        "Pour mettre ses proies K.O., Vibraninf envoie des ultrasons\nen faisant vibrer ses deux ailes. Les ondes sonores de ce\nPokémon sont si puissantes qu’elles peuvent déclencher\ndes maux de tête chez les gens.",
+        "Les ailes de Vibraninf n’ont pas complètement fini de pousser.\nElles ne lui servent pas à voler sur de longues distances,\nmais plutôt à générer des ultrasons en vibrant.",
+        "Ses ébauches d’ailes ne lui servent pas tant à\nvoler qu’à produire des ultrasons par frottement\npour neutraliser ses ennemis.",
+        "Pour aider ses ailes à pousser, il fait un vrai\ncarnage tous les jours, arrosant ses moult\nproies d’acide pour les dissoudre et s’en nourrir.",
+        "Il émet des ultrasons avec ses ailes pour\nassommer ses proies, puis les ensable vivantes\npour les conserver.",
+        "Il émet de puissantes ondes sonores en battant\ndes ailes, aussi est-il recommandé à son\nDresseur de se protéger les tympans.",
+        "Ses violents battements d’ailes génèrent\ndes vagues d’ultrasons qui donnent\ndes migraines intenses.",
+        "Pour aider ses ailes à pousser, il se nourrit chaque\njour d’un grand nombre de proies qu’il dissout\nen projetant de l’acide."
+    ],
+    "height": 1.1,
+    "id": 329,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "name": "Vibraninf",
+    "types": [
+        "Sol",
+        "Dragon"
+    ],
+    "weight": 15.3
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "黒真珠で　サイコパワーを\n強め　奇妙な　ステップで\n相手の　心を　操るぞ。",
+        "黒真珠で　サイコパワーを\n増幅させる。不思議な　ステップで\n相手の　心を　操る。",
+        "サイコパワーの　波動を　黒真珠で　強め\n自由自在に　相手を　操る　ポケモン。\n力を　使うとき　鼻息が　荒くなるぞ。",
+        "黒真珠を　利用して　不思議な　力を\n使うとき　奇妙な　ステップで　踊りだす。\n黒真珠は　美術品の　価値を　持つ。"
+    ],
+    "height": 0.9,
+    "id": 326,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "name": "ブーピッグ",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 71.5
+}

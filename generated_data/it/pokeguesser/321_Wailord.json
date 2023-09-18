@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "L’impatto creato dai suoi salti fuori e dentro l’acqua\npuò arrivare a mandare KO un avversario.",
+        "Il Pokémon più grande che esista. Dopo aver inalato\naria, si immerge a una profondità di 3000 m.",
+        "Wailord è il più grande tra tutti i Pokémon finora identificati.\nCon la sua gigante mole nuota dolcemente nella vastità\ndel mare aperto, ingoiando enormi quantità di cibo con\nla bocca enorme.",
+        "Cacciando le prede, i Wailord eseguono balzi e tuffi\nspettacolari in acqua. È davvero uno spettacolo mozzafiato\nvedere questi Pokémon esibirsi in branco.",
+        "Ha l’abitudine di cacciare le prede in branco.\nCon la sua enorme bocca può inghiottire\nin un colpo solo un banco di Wishiwashi.",
+        "È molto amato per la sua enorme stazza.\nIl Wailord watching è un’attività turistica\npopolare in tutto il mondo.",
+        "Si nutrono di enormi quantità di Pokémon\nacquatici. Quando diventano troppo numerosi,\ni pescatori li allontanano.",
+        "Se un piccolo Wailmer viene attaccato da uno\nSharpedo o da un Dhelmise, gli altri Wailord\ngli si raggruppano attorno per proteggerlo.",
+        "Con l’impatto creato dal suo enorme corpo\nquando salta sulle onde è perfino in grado di far\nperdere i sensi all’avversario.",
+        "È molto amato per la sua enorme stazza.\nIl Wailord watching è un’attività turistica\npopolare in tutto il mondo."
+    ],
+    "height": 14.5,
+    "id": 321,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "name": "Wailord",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 398.0
+}

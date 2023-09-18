@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Les motifs antiques qui ont été gravés\nen y incorporant une puissante malédiction\nont aspiré l’âme de Tutafeh avant de prendre vie.",
+        "Quiconque touchera son corps semblable\nà une ombre devra endurer la vision des souvenirs\neffroyables gravés dans ses motifs."
+    ],
+    "height": 1.6,
+    "id": 867,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+    "name": "Tutétékri",
+    "types": [
+        "Sol",
+        "Spectre"
+    ],
+    "weight": 66.6
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Almacena llamas en su cuerpo, que alcanza una\ntemperatura de 900 °C antes de un combate.",
+        "Almacena llamas en el interior de su cuerpo. Tras\ninhalar profundamente, las lanza a una temperatura\nde 1700 °C.",
+        "La suavidad del pelaje de Flareon tiene una función clara:\nlibera calor para que el Pokémon no se asfixie. La temperatura\ncorporal de este Pokémon puede alcanzar los 900 °C.",
+        "La suavidad del pelaje de Flareon tiene una función clara:\nlibera calor para que el Pokémon no se asfixie. La temperatura\ncorporal de este Pokémon puede alcanzar los 900 °C.",
+        "Antes de hincarle el diente a algo, ya sean\nbayas o alguna presa, lo cocina con sus llamas\nhasta que queda bien hecho.",
+        "La temperatura corporal de este Pokémon ronda\nlos 700 u 800 °C. Las llamas que almacena en\nsu bolsa interior pueden llegar a los 1700 °C.",
+        "Cuando inspira profundamente es señal de que\nse dispone a atacar. Expele llamaradas que\nalcanzan temperaturas de 1700 °C.",
+        "Cuando su ánimo se altera, las llamas que\nalmacena en su bolsa interior se avivan y su\ntemperatura corporal llega a los 900 °C.",
+        "La bolsa en el interior de su cuerpo le permite\nconvertir el aire que aspira en llamas a 1700 °C\nque luego exhala por la boca.",
+        "La bolsa en el interior de su cuerpo le permite\nconvertir el aire que aspira en llamas a 1700 °C\nque luego exhala por la boca.",
+        "Una vez que ha almacenado el calor suficiente,\npuede alcanzar una temperatura de 900 °C.",
+        "Almacena parte del aire que inhala en la saca de\nfuego de su interior, que llega a calentarse a más\nde 1700 °C."
+    ],
+    "height": 0.9,
+    "id": 136,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "name": "Flareon",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 25.0
+}

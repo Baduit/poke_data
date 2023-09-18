@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Hace mucho, la gente creía que sus horripilantes\naullidos eran de la muerte personificada.",
+        "Las llamas que respira cuando se enfada contienen\ntoxinas. Si causan una quemadura, dolerá toda la vida.",
+        "En la manada de Houndoom, el que tiene los cuernos más\narqueados hacia atrás tiene un mayor papel de liderazgo.\nEstos Pokémon suelen elegir al jefe en duelo.",
+        "En la manada de Houndoom, el que tiene los cuernos más\narqueados hacia atrás tiene un mayor papel de liderazgo.\nEstos Pokémon suelen elegir al jefe en duelo.",
+        "Remata a sus rivales exhalando llamas tóxicas.\nSi abate una presa, la compartirá a partes\niguales con el resto de la manada.",
+        "Su rasgo distintivo son los escalofriantes\naullidos que profiere. Antiguamente, era temido\ny considerado un emisario del inframundo."
+    ],
+    "height": 1.4,
+    "id": 229,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "name": "Houndoom",
+    "types": [
+        "Siniestro",
+        "Fuego"
+    ],
+    "weight": 35.0
+}

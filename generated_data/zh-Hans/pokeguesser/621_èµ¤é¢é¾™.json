@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "红色脸孔上的皮肤比岩石还要硬。\n在狭窄的洞窟中，\n会用脸朝向敌人发动突击。",
+        "会入侵地鼠或三地鼠挖掘的隧道。\n静静地等待着猎物的经过。",
+        "生活在地洞里。因为\n身体受凉就会无法动弹，\n所以日光浴必不可缺。",
+        "性情凶暴而狡猾。\n会把其他宝可梦挖出的巢穴\n抢来当做自己的住处。"
+    ],
+    "height": 1.6,
+    "id": 621,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "name": "赤面龙",
+    "types": [
+        "龙"
+    ],
+    "weight": 139.0
+}

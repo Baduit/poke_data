@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "喜欢温度高，有一定\n湿度的地方。它会用\n身上的藤蔓抓小虫来吃。",
+        "喜欢温度高，有一定\n湿度的地方。它会用\n身上的藤蔓抓小虫来吃。"
+    ],
+    "height": 0.7,
+    "id": 69,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "name": "喇叭芽",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 4.0
+}

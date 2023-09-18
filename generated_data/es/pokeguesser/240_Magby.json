@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es pequeño, pero su cuerpo puede llegar a alcanzar\n600 °C. Cuando inspira y espira, expulsa llamas por la\nnariz y por la boca.",
+        "Su sangre es como magma y su temperatura corporal\npuede alcanzar los 600 °C.",
+        "El estado de salud de Magby se puede determinar observando\nel fuego que emana al respirar. Si las llamas que echa por la\nboca son amarillas, está bien. Pero, si además de las llamas\nsale humo negro, está cansado.",
+        "El estado de salud de Magby se puede determinar observando\nel fuego que emana al respirar. Si las llamas que echa por la\nboca son amarillas, está bien. Pero, si además de las llamas\nsale humo negro, está cansado.",
+        "Es fácil encontrarse con un Magby en áreas\ncercanas a volcanes. Si se le da comida, se\nemociona y expulsa fuego a 600 °C.",
+        "Hay reputados alfareros que viven con Magby.\nAl parecer, sus suaves llamas son ideales para\ncocer grandes obras de alfarería.",
+        "Cuando se le escapan pequeñas llamaradas por\nel hocico significa que está resfriado y el mejor\nremedio es un buen baño de magma.",
+        "Su temperatura corporal ronda los 600 °C. Si\ncae en un pequeño estanque, es capaz de\nevaporarlo por completo.",
+        "Como todavía es pequeño, se asusta fácilmente.\nCuando se emociona o se sorprende, se le\nescapa fuego por la nariz y por la boca.",
+        "Vive en los alrededores de los volcanes.\nAl final del día, se baña en magma para\naliviar el cansancio."
+    ],
+    "height": 0.7,
+    "id": 240,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "name": "Magby",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 21.4
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il stocke des Baies sous sa\ncarapace. Elles fermentent et\nproduisent des jus délicieux.",
+        "Il stocke des Baies sous sa\ncarapace. Elles fermentent et\nproduisent des jus délicieux.",
+        "Sa carapace, creuse comme une jarre, lui sert à\nstocker des Baies jusqu’à ce qu’elles se transforment\nen un jus épais et parfumé.",
+        "Il garde des Baies dans sa coquille. Pour éviter les\nattaques, il s’immobilise sous un rocher.",
+        "Caratroc se cache tranquillement sous les rochers, abritant\nson corps dans sa carapace solide, pendant qu’il mange\nles Baies qu’il a mises de côté. Les Baies se mélangent à\nses fluides corporels pour produire du jus.",
+        "Caratroc se cache tranquillement sous les rochers, abritant\nson corps dans sa carapace solide, pendant qu’il mange\nles Baies qu’il a mises de côté. Les Baies se mélangent à\nses fluides corporels pour produire du jus.",
+        "Il garde des Baies dans sa carapace. Pour éviter\nde se faire attaquer, il s’immobilise sous un rocher.",
+        "Les Baies qu’il conserve dans sa carapace\nen forme d’urne se changent en jus onctueux\naprès un certain temps."
+    ],
+    "height": 0.6,
+    "id": 213,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "name": "Caratroc",
+    "types": [
+        "Insecte",
+        "Roche"
+    ],
+    "weight": 20.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sammelt Beerensamen in seinem Schnabel.\nBegegnet es Feinden oder Beute, kann es alle\nauf einmal verschießen.",
+        "Indem es seinen Schnabel verformt, kann es\neine große Bandbreite an Lauten ausstoßen.\nDer Alptraum eines jeden Nachbarn.",
+        "Indem es seine Schnabelspitze verformt, kann\nes mehr als 100 verschiedene Rufe ausstoßen.",
+        "Es feuert mit seinem Schnabel Samen von\ngefressenen Beeren ab. Aus den Samen, die am\nBoden liegenbleiben, entstehen neue Pflanzen."
+    ],
+    "height": 0.6,
+    "id": 732,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "name": "Trompeck",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 14.8
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "La confianza con su Entrenador ha despertado\nsu potencial. Ahora es capaz de cambiar de tipo\na voluntad durante el combate.",
+        "Debe su nombre al joven que hizo evolucionar\npor primera vez a Código Cero para que\nadquiriese este aspecto.",
+        "Esta es la forma que adopta tras evolucionar y\ndespertar todo su potencial. Al deshacerse de\nsu máscara, su velocidad ha aumentado mucho.",
+        "Se ha liberado de la máscara de contención\ngracias a su fortaleza mental, fruto del\nestrecho vínculo con su Entrenador.",
+        "Gracias a los fuertes vínculos que lo unen a su\nEntrenador, ha despertado todo su potencial.\nEs capaz de cambiar de tipo a voluntad.",
+        "El factor decisivo que le ha permitido liberar\ntoda su fuerza ha sido el estrecho vínculo y la\nconfianza que profesa a su Entrenador."
+    ],
+    "height": 2.3,
+    "id": 773,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "name": "Silvally",
+    "types": [
+        "Normal"
+    ],
+    "weight": 100.5
+}

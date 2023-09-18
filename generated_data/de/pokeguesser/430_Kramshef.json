@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sein tiefer Ruf lockt andere Kramurx herbei.\nMan nennt es daher „Beschwörer der Nacht“.",
+        "Ein nachtaktives Pokémon, das sich in Schwärmen\nmit Kramurx durch die Nacht bewegt.",
+        "Sein tiefer Ruf lockt andere Kramurx herbei. Man nennt es\ndaher „Beschwörer der Nacht“.",
+        "Ein nachtaktives Pokémon, das sich in Schwärmen mit Kramurx\ndurch die Nacht bewegt.",
+        "Dieses nachtaktive Pokémon kann mit einem\neinzigen Ruf über 100 seiner untergebenen\nKramurx versammeln.",
+        "Untergebene Kramurx, die beim Beutefang\nversagen und Kramshef damit enttäuschen, jagt\nes bis ans Ende der Welt, um sie zu bestrafen.",
+        "Für Untergebene, die versagen oder es verraten,\nhat es keine Gnade übrig. Das ist nötig, um die\nDisziplin in der Gruppe aufrechtzuerhalten.",
+        "Das Kämpfen überlässt es größtenteils seinen\nUntergebenen. Es macht sich nur die Flügel\nschmutzig, um dem Gegner den Rest zu geben."
+    ],
+    "height": 0.9,
+    "id": 430,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "name": "Kramshef",
+    "types": [
+        "Unlicht",
+        "Flug"
+    ],
+    "weight": 27.3
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ce Pokémon utilise des phéromones\npour donner des ordres de combat\naux larves dans son abdomen.",
+        "Ce Pokémon utilise des phéromones\npour donner des ordres de combat\naux larves dans son abdomen.",
+        "Son abdomen abrite ses petits. Ce Pokémon utilise\ndes phéromones pour leur donner des ordres.",
+        "Son abdomen est un rayon où vivent ses larves,\nélevées avec le nectar récolté par Apitrini.",
+        "Son abdomen abrite ses petits. Ce Pokémon utilise\ndes phéromones pour leur donner des ordres.",
+        "Son abdomen est un rayon où vivent ses larves, élevées avec\nle nectar récolté par Apitrini.",
+        "Ce Pokémon se bat en dirigeant ses petits.\nCes derniers sont prêts à se sacrifier pour\nleur Apireine.",
+        "Plus la quantité de phéromones qu’il libère\nest élevée, plus le nombre d’Apitrini qu’il peut\ndiriger est grand."
+    ],
+    "height": 1.2,
+    "id": 416,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "name": "Apireine",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 38.5
+}

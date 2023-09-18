@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Se lanza sobre su presa entonando un grito de\nguerra. Golpea al enemigo y lo hace trizas con\nsus escamas.",
+        "Muda constantemente sus escamas, que cada\nvez se vuelven más duras y afiladas.",
+        "Golpea sus escamas entre sí. Cuando culmina el\nritmo de esta percusión, se abalanza sobre el\nenemigo.",
+        "Las escamas que se le caen se utilizan para\nfabricar pucheros y sartenes muy apreciados,\nya que son muy buenas conductoras del calor.",
+        "Como prueba de su fuerza, muestra orgulloso\na quienes vence las cicatrices de su cuerpo\ndonde ya no tiene escamas.",
+        "Tras hacer sonar sus escamas y proferir su grito\nde guerra, carga contra el enemigo y lo hace\ntrizas con sus afiladas garras."
+    ],
+    "height": 1.2,
+    "id": 783,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "name": "Hakamo-o",
+    "types": [
+        "Dragón",
+        "Lucha"
+    ],
+    "weight": 47.0
+}

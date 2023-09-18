@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "抱着受伤的宝可梦，\n用特殊的粘液敷伤口。\n但其中的理由不太清楚。",
+        "漂浮在汪洋大海上生活。\n保姆曼波的周围\n会聚集起许多水属性宝可梦。",
+        "渔夫在长距离航海时会带着它。\n因为有了保姆曼波，\n医生和药都不需要了。",
+        "之所以会救助体弱的宝可梦，\n好像是因为盯上它们的\n宝可梦也会攻击它自己。"
+    ],
+    "height": 1.2,
+    "id": 594,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "name": "保姆曼波",
+    "types": [
+        "水"
+    ],
+    "weight": 31.6
+}

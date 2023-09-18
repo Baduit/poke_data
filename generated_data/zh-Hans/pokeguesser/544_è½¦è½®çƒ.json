@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "高速旋转突击对方。\n最高时速可以达到\n１００公里左右。",
+        "用坚硬的壳和带毒的刺\n保护自己的身体，\n积蓄进化所需的能量。"
+    ],
+    "height": 1.2,
+    "id": 544,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "name": "车轮球",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 58.5
+}

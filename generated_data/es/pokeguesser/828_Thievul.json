@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Marca a su presa sin ser advertido. Sigue el olor\ny, cuando el otro Pokémon baja la guardia,\naprovecha para robarle.",
+        "Un Pokémon ágil y de afiladas garras que se\nalimenta de huevos y comida robados. Los\nBoltund son su enemigo natural."
+    ],
+    "height": 1.2,
+    "id": 828,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "name": "Thievul",
+    "types": [
+        "Siniestro"
+    ],
+    "weight": 19.9
+}

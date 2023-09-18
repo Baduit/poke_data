@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il lui arrive d’aller chercher sa nourriture sur\nla terre ferme. Sa bulle lui sert alors aussi bien\nà respirer qu’à protéger sa tête molle.",
+        "Dès qu’il tombe sur une proie ou un prédateur,\nil ouvre les hostilités en lui lançant de l’eau\nprovenant de la bulle qui entoure sa tête.",
+        "Quand deux Araqua se croisent, ils comparent\nla taille de leur bulle. Celui qui a la plus petite\ndoit céder le passage.",
+        "L’oxygène contenu dans l’eau étant le seul\nqu’il puisse respirer, il met toujours sa tête\ndans une bulle quand il est sur la terre ferme.",
+        "Il enveloppe sa tête dans une bulle d’eau qu’il\na gonflée avec son abdomen. Il aime en comparer\nla taille avec celles de ses congénères.",
+        "Il vit principalement dans l’eau, mais s’il a besoin\nde s’aventurer sur la terre ferme pour chasser\nses proies, il protège sa tête avec une bulle d’eau."
+    ],
+    "height": 0.3,
+    "id": 751,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "name": "Araqua",
+    "types": [
+        "Eau",
+        "Insecte"
+    ],
+    "weight": 4.0
+}

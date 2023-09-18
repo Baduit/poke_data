@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Di solito sussurra, ma se avverte un pericolo lancia\ngrida acute, che interrompe quando ha le orecchie\nchiuse.",
+        "Se sospetta un pericolo, leva grida agli stessi\nassordanti decibel di un jet, gettando nel panico i\nnemici.",
+        "Normalmente la voce di Whismur è molto tenue, quasi\nimpercettibile, anche se ci si concentra. Tuttavia,\nse questo Pokémon percepisce un pericolo, inizia\na emettere suoni assordanti.",
+        "Whismur è estremamente timido. Se gli capita di emettere\nsuoni forti, è atterrito nell’udire la sua stessa voce, quindi\nurla ancora più fragorosamente. Quando finalmente si placa,\nva a dormire, spossato.",
+        "Il suo grido, che può superare i 100 decibel,\nfa venire mal di testa per tutta la giornata\na chiunque si trovi nelle vicinanze.",
+        "Se inizia a gridare, si spaventa al suono della sua\nstessa voce e urla ancora di più. Quando si stanca\ndi urlare, va a dormire."
+    ],
+    "height": 0.6,
+    "id": 293,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "name": "Whismur",
+    "types": [
+        "Normale"
+    ],
+    "weight": 16.3
+}

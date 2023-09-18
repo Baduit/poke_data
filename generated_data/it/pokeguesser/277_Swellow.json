@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Se le due penne sulla coda sono ritte, significa che\nè in buona salute. Si libra elegantemente nel cielo.",
+        "Trova nella foresta le sue prede, vi si scaglia sopra\nin picchiata e le afferra con i suoi artigli affilati.",
+        "Swellow vola alto sopra le nostre teste disegnando armoniosi\narchi in cielo. Appena scova una preda si lancia su di essa\nin picchiata. Swellow cattura poi la sventurata preda con le sue\nzampe artigliate impedendole la fuga.",
+        "Swellow è molto attento a mantenere le proprie ali sempre\nlucide e splendenti. Spesso si incontra coi propri simili\ne questi Pokémon in gruppo si lisciano vicendevolmente\nle piume."
+    ],
+    "height": 0.7,
+    "id": 277,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "name": "Swellow",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 19.8
+}

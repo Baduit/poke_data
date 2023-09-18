@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "是性格粗暴又凶猛的宝可梦。\n红色和蓝色的野蛮鲈鱼\n总是为了领地问题打架。",
+        "因为性格粗暴，在野蛮鲈鱼群\n出现的湖里，就只有龙虾小兵\n和铁螯龙虾之类的能留下来。",
+        "它上钩时顽强的抵抗深受垂钓者\n的喜爱。由于人们擅自把它们\n放生到池塘里，数量越来越多。",
+        "从前也曾经登上餐桌。\n红条纹野蛮鲈鱼的肉脂肪含量高，\n适合年轻人食用。"
+    ],
+    "height": 1.0,
+    "id": 550,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "name": "野蛮鲈鱼",
+    "types": [
+        "水"
+    ],
+    "weight": 18.0
+}

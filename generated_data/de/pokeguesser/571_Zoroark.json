@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Kann auf einen Schlag große Massen von Menschen\ntäuschen. Es kreiert Illusionen, um sein Revier zu\nschützen.",
+        "Seit jeher beschützt es das Rudel, indem es\ndie Gestalt des Feindes annimmt. Es ist sehr\nloyal zu seinen Artgenossen.",
+        "Kann auf einen Schlag große Massen von Menschen täuschen.\nEs kreiert Illusionen, um sein Revier zu schützen.",
+        "Seit jeher beschützt es das Rudel, indem es die Gestalt des\nFeindes annimmt. Es ist sehr loyal zu seinen Artgenossen.",
+        "Es kann nicht nur seine Gestalt verändern,\nsondern auch Illusionen erzeugen, um auf einen\nSchlag mehrere Hundert Menschen zu täuschen.",
+        "Es heißt, dass es jene Menschen, die sein Revier\nzu enthüllen drohen, mit Illusionen täuscht und\ndazu bringt, unentwegt durch den Wald zu irren.",
+        "Seine Artgenossen liegen ihm sehr am Herzen.\nZoroark beschützt sein Revier und sein Rudel,\nindem es furchteinflößende Illusionen erzeugt.",
+        "Trainer, denen es an Gesellschaft fehlt, weisen\nZoroark manchmal dazu an, ihnen eine Illusion zu\nzeigen, um sich von ihrer Einsamkeit abzulenken."
+    ],
+    "height": 1.6,
+    "id": 571,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "name": "Zoroark",
+    "types": [
+        "Unlicht"
+    ],
+    "weight": 81.1
+}

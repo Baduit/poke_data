@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Il devient actif en absorbant l’énergie qui émerge\ndu sol de Galar grâce au noyau situé\nsur sa poitrine.",
+        "Il se trouvait dans une météorite qui s’est écrasée\nil y a 20 000 ans. Il semble y avoir un lien\nentre ce Pokémon et le phénomène Dynamax."
+    ],
+    "height": 20.0,
+    "id": 890,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "name": "Éthernatos",
+    "types": [
+        "Poison",
+        "Dragon"
+    ],
+    "weight": 950.0
+}

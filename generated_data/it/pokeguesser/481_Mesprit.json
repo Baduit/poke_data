@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Detto “Essere delle emozioni”. Ha insegnato agli\nuomini la nobiltà di tristezza, gioia e dolore.",
+        "Dorme sul fondo di un lago. Si dice che il suo spirito\nabbandoni il corpo per volare in superficie.",
+        "Detto “Essere delle emozioni”. Ha insegnato agli uomini\nla nobiltà di tristezza, gioia e dolore.",
+        "Dorme sul fondo di un lago. Si dice che il suo spirito\nabbandoni il corpo per volare in superficie."
+    ],
+    "height": 0.3,
+    "id": 481,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+    "name": "Mesprit",
+    "types": [
+        "Psico"
+    ],
+    "weight": 0.3
+}

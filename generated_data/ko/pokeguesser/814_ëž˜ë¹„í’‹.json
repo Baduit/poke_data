@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "푹신푹신한 털 덕분에 추위에\n강해지고 더 높은 온도의\n불꽃 기술도 쓸 수 있게 되었다.",
+        "손을 쓰지 않고 나뭇가지에서\n나무열매를 따내고 리프팅한다.\n발 기술을 연마하는 연습이다."
+    ],
+    "height": 0.6,
+    "id": 814,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "name": "래비풋",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 9.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Son cri profond peut invoquer une\nmeute de Cornèbre. On l’appelle\n“le crieur de mauvais augure”.",
+        "Son cri profond peut invoquer une\nmeute de Cornèbre. On l’appelle\n“le crieur de mauvais augure”.",
+        "Son cri profond peut invoquer une meute de\nCornèbre. On l’appelle « le crieur de mauvais augure ».",
+        "Ce Pokémon nocturne évolue en grandes volées\nescortées par des Cornèbre.",
+        "Son cri profond peut invoquer une meute de Cornèbre.\nOn l’appelle « le crieur de mauvais augure ».",
+        "Ce Pokémon nocturne évolue en grandes volées escortées\npar des Cornèbre.",
+        "Un seul des puissants croassements de ce\nPokémon nocturne lui permet de rassembler\nune centaine de Cornèbre, ses sous-fifres.",
+        "Si l’un de ses sous-fifres Cornèbre a le malheur\nde le décevoir ou d’échouer dans sa mission, le\nCorboss le pourchassera sans le moindre répit.",
+        "Il ne pardonne jamais la trahison ou la défaite\nd’un subordonné. Le bien-être de l’ensemble\nde la volée en dépend.",
+        "Ses sous-fifres font le sale boulot pour lui.\nIl n’intervient en combat que pour donner\nle coup de grâce à son ennemi."
+    ],
+    "height": 0.9,
+    "id": 430,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "name": "Corboss",
+    "types": [
+        "Ténèbres",
+        "Vol"
+    ],
+    "weight": 27.3
+}

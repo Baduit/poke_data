@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "あごの　ほのおで　こぶしを　もやして\nほのおの　パンチを　くりだす。\nとても　なかまおもいの　ポケモン。",
+        "ほのおの　あごひげを　たくわえる。\nパワーと　スピードを　かねそなえた\nかくとうの　わざを　みにつけている。",
+        "あごの　ほのおで　こぶしを　もやして\nほのおの　パンチを　くりだす。\nとても　なかまおもいの　ポケモン。",
+        "ほのおの　あごひげを　たくわえる。\nパワーと　スピードを　かねそなえた\nかくとうの　わざを　みにつけている。"
+    ],
+    "height": 1.6,
+    "id": 500,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "name": "エンブオー",
+    "types": [
+        "ほのお",
+        "かくとう"
+    ],
+    "weight": 150.0
+}

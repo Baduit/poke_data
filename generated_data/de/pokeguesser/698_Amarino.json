@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Dieses antike Pokémon wurde aus Teilen seines\nKörpers neu belebt, die 100 Millionen\nJahre lang im ewigen Eis geschlummert hatten.",
+        "Dieses eher ruhige Pokémon lebte in einem kalten\nLand, in dem es keine brutalen Gegner wie\nMonargoras zu fürchten hatte.",
+        "Dieses antike Pokémon wurde aus Teilen seines Körpers\nneu belebt, die 100 Millionen Jahre lang im ewigen Eis\ngeschlummert hatten.",
+        "Dieses eher ruhige Pokémon lebte in einem kalten Land,\nin dem es keine brutalen Gegner wie Monargoras zu fürchten\nhatte.",
+        "Vor Urzeiten lebte es in kalten Gebieten. Es\nheißt, wenn Amarino seine Stimme erklingen\nlässt, erscheinen Polarlichter.",
+        "Es konnte aus einem Fossil zurückverwandelt\nwerden, aber seine Lebenserwartung ist niedrig,\nda das heutige Klima zu heiß für es ist.",
+        "Amarino wurde erfolgreich aus einem Fossil\nreanimiert. Einst lebte es gruppenweise in kalten\nGebieten, wo nur wenige Feinde lauerten.",
+        "Ein ausgestorbenes Pokémon aus der Urzeit.\nManchmal werden im Eis erhalten gebliebene\nExemplare entdeckt."
+    ],
+    "height": 1.3,
+    "id": 698,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "name": "Amarino",
+    "types": [
+        "Gestein",
+        "Eis"
+    ],
+    "weight": 25.2
+}

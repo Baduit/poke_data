@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It can peck at a rate of 16 times a second to\ndrill holes in trees. It uses the holes for food\nstorage and for nesting.",
+        "This Pokémon feeds on berries, whose leftover\nseeds become the ammunition for the attacks it\nfires off from its mouth.",
+        "It pecks at trees with its hard beak. You can\nget some idea of its mood or condition from the\nrhythm of its pecking.",
+        "It may look spindly, but its neck muscles are\nheavy-duty. It can peck at a tree 16 times\nper second!"
+    ],
+    "height": 0.3,
+    "id": 731,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+    "name": "Pikipek",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 1.2
+}

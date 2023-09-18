@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il jauge le terrain en laissant\nses oreilles dépasser de l’herbe.\nIl se défend avec sa corne toxique.",
+        "Il jauge le terrain en laissant\nses oreilles dépasser de l’herbe.\nIl se défend avec sa corne toxique.",
+        "Il jauge le terrain en laissant ses oreilles dépasser\nde l’herbe. Il se défend avec sa corne toxique.",
+        "Ce Pokémon agite ses oreilles comme pour entendre\ntout ce qui se passe au loin. Il déploie des aiguillons\ntoxiques quand il est en colère.",
+        "Nidoran♂ a développé des muscles pour bouger\nses oreilles. Ainsi, il peut les orienter à sa guise.\nCe Pokémon peut entendre le plus discret des bruits.",
+        "Nidoran♂ a développé des muscles pour bouger\nses oreilles. Ainsi, il peut les orienter à sa guise.\nCe Pokémon peut entendre le plus discret des bruits.",
+        "Ses grandes oreilles sont toujours dressées et\nà l’affût de ce qu’il se passe alentour. S’il est\nmenacé, il se défend avec ses dards venimeux.",
+        "Ses grandes oreilles sont toujours dressées et\nà l’affût de ce qu’il se passe alentour. S’il est\nmenacé, il se défend avec ses dards venimeux.",
+        "Sa corne frontale contient un puissant poison.\nLes grandes oreilles de ce Pokémon très prudent\nsont constamment dressées.",
+        "Malgré sa petite taille, il est très téméraire.\nAfin de protéger sa compagne, il est prêt à\nse battre et à risquer sa vie."
+    ],
+    "height": 0.5,
+    "id": 32,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "name": "Nidoran♂",
+    "types": [
+        "Poison"
+    ],
+    "weight": 9.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
+        "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph."
+    ],
+    "height": 0.9,
+    "id": 948,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+    "name": "Toedscool",
+    "types": [
+        "Ground",
+        "Grass"
+    ],
+    "weight": 33.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Odia la luce e gli shock. Se è attaccato, gonfia il\ncorpo per preparare il contrattacco.",
+        "Se ne sta sempre tranquillo al buio per nascondere la\ncoda nera come la pece. Non attacca mai per primo.",
+        "Quando due o più Wobbuffet si incontrano, diventano\ncompetitivi tentando di vanificare la reciproca resistenza.\nTalvolta fanno anche a gara per vedere chi resiste di più\nsenza cibo. Gli Allenatori devono fare attenzione.",
+        "Wobbuffet non fa altro che subire le azioni nemiche:\nnon agisce mai per primo. Tuttavia, non sopporta di essere\nattaccato alla coda. In questo caso cerca di trascinare\ncon sé il nemico usando Destinobbligato.",
+        "Odia la luce e gli shock. Quando viene attaccato,\ngonfia il corpo per preparare il contrattacco.",
+        "Vive nel silenzio e nell’oscurità per nascondere\nla coda nera come la pece. Non attacca mai\nper primo."
+    ],
+    "height": 1.3,
+    "id": 202,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "name": "Wobbuffet",
+    "types": [
+        "Psico"
+    ],
+    "weight": 28.5
+}

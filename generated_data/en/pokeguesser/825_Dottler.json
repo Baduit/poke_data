@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It barely moves, but it’s still alive. Hiding in its\nshell without food or water seems to have\nawakened its psychic powers.",
+        "As it grows inside its shell, it uses its psychic\nabilities to monitor the outside world and\nprepare for evolution."
+    ],
+    "height": 0.4,
+    "id": 825,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "name": "Dottler",
+    "types": [
+        "Bug",
+        "Psychic"
+    ],
+    "weight": 19.5
+}

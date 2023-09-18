@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Da sempre si dice che al risveglio realizzi i desideri\nscritti sulle striscioline attaccate in testa.",
+        "Ha l’abilità di realizzare ogni desiderio, ma soltanto\nper una settimana ogni 1000 anni.",
+        "La leggenda racconta che Jirachi realizza ogni desiderio\nscritto su bigliettini che trova attaccati alla propria testa,\nquando si sveglia. In caso di pericolo, lotta senza mai\nsvegliarsi.",
+        "Jirachi può essere destato dal suo sonno millenario cantando\ncon una voce pura e cristallina. Riesce a realizzare ogni\ndesiderio espresso dalle persone.",
+        "Una volta ogni mille anni, si sveglia per sette\ngiorni al canto di una voce pura e cristallina.",
+        "Si dice che, al risveglio dal suo sonno millenario,\nrealizzi i desideri scritti sui bigliettini attaccati\nalla sua testa."
+    ],
+    "height": 0.3,
+    "id": 385,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "name": "Jirachi",
+    "types": [
+        "Acciaio",
+        "Psico"
+    ],
+    "weight": 1.1
+}

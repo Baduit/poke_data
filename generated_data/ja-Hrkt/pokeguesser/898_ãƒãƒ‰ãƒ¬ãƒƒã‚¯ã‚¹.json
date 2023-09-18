@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "いやしと　めぐみの　ちからを　もつ\nじあいに　みちた　ポケモン。　はるか\nむかし　ガラルに　くんりんしていた。",
+        "おおむかしの　ガラルを　すべていた\nでんせつの　おう。　こころを　いやし\nくさきを　めぶかせる　ちからがある。"
+    ],
+    "height": 1.1,
+    "id": 898,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "name": "バドレックス",
+    "types": [
+        "エスパー",
+        "くさ"
+    ],
+    "weight": 7.7
+}

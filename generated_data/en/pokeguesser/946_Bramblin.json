@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
+        "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+    ],
+    "height": 0.6,
+    "id": 946,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "name": "Bramblin",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "weight": 0.6
+}

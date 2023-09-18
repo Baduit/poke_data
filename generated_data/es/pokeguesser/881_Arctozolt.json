@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "La parte superior del cuerpo está congelada y,\nal temblar, genera electricidad. Camina con suma\ndificultad.",
+        "Antiguamente vivía en el mar y usaba el hielo del\ncuerpo para conservar los alimentos. Su extrema\nlentitud, sin embargo, lo condenó a la extinción."
+    ],
+    "height": 2.3,
+    "id": 881,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+    "name": "Arctozolt",
+    "types": [
+        "Eléctrico",
+        "Hielo"
+    ],
+    "weight": 150.0
+}

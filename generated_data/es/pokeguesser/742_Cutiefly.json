@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Se alimenta de néctar y polen. Es capaz de\ndetectar los capullos que están a punto de\nabrirse.",
+        "Revolotean en bandadas en torno a la cabeza de\naquellas personas que cuentan con un aura\nsimilar a la de las flores.",
+        "Le encanta el néctar y el polen. Revolotea en\nbusca de alimento por campos de flores, donde\ntiene sus rifirrafes con Butterfree.",
+        "Percibe el aura de los seres vivos. Aprovecha\nesta capacidad para juguetear con el enemigo\nanticipándose a sus movimientos.",
+        "Le fascinan el néctar y el polen. Suele revolotear\nalrededor de los Gossifleur, atraído por su polen.",
+        "Al percibir el aura del rival, puede predecir sus\nmovimientos y esquivarlos sin problema mientras\nlanza su contraataque."
+    ],
+    "height": 0.1,
+    "id": 742,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "name": "Cutiefly",
+    "types": [
+        "Bicho",
+        "Hada"
+    ],
+    "weight": 0.2
+}

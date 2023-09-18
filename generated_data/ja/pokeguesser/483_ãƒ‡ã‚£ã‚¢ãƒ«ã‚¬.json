@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "ディアルガが　生まれたことで\n時間が　動き出したという\n伝説を　持つ　ポケモン。",
+        "時間を　操る　力を　持つ。\nシンオウ地方では　神様と　呼ばれ\n神話に　登場する。",
+        "ディアルガが　生まれたことで\n時間が　動き出したという\n伝説を　持つ　ポケモン。",
+        "時間を　操る　力を　持つ。\nシンオウ地方では　神様と　呼ばれ\n神話に　登場する。"
+    ],
+    "height": 5.4,
+    "id": 483,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "name": "ディアルガ",
+    "types": [
+        "はがね",
+        "ドラゴン"
+    ],
+    "weight": 683.0
+}

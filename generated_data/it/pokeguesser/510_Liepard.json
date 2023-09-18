@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "I muscoli tonici del suo corpo gli donano una figura\ndavvero affascinante. Si aggira silenzioso nel buio\ndella notte.",
+        "Si avvicina di soppiatto alle spalle del nemico\ncolpendolo prima che se ne accorga.",
+        "I muscoli tonici del suo corpo gli donano una figura davvero\naffascinante. Si aggira silenzioso nel buio della notte.",
+        "Si avvicina di soppiatto alle spalle del nemico colpendolo\nprima che se ne accorga.",
+        "Pokémon dalla magnifica pelliccia e dalle linee\naggraziate, dietro cui si nasconde un carattere\nvolubile e feroce.",
+        "Si avvicina di soppiatto alla preda, attaccandola\nalle spalle all’improvviso. Spesso si contende\nil territorio con Thievul."
+    ],
+    "height": 1.1,
+    "id": 510,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "name": "Liepard",
+    "types": [
+        "Buio"
+    ],
+    "weight": 37.5
+}

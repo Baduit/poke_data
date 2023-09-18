@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "拥有超群的体力，而且\n飞翔范围广，经常飞到\n很远的地方寻找食物。",
+        "拥有超群的体力，而且\n飞翔范围广，经常飞到\n很远的地方寻找食物。"
+    ],
+    "height": 1.1,
+    "id": 17,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "name": "比比鸟",
+    "types": [
+        "一般",
+        "飞行"
+    ],
+    "weight": 30.0
+}

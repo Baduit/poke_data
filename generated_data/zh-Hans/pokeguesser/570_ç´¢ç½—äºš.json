@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "性格胆小的宝可梦，\n不和伙伴呆在一起的时候，\n通常都会幻化成其他东西。",
+        "平时很爱说话的孩子\n如果突然不说话了，\n或许是被索罗亚替换了哦。",
+        "之所以学会了幻化成\n其他东西的能力，似乎是\n因为它的性格比较胆小。",
+        "为了寻找食物，有时甚至会\n幻化成人类出现在城镇里。\n多数情况下会幻化成小孩。"
+    ],
+    "height": 0.7,
+    "id": 570,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "name": "索罗亚",
+    "types": [
+        "恶"
+    ],
+    "weight": 12.5
+}

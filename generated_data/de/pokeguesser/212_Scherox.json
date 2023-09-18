@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Dieses Pokémon kann mit seinen stählernen\nScheren jeden harten Gegenstand mühelos zermalmen.",
+        "Sein Körper ist stahlhart. Es bedroht seine Gegner,\nindem es die Augen auf seinen Scheren zeigt.",
+        "Scherox’ Körper ist hart wie Stahl. Gewöhnliche Angriffe jagen\nihm keine Angst ein. Dieses Pokémon schlägt mit den Flügeln,\num seine Körpertemperatur zu regulieren.",
+        "Scherox’ Körper ist hart wie Stahl. Gewöhnliche Angriffe jagen\nihm keine Angst ein. Dieses Pokémon schlägt mit den Flügeln,\num seine Körpertemperatur zu regulieren.",
+        "Es schlägt mit den Flügeln, um seine Körper-\ntemperatur zu regulieren. So überhitzt und\nschmilzt sein stählerner Körper im Kampf nicht.",
+        "Sobald es einen Gegner bemerkt, schlägt es ihn\nmit seinen stahlharten Scheren erbarmungslos\nnieder.",
+        "Sein Körper ist hart wie Stahl. Es nutzt seine\ngroßen, schweren Scheren weniger, um Gegner\nzu packen, als um sie niederzuschlagen.",
+        "Sobald es ein anderes Pokémon als Feind\nerkennt, schlägt es dieses mit seinen\nstahlharten Scheren gnadenlos in Stücke.",
+        "Mit einer seiner großen Scheren, die ein Drittel\nseines Körpergewichts ausmachen, kann es Felsen\nmit einem einzigen Schlag zermalmen.",
+        "Trotz seines dünnen Körpers verfügt Scherox\nüber eine gewaltige Angriffsstärke. Selbst seine\nMuskeln bestehen aus Metall."
+    ],
+    "height": 1.8,
+    "id": 212,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "name": "Scherox",
+    "types": [
+        "Käfer",
+        "Stahl"
+    ],
+    "weight": 118.0
+}

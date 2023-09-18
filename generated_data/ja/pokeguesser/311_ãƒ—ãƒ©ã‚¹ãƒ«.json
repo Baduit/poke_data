@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "火花の　ボンボンを　作って\n仲間を　応援する。\n電柱から　電気を　吸い取る。",
+        "電柱から　電気を　吸い取る。\n体に　ためた　電気を\nショートさせて　音を　出す。",
+        "いつも　仲間を　応援している　ポケモン。\n仲間が　頑張ると　体を　ショートさせて\nパチパチと　火花の　音を　立てて　喜ぶ。",
+        "仲間を　応援する　ときは　全身から\n電気の　火花を　出して　パチパチ　光る。\n仲間が　負けると　大声で　泣いてしまう。"
+    ],
+    "height": 0.4,
+    "id": 311,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "name": "プラスル",
+    "types": [
+        "でんき"
+    ],
+    "weight": 4.2
+}

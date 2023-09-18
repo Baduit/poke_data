@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "母親は　細長い　体で\n子供を　包みこみ　眠らせる。\n速い　動きで　敵を　追いこむ。",
+        "細長い　体の　形に\n合わせた　巣を　作り\n他の　ポケモンは　入れなくしている。",
+        "敵に　襲われても　細い　すき間に\nするりと　潜り込んで　逃げる　ことが　できる、\n手足は　短いが　とても　すばしっこい。",
+        "敵に　襲われても　細い　すき間に\nするりと　潜り込んで　逃げる　ことが　できる、\n手足は　短いが　とても　すばしっこい。"
+    ],
+    "height": 1.8,
+    "id": 162,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "name": "オオタチ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 32.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Può dissolvere le tossine nell’aria per mutare\nall’istante una terra arida in un rigoglioso campo\nfiorito.",
+        "Si narra che Shaymin si alzi in volo per esprimere\ncommossa gratitudine per la fioritura delle gracidee.",
+        "Può dissolvere le tossine nell’aria per mutare all’istante\nuna terra arida in un rigoglioso campo fiorito.",
+        "Si narra che Shaymin si alzi in volo per esprimere commossa\ngratitudine per la fioritura delle gracidee."
+    ],
+    "height": 0.2,
+    "id": 492,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "name": "Shaymin",
+    "types": [
+        "Erba"
+    ],
+    "weight": 2.1
+}

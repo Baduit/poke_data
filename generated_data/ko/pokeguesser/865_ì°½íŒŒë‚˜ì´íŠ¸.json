@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "많은 싸움에서 살아남은 자만이\n이 모습으로 진화한다.\n파가 시들면 전장을 떠난다.",
+        "단단한 파잎으로 공격을 받아넘기고\n날카로운 줄기로 반격한다.\n파는 무기인 동시에 식재료다."
+    ],
+    "height": 0.8,
+    "id": 865,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "name": "창파나이트",
+    "types": [
+        "격투"
+    ],
+    "weight": 117.0
+}

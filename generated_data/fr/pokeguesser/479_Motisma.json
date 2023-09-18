@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Son corps parcouru d’électricité\nlui permet de prendre le contrôle\nde certains appareils ménagers.",
+        "Son corps parcouru d’électricité\nlui permet de prendre le contrôle\nde certains appareils ménagers.",
+        "Un Pokémon longtemps étudié comme source\nd’énergie pour un moteur très spécial.",
+        "Son corps est fait de plasma. Il cause de gros dégâts\nen infiltrant des appareils électroniques.",
+        "Un Pokémon longtemps étudié comme source d’énergie\npour un moteur très spécial.",
+        "Son corps est fait de plasma. Il cause de gros dégâts\nen infiltrant des appareils électroniques.",
+        "L’invention d’un jeune homme a inspiré\nla création de machines permettant de profiter\ndes compétences de ce Pokémon.",
+        "Son corps composé de plasma lui permet\nd’infiltrer diverses machines.\nIl adore surprendre les gens."
+    ],
+    "height": 0.3,
+    "id": 479,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "name": "Motisma",
+    "types": [
+        "Électrik",
+        "Spectre"
+    ],
+    "weight": 0.3
+}

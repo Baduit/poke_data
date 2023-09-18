@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Wenn es Hitze erzeugt, beträgt seine Temperatur\netwa 800 ºC. Es bewegt seinen Körper wie eine\nPeitsche, um dann den Gegner anzuspringen.",
+        "Es ist angriffslustig veranlagt. Sein entflammter\nKörper und sein großes, scharfes Mundwerkzeug\nstellen eine enorme Gefahr dar."
+    ],
+    "height": 3.0,
+    "id": 851,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "name": "Infernopod",
+    "types": [
+        "Feuer",
+        "Käfer"
+    ],
+    "weight": 120.0
+}

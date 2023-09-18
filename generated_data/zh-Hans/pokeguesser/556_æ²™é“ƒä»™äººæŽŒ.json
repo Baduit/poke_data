@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "会发出沙铃般的声音。\n鸟宝可梦会因那轻快的\n节奏而受惊飞走。",
+        "一年散播一次种子。\n花的种子营养十足，\n是沙漠中贵重的食粮。"
+    ],
+    "height": 1.0,
+    "id": 556,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "name": "沙铃仙人掌",
+    "types": [
+        "草"
+    ],
+    "weight": 28.0
+}

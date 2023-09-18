@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Mordisquear las hojas de su cabeza permite recuperar\ntoda la vitalidad, a pesar de que están muy amargas.",
+        "Habita tierras húmedas ricas en nutrientes donde\nla cosecha es abundante.",
+        "Mordisquear las hojas de su cabeza permite recuperar toda la\nvitalidad, a pesar de que están muy amargas.",
+        "Habita tierras húmedas ricas en nutrientes donde la cosecha\nes abundante.",
+        "Las hojas de su cabeza son tan amargas que\ncasi producen náuseas, pero tienen un efecto\nrevitalizante, sobre todo en forma de infusión.",
+        "Adquiere un aspecto esplendoroso cuando se\nle recortan las hojas de la cabeza con cierta\nasiduidad.",
+        "Los ancianos aprecian las hojas de su cabeza,\nya que, secadas al sol y tomadas en infusión,\ndevuelven la vitalidad perdida.",
+        "Prefiere el agua y la tierra sin impurezas. Si el\nentorno en el que habita empeora, emigra en\ngrupo hacia un nuevo territorio.",
+        "Aparece en lugares de aguas limpias.\nLa decocción de las hojas de su cabeza se\npuede utilizar como repelente de insectos.",
+        "Cuanto más sano está este Pokémon, más intenso\nse vuelve el color de sus hojas. A veces se asienta\nen huertos o jardines de flores bien cuidados."
+    ],
+    "height": 0.5,
+    "id": 548,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "name": "Petilil",
+    "types": [
+        "Planta"
+    ],
+    "weight": 6.6
+}

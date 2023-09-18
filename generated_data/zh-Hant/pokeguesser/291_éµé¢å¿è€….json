@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "一直聽牠的叫聲\n會讓人頭痛不止。\n會以肉眼無法看清的速度移動。",
+        "行動十分迅速的寶可夢。\n說牠無論什麼攻擊都能避開也不誇張。\n非常喜歡甘甜的樹液。"
+    ],
+    "height": 0.8,
+    "id": 291,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "name": "鐵面忍者",
+    "types": [
+        "蟲",
+        "飛行"
+    ],
+    "weight": 12.0
+}

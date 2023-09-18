@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es bringt seine Gegner mit starkem Gift zur Strecke,\nobwohl es weiß, dass es stark genug ist, um sie\nzu zerfetzen.",
+        "In seinen Armen steckt so viel Kraft, dass es mit\nseinen giftigen Krallen Autos zerquetschen kann.",
+        "Es bringt seine Gegner mit starkem Gift zur Strecke, obwohl es\nweiß, dass es stark genug ist, um sie zu zerfetzen.",
+        "In seinen Armen steckt so viel Kraft, dass es mit seinen\ngiftigen Krallen Autos zerquetschen kann.",
+        "Sein Gift ist stark, aber es setzt es nur selten ein.\nIst es richtig wütend, schlägt es mit einer Wucht\nzu, die selbst Autos zu Schrott verarbeitet.",
+        "Es wird auch „Wüstendämon“ genannt, weil es so\ngrausam ist. Nur mit Hippoterus legt es sich nie\nan, sondern verhält sich ruhig."
+    ],
+    "height": 1.3,
+    "id": 452,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+    "name": "Piondragi",
+    "types": [
+        "Gift",
+        "Unlicht"
+    ],
+    "weight": 61.5
+}

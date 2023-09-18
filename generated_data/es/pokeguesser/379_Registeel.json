@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Su cuerpo ha estado sometido a la presión subterránea\ndurante miles de años y no puede arañarse.",
+        "Se dice que su cuerpo es más duro que cualquier\nmetal. Su interior es hueco, según ciertos estudios.",
+        "No hay metal que supere en dureza el cuerpo de Registeel,\nque tiene aspecto de estar hueco. Nadie sabe de qué se\nalimenta este Pokémon.",
+        "Hace mucho tiempo Registeel estuvo preso. La gente piensa\nque el metal del que está hecho es una curiosa sustancia\nextraterrestre.",
+        "Está hecho de una misteriosa sustancia que, pese\na ser más dura que cualquier metal, se contrae y\ndilata con facilidad.",
+        "Dicen que se formó en el manto terrestre y\nascendió a la superficie hace aproximadamente\ndiez mil años."
+    ],
+    "height": 1.9,
+    "id": 379,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "name": "Registeel",
+    "types": [
+        "Acero"
+    ],
+    "weight": 205.0
+}

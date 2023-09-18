@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sein Körper ist mit Klingen übersät, die es an Felsen\neines Flussbettes schärft, wenn sie im Kampf\nschartig werden.",
+        "Selbst wenn sie verletzt sind, greifen sie ihren Gegner\nunbeirrt in der Gruppe an, indem sie ihre Klingen in ihn\nhineinrammen.",
+        "Sein Körper ist mit Klingen übersät, die es an Felsen eines\nFlussbettes schärft, wenn sie im Kampf schartig werden.",
+        "Selbst wenn sie verletzt sind, greifen sie ihren Gegner unbeirrt\nin der Gruppe an, indem sie ihre Klingen in ihn hineinrammen.",
+        "Erst schlitzt es seine Beute auf, dann schärft es\nseine Klingen an den Felsen eines Flussbetts.\nJedes Gladiantri besitzt einen Lieblingsfelsen.",
+        "Es greift seine Gegner auf Befehl von Caesurio\nan. Nachdem es seine Beute aufgeschlitzt hat,\nlässt es seine Klingen schwingend ertönen.",
+        "Es treibt Gegner mit seinen scharfen Klingen in\ndie Ecke. Diese schärft es an den Felsen eines\nFlussbettes.",
+        "Gladiantri bilden Gruppen mit einem Caesurio\nan der Spitze. Jedes von ihnen trainiert hart,\num irgendwann selbst Anführer zu werden."
+    ],
+    "height": 0.5,
+    "id": 624,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "name": "Gladiantri",
+    "types": [
+        "Unlicht",
+        "Stahl"
+    ],
+    "weight": 10.2
+}

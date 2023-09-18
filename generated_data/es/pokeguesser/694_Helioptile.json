@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Habita en los desiertos y, cuando toma el sol, acumula\nenergía, lo que le permite vivir sin la necesidad de\ningerir alimentos.",
+        "Bajo los pliegues situados a ambos lados de la cabeza\nresiden células que, al exponerse a la luz del sol, son\ncapaces de generar electricidad.",
+        "Habita en los desiertos y, cuando toma el sol, acumula\nenergía, lo que le permite vivir sin la necesidad de ingerir\nalimentos.",
+        "Bajo los pliegues situados a ambos lados de la cabeza\nresiden células que, al exponerse a la luz del sol, son\ncapaces de generar electricidad.",
+        "Extiende los pliegues de la cabeza para absorber\nla luz del sol y convertirla en electricidad, con la\nque realiza potentes ataques de tipo Eléctrico.",
+        "Es capaz de generar electricidad a partir de la\nluz del sol. Si lo interrumpen en pleno proceso,\nse pone nervioso y pierde las fuerzas."
+    ],
+    "height": 0.5,
+    "id": 694,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "name": "Helioptile",
+    "types": [
+        "Eléctrico",
+        "Normal"
+    ],
+    "weight": 6.0
+}

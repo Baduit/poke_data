@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "L’air qu’il inspire est chauffé par\nla glande enflammée de son corps,\natteignant les 1 700 °C.",
+        "L’air qu’il inspire est chauffé par\nla glande enflammée de son corps,\natteignant les 1 700 °C.",
+        "Son corps contient une glande enflammée.\nSa température monte à 900 °C avant le combat.",
+        "Pyroli a une poche de feu à l’intérieur de son corps.\nAprès une bonne inspiration, il est capable de\nrecracher des flammes à 1 700 °C.",
+        "La fourrure soyeuse de Pyroli a une fonction anatomique.\nElle rejette la chaleur dans l’air pour que son corps ne\nsurchauffe pas. La température du corps de ce Pokémon\npeut atteindre 900 °C.",
+        "La fourrure soyeuse de Pyroli a une fonction anatomique.\nElle rejette la chaleur dans l’air pour que son corps ne\nsurchauffe pas. La température du corps de ce Pokémon\npeut atteindre 900 °C.",
+        "Après avoir trouvé une proie et quelques Baies,\nil crache du feu jusqu’à ce qu’elles soient cuites\nà point avant de les gober.",
+        "Sa température moyenne est entre 700 et\n800 °C. La poche de feu à l’intérieur de son\ncorps peut atteindre 1 700 °C.",
+        "Si vous le voyez inspirer profondément,\nsauvez-vous, car c’est le signe qu’il va attaquer\nen soufflant une flamme à 1 700 °C !",
+        "Lorsqu’il est agité, sa poche de feu interne\ns’enflamme, et sa température corporelle peut\nalors monter jusqu’à 900 °C.",
+        "La poche de feu à l’intérieur de son corps\ntransforme l’air qu’il inspire en flammes\nà 1 700 ºC qu’il recrache par la bouche.",
+        "La poche de feu à l’intérieur de son corps\ntransforme l’air qu’il inspire en flammes\nà 1 700 ºC qu’il recrache par la bouche.",
+        "Après avoir emmagasiné suffisamment de chaleur,\nsa température corporelle peut monter\njusqu’à 900 °C.",
+        "Il emmagasine de l’air dans sa poche de flammes\net le chauffe à une température de 1 700 °C."
+    ],
+    "height": 0.9,
+    "id": 136,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "name": "Pyroli",
+    "types": [
+        "Feu"
+    ],
+    "weight": 25.0
+}

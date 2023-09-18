@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "This Pokémon dwells deep in the forest.\nEating a leaf from its head whisks\nweariness away as if by magic.",
+        "It shares the leaf on its head with\nweary-looking Pokémon. These\nleaves are known to relieve stress.",
+        "It’s good at finding berries and gathers\nthem from all over. It’s kind enough\nto share them with friends.",
+        "It’s good at finding berries and gathers\nthem from all over. It’s kind enough\nto share them with friends.",
+        "It shares the leaf on its head with weary-looking\nPokémon. These leaves are known to relieve stress.",
+        "It’s good at finding berries and gathers them from\nall over. It’s kind enough to share them\nwith friends.",
+        "It shares the leaf on its head with weary-looking\nPokémon. These leaves are known to relieve stress.",
+        "It’s good at finding berries and gathers them from\nall over. It’s kind enough to share them\nwith friends."
+    ],
+    "height": 0.6,
+    "id": 511,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+    "name": "Pansage",
+    "types": [
+        "Grass"
+    ],
+    "weight": 10.5
+}

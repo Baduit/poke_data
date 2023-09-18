@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "거의 움직이지 않지만 살아 있다.\n식음을 전폐하고 껍질에 은둔하는 동안\n초능력에 눈을 뜬 모양이다.",
+        "껍질 안에서 성장 중이다.\n사이코 파워로 밖의 상태를\n살피며 진화에 대비하고 있다."
+    ],
+    "height": 0.4,
+    "id": 825,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "name": "레돔벌레",
+    "types": [
+        "벌레",
+        "에스퍼"
+    ],
+    "weight": 19.5
+}

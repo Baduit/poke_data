@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Su cuerpo es duro como la roca. Se autopropulsa\ncomo un cohete soltando los gases de su interior.",
+        "Su caparazón es duro como una piedra y muy\nresistente. Su Golpe puede derribar montañas.",
+        "Pupitar crea un gas en su interior que comprime y expulsa\nviolentamente a modo de autopropulsión. Tiene un cuerpo\nresistente que se mantiene inalterable hasta cuando se golpea\ncontra duro acero.",
+        "Pupitar crea un gas en su interior que comprime y expulsa\nviolentamente a modo de autopropulsión. Tiene un cuerpo\nresistente que se mantiene inalterable hasta cuando se golpea\ncontra duro acero.",
+        "Este Pokémon está impaciente por evolucionar\ny libera tensiones expulsando gas comprimido\ncon el que se propulsa. Un verdadero incordio.",
+        "Posee un enorme poder destructivo. Dentro de\nsu caparazón duro como la roca, su cuerpo\nexperimenta una metamorfosis.",
+        "Se mueve libremente aun encerrado en la coraza.\nSu enorme poder destructivo se une a su dureza\ny rapidez.",
+        "No se está quieto ni aun siendo una pupa. Sus\nextremidades ya se han formado bajo su robusta\ncoraza."
+    ],
+    "height": 1.2,
+    "id": 247,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "name": "Pupitar",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 152.0
+}

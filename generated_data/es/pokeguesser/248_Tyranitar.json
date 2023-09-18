@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "En una de sus poderosas garras tiene el poder de\nhacer temblar la tierra y las montañas.",
+        "Puede alterar el paisaje derribando montañas y\nenterrando ríos. Da mucho trabajo a los cartógrafos.",
+        "Tyranitar tiene una fuerza imponente; es capaz de echar abajo\nuna montaña para hacer su nido. Este Pokémon suele\nmerodear por las zonas de montaña en busca de nuevos\nrivales contra los que luchar.",
+        "Tyranitar tiene una fuerza imponente; es capaz de echar abajo\nuna montaña para hacer su nido. Este Pokémon suele\nmerodear por las zonas de montaña en busca de nuevos\nrivales contra los que luchar.",
+        "Recorre las montañas en busca de rivales para\ncombatir. Si juzga que no están a su altura, los\nignora y pasa de largo.",
+        "Nada puede parar a este Pokémon cuando se\nmueve: derriba montañas, arrasa edificios y\ndestroza todo lo que se le ponga por delante.",
+        "Casi ningún ataque hace mella en su cuerpo, por\nlo que le encanta desafiar a sus enemigos.",
+        "Sus estrepitosos pasos derrumban montañas\ny hacen que el terreno a su alrededor cambie\ndrásticamente."
+    ],
+    "height": 2.0,
+    "id": 248,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "name": "Tyranitar",
+    "types": [
+        "Roca",
+        "Siniestro"
+    ],
+    "weight": 202.0
+}

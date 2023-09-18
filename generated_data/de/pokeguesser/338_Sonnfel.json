@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Da es seine Energie aus Sonnenlicht gewinnt,\nist es tagsüber am stärksten. Wenn es sich dreht,\nleuchtet es.",
+        "Tagsüber absorbiert es Sonnenlicht. Ohne je seinen\nAusdruck zu verändern, kann es die Gedanken des\nGegners lesen.",
+        "Sonnfel ist eine neue Pokémon-Art, die angeblich aus dem\nWeltall kam. Es gleitet durch die Luft und bewegt sich leise.\nIm Kampf setzt dieses Pokémon sehr helles Licht ein.",
+        "Aus Sonnenlicht zieht Sonnfel seine Energie.\nEs kann angeblich die Emotionen anderer sehen.\nDieses Pokémon gibt eine starke Hitze ab,\nwenn es sich um die eigene Achse dreht.",
+        "Es rotiert um die eigene Achse und strahlt dabei\nsonnengleiches Licht aus, mit dem es den Gegner\nblendet.",
+        "Da es seine Energie aus Sonnenlicht gewinnt,\nist es tagsüber am stärksten. Wenn es sich dreht,\nleuchtet es."
+    ],
+    "height": 1.2,
+    "id": 338,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "name": "Sonnfel",
+    "types": [
+        "Gestein",
+        "Psycho"
+    ],
+    "weight": 154.0
+}

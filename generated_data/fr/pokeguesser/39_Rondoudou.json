@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "Lorsqu’il roule ses grands yeux\nronds, il entonne une berceuse\nqui endort son auditoire.",
+        "Lorsqu’il roule ses grands yeux\nronds, il entonne une berceuse\nqui endort son auditoire.",
+        "Il hypnotise ses ennemis grâce à ses grands yeux\navant de les plonger dans un profond sommeil en\nchantant une douce mélopée.",
+        "En se gonflant, il peut chanter une longue berceuse\nqui endort inévitablement ses adversaires.",
+        "Rondoudou utilise ses cordes vocales pour ajuster librement\nla longueur d’onde de sa voix. Cela permet à ce Pokémon\nde chanter en utilisant une longueur d’onde qui endort\nses ennemis.",
+        "Lorsque ce Pokémon chante, il ne s’arrête pas pour respirer.\nQuand il se bat contre un adversaire qu’il ne peut pas\nfacilement endormir, Rondoudou reste donc sans respirer,\nmettant sa vie en danger.",
+        "Ce Pokémon aime inspirer profondément\net chanter une mélodie mystérieuse qui endort\nimmédiatement tous ceux qui l’entendent.",
+        "Cette espèce possède une tessiture de douze\noctaves, mais la beauté du chant dépend des\nefforts déployés par chaque individu.",
+        "Les rayons literie des magasins proposent\ngénéralement des CD de berceuses chantées\npar des Rondoudou.",
+        "Les airs qu’il chante varient selon la région\noù il habite. Certains chants s’apparentent\nà des hurlements.",
+        "Il déstabilise ses adversaires grâce à son regard,\npuis chante une berceuse pour les endormir.",
+        "Il déstabilise ses adversaires grâce à son regard,\npuis chante une berceuse pour les endormir.",
+        "Il a une des meilleures capacités pulmonaires\nparmi les Pokémon. Il chante des berceuses à\nson adversaire jusqu’à ce que sommeil s’ensuive.",
+        "Il module librement la longueur d’onde de\nsa voix pour chanter une étrange mélodie\nqui endort à tous les coups celui qui l’écoute."
+    ],
+    "height": 0.5,
+    "id": 39,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "name": "Rondoudou",
+    "types": [
+        "Normal",
+        "Fée"
+    ],
+    "weight": 5.5
+}

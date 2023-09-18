@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "움직이는 것을 무심코 쫓아간다.\n자신의 꼬리를 쫓아서\n똑같은 장소를 빙글빙글 돈다.",
+        "자신의 꼬리를 쫓아서\n놀고 있으면 눈이 핑 돌고 마는\n귀여운 일면을 보인다.",
+        "움직이는 것을 발견하면 푹 빠져서\n뒤쫓아 가는 습성을 지닌 포켓몬이다.\n자기 꼬리를 쫓다 현기증을 일으킨다.",
+        "자신의 꼬리를 쫓아다니는 포켓몬이다.\n야생에서는 숲의 나무 구멍에서 산다.\n귀염성 있는 얼굴 때문에 애완동물로 인기가 높다."
+    ],
+    "height": 0.6,
+    "id": 300,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "name": "에나비",
+    "types": [
+        "노말"
+    ],
+    "weight": 11.0
+}

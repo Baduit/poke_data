@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Die Blätter auf seinem Kopf schmecken furchtbar\nbitter, doch sie helfen ausgezeichnet gegen\nErschöpfung.",
+        "Da es nährstoffreiche Erde bevorzugt, kann man in\nGebieten, in denen es lebt, für gewöhnlich reiche\nErnten erwarten.",
+        "Die Blätter auf seinem Kopf schmecken furchtbar bitter,\ndoch sie helfen ausgezeichnet gegen Erschöpfung.",
+        "Da es nährstoffreiche Erde bevorzugt, kann man in Gebieten,\nin denen es lebt, für gewöhnlich reiche Ernten erwarten.",
+        "Die Blätter auf seinem Kopf sind furchtbar\nbitter, helfen aber bei Erschöpfung. Als Tee\nzubereitet, sind sie noch wirksamer.",
+        "Wenn man ab und zu seine Blätter schneidet,\nwächst sein Körper rund und prächtig heran.",
+        "Sehr beliebt bei Senioren, da ein Tee aus den\nsonnengetrockneten Blättern seines Kopfes\nwie ein Schluck aus dem Jungbrunnen wirkt.",
+        "Sie bevorzugen sauberes Wasser und reine Erde.\nSollten sich die Bedingungen in der Umgebung\nverschlechtern, ziehen sie in der Gruppe weiter.",
+        "Lilminip hält sich unweit von sauberem Wasser\nauf. Ein Aufguss der Blätter auf seinem Kopf wird\nauch als Mittel gegen Käfer-Pokémon eingesetzt.",
+        "Je kräftiger die Farbe seiner Blätter, desto\ngesünder ist es. Lilminip lässt sich zuweilen in gut\ngepflegten Blumenbeeten oder Feldern nieder."
+    ],
+    "height": 0.5,
+    "id": 548,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "name": "Lilminip",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 6.6
+}

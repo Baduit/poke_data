@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Lo consideran una deidad de las cosechas porque los\ncultivos crecen en abundancia en las tierras por las\nque pasa.",
+        "Utiliza energía que obtiene del viento y del relámpago\npara nutrir el suelo y generar abundantes cosechas.",
+        "Lo consideran una deidad de las cosechas porque los cultivos\ncrecen en abundancia en las tierras por las que pasa.",
+        "Utiliza energía que obtiene del viento y del relámpago para\nnutrir el suelo y generar abundantes cosechas."
+    ],
+    "height": 1.5,
+    "id": 645,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "name": "Landorus",
+    "types": [
+        "Tierra",
+        "Volador"
+    ],
+    "weight": 68.0
+}

@@ -1,0 +1,35 @@
+{
+    "descriptions": [
+        "MASQUERAIN intimidates enemies with\nthe eyelike patterns on its antennas.\nThis POKéMON flaps its four wings to\ffreely fly in any direction - even\nsideways and backwards - as if it were\na helicopter.",
+        "MASQUERAIN’s antennas have eyelike\npatterns that usually give it an angry\nlook. If the “eyes” are droopy and\fappear sad, it is said to be a sign\nthat a heavy rainfall is on its way.",
+        "It intimidates foes with the large eyelike\npatterns on its antennae. Because it can’t\nfly if its wings get wet, it shelters itself\nfrom rain under large trees and eaves.",
+        "The antennae have distinctive patterns\nthat look like eyes. When it rains, they\ngrow heavy, making flight impossible.",
+        "The antennae have distinctive patterns\nthat look like eyes. When it rains, they\ngrow heavy, making flight impossible.",
+        "Its antennae have eye patterns\non them. Its four wings enable it\nto hover and fly in any direction.",
+        "Its antennae have eye patterns\non them. Its four wings enable it\nto hover and fly in any direction.",
+        "Its antennae have eye patterns\non them. Its four wings enable it\nto hover and fly in any direction.",
+        "It flaps its four wings to hover and\nfly freely in any direction--\nto and fro and sideways.",
+        "It flaps its four wings to hover and\nfly freely in any direction--\nto and fro and sideways.",
+        "Its antennae have eye patterns\non them. Its four wings enable it\nto hover and fly in any direction.",
+        "Its antennae have eye patterns\non them. Its four wings enable it\nto hover and fly in any direction.",
+        "Its antennae have eye patterns\non them. Its four wings enable it\nto hover and fly in any direction.",
+        "Its antennae have eye patterns\non them. Its four wings enable it\nto hover and fly in any direction.",
+        "Its antennae have eye patterns on them. Its four\nwings enable it to hover and fly in any direction.",
+        "It flaps its four wings to hover and fly freely in any\ndirection--to and fro and sideways.",
+        "Masquerain intimidates enemies with the eyelike patterns\non its antennas. This Pokémon flaps its four wings to freely fly\nin any direction—even sideways and backwards—as if it were\na helicopter.",
+        "Masquerain’s antennas have eyelike patterns that usually\ngive it an angry look. If the “eyes” are droopy and appear sad,\nit is said to be a sign that a heavy rainfall is on its way.",
+        "It intimidates enemies with the eye-like\npatterns on its antennae. Its four wings\nallow it to fly in any direction.",
+        "Its wings and antennae don’t cope well with\nmoisture. After a rain, it faces sunward to\ndry off.",
+        "Masquerain intimidates enemies with the eyelike\npatterns of its eyespots. If that doesn’t work, it\ndeftly makes its escape on its set of four wings.",
+        "Its thin, winglike antennae are highly absorbent.\nIt waits out rainy days in tree hollows."
+    ],
+    "height": 0.8,
+    "id": 284,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "name": "Masquerain",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 3.6
+}

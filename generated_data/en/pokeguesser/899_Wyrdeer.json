@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "The black orbs shine with an uncanny light when the Pokémon is\nerecting invisible barriers. The fur shed from its beard retains\nheat well and is a highly useful material for winter clothing."
+    ],
+    "height": 1.8,
+    "id": 899,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+    "name": "Wyrdeer",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "weight": 95.1
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il se cache derrière des lianes\nbleues recouvertes d’un fin duvet.\nIl est chatouilleux.",
+        "Il se cache derrière des lianes\nbleues recouvertes d’un fin duvet.\nIl est chatouilleux.",
+        "Ses lianes s’allongent au fil du temps.\nElles recouvrent tout son corps, dont on ignore\nla véritable forme.",
+        "Il paralyse tout ce qui bouge avec ses lianes.\nElles vous chatouillent si vous êtes capturé.",
+        "Les lianes de Saquedeneu se brisent facilement lorsqu’on\nles attrape. Cela ne lui fait pas mal et lui permet simplement\nde s’échapper rapidement. Les lianes cassées repoussent\nle lendemain.",
+        "Les lianes de Saquedeneu se brisent facilement lorsqu’on\nles attrape. Cela ne lui fait pas mal et lui permet simplement\nde s’échapper rapidement. Les lianes cassées repoussent\nle lendemain.",
+        "Son corps est masqué par une masse épaisse\nde lianes bleues qui poussent en permanence.",
+        "Son corps est masqué par une masse épaisse\nde lianes bleues qui poussent en permanence.",
+        "On ne sait toujours pas ce qui se cache\nsous ses lianes. Même si on les coupe,\nelles repoussent à l’infini.",
+        "Ses lianes ont une odeur particulière.\nElles servent d’herbes aromatiques\ndans une certaine zone de Galar."
+    ],
+    "height": 1.0,
+    "id": 114,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "name": "Saquedeneu",
+    "types": [
+        "Plante"
+    ],
+    "weight": 35.0
+}

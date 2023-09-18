@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "It looks as if it is always crying.\nIt is actually adjusting its body’s\nfluid levels by eliminating excess.",
+        "It prefers arid environments. It\nleaks water from its eyes to\nadjust its body’s fluid levels.",
+        "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level.",
+        "In order to adjust the level of fluids in\nits body, it exudes water from its eyes.\nThis makes it appear to be crying.",
+        "In order to adjust the level of fluids in\nits body, it exudes water from its eyes.\nThis makes it appear to be crying.",
+        "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level.",
+        "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level.",
+        "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level.",
+        "It prefers an arid atmosphere. It\nleaks water that looks like tears\nwhen adjusting its moisture level.",
+        "It prefers arid environments. It leaks water from its\neyes to adjust its body’s fluid levels.",
+        "It prefers an arid atmosphere. It leaks water that\nlooks like tears when adjusting its moisture level.",
+        "It prefers arid environments. It leaks water from its\neyes to adjust its body’s fluid levels.",
+        "It prefers an arid atmosphere. It leaks water that\nlooks like tears when adjusting its moisture level.",
+        "It does not deal well with water, so it lives in dry\nlocales. Since its surroundings tend to lack\ngreenery, it stands out noticeably.",
+        "From its eyes, it can expel excess moisture from\nits body. This liquid is similar in composition to\nhuman sweat.",
+        "It discharges moisture from its eyes, making it\nlook like it’s crying—apparently an effective way\nof getting enemies to let down their guard.",
+        "If its body gets too damp, it will die. So, in a\nprocess reminiscent of sweating, its eyes\nexpel moisture.",
+        "It expels both sweat and tears from its eyes.\nThe sweat is a little salty, while the tears have\na slight bitterness.",
+        "This Pokémon lives in dry, rocky areas. As its\ngreen spheres dry out, their dull luster increases.",
+        "Its tears elicit sympathy from those who see them, but do\nnot be deceived! This expulsion of body water is merely a\nphysiological mechanism for keeping itself in good health."
+    ],
+    "height": 0.5,
+    "id": 438,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "name": "Bonsly",
+    "types": [
+        "Rock"
+    ],
+    "weight": 15.0
+}

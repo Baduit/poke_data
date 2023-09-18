@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Per il suo aspetto bizzarro, a forma di stella, c’è chi\ncrede che provenga da una meteora.",
+        "Se ne vedono molti nelle notti in cui il cielo è pieno\ndi stelle cadenti. Spariscono all’alba.",
+        "In notti con molte stelle cadenti, è facile vedere molti Cleffa\ndanzare in cerchio. Ballano per tutta la notte fermandosi\nsoltanto alle prime luci dell’alba per dissetarsi bevendo\nle gocce di rugiada.",
+        "In notti con molte stelle cadenti, è facile vedere molti Cleffa\ndanzare in cerchio. Ballano per tutta la notte fermandosi\nsoltanto alle prime luci dell’alba per dissetarsi bevendo\nle gocce di rugiada.",
+        "Nel cuore della notte rimane a guardare le stelle\ncadenti pensando alla sua terra natale.",
+        "Il suo strano aspetto fa pensare che sia la\nreincarnazione di una stella. Per qualche motivo\nsconosciuto, gli piacciono molto i Minior.",
+        "Nelle notti con molte stelle cadenti, i Cleffa si\nriuniscono per danzare in cerchio. Si dice che\nassistere alla loro danza sia di buon augurio.",
+        "Si dice che sia arrivato in groppa a una stella\ncadente. Sembra che appaia principalmente in\nluoghi in cui in passato è caduto un meteorite.",
+        "Si dice che sia facile incontrarlo dove sono\nprecipitate delle stelle cadenti.",
+        "Per il suo aspetto bizzarro, che ricorda una stella,\nc’è chi crede che provenga da una stella cadente."
+    ],
+    "height": 0.3,
+    "id": 173,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "name": "Cleffa",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 3.0
+}

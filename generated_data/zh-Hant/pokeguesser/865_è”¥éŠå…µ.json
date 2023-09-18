@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "只有歷經過無數戰鬥的\n大蔥鴨才能進化成這個樣子。\n當大蔥枯萎了就會離開戰場。",
+        "會用堅硬的蔥葉抵擋攻擊，\n接著用鋒利的莖反擊。\n牠的蔥既是武器也是食材。"
+    ],
+    "height": 0.8,
+    "id": 865,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "name": "蔥遊兵",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 117.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Solleva sabbia con le ali per nascondersi. Un\nrivestimento rosso protegge gli occhi dalla sabbia\nstessa.",
+        "Viene chiamato “Spirito primordiale del deserto”.\nSi nasconde nelle tempeste di sabbia che genera\nbattendo le ali.",
+        "Flygon è detto anche “Spirito primordiale del deserto”.\nPoiché le sue ali sollevano nubi di sabbia, è sempre\naccompagnato da una tempesta di sabbia quando vola.",
+        "Flygon crea tempeste di sabbia agitando le ali, che emettono\nnote musicali creando una sorta di canto. Poiché questo\n“canto” è l’unica cosa udibile durante la tempesta, Flygon\nè considerato lo spirito del deserto.",
+        "Agitando le ali, emette un suono simile a un\ncanto. Le prede ammaliate si ritrovano\nintrappolate in una tempesta di sabbia.",
+        "Si nasconde nelle tempeste di sabbia che\ngenera sbattendo le ali. Raramente gli esseri\numani riescono a vederlo.",
+        "Sbattendo le ali, genera tempeste di sabbia in\ncui fa nascondere Krookodile, poi spartisce\ncon lui le prede catturate.",
+        "Genera un suono simile a un canto melodioso\ncon le ali. Molti, incantati da questa melodia,\nfiniscono per smarrirsi nel deserto.",
+        "Si nasconde nelle tempeste di sabbia che\ngenera sbattendo le ali. Raramente gli esseri\numani riescono a vederlo.",
+        "Viene chiamato anche “spirito del deserto”,\npoiché il suono del suo battito d’ali ricorda\nun bellissimo canto di donna."
+    ],
+    "height": 2.0,
+    "id": 330,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "name": "Flygon",
+    "types": [
+        "Terra",
+        "Drago"
+    ],
+    "weight": 82.0
+}

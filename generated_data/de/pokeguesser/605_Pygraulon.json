@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es verfügt über mächtige Psycho-Kräfte, mit denen\nes die Hirne seiner Gegner verwirrt, um ihnen\nKopfweh zu bereiten.",
+        "Man sagt, es sei vor 50 Jahren aus den Tiefen einer\nWüste erschienen, in der zuvor angeblich ein UFO\nabgestürzt war.",
+        "Es verfügt über mächtige Psycho-Kräfte, mit denen es die\nHirne seiner Gegner verwirrt, um ihnen Kopfweh zu bereiten.",
+        "Man sagt, es sei vor 50 Jahren aus den Tiefen einer Wüste\nerschienen, in der zuvor angeblich ein UFO abgestürzt war.",
+        "Es besitzt unfassbare Psycho-Kräfte. Etliche\nMeldungen über Sichtungen von Außerirdischen\nentpuppten sich als Verwechslungen mit ihm.",
+        "Ein geheimnisumwobenes Pokémon, von dem\nes heißt, es sei aus einem vor 50 Jahren\nabgestürzten UFO erschienen.",
+        "Wenn es in der Nähe ist, beginnen Fernseher zu\nflackern und fremdartige Landschaften zu zeigen.\nDiese stellen angeblich seine Heimat dar.",
+        "Ein Pokémon, das vor 50 Jahren entdeckt wurde.\nSein hochentwickeltes Gehirn verleiht ihm\nPsycho-Kräfte."
+    ],
+    "height": 0.5,
+    "id": 605,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "name": "Pygraulon",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 9.0
+}

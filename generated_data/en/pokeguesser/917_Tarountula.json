@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.",
+        "The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research."
+    ],
+    "height": 0.3,
+    "id": 917,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+    "name": "Tarountula",
+    "types": [
+        "Bug"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Atrae a sus presas con una dulce fragancia y usa sus\ncepas venenosas para atenazarlas y acabar con ellas.",
+        "Se mueve como un bailarín y golpea con látigos\nrepletos de púas venenosas.",
+        "Atrae a sus presas con una dulce fragancia y usa sus cepas\nvenenosas para atenazarlas y acabar con ellas.",
+        "Se mueve como un bailarín y golpea con látigos repletos de\npúas venenosas.",
+        "Aturde a los rivales con la fragancia de sus flores\npara luego azotarlos sin piedad con sus cepas\nespinosas.",
+        "Las toxinas de la mano derecha son de efecto\ninmediato, y las de la izquierda, retardado. No\nobstante, ambas pueden ser letales."
+    ],
+    "height": 0.9,
+    "id": 407,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "name": "Roserade",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 14.5
+}

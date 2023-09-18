@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "能量之源是體內的火焰。\n如果火焰變小了，\n牠馬上就會睡著。",
+        "在牠睡覺的時候，\n無論是推是拉，牠都不會倒下。\n因為象徵著吉利而大受歡迎。"
+    ],
+    "height": 0.6,
+    "id": 554,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "name": "火紅不倒翁",
+    "types": [
+        "火"
+    ],
+    "weight": 37.5
+}

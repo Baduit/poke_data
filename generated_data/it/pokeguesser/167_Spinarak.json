@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Tesse la tela con un filo sottile ma resistente. Poi\nattende paziente che una preda ci finisca dentro.",
+        "Può rimanere immobile nella tela per giorni,\nattendendo che s’avvicini una preda ignara.",
+        "La ragnatela tessuta da Spinarak può essere considerata\nil suo secondo sistema nervoso. Infatti, pare che questo\nPokémon riesca a capire la natura della sua preda dalle\nleggere vibrazioni di tale ragnatela.",
+        "La ragnatela tessuta da Spinarak può essere considerata\nil suo secondo sistema nervoso. Infatti, pare che questo\nPokémon riesca a capire la natura della sua preda dalle\nleggere vibrazioni di tale ragnatela.",
+        "Aspetta immobile finché le sue prede\npreferite, i Cutiefly, non cadono nella tela.\nÈ un Pokémon molto paziente.",
+        "Alcuni pescatori usano il suo filo resistente per\nfabbricare le reti con cui pescano i Pokémon\nacquatici.",
+        "Con il filo che secerne dalla bocca tesse una\ntela talmente resistente da sostenere il peso\ndi una roccia di 10 kg.",
+        "Il veleno delle zanne non è particolarmente\npotente, ma è sufficiente a indebolire\nle prede intrappolate nella tela."
+    ],
+    "height": 0.5,
+    "id": 167,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "name": "Spinarak",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 8.5
+}

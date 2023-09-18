@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Crea bufere che ricoprono di neve ampissime aree.\nÈ noto anche come “Mostro dei ghiacci”.",
+        "Vive nella pace delle cime montuose tra le nevi eterne:\nscatena bufere di neve e poi si nasconde.",
+        "Crea bufere che ricoprono di neve ampissime aree.\nÈ noto anche come “Mostro dei ghiacci”.",
+        "Vive nella pace delle cime montuose tra le nevi eterne:\nscatena bufere di neve e poi si nasconde.",
+        "Agitando le grosse braccia come dei martelli\nscaccia i gruppi di Darumaka che prendono\ndi mira gli Snover.",
+        "Scatena bufere di neve. Se scuote il suo grosso\ncorpo, imbianca il terreno circostante in un\nattimo."
+    ],
+    "height": 2.2,
+    "id": 460,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "name": "Abomasnow",
+    "types": [
+        "Erba",
+        "Ghiaccio"
+    ],
+    "weight": 135.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "當牠為了散佈有毒的花粉\n而搖晃大大的花瓣時，\n會發出震耳欲聾的聲響。",
+        "當牠為了散佈有毒的花粉\n而搖晃大大的花瓣時，\n會發出震耳欲聾的聲響。",
+        "身上那些全世界最大的花瓣\n會隨著牠的每個步伐搖動，\n散播大量的毒花粉。",
+        "雖然花瓣越大就能放出\n越多的花粉，但頭部也會\n隨之變重而容易疲倦。"
+    ],
+    "height": 1.2,
+    "id": 45,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "name": "霸王花",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 18.6
+}

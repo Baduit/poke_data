@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "La trivella si è evoluta diventando d’acciaio e può\nperforare una lastra di ferro. È molto utile per\nscavare tunnel.",
+        "Costruisce una tana simile a un labirinto 100 m sotto\nterra. A volte apre buchi nei tunnel della metropolitana.",
+        "La trivella si è evoluta diventando d’acciaio e può perforare\nuna lastra di ferro. È molto utile per scavare tunnel.",
+        "Costruisce una tana simile a un labirinto 100 m sotto terra.\nA volte apre buchi nei tunnel della metropolitana.",
+        "Si dice che le grotte all’apparenza naturali siano\nin realtà spesso il risultato degli scavi forsennati\neffettuati da Excadrill.",
+        "Conosciuto anche come “re delle trivelle”,\nquesto Pokémon è capace di scavare sottoterra\na una velocità di 150 km/h."
+    ],
+    "height": 0.7,
+    "id": 530,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "name": "Excadrill",
+    "types": [
+        "Terra",
+        "Acciaio"
+    ],
+    "weight": 40.4
+}

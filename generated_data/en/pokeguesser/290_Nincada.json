@@ -1,0 +1,33 @@
+{
+    "descriptions": [
+        "NINCADA lives underground for many\nyears in complete darkness.\nThis POKéMON absorbs nutrients from\fthe roots of trees. It stays motionless\nas it waits for evolution.",
+        "NINCADA lives underground. It uses its\nsharp claws to carve the roots of trees\nand absorb moisture and nutrients.\fThis POKéMON can’t withstand bright\nsunlight so avoids it.",
+        "It makes its nest at the roots of a mighty\ntree. Using its whiskerlike antennae, it\nprobes its surroundings in the\npitch-black darkness of soil.",
+        "Because it lived almost entirely\nunderground, it is nearly blind.\nIt uses its antennae instead.",
+        "Because it lived almost entirely\nunderground, it is nearly blind.\nIt uses its antennae instead.",
+        "It grows underground, sensing\nits surroundings using antennae\ninstead of its virtually blind eyes.",
+        "It grows underground, sensing\nits surroundings using antennae\ninstead of its virtually blind eyes.",
+        "It grows underground, sensing\nits surroundings using antennae\ninstead of its virtually blind eyes.",
+        "It can sometimes live underground for\nmore than 10 years. It absorbs\nnutrients from the roots of trees.",
+        "It can sometimes live underground for\nmore than 10 years. It absorbs\nnutrients from the roots of trees.",
+        "It grows underground, sensing\nits surroundings using antennae\ninstead of its virtually blind eyes.",
+        "It grows underground, sensing\nits surroundings using antennae\ninstead of its virtually blind eyes.",
+        "It grows underground, sensing\nits surroundings using antennae\ninstead of its virtually blind eyes.",
+        "It grows underground, sensing\nits surroundings using antennae\ninstead of its virtually blind eyes.",
+        "Because it lived almost entirely underground, it is\nnearly blind. It uses its antennae instead.",
+        "It can sometimes live underground for more than\n10 years. It absorbs nutrients from the roots\nof trees.",
+        "Nincada lives underground for many years in complete\ndarkness. This Pokémon absorbs nutrients from the roots of\ntrees. It stays motionless as it waits for evolution.",
+        "Nincada lives underground. It uses its sharp claws to carve the\nroots of trees and absorb moisture and nutrients.\nThis Pokémon can’t withstand bright sunlight so avoids it.",
+        "Because it lived almost entirely underground,\nit is nearly blind. It uses its antennae instead.",
+        "It can sometimes live underground for more than\n10 years. It absorbs nutrients from the roots\nof trees."
+    ],
+    "height": 0.5,
+    "id": 290,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "name": "Nincada",
+    "types": [
+        "Bug",
+        "Ground"
+    ],
+    "weight": 5.5
+}

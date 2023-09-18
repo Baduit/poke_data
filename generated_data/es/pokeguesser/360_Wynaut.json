@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Suelen ir en grupo y a la hora de dormir se resguardan\nen una cueva.",
+        "Se fortalecen empujándose unos a otros en grupos.\nLes encantan los dulces.",
+        "Wynaut está siempre con una gran sonrisa puesta. Para ver si\nestá enfadado, basta con mirarle la cola. Cuando se le\nmolesta, se pone a dar golpetazos en el suelo.",
+        "Los Wynaut se agrupan cuando hay luna para jugar\nachuchándose unos a otros. Cuanto más se achuchan, más\nganan en resistencia y lanzan fuertes contraataques con más\nfacilidad.",
+        "Suelen ir en grupo. Templan su paciencia jugando\na empujarse los unos a los otros.",
+        "Suelen ir en grupo y, a la hora de dormir, se\npegan unos a otros para descansar resguardados\nen cuevas."
+    ],
+    "height": 0.6,
+    "id": 360,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "name": "Wynaut",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 14.0
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "No es precisamente rápido ni fuerte. Es el Pokémon\nmás debilucho y simplón de todos los que hay.",
+        "En un pasado lejano, era más fuerte de lo que hoy\nson sus débiles descendientes.",
+        "Magikarp es el triste ejemplo de un Pokémon capaz\núnicamente de saltar y salpicar. Esta conducta llevó a\ncientíficos a estudiarlo en profundidad.",
+        "Magikarp es prácticamente inútil en combate; solo sirve para\nsalpicar, y se le considera muy débil. Con todo, en realidad\nes un Pokémon muy resistente. Sobrevive en cualquier medio\nacuático, aunque esté contaminado.",
+        "Es muy débil y de poca utilidad, aunque su\ncapacidad reproductora resulta abrumadora.\nLo normal es encontrar Magikarp por doquier.",
+        "Como lo único que hace es chapotear en el\nagua, resulta una presa fácil. Gracias a esto,\nmuchos otros Pokémon pueden sobrevivir.",
+        "Al parecer, en la antigüedad había gozado de\ngran fuerza, pero con el paso del tiempo se ha\nido debilitando hasta su estado actual.",
+        "Su resistencia le permite vivir en las aguas más\nturbias. Por eso se los puede ver nadando en\ncualquier lugar del mundo.",
+        "Famoso por su ineptitud. Nada en todo tipo de\naguas, ya sean mares, lagos, ríos o charcas.",
+        "Famoso por su ineptitud. Nada en todo tipo de\naguas, ya sean mares, lagos, ríos o charcas.",
+        "Es el Pokémon más débil y patético que existe,\ncon una fuerza y velocidad prácticamente nulas.",
+        "Este Pokémon débil y patético se limita a dejarse\nllevar por la corriente cuando esta tiene fuerza."
+    ],
+    "height": 0.9,
+    "id": 129,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "name": "Magikarp",
+    "types": [
+        "Agua"
+    ],
+    "weight": 10.0
+}

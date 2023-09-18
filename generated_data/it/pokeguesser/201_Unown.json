@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il corpo piatto e sottile sta sempre attaccato ai muri.\nPare che la forma abbia un preciso significato.",
+        "È a forma di lettera di un antico alfabeto. È un mistero\nchi sia apparso prima, l’alfabeto o Unown.",
+        "Questo Pokémon pare una lettera di un alfabeto antico.\nA tutt’oggi rimane un mistero chi sia comparso prima,\nse l’alfabeto o Unown. Sono in corso ricerche in merito\nma non si sa ancora praticamente nulla.",
+        "Questo Pokémon pare una lettera di un alfabeto antico.\nA tutt’oggi rimane un mistero chi sia comparso prima,\nse l’alfabeto o Unown. Sono in corso ricerche in merito\nma non si sa ancora praticamente nulla."
+    ],
+    "height": 0.5,
+    "id": 201,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+    "name": "Unown",
+    "types": [
+        "Psico"
+    ],
+    "weight": 5.0
+}

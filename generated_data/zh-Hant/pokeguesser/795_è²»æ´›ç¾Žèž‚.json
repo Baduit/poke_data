@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "屬於危險ＵＢ的一種。\n被人目擊到以駭人的速度\n在大地狂奔的樣子。",
+        "ＵＢ的一種。\n或許是覺得這個世界上萬物污穢不堪，\n因此不願用手觸及分毫。",
+        "棲息在其他世界的生命體。\n身體纖細柔軟，\n但似乎蘊藏著強大的力量。",
+        "在這個世界是危險的異類，\n但牠在原本棲息的世界裡\n似乎是隨處可見的普通生物。"
+    ],
+    "height": 1.8,
+    "id": 795,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "name": "費洛美螂",
+    "types": [
+        "蟲",
+        "格鬥"
+    ],
+    "weight": 25.0
+}

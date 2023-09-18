@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Mit dem Saugnapf an seinem Maul hakt es sich\nan seiner Beute fest und versetzt ihr über seine\nFangzähne Stromschläge.",
+        "Es schleppt sich mithilfe seiner Arme an Land,\nschnappt nach seiner Beute und zerrt sie\naugenblicklich ins Meer.",
+        "Mit dem Saugnapf an seinem Maul hakt es sich an seiner Beute\nfest und versetzt ihr über seine Fangzähne Stromschläge.",
+        "Es schleppt sich mithilfe seiner Arme an Land, schnappt nach\nseiner Beute und zerrt sie augenblicklich ins Meer."
+    ],
+    "height": 2.1,
+    "id": 604,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "name": "Zapplarang",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 80.5
+}

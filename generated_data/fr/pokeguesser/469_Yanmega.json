@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Doté de mandibules à la force\ncolossale, il excelle pour mordre\nses ennemis en plein vol.",
+        "Doté de mandibules à la force\ncolossale, il excelle pour mordre\nses ennemis en plein vol.",
+        "Il excelle dans l’art de mordre ses ennemis en plein\nvol, et à grande vitesse.",
+        "Il peut voler avec aise tout en portant un adulte dans\nses 6 pattes. Les ailes de sa queue lui servent de\nbalancier.",
+        "Il excelle dans l’art de mordre ses ennemis en plein vol,\net à grande vitesse.",
+        "Il peut voler avec aise tout en portant un adulte dans ses six\npattes. Les ailes de sa queue lui servent de balancier."
+    ],
+    "height": 1.9,
+    "id": 469,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+    "name": "Yanmega",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 51.5
+}

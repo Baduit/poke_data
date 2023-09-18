@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在如今已滅亡的沙漠之國\n曾經是人們珍視的對象。\n和財寶一起來到了伽勒爾地區。",
+        "如果展開頸傘沐浴陽光，\n單憑１隻光電傘蜥就能\n製造出大城市所需的電力。"
+    ],
+    "height": 1.0,
+    "id": 695,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "name": "光電傘蜥",
+    "types": [
+        "電",
+        "一般"
+    ],
+    "weight": 21.0
+}

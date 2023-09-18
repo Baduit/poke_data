@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es zieht seine gummiartige Haut bis zum Hals hinauf\nund nimmt eine Abwehrhaltung ein, um sich vor\nSchaden zu schützen.",
+        "Verteilt gerne unvermittelt Kopfnüsse, deren Wucht\nauch seine Sinne vernebelt. Es ist stolz auf seinen\nrobusten Schädel.",
+        "Es zieht seine gummiartige Haut bis zum Hals hinauf und nimmt\neine Abwehrhaltung ein, um sich vor Schaden zu schützen.",
+        "Verteilt gerne unvermittelt Kopfnüsse, deren Wucht auch seine\nSinne vernebelt. Es ist stolz auf seinen robusten Schädel.",
+        "Zurrokex trotten in Gruppen von einigen\nExemplaren durch die Gegend. Wer mit ihnen\nAugenkontakt herstellt, erhält Kopfnüsse.",
+        "Es zieht seine gummiartige Haut zum Schutz bis\nzum Hals hinauf. Seine Rangfolge scheint davon\nabzuhängen, wie hoch es sie ziehen kann.",
+        "Zurrokex deuten Blickkontakt als Einladung,\nihr Gegenüber mit Kopfnüssen anzugreifen.\nVorsicht ist also geboten.",
+        "Es hat besonders robuste Haut, die seinen Körper\nschützt. Es heißt, wenn sich die Haut nicht weiter\ndehnen lässt, steht die Entwicklung bevor."
+    ],
+    "height": 0.6,
+    "id": 559,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "name": "Zurrokex",
+    "types": [
+        "Unlicht",
+        "Kampf"
+    ],
+    "weight": 11.8
+}

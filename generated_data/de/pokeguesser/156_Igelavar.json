@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Vor dem Kampf dreht es dem Feind den Rücken zu,\num ihm zu zeigen, wie Furcht erregend sein Feuer\nlodert.",
+        "Dreht es dir im Kampf den Rücken zu, wird es dich\nmit den Flammen seines Rückens angreifen.",
+        "Igelavar hält seine Gegner mit Flammen und Böen heißer Luft\nauf Distanz. Dieses Pokémon nutzt seine außergewöhnliche\nGewandtheit dazu, Angriffen auszuweichen und seinen Gegner\ngleichzeitig zu versengen.",
+        "Igelavar hält seine Gegner mit Flammen und Böen heißer Luft\nauf Distanz. Dieses Pokémon nutzt seine außergewöhnliche\nGewandtheit dazu, Angriffen auszuweichen und seinen Gegner\ngleichzeitig zu versengen."
+    ],
+    "height": 0.9,
+    "id": 156,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "name": "Igelavar",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 19.0
+}

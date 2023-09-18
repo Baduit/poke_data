@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ein mysteriöses Pokémon, das sich entwickelt,\nwenn es zusammen mit Schnuthelm einen\nStromschlag abbekommt.",
+        "Bekommt es im Kampf gegen Schnuthelm Strom ab,\nlöst dies aus unerklärlichen Gründen seine\nEntwicklung aus.",
+        "Ein mysteriöses Pokémon, das sich entwickelt, wenn es\nzusammen mit Schnuthelm einen Stromschlag abbekommt.",
+        "Bekommt es im Kampf gegen Schnuthelm Strom ab, löst dies\naus unerklärlichen Gründen seine Entwicklung aus.",
+        "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Die Anwesenheit von Schnuthelm\nlöst bei ihm die Entwicklung aus.",
+        "Es nutzt die Flüssigkeit aus seinem Mund,\num die Muschel von Schnuthelm aufzulösen.\nDann verspeist es den Inhalt."
+    ],
+    "height": 0.5,
+    "id": 588,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+    "name": "Laukaps",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 5.9
+}

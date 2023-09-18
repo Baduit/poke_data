@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "La station debout a libéré ses\npattes avant et l’a rendu plus\nintelligent, mais il est distrait.",
+        "La station debout a libéré ses\npattes avant et l’a rendu plus\nintelligent, mais il est distrait.",
+        "Son épiderme très épais lui permet de survivre dans\nun environnement où il fait plus de 2 000 °C.",
+        "L’évolution a permis à ce Pokémon de marcher sur\nses pattes arrière. Il peut facilement faire des trous\ndans les rochers en utilisant sa corne.",
+        "La corne de Rhinoféros peut même casser du diamant brut.\nEt avec un simple coup de queue, il peut détruire un bâtiment.\nLa peau de ce Pokémon est incroyablement dure.\nUn boulet de canon ne lui ferait même pas une égratignure.",
+        "La corne de Rhinoféros lui sert de foreuse. Il l’utilise pour\ndétruire des rochers et des cailloux. Ce Pokémon charge\nde temps en temps dans du magma en fusion, mais sa peau\nblindée le protège de la chaleur.",
+        "L’évolution a permis à ce Pokémon de\ndévelopper son intelligence et de se tenir\ndebout. Son épiderme résiste à la lave.",
+        "L’évolution a permis à ce Pokémon de\ndévelopper son intelligence et de se tenir\ndebout. Son épiderme résiste à la lave.",
+        "L’évolution a permis à ce Pokémon de marcher\nsur ses pattes postérieures. Il peut faire des trous\ndans les rochers en utilisant sa corne.",
+        "Son épiderme est si épais qu’il lui permet même\nde survivre dans du magma d’une température\nde 2 000 °C."
+    ],
+    "height": 1.9,
+    "id": 112,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "name": "Rhinoféros",
+    "types": [
+        "Sol",
+        "Roche"
+    ],
+    "weight": 120.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Segrega una mucosidad que corroe todo lo que toca\ny consigue así ahuyentar al enemigo. Sus ojos han\ninvolucionado, por lo que no puede ver.",
+        "Sus cuatro antenas constituyen un radar de gran\npotencia. Hacen las veces de nariz y oídos para\npercibir tanto ruidos como olores.",
+        "Segrega una mucosidad que corroe todo lo que toca y\nconsigue así ahuyentar al enemigo. Sus ojos han\ninvolucionado, por lo que no puede ver.",
+        "Sus cuatro antenas constituyen un radar de gran potencia.\nHacen las veces de nariz y oídos para percibir tanto ruidos\ncomo olores.",
+        "Le cuesta distinguir a sus presas de sus\naliados, por eso no es raro que se coma a uno\nde los suyos de vez en cuando sin inmutarse.",
+        "Al carecer de dientes, segrega una mucosidad\nque disuelve a sus presas para facilitar su\nposterior ingestión.",
+        "Este Pokémon se arrastra con lentitud. La\nprotuberancia en espiral de su espalda contiene\ntanto el cerebro como los órganos internos.",
+        "Su cuerpo está recubierto por una mucosidad\nque puede disolver cualquier material, así que\nes mejor usar guantes especiales para tocarlo.",
+        "Segrega una mucosidad que corroe todo lo que\ntoca. Esto le ha permitido protegerse y evitar la\nextinción a pesar de su debilidad intrínseca.",
+        "La protuberancia del lomo contiene su pequeño\ncerebro, que solo piensa en buscar comida y huir\nde los enemigos."
+    ],
+    "height": 0.8,
+    "id": 705,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "name": "Sliggoo",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 17.5
+}

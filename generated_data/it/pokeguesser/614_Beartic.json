@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Predilige i freddi mari del nord. Crea strade di\nghiaccio soffiando con il suo alito gelido sulla\nsuperficie del mare.",
+        "Lotta usando zanne o artigli creati congelando il suo\nstesso respiro. Vive nelle fredde regioni del nord.",
+        "Predilige i freddi mari del nord. Crea strade di ghiaccio\nsoffiando con il suo alito gelido sulla superficie del mare.",
+        "Lotta usando zanne o artigli creati congelando il suo stesso\nrespiro. Vive nelle fredde regioni del nord.",
+        "Le zanne che crea congelando il suo respiro\nsono più dure dell’acciaio. Nuota nelle acque\ngelide del mare in cerca di cibo.",
+        "Nuota tranquillo nelle acque gelide del mare.\nSe è stanco, congela l’acqua con il suo soffio\nglaciale creando una piattaforma su cui riposare."
+    ],
+    "height": 2.6,
+    "id": 614,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "name": "Beartic",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 260.0
+}

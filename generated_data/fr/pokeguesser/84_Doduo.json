@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ses deux cerveaux semblent\ncommuniquer leurs émotions\ngrâce à un lien télépathique.",
+        "Ses deux cerveaux semblent\ncommuniquer leurs émotions\ngrâce à un lien télépathique.",
+        "Ce Pokémon à deux têtes est le résultat d’une\nsoudaine mutation. Il peut courir jusqu’à 100 km/h.",
+        "Ses deux cerveaux semblent communiquer leurs\némotions grâce à un lien télépathique.",
+        "Les deux têtes de Doduo ne dorment jamais en même temps.\nElles se reposent à tour de rôle pour que l’une puisse monter\nla garde pendant que l’autre dort.",
+        "Les deux têtes de Doduo contiennent des cerveaux\ntotalement identiques. Une étude scientifique démontra\nque dans des cas rares, certains de ces Pokémon\npossèdent des cerveaux différents.",
+        "Ses petites ailes ne lui permettent pas de voler,\nmais grâce à ses puissantes pattes, il peut courir\ntrès rapidement.",
+        "Ses petites ailes ne lui permettent pas de voler,\nmais grâce à ses puissantes pattes, il peut courir\ntrès rapidement."
+    ],
+    "height": 1.4,
+    "id": 84,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "name": "Doduo",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 39.2
+}

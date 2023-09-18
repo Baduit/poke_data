@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Erst lässt es den Gegner seine giftigen Sporen\neinatmen, dann traktiert es ihn mit Boxschlägen.",
+        "Seine kurzen Arme dehnen sich aus, wenn es\nzuschlägt. Seine Technik ähnelt der von Profi-Boxern.",
+        "Mit leichtfüßiger Beinarbeit nähert sich Kapilz seinen Feinden\nund schlägt dann mit seinen dehnbaren Armen um sich.\nDie Kampftechnik dieses Pokémon treibt Profiboxern die\nSchamesröte ins Gesicht.",
+        "Die Samen am Schweif von Kapilz bestehen aus\ngehärteten Giftsporen. Man sollte sie lieber nicht\nessen. Ein einziger Bissen davon kann eine heftige\nMagenverstimmung hervorrufen."
+    ],
+    "height": 1.2,
+    "id": 286,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "name": "Kapilz",
+    "types": [
+        "Pflanze",
+        "Kampf"
+    ],
+    "weight": 39.2
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Los vientos estacionales lo llevan por todo el mundo,\ndonde va soltando sus esporas.",
+        "Aunque sople el viento más fuerte, es capaz de\ncontrolar los pompones y moverse por donde quiera.",
+        "Jumpluff se vale de los cálidos vientos del sur para volar a\ntierras lejanas. Si llega a zonas de aire frío en pleno vuelo,\ndescenderá y tomará tierra.",
+        "Jumpluff se vale de los cálidos vientos del sur para volar a\ntierras lejanas. Si llega a zonas de aire frío en pleno vuelo,\ndescenderá y tomará tierra."
+    ],
+    "height": 0.8,
+    "id": 189,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+    "name": "Jumpluff",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 3.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "La corriente lo ha transportado hasta aquí desde\nun lugar sumamente gélido. Utiliza el hielo para\nmantener la cara refrigerada en todo momento.",
+        "Se enfría constantemente la cara con hielo por\nsu escasa resistencia al calor. Utiliza el pelo de\nla cabeza para pescar en el mar."
+    ],
+    "height": 1.4,
+    "id": 875,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+    "name": "Eiscue",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 89.0
+}

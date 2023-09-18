@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Odia la luz y las sacudidas. Si le atacan, infla su\ncuerpo para aumentar su contraataque.",
+        "Para mantener oculta su negra cola, vive en silencio\nen la oscuridad. Nunca ataca primero.",
+        "Si dos o más Wobbuffet se encuentran, se volverán\ncompetitivos e intentarán superarse en resistencia. Pero\ntambién puede que intenten aguantar sin comer; algo que\nlos Entrenadores deben tener muy en cuenta.",
+        "Wobbuffet no hace otra cosa que aguantar los golpes que\nrecibe: nunca usa movimientos ofensivos. Pero, si le atacan\na la cola, intentará llevarse con él al enemigo usando\nMismo Destino.",
+        "Odia la luz y las sacudidas. Si le atacan, infla su\ncuerpo para contraatacar con más ímpetu.",
+        "Para mantener oculta su negra cola, vive en\nsilencio en la oscuridad. Nunca ataca primero."
+    ],
+    "height": 1.3,
+    "id": 202,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "name": "Wobbuffet",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 28.5
+}

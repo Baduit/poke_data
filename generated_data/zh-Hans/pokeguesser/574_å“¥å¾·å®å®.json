@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "虽然还是宝宝，有时也会\n用储存在像蝴蝶结一样的\n触角里的精神力量来战斗。",
+        "哥德宝宝会在看似无人的地方\n轻声地叫。它好像是在与某种\n只有它才看得见的东西说话。"
+    ],
+    "height": 0.4,
+    "id": 574,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "name": "哥德宝宝",
+    "types": [
+        "超能力"
+    ],
+    "weight": 5.8
+}

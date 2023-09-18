@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "翅膀的温度为零下１８０度。\n当它飞过山野时，带有冷气的\n鳞粉会像下雪般地飘落下来。",
+        "绝不放过破坏山野环境的人。\n会用冰冷的翅膀四处飞翔，\n制造出暴风雪来惩罚他们。"
+    ],
+    "height": 1.3,
+    "id": 873,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+    "name": "雪绒蛾",
+    "types": [
+        "冰",
+        "虫"
+    ],
+    "weight": 42.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Son corps de crème s’est composé à partir\nde particules au parfum sucré flottant dans l’air.",
+        "Les pâtissiers connaissent tous ce vieil adage :\nQuand Crèmy apparaît, le succès est assuré."
+    ],
+    "height": 0.2,
+    "id": 868,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "name": "Crèmy",
+    "types": [
+        "Fée"
+    ],
+    "weight": 0.3
+}

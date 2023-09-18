@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "I suoi continui lamenti provocano atroci emicranie.\nSi sposta così velocemente che... non si vede!",
+        "Si muove così in fretta da risultare quasi invisibile.\nLo si vede in gruppo attorno agli alberi ricchi di linfa.",
+        "Ninjask si muove a una velocità tale da rendersi praticamente\ninvisibile, nonostante il suo verso si possa udire chiaramente.\nPer questo motivo, per molto tempo si è pensato che fosse\neffettivamente invisibile.",
+        "Se Ninjask non viene allenato adeguatamente, si rifiuta di\nobbedire all’Allenatore, lamentandosi di continuo. Questa sua\ncaratteristica mette alla prova le capacità di ciascun Allenatore\ndi Pokémon.",
+        "I suoi continui lamenti provocano atroci\nemicranie. Si sposta così velocemente che...\nnon si vede!",
+        "È così rapido che si dice sia in grado di schivare\nqualsiasi attacco. Ama nutrirsi della linfa degli\nalberi."
+    ],
+    "height": 0.8,
+    "id": 291,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "name": "Ninjask",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 12.0
+}

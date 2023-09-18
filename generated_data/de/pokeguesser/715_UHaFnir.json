@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es fliegt in finsterer, mondloser Nacht umher\nund macht Jagd auf achtlose Beute.\nIst bei Dunkelheit jedem Gegner überlegen.",
+        "Die Ultraschallwellen aus seinen Ohren zermalmen\nFelsen zu kleinen Kieseln. Greift stets im Schutz der\nDunkelheit an.",
+        "Es fliegt in finsterer, mondloser Nacht umher und macht\nJagd auf achtlose Beute. Ist bei Dunkelheit jedem Gegner\nüberlegen.",
+        "Die Ultraschallwellen aus seinen Ohren zermalmen Felsen zu\nkleinen Kieseln. Greift stets im Schutz der Dunkelheit an.",
+        "Es ist von Natur aus brutal. Gibt man ihm jedoch\nseine Leibspeise, reifes Obst, ist es plötzlich\nwie ausgewechselt und wird zahm.",
+        "Dieses heißblütige Pokémon, das mithilfe von\nUltraschallwellen Felsen zermalmen kann, greift\nalles an, was ihm unter die Augen kommt.",
+        "Ein heißblütiges und brutales Pokémon. Es fügt\nseinen in der Dunkelheit wehrlosen Gegnern\ngnadenlos Verletzungen zu.",
+        "Es fliegt durch die Dunkelheit und verletzt Feinde\nmit Ultraschallwellen, die auch Felsen zermalmen\nkönnen. Dann erledigt es sie mit spitzen Zähnen."
+    ],
+    "height": 1.5,
+    "id": 715,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "name": "UHaFnir",
+    "types": [
+        "Flug",
+        "Drache"
+    ],
+    "weight": 85.0
+}

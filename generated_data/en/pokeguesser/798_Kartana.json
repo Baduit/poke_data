@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "This Ultra Beast came from the Ultra Wormhole.\nIt seems not to attack enemies on its own, but\nits sharp body is a dangerous weapon in itself.",
+        "One of the Ultra Beast life-forms, it was\nobserved cutting down a gigantic steel tower\nwith one stroke of its blade.",
+        "This Ultra Beast’s body, which is as thin as\npaper, is like a sharpened sword.",
+        "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives."
+    ],
+    "height": 0.3,
+    "id": 798,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "name": "Kartana",
+    "types": [
+        "Grass",
+        "Steel"
+    ],
+    "weight": 0.1
+}

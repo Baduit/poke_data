@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Das Muster auf seinem Bauch ähnelt einer Fratze.\nSchwache Gegner nehmen bereits beim Anblick\nReißaus.",
+        "Um Feinde einzuschüchtern, bläht es seine Brust\nauf und stößt unheimliche Laute durch sein Maul aus.",
+        "Dieses Pokémon ist unheimlich stark. Es kann seine Beute\nmit seinem Körper umwickeln und sogar Ölfässer zerdrücken.\nWenn Arbok einen Gegner umwickelt, ist es unmöglich,\nseinem Würgegriff zu entkommen.",
+        "Dieses Pokémon ist unheimlich stark. Es kann seine Beute\nmit seinem Körper umwickeln und sogar Ölfässer zerdrücken.\nWenn Arbok einen Gegner umwickelt, ist es unmöglich,\nseinem Würgegriff zu entkommen.",
+        "Jüngsten Forschungsergebnissen zufolge gibt\nes mehr als 20 verschiedene Musterungen, die\nArboks Bauch aufweisen kann.",
+        "Es schüchtert seinen Gegner mit dem Muster\nauf seinem Bauch ein und nimmt ihn dann in den\nWürgegriff, bis es keinen Widerstand mehr spürt.",
+        "Von dem furchterregenden Muster auf seinem\nBauch wurden durch Studien bislang sechs\nverschiedene Varianten entdeckt.",
+        "Von dem furchterregenden Muster auf seinem\nBauch wurden durch Studien bislang sechs\nverschiedene Varianten entdeckt."
+    ],
+    "height": 3.5,
+    "id": 24,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "name": "Arbok",
+    "types": [
+        "Gift"
+    ],
+    "weight": 65.0
+}

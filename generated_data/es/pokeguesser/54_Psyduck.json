@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Padece continuamente dolores de cabeza. Cuando\nson muy fuertes, empieza a usar misteriosos poderes.",
+        "Tiene poderes místicos que no recuerda haber usado.\nPor eso, siempre parece desconcertado.",
+        "Psyduck tiene un extraño poder, que consiste en generar\nondas cerebrales iguales a las que se generan cuando se está\ndormido. Este descubrimiento levantó una gran polémica entre\neruditos.",
+        "Psyduck no se acuerda nunca de haber usado su misterioso\npoder. Parece ser que no puede registrar en la memoria haber\nusado el ataque porque se queda inmerso en un estado\nparecido a un sueño profundo.",
+        "En ocasiones utiliza sus poderes psíquicos\nsin querer, lo que le provoca fuertes dolores\nde cabeza que le hacen chillar.",
+        "Siempre padece dolores de cabeza. Cuando\nestos llegan a niveles insoportables, desata\nun poder psíquico extraordinario.",
+        "El uso de sus poderes psíquicos le provoca un\ngran dolor de cabeza, por lo que prefiere tener\nla mente en blanco y no hacer nada en absoluto.",
+        "Estudios recientes han desvelado que, cuando\nsufre un episodio de cefalea, su actividad\nneuronal es diez veces superior a lo normal.",
+        "Siempre tiene dolores de cabeza. Posee poderes\npsíquicos, pero se desconoce si los controla a\nvoluntad.",
+        "Siempre tiene dolores de cabeza. Posee poderes\npsíquicos, pero se desconoce si los controla a\nvoluntad.",
+        "Siempre padece dolores de cabeza. Tras desatar\nsus misteriosos poderes, la jaqueca remite unos\ninstantes.",
+        "Sus dolores de cabeza empeoran a medida que\naumenta su nivel de estrés. Su increíble poder\npsíquico puede causar estragos a su alrededor."
+    ],
+    "height": 0.8,
+    "id": 54,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "name": "Psyduck",
+    "types": [
+        "Agua"
+    ],
+    "weight": 19.6
+}

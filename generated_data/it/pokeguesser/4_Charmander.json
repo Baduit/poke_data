@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "La fiamma che Charmander ha sulla coda indica la\nsua forza vitale. Se è in forma, la fiamma è vivace.",
+        "Dalla nascita una fiamma gli arde sulla punta della\ncoda. Se si spegnesse, per lui sarebbe la fine.",
+        "La fiamma sulla punta della coda indica il suo stato emotivo.\nSe la fiamma ondeggia significa che Charmander si sta\ndivertendo. Quando il Pokémon si infuria, la fiamma arde\nviolentemente.",
+        "La fiamma sulla punta della coda indica il suo stato emotivo.\nSe la fiamma ondeggia significa che Charmander si sta\ndivertendo. Quando il Pokémon si infuria, la fiamma arde\nviolentemente.",
+        "Nel silenzio più assoluto si può udire la fiamma\nin cima alla sua coda scoppiettare bruciando.",
+        "Nel silenzio più assoluto si può udire la fiamma\nin cima alla sua coda scoppiettare bruciando.",
+        "Ama le cose calde. Si dice che quando piove\ngli esca vapore dalla punta della coda.",
+        "Una fiamma gli arde sulla punta della coda\nfin dalla nascita. Se si spegnesse, per lui\nsarebbe la fine."
+    ],
+    "height": 0.6,
+    "id": 4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "name": "Charmander",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 8.5
+}

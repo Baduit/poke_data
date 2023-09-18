@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cava a gran velocidad en busca de comida. Los\ntúneles que deja son usados por los Diglett.",
+        "Suele vivir bajo tierra. Va buscando comida a medida\nque se va abriendo camino a 80 km por hora.",
+        "Onix tiene un imán en el cerebro, que actúa como una brújula\npara no perder la orientación cuando está cavando túneles.\nA medida que crece, se le redondea y suaviza el cuerpo.",
+        "Onix tiene un imán en el cerebro, que actúa como una brújula\npara no perder la orientación cuando está cavando túneles.\nA medida que crece, se le redondea y suaviza el cuerpo.",
+        "Cava a gran velocidad en busca de comida.\nLos Diglett convierten en su hogar los túneles\nque deja a su paso.",
+        "Cava a gran velocidad en busca de comida.\nLos Diglett convierten en su hogar los túneles\nque deja a su paso.",
+        "Al abrirse paso bajo tierra, va absorbiendo todo\nlo que encuentra. Eso hace que su cuerpo sea\nasí de sólido.",
+        "Perfora el suelo a una velocidad de 80 km/h\ngirando y retorciendo su robusto y enorme\ncuerpo."
+    ],
+    "height": 8.8,
+    "id": 95,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "name": "Onix",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 210.0
+}

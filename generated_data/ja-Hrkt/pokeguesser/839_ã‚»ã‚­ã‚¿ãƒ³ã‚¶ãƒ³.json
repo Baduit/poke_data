@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ふだんは　おだやかだが　にんげんが\nこうざんを　あらすと　いかりくるい\n１５００どの　ほのおで　やきつくす。",
+        "たたかいになると　せきたんの　やまが\nまっかに　もえあがり　ひのこを\nまきちらして　しゅういを　こがす。"
+    ],
+    "height": 2.8,
+    "id": 839,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "name": "セキタンザン",
+    "types": [
+        "いわ",
+        "ほのお"
+    ],
+    "weight": 310.5
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il rassemble ses pairs pour les\ncommander. Il utilise son cri \npour diriger Ptitard.",
+        "Il rassemble ses pairs pour les\ncommander. Il utilise son cri \npour diriger Ptitard.",
+        "Quand trois ou plus se réunissent, ils chantent d’une\nmême voix ressemblant à un beuglement.",
+        "Si Ptitard et Têtarte entendent son cri, ils se\nrassemblent pour venir le rencontrer.",
+        "Le cheveu bouclé sur la tête de Tarpaud est la preuve de\nson statut de roi. On raconte que plus son cheveu est long\net bouclé, plus ce Pokémon est respecté par ses semblables.",
+        "Le cheveu bouclé sur la tête de Tarpaud est la preuve de\nson statut de roi. On raconte que plus son cheveu est long\net bouclé, plus ce Pokémon est respecté par ses semblables.",
+        "Ils se regroupent sous la lune pour chanter.\nLeur musique est très bruyante et s’apparente à\nune dispute, mais certains esthètes l’apprécient.",
+        "Les Ptitard et Têtarte lui obéissent. Il n’a qu’à\ndonner de la voix pour les faire trembler comme\ndes feuilles.",
+        "Bien que le chant de ce Pokémon s’apparente\nà des cris, un musicien s’en est inspiré pour\ncomposer une magnifique ballade.",
+        "La longueur et la beauté du cheveu bouclé qui\norne la tête de Tarpaud influencent directement\nle nombre de Ptitard et de Têtarte lui obéissant.",
+        "Il apparaît sur les rives des étangs à la nuit\ntombée. Il marque son territoire en poussant\ndes hurlements.",
+        "Le cri des mâles est plus puissant que celui\ndes femelles, qui préfèrent les voix fortes\net intimidantes."
+    ],
+    "height": 1.1,
+    "id": 186,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "name": "Tarpaud",
+    "types": [
+        "Eau"
+    ],
+    "weight": 33.9
+}

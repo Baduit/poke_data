@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Sind drei oder mehr von ihnen zusammen,\nlassen sie einen schallenden Ruf erklingen.",
+        "Hören Quapsel und Quaputzi seinen Ruf,\nantworten sie, indem sie sich von nah und fern\nversammeln.",
+        "Quaxo hat gelocktes Haar, das ihm den Status eines Königs\nbescheinigt. Je länger und lockiger sein Haar ist, desto mehr\nRespekt erntet dieses Pokémon von seinen Artgenossen.",
+        "Quaxo hat lockiges Haar, das ihm den Status eines Königs\nbescheinigt. Je länger und lockiger sein Haar ist, desto mehr\nRespekt erntet dieses Pokémon von seinen Artgenossen.",
+        "In klaren Mondnächten versammeln sie sich und\nsingen im Chor. Ihr Gesang ist zwar nicht schön\nund klingt eher wie Geschrei, aber er hat Stil.",
+        "Es ist der Anführer von Quapsel und Quaputzi.\nFängt Quaxo an seinen Unmut zu äußern,\nnehmen alle vor lauter Angst sofort Reißaus.",
+        "Sein Ruf mag zwar wie Gebrüll klingen, doch\nein Komponist ließ sich von ihm zu einer\ntraumhaften Ballade inspirieren.",
+        "Je länger und prächtiger Quaxos Haarlocke ist,\ndesto mehr Quapsel und Quaputzi führt es an.",
+        "Nachts erscheint Quaxo an Ufern von Teichen.\nMit seinem schallenden Ruf beansprucht es sein\nRevier.",
+        "Die Rufe der Männchen sind besonders laut.\nQuaxo mit einer tiefen, bedrohlichen Stimme\nsind bei den Weibchen sehr beliebt."
+    ],
+    "height": 1.1,
+    "id": 186,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "name": "Quaxo",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 33.9
+}

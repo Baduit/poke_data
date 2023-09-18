@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "世界中を　駆け巡り\n汚れた　水を　清めている。\n北風と　ともに　走り去る。",
+        "一瞬で　汚く　濁った　水も\n清める　力を　持つ。\n北風の　生まれ変わり　という。",
+        "わき水の　優しさを　宿した　ポケモン。\n滑る　ような　身のこなしで　大地を　走り\n濁った　水を　清める　力を　持つ。",
+        "わき水の　優しさを　宿した　ポケモン。\n滑る　ような　身のこなしで　大地を　走り\n濁った　水を　清める　力を　持つ。"
+    ],
+    "height": 2.0,
+    "id": 245,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "name": "スイクン",
+    "types": [
+        "みず"
+    ],
+    "weight": 187.0
+}

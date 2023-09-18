@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Un Pokémon insaisissable. Son style\net son pelage magnifique attirent de\nnombreux Dresseurs.",
+        "Il s’approche sans un bruit de sa proie\net l’abat d’un coup par derrière\nsans jamais être repéré.",
+        "Sa ligne élégante cache une musculature féline\nqui lui permet de surprendre lors de ses attaques\nnocturnes.",
+        "Il s’approche sans un bruit de sa proie et l’abat\nd’un coup par-derrière sans jamais être repéré.",
+        "Sa ligne élégante cache une musculature féline qui lui permet\nde surprendre lors de ses attaques nocturnes.",
+        "Il s’approche sans un bruit de sa proie et l’abat d’un coup\npar-derrière sans jamais être repéré.",
+        "On se laisse facilement éblouir par son pelage\nmagnifique et son allure élégante, mais gare\nà son caractère imprévisible et agressif.",
+        "Sans un bruit, il approche ses victimes\npar-derrière pour les frapper.\nIl dispute son territoire avec les Roublenard."
+    ],
+    "height": 1.1,
+    "id": 510,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "name": "Léopardus",
+    "types": [
+        "Ténèbres"
+    ],
+    "weight": 37.5
+}

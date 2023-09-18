@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Sa mâchoire fine et aiguisée fait sa fierté.\nÀ peine voit-il le moindre mouvement\nqu’il fonce dans sa direction.",
+        "Lorsqu’il a le ventre plein, il a beaucoup\nplus de mal à se déplacer, et c’est à ce moment\nprécis qu’il se fait gober par les Nigosier."
+    ],
+    "height": 0.5,
+    "id": 846,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+    "name": "Embrochet",
+    "types": [
+        "Eau"
+    ],
+    "weight": 1.0
+}

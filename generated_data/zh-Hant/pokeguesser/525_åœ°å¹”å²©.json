@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "橙色的結晶是能量塊。\n一塊結晶可提供１００輛\n大卡車所需的燃料。",
+        "在洞窟裡尋找地下水。\n對水的抵抗力並不好，\n所以都是一點一點慢慢舔。",
+        "從身體溢出的能量\n形成了橘色的結晶，\n硬度高到連鑽石都能敲碎。",
+        "橘色的部分是大塊的\n能量結晶。因為很有價值，\n所以牠有時會被襲擊。",
+        "橘色的結晶開始發光的時候，\n一定要特別小心，因為牠\n馬上就會射出能量。",
+        "透過聲音來探測四周。\n要是惹牠生氣了，牠會連\n身體方向也不轉就朝你追來。"
+    ],
+    "height": 0.9,
+    "id": 525,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "name": "地幔岩",
+    "types": [
+        "岩石"
+    ],
+    "weight": 102.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ce Pokémon des mers chaudes\nrevient toujours à son lieu de\nnaissance, peu importe la distance.",
+        "Ce Pokémon des mers chaudes\nrevient toujours à son lieu de\nnaissance, peu importe la distance.",
+        "Il gonfle la bouée de sa tête et se laisse flotter à\nla surface quand la mer se réchauffe.",
+        "Ce Pokémon des mers chaudes revient toujours à\nson lieu de naissance, peu importe la distance.",
+        "Il gonfle la bouée de sa tête et se laisse flotter à la surface\nquand la mer se réchauffe.",
+        "Ce Pokémon des mers chaudes revient toujours à son lieu\nde naissance, peu importe la distance."
+    ],
+    "height": 0.4,
+    "id": 489,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+    "name": "Phione",
+    "types": [
+        "Eau"
+    ],
+    "weight": 3.1
+}

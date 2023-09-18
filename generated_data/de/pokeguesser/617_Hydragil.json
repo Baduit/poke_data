@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Seit es die schwere Muschel abgestreift hat, ist es\nviel leichter. Nun gleichen seine Kampfbewegungen\ndenen eines Ninja.",
+        "Da es ohne Flüssigkeit an Kraft verliert, schützt es\nsich mit mehreren dünnen Hautschichten vor dem\nAustrocknen.",
+        "Seit es die schwere Muschel abgestreift hat, ist es viel leichter.\nNun gleichen seine Kampfbewegungen denen eines Ninja.",
+        "Da es ohne Flüssigkeit an Kraft verliert, schützt es sich mit\nmehreren dünnen Hautschichten vor dem Austrocknen.",
+        "Im Kampf spuckt es mit flinken Bewegungen Gift.\nFilme und Comics mit Hydragil in der Hauptrolle\nerfreuen sich großer Beliebtheit.",
+        "Seit es seine Muschel abgestreift hat, ist es viel\nleichter und agiler. Es umhüllt sich mit einer\nSchleimhaut, die es vor dem Austrocknen schützt."
+    ],
+    "height": 0.8,
+    "id": 617,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+    "name": "Hydragil",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 25.3
+}

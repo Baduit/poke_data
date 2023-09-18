@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Este Pokémon permanece bajo tierra. Si se siente\namenazado, se enrosca para defenderse.",
+        "Como odia el agua, vive en madrigueras muy\nprofundas en zonas áridas. Puede hacerse una bola\nal instante.",
+        "Sandshrew es capaz de absorber agua y no perder ni una\ngota, algo que le permite sobrevivir en el desierto. Este\nPokémon se enrosca para defenderse de los enemigos.",
+        "Sandshrew tiene una piel muy seca y tremendamente dura.\nTiene la habilidad de hacerse una bola y evitar cualquier\nataque. Por las noches, escarba en la arena del desierto y\nse echa a dormir.",
+        "Enrolla su cuerpo hasta hacerse una bola\ny rueda por el desierto a gran velocidad.",
+        "Habita principalmente en zonas desérticas\ndonde las lluvias son escasas. Excava agujeros\nen el suelo en busca de Pokémon insecto.",
+        "Prefiere hábitats secos. Cuando intuye peligro,\nse enrolla hasta hacerse una bola para proteger\nlas partes blandas de su cuerpo.",
+        "Cuando la humedad le satura la piel, se dirige a\nun volcán y aprovecha las altas temperaturas\ndel suelo para secarse.",
+        "Tiene la piel muy seca, aunque, si hace frío por\nla noche, aparece cubierta de un fino rocío.",
+        "Tiene la piel muy seca, aunque, si hace frío por\nla noche, aparece cubierta de un fino rocío.",
+        "Le gusta revolcarse por la arena seca para\neliminar todo rastro de suciedad y humedad\nen la piel.",
+        "Excava madrigueras profundas en las que vive.\nParte con sus afiladas garras cualquier roca, por\ndura que sea, que le entorpezca el camino."
+    ],
+    "height": 0.6,
+    "id": 27,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "name": "Sandshrew",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 12.0
+}

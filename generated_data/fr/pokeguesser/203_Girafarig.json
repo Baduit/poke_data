@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "La tête qu’il a sur la queue dispose\nde son propre cerveau et lui\npermet de couvrir ses arrières.",
+        "La tête qu’il a sur la queue dispose\nde son propre cerveau et lui\npermet de couvrir ses arrières.",
+        "La tête sur sa queue monte la garde quand il dort.\nElle n’a pas besoin de dormir.",
+        "Sa queue possède un cerveau. Si vous vous en\napprochez, elle vous sentira et vous mordra.",
+        "La tête à l’arrière de Girafarig a aussi un cerveau, mais il est\nplus petit. Elle attaque en réponse aux sons et aux odeurs.\nSi on approche de ce Pokémon par derrière, cette petite tête\npeut tout à coup jaillir et mordre.",
+        "La tête à l’arrière de Girafarig abrite un cerveau trop petit\npour penser. En revanche, cette tête arrière n’a pas besoin\nde dormir, ce qui lui permet de monter la garde tout le temps."
+    ],
+    "height": 1.5,
+    "id": 203,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "name": "Girafarig",
+    "types": [
+        "Normal",
+        "Psy"
+    ],
+    "weight": 41.5
+}

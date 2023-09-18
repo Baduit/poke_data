@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Hunde su gran pico en el mar para sacar numerosas\npresas junto con mucha agua.",
+        "Transporta a pequeños Pokémon y Huevos en su pico\nhasta lugares seguros.",
+        "Pelipper vuela transportando pequeños huevos y Pokémon\ndentro del descomunal pico que tiene. Este Pokémon\nconstruye su nido en escarpados acantilados frente al mar.",
+        "Pelipper busca su comida mientras vuela y esquiva las crestas\nde las olas. Cuando localiza una presa, sumerge el largo pico\nen el agua para pescarla y se la traga de una vez.",
+        "Su pico es tan grande que podría acomodar a un\nniño pequeño sin ningún problema.",
+        "Los machos jóvenes se encargan de reunir\ncomida. La acumulan en sus grandes picos para\nluego llevarla a sus compañeros en los nidos.",
+        "Transporta Pokémon pequeños en su enorme\npico, aunque nadie sabe a dónde los lleva.",
+        "Atrapa Wishiwashi con su enorme pico para\nluego engullirlos enteros, llegando a comer más\nde 30 ejemplares de una sentada.",
+        "Transporta a pequeños Pokémon y Huevos en su\npico hasta lugares seguros.",
+        "Vuela a ras de la superficie marina para llenar\nsu inmenso pico de agua y comida, que se lleva\nconsigo."
+    ],
+    "height": 1.2,
+    "id": 279,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "name": "Pelipper",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 28.0
+}

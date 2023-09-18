@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Steckt es sein Beinchen fest in den Boden und\nbadet dann ausgiebig im Sonnenlicht, nimmt\nseine Blüte eine kräftigere Farbe an.",
+        "Viele Leute werden ihre Trainer, weil sie es\nniedlich finden, wie diese Pokémon in sanften\nBrisen herumwirbeln und voller Freude singen."
+    ],
+    "height": 0.4,
+    "id": 829,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
+    "name": "Cottini",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 2.2
+}

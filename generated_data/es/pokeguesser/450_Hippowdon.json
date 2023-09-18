@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Hace gala de su fuerza abriendo su enorme boca.\nPara atacar levanta gran cantidad de arena.",
+        "Cuando ataca, expulsa arena almacenada en su interior\npara crear un gran tornado.",
+        "Hace gala de su fuerza abriendo su enorme boca. Para atacar\nlevanta gran cantidad de arena.",
+        "Cuando ataca, expulsa arena almacenada en su interior para\ncrear un gran tornado.",
+        "Protege con celo a los Dwebble, ya que le\nayudan a liberarse de las piedras que a veces\nle obturan los orificios del lomo.",
+        "Puede ser muy agresivo cuando se enfada.\nProvoca auténticas tempestades de arena al\nexpeler la que ha tragado."
+    ],
+    "height": 2.0,
+    "id": 450,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "name": "Hippowdon",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 300.0
+}

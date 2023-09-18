@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "只要受到一点撞击，\n就会由于体内的\n电能溢出导致爆炸。",
+        "只要受到一点撞击，\n就会由于体内的\n电能溢出导致爆炸。"
+    ],
+    "height": 1.2,
+    "id": 101,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "name": "顽皮雷弹",
+    "types": [
+        "电"
+    ],
+    "weight": 66.6
+}

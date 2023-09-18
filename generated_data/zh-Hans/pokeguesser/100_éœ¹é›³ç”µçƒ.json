@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "据说它与精灵球相似的外形\n其实是它的保护色，但它\n很容易自爆这一点也出人意料。",
+        "据说它与精灵球相似的外形\n其实是它的保护色，但它\n很容易自爆这一点也出人意料。"
+    ],
+    "height": 0.5,
+    "id": 100,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "name": "霹雳电球",
+    "types": [
+        "电"
+    ],
+    "weight": 10.4
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Avvolge il nemico in una fitta nebbia che\nlo induce ad attaccare se stesso. Le correnti\nmarine sono la fonte della sua energia.",
+        "Protettore di Poni, ha il potere di controllare\ni flutti. Si narra che possa generare acqua\nlimpidissima che neutralizza qualsiasi impurità.",
+        "Protettore di Poni, ha il potere di controllare i\nflutti. Vive in una fitta nebbia, venerato e temuto\nallo stesso tempo.",
+        "È considerato un Pokémon protettore, ma a volte\narreca sciagure tremende a chi gli si avvicina in\nmodo avventato."
+    ],
+    "height": 1.3,
+    "id": 788,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+    "name": "Tapu Fini",
+    "types": [
+        "Acqua",
+        "Folletto"
+    ],
+    "weight": 21.2
+}

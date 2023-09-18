@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "黑色的體毛非常堅硬，且會\n不斷長出，需要花錢修剪，\n是很費事的寶可夢。",
+        "會忠實地聽從主人的命令。\n但絕對不聽自己看不起的人\n所說的話。",
+        "黑色的體毛會隨著成長\n變得越來越堅硬結實，\n連爪子和牙齒也無法輕易穿透。",
+        "長久以來一直與人類共同生活。\n就連遠古時代的壁畫上\n都留有牠的身影。",
+        "非常聰明，容易與人親近。\n甚至有人說，牠是最先\n成為人類同伴的寶可夢。",
+        "覆蓋身體的黑色體毛\n既厚實又有彈性，就連\n銳利的獠牙也會被反彈。"
+    ],
+    "height": 0.9,
+    "id": 507,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "name": "哈約克",
+    "types": [
+        "一般"
+    ],
+    "weight": 14.7
+}

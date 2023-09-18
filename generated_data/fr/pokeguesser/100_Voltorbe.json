@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il ressemble à une Poké Ball. Ce\nPokémon dangereux peut exploser\nou s’électrifier au toucher.",
+        "Il ressemble à une Poké Ball. Ce\nPokémon dangereux peut exploser\nou s’électrifier au toucher.",
+        "Découvert en même temps que les Poké Balls.\nIl paraît qu’il existe un lien entre les deux.",
+        "Vivant près des centrales électriques, ce Pokémon\nsurvolté est souvent confondu avec une Poké Ball.",
+        "La première fois qu’on a vu Voltorbe, c’était dans une usine\nqui fabrique des Poké Balls. Personne n’a jamais pu expliquer\nle lien entre cet événement et la ressemblance frappante\nde ce Pokémon avec une Poké Ball.",
+        "Voltorbe est extrêmement sensible. Il explose au moindre\nchoc. On raconte qu’il fut créé par l’exposition d’une\nPoké Ball à une puissante dose d’énergie.",
+        "On dit qu’il se déguise en Poké Ball.\nIl s’autodétruit à la moindre stimulation.",
+        "On dit qu’il se déguise en Poké Ball.\nIl s’autodétruit à la moindre stimulation."
+    ],
+    "height": 0.5,
+    "id": 100,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "name": "Voltorbe",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 10.4
+}

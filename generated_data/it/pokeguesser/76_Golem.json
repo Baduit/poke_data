@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "A furia di rotolare giù dalla cima dei monti, ha\nformato dei solchi. Meglio evitarli.",
+        "Muta il guscio solo una volta all’anno. Neanche la\ndinamite può scalfire il suo corpo durissimo.",
+        "I Golem vivono in alta montagna. In caso di terremoto,\nquesti Pokémon rotolano giù per i monti in massa\ne si fermano a valle.",
+        "Golem è noto per rotolare in discesa lungo il pendio dei monti.\nPer evitare che finisca dentro le case a valle, sono stati creati\ndei canaloni sui pendii dei monti per guidarne il percorso\ndurante la discesa.",
+        "Il suo corpo non viene scalfito neanche dalla\ndinamite. Tuttavia, teme la pioggia e l’umidità.",
+        "Fa la muta una volta all’anno. Il guscio\nabbandonato viene recuperato dagli agricoltori\nper le sue proprietà fertilizzanti.",
+        "Quando invecchia, non fa più la muta.\nIl guscio dei Golem molto anziani si ricopre\ndi muschio tingendosi di verde.",
+        "Può farsi esplodere e risalire a gran velocità\ni pendii montani più ripidi sfruttando la\nspinta che riceve.",
+        "Subito dopo la muta il suo corpo è bianco\ne morbido, ma al contatto con l’aria si trasforma\nimmediatamente in una dura corazza.",
+        "Subito dopo la muta il suo corpo è bianco\ne morbido, ma al contatto con l’aria si trasforma\nimmediatamente in una dura corazza."
+    ],
+    "height": 1.4,
+    "id": 76,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "name": "Golem",
+    "types": [
+        "Roccia",
+        "Terra"
+    ],
+    "weight": 300.0
+}

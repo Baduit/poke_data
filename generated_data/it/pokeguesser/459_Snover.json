@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "In inverno scende a valle, ma in primavera se ne\ntorna sulle cime montuose dove c’è ancora neve.",
+        "In primavera, attorno al ventre gli crescono delle\nbacche simili a dolci ghiaccioli.",
+        "In inverno scende a valle, ma in primavera se ne torna sulle\ncime montuose dove c’è ancora neve.",
+        "In primavera, attorno al ventre gli crescono delle bacche\nsimili a dolci ghiaccioli.",
+        "Vive sulle montagne innevate. Infila i piedi\nnella neve e assorbe acqua e freddo a volontà.",
+        "Le bacche simili a ghiaccioli che gli crescono\nattorno al ventre sono il cibo preferito dei\nDarumaka che vivono a Galar."
+    ],
+    "height": 1.0,
+    "id": 459,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "name": "Snover",
+    "types": [
+        "Erba",
+        "Ghiaccio"
+    ],
+    "weight": 50.5
+}

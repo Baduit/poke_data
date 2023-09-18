@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es ist als extrem schlaues Pokémon bekannt.\nNicht so beliebt bei unerfahrenen Trainern,\ndoch Veteranen wissen es zu schätzen.",
+        "Lebt auf Baumwipfeln im tiefsten Dschungel.\nAb und an erscheint es am Strand, um sich\nepische Quiz-Duelle mit Laschoking zu liefern.",
+        "Es verbringt die meiste Zeit in Meditation auf\nBaumwipfeln. Manchmal wirft es Pokébälle auf\nPokémon und erteilt ihnen Befehle.",
+        "Kommandutan kommen nicht gut miteinander\naus. Ständig wetteifern sie, wer von ihnen wohl\nam klügsten sei.",
+        "Mit dem Fächer, den es aus Blättern und Fell\ngebaut hat, kommandiert es andere Pokémon\nherum. Er symbolisiert seine Befehlsgewalt.",
+        "Es kennt jeden Winkel des Waldes. Trifft es ein\nverletztes Pokémon, findet es in Windeseile das\npassende Heilkraut und schreitet zur Behandlung."
+    ],
+    "height": 1.5,
+    "id": 765,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "name": "Kommandutan",
+    "types": [
+        "Normal",
+        "Psycho"
+    ],
+    "weight": 76.0
+}

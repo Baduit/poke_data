@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "戦いの前　背中を　向けて\n自分の　炎が　どれくらい\nすごいかを　相手に　見せつける。",
+        "戦闘中　背中を　向けたら　要注意。\n背中の　炎で\n攻撃してくる　前触れだ。",
+        "炎の　勢いと　熱風で　威嚇する。\n素早い　身のこなしで　相手の　攻撃を\nかわしながら　同時に　炎で　燃やす。",
+        "炎の　勢いと　熱風で　威嚇する。\n素早い　身のこなしで　相手の　攻撃を\nかわしながら　同時に　炎で　燃やす。"
+    ],
+    "height": 0.9,
+    "id": 156,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "name": "マグマラシ",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 19.0
+}

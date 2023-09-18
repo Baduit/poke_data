@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Por su inusual forma estrellada, la gente cree que\nprocede de un meteorito que cayó a la tierra.",
+        "Muchos aparecen cuando hay estrellas fugaces en el\ncielo nocturno. Se esfuman al amanecer.",
+        "Cuando hay lluvia de estrellas, a los Cleffa se les puede\nver danzando en círculos durante toda la noche. Solo paran\ncuando rompe el día; entonces, dejan de bailar y calman su\nsed con el rocío de la mañana.",
+        "Cuando hay lluvia de estrellas, a los Cleffa se les puede\nver danzando en círculos durante toda la noche. Solo paran\ncuando rompe el día; entonces, dejan de bailar y calman su\nsed con el rocío de la mañana.",
+        "Se dice que este Pokémon se acuerda de su\nhogar cuando observa el cielo durante una lluvia\nde estrellas.",
+        "Algunos creen que su forma es un indicio de que\nCleffa es, en realidad, la reencarnación de una\nestrella. Por algún motivo, adora a los Minior.",
+        "Las noches de lluvia de estrellas, se congregan\ny bailan en círculo. Se cree que presenciar este\nespectáculo trae buena suerte.",
+        "Se dice que llegó en una estrella fugaz. Este\nPokémon suele encontrarse en lugares donde\nhan caído meteoritos.",
+        "Los lugareños rumorean que suele encontrarse\nen lugares donde han caído estrellas fugaces.",
+        "Por su inusual forma estrellada, la gente cree que\nprocede de un meteorito que cayó a la tierra."
+    ],
+    "height": 0.3,
+    "id": 173,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "name": "Cleffa",
+    "types": [
+        "Hada"
+    ],
+    "weight": 3.0
+}

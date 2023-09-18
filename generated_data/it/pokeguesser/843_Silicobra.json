@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Conserva nella sacca del collo la sabbia che\ningoia scavando buche. Può accumularne ben\n8 kg.",
+        "Espelle sabbia dalle narici accecando il nemico\nper distrarlo e ne approfitta per nascondersi\nsottoterra."
+    ],
+    "height": 2.2,
+    "id": 843,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "name": "Silicobra",
+    "types": [
+        "Terra"
+    ],
+    "weight": 7.6
+}

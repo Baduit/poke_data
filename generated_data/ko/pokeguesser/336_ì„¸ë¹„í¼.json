@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "맹독이 배어 나오는\n예리하고 잘 드는 꼬리로\n재빠른 쟝고에게 맞선다.",
+        "꼬리의 칼은 항상 바위로\n갈고 있어 날카로움이 뛰어나다.\n쟝고와는 사연이 깊은 사이다.",
+        "조상 대대로 쟝고와 싸워왔다.\n몸의 상처는 격렬한 싸움의 증거다.\n날카롭고 예리한 꼬리로 공격한다.",
+        "칼과 같은 꼬리는 적을 베어 가르는\n동시에 스며 나온 맹독을 끼얹는다.\n숙적인 쟝고와 계속하여 싸운다."
+    ],
+    "height": 2.7,
+    "id": 336,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "name": "세비퍼",
+    "types": [
+        "독"
+    ],
+    "weight": 52.5
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "列陣兵由１個頭頭\n和５個跟班組成。\n頭頭的命令不可違抗。",
+        "６隻為一體的寶可夢。\n慣於團隊行動，會一邊\n變換陣形一邊戰鬥。"
+    ],
+    "height": 3.0,
+    "id": 870,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "name": "列陣兵",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 62.0
+}

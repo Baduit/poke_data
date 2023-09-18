@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Tiene querencia por los agujeros. Ataca escupiendo\ntinta metido en las grietas de rocas o en recipientes.",
+        "Atrapa a los enemigos con sus tentáculos y después\nlos golpea con su dura cabeza.",
+        "Octillery se apodera de su enemigo con los tentáculos y lo\ndeja inmovilizado antes de propinarle el golpe final. Si el\nenemigo resulta ser demasiado fuerte, Octillery expulsará tinta\npara escapar.",
+        "Octillery se apodera de su enemigo con los tentáculos y lo\ndeja inmovilizado antes de propinarle el golpe final. Si el\nenemigo resulta ser demasiado fuerte, Octillery expulsará tinta\npara escapar.",
+        "La tinta que expulsa al huir inhibe la capacidad\nolfativa del rival y afecta incluso a los Pokémon\ncon el olfato más aguzado.",
+        "Duerme principalmente en cavidades rocosas.\nLa tinta negra que escupe se utiliza como\ningrediente en la alta cocina.",
+        "Tiene querencia por los agujeros, hasta el punto\nde ocupar los que han hecho otros para anidar y\ndormir en ellos.",
+        "Atrapa a sus enemigos con los tentáculos y\ndespués los golpea con su dura cabeza."
+    ],
+    "height": 0.9,
+    "id": 224,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "name": "Octillery",
+    "types": [
+        "Agua"
+    ],
+    "weight": 28.5
+}

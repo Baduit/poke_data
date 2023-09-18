@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Famoso per la sua intelligenza, questo Pokémon\ntende a guardare dall’alto in basso gli Allenatori\npoco esperti e a prediligere i più competenti.",
+        "Vive sugli alberi nel profondo della giungla.\nRaramente viene avvistato sul litorale, dove\nsi cimenta in gare d’intelligenza con Slowking.",
+        "Solitamente passa il tempo meditando in cima\nagli alberi. A volte si diverte a lanciare Poké Ball\ne dare ordini agli altri Pokémon.",
+        "Gli Oranguru non vanno d’accordo tra di loro\ne si sfidano sempre in prove d’intelligenza\nper stabilire chi sia il più sagace.",
+        "Sventolando il ventaglio fatto di foglie e ciuffi\ndi pelliccia assume il controllo degli altri\nPokémon, facendogli fare tutto ciò che vuole.",
+        "Conosce alla perfezione ogni angolo della\nforesta e quando trova un Pokémon ferito cerca\nsubito una pianta medicinale per curarlo."
+    ],
+    "height": 1.5,
+    "id": 765,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "name": "Oranguru",
+    "types": [
+        "Normale",
+        "Psico"
+    ],
+    "weight": 76.0
+}

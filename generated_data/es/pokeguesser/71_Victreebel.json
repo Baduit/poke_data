@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Dicen que vive en grandes colonias en el interior de\nlas junglas, aunque nadie ha podido verificarlo.",
+        "Cuando este Pokémon ingiere algo, incluso el objeto\nmás duro se disolverá al instante.",
+        "Victreebel tiene una enredadera que le sale de la cabeza y\nque agita a modo de señuelo para atraer a sus presas y así\nengullirlas por sorpresa cuando estas se aproximan incautas.",
+        "Victreebel tiene una enredadera que le sale de la cabeza y\nque agita a modo de señuelo para atraer a sus presas y así\nengullirlas por sorpresa cuando estas se aproximan incautas.",
+        "Atrae a su presa con un dulce aroma a miel.\nUna vez atrapada en la boca, la disuelve en tan\nsolo un día, huesos incluidos.",
+        "Atrae a su presa con un dulce aroma a miel.\nUna vez atrapada en la boca, la disuelve en tan\nsolo un día, huesos incluidos."
+    ],
+    "height": 1.7,
+    "id": 71,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "name": "Victreebel",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 15.5
+}

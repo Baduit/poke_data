@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ils se regroupent pour rosser ceux\nqui pénètrent sur leur territoire.\nIls crachent un venin corrosif.",
+        "La plus grande crête détermine le\nmeneur du groupe. Il détruit des\nblocs de béton à coups de pied.",
+        "Son baggy de peau le protège quand il donne\ndes coups de pied. Les meneurs sont ceux qui ont\nla plus grande crête.",
+        "La plus grande crête détermine le meneur du groupe.\nIl détruit des blocs de béton à coups de pied.",
+        "Son baggy de peau le protège quand il donne des coups\nde pied. Les meneurs sont ceux qui ont la plus grande crête.",
+        "La plus grande crête détermine le meneur du groupe.\nIl détruit des blocs de béton à coups de pied.",
+        "Ses airs de gros dur cachent en fait un grand\ncœur dévoué à sa famille, sa bande et\nson territoire.",
+        "Il provoque ses ennemis en crachant.\nIl passe toute sa vie sans s’aventurer hors\ndes frontières bien définies de son territoire.",
+        "Son coup de pied nonchalant possède une force\nde destruction si grande qu’il peut briser\nles piliers en béton de Bétochef.",
+        "Il est de nature violente, mais au fond de lui,\nil tient à sa famille, à ses amis et à son territoire."
+    ],
+    "height": 1.1,
+    "id": 560,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "name": "Baggaïd",
+    "types": [
+        "Ténèbres",
+        "Combat"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "La velocidad de sus ataques es su gran orgullo. Lo\nque le falta de fuerza bruta lo compensa en cantidad\nde golpes.",
+        "Abruma a su rival con oleadas de ataques veloces.\nCorta al enemigo con sus afiladas garras.",
+        "La velocidad de sus ataques es su gran orgullo. Lo que le\nfalta de fuerza bruta lo compensa en cantidad de golpes.",
+        "Abruma a su rival con oleadas de ataques veloces. Corta al\nenemigo con sus afiladas garras.",
+        "A primera hora de la mañana pueden verse\ngrupos de Mienfoo realizando movimientos\nlentos y adoptando distintas poses.",
+        "Suele recluirse con otros congéneres en las\nmontañas para entrenar. Según el grupo, la\ntécnica de sus patadas o puñetazos varía.",
+        "Un Mienfoo bien entrenado es capaz de\npropinar más de cien golpes por minuto.",
+        "Su apariencia menuda contrasta con su carácter\npoco afable. Abruma a los rivales que se acercan\na él con gráciles oleadas de ataques sucesivos."
+    ],
+    "height": 0.9,
+    "id": 619,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+    "name": "Mienfoo",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 20.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "據說無論是多麼強大的劈斬司令，\n一旦頭上的刀刃出現了缺損，\n就會從首領的位子上退下來。",
+        "率領著成群的駒刀小兵。\n即使在給對手致命一擊的時候，\n也完全面不改色。",
+        "率領著一大群駒刀小兵。\n為了防止手下們背叛自己，\n總是睜大著眼睛監視牠們。",
+        "為了搶佔能找到磨刀石\n的地方，和斧牙龍展開了\n激烈的鬥爭。"
+    ],
+    "height": 1.6,
+    "id": 625,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "name": "劈斬司令",
+    "types": [
+        "惡",
+        "鋼"
+    ],
+    "weight": 70.0
+}

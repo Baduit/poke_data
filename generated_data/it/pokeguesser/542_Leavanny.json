@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Quando incontra un giovane Pokémon gli fa un\nvestito di foglie che cuce con il filo appiccicoso\nprodotto dalla bocca.",
+        "Sfrutta il calore dell’humus per covare le sue uova\ne fabbrica coperte di foglie per avvolgere Sewaddle.",
+        "Quando incontra un giovane Pokémon gli fa un vestito di foglie\nche cuce con il filo appiccicoso prodotto dalla bocca.",
+        "Sfrutta il calore dell’humus per covare le sue uova e fabbrica\ncoperte di foglie per avvolgere Sewaddle."
+    ],
+    "height": 1.2,
+    "id": 542,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+    "name": "Leavanny",
+    "types": [
+        "Coleottero",
+        "Erba"
+    ],
+    "weight": 20.5
+}

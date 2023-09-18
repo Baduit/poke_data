@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "栖息在阿罗拉的热带龙\n脖子里结的那串水果比其他地区的\n甜得多，是最最棒的。",
+        "脖子上的那串水果很美味，\n很受欢迎。在温暖的地方，\n有许多培育热带龙的牧场。"
+    ],
+    "height": 2.0,
+    "id": 357,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "name": "热带龙",
+    "types": [
+        "草",
+        "飞行"
+    ],
+    "weight": 100.0
+}

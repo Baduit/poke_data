@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "잔 채 태어나고 잔 채 죽는다.\n모든 행동은 꾸고 있는\n꿈에 의한 잠버릇인 것 같다.",
+        "안고 있는 나무는 태어났을 때 부모로부터\n받은 것이다. 잘 길들이면\n트레이너의 팔에도 달라붙는다.",
+        "태어날 때부터 계속 자고 있다.\n깊은 수면에 빠져 있을 때는\n일체 움직이지 않는다.",
+        "죽을 때까지 계속 잠들어 있는 이유는\n먹이인 잎사귀에 마취 성분이\n포함되어 있기 때문이다."
+    ],
+    "height": 0.4,
+    "id": 775,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "name": "자말라",
+    "types": [
+        "노말"
+    ],
+    "weight": 19.9
+}

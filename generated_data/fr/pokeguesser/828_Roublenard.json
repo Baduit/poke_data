@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Il marque sa victime pour la suivre à l’odeur.\nSitôt qu’elle est distraite, il s’empresse de lui\nvoler ses biens.",
+        "Grâce à son corps leste et ses griffes acérées,\nil va et vient en dérobant Œufs et nourriture.\nSon ennemi juré est Fulgudog."
+    ],
+    "height": 1.2,
+    "id": 828,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "name": "Roublenard",
+    "types": [
+        "Ténèbres"
+    ],
+    "weight": 19.9
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "È un perfetto nuotatore. Taglia la preda\ncon le sue falci e ne succhia il sangue.",
+        "In acqua raccoglie gli arti per diventare più compatto,\nagitando il guscio per nuotare veloce.",
+        "È un perfetto nuotatore che taglia la preda con le\nsue falci e ne succhia il sangue.",
+        "Nell’antichità Kabutops cacciava le prede nuotando\nsott’acqua. Pare che il Pokémon si stesse adattando alla vita\nsulla terraferma, come confermano le mutazioni su branchie\ne zampe.",
+        "Nell’antichità Kabutops cacciava le prede nuotando\nsott’acqua. Pare che il Pokémon si stesse adattando alla vita\nsulla terraferma, come confermano le mutazioni su branchie\ne zampe.",
+        "Questo Pokémon stava cominciando ad adattarsi\nalla vita sulla terraferma, ma si è estinto prima\ndella conclusione del processo.",
+        "Nuota a una velocità di circa 29 nodi. Si avvicina\nrapidamente alla preda e le dà il colpo di grazia\ntagliandola con le falci.",
+        "È un perfetto nuotatore. Taglia la preda\ncon le sue falci e ne succhia il sangue.",
+        "Lacera le prede e ne succhia i fluidi corporei.\nI resti diventano poi cibo per altri Pokémon.",
+        "Questo feroce Pokémon dell’antichità viveva\nnei mari caldi. Le cause della sua estinzione\nsono ignote."
+    ],
+    "height": 1.3,
+    "id": 141,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "name": "Kabutops",
+    "types": [
+        "Roccia",
+        "Acqua"
+    ],
+    "weight": 40.5
+}

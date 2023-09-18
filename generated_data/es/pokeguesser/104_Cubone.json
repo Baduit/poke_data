@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Lleva puesto el cráneo de su madre. Cuando se siente\nsolo se pone a gritar muy fuerte.",
+        "Siempre lleva la calavera de su difunta madre, así que\nnadie sabe cómo es su cara oculta.",
+        "A Cubone le ahoga la pena porque no volverá a ver jamás a\nsu madre. La luna le recuerda a veces a ella, y se pone a\nllorar. Los churretes que tiene en el cráneo que lleva puesto\nson debidos a las lágrimas que derrama.",
+        "A Cubone le ahoga la pena porque no volverá a ver jamás a\nsu madre. La luna le recuerda a veces a ella, y se pone a\nllorar. Los churretes que tiene en el cráneo que lleva puesto\nson debidos a las lágrimas que derrama.",
+        "Llora desconsoladamente por la pérdida de su\nmadre. Los Mandibuzz que escuchan su llanto\nse lanzan en picado al ataque.",
+        "El cráneo que lleva en la cabeza pertenece a su\nmadre. Se dice que evoluciona una vez que ha\nconseguido superar su pérdida.",
+        "Al caer la noche, rompe a llorar pensando en su\ndifunta madre, lo que delata su presencia ante\nlos Mandibuzz, sus enemigos naturales.",
+        "Al cubrir su rostro con el cráneo de su madre,\nsu expresión queda velada. La única emoción\nque lo delata es su llanto constante.",
+        "Siempre lleva puesto el cráneo de su difunta\nmadre. Su llanto resuena dentro como una\ntriste melodía.",
+        "Siempre lleva puesto el cráneo de su difunta\nmadre. Su llanto resuena dentro como una\ntriste melodía.",
+        "Cuando llora al acordarse de su madre fallecida,\nsu llanto resuena en el cráneo que lleva en la\ncabeza.",
+        "Lleva puesto el cráneo de su difunta madre.\nA veces llora en sueños, pero cada lágrima\nvertida le hace más fuerte."
+    ],
+    "height": 0.4,
+    "id": 104,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "name": "Cubone",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 6.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "非常喜愛奔跑，只要看見\n跑得比自己快的東西，\n就會立刻全速追上去。",
+        "非常喜愛奔跑，只要看見\n跑得比自己快的東西，\n就會立刻全速追上去。",
+        "任由燃燒的鬃毛隨風飄揚，\n以每小時２４０公里的速度\n在大草原上自在奔馳。",
+        "奔跑速度最快的烈焰馬\n會成為首領，決定族群\n前往的地點和奔跑速度。"
+    ],
+    "height": 1.7,
+    "id": 78,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "name": "烈焰馬",
+    "types": [
+        "火"
+    ],
+    "weight": 95.0
+}

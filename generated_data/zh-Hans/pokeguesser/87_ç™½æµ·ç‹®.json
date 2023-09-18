@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "能以８节的速度在海里游动，\n并搜寻能当做猎物的宝可梦。\n特别喜欢吃弱丁鱼。",
+        "进食后会在沙滩上晒日光浴。\n会通过提高体温来帮助消化。",
+        "全身像雪一样白。十分耐寒，\n即使是在有浮冰的大海里\n也能很精神地游来游去。",
+        "全身像雪一样白。十分耐寒，\n即使是在有浮冰的大海里\n也能很精神地游来游去。"
+    ],
+    "height": 1.7,
+    "id": 87,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "白海狮",
+    "types": [
+        "水",
+        "冰"
+    ],
+    "weight": 120.0
+}

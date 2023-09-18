@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si mimetizza assumendo l’aspetto della vegetazione\nmarina in decomposizione. Spruzza sulle prede ignare\nun liquido velenoso per poi finirle.",
+        "Il suo aspetto ricorda la vegetazione marina in\ndecomposizione. Sfugge ai nemici mimetizzandosi e\nresta nascosto accumulando energie per l’evoluzione.",
+        "Si mimetizza assumendo l’aspetto della vegetazione marina\nin decomposizione. Spruzza sulle prede ignare un liquido\nvelenoso per poi finirle.",
+        "Il suo aspetto ricorda la vegetazione marina in\ndecomposizione. Sfugge ai nemici mimetizzandosi e resta\nnascosto accumulando energie per l’evoluzione.",
+        "Si nasconde immobile tra la vegetazione marina\nper sfuggire ai Pokémon più grandi. Si nutre\nprevalentemente di alghe in decomposizione.",
+        "È un pessimo nuotatore e preferisce restare\navvinghiato alle alghe. Nella regione di Alola\nlo si trova spesso al fianco di Dhelmise.",
+        "Galleggia nel mare mimetizzandosi fra le alghe\nfluttuanti e agguanta i Pokémon che si avvicinano\nper nutrirsi.",
+        "Il suo aspetto simile a quello di alghe fluttuanti\nin decomposizione gli permette di mimetizzarsi\nper sfuggire allo sguardo del nemico."
+    ],
+    "height": 0.5,
+    "id": 690,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "name": "Skrelp",
+    "types": [
+        "Veleno",
+        "Acqua"
+    ],
+    "weight": 7.3
+}

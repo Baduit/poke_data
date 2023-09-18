@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Les poils qu’il avale pendant sa toilette brûlent\net forment une flamme dans son ventre. Celle-ci\nchange selon la façon dont il la recrache.",
+        "Ce Pokémon n’exprime jamais ses émotions.\nIl aime la vie en solitaire, et n’accorde pas\nsa confiance au premier venu.",
+        "Laissez ce Pokémon respirer ou il se renfermera\nsur lui-même. Même s’il devient affectueux,\nallez-y doucement avec les caresses.",
+        "Il renouvelle son pelage deux fois par an.\nQuand arrive la période de sa mue, il met\nle feu à son ancienne fourrure.",
+        "Dès qu’il a un instant, il fait sa toilette.\nIl déclenche ses attaques Feu en enflammant\nles poils qu’il a avalés en se léchant.",
+        "Quiconque essaie de le caresser avant d’avoir\ngagné sa confiance s’expose à de sérieuses\ngriffures."
+    ],
+    "height": 0.4,
+    "id": 725,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+    "name": "Flamiaou",
+    "types": [
+        "Feu"
+    ],
+    "weight": 4.3
+}

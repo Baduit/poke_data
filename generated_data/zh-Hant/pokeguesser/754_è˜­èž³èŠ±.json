@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "要維持這鮮豔的體色，\n可是要花很多功夫的。\n但也有特殊嗜好的人把這當興趣。",
+        "從鐮刀狀的花瓣中放射光束。\n具有連厚厚的鐵板也能一切兩半的威力。",
+        "之所以偽裝成蟲寶可夢\n是為了要保護自己。\n雙手的花瓣非常鋒利。",
+        "斬斷敵人的動作就像是跳舞一般。\n優雅的姿態使得牠被稱為\n最豔麗的草屬性寶可夢。",
+        "美麗的花之寶可夢。\n長得很好的蘭螳花\n會鮮豔得令人瞠目。",
+        "雙臂上的花瓣既輕薄\n又鋒利。而且還能夠\n收集光線來射出光束。"
+    ],
+    "height": 0.9,
+    "id": 754,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
+    "name": "蘭螳花",
+    "types": [
+        "草"
+    ],
+    "weight": 18.5
+}

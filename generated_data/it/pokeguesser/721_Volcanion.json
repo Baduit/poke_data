@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Si nasconde emettendo spesse nubi di vapore attorno\na sé. Si dice che viva su montagne non frequentate\ndall’uomo.",
+        "Emette il vapore generato nel suo corpo dalle braccia\ncongiunte ad anello sul dorso. La potenza del getto\npotrebbe spazzare via una montagna.",
+        "Si nasconde emettendo spesse nubi di vapore attorno a sé.\nSi dice che viva su montagne non frequentate dall’uomo.",
+        "Emette il vapore generato nel suo corpo dalle braccia\ncongiunte ad anello sul dorso. La potenza del getto\npotrebbe spazzare via una montagna."
+    ],
+    "height": 1.7,
+    "id": 721,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "name": "Volcanion",
+    "types": [
+        "Fuoco",
+        "Acqua"
+    ],
+    "weight": 195.0
+}

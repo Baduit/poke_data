@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "They crawl out of the ocean using their\narms. They will attack prey on shore and\nimmediately drag it into the ocean.",
+        "With their sucker mouths, they\nsuck in prey. Then they use their fangs\nto shock the prey with electricity.",
+        "It latches on to prey with its sucker\nmouth, sinking in its fangs and shocking\nthe prey with powerful electricity.",
+        "It latches on to prey with its sucker\nmouth, sinking in its fangs and shocking\nthe prey with powerful electricity.",
+        "With their sucker mouths, they suck in prey.\nThen they use their fangs to shock the prey\nwith electricity.",
+        "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately drag\nit into the ocean.",
+        "With their sucker mouths, they suck in prey.\nThen they use their fangs to shock the prey\nwith electricity.",
+        "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately drag\nit into the ocean."
+    ],
+    "height": 2.1,
+    "id": 604,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "name": "Eelektross",
+    "types": [
+        "Electric"
+    ],
+    "weight": 80.5
+}

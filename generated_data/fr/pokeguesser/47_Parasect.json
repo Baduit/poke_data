@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Un champignon parasite plus gros\nque Parasect contrôle son corps.\nIl répand des spores empoisonnées.",
+        "Un champignon parasite plus gros\nque Parasect contrôle son corps.\nIl répand des spores empoisonnées.",
+        "Un champignon parasite plus gros que Parasect\ncontrôle son corps. Il répand des spores\nempoisonnées.",
+        "Plus le champignon sur son dos grandit, plus celui-ci\német des spores puissantes dans l’air.",
+        "On sait que les Parasect vivent en groupe dans les grands\narbres et se nourrissent des nutriments contenus dans le tronc\net les racines. Lorsqu’un arbre infesté meurt, ils se précipitent\nvers le prochain.",
+        "On sait que les Parasect vivent en groupe dans les grands\narbres et se nourrissent des nutriments contenus dans le tronc\net les racines. Lorsqu’un arbre infesté meurt, ils se précipitent\nvers le prochain.",
+        "Le gros champignon sur son dos contrôle\nle Pokémon. Lampignon et Parasect\nse disputent souvent un même territoire.",
+        "Il répand des spores empoisonnées depuis son\nchapeau. On peut les récolter et les faire sécher\npour préparer des remèdes traditionnels.",
+        "L’insecte est quasiment mort, à ce stade, et le\nchampignon est devenu le véritable cerveau.\nSi on l’ôte de son dos, il ne peut plus bouger.",
+        "Des remèdes traditionnels sont préparés avec\nses spores empoisonnées, mais ceux produits\nà Alola seraient de moindre qualité.",
+        "À force de voir son énergie aspirée, il semblerait\nque ce ne soit plus l’insecte qui réfléchisse,\nmais le champignon sur son dos.",
+        "À force de voir son énergie aspirée, il semblerait\nque ce ne soit plus l’insecte qui réfléchisse,\nmais le champignon sur son dos."
+    ],
+    "height": 1.0,
+    "id": 47,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "name": "Parasect",
+    "types": [
+        "Insecte",
+        "Plante"
+    ],
+    "weight": 29.5
+}

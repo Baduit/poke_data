@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "会发射尖刺来保护自己。\n需要反复训练才能将\n尖刺准确地射中目标。",
+        "偏爱长着青苔的洞窟。\n青苔中所含的酶能使它的\n尖刺成长得又大又结实。"
+    ],
+    "height": 0.6,
+    "id": 597,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "name": "种子铁球",
+    "types": [
+        "草",
+        "钢"
+    ],
+    "weight": 18.8
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dieses Pokémon ist für seine heftigen Tritte\nbekannt. Oft tritt es auch noch nach und lacht,\num seinen Sieg an die große Glocke zu hängen.",
+        "Dieses Pokémon ist für seine schönen Beine\nbekannt. Da verwundert es nicht, dass es für\nAnzeigen von Schönheitssalons gebucht wird.",
+        "Seine Kicktechniken sind äußerst grazil. Selbst\nKickbox-Champions kann es mit einem einzigen\nTritt auf die Bretter befördern.",
+        "Dieses angriffslustige Pokémon ist für seine\nvirtuosen Tritte berühmt. Mit jedem Kick müssen\nseine Gegner zudem lautes Gelächter ertragen.",
+        "Seine langen Beine und sein grausames Herz\nwerden gefürchtet. Es tritt ohne Gnade auf seine\nGegner ein.",
+        "Es tritt mit seinen harten Fußspitzen auf seine\nGegner ein und hinterlässt dabei sowohl\nkörperliche als auch seelische Narben."
+    ],
+    "height": 1.2,
+    "id": 763,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "name": "Fruyal",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 21.4
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Quando si piega e distende le ali, sembra un jet.\nVola a una velocità supersonica.",
+        "Vola alla velocità di un aereo da combattimento a\nreazione. Non lascia mai fuggire la preda.",
+        "Quando si piega e distende le ali, sembra un jet. Vola a una\nvelocità supersonica.",
+        "Vola alla velocità di un aereo da combattimento a reazione.\nNon lascia mai fuggire la preda.",
+        "Vola alla velocità di un jet. Caccia attaccando\ni Pokémon alati, di cui può divorare interi stormi.",
+        "Le protuberanze che ha ai lati della testa hanno\nfunzione di sensori e percepiscono le prede\nanche a grande distanza.",
+        "Caccia le prede volando a velocità supersonica.\nLe lotte aeree con Salamence per contendersi\nil cibo sono all’ordine del giorno.",
+        "Le sue scaglie finissime e aguzze riducono\nl’attrito con l’aria e gli permettono allo stesso\ntempo di danneggiare i nemici che lo attaccano.",
+        "Vive in montagne di origine vulcanica. Caccia\nle prede solcando i cieli alla velocità di un jet.",
+        "È veloce anche a terra. È in grado di abbattere\nle prede tra le montagne innevate e tornare\nnella sua tana prima di congelarsi."
+    ],
+    "height": 1.9,
+    "id": 445,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "name": "Garchomp",
+    "types": [
+        "Drago",
+        "Terra"
+    ],
+    "weight": 95.0
+}

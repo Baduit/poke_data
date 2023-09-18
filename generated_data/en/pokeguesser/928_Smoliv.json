@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+        "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+    ],
+    "height": 0.3,
+    "id": 928,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    "name": "Smoliv",
+    "types": [
+        "Grass",
+        "Normal"
+    ],
+    "weight": 6.5
+}

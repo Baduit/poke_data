@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Se desconoce el porqué, pero le encanta posarse\nsobre la cabeza de los humanos y fingir que es un\ngorro.",
+        "Está continuamente acicalándose las alas de algodón\nque tiene. Si se ensucia, se da una ducha para\nlimpiarse enseguida.",
+        "Swablu tiene unas alas ligeras y esponjosas que parecen\nnubes de algodón. A este Pokémon no le asusta la gente.\nDe hecho, puede llegar a posarse en la cabeza de alguien y\nservirle de gorro sedoso.",
+        "A Swablu le encanta limpiarlo todo. Si ve algo sucio, lo dejará\ncomo nuevo y reluciente con las alas de algodón que tiene.\nCuando se le ensucian, busca un manantial y las limpia.",
+        "Sus alas algodonadas contienen aire, lo que les\naporta un tacto suave y esponjoso. Se las acicala\ncontinuamente.",
+        "Sus alas parecen nubes algodonadas y lo ocultan\nde sus rivales. Se cree que se volvieron blancas\ncon el paso de las generaciones."
+    ],
+    "height": 0.4,
+    "id": 333,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "name": "Swablu",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 1.2
+}

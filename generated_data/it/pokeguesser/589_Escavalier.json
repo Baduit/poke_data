@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Protegge il corpo con la conchiglia che ha rubato a\nShelmet mentre spunzona il nemico con due lance.",
+        "Pokémon che si è evoluto appropriandosi della\nconchiglia di Shelmet. Un’armatura d’acciaio\nprotegge tutto il suo corpo.",
+        "Protegge il corpo con la conchiglia che ha rubato a Shelmet\nmentre spunzona il nemico con due lance.",
+        "Pokémon che si è evoluto appropriandosi della conchiglia\ndi Shelmet. Un’armatura d’acciaio protegge tutto il suo corpo.",
+        "Si appropria della conchiglia di Shelmet e la usa\nper proteggere tutto il suo corpo. È amatissimo\ndagli abitanti di Galar.",
+        "Carica il nemico con le sue lance.\nUn famoso dipinto lo ritrae durante\nun duello con Sirfetch’d."
+    ],
+    "height": 1.0,
+    "id": 589,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+    "name": "Escavalier",
+    "types": [
+        "Coleottero",
+        "Acciaio"
+    ],
+    "weight": 33.0
+}

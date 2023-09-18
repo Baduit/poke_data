@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Genera electricidad girando los brazos. No obstante,\nes incapaz de almacenar la energía creada.",
+        "Al girar ambos brazos para generar electricidad, sus\ncuernos se iluminan con una luz blanquecina.",
+        "Elekid acumula electricidad. Si entra en contacto con algo de\nmetal y descarga accidentalmente toda la electricidad\nalmacenada, empieza a agitar los brazos en círculo para volver\na cargarse.",
+        "Elekid acumula electricidad. Si entra en contacto con algo de\nmetal y descarga accidentalmente toda la electricidad\nalmacenada, empieza a agitar los brazos en círculo para volver\na cargarse.",
+        "Cuando está en una casa, usa los enchufes de\nla pared a modo de biberones. Le encanta\nchupar electricidad.",
+        "Los Togedemaru siempre intentan robarles la\nelectricidad, lo que suele terminar en combates\nmuy reñidos.",
+        "El ruido de los truenos le mejora el ánimo.\nConviene tener a mano una grabación para\ncuando esté en horas bajas.",
+        "Cuando se carga de electricidad, sus cuernos\nemiten una luz blanquecina. Quien lo toque\nrecibirá un potente calambrazo.",
+        "Cuando se acerca una tormenta, pierde la\ncompostura. Si oye el sonido de un trueno,\nno se puede contener y monta un revuelo.",
+        "No se le da bien acumular electricidad, por lo\nque se cuela en las casas en busca de enchufes\npara alimentarse."
+    ],
+    "height": 0.6,
+    "id": 239,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "name": "Elekid",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 23.5
+}

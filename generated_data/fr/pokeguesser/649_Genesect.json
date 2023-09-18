@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il y a 300 millions d’années, il était\ncraint comme l’ultime prédateur. Il a\nété modifié par la Team Plasma.",
+        "Un Pokémon Insecte des temps anciens\nmodifié par la Team Plasma. Le canon\ndans son dos a été grandement amélioré.",
+        "Un Pokémon Insecte des temps anciens modifié par\nla Team Plasma. Le canon dans son dos a été\ngrandement amélioré.",
+        "Un Pokémon existant depuis 300 millions d’années,\net modifié par la Team Plasma. Il a maintenant\nun canon dans le dos.",
+        "Un Pokémon Insecte des temps anciens modifié par\nla Team Plasma. Le canon dans son dos a été grandement\namélioré.",
+        "Un Pokémon existant depuis 300 millions d’années, et modifié\npar la Team Plasma. Il a maintenant un canon dans le dos."
+    ],
+    "height": 1.5,
+    "id": 649,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "name": "Genesect",
+    "types": [
+        "Insecte",
+        "Acier"
+    ],
+    "weight": 82.5
+}

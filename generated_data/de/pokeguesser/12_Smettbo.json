@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Es liebt Blütenhonig. Es findet selbst Blumen,\ndie sehr wenig Pollen haben.",
+        "Seine Flügel sind mit Wasser abweisendem Staub\nüberzogen. Daher kann dieses Pokémon auch bei\nRegen fliegen.",
+        "Smettbos größte Fähigkeit ist das Aufspüren köstlichen\nBlütenhonigs. Es findet sogar Honig in Blumen, die fast\n10 km von seinem Nest entfernt blühen.",
+        "Smettbos größte Fähigkeit ist das Aufspüren köstlichen\nBlütenhonigs. Es findet sogar Honig in Blumen, die fast\n10 km von seinem Nest entfernt blühen.",
+        "Bei genauerer Betrachtung zeigt sich, dass\nseine zwei großen Augen jeweils aus einer\nVielzahl an kleineren Augen bestehen.",
+        "Wird es von einem anderen Pokémon angegriffen,\nwehrt es sich, indem es mit den Flügeln schlägt\nund giftigen Flügelstaub verstreut.",
+        "Sieht es ein Raupy, das von Vogel-Pokémon\nangegriffen wird, schlägt es diese mit seinem\nhochgiftigen Flügelstaub in die Flucht.",
+        "Es liebt den Blütenhonig schöner Blumen.\nAuf Blumenfeldern liefert es sich erbitterte\nRevierkämpfe mit Wommel.",
+        "Da die hochgiftige Staubschicht auf seinen\nFlügeln wasserabweisend ist, kann es auch\nbei Regen umherfliegen.",
+        "Da die hochgiftige Staubschicht auf seinen\nFlügeln wasserabweisend ist, kann es auch\nbei Regen umherfliegen.",
+        "Wenn es sehr schnell mit den Flügeln schlägt,\nsetzt es hochgiftigen Flügelstaub frei.",
+        "Es sammelt täglich Honig. Es reibt ihn in seine\nBeinhaare, um ihn in sein Nest zu transportieren."
+    ],
+    "height": 1.1,
+    "id": 12,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "name": "Smettbo",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 32.0
+}

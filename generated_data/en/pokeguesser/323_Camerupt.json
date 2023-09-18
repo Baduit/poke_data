@@ -1,0 +1,31 @@
+{
+    "descriptions": [
+        "CAMERUPT has a volcano inside its body.\nMagma of 18,000 degrees F courses\nthrough its body.\fOccasionally, the humps on this\nPOKéMON’s back erupt, spewing the\nsuperheated magma.",
+        "The humps on CAMERUPT’s back are\nformed by a transformation of its\nbones. They sometimes blast out molten\fmagma. This POKéMON apparently erupts\noften when it is enraged.",
+        "A POKéMON that lives in the crater of\na volcano. Every 10 years, the volcanoes\non its back erupt violently. Research is\nunder way on the cause of eruption.",
+        "If angered, the humps on its back erupt\nin a shower of molten lava. It lives in\nthe craters of volcanoes.",
+        "If angered, the humps on its back erupt\nin a shower of molten lava. It lives in\nthe craters of volcanoes.",
+        "It has volcanoes on its back. If\nmagma builds up in its body, it\nshudders, then erupts violently.",
+        "It has volcanoes on its back. If\nmagma builds up in its body, it\nshudders, then erupts violently.",
+        "It has volcanoes on its back. If\nmagma builds up in its body, it\nshudders, then erupts violently.",
+        "It lives in the crater of a volcano.\nIt is well known that the humps on\nits back erupt every 10 years.",
+        "It lives in the crater of a volcano.\nIt is well known that the humps on\nits back erupt every 10 years.",
+        "It has volcanoes on its back. If\nmagma builds up in its body, it\nshudders, then erupts violently.",
+        "It has volcanoes on its back. If\nmagma builds up in its body, it\nshudders, then erupts violently.",
+        "The volcanoes on its back have a\nmajor eruption every 10 years--or\nwhenever it becomes really angry.",
+        "The volcanoes on its back have a\nmajor eruption every 10 years--or\nwhenever it becomes really angry.",
+        "The volcanoes on its back have a major eruption\nevery 10 years--or whenever it becomes\nreally angry.",
+        "If angered, the humps on its back erupt in a shower\nof molten lava. It lives in the craters of volcanoes.",
+        "Camerupt has a volcano inside its body. Magma of\n18,000 degrees Fahrenheit courses through its body.\nOccasionally, the humps on this Pokémon’s back erupt,\nspewing the superheated magma.",
+        "The humps on Camerupt’s back are formed by a transformation\nof its bones. They sometimes blast out molten magma.\nThis Pokémon apparently erupts often when it is enraged."
+    ],
+    "height": 1.9,
+    "id": 323,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "name": "Camerupt",
+    "types": [
+        "Fire",
+        "Ground"
+    ],
+    "weight": 220.0
+}

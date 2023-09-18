@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Dieses Pokémon wurde aus einem Fossil neu belebt.\nMissfällt ihm etwas, rastet es vollkommen aus.",
+        "Mit seinem gewaltigen Kiefer kann dieses Pokémon,\ndas vor 100 Millionen Jahren lebte, ein Auto so leicht\nzermalmen, als wäre es ein reifer Apfel.",
+        "Dieses Pokémon wurde aus einem Fossil neu belebt.\nMissfällt ihm etwas, rastet es vollkommen aus.",
+        "Mit seinem gewaltigen Kiefer kann dieses Pokémon, das vor\n100 Millionen Jahren lebte, ein Auto so leicht zermalmen,\nals wäre es ein reifer Apfel.",
+        "Sein riesiger Kiefer birgt zerstörerische Kräfte.\nEs heißt, zurückverwandelte Balgoras seien\nnicht identisch mit den ursprünglichen Pokémon.",
+        "Es ist verwöhnt und trotzig. Wer es mit ihm zu\ntun hat, muss eventuell mit mehr als schweren\nWunden rechnen, selbst wenn es nur spielen will.",
+        "Ein wiederbelebtes Pokémon aus der Urzeit.\nEs ist gewalttätig sowie egoistisch und zerbeißt\nalles mit seinem riesigen Kiefer.",
+        "Es ist eigennützig und verzogen. Selbst wenn\nBalgoras nur spielen will, verletzt es dabei seinen\nTrainer manchmal schwer."
+    ],
+    "height": 0.8,
+    "id": 696,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "name": "Balgoras",
+    "types": [
+        "Gestein",
+        "Drache"
+    ],
+    "weight": 26.0
+}

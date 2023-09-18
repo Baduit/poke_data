@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Fällt ein Trainer auf sein Äußeres herein,\ndas komischerweise einem Pokéball ähnelt,\nbesprüht es ihn mit Giftsporen.",
+        "Es ist gemustert wie ein Pokéball. Es lockt damit\nandere Pokémon an, um sie dann mit Giftsporen\nzu besprühen.",
+        "Fällt ein Trainer auf sein Äußeres herein, das komischerweise\neinem Pokéball ähnelt, besprüht es ihn mit Giftsporen.",
+        "Es ist gemustert wie ein Pokéball. Es lockt damit andere\nPokémon an, um sie dann mit Giftsporen zu besprühen.",
+        "Bis heute kann niemand genau sagen, wieso\nTarnpignon ein Pokéball-Muster aufweisen und\nwelchen Zweck dies erfüllt.",
+        "Die Sporen, die es aus seinen zwei Gliedmaßen\nversprüht, sind sehr giftig. In getrockneter Form\neignen sie sich jedoch als Magenmedizin."
+    ],
+    "height": 0.2,
+    "id": 590,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
+    "name": "Tarnpignon",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 1.0
+}

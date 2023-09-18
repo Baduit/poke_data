@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "以擁有粗壯的角為傲。在阿羅拉，\n鍬農炮蟲是牠最大的競爭者，\n雙方經常大打出手。",
+        "會在森林中四處尋找甜甜蜜。\n雖然以擁有一身怪力為傲，\n但卻不是很擅長飛行。",
+        "非常喜歡甘甜的樹液。\n會用２隻觸角偵測氣味，\n在森林中四處覓食。",
+        "能夠輕輕鬆鬆舉起比自己\n體重還要重１００倍的物體，\n是以一身怪力為傲的寶可夢。"
+    ],
+    "height": 1.5,
+    "id": 214,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "name": "赫拉克羅斯",
+    "types": [
+        "蟲",
+        "格鬥"
+    ],
+    "weight": 54.0
+}

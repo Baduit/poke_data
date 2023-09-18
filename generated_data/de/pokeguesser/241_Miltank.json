@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Wenn es gerade ein Junges hat, dann enthält\nseine Milch mehr Nährstoffe als gewöhnlich.",
+        "Aufgrund der vielen Nährstoffe stellt seine Milch\ndas ideale Getränk für Kranke und Schwache dar.",
+        "Miltank gibt täglich 20 l Milch. Sie ist süßlich und wird\nvon Kindern und Erwachsenen gleichermaßen genossen.\nMenschen, die keine Milch trinken, essen sie stattdessen\nals Joghurt.",
+        "Miltank gibt täglich 20 l Milch. Sie ist süßlich und wird\nvon Kindern und Erwachsenen gleichermaßen genossen.\nMenschen, die keine Milch trinken, essen sie stattdessen\nals Joghurt.",
+        "Seine Milch ist kalorienreich und enthält viele\nNährstoffe. Trinkt man zu viel davon, hat man\nallerdings selbst bald eine Figur wie Miltank.",
+        "Den meisten Menschen dient Miltank in erster\nLinie als Milchlieferant, doch es ist stark genug,\num auch im Kampf eine gute Figur abzugeben.",
+        "Es gibt täglich 20 l Milch. Je besser die Qualität\ndes Grases ist, desto schmackhafter ist sie.",
+        "Seine Milch ist lecker und nahrhaft. Doch wenn\nman zu viel davon trinkt, kann man Durchfall\nbekommen.",
+        "Dank seiner äußerst nährstoffreichen Milch trägt\nMiltank seit langer Zeit zum Wohl von Menschen\nund Pokémon bei.",
+        "Miltanks Gesundheit leidet darunter, wenn es\nnicht jeden Tag gemolken wird. Der Geschmack\nseiner Milch ändert sich je nach Jahreszeit."
+    ],
+    "height": 1.2,
+    "id": 241,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+    "name": "Miltank",
+    "types": [
+        "Normal"
+    ],
+    "weight": 75.5
+}

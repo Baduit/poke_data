@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "對手的體型越是巨大，牠就會\n喝下越多的水使身體膨脹，\n彷彿馬上就要破裂一般。",
+        "全身上下的小針是由鱗片\n變化而來的。如果被刺中的話，\n就會中毒並陷入昏迷。"
+    ],
+    "height": 0.5,
+    "id": 211,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "name": "千針魚",
+    "types": [
+        "水",
+        "毒"
+    ],
+    "weight": 3.9
+}

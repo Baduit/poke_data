@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Une Ultra-Chimère qui a traversé l’Ultra-Brèche.\nOn l’aurait aperçue parcourir le ciel à grande\nvitesse.",
+        "Une espèce d’Ultra-Chimère. On l’aurait\naperçue expulsant du gaz par ses deux bras\net réduisant une forêt tout entière en cendres.",
+        "Cette dangereuse créature fait partie des\nUltra-Chimères. On peut détecter des pics\nd’énergie émis par ses bras gigantesques.",
+        "Cette créature venue d’ailleurs est dangereuse\ndans notre monde, mais il semblerait qu’elle soit\ntrès commune dans le sien."
+    ],
+    "height": 9.2,
+    "id": 797,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+    "name": "Bamboiselle",
+    "types": [
+        "Acier",
+        "Vol"
+    ],
+    "weight": 999.9
+}

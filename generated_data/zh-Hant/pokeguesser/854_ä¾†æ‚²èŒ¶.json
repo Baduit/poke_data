@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "據說這隻寶可夢是因為\n害怕寂寞的靈魂住進了\n涼透的喝剩紅茶而誕生的。",
+        "被牠當成住處的茶杯\n是有名的古董餐具。\n市面上有很多贗品。"
+    ],
+    "height": 0.1,
+    "id": 854,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "name": "來悲茶",
+    "types": [
+        "幽靈"
+    ],
+    "weight": 0.2
+}

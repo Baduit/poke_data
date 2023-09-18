@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il encourage ses amis. Son corps\nproduit plus d’étincelles quand il\nest en mauvaise posture.",
+        "Il encourage ses amis. Son corps\nproduit plus d’étincelles quand il\nest en mauvaise posture.",
+        "L’électricité de Posipi et Négapi favorise la circulation\nsanguine et guérit les courbatures.",
+        "Il encourage ses amis. Son corps produit plus\nd’étincelles quand il est en mauvaise posture.",
+        "Négapi n’hésite pas à se mettre en danger pour soutenir\nses partenaires. Il court-circuite son corps pour faire jaillir\ndes gerbes d’étincelles et donner du cœur à l’ouvrage\nà ses équipiers.",
+        "Négapi adore encourager son partenaire pendant les combats.\nDes étincelles jaillissent alors de son corps. Lorsque son\npartenaire est en difficulté, le corps de ce Pokémon libère\nencore plus d’étincelles."
+    ],
+    "height": 0.4,
+    "id": 312,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "name": "Négapi",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 4.2
+}

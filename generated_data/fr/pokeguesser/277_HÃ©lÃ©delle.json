@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il vole en cercle en quête d’une\nproie. Dès qu’il l’a repérée, il fond\nsur elle en un éclair.",
+        "Il vole en cercle en quête d’une\nproie. Dès qu’il l’a repérée, il fond\nsur elle en un éclair.",
+        "Si les plumes de ses deux queues restent bien\ndroites, cela signifie qu’Hélédelle est en bonne santé.\nSon élégance est sans pareille.",
+        "Une fois sa proie repérée, il fond sur elle en un éclair\net la capture avec ses griffes acérées.",
+        "Hélédelle vole dans les cieux en dessinant de grands arcs.\nCe Pokémon plonge en piqué dès qu’il repère sa proie.\nIl attrape fermement la malheureuse cible dans ses serres,\nempêchant toute fuite.",
+        "Hélédelle fait attention à bien entretenir ses ailes brillantes.\nLorsque deux Hélédelle se rencontrent, ils se nettoient\nmutuellement les ailes avec attention."
+    ],
+    "height": 0.7,
+    "id": 277,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "name": "Hélédelle",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 19.8
+}

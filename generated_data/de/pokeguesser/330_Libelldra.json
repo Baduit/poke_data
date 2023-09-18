@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es versteckt sich, indem es mit seinen Flügeln\nWüstensand aufwirbelt. Rote Augenlider schützen\nes vor dem Sand.",
+        "Auch bekannt als „Geist der Wüste“. Es versteckt sich\nin Sandstürmen, die es durch seinen Flügelschlag\nerzeugt.",
+        "Libelldra wird auch „Geist der Wüste“ genannt. Da seine\nflatternden Flügel eine Sandwolke aufwirbeln, ist dieses\nPokémon beim Fliegen immer von einem Sandsturm umgeben.",
+        "Libelldra wirbelt einen Sandsturm auf, wenn es mit den\nFlügeln schlägt. Seine Flügel erzeugen dabei Töne, die wie\nGesang klingen. Da dieser „Gesang“ das Einzige ist, was man\nin einem Sandsturm hört, wird es auch Wüstengeist genannt.",
+        "Erzeugt mit seinem Flügelschlag Töne, die wie\nGesang klingen. Der so bezirzte Gegner wird von\neinem Sandsturm umgeben und zu seiner Beute.",
+        "Da es sich stets im Zentrum des von ihm\nentfachten Sandsturms aufhält, bekommen\nMenschen es so gut wie nie zu Gesicht.",
+        "Durch das Schlagen ihrer Flügel erzeugen sie\nSandstürme, von denen Rabigator erfasst\nwerden. Gefangene Beute teilen sie auf.",
+        "Sein wie wunderschöner Gesang klingender\nFlügelschlag verzaubert Menschen und sorgt\nständig dafür, dass diese in der Wüste stranden.",
+        "Da es sich stets im Zentrum des von ihm\nentfachten Sandsturms aufhält, bekommen\nMenschen es so gut wie nie zu Gesicht.",
+        "Sein Flügelschlag klingt wie wunderschöner\nFrauengesang. Daher nennt man es auch\n„Geist der Wüste“."
+    ],
+    "height": 2.0,
+    "id": 330,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "name": "Libelldra",
+    "types": [
+        "Boden",
+        "Drache"
+    ],
+    "weight": 82.0
+}

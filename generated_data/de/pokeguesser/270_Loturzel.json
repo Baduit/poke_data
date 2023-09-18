@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es sieht aus wie eine Wasserpflanze. Es dient den\nPokémon, die nicht schwimmen können, als Fähre.",
+        "Es sucht nach reinem Wasser. Wenn es für längere Zeit\nkein Wasser trinkt, verwelkt das Blatt auf seinem Kopf.",
+        "Loturzel lebt auf der Wasseroberfläche von Teichen oder Seen.\nEs wird schwächer, wenn sein breites Blatt abstirbt. Nur selten\ngeht dieses Pokémon an Land, um nach sauberem Wasser\nAusschau zu halten.",
+        "Loturzel soll einige Zeit an Land verbracht haben, aber ins\nWasser zurückgekehrt sein, weil das Blatt auf seinem Kopf\nzu groß und zu schwer geworden ist. Nun lässt es sich auf\ndem Wasser treiben.",
+        "Es sucht nach reinem Wasser. Wenn es für längere\nZeit kein Wasser trinkt, verwelkt das Blatt auf\nseinem Kopf.",
+        "Da sein Blatt zu groß und schwer für das Leben\nan Land geworden ist, lebt es nun im Wasser\nschwimmend."
+    ],
+    "height": 0.5,
+    "id": 270,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "name": "Loturzel",
+    "types": [
+        "Wasser",
+        "Pflanze"
+    ],
+    "weight": 2.6
+}

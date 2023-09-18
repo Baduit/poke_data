@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Dans les montagnes où il s’entraîne, on\npeut l’entendre donner des coups de\npoing aux rochers et aux grands arbres.",
+        "Quand il noue sa ceinture, il est plus\nconcentré et ses coups font plus mal.\nIl s’énerve si on gêne son entraînement.",
+        "Pour accéder à la maîtrise ultime du karaté, il se\nretire dans les montagnes et s’entraîne nuit et jour.",
+        "Quand il noue sa ceinture, il est plus concentré et\nses coups font plus mal. Il s’énerve si on gêne son\nentraînement.",
+        "Pour accéder à la maîtrise ultime du karaté, il se retire\ndans les montagnes et s’entraîne nuit et jour.",
+        "Quand il noue sa ceinture, il est plus concentré et ses coups\nfont plus mal. Il s’énerve si on gêne son entraînement.",
+        "Il cherche à tout prix à devenir plus fort.\nIl est conseillé de ne pas le déranger quand\nil s’entraîne en montagne.",
+        "Après avoir suivi un entraînement intensif,\nla puissance du tranchant de sa main est telle\nqu’il peut fendre la mer en deux."
+    ],
+    "height": 1.4,
+    "id": 539,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
+    "name": "Karaclée",
+    "types": [
+        "Combat"
+    ],
+    "weight": 51.0
+}

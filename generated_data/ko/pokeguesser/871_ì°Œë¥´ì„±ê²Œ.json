@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "가시 끝에서 전기를 발산한다.\n날카로운 이빨로 바위에 붙은\n해초를 갉아 먹는다.",
+        "가시 하나하나에 전기를\n비축하고 있다. 부러진 가시도\n3시간 동안 방전을 계속한다."
+    ],
+    "height": 0.3,
+    "id": 871,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "name": "찌르성게",
+    "types": [
+        "전기"
+    ],
+    "weight": 1.0
+}

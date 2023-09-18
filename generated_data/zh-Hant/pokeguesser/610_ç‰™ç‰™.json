@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在地面上築巢居住。\n用牙齒粉碎堅硬的樹果，\n和夥伴比拼力氣。",
+        "會和夥伴們一起互撞牙齒來玩。\n折斷的牙齒會馬上長出來，\n所以絲毫都不會在意。"
+    ],
+    "height": 0.6,
+    "id": 610,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "name": "牙牙",
+    "types": [
+        "龍"
+    ],
+    "weight": 18.0
+}

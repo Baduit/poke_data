@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cuando parpadean las estrellas en el cielo nocturno,\nse mece desprendiendo un polvo brillante.",
+        "Los puntos de su caparazón crecen y decrecen\ndependiendo de las estrellas del cielo nocturno.",
+        "Dicen que en zonas en las que el aire está limpio, en las que\nse ven las estrellas, hay enormes poblaciones de Ledian.\nLa razón es muy sencilla: este Pokémon usa la luz de las\nestrellas como fuente de energía.",
+        "Dicen que en zonas en las que el aire está limpio, en las que\nse ven las estrellas, hay enormes poblaciones de Ledian.\nLa razón es muy sencilla: este Pokémon usa la luz de las\nestrellas como fuente de energía.",
+        "Usa la luz de las estrellas como fuente de\nenergía, pero también adora las bayas. Durante\nel día, duerme envuelto en una manta de hierba.",
+        "Combate asestando puñetazos con sus cuatro\nbrazos. Sus golpes no son muy poderosos, pero\nresultan muy efectivos cuando ataca en ráfaga.",
+        "Se dice que los motivos que luce en el dorso\nguardan relación con las estrellas, aunque esta\nteoría sigue siendo todo un misterio.",
+        "Vuela por el cielo nocturno esparciendo un polvo\nbrillante. Dicen que entrar en contacto con este\npolvo trae buena suerte."
+    ],
+    "height": 1.4,
+    "id": 166,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "name": "Ledian",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 35.6
+}

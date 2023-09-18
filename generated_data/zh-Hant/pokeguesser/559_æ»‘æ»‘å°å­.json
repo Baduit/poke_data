@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "以數隻為一組來行動。會慢吞吞地\n走來走去，和對方視線對上時\n就會冷不防用頭錘撞過去。",
+        "會把鬆垮垮的皮拉到脖子上\n來保護自己。皮越是鬆垮的\n滑滑小子，地位似乎就越高。",
+        "與牠視線交會是很危險的！\n不管對手是誰，牠都會用\n頭錘招呼，是個難搞的傢伙。",
+        "用結實的皮保護身體。\n據說在皮伸展到極限時，\n牠就會開始進化。"
+    ],
+    "height": 0.6,
+    "id": 559,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "name": "滑滑小子",
+    "types": [
+        "惡",
+        "格鬥"
+    ],
+    "weight": 11.8
+}

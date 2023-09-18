@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es ist sehr mutig und stellt sich auch starken\nGegnern. Es sucht ständig nach warmen Regionen.",
+        "Es mag die kalte Jahreszeit nicht. Daher legt es\nauf der Suche nach wärmeren Gefilden mehr als\n300 km am Tag zurück.",
+        "Mutig behauptet Schwalbini sein Territorium gegen\nEindringlinge, so stark diese auch sein mögen. Dieses\nunerschrockene Pokémon bleibt trotz einer Niederlage\nangriffslustig, heult aber laut, wenn es Hunger hat.",
+        "Schwalbini ist noch klein, es hat gerade erst sein Nest\nverlassen. Daher fühlt es sich manchmal einsam und weint\nnachts. Dieses Pokémon ernährt sich von Waumpel."
+    ],
+    "height": 0.3,
+    "id": 276,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+    "name": "Schwalbini",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 2.3
+}

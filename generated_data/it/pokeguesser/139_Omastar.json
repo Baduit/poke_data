@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ha tentacoli molto sviluppati, paragonabili ad arti\numani. Appena irretisce la preda, la morde.",
+        "Dopo aver avvolto la preda non la molla più. La\nmangia facendola a brandelli con i denti affilati.",
+        "Omastar usa i suoi tentacoli per catturare la preda.\nSi pensa che si sia estinto a causa della conchiglia ormai\ntroppo pesante e ingombrante, che rendeva i suoi movimenti\nlenti e difficoltosi.",
+        "Omastar usa i suoi tentacoli per catturare la preda.\nSi pensa che si sia estinto a causa della conchiglia ormai\ntroppo pesante e ingombrante, che rendeva i suoi movimenti\nlenti e difficoltosi.",
+        "Si ritiene che questo antico Pokémon si sia\nestinto a causa della conchiglia troppo pesante.\nSembra sia un lontano antenato di Octillery.",
+        "Afferra e immobilizza le prede con i tentacoli,\nper poi infliggere il colpo di grazia con le sue\nzanne affilate.",
+        "È dotato di denti affilati. Sembra che si sia\nestinto a causa della conchiglia troppo grande,\nche lo ostacolava nei movimenti.",
+        "È dotato di denti affilati. Sembra che si sia\nestinto a causa della conchiglia troppo grande,\nche lo ostacolava nei movimenti.",
+        "Si dice si sia estinto per via della conchiglia\ngrossa e pesante che, rendendo i suoi movimenti\nimpacciati, gli impediva di catturare le prede.",
+        "Le sue zanne affilate possono frantumare\nanche le pietre, ma può attaccare solo le prede\na portata di tentacolo."
+    ],
+    "height": 1.0,
+    "id": 139,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "name": "Omastar",
+    "types": [
+        "Roccia",
+        "Acqua"
+    ],
+    "weight": 35.0
+}

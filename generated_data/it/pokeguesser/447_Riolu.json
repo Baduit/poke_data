@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Comunica con i suoi simili tramite delle onde che\ncambiano forma a seconda del sentimento che prova.",
+        "L’aura che emana si intensifica per comunicare agli\naltri se è triste o spaventato.",
+        "Comunica con i suoi simili tramite delle onde che cambiano\nforma a seconda del sentimento che prova.",
+        "L’aura che emana si intensifica per comunicare agli altri\nse è triste o spaventato.",
+        "È in grado di percepire la natura e le emozioni\ndi Pokémon ed esseri umani sotto forma di onde.",
+        "Pur essendo così piccolo, ha un’incredibile\nenergia che gli permette di correre anche per\nuna notte intera.",
+        "È in grado di percepire le emozioni di Pokémon\ned esseri umani attraverso la loro aura. Si tiene\nalla larga dagli avversari pericolosi.",
+        "Comunica con i suoi simili usando onde definite\n“aura” senza emettere alcun verso, riuscendo\ncosì a non farsi intercettare dai nemici.",
+        "Ha una grande resistenza e una gran vitalità,\ntanto che può correre anche per una notte intera.\nDurante le passeggiate non è facile stargli dietro.",
+        "Percepisce non solo le emozioni degli altri,\nma anche le condizioni dell’ambiente naturale\nsotto forma di onde definite “aura”."
+    ],
+    "height": 0.7,
+    "id": 447,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "name": "Riolu",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 20.2
+}

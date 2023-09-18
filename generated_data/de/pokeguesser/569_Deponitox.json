@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es nimmt mit dem rechten Arm Gegner in\ndie Mangel und gibt ihnen mit dem giftigen Gas\naus seinem Maul den Rest.",
+        "Jedes Mal, wenn es frischen Müll in sich aufsaugt,\nerzeugt es völlig neue Formen von Giftgasen und\nToxinen.",
+        "Es nimmt mit dem rechten Arm Gegner in die Mangel und\ngibt ihnen mit dem giftigen Gas aus seinem Maul den Rest.",
+        "Jedes Mal, wenn es frischen Müll in sich aufsaugt, erzeugt es\nvöllig neue Formen von Giftgasen und Toxinen.",
+        "Vorsicht vor dem Gift, das es aus seinem\nrechten Arm sprüht! Kleinste Mengen genügen,\num einen unbekannten Giftstoff zu übertragen.",
+        "Einst haben sie sich explosionsartig in Alola\nausgebreitet. Mit der Ankunft von Sleima hat\nihr Bestand jedoch sehr rasch abgenommen.",
+        "Mit dem linken Arm nagelt es seinen Gegner fest,\num ihn dann mit einer toxischen Flüssigkeit zu\nbesprühen und ihn so zu lähmen.",
+        "Man vermutet, dass die Deponitox in Alola\nwegen ihres Fressfeindes Sleimok kräftiger\nwurden als Artgenossen in anderen Regionen.",
+        "Es frisst Müll und verdaut ihn in seinem Inneren\nzu Gift. Je nach Art des Mülls, den es verzehrt,\nändern sich die Hauptbestandteile des Giftes.",
+        "Die toxische Flüssigkeit aus seinem rechten Arm\nist sehr gefährlich. Angeschlagene Lebewesen\nkommen bei Kontakt sofort ums Leben."
+    ],
+    "height": 1.9,
+    "id": 569,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "name": "Deponitox",
+    "types": [
+        "Gift"
+    ],
+    "weight": 107.3
+}

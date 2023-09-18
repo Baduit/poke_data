@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es bevorzugt feuchte Orte. Am Tag sitzt es\nregungslos im Schatten des Waldes. Von seinem\nKopf sondert es einen giftigen Puder ab.",
+        "Es setzt an seinem Kopf Giftsporen frei. Werden diese\neingeatmet, verursachen sie Schmerzen.",
+        "Knilz lebt im feuchten Erdboden finsterer Wälder. Es wird\noft reglos unter herabgefallenen Blättern gefunden. Dieses\nPokémon ernährt sich von Kompost aus verrotteten Blättern.",
+        "Wenn Knilz Gefahr wittert, schüttelt es seinen Körper und\nverteilt Sporen von seinem Kopf. Diese Sporen sind so giftig,\ndass Bäume und Gräser davon eingehen."
+    ],
+    "height": 0.4,
+    "id": 285,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "name": "Knilz",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 4.5
+}

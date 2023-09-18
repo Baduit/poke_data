@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Grâce à sa ressemblance mystérieuse\navec une Poké Ball, il attire ses ennemis\net relâche des spores empoisonnées.",
+        "Pour une raison inconnue, il ressemble à\nune Poké Ball. Il repousse ses ennemis\nà l’aide de spores empoisonnées.",
+        "Grâce à sa ressemblance mystérieuse avec une\nPoké Ball, il attire ses ennemis et relâche des spores\nempoisonnées.",
+        "Son apparence de Poké Ball trompe ses ennemis,\nqu’il étourdit à l’aide de ses spores empoisonnées.",
+        "Grâce à sa ressemblance mystérieuse avec une Poké Ball,\nil attire ses ennemis et relâche des spores empoisonnées.",
+        "Son apparence de Poké Ball trompe ses ennemis, qu’il étourdit\nà l’aide de ses spores empoisonnées.",
+        "On ignore toujours l’origine ou la signification\nde sa forte ressemblance avec une Poké Ball.",
+        "Les spores qu’il libère de ses mains sont\ntrès toxiques, mais si on les sèche bien,\nelles peuvent soulager les maux de ventre."
+    ],
+    "height": 0.2,
+    "id": 590,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
+    "name": "Trompignon",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 1.0
+}

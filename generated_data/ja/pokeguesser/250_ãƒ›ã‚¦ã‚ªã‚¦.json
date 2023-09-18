@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "体は　七色に　輝き\n飛んだあとは　虹が　できると\n神話に　残されている　ポケモン。",
+        "心正しき　トレーナーの　前に\n七色の　翼を　光らせながら\n姿を　現すと　伝えられる。",
+        "光の　当たる　角度に　よって　七色に\n輝く　ハネは　幸せを　もたらすと　いう。\n虹の　ふもとに　すむと　いわれている。",
+        "光の　当たる　角度に　よって　七色に\n輝く　ハネは　幸せを　もたらすと　いう。\n虹の　ふもとに　すむと　いわれている。"
+    ],
+    "height": 3.8,
+    "id": 250,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "name": "ホウオウ",
+    "types": [
+        "ほのお",
+        "ひこう"
+    ],
+    "weight": 199.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+        "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast."
+    ],
+    "height": 3.6,
+    "id": 982,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+    "name": "Dudunsparce",
+    "types": [
+        "Normal"
+    ],
+    "weight": 39.2
+}

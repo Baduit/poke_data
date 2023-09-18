@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Su larga lengua, recubierta de saliva pegajosa, se\npega a todo, por lo que es muy útil.",
+        "La lengua es tan larga que duplica su altura. Es útil\nporque puede moverla para agarrar comida y atacar.",
+        "Cada vez que Lickitung se encuentra con algo que no conoce,\nle da un lametazo. Es la forma que tiene de memorizar las\ncosas, por la textura y el sabor. No soporta los sabores\nácidos.",
+        "Cada vez que Lickitung se encuentra con algo que no conoce,\nle da un lametazo. Es la forma que tiene de memorizar las\ncosas, por la textura y el sabor. No soporta los sabores\nácidos.",
+        "Identifica las cosas lamiéndolas con su larga\nlengua. Hay que tener cuidado, pues si no se\ntratan, sus lametones tienen efectos urticantes.",
+        "Se limpia y acicala a base de lengüetazos,\naunque el olor que deja su saliva sugiere de\ntodo menos pulcritud.",
+        "Su lengua puede llegar a medir dos metros y la\nmueve con más soltura que las patas delanteras.\nSus lametazos pueden causar parálisis.",
+        "Su lengua puede llegar a medir dos metros y la\nmueve con más soltura que las patas delanteras.\nSus lametazos pueden causar parálisis.",
+        "Si sus lametones no se tratan a tiempo, su saliva\npegajosa y urticante puede provocar picores\npersistentes.",
+        "Se nutre principalmente de Pokémon insecto,\na los que paraliza primero lamiéndolos con su\nlarga lengua y luego engulle de un bocado."
+    ],
+    "height": 1.2,
+    "id": 108,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "name": "Lickitung",
+    "types": [
+        "Normal"
+    ],
+    "weight": 65.5
+}

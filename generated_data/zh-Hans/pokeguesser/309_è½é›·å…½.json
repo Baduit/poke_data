@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "通过空气与体毛的摩擦产生静电。\n落雷兽如果奔跑，\n会发出噼里啪啦的声音。",
+        "长长的体毛，\n通过摩擦在全身储存静电。\n是以速度为傲的宝可梦。",
+        "会将静电储存在体毛中进行放电。\n暴风雨临近时，会从全身散发出火花。",
+        "会在体毛中储存静电。\n在空气干燥的季节\n会从全身散发出火花。"
+    ],
+    "height": 0.6,
+    "id": 309,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "name": "落雷兽",
+    "types": [
+        "电"
+    ],
+    "weight": 15.2
+}

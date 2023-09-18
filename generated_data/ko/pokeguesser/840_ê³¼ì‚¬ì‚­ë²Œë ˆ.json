@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "평생을 사과 속에서 지내며\n천적인 새포켓몬과 마주치면\n사과인 척을 해서 몸을 지킨다.",
+        "태어나면 사과 안으로 숨어든다.\n안을 파먹으면서 성장하고\n사과 맛이 진화를 결정한다."
+    ],
+    "height": 0.2,
+    "id": 840,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "name": "과사삭벌레",
+    "types": [
+        "풀",
+        "드래곤"
+    ],
+    "weight": 0.5
+}

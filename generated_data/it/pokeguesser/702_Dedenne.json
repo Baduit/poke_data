@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "I suoi baffi fungono da antenne che trasmettono e\nricevono onde radio. Se ne serve per comunicare\ncon i suoi simili.",
+        "Con la coda può assorbire energia dalle prese di\ncorrente di centrali elettriche e abitazioni per poi\nscaricarla dai baffi.",
+        "I suoi baffi fungono da antenne che trasmettono e ricevono\nonde radio. Se ne serve per comunicare con i suoi simili.",
+        "Con la coda può assorbire energia dalle prese di corrente\ndi centrali elettriche e abitazioni per poi scaricarla dai baffi.",
+        "Si intrufola nelle case per rubare energia dalle\nprese elettriche. Se la bolletta della luce è\nstranamente alta, c’è di sicuro il suo zampino!",
+        "I baffi superiori sono sensori con cui sonda\nl’ambiente circostante, mentre quelli inferiori\nsono organi che emettono elettricità.",
+        "Usa i baffi per captare le onde radio emesse\ndai suoi simili. Così condivide informazioni\nsu dove trovare cibo ed elettricità.",
+        "Non riuscendo a produrre molta elettricità,\nla ruba dalle prese di corrente o da\naltri Pokémon di tipo Elettro."
+    ],
+    "height": 0.2,
+    "id": 702,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "name": "Dedenne",
+    "types": [
+        "Elettro",
+        "Folletto"
+    ],
+    "weight": 2.2
+}

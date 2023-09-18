@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Éblouis par les points lumineux qui clignotent sur son\ncorps, les ennemis perdent toute envie de se battre.",
+        "Il ébranle le moral des ennemis lui cherchant noise\ngrâce aux clignotements qu’il émet.\nIl profite de cette diversion pour se cacher.",
+        "Éblouis par les points lumineux qui clignotent sur son corps,\nles ennemis perdent toute envie de se battre.",
+        "Il ébranle le moral des ennemis lui cherchant noise grâce\naux clignotements qu’il émet. Il profite de cette diversion\npour se cacher.",
+        "Il attire ses proies en faisant clignoter\nson corps, puis les immobilise en les enserrant\nde ses longs tentacules.",
+        "Il fait clignoter ses points lumineux à différentes\nfréquences pour échanger des informations\navec ses congénères.",
+        "Il fait clignoter son corps lumineux en tournoyant.\nIl communique avec ses congénères à l’aide\nde signaux de lumière.",
+        "Il sape la combativité de son adversaire en faisant\nclignoter son corps lumineux, puis profite\nde cet instant de répit pour s’enfuir."
+    ],
+    "height": 0.4,
+    "id": 686,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "name": "Sepiatop",
+    "types": [
+        "Ténèbres",
+        "Psy"
+    ],
+    "weight": 3.5
+}

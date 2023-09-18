@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Amano riunirsi vicino a puzzolenti liquami di scolo,\nrendendo il fetore ancora più intenso.",
+        "Dal suo corpo filtra un fluido tossico che uccide\nall’istante piante e alberi con cui viene a contatto.",
+        "Il corpo di questo Pokémon emana un liquido marcio\ndall’odore nauseabondo. Una sola goccia di questo liquido\nè in grado di rendere l’acqua di una piscina putrida\ne stagnante.",
+        "Questo Pokémon si ciba di qualunque cosa sia sudicia\ne ripugnante. Le città più inquinate, dove la popolazione\ngetta i rifiuti in strada, sono un luogo di ritrovo frequente\nper i Muk.",
+        "Emana un fetore insopportabile, ma i fanatici\ndi questo Pokémon lo considerano un pregio.",
+        "Ultimamente, l’accresciuta sensibilità ambientale\nha portato a una diminuzione degli esemplari\ndi questo Pokémon, che rischia l’estinzione.",
+        "Il loro numero è calato drasticamente a causa\ndella mancanza di cibo. Per evitarne l’estinzione,\nsono state create pozze di liquami artificiali.",
+        "Essendo portatore di germi, è stato sempre\ncacciato senza pietà. Per questo il numero di\nesemplari si è ridotto drasticamente.",
+        "Emette un tanfo così terribile da far svenire,\nma non sente alcun odore perché ormai\nil suo naso si è atrofizzato.",
+        "Emette un tanfo così terribile da far svenire,\nma non sente alcun odore perché ormai\nil suo naso si è atrofizzato."
+    ],
+    "height": 1.2,
+    "id": 89,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "name": "Muk",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 30.0
+}

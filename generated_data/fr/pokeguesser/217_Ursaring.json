@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il marque de ses griffes les arbres\nde son territoire qui portent des\nBaies ou des fruits.",
+        "Il marque de ses griffes les arbres\nde son territoire qui portent des\nBaies ou des fruits.",
+        "Avec sa capacité à sentir toute odeur, il trouve sans\nfaillir de la nourriture enfouie dans le sol.",
+        "Bien que d’une large corpulence, il grimpe aux arbres\npour s’y nourrir et y dormir.",
+        "On dit que les Ursaring trouvent leur nourriture dans les cours\nd’eau et les grands arbres des forêts où ils habitent.\nCe Pokémon erre dans la forêt toute la journée pour chercher\nde la nourriture.",
+        "On dit que les Ursaring trouvent leur nourriture dans les cours\nd’eau et les grands arbres des forêts où ils habitent.\nCe Pokémon erre dans la forêt toute la journée pour chercher\nde la nourriture."
+    ],
+    "height": 1.8,
+    "id": 217,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "name": "Ursaring",
+    "types": [
+        "Normal"
+    ],
+    "weight": 125.8
+}

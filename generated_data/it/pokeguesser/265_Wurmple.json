@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Ama mangiare le foglie. Se Starly lo attacca, si\ndifende con gli aculei che ha sulla parte posteriore.",
+        "Vive nelle foreste e tra l’erba alta. Se è attaccato,\nusa gli aculei velenosi che ha sulla parte posteriore.",
+        "Grazie agli aculei sulla parte posteriore del corpo, Wurmple\nscorteccia i tronchi degli alberi e si nutre della loro linfa.\nLe sue zampe sono dotate di ventose che gli consentono\ndi attaccarsi ai vetri senza scivolare.",
+        "Wurmple è la preda favorita di Swellow. Questo Pokémon\ncerca di resistere puntando gli aculei irti sulla schiena contro\nil predatore che attacca. Poi indebolisce il nemico emettendo\nveleno da questi aculei."
+    ],
+    "height": 0.3,
+    "id": 265,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "name": "Wurmple",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 3.6
+}

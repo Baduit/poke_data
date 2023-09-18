@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "在流星閃耀的深夜裡\n凝望著天空的樣子，\n似乎是在緬懷故鄉。",
+        "因為外表輪廓的關係，\n被認為是星星的轉世。\n不知為何很喜歡小隕星。",
+        "會在流星多的夜裡聚集起來，\n圍成一圈跳舞。如果能看見牠們\n跳舞的樣子，就會遇上好事。",
+        "據說是乘著流星而來。\n皮寶寶似乎會出現在\n過去有過隕石墜落的地方。",
+        "根據當地的傳說，\n皮寶寶經常出沒的地方\n就是流星隕落之處。",
+        "有著如同星星一般的輪廓。\n因為這樣的外型，人們相信\n牠是乘著流星而來的。"
+    ],
+    "height": 0.3,
+    "id": 173,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "name": "皮寶寶",
+    "types": [
+        "妖精"
+    ],
+    "weight": 3.0
+}

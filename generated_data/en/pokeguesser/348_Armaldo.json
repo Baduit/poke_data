@@ -1,0 +1,35 @@
+{
+    "descriptions": [
+        "ARMALDO’s tough armor makes all attacks\nbounce off. This POKéMON’s two\nenormous claws can be freely extended\for contracted. They have the power to\npunch right through a steel slab.",
+        "ARMALDO is a POKéMON species that\nbecame extinct in prehistoric times.\nThis POKéMON is said to have walked on\fits hind legs, which would have been\nmore convenient for life on land.",
+        "ARMALDO usually lives on land. However,\nwhen it hunts for prey, it dives beneath\nthe ocean. It swims around using its two\nlarge wings.",
+        "Protected by a hard shell, its body is\nvery sturdy. It skewers prey with its\nclaws to feed.",
+        "Protected by a hard shell, its body is\nvery sturdy. It skewers prey with its\nclaws to feed.",
+        "It went ashore after evolving.\nIts entire body is clad in a sturdy\narmor.",
+        "It went ashore after evolving.\nIts entire body is clad in a sturdy\narmor.",
+        "It went ashore after evolving.\nIts entire body is clad in a sturdy\narmor.",
+        "Its enormous, retractable claws\ncan cut through most anything. Its\nentire body is clad in sturdy plates.",
+        "Its enormous, retractable claws\ncan cut through most anything. Its\nentire body is clad in sturdy plates.",
+        "It went ashore after evolving.\nIts entire body is clad in a sturdy\narmor.",
+        "It went ashore after evolving.\nIts entire body is clad in a sturdy\narmor.",
+        "It went ashore after evolving.\nIts entire body is clad in a sturdy\narmor.",
+        "It went ashore after evolving.\nIts entire body is clad in a sturdy\narmor.",
+        "Its enormous, retractable claws can cut through\nmost anything. Its entire body is clad in\nsturdy plates.",
+        "Protected by a hard shell, its body is very sturdy.\nIt skewers prey with its claws to feed.",
+        "Armaldo’s tough armor makes all attacks bounce off. This\nPokémon’s two enormous claws can be freely extended or\ncontracted. They have the power to punch right through a\nsteel slab.",
+        "Armaldo is a Pokémon species that became extinct in\nprehistoric times. This Pokémon is said to have walked\non its hind legs, which would have been more convenient\nfor life on land.",
+        "It lived on land and went out into the sea to\nhunt for prey. Its sharp claws were its\ngreatest weapon.",
+        "Armaldo adapted from living in water to living on\nland. It has been determined that it is the\nancestor of some bug Pokémon.",
+        "After evolution, this Pokémon emerged onto\nland. Its lower body has become stronger, and\nblows from its tail are devastating.",
+        "Though it lives on land, it’s also a good swimmer.\nIt dives into the ocean in search of prey, using its\nsharp claws to take down its quarry."
+    ],
+    "height": 1.5,
+    "id": 348,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "name": "Armaldo",
+    "types": [
+        "Rock",
+        "Bug"
+    ],
+    "weight": 68.2
+}

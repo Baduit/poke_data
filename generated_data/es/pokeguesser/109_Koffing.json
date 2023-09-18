@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Tiene forma de globo y es muy ligero. Está compuesto\npor gases tóxicos y apesta.",
+        "Los gases de su cuerpo le permiten flotar. Estos\ngases, además de oler mal, también son explosivos.",
+        "Si Koffing se pone nervioso, aumenta el nivel de toxicidad de\nlos gases que tiene y los expulsa por todo el cuerpo. También\nsuele hincharse mucho hasta llegar a explotar.",
+        "Koffing contiene sustancias tóxicas que mezcla con\ndesperdicios para provocar una reacción química que libera\nun gas tremendamente venenoso. A mayor temperatura,\nmayor será la cantidad de gas que cree este Pokémon.",
+        "A veces puede explotar sin avisar, ya que en\nlugares calurosos su gas interno se expande.",
+        "A veces puede explotar sin avisar, ya que en\nlugares calurosos su gas interno se expande.",
+        "Su cuerpo está lleno a rebosar de gas venenoso.\nAcude a los vertederos atraído por el putrefacto\nolor que emana de los desperdicios.",
+        "Se nutre de aire contaminado. Al parecer, antaño\neran mucho más numerosos en Galar."
+    ],
+    "height": 0.6,
+    "id": 109,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "name": "Koffing",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "游泳很在行。后脚带有小小的蹼，\n会渡过河流，有时还会渡过大海。",
+        "性格比外表看起来凶残得多。\n如果把手伸到面前，\n或许会被一口咬断。",
+        "据说会用后脚上小小的蹼\n泅水渡海，穿越岛屿\n来躲避敌人的追击。",
+        "胡须是用来保持平衡的重要器官。\n即使感情再好，只要摸了它的胡须，\n它就会发火咬你。",
+        "它的后脚上长着\n小蹼，以便它在\n水中游泳寻找食物。",
+        "它的后脚上长着\n小蹼，以便它在\n水中游泳寻找食物。"
+    ],
+    "height": 0.7,
+    "id": 20,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "name": "拉达",
+    "types": [
+        "一般"
+    ],
+    "weight": 18.5
+}

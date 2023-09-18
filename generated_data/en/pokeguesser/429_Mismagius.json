@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "Its cries sound like incantations.\nThose hearing it are tormented\nby headaches and hallucinations.",
+        "It chants incantations. While they\nusually torment targets, some\nchants bring happiness.",
+        "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power.",
+        "Its cries sound like incantations\nto torment the foe. It appears\nwhere you least expect it.",
+        "Its cries sound like incantations\nto torment the foe. It appears\nwhere you least expect it.",
+        "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power.",
+        "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power.",
+        "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power.",
+        "Its cry sounds like an incantation.\nIt is said the cry may rarely be\nimbued with happiness-giving power.",
+        "It chants incantations. While they usually torment\ntargets, some chants bring happiness.",
+        "Its cries sound like incantations to torment the foe.\nIt appears where you least expect it.",
+        "It chants incantations. While they usually torment\ntargets, some chants bring happiness.",
+        "Its cries sound like incantations to torment the foe.\nIt appears where you least expect it.",
+        "It appears as if from nowhere—muttering\nincantations, placing curses, and giving\npeople terrifying visions.",
+        "Mismagius have been known to cast spells to\nmake people fall in love, so some people search\nfor this Pokémon as if their life depended on it.",
+        "Feared for its wrath and the curses it spreads,\nthis Pokémon will also, on a whim, cast spells\nthat help people.",
+        "Its muttered curses can cause awful headaches\nor terrifying visions that torment others.",
+        "The incantations Mismagius chants can ward against misfortune,\nso a custom exists of inviting it into one's home. Incur the\nPokémon's displeasure, however, and disaster will surely ensue."
+    ],
+    "height": 0.9,
+    "id": 429,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "name": "Mismagius",
+    "types": [
+        "Ghost"
+    ],
+    "weight": 4.4
+}

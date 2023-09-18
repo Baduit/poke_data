@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Cuando lanza agua a alta presión con su cola, puede\nincluso resquebrajar una pared de cemento.",
+        "Le encantan los lugares con agua limpia. Cuando\ndesciende el nivel de agua de su pelo, se abastece\na través de su cola.",
+        "Cuando lanza agua a alta presión con su cola, puede incluso\nresquebrajar una pared de cemento.",
+        "Le encantan los lugares con agua limpia. Cuando desciende\nel nivel de agua de su pelo, se abastece a través de su cola."
+    ],
+    "height": 1.0,
+    "id": 516,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "name": "Simipour",
+    "types": [
+        "Agua"
+    ],
+    "weight": 29.0
+}

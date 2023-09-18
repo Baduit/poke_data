@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Quand il est seul, il ne se passe\nrien... Mais en groupe, il semble\nhabité par un mystérieux pouvoir.",
+        "Quand il est seul, il ne se passe\nrien... Mais en groupe, il semble\nhabité par un mystérieux pouvoir.",
+        "Son corps plat et fin est toujours collé aux murs.\nOn pense que sa forme a une signification.",
+        "Il rappelle une écriture ancienne. Reste à savoir qui\ndu langage ou de Zarbi est apparu en premier.",
+        "Ce Pokémon a la forme d’un caractère d’écriture antique.\nPersonne ne sait si ces écritures antiques sont apparues\navant les Zarbi ou le contraire. Des études sont en cours,\nmais aucun résultat n’a été annoncé.",
+        "Ce Pokémon a la forme d’un caractère d’écriture antique.\nPersonne ne sait si ces écritures antiques sont apparues\navant les Zarbi ou le contraire. Des études sont en cours,\nmais aucun résultat n’a été annoncé."
+    ],
+    "height": 0.5,
+    "id": 201,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+    "name": "Zarbi",
+    "types": [
+        "Psy"
+    ],
+    "weight": 5.0
+}

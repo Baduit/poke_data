@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Su cuerpo se compone casi en exclusiva de agua.\nLanza extraños rayos con sus ojos cristalinos.",
+        "Va a la deriva a poca profundidad. Si es pescado por\naccidente, el castigo será su punzante ácido.",
+        "Tentacool está compuesto en su mayor parte por agua. Si se\nle saca del mar, se secará y se quedará acartonado. Si este\nPokémon se deshidrata, hay que echarlo inmediatamente de\nvuelta al mar.",
+        "Tentacool absorbe luz solar, la refracta a través del agua que\ntiene en su interior y la convierte en un rayo de energía. Este\nPokémon tiene un órgano que parece de cristal sobre los ojos\npor el cual dispara los rayos.",
+        "A veces es posible encontrarlos deshidratados\nen la playa, pero, si se los pone en remojo,\nvolverán a henchirse de vida.",
+        "Suele rondar las aguas poco profundas de la\norilla. Sus tentáculos son muy venenosos y, en\ncaso de picadura, hay que correr al hospital.",
+        "Ronda las costas en busca de presas. Si pierde\nalguno de sus tentáculos venenosos, le volverá\na crecer al cabo del tiempo.",
+        "Su cuerpo está compuesto de agua en un 99%.\nEl 1% restante es el órgano que segrega sus\ntoxinas.",
+        "A veces pueden encontrarse deshidratados en\nlas playas, pero reviven al sumergirlos de nuevo\nen el agua.",
+        "A veces pueden encontrarse deshidratados en\nlas playas, pero reviven al sumergirlos de nuevo\nen el agua.",
+        "Sus facultades natatorias son más bien escasas,\npor lo que se limita a flotar a la deriva en aguas\npoco profundas en busca de alimento.",
+        "Su cuerpo está compuesto casi por completo de\nagua, por lo que resulta muy difícil distinguirlo\ncuando está sumergido en el mar."
+    ],
+    "height": 0.9,
+    "id": 72,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+    "name": "Tentacool",
+    "types": [
+        "Agua",
+        "Veneno"
+    ],
+    "weight": 45.5
+}

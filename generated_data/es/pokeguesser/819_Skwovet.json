@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Este Pokémon se encuentra por todo Galar.\nNo se queda tranquilo hasta que tiene ambos\ncarrillos atiborrados de bayas.",
+        "Siempre están comiendo bayas, por lo que son\nmás robustos de lo que aparentan. Frecuentan\nlos huertos en busca de su preciado manjar."
+    ],
+    "height": 0.3,
+    "id": 819,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "name": "Skwovet",
+    "types": [
+        "Normal"
+    ],
+    "weight": 2.5
+}

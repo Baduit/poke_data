@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Se le conoce como el Ser de la Voluntad. Duerme en\nel fondo de un lago para equilibrar el mundo.",
+        "Se cree que Uxie, Mesprit y Azelf provienen del mismo\nhuevo.",
+        "Se le conoce como el Ser de la Voluntad. Duerme en el fondo\nde un lago para equilibrar el mundo.",
+        "Se cree que Uxie, Mesprit y Azelf provienen del mismo huevo."
+    ],
+    "height": 0.3,
+    "id": 482,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+    "name": "Azelf",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 0.3
+}

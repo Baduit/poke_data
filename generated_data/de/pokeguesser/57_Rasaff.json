@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "In ganz seltenen Fällen beruhigt sich dieses sehr\njähzornige Pokémon und ist für einen Moment friedlich.",
+        "Es ist immer außerordentlich wütend. Nimmt es\ndie Verfolgung auf, bleibt es dem Opfer hartnäckig\nauf den Fersen, egal wie weit oder wie lange.",
+        "Wenn Rasaff wütend ist, wird seine Blutzirkulation gesteigert\nund seine Muskeln werden noch stärker. Allerdings mindert\ndas auch die Fähigkeit zum logischen Denken.",
+        "Wenn Rasaff wütend ist, wird seine Blutzirkulation gesteigert\nund seine Muskeln werden noch stärker. Allerdings sinkt dabei\nauch die Fähigkeit logischen Denkens.",
+        "Manchmal rastet es so aus, dass es auf der\nStelle tot umfällt. Sein Gesichtsausdruck ist\ndanach jedoch äußerst friedlich.",
+        "Der Theorie eines Forschers zufolge schäumt\nRasaff sogar im Inneren von Pokébällen weiter\nvor Wut.",
+        "Wer es nervt, wird auf ewig verfolgt. Selbst\nnachdem es seinen Gegner zu Boden gebracht\nhat, kann es ihm noch nicht verzeihen.",
+        "Da es robustere Hirnblutgefäße als andere\nPokémon hat, wirkt sich selbst kontinuierlicher\nZorn nicht schädlich auf seine Gesundheit aus.",
+        "Es hört lediglich dann auf zu toben, wenn\nniemand in der Nähe ist. Diesen Anblick zu\nGesicht zu bekommen, ist daher nicht einfach.",
+        "Es hört lediglich dann auf zu toben, wenn\nniemand in der Nähe ist. Diesen Anblick zu\nGesicht zu bekommen, ist daher nicht einfach."
+    ],
+    "height": 1.0,
+    "id": 57,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "name": "Rasaff",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 32.0
+}

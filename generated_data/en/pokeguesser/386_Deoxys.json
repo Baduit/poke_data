@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "The DNA of a space virus underwent a\nsudden mutation upon exposure to a\nlaser beam and resulted in DEOXYS.\fThe crystalline organ on this POKéMON’s\nchest appears to be its brain.",
+        "DEOXYS emerged from a virus that came\nfrom space. It is highly intelligent and\nwields psychokinetic powers.\fThis POKéMON shoots lasers from the\ncrystalline organ on its chest.",
+        "A POKéMON that mutated from an\nextraterrestrial virus exposed to a laser\nbeam. Its body is configured for superior\nagility and speed.",
+        "This DEOXYS has transformed into its\naggressive guise. It can fool enemies by\naltering its appearance.",
+        "When it changes form, an aurora appears.\nIt absorbs attacks by altering its\ncellular structure.",
+        "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon.",
+        "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon.",
+        "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon.",
+        "DNA from a space virus mutated and\nbecame a Pokémon. It appears\nwhere auroras are seen.",
+        "DNA from a space virus mutated and\nbecame a Pokémon. It appears\nwhere auroras are seen.",
+        "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon.",
+        "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon.",
+        "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon.",
+        "An alien virus that fell to earth\non a meteor underwent a DNA\nmutation to become this Pokémon.",
+        "An alien virus that fell to earth on a meteor\nunderwent a DNA mutation to become\nthis Pokémon.",
+        "DNA from a space virus mutated and became a\nPokémon. It appears where auroras are seen.",
+        "The DNA of a space virus underwent a sudden mutation upon\nexposure to a laser beam and resulted in Deoxys.\nThe crystalline organ on this Pokémon’s chest appears to be\nits brain.",
+        "Deoxys emerged from a virus that came from space. It is highly\nintelligent and wields psychokinetic powers. This Pokémon\nshoots lasers from the crystalline organ on its chest."
+    ],
+    "height": 1.7,
+    "id": 386,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "name": "Deoxys",
+    "types": [
+        "Psychic"
+    ],
+    "weight": 60.8
+}

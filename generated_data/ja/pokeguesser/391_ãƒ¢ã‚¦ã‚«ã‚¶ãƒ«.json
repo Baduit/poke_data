@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "尻尾の　炎の　勢いを\nうまく　コントロールして\n自分の　得意な　間合いで　戦うのだ。",
+        "天井や　壁を　利用して\n空中殺法を　繰り出す。\n尻尾の　炎も　武器の　ひとつ。",
+        "尻尾の　炎の　勢いを\nうまく　コントロールして\n自分の　得意な　間合いで　戦うのだ。",
+        "天井や　壁を　利用して\n空中殺法を　繰り出す。\n尻尾の　炎も　武器の　ひとつ。"
+    ],
+    "height": 0.9,
+    "id": 391,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+    "name": "モウカザル",
+    "types": [
+        "ほのお",
+        "かくとう"
+    ],
+    "weight": 22.0
+}

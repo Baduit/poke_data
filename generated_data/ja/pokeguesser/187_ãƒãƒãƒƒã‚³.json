@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "とても　軽い　体。\n吹き飛ばされないよう　しっかり\n地面を　踏みしめている。",
+        "風に　流されて　漂う。\n野山に　ハネッコが　集まり出すと\n春が　訪れると　言われている。",
+        "風に　乗って　ふわふわ　漂う　ポケモン。\n強風の　気配を　感じると　仲間同士\n葉っぱを　絡め　飛ばされない　準備をする。",
+        "風に　乗って　ふわふわ　漂う　ポケモン。\n強風の　気配を　感じると　仲間同士\n葉っぱを　絡め　飛ばされない　準備をする。"
+    ],
+    "height": 0.4,
+    "id": 187,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "name": "ハネッコ",
+    "types": [
+        "くさ",
+        "ひこう"
+    ],
+    "weight": 0.5
+}

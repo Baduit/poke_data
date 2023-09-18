@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Countless charred remains mar the\nlandscape of places through which\nThundurus has passed.",
+        "The spikes on its tail discharge immense\nbolts of lightning. It flies around the\nUnova region firing off lightning bolts.",
+        "As it flies around, it shoots lightning all\nover the place and causes forest fires.\nIt is therefore disliked.",
+        "As it flies around, it shoots lightning all\nover the place and causes forest fires.\nIt is therefore disliked.",
+        "The spikes on its tail discharge immense bolts of\nlightning. It flies around the Unova region firing off\nlightning bolts.",
+        "As it flies around, it shoots lightning all over\nthe place and causes forest fires. It is\ntherefore disliked.",
+        "The spikes on its tail discharge immense bolts of\nlightning. It flies around the Unova region firing off\nlightning bolts.",
+        "As it flies around, it shoots lightning all over\nthe place and causes forest fires. It is\ntherefore disliked.",
+        "They say this wielder of electricity has waged war with its\nnemesis, Tornadus, since time immemorial. The lightning bolts\nit hurls pierce the very earth and enrich the soil."
+    ],
+    "height": 1.5,
+    "id": 642,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+    "name": "Thundurus",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "weight": 61.0
+}

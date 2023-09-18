@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Surgió a raíz de la mutación de ADN de un virus\nalienígena que cayó a la Tierra en un meteorito.",
+        "Pokémon surgido a raíz de la mutación de un virus\nalienígena. Aparece cerca de la aurora.",
+        "Tras estar expuesto a un rayo láser, el ADN de un virus\nespacial sufrió una mutación y dio origen a Deoxys. Según\nparece, el órgano cristalino que este Pokémon tiene en el\ntorso es el cerebro.",
+        "Deoxys surgió a partir de un virus espacial. Tiene un alto nivel\nintelectual y poderes psicoquinéticos. Este Pokémon dispara\nrayos láser por el órgano cristalino que tiene en el torso."
+    ],
+    "height": 1.7,
+    "id": 386,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "name": "Deoxys",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 60.8
+}

@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Cuando tienes la sensación de que te están\nobservando, seguro que es porque Haunter está\ncerca.",
+        "Utiliza su lengua gaseosa para chupar la vida de la\nvíctima. Acecha a sus presas en la oscuridad.",
+        "Haunter es un Pokémon peligroso. Si se ve alguno flotando\nen la oscuridad y haciendo señas, conviene no acercarse. Este\nPokémon intentará robarle la energía a su presa a base de\nlametazos.",
+        "Haunter es un Pokémon peligroso. Si se ve alguno flotando\nen la oscuridad y haciendo señas, conviene no acercarse. Este\nPokémon intentará robarle la energía a su presa a base de\nlametazos.",
+        "Surge de la oscuridad para atacar a la gente.\nLas víctimas de sus lametazos se debilitan\npoco a poco hasta que se les escapa la vida.",
+        "Rehúye la luz y adora las noches oscuras. En\nlas ciudades su presencia es casi inexistente,\npues por la noche todo se ilumina.",
+        "Se aconseja no salir a pasear en las noches de\nluna nueva, cuando los Haunter acechan en\nbusca de su próxima víctima.",
+        "Quienes se sientan tristes no deben salir solos\npor la noche, pues Haunter estará al acecho, los\natrapará y no podrán volver a casa.",
+        "Sus lengüetazos le arrebatan la energía vital a su\nvíctima y le causan unos temblores que no cesan\nhasta que fallece.",
+        "Sus lengüetazos le arrebatan la energía vital a su\nvíctima y le causan unos temblores que no cesan\nhasta que fallece.",
+        "Su lengua está hecha de gas. Si lame a su víctima,\nesta sufrirá constantes temblores hasta fallecer.",
+        "Cuando se tiene la sensación de ser observado\nen la oscuridad sin que haya nadie alrededor,\nseguro que es porque un Haunter anda cerca."
+    ],
+    "height": 1.6,
+    "id": 93,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "name": "Haunter",
+    "types": [
+        "Fantasma",
+        "Veneno"
+    ],
+    "weight": 0.1
+}

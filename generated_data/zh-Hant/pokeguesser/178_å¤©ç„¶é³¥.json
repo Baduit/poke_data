@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "據說這種寶可夢擁有\n能夠預知未來的能力，\n但是沒有足以改變未來的力量。",
+        "能夠看見未來，但似乎因為\n未來的變化不符合期望，\n所以牠一動也不動。",
+        "人們相信牠之所以幾乎\n不動也不叫地靜靜待著，\n是因為牠正注視著過去和未來。",
+        "能夠看穿過去和未來。\n日復一日注視著太陽\n動向的奇異寶可夢。"
+    ],
+    "height": 1.5,
+    "id": 178,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "name": "天然鳥",
+    "types": [
+        "超能力",
+        "飛行"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Dieses Pokémon lebt 1 m unter der Erde.\nEs frisst Wurzeln und kommt selten an die Oberfläche.",
+        "Seine Haut ist sehr dünn. Wird es Sonnenlicht\nausgesetzt, erhitzt sich sein Blut und es wird schwach.",
+        "Digda wird zumeist auf Farmen gezüchtet. Denn wo auch\nimmer dieses Pokémon zu graben beginnt, hinterlässt es Erde,\ndie für das Anpflanzen von Feldfrüchten perfekt geeignet und\nfür den Anbau köstlichen Gemüses ideal ist.",
+        "Digda wird zumeist auf Farmen gezüchtet. Denn wo auch\nimmer dieses Pokémon zu graben beginnt, hinterlässt es Erde,\ndie für das Anpflanzen von Feldfrüchten perfekt geeignet und\nfür den Anbau köstlichen Gemüses ideal ist.",
+        "Es knabbert im Erdreich die Wurzeln von Bäumen\nund Pflanzen an. Bei manchen Gemüsesorten\nkann dies zu Ernteschäden führen.",
+        "Digda wird gerne auf Farmen gezüchtet, da es\ndas Erdreich, in dem es wohnt, gut durchpflügt\nund mit seinen Ausscheidungen düngt.",
+        "Es gräbt unterirdische Tunnel und bewegt sich\ndarin fort. Da es Licht verabscheut, taucht es\nerst nachts wieder an der Oberfläche auf.",
+        "Auf Farmen werden Digdas Lieblingsbäume um\ndie Feldfrüchte herum gepflanzt. Im Gegenzug\ndurchpflügen sie dafür den Boden.",
+        "Digda bevorzugt dunkle Orte. Es hält sich meist\nunter der Erdoberfläche auf, kommt aber auch\noft in Höhlen zum Vorschein.",
+        "Digda bevorzugt dunkle Orte. Es hält sich meist\nunter der Erdoberfläche auf, kommt aber auch\noft in Höhlen zum Vorschein.",
+        "Bewegt sich ein Digda unterirdisch fort, pflügt es\ndabei den Erdboden gleich mit und bereitet so\nden Anbau von Feldfrüchten vor.",
+        "Es gräbt sich in geringer Tiefe durch den\nErdboden. Da es dabei durchwühlte Erde an der\nOberfläche hinterlässt, ist es leicht zu finden."
+    ],
+    "height": 0.2,
+    "id": 50,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "name": "Digda",
+    "types": [
+        "Boden"
+    ],
+    "weight": 0.8
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "普段は　穏やかだが　人間が\n鉱山を　荒らすと　怒りくるい\n１５００度の　炎で　焼きつくす。",
+        "戦いになると　石炭の　山が\n真っ赤に　燃え上がり　火の粉を\nまき散らして　周囲を　焦がす。"
+    ],
+    "height": 2.8,
+    "id": 839,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "name": "セキタンザン",
+    "types": [
+        "いわ",
+        "ほのお"
+    ],
+    "weight": 310.5
+}

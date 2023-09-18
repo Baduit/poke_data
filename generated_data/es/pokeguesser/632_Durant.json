@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Actúan en grupo para expulsar de sus colonias a los\nHeatmor, sus depredadores naturales.",
+        "Llevan una armadura de acero. Se defienden en grupo\npara contrarrestar a sus depredadores, los Heatmor.",
+        "Actúan en grupo para expulsar de sus colonias a los Heatmor,\nsus depredadores naturales.",
+        "Llevan una armadura de acero. Se defienden en grupo para\ncontrarrestar a sus depredadores, los Heatmor.",
+        "Deposita sus huevos en la parte más profunda\ndel nido. Si un Heatmor lo ataca, se defiende\nmordiéndolo con sus enormes mandíbulas.",
+        "Con sus grandes mandíbulas puede destrozar\nincluso rocas. Lucha en grupo para proteger sus\nlarvas del ataque de los Sandaconda."
+    ],
+    "height": 0.3,
+    "id": 632,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "name": "Durant",
+    "types": [
+        "Bicho",
+        "Acero"
+    ],
+    "weight": 33.0
+}

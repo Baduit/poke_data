@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Un Pokémon conçu en réorganisant\nles gènes de Mew. On raconte qu’il\ns’agit du Pokémon le plus féroce.",
+        "Un Pokémon conçu en réorganisant\nles gènes de Mew. On raconte qu’il\ns’agit du Pokémon le plus féroce.",
+        "Il est le fruit de nombreuses expériences génétiques\nhorribles et malsaines.",
+        "Un Pokémon conçu en réorganisant les gènes de\nMew. On raconte qu’il s’agit du Pokémon le plus\nféroce.",
+        "Mewtwo est un Pokémon créé par manipulation génétique.\nCependant, bien que les connaissances scientifiques des\nhumains aient réussi à créer son corps, elles n’ont pas pu\ndoter Mewtwo d’un cœur sensible.",
+        "Mewtwo est un Pokémon créé par manipulation génétique.\nCependant, bien que les connaissances scientifiques des\nhumains aient réussi à créer son corps, elles n’ont pas pu\ndoter Mewtwo d’un cœur sensible.",
+        "Son ADN est presque le même que celui de\nMew, mais sa taille et son caractère sont très\ndifférents.",
+        "Son ADN est presque le même que celui de\nMew, mais sa taille et son caractère sont très\ndifférents."
+    ],
+    "height": 2.0,
+    "id": 150,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "name": "Mewtwo",
+    "types": [
+        "Psy"
+    ],
+    "weight": 122.0
+}

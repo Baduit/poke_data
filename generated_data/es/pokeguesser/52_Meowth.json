@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es de naturaleza nocturna. Le atraen los objetos\nbrillantes.",
+        "Adora los objetos redondos. De noche, camina por las\ncalles en busca de monedas perdidas.",
+        "Meowth retrae las afiladas uñas de sus zarpas para caminar a\nhurtadillas, dando sigilosos pasos para pasar inadvertido.\nNo se sabe muy bien por qué, pero este Pokémon adora las\nmonedas brillantes que resplandecen con la luz.",
+        "Meowth retrae las afiladas uñas de sus zarpas para caminar a\nhurtadillas, dando sigilosos pasos para pasar inadvertido.\nNo se sabe muy bien por qué, pero este Pokémon adora las\nmonedas brillantes que resplandecen con la luz.",
+        "Se pasa casi todo el día durmiendo y se vuelve\nmás activo al caer el sol. Por la noche merodea\npor la ciudad buscando monedas.",
+        "Le fascinan los objetos brillantes, por lo que a\nmenudo se disputa el botín con algún Murkrow.",
+        "No es extraño encontrarlos en los vertederos,\ndonde suelen pelearse con los Murkrow por\ncualquier objeto reluciente.",
+        "Adora las monedas y basta con darle una para\nganarse su afecto, que no suele durar mucho\ndebido a su carácter caprichoso.",
+        "Al parecer, es más activo por la noche. Adora de\ntal manera los objetos redondos y brillantes que\nno puede evitar recogerlos si se los encuentra.",
+        "Al parecer, es más activo por la noche. Adora de\ntal manera los objetos redondos y brillantes que\nno puede evitar recogerlos si se los encuentra.",
+        "Le encanta reunir objetos brillantes. Cuando está\nde buen humor, hasta le muestra la colección a\nsu Entrenador.",
+        "Se lava cuidadosamente la cara para que no se le\nensucie la moneda de oro que tiene en la frente.\nNo se lleva nada bien con los Meowth de Galar."
+    ],
+    "height": 0.4,
+    "id": 52,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "name": "Meowth",
+    "types": [
+        "Normal"
+    ],
+    "weight": 4.2
+}

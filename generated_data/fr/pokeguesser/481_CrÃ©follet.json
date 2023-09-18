@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Quand il prit son envol, les hommes\napprirent à ressentir la joie et la\npeine. L’émotion était née.",
+        "Quand il prit son envol, les hommes\napprirent à ressentir la joie et la\npeine. L’émotion était née.",
+        "On l’appelle « être de l’émotion ». Il enseigne aux\nhommes la beauté de la tristesse, la douleur et la\njoie.",
+        "Il dort au fond d’un lac. On dit que son esprit\nabandonne son corps pour voler à sa surface.",
+        "On l’appelle « être de l’émotion ». Il enseigne aux hommes\nla beauté de la tristesse, la douleur et la joie.",
+        "Il dort au fond d’un lac. On dit que son esprit abandonne\nson corps pour voler à sa surface."
+    ],
+    "height": 0.3,
+    "id": 481,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+    "name": "Créfollet",
+    "types": [
+        "Psy"
+    ],
+    "weight": 0.3
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Spara palle di fuoco di oltre 2000 °C dagli arti\nsuperiori. Vive nei crateri dei vulcani.",
+        "Spara palle di fuoco di oltre 2000 °C dagli arti\nsuperiori. L’aria che espira è incandescente.",
+        "Spara palle di fuoco di oltre 2000 °C dagli arti superiori.\nVive nei crateri dei vulcani.",
+        "Spara palle di fuoco di oltre 2000 °C dagli arti superiori.\nL’aria che espira è incandescente.",
+        "Vive nei crateri vulcanici. Sembra che in ogni\nvulcano possa abitare solo una coppia\ndi Magmortar.",
+        "Lancia palle di fuoco a 2.000 °C dagli arti\nsuperiori. Se spara colpi a raffica, i suoi arti\ncominciano a fondere alle estremità.",
+        "Ancora oggi molte fabbriche dipendono dal\nfuoco dei Magmortar nella lavorazione\ndei metalli.",
+        "Spara palle di fuoco per abbattere i nemici, ma\nnon per catturare le prede, perché altrimenti le\ncarbonizzerebbe.",
+        "Quando respira profondamente, le fiamme\nall’interno del suo ventre aumentano d’intensità,\nraggiungendo i 2.000 ºC.",
+        "Vivendo nei crateri il suo corpo è diventato\nsimile a un vulcano, sviluppando un organo\nanalogo a una camera magmatica."
+    ],
+    "height": 1.6,
+    "id": 467,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+    "name": "Magmortar",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 68.0
+}

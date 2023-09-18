@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sa liane gluante diffuse des nutriments dans les\nfleurs qu’elle happe. Ces dernières dégagent\nalors un léger parfum.",
+        "Utilisées en bain, les fleurs qui se collent sur sa\nliane possèdent des vertus relaxantes. Elles\nont déjà séduit les gens du monde entier.",
+        "Il ramasse des fleurs en déployant la liane\ngluante accrochée à sa tête et s’en agrémente.\nIl se sent mal à l’aise lorsqu’il n’en a pas.",
+        "Il cueille des fleurs qu’il colle sur son corps\ngrâce à ses fluides corporels. Le parfum qui\némane de ses pétales a des vertus apaisantes.",
+        "Il orne son corps de fleurs qu’il cueille avec\nsa liane. Mystérieusement, celles-ci ne se\nfanent jamais.",
+        "Ce Pokémon dégage un parfum agréable\nqui varie d’un spécimen à l’autre, car chaque\nGuérilande s’habille de fleurs différentes."
+    ],
+    "height": 0.1,
+    "id": 764,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+    "name": "Guérilande",
+    "types": [
+        "Fée"
+    ],
+    "weight": 0.3
+}

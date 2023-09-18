@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "なぞに　つつまれた　ＵＢの　いっしゅ。\nまちゆく　ひとが　きせいされ\nあばれだす　すがたが　もくげきされた。",
+        "ＵＢの　いっしゅ。　いしが　あるかは\nふめいだが　ときおり　しょうじょの\nような　しぐさを　みせる。",
+        "ＵＢと　よばれる　べつせかいの\nせいめいたい。　つよい　しんけいどくを\nもっていると　かんがえられる。",
+        "ウルトラホールから　このせかいに\nあらわれた。　ポケモンや　にんげんに\nきせいして　いきているようだ。"
+    ],
+    "height": 1.2,
+    "id": 793,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+    "name": "ウツロイド",
+    "types": [
+        "いわ",
+        "どく"
+    ],
+    "weight": 55.5
+}

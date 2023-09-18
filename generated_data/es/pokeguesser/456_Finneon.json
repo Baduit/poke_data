@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "La línea que le recorre el costado puede almacenar\nluz solar. Brilla con mucha fuerza por la noche.",
+        "Si se expone mucho al sol, los dibujos de sus aletas\nbrillan en la oscuridad.",
+        "La línea que le recorre el costado puede almacenar luz solar.\nBrilla con mucha fuerza por la noche.",
+        "Si se expone mucho al sol, los dibujos de sus aletas brillan\nen la oscuridad.",
+        "Las marcas rosadas de su piel brillan con\nintensidad tras almacenar luz solar. Se cree\nque esta característica le permite camuflarse.",
+        "Sus dos aletas le permiten saltar fuera del agua,\nmomento que aprovechan los Wingull para\nllevárselos al buche.",
+        "Las marcas rosadas de su piel brillan al caer la\nnoche. Triunfa entre los buceadores, por eso en\nlos resorts turísticos le proporcionan alimento.",
+        "Por el día permanece cerca de la superficie y se\nretira a las profundidades por la noche. Atrae a\nlas presas con sus brillantes aletas caudales."
+    ],
+    "height": 0.4,
+    "id": 456,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+    "name": "Finneon",
+    "types": [
+        "Agua"
+    ],
+    "weight": 7.0
+}

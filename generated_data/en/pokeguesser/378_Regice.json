@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "REGICE’s body was made during an ice\nage. The deep-frozen body can’t be\nmelted, even by fire.\fThis POKéMON controls frigid air of\nminus 328 degrees F.",
+        "REGICE cloaks itself with frigid air of\nnegative 328 degrees F.\nThings will freeze solid just by going\fnear this POKéMON.\nIts icy body is so cold, it will not melt\neven if it is immersed in magma.",
+        "Its entire body is made of Antarctic ice.\nAfter extensive studies, researchers\nbelieve the ice was formed during an\nice age.",
+        "Research revealed that its body is made\nof the same kind of ice that is found at\nthe South Pole.",
+        "Research revealed that its body is made\nof the same kind of ice that is found at\nthe South Pole.",
+        "Its body is made of ice from the\nice age. It controls frigid air of\n-328 degrees Fahrenheit.",
+        "Its body is made of ice from the\nice age. It controls frigid air of\n-328 degrees Fahrenheit.",
+        "Its body is made of ice from the\nice age. It controls frigid air of\n-328 degrees Fahrenheit.",
+        "It is said to have slept in a glacier\nfor thousands of years. Its body\ncan’t be melted, even by magma.",
+        "It is said to have slept in a glacier\nfor thousands of years. Its body\ncan’t be melted, even by magma.",
+        "Its body is made of ice from the\nice age. It controls frigid air of\n-328 degrees Fahrenheit.",
+        "Its body is made of ice from the\nice age. It controls frigid air of\n-328 degrees Fahrenheit.",
+        "Its body is made of ice from the\nice age. It controls frigid air of\n-328 degrees Fahrenheit.",
+        "Its body is made of ice from the\nice age. It controls frigid air of\n-328 degrees Fahrenheit.",
+        "It is said to have slept in a glacier for thousands of\nyears. Its body can’t be melted, even by magma.",
+        "Its body is made of ice from the ice age. It controls\nfrigid air of -328 degrees Fahrenheit.",
+        "Regice’s body was made during an ice age. The deep-frozen\nbody can’t be melted, even by fire. This Pokémon controls\nfrigid air of -328 degrees Fahrenheit.",
+        "Regice cloaks itself with frigid air of -328 degrees Fahrenheit.\nThings will freeze solid just by going near this Pokémon.\nIts icy body is so cold, it will not melt even if it is immersed\nin magma.",
+        "With cold air that can reach temperatures as low\nas −328 degrees Fahrenheit, Regice instantly\nfreezes any creature that approaches it.",
+        "This Pokémon’s body is made of solid ice. It’s\nsaid that Regice was born beneath thick ice in\nthe ice age."
+    ],
+    "height": 1.8,
+    "id": 378,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "name": "Regice",
+    "types": [
+        "Ice"
+    ],
+    "weight": 175.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il suo corpo è ricoperto da una pellicola viscida,\nche gli permette di sgusciare via, se afferrato.",
+        "I suoi baffi sono un eccellente radar. Possono\nlocalizzare le prede persino nelle acque più torbide.",
+        "I sensibili baffi di Barboach fungono da sistema radar\nprecisissimo. Il Pokémon vive nel fango, lasciando\nesposti soltanto i due baffi mentre attende pazientemente\nche si avvicini la preda.",
+        "Il corpo di Barboach è coperto da una pellicola viscida.\nSe un nemico cerca di afferrarlo, il Pokémon gli scivola\nvia dalle grinfie. Se la pellicola viscida si secca, Barboach\nsi indebolisce.",
+        "I suoi baffi sono un radar sensibilissimo, in grado\ndi individuare la preda persino nelle acque\npiù torbide.",
+        "Il suo corpo viscido è così difficile da afferrare\nche nelle feste popolari si fa a gara a chi riesce\na prenderne di più a mani nude.",
+        "Grazie al corpo viscido, riesce a sgusciare via\ndalla presa dei Pokémon alati e fuggire.",
+        "I suoi baffi sono ricchi di terminazioni nervose e\npercepiscono odori e sapori come il naso e la\nlingua nell’essere umano.",
+        "Ha un corpo viscido e difficile da afferrare.\nIn una regione si dice che sia nato da fango\nindurito.",
+        "Si serve dei lunghi baffi per saggiare i letti\nfangosi dei fiumi. Ha il corpo protetto da\nuna membrana viscida."
+    ],
+    "height": 0.4,
+    "id": 339,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "name": "Barboach",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 1.9
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "La luce lunare ha mutato la struttura genetica di\nEevee. Si cela nel buio in attesa della preda.",
+        "Quando è esposto alla luce lunare i cerchi sul suo\ncorpo brillano e si carica di uno strano potere.",
+        "Umbreon si è evoluto grazie all’esposizione alle onde lunari.\nRimane nascosto silenzioso nell’oscurità in attesa di un\nmovimento del suo nemico. I cerchi sul corpo brillano\ndurante l’attacco.",
+        "Umbreon si è evoluto grazie all’esposizione alle onde lunari.\nRimane nascosto silenzioso nell’oscurità in attesa di un\nmovimento del suo nemico. I cerchi sul corpo brillano\ndurante l’attacco.",
+        "Quando si arrabbia, spruzza dai pori un\nsudore velenoso direttamente sugli occhi\ndel nemico.",
+        "Si nasconde nell’oscurità grazie al colore del\nsuo pelo. Quando meno se l’aspetta, assale\nla preda puntando alla gola.",
+        "È un Pokémon notturno. Le sue grandi pupille\ngli permettono di vedere chiaramente le prede\nanche nell’oscurità più profonda.",
+        "Resta nascosto nell’oscurità in attesa della\npreda. Nell’istante in cui attacca, i cerchi che ha\nsul corpo brillano di una fioca luce misteriosa.",
+        "Quando si arrabbia, spruzza dai pori un sudore\nvelenoso mirando agli occhi del suo avversario.",
+        "I cerchi sul corpo emettono un bagliore giallo\nquando è agitato o nelle notti di luna piena."
+    ],
+    "height": 1.0,
+    "id": 197,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "name": "Umbreon",
+    "types": [
+        "Buio"
+    ],
+    "weight": 27.0
+}

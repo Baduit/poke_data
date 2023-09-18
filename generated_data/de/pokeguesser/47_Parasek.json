@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Parasek wird von einem Pilz, der größer als das\nPokémon ist, kontrolliert. Er gibt Giftsporen ab.",
+        "Je größer der Pilz auf seinem Rücken wird, desto\nstärker werden auch die Sporen, die es verteilt.",
+        "Parasek sucht große Bäume heim und entzieht Nährstoffe aus\nStamm und Wurzeln. Wenn ein befallener Baum stirbt, sucht es\nsich zusammen mit seinen Artgenossen einen neuen Wirt.",
+        "Parasek sucht große Bäume heim und entzieht Nährstoffe aus\nStamm und Wurzeln. Wenn ein befallener Baum stirbt, sucht es\nsich zusammen mit seinen Artgenossen einen neuen Wirt.",
+        "Parasek wird von dem Pilz auf seinen Rücken\nkontrolliert. Es ist oft mit Lamellux in\nRevierstreitigkeiten verstrickt.",
+        "Der Pilz auf seinem Rücken stößt Giftsporen\naus. Kocht man ihn ab, lässt er sich als\nnatürliches Heilmittel verwerten.",
+        "Der Pilz auf seinem Rücken ist sein wichtigstes\nKörperteil. Der Rest ist quasi leblos und kann\nsich ohne den Pilz nicht bewegen.",
+        "Seine Giftsporen werden als natürliches\nHeilmittel verwendet, doch bei Parasek aus\nAlola ist die Qualität etwas minderwertig.",
+        "Der Pilz auf Paraseks Rücken nutzt das Pokémon\nals Wirt und entzieht ihm Energie. Es scheint,\nals habe er die Kontrolle über das Pokémon.",
+        "Der Pilz auf Paraseks Rücken nutzt das Pokémon\nals Wirt und entzieht ihm Energie. Es scheint,\nals habe er die Kontrolle über das Pokémon."
+    ],
+    "height": 1.0,
+    "id": 47,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "name": "Parasek",
+    "types": [
+        "Käfer",
+        "Pflanze"
+    ],
+    "weight": 29.5
+}

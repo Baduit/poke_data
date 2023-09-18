@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es muss Dinge, die sich bewegen, einfach jagen.\nEs rennt oft im Kreis und jagt seinen eigenen Schweif.",
+        "Es zeigt gerne seine niedliche Seite, indem es seinen\neigenen Schweif jagt, bis ihm schwindlig wird.",
+        "Eneco ist fasziniert von Dingen, die sich bewegen, und jagt\nihnen hinterher. Dieses Pokémon jagt häufig seinen eigenen\nSchweif, sodass ihm schwindlig wird.",
+        "Eneco jagt spielerisch seinen eigenen Schweif. In der Wildnis\nlebt dieses Pokémon in den Löchern von Bäumen. Es ist als\nHaustier sehr beliebt, da es bezaubernd aussieht."
+    ],
+    "height": 0.6,
+    "id": 300,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "name": "Eneco",
+    "types": [
+        "Normal"
+    ],
+    "weight": 11.0
+}

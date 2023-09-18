@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "會以驚人的氣勢在地底下\n鑽洞尋找獵物。經過後留下的\n隧道會成為地鼠的巢穴。",
+        "會以驚人的氣勢在地底下\n鑽洞尋找獵物。經過後留下的\n隧道會成為地鼠的巢穴。",
+        "會一邊在地底挖掘前進，\n一邊吸收各種堅硬的物體，\n藉此讓身體變得更加結實。",
+        "彎曲扭動巨大結實的身體，\n以時速８０公里的\n猛烈勢頭挖掘前進。"
+    ],
+    "height": 8.8,
+    "id": 95,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "name": "大岩蛇",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 210.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "還未能熟練地操縱電力。\n有時候稍不留神就會被\n自己的電麻痺到。",
+        "雖然很可愛，但如果一起生活的話，\n就必須有隨時被電擊電得麻麻的覺悟。",
+        "還不擅長運用電力，\n一旦吃驚或是情緒高漲\n就會馬上開始放電。",
+        "臉頰上有電力囊。\n當電力充飽的時候，\n會活力十足地四處玩耍。",
+        "身形小巧，卻能夠釋放出\n足以讓成年人麻痺的電擊，\n但是連牠自己也會嚇一跳。",
+        "臉頰上的電囊還很小，\n如果囊裡的電太多了，\n就會漏出來電到自己。"
+    ],
+    "height": 0.3,
+    "id": 172,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "name": "皮丘",
+    "types": [
+        "電"
+    ],
+    "weight": 2.0
+}

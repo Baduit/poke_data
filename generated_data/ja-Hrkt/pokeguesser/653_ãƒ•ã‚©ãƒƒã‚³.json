@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "こえだを　たべると　げんきになって\nせっし２００どを　こえる　ねっきを\nおおきな　みみから　ふきだす。",
+        "こえだを　もちあるき　おやつがわりに\nポリポリ　たべる。みみから　ねっきを\nふきだして　あいてを　いかくする。",
+        "こえだを　たべると　げんきになって\nせっし２００どを　こえる　ねっきを\nおおきな　みみから　ふきだす。",
+        "こえだを　もちあるき　おやつがわりに\nポリポリ　たべる。みみから　ねっきを\nふきだして　あいてを　いかくする。"
+    ],
+    "height": 0.4,
+    "id": 653,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "name": "フォッコ",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 9.4
+}

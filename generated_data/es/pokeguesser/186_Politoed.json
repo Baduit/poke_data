@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Cuando tres o más de estos se juntan, emiten un\nsonido muy fuerte parecido a un bramido.",
+        "Si Poliwag y Poliwhirl oyen su llanto, acudirán de\ntodas partes para consolarlo.",
+        "El mechón rizado de Politoed confirma su condición de rey.\nDicen que cuanto más le crece y más se le riza, mayor es el\nrespeto que recibe de sus súbditos.",
+        "El mechón rizado de Politoed confirma su condición de rey.\nDicen que cuanto más le crece y más se le riza, mayor es el\nrespeto que recibe de sus súbditos.",
+        "Se reúnen bajo la luz de la luna para cantar a\ncoro. No es la más bonita de las melodías, pues\nparecen estar enfadados, pero tiene su encanto.",
+        "Lidera a Poliwag y a Poliwhirl. Cuando Politoed\nemite un bramido, todos se esconden en el acto\nasustados.",
+        "A pesar de lo discordante de sus gritos, un\nautor se inspiró en ellos para componer una\nhermosa balada.",
+        "Cuanto más largo y magnífico sea el rizo que\nluce en la cabeza, más Poliwag y Poliwhirl se\nsometerán a su mandato.",
+        "Aparece a orillas de las charcas al caer la noche.\nReclama su territorio profiriendo un fuerte grito\nque recuerda a un bramido.",
+        "Los machos emiten gritos muy potentes. Las\nhembras sienten predilección por los de voz\ngrave e imponente."
+    ],
+    "height": 1.1,
+    "id": 186,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "name": "Politoed",
+    "types": [
+        "Agua"
+    ],
+    "weight": 33.9
+}

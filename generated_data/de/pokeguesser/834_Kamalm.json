@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Dieses von Natur aus aggressive Pokémon beißt\nseine Beute mit seinem kräftigen Kiefer, der\nselbst Eisenstangen zermalmen kann.",
+        "Sein streckbarer Hals ermöglicht es ihm, auch\nentfernte Gegner zu erreichen, die es dann mit\nseinen scharfen Zähnen ausschaltet."
+    ],
+    "height": 1.0,
+    "id": 834,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "name": "Kamalm",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 115.5
+}

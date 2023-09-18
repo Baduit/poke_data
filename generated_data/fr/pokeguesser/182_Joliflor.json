@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "À la fin de la saison des pluies,\nil sort danser en plein air,\nattiré par la chaleur du soleil.",
+        "À la fin de la saison des pluies,\nil sort danser en plein air,\nattiré par la chaleur du soleil.",
+        "Les Joliflor se réunissent souvent pour danser.\nOn pense que c’est un rituel pour appeler le soleil.",
+        "À la fin de la saison des pluies, il sort danser en plein\nair, attiré par la chaleur du soleil.",
+        "Lorsque Joliflor reste exposé à la lumière du soleil, les feuilles\nautour de son corps se mettent à tournoyer. La danse de ce\nPokémon est très célèbre dans les régions du sud.",
+        "Les fleurs de Joliflor sont encore plus jolies s’il s’agit\nd’une évolution d’un Ortide qui sentait vraiment très mauvais.\nLa nuit, ce Pokémon ferme ses pétales pour dormir.",
+        "Ce Pokémon vit en nombre dans les tropiques.\nQuand il danse, ses pétales frottent les uns\ncontre les autres et émettent un son mélodieux.",
+        "Les Joliflor se réunissent parfois pour danser.\nOn pense que c’est un rituel pour invoquer\nle soleil."
+    ],
+    "height": 0.4,
+    "id": 182,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "name": "Joliflor",
+    "types": [
+        "Plante"
+    ],
+    "weight": 5.8
+}

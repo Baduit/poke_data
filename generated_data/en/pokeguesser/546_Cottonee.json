@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "When attacked, it escapes by shooting\ncotton from its body. The cotton serves\nas a decoy to distract the attacker.",
+        "They go wherever the wind takes them.\nOn rainy days, their bodies are heavier,\nso they take shelter beneath big trees.",
+        "Perhaps because they feel more at ease\nin a group, they stick to others they\nfind. They end up looking like a cloud.",
+        "Perhaps because they feel more at ease\nin a group, they stick to others they\nfind. They end up looking like a cloud.",
+        "When attacked, it escapes by shooting cotton from\nits body. The cotton serves as a decoy to distract\nthe attacker.",
+        "Perhaps because they feel more at ease in a group,\nthey stick to others they find. They end up looking\nlike a cloud.",
+        "When attacked, it escapes by shooting cotton from\nits body. The cotton serves as a decoy to distract\nthe attacker.",
+        "Perhaps because they feel more at ease in a group,\nthey stick to others they find. They end up looking\nlike a cloud.",
+        "When it finds others of its kind, they all stick\ntogether. When enough of them have collected,\nthe mass resembles a cumulonimbus cloud.",
+        "Pillows and beds stuffed with cotton exhaled\nby Cottonee are soft and puffy, light and airy—\naltogether top quality.",
+        "To protect itself, it shoots cotton from its body.\nWhen it gets wet in the rain, its cotton grows\nmoist and heavy, and it can’t move as well.",
+        "When attacked, it expels cotton from its\nbody to create a diversion. The cotton it loses\ngrows back in quickly.",
+        "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth.",
+        "Weaving together the cotton of both Cottonee\nand Eldegoss produces exquisite cloth that’s\nhighly prized by many luxury brands."
+    ],
+    "height": 0.3,
+    "id": 546,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "name": "Cottonee",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "weight": 0.6
+}

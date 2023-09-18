@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "평상시는 깊은 산속에서 수행한다.\n명상을 하고 정신력을\n높이면 몸이 떠오른다.",
+        "하루에 하나만 나무열매를 먹는다.\n배고픔을 참는 것으로\n마음을 갈고 닦아간다.",
+        "산속에서 요가 수행을 한다.\n명상을 하고 있어도 집중력이\n떨어지기 때문에 수행이 끝나지 않는다.",
+        "명상으로 정신 에너지를 높이고 있다.\n하루에 나무열매를 한 개만 먹는다.\n별로 먹지 않는 것도 수행의 하나다."
+    ],
+    "height": 0.6,
+    "id": 307,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "name": "요가랑",
+    "types": [
+        "격투",
+        "에스퍼"
+    ],
+    "weight": 11.2
+}

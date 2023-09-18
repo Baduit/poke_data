@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sfrega il muso sul terreno per scovare del cibo.\nTalvolta scopre sorgenti d’acqua calda.",
+        "Appena avverte un profumo invitante, cerca subito\ndi capire la provenienza di quell’odore.",
+        "Swinub cerca il proprio nutrimento strofinando il muso\nsul terreno. È ghiotto dei funghi che crescono sotto\nla coltre di erba e fogliame rinsecchito.\nTalvolta scova qualche sorgente termale.",
+        "Swinub cerca il proprio nutrimento strofinando il muso\nsul terreno. È ghiotto dei funghi che crescono sotto\nla coltre di erba e fogliame rinsecchito.\nTalvolta scova qualche sorgente termale.",
+        "Scava con il muso nel terreno per scovare del\ncibo. Talvolta scopre sorgenti d’acqua calda.",
+        "Appena avverte un profumo invitante, si fionda\nnella direzione da cui proviene senza la minima\nesitazione."
+    ],
+    "height": 0.4,
+    "id": 220,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+    "name": "Swinub",
+    "types": [
+        "Ghiaccio",
+        "Terra"
+    ],
+    "weight": 6.5
+}

@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "To shelter itself from cold, wintry\nwinds, it covers itself with a cloak\nmade of twigs and leaves.",
+        "If its cloak is broken in battle,\nit quickly remakes the cloak with\nmaterials nearby.",
+        "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak.",
+        "It covers itself with a cloak to\nshelter from the cold. When it’s\nhot, its cloak is thinner.",
+        "It covers itself with a cloak to\nshelter from the cold. When it’s\nhot, its cloak is thinner.",
+        "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak.",
+        "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak.",
+        "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak.",
+        "Even if it is born where there are\nno cocooning materials, it somehow\nalways ends up with a cloak.",
+        "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
+        "If its cloak is broken in battle, it quickly remakes\nthe cloak with materials nearby.",
+        "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
+        "If its cloak is broken in battle, it quickly remakes\nthe cloak with materials nearby.",
+        "If its cloak is even slightly damaged, Burmy will immediately\nrepair it with whatever is close at hand. The Pokémon within the\ncloak is scrawny and vulnerable to the cold."
+    ],
+    "height": 0.2,
+    "id": 412,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+    "name": "Burmy",
+    "types": [
+        "Bug"
+    ],
+    "weight": 3.4
+}

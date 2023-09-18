@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Tende trappole con fili elettrificati. Consuma poi\ncon comodo le prede immobilizzate dalla scarica\nelettrica.",
+        "Quando viene attaccato, espelle una rete di fili\nelettrificati per formare una barriera elettrica.",
+        "Tende trappole con fili elettrificati. Consuma poi con comodo\nle prede immobilizzate dalla scarica elettrica.",
+        "Quando viene attaccato, espelle una rete di fili elettrificati\nper formare una barriera elettrica.",
+        "Attacca lanciando peli carichi di elettricità\ndall’addome. Chi viene colpito rimane\nparalizzato per tre giorni interi.",
+        "Tesse trappole di fili elettrizzati vicino ai nidi\ndi Pokémon alati per catturare i piccoli che\nnon sanno ancora volare."
+    ],
+    "height": 0.8,
+    "id": 596,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "name": "Galvantula",
+    "types": [
+        "Coleottero",
+        "Elettro"
+    ],
+    "weight": 14.3
+}

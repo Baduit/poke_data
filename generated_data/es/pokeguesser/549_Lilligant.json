@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "El aroma de la flor de su tocado relaja a cualquiera a\nsu alrededor. Hay que cuidarle mucho para que no se\nmarchite.",
+        "Todos los famosos quieren uno de estos Pokémon.\nIncluso a los Entrenadores más curtidos les cuesta\nque florezca.",
+        "El aroma de la flor de su tocado relaja a cualquiera a su\nalrededor. Hay que cuidarle mucho para que no se marchite.",
+        "Todos los famosos quieren uno de estos Pokémon. Incluso\na los Entrenadores más curtidos les cuesta que florezca.",
+        "Por muchos esfuerzos o dinero que destine la\ngente para hacerla florecer, siempre es más\nbella la flor que brota en un ejemplar salvaje.",
+        "Nada más encontrar un compañero, su bella flor\ncomienza a languidecer y poco a poco se va\nmarchitando sin remedio.",
+        "El olor que desprende su flor varía en función\nde la composición de la tierra en la que crezca.\nSu aroma calma los nervios y sosiega el alma.",
+        "Su belleza fascina a otros Pokémon. La flor de la\ncabeza se marchita enseguida si no se le presta\nel cuidado necesario.",
+        "Se dice que conseguir que la flor de su cabeza\nflorezca es una empresa titánica incluso para los\nmejores jardineros.",
+        "El aceite esencial que se extrae de su flor emana\nun aroma sublime, aunque su precio resulta\ndesorbitado."
+    ],
+    "height": 1.1,
+    "id": 549,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+    "name": "Lilligant",
+    "types": [
+        "Planta"
+    ],
+    "weight": 16.3
+}

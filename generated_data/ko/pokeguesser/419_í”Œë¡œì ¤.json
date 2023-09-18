@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "발달한 부낭으로 뜬다.\n물에 빠진 사람을 구조하는 것을\n돕는 포켓몬이다.",
+        "수중의 먹이를 쫓아가는\n사이에 부낭이 발달했다.\n고무보트처럼 사람을 태운다.",
+        "발달한 부낭으로 뜬다.\n물에 빠진 사람을 구조하는 것을\n돕는 포켓몬이다.",
+        "수중의 먹이를 쫓아가는\n사이에 부낭이 발달했다.\n고무보트처럼 사람을 태운다."
+    ],
+    "height": 1.1,
+    "id": 419,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "name": "플로젤",
+    "types": [
+        "물"
+    ],
+    "weight": 33.5
+}

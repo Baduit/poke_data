@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Nel suo nucleo brillano i sette colori dell’arcobaleno.\nQualcuno lo considera una pietra preziosa.",
+        "Al centro del corpo ha un nucleo rosso che diffonde\nmisteriosi segnali radio nel cielo notturno.",
+        "Il centro del corpo di Starmie, il suo nucleo, brilla in sette\ncolori. Per la sua luminosità è chiamato “Gemma del mare”.",
+        "Starmie nuota roteando vorticosamente il corpo a stella come\nfosse l’elica di una nave. Il suo nucleo brilla in sette diversi\ncolori.",
+        "Si dice che il suo nucleo brillante emetta e riceva\nmisteriosi segnali radio.\nStargli vicino può far venire mal di testa.",
+        "A causa dell’insolita forma del suo corpo, che\nmolti definiscono astratta, gira voce che si\ntratti di un invasore alieno.",
+        "Con il suo nucleo brillante, chiamato\n“gemma del mare”, si producono preziosi\naccessori che vengono poi venduti di nascosto.",
+        "Nuota ruotando il suo corpo geometrico.\nSembra che emetta costantemente dei\nmisteriosi segnali radio.",
+        "La parte centrale, chiamata nucleo, riluce dei\nsette colori dell’arcobaleno. Si dice che lo usi\nper comunicare.",
+        "La parte centrale, chiamata nucleo, riluce dei\nsette colori dell’arcobaleno. Si dice che lo usi\nper comunicare.",
+        "Quando scatena i suoi poteri psichici, l’organo\ncentrale, detto nucleo, brilla di sette colori\ndiversi.",
+        "Risucchia il plancton mentre nuota nel mare\nfacendo ruotare il suo corpo ad alta velocità."
+    ],
+    "height": 1.1,
+    "id": 121,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "name": "Starmie",
+    "types": [
+        "Acqua",
+        "Psico"
+    ],
+    "weight": 80.0
+}

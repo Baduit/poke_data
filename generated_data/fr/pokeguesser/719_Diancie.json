@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ce Pokémon est une mutation spontanée de Strassie.\nSon corps rose et luisant est d’une beauté\nincomparable.",
+        "Il peut créer une multitude de diamants en un instant\nen serrant ses mains, simplement en compressant\nles molécules de carbone contenues dans l’air.",
+        "Ce Pokémon est une mutation spontanée de Strassie.\nSon corps rose et luisant est d’une beauté incomparable.",
+        "Il peut créer une multitude de diamants en un instant\nen serrant ses mains, simplement en compressant\nles molécules de carbone contenues dans l’air."
+    ],
+    "height": 0.7,
+    "id": 719,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+    "name": "Diancie",
+    "types": [
+        "Roche",
+        "Fée"
+    ],
+    "weight": 8.8
+}

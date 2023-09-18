@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Fa a pezzi il nemico colpendolo prima con le sue\ntre antenne e poi sparandogli addosso i suoi aculei.",
+        "Si appende al soffitto delle grotte e attacca le prede\nche passano al di sotto lanciando i suoi aculei di ferro.",
+        "Fa a pezzi il nemico colpendolo prima con le sue tre antenne\ne poi sparandogli addosso i suoi aculei.",
+        "Si appende al soffitto delle grotte e attacca le prede che\npassano al di sotto lanciando i suoi aculei di ferro.",
+        "Scalfisce gli strati rocciosi con i suoi aculei\ne utilizza le estremità delle sue antenne per\nestrarne gli elementi di cui si nutre.",
+        "I suoi aculei sono più duri dell’acciaio.\nQuelli che ha sulle antenne gli permettono di\nfar presa sulle pareti rocciose per spostarsi."
+    ],
+    "height": 1.0,
+    "id": 598,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "name": "Ferrothorn",
+    "types": [
+        "Erba",
+        "Acciaio"
+    ],
+    "weight": 110.0
+}

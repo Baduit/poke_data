@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il adore le nectar des fleurs mais\nn’en récolte pas lui-même.\nIl préfère en voler à un Apitrini.",
+        "Il adore le nectar des fleurs mais\nn’en récolte pas lui-même.\nIl préfère en voler à un Apitrini.",
+        "Il aime le nectar des fleurs et n’hésite pas à voler\ncelui que récupère Apitrini.",
+        "Ce Pokémon s’active à la nuit tombée pour voler\nle miel des Apitrini pendant leur sommeil.",
+        "Il aime le nectar des fleurs et n’hésite pas à voler\ncelui que récupère Apitrini.",
+        "Ce Pokémon s’active à la nuit tombée pour voler le miel\ndes Apitrini pendant leur sommeil."
+    ],
+    "height": 0.9,
+    "id": 414,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "name": "Papilord",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 23.3
+}

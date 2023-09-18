@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "堅硬的鱗片包裹著牠\n強壯的身體。這些鱗片\n似乎會不斷生長替換。",
+        "堅硬的鱗片包裹著牠\n強壯的身體。這些鱗片\n似乎會不斷生長替換。",
+        "比起攻擊更擅於防守。\n會用像鎧甲般的堅硬鱗片\n保護孩子不被任何攻擊傷害。",
+        "會把孩子放在背上的\n刺與刺之間來哄牠們。\n這時候絕對不會釋放毒素。"
+    ],
+    "height": 1.3,
+    "id": 31,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "name": "尼多后",
+    "types": [
+        "毒",
+        "地面"
+    ],
+    "weight": 60.0
+}

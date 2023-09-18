@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Se emette un verso profondo, molti Murkrow\naccorrono all’istante. È detto “Evocatore della notte”.",
+        "Diventa attivo di notte e lo si vede spesso in\ncompagnia di numerosi Murkrow.",
+        "Se emette un verso profondo, molti Murkrow accorrono\nall’istante. È detto “Evocatore della notte”.",
+        "Diventa attivo di notte e lo si vede spesso in compagnia\ndi numerosi Murkrow.",
+        "È un Pokémon notturno. Basta un suo solo\nverso per far accorrere all’istante centinaia di\nMurkrow suoi seguaci.",
+        "Se uno dei Murkrow suoi seguaci non riesce\na catturare la preda o tradisce la sua fiducia,\nHonchkrow lo insegue ovunque per punirlo.",
+        "Non perdona niente ai suoi seguaci, dai\ntradimenti ai più piccoli errori. Non c’è altro\nmodo per mantenere la disciplina nel gruppo.",
+        "Lascia che siano i suoi seguaci a lottare contro\nil nemico e si scomoda solo per assestare\nil colpo di grazia."
+    ],
+    "height": 0.9,
+    "id": 430,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "name": "Honchkrow",
+    "types": [
+        "Buio",
+        "Volante"
+    ],
+    "weight": 27.3
+}

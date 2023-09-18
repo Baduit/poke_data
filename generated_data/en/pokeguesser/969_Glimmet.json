@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+        "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+    ],
+    "height": 0.7,
+    "id": 969,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+    "name": "Glimmet",
+    "types": [
+        "Rock",
+        "Poison"
+    ],
+    "weight": 8.0
+}

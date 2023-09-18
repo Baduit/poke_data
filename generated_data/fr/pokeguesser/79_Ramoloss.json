@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "Bien que lent, c’est un pêcheur\nadroit qui utilise sa queue. Elle\nest insensible aux morsures.",
+        "Bien que lent, c’est un pêcheur\nadroit qui utilise sa queue. Elle\nest insensible aux morsures.",
+        "Ramoloss semble toujours perdu dans ses pensées,\nmais personne ne sait vraiment à quoi il pense.\nIl adore pêcher en utilisant sa queue.",
+        "Il est tellement paresseux qu’il lui faut une journée\npour remarquer qu’on lui mord la queue.",
+        "Ramoloss trempe sa queue dans l’eau au bord des rivières\npour attraper ses proies. Cependant, ce Pokémon oublie\nsouvent ce qu’il fait là et passe des jours entiers à traîner\nau bord de l’eau.",
+        "Ramoloss trempe sa queue dans l’eau au bord des rivières\npour attraper ses proies. Cependant, ce Pokémon oublie\nsouvent ce qu’il fait là et passe des jours entiers à traîner\nau bord de l’eau.",
+        "Souvent, sa longue queue se coupe toute seule.\nCela ne lui cause aucune douleur et une autre\npousse aussitôt, donc il n’y a pas à s’en faire.",
+        "Une recette traditionnelle d’Alola consiste à\nfaire sécher des queues de Ramoloss puis à\nles faire bouillir dans de l’eau salée.",
+        "Ce Pokémon, vénéré et considéré comme un\ndevin dans certaines régions, a donné naissance\nau dicton : Ramoloss a bâillé, attention à l’ondée.",
+        "Les queues de Ramoloss parfois retrouvées\ndans la nature étaient un ingrédient de cuisine\nparticulièrement prisé.",
+        "Lent et stupide, il aime se la couler douce\nsans se soucier du temps qui passe.",
+        "Lent et stupide, il aime se la couler douce\nsans se soucier du temps qui passe.",
+        "Il est si bête et si lent qu’il n’a pas mal lorsqu’on\nmange un morceau de sa queue. Il ne remarque\nmême pas quand elle repousse.",
+        "Lorsqu’il trempe le bout de sa queue dans l’eau,\nune substance sucrée s’en dégage. Il s’en sert\npour appâter ses proies quand il pêche."
+    ],
+    "height": 1.2,
+    "id": 79,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "name": "Ramoloss",
+    "types": [
+        "Eau",
+        "Psy"
+    ],
+    "weight": 36.0
+}

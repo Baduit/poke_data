@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il fait de son mieux pour avoir un air patibulaire,\nmais il sourit béatement dès qu’on lui caresse la tête.",
+        "Il fait son possible pour intimider ses adversaires\navec un regard menaçant, mais sans succès. Il a\nl’habitude de constamment mâcher une feuille.",
+        "Il fait son possible pour intimider ses adversaires avec\nun regard menaçant, mais sans succès. Il a l’habitude\nde constamment mâcher une feuille.",
+        "Il fait de son mieux pour avoir un air patibulaire, mais il sourit\nbéatement dès qu’on lui caresse la tête.",
+        "Il grandit en copiant les poses et les mimiques\nde ce gros cador de Pandarbare, qu’il considère\ncomme son mentor.",
+        "C’est juste pour se donner un air qu’il mâche\nune feuille. Comme c’est un petit galopin,\nil est déconseillé aux Dresseurs inexpérimentés.",
+        "Il suit Pandarbare comme son ombre et\nle considère comme son chef. S’il fait\nune grosse bêtise, on lui confisque sa feuille.",
+        "Il essaie à tout prix d’intimider son adversaire.\nS’il vous fait les gros yeux, faites-lui plaisir\net prenez l’air apeuré !",
+        "C’est en copiant son mentor, Pandarbare,\nqu’il apprend toutes les ficelles du métier,\nde l’art du combat à la capture des proies.",
+        "Il dévisage toujours ses adversaires d’un air\nrenfrogné pour être pris au sérieux, mais dès que\nla tension retombe, son sourire reprend le dessus."
+    ],
+    "height": 0.6,
+    "id": 674,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "name": "Pandespiègle",
+    "types": [
+        "Combat"
+    ],
+    "weight": 8.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Recubre su cuerpo de una película viscosa que le\npermite escapar si alguien lo agarra.",
+        "Sus bigotes le sirven de radar para localizar a sus\npresas, incluso en las aguas más turbias.",
+        "Barboach tiene unos bigotes sensibles que le sirven de\ninfalible radar. Este Pokémon se sumerge en lodo y solo deja\nlos bigotes por fuera de la superficie, al acecho, mientras\nespera a que llegue su presa.",
+        "Barboach está completamente recubierto por una película\nviscosa. Si lo atrapan, puede escurrirse fácilmente. Si se le\nseca la capa viscosa, este Pokémon se debilitará.",
+        "Sus bigotes son muy sensibles y le sirven de\nradar. Puede detectar la posición de su presa\nincluso en el agua turbia de los lodazales.",
+        "Su cuerpo es tan escurridizo que incluso hay\ncompeticiones para ver cuántas veces puede\nser agarrado con las manos desnudas.",
+        "Su cuerpo viscoso y resbaladizo le permite\nescapar indemne de las garras de los Pokémon\npájaro que intentan atraparlo.",
+        "Sus bigotes contienen terminaciones nerviosas.\nEso les permite captar olores y sabores, como\nsi fueran la nariz o la lengua de un ser humano.",
+        "Su escurridizo cuerpo es difícil de agarrar. En\ncierta región se dice que ha nacido de barro\nendurecido.",
+        "Examina los lechos lodosos de los ríos con los\nlargos bigotes que tiene. Está protegido por una\ncapa viscosa."
+    ],
+    "height": 0.4,
+    "id": 339,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "name": "Barboach",
+    "types": [
+        "Agua",
+        "Tierra"
+    ],
+    "weight": 1.9
+}

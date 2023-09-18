@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Their fluffy fur absorbs damage,\neven if they strike foes with a\nfierce headbutt.",
+        "They charge wildly and headbutt\neverything. Their headbutts have enough\ndestructive force to derail a train.",
+        "They are known to charge so wildly\nthat if a train were to enter their\nterritory, they would send it flying.",
+        "They are known to charge so wildly\nthat if a train were to enter their\nterritory, they would send it flying.",
+        "They charge wildly and headbutt everything.\nTheir headbutts have enough destructive force to\nderail a train.",
+        "Their fluffy fur absorbs damage, even if they strike\nfoes with a fierce headbutt.",
+        "They charge wildly and headbutt everything.\nTheir headbutts have enough destructive force to\nderail a train.",
+        "Their fluffy fur absorbs damage, even if they strike\nfoes with a fierce headbutt.",
+        "These Pokémon can crush a car with no more\nthan a headbutt. Bouffalant with more hair on\ntheir heads hold higher positions within the herd.",
+        "These Pokémon live in herds of about 20\nindividuals. Bouffalant that betray the herd will\nlose the hair on their heads for some reason."
+    ],
+    "height": 1.6,
+    "id": 626,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
+    "name": "Bouffalant",
+    "types": [
+        "Normal"
+    ],
+    "weight": 94.6
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Traumato versetzt Gegner in den Schlaf und frisst\nderen Träume. Von Alpträumen wird ihm aber übel.",
+        "Hast du gut geträumt und kannst dich nicht erinnern,\nhat ein Traumato deinen Traum gefressen.",
+        "Wenn dir im Schlaf die Nase juckt, ist das ein sicheres\nZeichen dafür, dass eines dieser Pokémon auf deinem\nKissen sitzt, um deinen Traum durch deine Nasenlöcher\nhindurch zu verspeisen.",
+        "Wenn dir im Schlaf die Nase juckt, ist das ein sicheres Zeichen\ndafür, dass eines dieser Pokémon über deinem Kissen\nschwebt, um deinen Traum durch deine Nasenlöcher hindurch\nzu verspeisen.",
+        "Es ernährt sich von Träumen. Man geht davon\naus, dass es von demselben Vorfahren wie\nSomniam und Somnivora abstammt.",
+        "Lustige Träume schmecken ihm am besten.\nIst man nett zu ihm, zeigt es einem ab und an\nTräume, die ihm besonders gemundet haben.",
+        "Traumato hat es auf die lustigen Träume von\nKindern abgesehen. Man sieht es daher oft in\nder Nähe von Freizeiteinrichtungen.",
+        "Traumato versetzt seine Beute in den Schlaf und\nfrisst ihre Träume. Alpträume mag es aufgrund\nihres säuerlichen Geschmacks nicht so gern.",
+        "Wenn man immer in der Nähe eines Traumato\nschläft, zeigt es einem nachts manchmal Träume,\ndie es vor langer Zeit verspeist hat.",
+        "Wenn man immer in der Nähe eines Traumato\nschläft, zeigt es einem nachts manchmal Träume,\ndie es vor langer Zeit verspeist hat."
+    ],
+    "height": 1.0,
+    "id": 96,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "name": "Traumato",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 32.4
+}

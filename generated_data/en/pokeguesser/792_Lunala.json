@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "It is said to be a female evolution of Cosmog.\nWhen its third eye activates, away it flies to\nanother world.",
+        "Said to live in another world, this Pokémon\ndevours light, drawing the moonless dark veil of\nnight over the brightness of day.",
+        "Records of it exist in writings from long, long\nago, where it was known by the name\n“the beast that calls the moon.”",
+        "It sometimes summons unknown powers and\nlife-forms here to this world from holes that\nlead to other worlds.",
+        "Known as the Beast That Calls the Moon, this\nPokémon lives by taking in any and all light and\nconverting it into its own energy.",
+        "It steals the light from its surroundings and then\nbecomes the full moon, showering its own light\nacross the night sky."
+    ],
+    "height": 4.0,
+    "id": 792,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "name": "Lunala",
+    "types": [
+        "Psychic",
+        "Ghost"
+    ],
+    "weight": 120.0
+}

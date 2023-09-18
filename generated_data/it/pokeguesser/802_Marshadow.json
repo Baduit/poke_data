@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Si nasconde nelle ombre per sfuggire alla vista\ndegli esseri viventi, e per questo si è dubitato\nper molto tempo della sua esistenza.",
+        "Si infiltra nell’ombra del nemico, copiandone\ni movimenti e la forza. È un Pokémon timido\ne insicuro.",
+        "Si infiltra nell’ombra del nemico, copiandone\ni movimenti e la forza. L’imitazione finisce per\ndiventare più forte dell’originale.",
+        "Infiltrandosi nell’ombra di Pokémon ed esseri\numani riesce a comprendere il loro stato d’animo\ne a copiarne le capacità.",
+        "Si è infiltrato nell’ombra di un maestro di arti\nmarziali e ne ha copiato i movimenti, carpendo\ncosì tutti i segreti.",
+        "A causa della sua capacità di infiltrarsi in\nqualunque ombra, per lungo tempo nessuno è\nriuscito ad avvistarlo."
+    ],
+    "height": 0.7,
+    "id": 802,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "name": "Marshadow",
+    "types": [
+        "Lotta",
+        "Spettro"
+    ],
+    "weight": 22.2
+}

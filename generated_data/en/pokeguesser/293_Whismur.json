@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "Normally, WHISMUR’s voice is very quiet -\nit is barely audible even if one is\npaying close attention.\fHowever, if this POKéMON senses danger,\nit starts crying at an earsplitting\nvolume.",
+        "WHISMUR is very timid. If it starts to\ncry loudly, it becomes startled by its\nown crying and cries even harder.\fWhen it finally stops crying, the\nPOKéMON goes to sleep, all tired out.",
+        "Its cries equal a jet plane in volume.\nIt inhales through its ear canals. Because\nof this system, it can cry continually\nwithout having to catch its breath.",
+        "It usually murmurs, but starts crying\nloudly if it senses danger. It stops when\nits ear covers are shut.",
+        "It usually murmurs, but starts crying\nloudly if it senses danger. It stops when\nits ear covers are shut.",
+        "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane.",
+        "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane.",
+        "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane.",
+        "If it senses danger, it scares\nthe foe by crying out with the\nvolume of a jet-plane engine.",
+        "If it senses danger, it scares\nthe foe by crying out with the\nvolume of a jet-plane engine.",
+        "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane.",
+        "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane.",
+        "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane.",
+        "Usually, its cries are like quiet\nmurmurs. If frightened, it shrieks\nat the same volume as a jet plane.",
+        "It usually murmurs but starts crying\nloudly if it senses danger. It stops\nwhen its ear covers are shut.",
+        "If it senses danger, it scares the foe by crying out\nwith the volume of a jet-plane engine.",
+        "Normally, Whismur’s voice is very quiet—it is barely audible\neven if one is paying close attention. However, if this Pokémon\nsenses danger, it starts crying at an earsplitting volume.",
+        "Whismur is very timid. If it starts to cry loudly, it becomes\nstartled by its own crying and cries even harder. When it finally\nstops crying, the Pokémon goes to sleep, all tired out.",
+        "The cry of a Whismur is over 100 decibels.\nIf you’re close to a Whismur when it lets out a\ncry, you’ll be stuck with an all-day headache.",
+        "When Whismur cries, the sound of its own voice\nstartles it, making the Pokémon cry even louder.\nIt cries until it’s exhausted, then it falls asleep."
+    ],
+    "height": 0.6,
+    "id": 293,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "name": "Whismur",
+    "types": [
+        "Normal"
+    ],
+    "weight": 16.3
+}

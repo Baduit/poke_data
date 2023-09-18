@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "およそ４００年前に　炭鉱で\n見つかった。　体の　ほとんどが\n石炭と　同じ　成分。",
+        "岩だらけの　悪路を　ものともせず\n一輪車のように　走りまわる。\n石炭を　燃やして　生きている。"
+    ],
+    "height": 0.3,
+    "id": 837,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "name": "タンドン",
+    "types": [
+        "いわ"
+    ],
+    "weight": 12.0
+}

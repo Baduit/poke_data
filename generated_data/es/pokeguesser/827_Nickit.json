@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Se sustenta con el alimento que roba a otros\nPokémon. Las almohadillas de sus patas son tan\nblandas que no hace ningún ruido al caminar.",
+        "Prudente y astuto, borra con la cola las huellas\nque deja al huir tras robarle el alimento a otro\nPokémon."
+    ],
+    "height": 0.6,
+    "id": 827,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+    "name": "Nickit",
+    "types": [
+        "Siniestro"
+    ],
+    "weight": 8.9
+}

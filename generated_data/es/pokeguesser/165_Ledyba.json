@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cuando llega el frío, se reúnen muchos Ledyba de\ntodas partes para darse calor.",
+        "Es muy tímido y se refugia con los de su especie.\nAl caminar, deja una estela que indica dónde está.",
+        "Ledyba segrega un fluido aromático por los seis puntos de\nunión que tiene entre las patas y el cuerpo. A través de este\nfluido se comunica con otros y les informa acerca de sus\nsentimientos variando la esencia.",
+        "Ledyba segrega un fluido aromático por los seis puntos de\nunión que tiene entre las patas y el cuerpo. A través de este\nfluido se comunica con otros y les informa acerca de sus\nsentimientos variando la esencia.",
+        "Es muy tímido y se siente inseguro si no está\njunto a los de su especie. El estampado de sus\nalas varía de un Ledyba a otro.",
+        "Ledyba segrega un fluido aromático con el que\nse comunica con los de su especie. El olor que\ndesprende cuando está enfadado es agrio.",
+        "Este Pokémon no soporta el frío. En Alola, sin\nembargo, se encuentra en su elemento y se lo\npuede ver revoloteando vivaracho por doquier.",
+        "Un Pokémon bastante temeroso. Junto con sus\ncongéneres, protege su nido usando Reflejo."
+    ],
+    "height": 1.0,
+    "id": 165,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "name": "Ledyba",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 10.8
+}

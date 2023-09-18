@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "はねるたび　リリンと　おとを　だす。\nたかい　しゅうはすうの　なきごえで\nあいての　みみを　きこえなくする。",
+        "とびはねると　くちのなかにある\nたまが　あちこちに　はんしゃして\nすずのような　ねいろと　なる。",
+        "はねるたび　リリンと　おとを　だす。\nたかい　しゅうはすうの　なきごえで\nあいての　みみを　きこえなくする。",
+        "とびはねると　くちのなかにある\nたまが　あちこちに　はんしゃして\nすずのような　ねいろと　なる。"
+    ],
+    "height": 0.2,
+    "id": 433,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+    "name": "リーシャン",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 0.6
+}

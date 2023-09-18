@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "小枝を　食べると　元気になって\n摂氏２００度を　超える　熱気を\n大きな　耳から　噴き出す。",
+        "小枝を　持ち歩き　おやつがわりに\nポリポリ　食べる。耳から　熱気を\n噴き出して　相手を　威嚇する。",
+        "小枝を　食べると　元気になって\n摂氏２００度を　超える　熱気を\n大きな　耳から　噴き出す。",
+        "小枝を　持ち歩き　おやつがわりに\nポリポリ　食べる。耳から　熱気を\n噴き出して　相手を　威嚇する。"
+    ],
+    "height": 0.4,
+    "id": 653,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "name": "フォッコ",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 9.4
+}

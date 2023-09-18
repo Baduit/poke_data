@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Temperaturschwankungen veranlassen es, die Blüte\nauf seinem Kopf immer zu öffnen oder zu schließen.",
+        "Es öffnet seine Blüte, um Sonnenlicht aufzunehmen.\nEs schwebt in der Luft, um der Sonne näher zu sein.",
+        "Hubelupfs Blume beginnt zu blühen, wenn die Temperatur\nüber 18 °C steigt. Wie weit sich die Blüte öffnet, hängt von\nder Höhe der Temperatur ab. Daher wird dieses Pokémon\nmanchmal als Thermometer eingesetzt.",
+        "Hubelupfs Blume beginnt zu blühen, wenn die Temperatur\nüber 18 °C steigt. Wie weit sich die Blume öffnet, hängt von\nder Temperatur ab. Daher wird dieses Pokémon manchmal\nals Thermometer eingesetzt.",
+        "Die Blüte auf seinem Kopf verströmt einen leicht\nbitteren Geruch, der eine entspannende Wirkung\nhaben soll.",
+        "Wie weit sich Hubelupfs Blume öffnet, hängt von\nder Temperatur ab. Daher wurde es früher auch\nals Thermometer eingesetzt."
+    ],
+    "height": 0.6,
+    "id": 188,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "name": "Hubelupf",
+    "types": [
+        "Pflanze",
+        "Flug"
+    ],
+    "weight": 1.0
+}

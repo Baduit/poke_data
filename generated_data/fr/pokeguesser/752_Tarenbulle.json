@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il se bat en donnant des « coups de bulle ».\nLes plus petits Pokémon peuvent se retrouver\npiégés à l’intérieur de sa bulle et mourir noyés.",
+        "Bien plus attentionné qu’il n’y paraît, il n’hésite\npas à recueillir dans sa bulle ses camarades\nplus petits et fragiles.",
+        "Il passe la plupart de son temps dans l’eau.\nS’il est rassasié, il peut conserver ses proies\ndans sa bulle pour les manger plus tard.",
+        "Il a pour habitude d’enfermer ce qui lui est cher\ndans sa bulle. Si son Dresseur n’est pas vigilant,\nTarenbulle essaiera de l’y ranger lui aussi !",
+        "Il piège ses proies dans des bulles qu’il lance\navec ses pattes. Une fois qu’elles se sont noyées,\nil prend son temps pour les déguster.",
+        "Il prend soin de petits Araqua en les abritant\ndans sa bulle et en les laissant grignoter\nles restes de ses repas."
+    ],
+    "height": 1.8,
+    "id": 752,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+    "name": "Tarenbulle",
+    "types": [
+        "Eau",
+        "Insecte"
+    ],
+    "weight": 82.0
+}

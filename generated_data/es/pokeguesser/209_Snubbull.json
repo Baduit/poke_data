@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Muy travieso por naturaleza, a muchas mujeres les\ngusta jugar con él porque es muy cariñoso.",
+        "Los Pokémon pequeños huyen al ver su cara agresiva.\nNo obstante, para muchas féminas es mono.",
+        "Al tener los colmillos por fuera, Snubbull da miedo y espanta\na los Pokémon pequeños, que huyen aterrados. Parece que\na él le da un poco de pena que salgan huyendo.",
+        "Al tener los colmillos por fuera, Snubbull da miedo y espanta\na los Pokémon pequeños, que huyen aterrados. Parece que\na él le da un poco de pena que salgan huyendo.",
+        "Su rostro da un poco de miedo, pero en realidad\nes bastante cobardica. A la gente suele hacerle\ngracia su cara de malas pulgas.",
+        "Sus ladridos inquietan a sus adversarios.\nNormalmente tiene una personalidad afable y se\npasa la mitad del día durmiendo.",
+        "Le gusta que le hagan mimos y coge confianza\ncon facilidad. A la gente le fascina el contraste\nentre su aspecto fiero y carácter dulce.",
+        "A pesar de su aspecto, es muy tímido y afable.\nA menudo es objeto de burla cuando se junta\ncon Pokémon Perrito."
+    ],
+    "height": 0.6,
+    "id": 209,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+    "name": "Snubbull",
+    "types": [
+        "Hada"
+    ],
+    "weight": 7.8
+}

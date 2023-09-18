@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "When volcanic ash darkened the\natmosphere, it is said that Volcarona’s\nfire provided a replacement for the sun.",
+        "A sea of fire engulfs the surroundings\nof their battles, since they use their\nsix wings to scatter their ember scales.",
+        "Thought to be an embodiment of the sun,\nit appeared during a bitterly cold winter\nand saved Pokémon from freezing.",
+        "Thought to be an embodiment of the sun,\nit appeared during a bitterly cold winter\nand saved Pokémon from freezing.",
+        "A sea of fire engulfs the surroundings of their\nbattles, since they use their six wings to scatter\ntheir ember scales.",
+        "When volcanic ash darkened the atmosphere, it is\nsaid that Volcarona’s fire provided a replacement\nfor the sun.",
+        "A sea of fire engulfs the surroundings of their\nbattles, since they use their six wings to scatter\ntheir ember scales.",
+        "When volcanic ash darkened the atmosphere, it is\nsaid that Volcarona’s fire provided a replacement\nfor the sun.",
+        "As it flies, it scatters its flaming scales. It was\nfeared by ancient people, who referred to it as\n“the rage of the sun.”",
+        "According to legends, it was hatched from a\nflaming cocoon to save people and Pokémon\nthat were suffering from the cold.",
+        "Volcarona scatters burning scales. Some say it\ndoes this to start fires. Others say it’s trying to\nrescue those that suffer in the cold.",
+        "This Pokémon emerges from a cocoon formed of\nraging flames. Ancient murals depict Volcarona as\na deity of fire."
+    ],
+    "height": 1.6,
+    "id": 637,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "name": "Volcarona",
+    "types": [
+        "Bug",
+        "Fire"
+    ],
+    "weight": 46.0
+}

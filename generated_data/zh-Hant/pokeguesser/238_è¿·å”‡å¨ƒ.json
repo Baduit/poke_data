@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "在確認某樣東西時不是用手，\n而是會先用嘴唇去觸碰。\n會經常用舌頭舔去髒污。",
+        "嘴唇是敏感的感應器。\n為了不讓嘴唇乾裂，牠每天\n都會用樹液塗抹嘴唇來保濕。",
+        "只要稍微弄髒了臉，就會\n馬上去用水沖乾淨。但對於\n身體的髒污似乎就不太在意。",
+        "好奇心旺盛的寶可夢。對於\n任何東西都會先用嘴唇去觸碰，\n再決定是喜歡還是討厭這東西。"
+    ],
+    "height": 0.4,
+    "id": 238,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "name": "迷唇娃",
+    "types": [
+        "冰",
+        "超能力"
+    ],
+    "weight": 6.0
+}

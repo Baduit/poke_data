@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Non può produrre elettricità da sé, per cui si attacca\na Pokémon più grandi per succhiarne l’energia\nelettrostatica.",
+        "Si aggrappa ai Pokémon più grossi e ne assorbe\nl’energia statica che conserva in una sacca\nd’accumulo.",
+        "Non può produrre elettricità da sé, per cui si attacca a\nPokémon più grandi per succhiarne l’energia elettrostatica.",
+        "Si aggrappa ai Pokémon più grossi e ne assorbe l’energia\nstatica che conserva in una sacca d’accumulo.",
+        "Si aggrappa al corpo di altri Pokémon e ne\nassorbe l’energia elettrostatica. Non può\nprodurre elettricità da sé.",
+        "Si attacca ad altri Pokémon per assorbirne\nl’energia elettrostatica. Non è raro trovarne\nuno sul posteriore di Yamper."
+    ],
+    "height": 0.1,
+    "id": 595,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "name": "Joltik",
+    "types": [
+        "Coleottero",
+        "Elettro"
+    ],
+    "weight": 0.6
+}

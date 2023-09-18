@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Su inmenso poder psíquico distorsiona el espacio y\nle permite reflejar incluso estrellas a años luz de\ndistancia.",
+        "Predice el futuro analizando la posición de los astros\ny su movimiento. Conoce la esperanza de vida de los\nEntrenadores.",
+        "Su inmenso poder psíquico distorsiona el espacio y le permite\nreflejar incluso estrellas a años luz de distancia.",
+        "Predice el futuro analizando la posición de los astros y\nsu movimiento. Conoce la esperanza de vida de los\nEntrenadores.",
+        "Predice el futuro observando el movimiento de\nlas estrellas. Posee un poder psíquico tremendo,\npero evita los conflictos por su buen carácter.",
+        "Los malhechores a los que revela sus últimos\nmomentos pierden la vida el mismo día."
+    ],
+    "height": 1.5,
+    "id": 576,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "name": "Gothitelle",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 44.0
+}

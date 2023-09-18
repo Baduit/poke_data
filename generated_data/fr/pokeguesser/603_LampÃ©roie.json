@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ses taches rondes émettent de\nl’électricité. Il s’enroule autour\nde ses proies et les électrocute.",
+        "Un Pokémon doté d’un gros appétit. Il\nparalyse ses proies avec des décharges\nélectriques avant de les manger.",
+        "Ses taches émettent de l’électricité quand il s’enroule\nautour de ses proies pour les paralyser avant de les\ndévorer.",
+        "Un Pokémon doté d’un gros appétit. Il paralyse\nses proies avec des décharges électriques avant\nde les manger.",
+        "Ses taches émettent de l’électricité quand il s’enroule autour\nde ses proies pour les paralyser avant de les dévorer.",
+        "Un Pokémon doté d’un gros appétit. Il paralyse ses proies\navec des décharges électriques avant de les manger."
+    ],
+    "height": 1.2,
+    "id": 603,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "name": "Lampéroie",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 22.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "È ritenuto un Pokémon ideale per Allenatori\nalle prime armi perché si affeziona facilmente.\nCrescendo, però, tende a diventare aggressivo.",
+        "Questo Pokémon vive insieme agli esseri umani\nda tempo immemore. Se il suo Allenatore è triste,\nresta al suo fianco per sostenerlo.",
+        "Più cresce e più diventa impetuoso e aggressivo.\nNon sono pochi gli Allenatori che se ne liberano\nquando non sono più in grado di gestirlo.",
+        "Sfrega le appuntite pietre del suo collo\naddosso agli altri. È un segno di affetto\nabbastanza doloroso!",
+        "Si affeziona facilmente, ma ha tendenza a\nmordere il suo Allenatore. Chi ne vuole allenare\nuno avrà di certo un bel daffare.",
+        "Intimorisce l’avversario battendo a terra le rocce\nche ha sul collo e non appena lo vede esitare\nsi lancia all’attacco."
+    ],
+    "height": 0.5,
+    "id": 744,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "name": "Rockruff",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 9.2
+}

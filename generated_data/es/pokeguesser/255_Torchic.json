@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "En su interior, guarda una llama que arde sin cesar.\nSi se le abraza, se nota que tiene una temperatura\nmuy alta.",
+        "En su interior arde una llama que mantiene su cuerpo\ncaliente. Tira bolas de fuego a 1000 °C.",
+        "Torchic no se separa de su Entrenador. Siempre va tras él con\nsus pasitos inseguros. Este Pokémon escupe bolas de fuego\nque pueden alcanzar los 1000 °C y carbonizar al enemigo.",
+        "Torchic tiene un lugar en el interior de su organismo en el\nque guarda la llama que posee. Si le das un abrazo, arderá\nencantado. Este Pokémon está recubierto totalmente de\nsedoso plumón."
+    ],
+    "height": 0.4,
+    "id": 255,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "name": "Torchic",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 2.5
+}

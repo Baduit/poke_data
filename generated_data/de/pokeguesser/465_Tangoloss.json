@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es umwickelt Beute, indem es seine Arme,\ndie aus Ranken bestehen, verlängert.",
+        "In warmen Jahreszeiten wuchern seine Ranken\nso dicht, dass man nicht einmal mehr seine Augen\nerkennt.",
+        "Es umwickelt Beute, indem es seine Arme, die aus Ranken\nbestehen, verlängert.",
+        "In warmen Jahreszeiten wuchern seine Ranken so dicht,\ndass man nicht einmal mehr seine Augen erkennt.",
+        "Jüngsten Erkenntnissen zufolge bestehen seine\nzwei Arme, die es beliebig verlängern kann,\naus gebündelten Ranken.",
+        "Je wärmer sein Lebensraum ist, desto schneller\nwachsen seine Ranken. Werden sie zu lang,\nkürzt Tangoloss sie, indem es sie abreißt."
+    ],
+    "height": 2.0,
+    "id": 465,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "name": "Tangoloss",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 128.6
+}

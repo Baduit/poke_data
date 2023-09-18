@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在冰冷的水中生活。\n當周遭的天氣變涼時，\n也會來到陸地上覓食。",
+        "為了在地面上行走時\n不讓皮膚乾燥，會用\n有毒的黏膜覆蓋身體。"
+    ],
+    "height": 0.4,
+    "id": 194,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "name": "烏波",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 8.5
+}

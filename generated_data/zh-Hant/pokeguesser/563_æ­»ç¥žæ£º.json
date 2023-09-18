@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "擁有閃亮亮的黃金身軀。\n據說牠已再也無法記起\n自己曾經是人類。",
+        "死神棺象徵著國王的財富，\n因此許多古墓裡\n都有牠的壁畫。"
+    ],
+    "height": 1.7,
+    "id": 563,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+    "name": "死神棺",
+    "types": [
+        "幽靈"
+    ],
+    "weight": 76.5
+}

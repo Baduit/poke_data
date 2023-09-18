@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "變得能夠只用後腳步行，\n智能也發達了許多。鎧甲般的\n皮膚足以抵擋熔岩的高溫。",
+        "變得能夠只用後腳步行，\n智能也發達了許多。鎧甲般的\n皮膚足以抵擋熔岩的高溫。",
+        "進化後變得只用後腳就能站立。\n如果被牠的角刺中，\n就連岩石也會被開出洞來。",
+        "全身被鎧甲般的皮膚\n保護著。甚至能在\n２０００度的熔岩中生存。"
+    ],
+    "height": 1.9,
+    "id": 112,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "name": "鑽角犀獸",
+    "types": [
+        "地面",
+        "岩石"
+    ],
+    "weight": 120.0
+}

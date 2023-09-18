@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ce fauteur de troubles est doté d’anneaux qui\ndéforment l’espace et lui permettent d’expédier\nau loin n’importe quel objet.",
+        "Il a la faculté de téléporter les choses en les faisant\npasser au travers de ses anneaux. Il envoie les objets\nqui lui plaisent dans une cachette connue de lui seul.",
+        "Il possède une puissance considérable sous son apparence\nvéritable. Une légende raconte qu’il désirait si fort un trésor\ncaché dans un château qu’il déroba l’édifice tout entier.",
+        "On raconte que grâce à ses six anneaux et ses six énormes\nbras, il est capable de dérober tout ce qui lui plaît.\nMais son pouvoir a été scellé, et il a été réduit à l’état\nd’un être minuscule."
+    ],
+    "height": 0.5,
+    "id": 720,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
+    "name": "Hoopa",
+    "types": [
+        "Psy",
+        "Spectre"
+    ],
+    "weight": 9.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Crea delle sfere di polline di vario genere in\nbase alle necessità: alcune gli servono per\nnutrirsi, altre per lottare.",
+        "Alcune sfere di polline prodotte da questo\nPokémon sono talmente nutrienti da essere\nvendute come integratori alimentari.",
+        "Odia la pioggia perché bagna il polline.\nSe il tempo si fa minaccioso, si infila nella cavità\ndi un albero e se ne resta lì fermo.",
+        "Prevede che tempo farà dall’umidità e dalla\ndirezione del vento. Lo si vede in giro solo\ndurante i periodi di bel tempo stabile.",
+        "Crea delle sfere di polline e nettare che hanno\neffetti diversi a seconda degli ingredienti\nusati e della loro quantità.",
+        "Odia ritrovarsi madido di pioggia. È raro\nvederne uno nella regione di Galar, dove\nil tempo è spesso nuvoloso."
+    ],
+    "height": 0.2,
+    "id": 743,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+    "name": "Ribombee",
+    "types": [
+        "Coleottero",
+        "Folletto"
+    ],
+    "weight": 0.5
+}

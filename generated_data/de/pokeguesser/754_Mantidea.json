@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es erfordert viel Arbeit, seine Farbenpracht zu\nerhalten, doch zum Glück gibt es Passionierte,\ndie den hohen Aufwand nicht scheuen.",
+        "Kann aus seinen sichelförmigen Blättern\neinen Strahl abschießen, der selbst eine\nEisenplatte zerschneidet.",
+        "Es tarnt sich zu seinem eigenen Schutz als\nKäfer-Pokémon. Die Blütenblätter an seinen\nbeiden Armen sind scharfkantig.",
+        "Es schlitzt Gegner mit tänzelnden Angriffen auf.\nDank seiner Eleganz wird es auch als das\nanmutigste aller Pflanzen-Pokémon bezeichnet.",
+        "Dieses Pokémon gleicht einer schönen Blume.\nTrainiert man es richtig, erstrahlt Mantidea\nzudem in überaus prächtigen Farben.",
+        "Die Blütenblätter an seinen Armen sind dünn und\nscharfkantig. Mantidea absorbiert mit ihnen Licht,\ndas es in Form von Strahlen abschießen kann."
+    ],
+    "height": 0.9,
+    "id": 754,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
+    "name": "Mantidea",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 18.5
+}

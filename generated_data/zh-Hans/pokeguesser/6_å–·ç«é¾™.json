@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "从口中喷出灼热的火焰时，\n尾巴尖端的红色火焰\n会燃烧得更加猛烈。",
+        "从口中喷出灼热的火焰时，\n尾巴尖端的红色火焰\n会燃烧得更加猛烈。",
+        "能够喷出猛烈的火焰，\n仿佛连岩石都能烤焦。\n有时会引发森林火灾。",
+        "能用翅膀飞到距地面\n１４００米的高度。\n会吐出高温火焰。"
+    ],
+    "height": 1.7,
+    "id": 6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "name": "喷火龙",
+    "types": [
+        "火",
+        "飞行"
+    ],
+    "weight": 90.5
+}

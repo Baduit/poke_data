@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Forests where Shiinotic live are treacherous to\nenter at night. People confused by its strange\nlights can never find their way home again.",
+        "It emits flickering spores that cause drowsiness.\nWhen its prey succumb to sleep, this Pokémon\nfeeds on them by sucking in their energy.",
+        "It puts its prey to sleep and siphons off their\nvitality through the tip of its arms. If one of its\nkind is weakened, it helps by sending it vitality.",
+        "When it starts fighting for territory with\nParasect, the entire area gets completely\ncoated in spores!",
+        "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips.",
+        "If you see a light deep in a forest at night,\ndon’t go near. Shiinotic will make you fall\nfast asleep."
+    ],
+    "height": 1.0,
+    "id": 756,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+    "name": "Shiinotic",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "weight": 11.5
+}

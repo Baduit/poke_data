@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "癒しと　恵みの　力を　もつ\n慈愛に　満ちた　ポケモン。　はるか\nむかし　ガラルに　君臨していた。",
+        "大昔の　ガラルを　統べていた\n伝説の　王。　心を　癒し\n草木を　芽吹かせる　力がある。"
+    ],
+    "height": 1.1,
+    "id": 898,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "name": "バドレックス",
+    "types": [
+        "エスパー",
+        "くさ"
+    ],
+    "weight": 7.7
+}

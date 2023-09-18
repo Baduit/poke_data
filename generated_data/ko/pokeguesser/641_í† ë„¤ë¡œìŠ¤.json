@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "구름처럼 생긴 에너지체에\n하반신이 둘러싸여 있다.\n시속 300km로 하늘을 난다.",
+        "토네로스의 꼬리에서 뿜어져 나온\n에너지가 큰 폭풍을 일으킨다.\n민가를 날려버릴 정도의 힘이다.",
+        "구름처럼 생긴 에너지체에\n하반신이 둘러싸여 있다.\n시속 300km로 하늘을 난다.",
+        "토네로스의 꼬리에서 뿜어져 나온\n에너지가 큰 폭풍을 일으킨다.\n민가를 날려버릴 정도의 힘이다."
+    ],
+    "height": 1.5,
+    "id": 641,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "name": "토네로스",
+    "types": [
+        "비행"
+    ],
+    "weight": 63.0
+}

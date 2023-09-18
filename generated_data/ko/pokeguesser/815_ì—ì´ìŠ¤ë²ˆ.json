@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "작은 돌을 리프팅해서 불꽃의\n축구공을 만들고 날카로운\n슛으로 상대를 태워버린다.",
+        "공수에 뛰어나고 응원을 받으면\n더 뜨겁게 타오르지만 스탠드 플레이를\n하다가 위기에 처하는 경우도 있다."
+    ],
+    "height": 1.4,
+    "id": 815,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "name": "에이스번",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 33.0
+}

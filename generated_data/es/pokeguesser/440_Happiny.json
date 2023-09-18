@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Les da a sus amigos una roca con forma de huevo que\ntransporta en la bolsa de su panza.",
+        "Cuida de una pequeña roca blanca y redonda\ncreyendo que es un huevo. Le gusta arreglarse\nel tirabuzón.",
+        "Les da a sus amigos una roca con forma de huevo que\ntransporta en la bolsa de su panza.",
+        "Cuida de una pequeña roca blanca y redonda creyendo que\nes un huevo. Le gusta arreglarse el tirabuzón.",
+        "En la bolsa de su panza transporta una roca\nredonda y blanca. Cuando hace amigos puede\nllegar a regalársela.",
+        "Como todavía no puede poner huevos, busca\nrocas blancas y redondas en su lugar.",
+        "Se trata de un Pokémon dócil y tranquilo, pero,\nsi le arrebatan la piedra redonda que lleva en la\nbolsa de su panza, se pone a llorar y berrear.",
+        "En cuanto ve cosas blancas y redondas, se las\nguarda en la bolsa de su panza. A veces la llena\nhasta tales extremos que no se puede ni mover.",
+        "Lleva en la bolsa de su panza una roca con forma\nde huevo que cuida con esmero, imitando a\nChansey.",
+        "Les deja su preciada roca redonda a aquellos\ncon los que se lleva bien. Si no se la devuelven,\nse echa a llorar, presa de una rabieta."
+    ],
+    "height": 0.6,
+    "id": 440,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "name": "Happiny",
+    "types": [
+        "Normal"
+    ],
+    "weight": 24.4
+}

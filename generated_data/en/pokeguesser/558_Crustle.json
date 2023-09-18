@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Competing for territory, Crustle\nfight viciously. The one whose boulder\nis broken is the loser of the battle.",
+        "It possesses legs of enormous strength,\nenabling it to carry heavy slabs for many\ndays, even when crossing arid land.",
+        "When its boulder is broken\nin battles for territory, it feels\nunsure and begins to weaken.",
+        "When its boulder is broken\nin battles for territory, it feels\nunsure and begins to weaken.",
+        "It possesses legs of enormous strength, enabling it\nto carry heavy slabs for many days, even when\ncrossing arid land.",
+        "Competing for territory, Crustle fight viciously.\nThe one whose boulder is broken is the loser of\nthe battle.",
+        "It possesses legs of enormous strength, enabling it\nto carry heavy slabs for many days, even when\ncrossing arid land.",
+        "Competing for territory, Crustle fight viciously.\nThe one whose boulder is broken is the loser of\nthe battle.",
+        "This highly territorial Pokémon prefers dry\nclimates. It won’t come out of its boulder on\nrainy days.",
+        "Its thick claws are its greatest weapons.\nThey’re mighty enough to crack\nRhyperior’s carapace."
+    ],
+    "height": 1.4,
+    "id": 558,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "name": "Crustle",
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "weight": 200.0
+}

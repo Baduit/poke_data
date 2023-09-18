@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "不知從何處出現，\n碎碎念著咒文，施加詛咒，\n製造恐怖的幻象。",
+        "因為也會施加實現戀愛願望的咒語，\n所以也有不惜性命尋找夢妖魔的人。",
+        "因為會四處作祟並散播詛咒\n而被人們畏懼。有時也會\n隨性地使用幫助人的咒語。",
+        "會喃喃唸誦詛咒的話語，\n使對手激烈頭痛，或是看見\n恐怖的幻覺，藉此折磨對手。"
+    ],
+    "height": 0.9,
+    "id": 429,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "name": "夢妖魔",
+    "types": [
+        "幽靈"
+    ],
+    "weight": 4.4
+}

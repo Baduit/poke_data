@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Un Pokémon mythique.\nIl projette de sa queue un tourbillon\nde flammes capable de tout emporter.",
+        "Quand sa queue s’embrase, l’énergie\nthermique dégagée modifie l’atmosphère\net bouleverse la météo du monde entier.",
+        "Un Pokémon légendaire assez puissant pour embraser\nle monde entier. Il soutient les défenseurs de la\nRéalité.",
+        "Quand sa queue s’embrase, l’énergie thermique\ndégagée modifie l’atmosphère et bouleverse la météo\ndu monde entier.",
+        "Un Pokémon légendaire assez puissant pour embraser\nle monde entier. Il soutient les défenseurs de la Réalité.",
+        "Quand sa queue s’embrase, l’énergie thermique dégagée\nmodifie l’atmosphère et bouleverse la météo du monde entier.",
+        "Il vole grâce à la propulsion générée\npar les flammes de sa queue.\nIl serait capable de réduire le monde en cendres.",
+        "Selon un mythe, lorsque les gens ne font aucun\ncas de la Réalité et s’abandonnent à la cupidité,\nReshiram rase le pays entier avec ses flammes."
+    ],
+    "height": 3.2,
+    "id": 643,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "name": "Reshiram",
+    "types": [
+        "Dragon",
+        "Feu"
+    ],
+    "weight": 330.0
+}

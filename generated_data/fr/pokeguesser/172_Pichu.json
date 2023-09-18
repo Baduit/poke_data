@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Les poches électriques de ses\njoues sont encore petites, mais\nrisquent de l’électrocuter.",
+        "Les poches électriques de ses\njoues sont encore petites, mais\nrisquent de l’électrocuter.",
+        "Il prouve son courage en touchant la queue électrifiée\nde ses pairs.",
+        "Il ne sait pas encore stocker l’électricité. Il envoie\ndes décharges par jeu ou par peur.",
+        "Pichu se charge plus facilement en électricité les jours d’orage\nou lorsque l’air est très sec. On peut entendre le crépitement\nde l’électricité statique générée par ce Pokémon.",
+        "Lorsque Pichu joue, il lui arrive de faire des courts-circuits\navec un autre Pichu, créant ainsi une gerbe d’étincelles.\nDu coup, ce Pokémon prend peur et se met à pleurer.",
+        "Il ne contrôle pas encore bien son électricité.\nSi on le laisse sans surveillance, il est capable\nde s’électrocuter lui-même.",
+        "Bien qu’il soit adorable, il faut être prêt à\nsupporter ses décharges électriques répétées\nsi l’on veut vivre avec un Pichu.",
+        "Il ne contrôle pas encore bien l’électricité,\net laisse échapper des décharges lorsqu’il\nest surpris ou en proie à de fortes émotions.",
+        "Les poches de ses joues renferment de\nl’électricité. Lorsqu’elles sont chargées, il a\ntellement d’énergie qu’il ne pense qu’à jouer.",
+        "Malgré sa petite taille, il peut électrocuter\nde grandes personnes, ce qui le surprend\négalement.",
+        "Les poches électriques de ses joues sont\ntrès petites. Lorsqu’elles sont surchargées,\nil s’électrocute lui-même."
+    ],
+    "height": 0.3,
+    "id": 172,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "name": "Pichu",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 2.0
+}

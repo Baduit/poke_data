@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Segnando il ritmo con la sua bacchetta speciale\ndiffonde onde sonore che hanno il potere\ndi rinvigorire fiori e piante.",
+        "Attacca percuotendo il nemico con la sua\nbacchetta, con un entusiasmo che cresce\nall’aumentare del ritmo sfrenato con cui colpisce."
+    ],
+    "height": 0.3,
+    "id": 810,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+    "name": "Grookey",
+    "types": [
+        "Erba"
+    ],
+    "weight": 5.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Assorbe i raggi solari e, grazie al suo nucleo\nenergetico, li trasforma in palle di luce che poi spara.",
+        "Comprime l’energia nel suo nucleo interno per poi\nspararla con una potenza che può spazzare via anche\nle montagne.",
+        "Assorbe i raggi solari e, grazie al suo nucleo energetico,\nli trasforma in palle di luce che poi spara.",
+        "Comprime l’energia nel suo nucleo interno per poi spararla\ncon una potenza che può spazzare via anche le montagne.",
+        "Assorbe l’energia solare e la usa per sparare\npotentissime sfere di energia. Questa capacità\ndiventa inutile di notte e nei giorni di pioggia.",
+        "La grande forza di questo Pokémon lo rende\nun partner ideale nei lavori di edilizia.",
+        "Quando spara energia con tutte le sue forze,\nla potenza è tale da causare numerose fessure\nsul suo corpo.",
+        "Assorbe i raggi solari e li converte in energia\nper poi spararla. Tuttavia, in genere si rifugia\nnelle viscere della terra.",
+        "È molto robusto e per questo a volte lavora\nassieme a uomini e Copperajah nell’edilizia\ne nell’estrazione mineraria.",
+        "La potenza delle sue sfere di energia è tale da\nspazzare via un camion. Tuttavia, può spararle\nsolo nei giorni di sole."
+    ],
+    "height": 1.7,
+    "id": 526,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+    "name": "Gigalith",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 260.0
+}

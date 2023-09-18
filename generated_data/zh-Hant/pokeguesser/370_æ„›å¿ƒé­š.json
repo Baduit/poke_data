@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "變成只有獨自１隻的愛心魚\n會變得無精打采而破綻處處。\n於是就被大嘴鷗趁機叼走了。",
+        "很受情侶歡迎，\n因此被放養在蜜月客人\n住宿的旅館泳池裡。",
+        "傳聞說如果擁有牠的心形鱗片\n就能交到男女朋友，這讓牠\n曾經在某段時期遭到濫捕。",
+        "溫暖海域的珊瑚礁是\n牠的棲息地。最喜歡在\n太陽珊瑚的枝條間睡覺。"
+    ],
+    "height": 0.6,
+    "id": 370,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "name": "愛心魚",
+    "types": [
+        "水"
+    ],
+    "weight": 8.7
+}

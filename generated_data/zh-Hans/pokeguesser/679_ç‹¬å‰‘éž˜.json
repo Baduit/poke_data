@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "很久以前因这把剑\n而丧命之人的灵魂\n成为了独剑鞘的灵魂。",
+        "独剑鞘剑格上的\n蓝色眼珠是它的本体。\n会用陈旧的布吸取人类的精气。"
+    ],
+    "height": 0.8,
+    "id": 679,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "name": "独剑鞘",
+    "types": [
+        "钢",
+        "幽灵"
+    ],
+    "weight": 2.0
+}

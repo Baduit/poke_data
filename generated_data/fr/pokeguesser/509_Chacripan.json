@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il vole les gens pour le plaisir, mais il\nest tellement mignon que ses victimes\nfinissent toujours par lui pardonner.",
+        "Il détourne l’attention de ses victimes\navec ses gestes mignons pour mieux les\ndétrousser. En colère, il griffe.",
+        "Il détourne l’attention de ses victimes avec ses gestes\nmignons pour mieux les détrousser. En colère,\nil griffe.",
+        "Il vole les gens pour le plaisir, mais il est tellement\nmignon que ses victimes finissent toujours par lui\npardonner.",
+        "Il détourne l’attention de ses victimes avec ses gestes\nmignons pour mieux les détrousser. En colère, il griffe.",
+        "Il vole les gens pour le plaisir, mais il est tellement mignon\nque ses victimes finissent toujours par lui pardonner.",
+        "Il vole les biens des personnes rien que pour voir\nleur visage désemparé.\nSon plus grand rival est Goupilou.",
+        "Malheur à qui se laisse berner par ses gestes\nadorables : une fois les gens à sa portée,\nil les griffe sans crier gare, en ricanant."
+    ],
+    "height": 0.4,
+    "id": 509,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "name": "Chacripan",
+    "types": [
+        "Ténèbres"
+    ],
+    "weight": 10.1
+}

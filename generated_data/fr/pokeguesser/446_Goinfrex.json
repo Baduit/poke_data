@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Obnubilé par sa quête incessante\nde nourriture, il oublie parfois\nqu’il en a caché dans sa fourrure.",
+        "Obnubilé par sa quête incessante\nde nourriture, il oublie parfois\nqu’il en a caché dans sa fourrure.",
+        "Il cache de la nourriture sous les grands poils de son\ncorps, mais il finit souvent par l’oublier.",
+        "Goinfrex cache de la nourriture dans sa fourrure\nen pagaille. Il avale tout en une bouchée.",
+        "Il cache de la nourriture sous les grands poils de son corps,\nmais il finit souvent par l’oublier.",
+        "Goinfrex cache de la nourriture dans sa fourrure en pagaille.\nIl avale tout en une bouchée.",
+        "Il mange chaque jour l’équivalent de son propre\npoids. Il consomme sa nourriture en quantité,\nmais il se moque bien du goût qu’elle a.",
+        "Dès qu’il voit un mets alléchant, il le ramasse\naussitôt et l’avale tout de go. C’est pour cela\nqu’il grossit à vue d’œil, ce petit glouton.",
+        "Il a tendance à cacher des aliments dans son\népaisse fourrure... et à les oublier là. L’odeur\nputride qui s’en dégage alors est plutôt gênante.",
+        "Dès qu’il voit quelque chose de comestible,\nil le ramasse et l’avale tout de go. Son estomac\nlui permet de digérer même la nourriture avariée.",
+        "Il ne pense qu’à manger énormément.\nIl n’a que faire du goût et n’hésite d’ailleurs\npas à engloutir de la nourriture avariée.",
+        "Il conserve sa nourriture sous son épaisse fourrure.\nIl lui arrive d’en offrir un peu à ceux en qui\nil a confiance."
+    ],
+    "height": 0.6,
+    "id": 446,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "name": "Goinfrex",
+    "types": [
+        "Normal"
+    ],
+    "weight": 105.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "把好幾隻冰寶馱在背上，\n混進眾多冰山之間，\n在高緯度的寒冷大海裡游動。",
+        "雖然身體的裂縫會因\n白天的活動而變大，\n但只要一晚就能全部長好。"
+    ],
+    "height": 2.0,
+    "id": 713,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "name": "冰岩怪",
+    "types": [
+        "冰"
+    ],
+    "weight": 505.0
+}

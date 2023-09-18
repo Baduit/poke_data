@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "在吸收了養分後，\n變大的花苞開始飄出香氣時，\n就表示快要開花了。",
+        "在吸收了養分後，\n變大的花苞開始飄出香氣時，\n就表示快要開花了。",
+        "當背上的花苞長大之後，\n牠似乎就無法再用兩隻腳\n站立起來了。",
+        "沐浴在陽光下越久，\n身體內會湧出越多力量，\n背上的花苞也會漸漸成長。"
+    ],
+    "height": 1.0,
+    "id": 2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "name": "妙蛙草",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 13.0
+}

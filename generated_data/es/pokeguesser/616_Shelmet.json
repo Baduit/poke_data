@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Si está junto a Karrablast, y ambos reciben una\ndescarga eléctrica, evolucionan los dos a la vez.",
+        "Evoluciona si entra en contacto con energía eléctrica\njunto a Karrablast. Aún no se ha esclarecido el porqué.",
+        "Si está junto a Karrablast, y ambos reciben una descarga\neléctrica, evolucionan los dos a la vez.",
+        "Evoluciona si entra en contacto con energía eléctrica junto a\nKarrablast. Aún no se ha esclarecido el porqué.",
+        "Cierra a cal y canto la visera de su caparazón al\nser atacado. Solo los Karrablast pueden abrirla.",
+        "Debido a su peculiar constitución, reacciona\nante la energía eléctrica. Por alguna misteriosa\nrazón, evoluciona en presencia de Karrablast."
+    ],
+    "height": 0.4,
+    "id": 616,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "name": "Shelmet",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 7.7
+}

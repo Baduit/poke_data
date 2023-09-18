@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Junta las alas y lanza voraces llamas al rival.\nSu ataque se asemeja a una elaborada\ncoreografía de fuego.",
+        "Forma que toma Oricorio al libar Néctar Rojo.\nHace arder el corazón de sus adversarios con\nsu cálida danza.",
+        "Con su danza apasionada cautiva al enemigo.\nEn cuanto este baja la guardia, lo calcina con\nsus enormes llamaradas.",
+        "Forma que toma Oricorio al libar Néctar Rojo. Su\nvehemencia le lleva a ponerse hecho una furia\nsi el Entrenador le imparte la orden equivocada."
+    ],
+    "height": 0.6,
+    "id": 741,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "name": "Oricorio",
+    "types": [
+        "Fuego",
+        "Volador"
+    ],
+    "weight": 3.4
+}

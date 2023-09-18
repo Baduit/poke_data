@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+        "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+    ],
+    "height": 2.0,
+    "id": 983,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    "name": "Kingambit",
+    "types": [
+        "Dark",
+        "Steel"
+    ],
+    "weight": 120.0
+}

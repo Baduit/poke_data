@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Known for its extreme intelligence, this Pokémon\nwill look down on inexperienced Trainers, so it’s\nbest suited to veteran Trainers.",
+        "Deep in the jungle, high in the lofty canopy, this\nPokémon abides. On rare occasions, it shows up\nat the beach to match wits with Slowking.",
+        "It normally spends its time meditating in the\ntreetops. It throws Poké Balls and gives other\nPokémon orders as it pleases.",
+        "Oranguru don’t get along with each other, so\nthey’re always engaging in battles of wits to\ndecide which one is superior.",
+        "With waves of its fan—made from leaves and its\nown fur—Oranguru skillfully gives instructions to\nother Pokémon.",
+        "It knows the forest inside and out. If it comes\nacross a wounded Pokémon, Oranguru will\ngather medicinal herbs to treat it."
+    ],
+    "height": 1.5,
+    "id": 765,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "name": "Oranguru",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "weight": 76.0
+}

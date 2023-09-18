@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Le parfum de sa fleur se fait plus\npénétrant les lendemains de pluie.\nCela appâte les autres Pokémon.",
+        "Le parfum de sa fleur se fait plus\npénétrant les lendemains de pluie.\nCela appâte les autres Pokémon.",
+        "Ses pétales lui servent à capter la lumière du soleil.\nIl peut ainsi en canaliser l’énergie.",
+        "Le parfum de sa fleur se fait plus pénétrant les\nlendemains de pluie. Cela appâte les autres Pokémon.",
+        "Une belle fleur se trouve sur le dos de Florizarre.\nElle prend une couleur vive lorsqu’elle est bien nourrie et bien\nensoleillée. Le parfum de cette fleur peut apaiser les gens.",
+        "Une belle fleur se trouve sur le dos de Florizarre.\nElle prend une couleur vive lorsqu’elle est bien nourrie et bien\nensoleillée. Le parfum de cette fleur peut apaiser les gens.",
+        "Les pétales de sa fleur dorsale absorbent les\nrayons du soleil pour les convertir en énergie.",
+        "Les pétales de sa fleur dorsale absorbent les\nrayons du soleil pour les convertir en énergie.",
+        "Sa plante donne une grosse fleur quand\nelle absorbe les rayons du soleil. Il est toujours\nà la recherche des endroits les plus ensoleillés.",
+        "Une douce senteur émane de sa plante.\nCette fragrance calme tous ceux qui sont\nengagés dans un combat."
+    ],
+    "height": 2.0,
+    "id": 3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "name": "Florizarre",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 100.0
+}

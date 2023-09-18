@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Ha una corazza dura come l’acciaio che protegge\nil suo fragile corpo. Attende immobile di evolversi.",
+        "Quando la sua corazza è morbida, il corpo fragile di\nquesto Pokémon è più vulnerabile agli attacchi.",
+        "La corazza di questo Pokémon è dura come una lastra\ndi ferro. Metapod non si muove molto. Sta immobile per\npreparare il morbido interno della dura corazza all’evoluzione.",
+        "La corazza di questo Pokémon è dura come una lastra\ndi ferro. Metapod non si muove molto. Sta immobile per\npreparare il morbido interno della dura corazza all’evoluzione.",
+        "La corazza racchiude un corpo estremamente\nmolle e il Pokémon si muove appena per paura\nche fuoriesca accidentalmente.",
+        "La sua corazza è piuttosto dura per un\nPokémon Coleottero, ma potrebbe comunque\nrompersi. Meglio evitare lotte troppo veementi.",
+        "La sua corazza contiene un liquido vischioso.\nRistruttura tutte le cellule del suo corpo\npreparandosi all’evoluzione.",
+        "La sua dura corazza resiste anche alle beccate\ndei Pikipek ma, se oscilla troppo, il contenuto\npuò fuoriuscire.",
+        "Per difendersi indurisce la corazza, ma un colpo\nviolento può scaraventarlo fuori dal guscio.",
+        "Per difendersi indurisce la corazza, ma un colpo\nviolento può scaraventarlo fuori dal guscio.",
+        "In attesa di evolversi, l’unica cosa che può fare\nè indurire la sua corazza, quindi rimane immobile\nper evitare di essere attaccato.",
+        "La corazza esterna è robusta ma l’interno\nè molle. Per questo non è in grado di resistere\nad attacchi particolarmente veementi."
+    ],
+    "height": 0.7,
+    "id": 11,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "name": "Metapod",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 9.9
+}

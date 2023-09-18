@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es bevorzugt trockene Gebiete. Es gibt über die Augen\nWasser ab, um den Wasserhaushalt zu regulieren.",
+        "Mag es trocken. Gleicht es seinen Wasserhaushalt aus,\nentweicht ihm Wasser, das wie Tränen geformt ist.",
+        "Es bevorzugt trockene Gebiete. Es gibt über die Augen\nWasser ab, um den Wasserhaushalt zu regulieren.",
+        "Mag es trocken. Gleicht es seinen Wasserhaushalt aus,\nentweicht ihm Wasser, das wie Tränen geformt ist.",
+        "Es mag kein Wasser und lebt an trockenen\nOrten. Da es in seiner Umgebung nur wenig\ngrüne Pflanzen gibt, sticht es deutlich heraus.",
+        "Überschüssiges Wasser in seinem Körper\nscheidet es über die Augen aus. Dieses ist\nvergleichbar mit dem Schweiß des Menschen.",
+        "Es gibt über seine Pupillen Wasser ab, was den\nEindruck erweckt, es würde weinen. Bei seinen\nFeinden führt das offenbar zu Unachtsamkeit.",
+        "Da ein zu hoher Wasseranteil für seinen Körper\nlebensbedrohlich werden kann, scheidet es\nüber die Augen Wasser aus wie Schweiß.",
+        "Es sondert sowohl Schweiß als auch Tränen über\nseine Augen ab. Sein Schweiß schmeckt leicht\nsalzig, seine Tränen ein bisschen bitter.",
+        "Es lebt in trockenen Felsgebieten. Je trockener\nseine grünen Kugeln sind, desto matter ist ihr\nGlanz."
+    ],
+    "height": 0.5,
+    "id": 438,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "name": "Mobai",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 15.0
+}

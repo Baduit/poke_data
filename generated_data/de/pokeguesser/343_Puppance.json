@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es bewegt sich, indem es auf seinem Fuß kreiselt.\nVereinzelt sieht man Puppance, die kopfüber kreiseln.",
+        "Es bewegt sich, indem es sich auf seinem Fuß dreht.\nEin seltenes Pokémon, das in alten Ruinen lebte.",
+        "Puppance bewegt sich, indem es sich auf seinem Fuß im Kreis\ndreht. In sehr alten Ruinen wurden primitive Wandmalereien\nentdeckt, die dieses Pokémon in Begleitung von Menschen\nzeigen.",
+        "Sobald es Artgenossen bemerkt, tut sich Puppance mit ihnen\nzusammen und sie brüllen gemeinsam. Dieses Pokémon\nschläft, während es geschickt auf seinem Fuß balanciert.",
+        "In Höhlen, in denen Urmenschen lebten, gibt es\nWandmalereien von einem Pokémon, das wie\nPuppance aussieht.",
+        "Wenn sie Artgenossen entdecken, versammeln\nsie sich und brüllen gemeinsam. Sie wurden\nzuhauf in alten Grabstätten gefunden.",
+        "Es bewegt sich, indem es auf seinem Fuß kreiselt.\nVereinzelt sieht man auch Puppance, die dies\nkopfüber tun.",
+        "Es wurde in antiken Ruinen entdeckt. Wenn es\nsich bewegt, dreht es sich. Auch im Schlaf steht\nes auf einem Bein."
+    ],
+    "height": 0.5,
+    "id": 343,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+    "name": "Puppance",
+    "types": [
+        "Boden",
+        "Psycho"
+    ],
+    "weight": 21.5
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Par beau temps, il se pose sur les\nplages pour jouer et rebondir. Il\nexpulse de l’eau par son évent.",
+        "Par beau temps, il se pose sur les\nplages pour jouer et rebondir. Il\nexpulse de l’eau par son évent.",
+        "Il rebondit comme un ballon pour s’amuser.\nPlus il boit d’eau, plus il va haut.",
+        "Il mange près d’une tonne de nourriture par jour.\nJouer avec son jet d’eau est son passe-temps favori.",
+        "Les narines de Wailmer sont situées au-dessus de ses yeux.\nCe joyeux Pokémon adore effrayer les gens en expulsant\nde l’eau de mer par les narines.",
+        "Wailmer peut stocker de l’eau dans son corps pour se\ntransformer en balle et rebondir sur le sol. Plus ce Pokémon\nse remplit d’eau, plus il peut rebondir haut.",
+        "Très joueur, il adore faire des blagues.\nIl engloutit des litres d’eau de mer et enfle\ncomme une baudruche, pour mieux rebondir.",
+        "Il recrache l’eau avalée par son évent, c’est\nce qui le rend si charmant. Il gobe une tonne\nde Froussardine par jour.",
+        "Pour se nourrir, il nage en gardant la bouche\ngrande ouverte, et recrache l’eau dont il n’a\npas besoin par son évent.",
+        "On raconte que ce Pokémon habitait jadis\nsur terre. En de rares occasions, on peut en\nvoir se regrouper sur les plages.",
+        "Il aime faire le beau en recrachant par son évent\nl’eau qu’il a avalée.\nIl gobe une tonne de Froussardine chaque jour.",
+        "Il ressemble à un énorme ballon quand il avale\nde très grandes quantités d’eau de mer.\nIl dévore une tonne de nourriture par jour."
+    ],
+    "height": 2.0,
+    "id": 320,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "name": "Wailmer",
+    "types": [
+        "Eau"
+    ],
+    "weight": 130.0
+}

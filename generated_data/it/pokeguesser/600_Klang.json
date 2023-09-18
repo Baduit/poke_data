@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Comunicano il loro stato d’animo cambiando senso di\nrotazione. Più si arrabbiano, più girano velocemente.",
+        "È formato da un ingranaggio grande e uno piccolo.\nAttacca con quello piccolo ma, se questo non torna\nindietro, è in seria difficoltà.",
+        "Comunicano il loro stato d’animo cambiando senso di\nrotazione. Più si arrabbiano, più girano velocemente.",
+        "È formato da un ingranaggio grande e uno piccolo. Attacca\ncon quello piccolo ma, se questo non torna indietro, è in\nseria difficoltà.",
+        "Quando fa sul serio, la parte esterna\ndell’ingranaggio grande si unisce a quello\npiccolo e iniziano a girare all’impazzata.",
+        "Molte imprese di Galar lo usano come logo\nin quanto simbolo della tecnologia industriale."
+    ],
+    "height": 0.6,
+    "id": 600,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+    "name": "Klang",
+    "types": [
+        "Acciaio"
+    ],
+    "weight": 51.0
+}

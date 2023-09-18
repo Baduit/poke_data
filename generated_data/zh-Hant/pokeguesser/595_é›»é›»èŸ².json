@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "會附在寶可夢的身上\n吸收靜電。自身並沒有\n製造電的能力。",
+        "會附在其他寶可夢身上\n吸取靜電。經常會把自己\n貼在來電汪的屁股上。"
+    ],
+    "height": 0.1,
+    "id": 595,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "name": "電電蟲",
+    "types": [
+        "蟲",
+        "電"
+    ],
+    "weight": 0.6
+}

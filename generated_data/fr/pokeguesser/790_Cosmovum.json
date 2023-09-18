@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "On pourrait le croire mort car il ne bouge pas\ndu tout. Au toucher, il reste tiède. On le\nsurnomme « cocon céleste » depuis l’Antiquité.",
+        "Sous sa lourde carapace, il amasse secrètement\nquelque chose en son sombre noyau.\nIl viendrait d’un autre monde.",
+        "Un antique roi d’Alola lui a donné le surnom\nde « cocon céleste » et a même érigé un autel\nen son honneur.",
+        "Il continue à grandir en absorbant de la lumière.\nSa carapace dorée est étonnamment solide.",
+        "La carapace qui le recouvre est plus dure\nque tout ce qui est connu par l’Homme.\nIl grandit en absorbant la lumière des étoiles.",
+        "Il aspire avec force la poussière de l’atmosphère\net travaille sans relâche pour produire dans\nson noyau l’énergie nécessaire à son évolution."
+    ],
+    "height": 0.1,
+    "id": 790,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "name": "Cosmovum",
+    "types": [
+        "Psy"
+    ],
+    "weight": 999.9
+}

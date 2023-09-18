@@ -1,0 +1,36 @@
+{
+    "descriptions": [
+        "The tip of its\ntail, which con­\ntains oil that is\flighter than wa­\nter, lets it swim\nwithout drowning.",
+        "The end of its\ntail serves as a\nbuoy that keeps\fit from drowning,\neven in a vicious\ncurrent.",
+        "The fur on its\nbody naturally\nrepels water. It\fcan stay dry, even\nwhen it plays in\nthe water.",
+        "MARILL’s oil-filled tail acts much like\na life preserver. If you see just its\ntail bobbing on the water’s surface,\fit’s a sure indication that this POKéMON\nis diving beneath the water to feed on\naquatic plants.",
+        "When fishing for food at the edge of a\nfast-running stream, MARILL wraps its\ntail around the trunk of a tree.\fThis POKéMON’s tail is flexible and\nconfigured to stretch.",
+        "Its body is covered with water-repellent\nfur. Because of the fur, it can swim\nthrough water at high speed without being\nslowed by the water’s resistance.",
+        "The end of its tail serves as a buoy that\nkeeps it from drowning, even in a vicious\ncurrent.",
+        "The tip of its tail, which contains oil\nthat is lighter than water, lets it swim\nwithout drowning.",
+        "Using its tail as a float, it dives\nunderwater. It likes eating plants\nthat grow on river bottoms.",
+        "The tip of its tail is filled with oil\nthat is lighter than water, so it\nacts as a float.",
+        "The oil-filled end of its tail floats\non water. It keeps MARILL from\ndrowning even in a strong current.",
+        "The tip of its tail, which contains\noil that is lighter than water,\nlets it swim without drowning.",
+        "The end of its tail serves as a\nbuoy that keeps it from drowning,\neven in a vicious current.",
+        "The oil-filled end of its tail floats\non water. It keeps Marill from\ndrowning even in a strong current.",
+        "The oil-filled end of its tail floats\non water. It keeps Marill from\ndrowning even in a strong current.",
+        "The oil-filled tail functions\nas a buoy, so it’s fine even\nin rivers with strong currents.",
+        "The oil-filled tail functions\nas a buoy, so it’s fine even\nin rivers with strong currents.",
+        "The fur on its body naturally repels water. It can\nstay dry, even when it plays in the water.",
+        "The tip of its tail is filled with oil that is lighter than\nwater, so it acts as a float.",
+        "Marill’s oil-filled tail acts much like a life preserver. If you see\njust its tail bobbing on the water’s surface, it’s a sure\nindication that this Pokémon is diving beneath the water to\nfeed on aquatic plants.",
+        "When fishing for food at the edge of a fast-running stream,\nMarill wraps its tail around the trunk of a tree. This Pokémon’s\ntail is flexible and configured to stretch.",
+        "This Pokémon uses its round tail as a float. The\nball of Marill’s tail is filled with nutrients that\nhave been turned into an oil.",
+        "Even after Marill swims in a cold sea, its water-\nrepellent fur dries almost as soon as Marill leaves\nthe water. That’s why this Pokémon is never cold."
+    ],
+    "height": 0.4,
+    "id": 183,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "name": "Marill",
+    "types": [
+        "Water",
+        "Fairy"
+    ],
+    "weight": 8.5
+}

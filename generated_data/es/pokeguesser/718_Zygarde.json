@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cuando el ecosistema de Kalos se encuentra en\npeligro, aparece y revela su poder secreto.",
+        "Vive en las profundidades de las cavernas, desde\ndonde vigila a todos aquellos que se dediquen a\ndestruir el ecosistema.",
+        "Cuando el ecosistema de Kalos se encuentra en peligro,\naparece y revela su poder secreto.",
+        "Vive en las profundidades de las cavernas, desde donde vigila\na todos aquellos que se dediquen a destruir el ecosistema.",
+        "La forma que adopta Zygarde al reunir el\n50% de sus células. Quienes se le oponen son\naniquilados sin la menor vacilación.",
+        "Se cree que este Pokémon vela por el equilibrio\ndel ecosistema. Se rumorea que en su interior\nyace un poder que va más allá de la imaginación.",
+        "Esta es la forma que adopta Zygarde al reunir el\n50% de sus células. Su cometido consiste en\nvigilar el ecosistema.",
+        "Según los rumores, puede adoptar una forma\naún más poderosa cuando se enfrenta a\nquienquiera que amenace el ecosistema."
+    ],
+    "height": 5.0,
+    "id": 718,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "name": "Zygarde",
+    "types": [
+        "Dragón",
+        "Tierra"
+    ],
+    "weight": 305.0
+}

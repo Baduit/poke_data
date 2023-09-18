@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Con la sua capacità di distinguere qualsiasi odore,\ntrova cibo nel terreno anche a grandi profondità.",
+        "Nonostante la stazza, è abile ad arrampicarsi in cima\nagli alberi, dove mangia e dorme.",
+        "Si dice che nelle foreste in cui vive Ursaring ci siano molti\ncorsi d’acqua e alberi giganti dove questo Pokémon\nnasconde le proprie scorte di cibo. Ogni giorno si aggira\nnella foresta alla ricerca di alimenti.",
+        "Si dice che nelle foreste in cui vive Ursaring ci siano molti\ncorsi d’acqua e alberi giganti dove questo Pokémon\nnasconde le proprie scorte di cibo. Ogni giorno si aggira\nnella foresta alla ricerca di alimenti."
+    ],
+    "height": 1.8,
+    "id": 217,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "name": "Ursaring",
+    "types": [
+        "Normale"
+    ],
+    "weight": 125.8
+}

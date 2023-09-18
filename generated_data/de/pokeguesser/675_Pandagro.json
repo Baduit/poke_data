@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es ist sehr grob und streitlustig, lässt es aber nicht zu,\ndass Schwächere gemobbt werden. Mit seinem Blatt\nerspürt es die Bewegungen des Gegners.",
+        "Es greift mit mächtigen Armen an, die so stark sind,\ndass sie Strommasten wie Streichhölzer umknicken\nkönnen. Gegenangriffe steckt es unbeeindruckt ein.",
+        "Es ist sehr grob und streitlustig, lässt es aber nicht zu, dass\nSchwächere gemobbt werden. Mit seinem Blatt erspürt es die\nBewegungen des Gegners.",
+        "Es greift mit mächtigen Armen an, die so stark sind,\ndass sie Strommasten wie Streichhölzer umknicken\nkönnen. Gegenangriffe steckt es unbeeindruckt ein.",
+        "Seine mächtigen Arme sind sehr imposant.\nWer als Pandagro-Trainer Karriere machen will,\nmuss wohl die Fäuste sprechen lassen!",
+        "Mit seinem Blatt erspürt es die Bewegungen\ndes Gegners. Es ist sehr grob und streitlustig,\nhält aber stets zu seinen Artgenossen.",
+        "Ein ungezügeltes Pokémon, das mit seinen\nFäusten ordentlich austeilen kann. Viele Trainer\nsind völlig vernarrt in sein energisches Wesen.",
+        "Ein Pokémon, das lieber die Fäuste sprechen\nlässt, als lange Reden zu schwingen. Selbst\nKipplaster fliegen meterweit, wenn es sie rammt.",
+        "Dieses aggressive Pokémon bringt Gegner mit\nseiner Muskelkraft zum Verstummen. Es liebt\nKämpfe gegen Barrikadax.",
+        "Mit seinem Blatt erspürt es die Bewegungen des\nGegners. Seine Schläge sind so stark, dass es\nsogar Kipplaster zu Schrott verarbeiten kann."
+    ],
+    "height": 2.1,
+    "id": 675,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+    "name": "Pandagro",
+    "types": [
+        "Kampf",
+        "Unlicht"
+    ],
+    "weight": 136.0
+}

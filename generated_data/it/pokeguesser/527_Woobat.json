@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Vive nelle foreste buie o nelle caverne. Sonda\nl’ambiente circostante emettendo degli ultrasuoni\ndalle narici.",
+        "Quando preme il naso contro il corpo di qualcuno\nlascia un segno a forma di cuore che, dicono, porta\nfortuna.",
+        "Vive nelle foreste buie o nelle caverne. Sonda l’ambiente\ncircostante emettendo degli ultrasuoni dalle narici.",
+        "Quando preme il naso contro il corpo di qualcuno lascia un\nsegno a forma di cuore che, dicono, porta fortuna.",
+        "Se alzando lo sguardo in una grotta si vedono\nimpronte a forma di cuore sulle pareti, è segno\nche vi abitano dei Woobat.",
+        "Svolazza emettendo ultrasuoni in cerca\ndi Pokémon di tipo Coleottero, di cui si nutre."
+    ],
+    "height": 0.4,
+    "id": 527,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "name": "Woobat",
+    "types": [
+        "Psico",
+        "Volante"
+    ],
+    "weight": 2.1
+}

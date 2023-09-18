@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "굴을 파면서 먹은 모래를\n목에 있는 주머니에 저장하는데\n8kg이나 되는 모래가 들어간다.",
+        "콧구멍으로 모래를 분사한다.\n적의 눈을 속이고 그 틈에\n땅속으로 숨어들어 몸을 숨긴다."
+    ],
+    "height": 2.2,
+    "id": 843,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "name": "모래뱀",
+    "types": [
+        "땅"
+    ],
+    "weight": 7.6
+}

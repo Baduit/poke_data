@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Genera del fuoco congiungendo le ali.\nAvvolge il nemico con violente fiamme mentre\nsi esibisce in un’elegante coreografia di danza.",
+        "Un Oricorio che si è nutrito di Nettare rosso.\nCon i suoi ardenti passi di danza trascina i suoi\nnemici in una lotta infuocata.",
+        "Ammalia il nemico con una danza appassionata\ne approfitta della sua distrazione per attaccare\ncon fiamme potentissime riducendolo in cenere.",
+        "Un Oricorio che si è nutrito di Nettare rosso.\nÈ molto melodrammatico e va su tutte le furie se\nil suo Allenatore gli dà un’indicazione sbagliata."
+    ],
+    "height": 0.6,
+    "id": 741,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "name": "Oricorio",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 3.4
+}

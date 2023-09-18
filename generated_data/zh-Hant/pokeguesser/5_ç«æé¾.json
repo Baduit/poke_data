@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "在與強敵戰鬥的過程中，\n如果情緒變得興奮起來，\n有時會噴出藍白色的火焰。",
+        "在與強敵戰鬥的過程中，\n如果情緒變得興奮起來，\n有時會噴出藍白色的火焰。",
+        "揮動燃燒著火焰的尾巴，\n用鋒利的爪子撕裂對手。\n性情十分粗暴。",
+        "如果牠在戰鬥中亢奮起來，\n就會噴出灼熱的火焰，\n把周圍的東西燒得一乾二淨。"
+    ],
+    "height": 1.1,
+    "id": 5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "name": "火恐龍",
+    "types": [
+        "火"
+    ],
+    "weight": 19.0
+}

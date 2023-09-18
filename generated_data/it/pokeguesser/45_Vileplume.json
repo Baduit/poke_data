@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Più grandi sono i petali, maggiore è la quantità di\npolline tossico che contengono. La testa è\nmolto pesante.",
+        "Ha i petali più grandi del mondo. Ad ogni suo passo,\ni petali liberano fitte nubi di polline tossico.",
+        "Il polline velenoso di Vileplume scatena paurose reazioni\nallergiche. Per questo motivo si consiglia di non avvicinarsi\nmai a nessun fiore di bosco, per quanto bello possa essere.",
+        "Vileplume ha i petali più grandi al mondo. Li usa per attirare\nla preda per poi ricoprirla di spore velenose. Una volta\nimmobilizzata la preda, il Pokémon la cattura e la divora.",
+        "Scuote gli enormi petali per liberare polline\nvelenoso, producendo un gran frastuono.",
+        "Scuote gli enormi petali per liberare polline\nvelenoso, producendo un gran frastuono.",
+        "Ha i petali più grandi del mondo. Ad ogni\nsuo passo, liberano fitte nubi di polline tossico.",
+        "Più grandi sono i petali, maggiore è la quantità\ndi polline tossico che contengono. La testa, però,\ndiventa molto pesante e fa fatica a sostenerla."
+    ],
+    "height": 1.2,
+    "id": 45,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "name": "Vileplume",
+    "types": [
+        "Erba",
+        "Veleno"
+    ],
+    "weight": 18.6
+}

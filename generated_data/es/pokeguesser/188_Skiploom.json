@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "La flor de su cabeza se abre y cierra según suba o\nbaje la temperatura.",
+        "Abre sus pétalos para absorber la luz solar. También\nflota en el aire para estar más cerca del sol.",
+        "Skiploom florece cuando la temperatura llega a 18 °C.\nLa apertura de los pétalos varía según la temperatura que\nhaga. Por este motivo, la gente lo usa a veces a modo de\ntermómetro.",
+        "Skiploom florece cuando la temperatura llega a 18 °C.\nLa apertura de los pétalos varía según la temperatura que\nhaga. Por este motivo, la gente lo usa a veces a modo de\ntermómetro."
+    ],
+    "height": 0.6,
+    "id": 188,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "name": "Skiploom",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 1.0
+}

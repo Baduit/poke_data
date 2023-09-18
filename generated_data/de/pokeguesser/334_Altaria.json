@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es schwebt gemächlich durch den Himmel.\nSein wunderschönes Summen gibt einem\ndas Gefühl zu träumen.",
+        "Bei gutem Wetter mischt es sich unter die Wolken\nund genießt die Freiheit. Es hat eine entzückende\nSopranstimme.",
+        "Altaria tanzt und dreht sich in der Luft durch viele\nSchäfchenwolken. Indem es mit seiner kristallklaren\nStimme Melodien singt, versetzt es seine Zuhörer in\nverträumtes Erstaunen.",
+        "Altaria hat eine tolle Sopran-Stimme. Seine Flügel sehen aus\nwie Schäfchenwolken. Dieses Pokémon stürzt sich in einen\nAufwind und steigt in den Himmel empor.",
+        "Es schwebt gemächlich durch die Lüfte und\nlässt dabei ein wunderschönes Summen ertönen,\ndas alle in seinen Bann zieht, die es hören.",
+        "Altaria ist von sanfter Natur, doch wird es\nverärgert, stößt es zur Einschüchterung schrilles\nGeschrei aus und greift dann gnadenlos an."
+    ],
+    "height": 1.1,
+    "id": 334,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "name": "Altaria",
+    "types": [
+        "Drache",
+        "Flug"
+    ],
+    "weight": 20.6
+}

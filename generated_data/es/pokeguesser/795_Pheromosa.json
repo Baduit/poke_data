@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Uno de los temibles Ultraentes. Se dice\nque ha sido avistado recorriendo la superficie\nterrestre a velocidades de vértigo.",
+        "Este Ultraente se muestra reacio al contacto,\nprobablemente porque percibe inmundicia en\ntodo cuanto le rodea.",
+        "Una forma de vida procedente de otro mundo.\nAunque su cuerpo es esbelto y flexible, alberga\nun gran poder.",
+        "Para los seres de este mundo resulta extraño\ny peligroso, pero en el mundo del que procede\nes una criatura muy común."
+    ],
+    "height": 1.8,
+    "id": 795,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "name": "Pheromosa",
+    "types": [
+        "Bicho",
+        "Lucha"
+    ],
+    "weight": 25.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il confond ses ennemis grâce au brouillard\net les pousse à s’en prendre à eux-mêmes.\nIl puise son énergie dans les courants marins.",
+        "Gardien de Poni, il a le pouvoir de contrôler l’eau.\nOn raconte qu’il peut produire une eau limpide\nqui nettoie toutes les impuretés.",
+        "Gardien de Poni et maître de l’eau, il vit au plus\nprofond de la brume. C’est notamment pour\ncette raison qu’il est à la fois craint et vénéré.",
+        "Il ne faut pas se laisser berner par son statut\nde divinité protectrice : il lui arrive de mettre en\npièces ceux qui osent s’approcher de trop près."
+    ],
+    "height": 1.3,
+    "id": 788,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+    "name": "Tokopisco",
+    "types": [
+        "Eau",
+        "Fée"
+    ],
+    "weight": 21.2
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Su cuerpo es tan ligero, que debe agarrarse bien al\nsuelo con las patas para no irse con el viento.",
+        "Flotan en el aire. Se dice que, cuando los Hoppip se\nreúnen, es que la primavera está al caer.",
+        "Este Pokémon flota en el aire y se deja llevar. Cuando\npercibe que el viento va a cambiar a fuerte, Hoppip entrelaza\nsus hojas con otros Hoppip para hacer resistencia y evitar\nsalir volando por la fuerza de la corriente.",
+        "Este Pokémon flota en el aire y se deja llevar. Cuando\npercibe que el viento va a cambiar a fuerte, Hoppip entrelaza\nsus hojas con otros Hoppip para hacer resistencia y evitar\nsalir volando por la fuerza de la corriente."
+    ],
+    "height": 0.4,
+    "id": 187,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "name": "Hoppip",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 0.5
+}

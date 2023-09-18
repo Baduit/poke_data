@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Cuando titila, esparce esporas luminosas a su\nalrededor. Todo aquel que ve esta luz cae en un\nprofundo sueño.",
+        "Por el día, absorbe los nutrientes de las raíces\nde los árboles mientras duerme. Por la noche,\ndespierta y parte en busca de nuevos árboles.",
+        "Esparce esporas luminosas a su alrededor.\nA pesar del peligro, los tours nocturnos a través\nde los bosques que habitan son muy populares.",
+        "Prefiere los lugares oscuros y húmedos. Por la\nnoche, las esporas que almacena en los\nsombrerillos lucen en la oscuridad.",
+        "Sus sombrerillos tienen un sabor delicioso.\nAunque los Pokémon del bosque se los coman,\nles vuelven a crecer al día siguiente.",
+        "Vive en bosques umbríos. Esparce a su alrededor\nesporas titilantes que adormecen a sus enemigos."
+    ],
+    "height": 0.2,
+    "id": 755,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+    "name": "Morelull",
+    "types": [
+        "Planta",
+        "Hada"
+    ],
+    "weight": 1.5
+}

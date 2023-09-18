@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Mientras que de día duerme tranquilamente a la\nluz del sol, al caer la noche busca un sitio más\nseguro para dormir.",
+        "Desprende un aroma fresco y dulce. En la hierba\nalta donde se esconde también suelen acudir\nCutiefly.",
+        "Al salir el sol, expande sus cuatro hojas\nbuscando la luz. De su cabeza emana un\nagradable aroma.",
+        "Le encanta la luz solar. Cuanto más toma el sol,\nmás llamativos son los colores que desarrolla.",
+        "Cuando toma el sol, desprende un aroma muy\ndulce y agradable que atrae a multitud de\nPokémon insecto.",
+        "De día duerme tranquilamente a la luz del sol y,\nal ocaso, despierta e inicia su actividad nocturna."
+    ],
+    "height": 0.3,
+    "id": 753,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+    "name": "Fomantis",
+    "types": [
+        "Planta"
+    ],
+    "weight": 1.5
+}

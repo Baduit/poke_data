@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Dispone di un potere innato che lo fa legare con\nqualsiasi specie di Pokémon.",
+        "Dispone di un potere innato che lo fa legare con\nqualsiasi specie di Pokémon.",
+        "Dispone di un potere innato che lo fa legare con qualsiasi\nspecie di Pokémon.",
+        "Dispone di un potere innato che lo fa legare con qualsiasi\nspecie di Pokémon."
+    ],
+    "height": 0.3,
+    "id": 490,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "name": "Manaphy",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 1.4
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "利用光來引誘獵物靠近，\n但往往連天敵的兇猛\n魚寶可夢也引了過來。",
+        "棲息在海底的深海寶可夢。\n使用鰭在海底爬行，\n尋找愛吃的寶石海星。",
+        "深海的海底獵物很少，\n為了爭奪寶貴的食物，\n會和電燈怪展開激烈的鬥爭。",
+        "像爬行般地在海底游動。\n鰭發出的光充滿奇幻氣氛，\n就像夜空中的星星一樣。"
+    ],
+    "height": 1.2,
+    "id": 457,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "name": "霓虹魚",
+    "types": [
+        "水"
+    ],
+    "weight": 24.0
+}

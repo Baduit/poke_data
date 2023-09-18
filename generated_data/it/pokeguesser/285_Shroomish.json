@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Predilige le aree umide. Di giorno resta immobile\nnell’ombra della foresta. Dal capo rilascia polvere\ntossica.",
+        "Sparge spore tossiche dalla sommità del capo. Se\ninalate, queste spore provocano dolore in tutto il\ncorpo.",
+        "Shroomish vive nel suolo umido nel cuore della foresta buia.\nSpesso si nasconde sotto le foglie cadute. Si ciba dell’humus\ncreato dal letto di foglie decomposte sul terreno.",
+        "In caso di pericolo Shroomish agita il proprio corpo spargendo\nspore dalla sommità del capo. Le spore di questo Pokémon\nsono così tossiche da far appassire fiori e piante."
+    ],
+    "height": 0.4,
+    "id": 285,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "name": "Shroomish",
+    "types": [
+        "Erba"
+    ],
+    "weight": 4.5
+}

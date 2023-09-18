@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es schwimmt mit fünf Knoten. Wird es angegriffen,\nwehrt es sich mit seinem scharfen Horn.",
+        "Seine Brust-, Rücken- und Schweifflossen sehen\nanmutig aus. Daher nennt man es den „Wassertänzer“.",
+        "Goldini ist ein wunderschönes Pokémon, dessen Flossen\nsich elegant im Wasser wiegen. Aber man muss auf dieses\nPokémon achtgeben. Es könnte einen sonst heftig mit\nseinem Horn rammen.",
+        "Goldini liebt es, in Teichen und Flüssen zu schwimmen.\nWenn ein solches Pokémon in ein Aquarium gebracht wird,\nwird es selbst das dickste Glas mit einem Stoß seines Horns\nzum Zerbersten bringen und die Flucht ergreifen.",
+        "Wenn es warm wird, bilden sie Schwärme und\nschwimmen stromaufwärts. Dies ist ein Zeichen\ndafür, dass der Frühling herannaht.",
+        "Einige Trainer sind von seinem langem Horn\nund seiner Eleganz so entzückt, dass sie\nausschließlich Goldini trainieren.",
+        "Es ist für seine schöne Schwanzflosse bekannt.\nMiteinander wetteifern sie aber darum, wer das\ndickste und spitzeste Horn auf dem Kopf hat.",
+        "Beim Schwimmen flattern seine Flossen wie ein\nKleid, was ihm eine märchenhafte Ausstrahlung\nverleiht. Man nennt es auch „Wasserprinzessin“.",
+        "Während der Laichzeit kann man Schwärme von\nGoldini dabei beobachten, wie sie gegen den\nStrom von Flüssen und Wasserfällen schwimmen.",
+        "Während der Laichzeit kann man Schwärme von\nGoldini dabei beobachten, wie sie gegen den\nStrom von Flüssen und Wasserfällen schwimmen.",
+        "Seine Brust-, Rücken- und Schwanzflossen\nbewegen sich anmutig. Daher nennt man es\nden „Wassertänzer“.",
+        "Seine Rücken- und Brustflossen sind muskelähnlich\nentwickelt. Es erreicht beim Schwimmen eine\nGeschwindigkeit von bis zu fünf Knoten."
+    ],
+    "height": 0.6,
+    "id": 118,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "name": "Goldini",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 15.0
+}

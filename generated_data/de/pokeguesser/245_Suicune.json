@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es wandert beständig in der Welt herum,\num verunreinigtes Wasser zu reinigen.\nEs zieht mit dem Nordwind.",
+        "Man sagt, es sei die Wiedergeburt des Nordwindes.\nEs kann verschmutztes Wasser im Nu reinigen.",
+        "Suicune wohnt die Reinheit einer Quelle inne. Es bewegt sich\ngraziös und hat die Macht, schmutziges Wasser zu reinigen.",
+        "Suicune wohnt die Reinheit einer Quelle inne. Es läuft graziös\nherum und hat die Macht, schmutziges Wasser zu reinigen."
+    ],
+    "height": 2.0,
+    "id": 245,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "name": "Suicune",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 187.0
+}

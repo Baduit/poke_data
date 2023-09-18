@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Um Beute anzulocken, bietet es seinen Hut feil,\nder einem Pokéball ähnelt. Doch kaum ein\nPokémon fällt darauf herein.",
+        "Es lockt seine Beute an, indem es die Hüte in Form\nvon Pokébällen an seinen Armen rüttelt und einen\nTanz aufführt.",
+        "Um Beute anzulocken, bietet es seinen Hut feil, der einem\nPokéball ähnelt. Doch kaum ein Pokémon fällt darauf herein.",
+        "Es lockt seine Beute an, indem es die Hüte in Form von\nPokébällen an seinen Armen rüttelt und einen Tanz aufführt.",
+        "Hutsassa versprüht Giftsporen. Wäscht man diese\nnicht sofort ab, wachsen dort, wo sie gelandet\nsind, Pilze.",
+        "Die meiste Zeit über bewegt es sich kaum und\nsteht einfach nur regungslos neben Pokébällen,\ndie am Boden liegen."
+    ],
+    "height": 0.6,
+    "id": 591,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "name": "Hutsassa",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 10.5
+}

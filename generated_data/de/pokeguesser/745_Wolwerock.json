@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Irritiert seine Feinde mit schnellen Bewegungen.\nAls Waffen hat es nicht nur Krallen und Hauer,\nsondern auch die spitzen Felsen seiner Mähne.",
+        "Zieht man dieses Pokémon von klein auf groß,\nwird es seinen Trainer niemals hintergehen und\nihm stets ein treuer Freund sein.",
+        "Seine steinerne Mähne ist scharf wie ein Messer.\nEs verfolgt seine Beute mit viel Geduld, bis diese\ndie Kräfte verlassen, und erlegt sie dann.",
+        "Seine steinerne Mähne ist schärfer als ein\nMesser. Abgebrochene Stücke gelten als\nwertvolle Glücksbringer.",
+        "Ein ruhiges Pokémon, das stets mit Bedacht\nvorgeht. Seine Steinmähne ist rasiermesserscharf.",
+        "Es treibt seine Beute mit schnellen Bewegungen\ngeduldig in die Enge. Dann stürzt es sich mit den\nFangzähnen auf deren Schwachpunkt."
+    ],
+    "height": 0.8,
+    "id": 745,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "name": "Wolwerock",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 25.0
+}

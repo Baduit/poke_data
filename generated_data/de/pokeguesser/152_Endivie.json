@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Ein süßer Duft geht von dem Blatt auf seinem Kopf\naus. Es ist ruhig und liegt gerne in der Sonne.",
+        "Mit dem Blatt auf seinem Kopf bestimmt es die\nTemperatur und Feuchtigkeit. Es liebt Sonnenbäder.",
+        "Im Kampf wedelt Endivie mit seinem Blatt, um den Feind\nfernzuhalten. Von dem Blatt geht auch ein süßlicher Duft aus,\nder die kämpfenden Pokémon beruhigt und eine gemütliche,\nfreundliche Atmosphäre schafft.",
+        "Im Kampf wedelt Endivie mit seinem Blatt, um den Feind\nfernzuhalten. Von dem Blatt geht auch ein süßlicher Duft aus,\nder das gegnerische Pokémon im Kampf beruhigt und eine\ngemütliche, freundliche Atmosphäre schafft."
+    ],
+    "height": 0.9,
+    "id": 152,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "name": "Endivie",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 6.4
+}

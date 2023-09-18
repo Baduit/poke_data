@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es muy persistente. Si se fija en una presa, no la\ndejará hasta que caiga agotada.",
+        "Es tenaz por naturaleza. Tiene un sentido del olfato\ntan agudo que nunca se le escapa la presa que quiere.",
+        "La primera reacción que Poochyena tiene al ver algo moverse\nes darle un mordisco. Este Pokémon persigue a su presa hasta\nque cae agotada. Aunque, a veces, sale huyendo si su presa\nle responde con un ataque.",
+        "Poochyena es un Pokémon omnívoro. Se come lo que sea.\nLe caracteriza el gran tamaño de sus colmillos respecto al\nresto del cuerpo. Este Pokémon hace que se le erice la cola\npara intentar intimidar a su rival."
+    ],
+    "height": 0.5,
+    "id": 261,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png",
+    "name": "Poochyena",
+    "types": [
+        "Siniestro"
+    ],
+    "weight": 13.6
+}

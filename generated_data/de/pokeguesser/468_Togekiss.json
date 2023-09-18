@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es zeigt sich nie an Orten, wo Streit und\nZwietracht herrschen. In letzter Zeit wird es\nkaum noch gesehen.",
+        "Es heißt, Togekiss erscheine in friedlichen Zeiten\nund verteile alle möglichen Wohltaten.",
+        "Menschen, die unnötigen Streit vermeiden und\nsich gegenseitig respektieren, ist es wohlgesinnt.",
+        "Es heißt, Togekiss erscheine in friedlichen Zeiten und verteile\nalle möglichen Wohltaten.",
+        "Menschen, die unnötigen Streit vermeiden und sich\ngegenseitig respektieren, ist es wohlgesinnt.",
+        "Man sagt, es verteile Wohltaten. Aus diesem\nGrund wird sein Abbild seit Urzeiten für\nGlücksbringer verwendet."
+    ],
+    "height": 1.5,
+    "id": 468,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "name": "Togekiss",
+    "types": [
+        "Fee",
+        "Flug"
+    ],
+    "weight": 38.0
+}

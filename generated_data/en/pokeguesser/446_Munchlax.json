@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "It wolfs down its weight in food\nonce a day, swallowing food whole\nwith almost no chewing.",
+        "It hides food under its long body\nhair. However, it forgets it has\nhidden the food.",
+        "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur.",
+        "It conceals food under the long fur on\nits body. It carts around this food\nstash and swallows it without chewing.",
+        "It conceals food under the long fur on\nits body. It carts around this food\nstash and swallows it without chewing.",
+        "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur.",
+        "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur.",
+        "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur.",
+        "In its desperation to gulp down\nfood, it forgets about the food it\nhas hidden under its fur.",
+        "It hides food under its long body hair. However,\nit forgets it has hidden the food.",
+        "It conceals food under the long fur on its body.\nIt carts around this food stash and swallows it\nwithout chewing.",
+        "It hides food under its long body hair. However,\nit forgets it has hidden the food.",
+        "It conceals food under the long fur on its body.\nIt carts around this food stash and swallows it\nwithout chewing.",
+        "It needs to consume its own weight in food\nevery day. As far as flavor is concerned,\nit’s indifferent.",
+        "When it finds something that looks like it might\nbe edible, it goes right ahead and swallows it\nwhole. That’s why it gets fatter day by day.",
+        "It hides food under its long fur, but it\nsometimes forgets about it and causes\na stinky disturbance.",
+        "Anything that looks edible, Munchlax will go on\nand swallow whole. Its stomach is tough enough\nto handle it even if the food has gone rotten.",
+        "Stuffing itself with vast amounts of food is its\nonly concern. Whether the food is rotten or\nfresh, yummy or tasteless—it does not care.",
+        "It stores food beneath its fur. It might share\njust one bite, but only if it really trusts you.",
+        "Its robust stomach allows it to nonchalantly devour even rotted\nmatter. It pays frequent visits to villages, seeking out food\nscraps intended for compost."
+    ],
+    "height": 0.6,
+    "id": 446,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "name": "Munchlax",
+    "types": [
+        "Normal"
+    ],
+    "weight": 105.0
+}

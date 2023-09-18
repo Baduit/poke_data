@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Un faible courant électrique circule\nentre ses cornes. Attention à ne\npas y mettre la main!",
+        "Un faible courant électrique circule\nentre ses cornes. Attention à ne\npas y mettre la main!",
+        "Il génère de l’électricité en battant des bras, mais\nil n’a aucun moyen de stocker cette énergie.",
+        "Ses cornes s’illuminent lorsqu’il fait tourner ses bras\npour générer de l’électricité.",
+        "Élekid stocke de l’électricité dans son corps. S’il touche\ndu métal et décharge sans le faire exprès son électricité,\nce Pokémon fait des cercles avec ses bras pour se recharger.",
+        "Élekid stocke de l’électricité dans son corps. S’il touche\ndu métal et décharge sans le faire exprès son électricité,\nce Pokémon fait des cercles avec ses bras pour se recharger.",
+        "Ce Pokémon « tète » les prises électriques\ndes maisons comme s’il s’agissait de biberons\nde lait, et ce jusqu’au dernier ampère.",
+        "Togedemaru et lui se disputent les mêmes\nsources d’électricité. Leurs combats\nse terminent souvent par une égalité.",
+        "Il adore le bruit de la foudre. Si vous\nl’enregistrez, vous pouvez le lui diffuser\nà loisir pour le mettre de bonne humeur.",
+        "Lorsqu’il est chargé à bloc, ses cornes émettent\nune lueur bleuâtre. Attention à ne pas les\ntoucher ou vous risquez l’électrocution !",
+        "Il ne tient plus en place quand un orage\napproche. Lorsqu’il entend le tonnerre\ngronder, il devient tout excité.",
+        "Il a encore du mal à emmagasiner l’électricité.\nPour s’en nourrir, il se faufile dans les maisons\nà la recherche de prises électriques."
+    ],
+    "height": 0.6,
+    "id": 239,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "name": "Élekid",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 23.5
+}

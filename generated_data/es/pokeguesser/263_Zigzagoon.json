@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se mueve en zigzag. Se le da bien encontrar\nobjetos ocultos en la hierba e incluso enterrados.",
+        "Es un Pokémon muy inquieto, se interesa por todo.\nSiempre está de aquí para allá.",
+        "Zigzagoon está todo el día dando vueltas de aquí para allá.\nEs un Pokémon muy inquieto. Se interesa por todo lo que se\nencuentra en su camino.",
+        "Zigzagoon tiene erizado el pelo del lomo, y suele frotárselo\ncontra los árboles para marcar su territorio. Este Pokémon\nhace como si estuviera debilitado para engañar a sus\nenemigos en combate.",
+        "Frota su pelo hirsuto contra los árboles con el fin\nde marcar su territorio. Tiene un carácter más\nafable que el Zigzagoon de Galar.",
+        "El Zigzagoon de Galar desarrolló este aspecto\ntras adaptarse a otras regiones. Muestra una gran\nhabilidad a la hora de encontrar cosas."
+    ],
+    "height": 0.4,
+    "id": 263,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "name": "Zigzagoon",
+    "types": [
+        "Normal"
+    ],
+    "weight": 17.5
+}

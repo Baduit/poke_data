@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Die Magneten an seinem Körper erzeugen\nein Antigravitationsfeld, um es ständig\nin der Schwebe zu halten.",
+        "Es bewegt sich schwebend. Seine Magnete an den\nSeiten entladen eine Donnerwelle nach der nächsten.",
+        "Magnetilo ernährt sich von Elektrizität aus Stromleitungen.\nDieses Pokémon hängt sich gern an Sicherungskästen.\nWenn es in deinem Haus zu einem Stromausfall kommt,\nsolltest du die Sicherungen überprüfen.",
+        "Magnetilo segelt durch die Luft und sendet dabei\nelektromagnetische Wellen an beiden Seiten seines\nKörpers aus. Dieses Pokémon wird flugunfähig,\nwenn die Stromquelle in seinem Inneren erschöpft ist.",
+        "Sie scharen sich um Orte, durch die Elektrizität\nfließt. Deshalb klammern sie sich zum Beispiel\nsehr oft in Massen an Strommasten fest.",
+        "Es sendet elektromagnetische Wellen aus und\nsegelt durch die Luft. Berührt man es, während\nes Strom saugt, bekommt man einen Schlag.",
+        "Da Magnetilo Stromausfälle verursacht, werden\nin vielen Kraftwerken Radiowellen ausgesendet,\ndie es nicht leiden kann, um es zu vertreiben.",
+        "Seit Stromleitungen zunehmend unterirdisch\nverlegt werden, stürzen sich mehr und mehr\nMagnetilo direkt auf Kraftwerke.",
+        "Es trotzt von Geburt an der Schwerkraft und\nschwebt auf elektromagnetischen Wellen durch\ndie Luft.",
+        "Es trotzt von Geburt an der Schwerkraft und\nschwebt auf elektromagnetischen Wellen durch\ndie Luft.",
+        "Manchmal geht die Elektrizität in seinem Körper\nzur Neige, woraufhin es zu Boden fällt. Eine\nBatterie bringt es wieder in Bewegung.",
+        "Es ernährt sich von Strom und segelt durch die\nLuft, indem es mit den Magneten an seinem\nKörper elektromagnetische Wellen aussendet."
+    ],
+    "height": 0.3,
+    "id": 81,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "name": "Magnetilo",
+    "types": [
+        "Elektro",
+        "Stahl"
+    ],
+    "weight": 6.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "La sua grande vitalità gli permette di adattarsi e\nproliferare anche nelle acque dei fiumi più inquinati.",
+        "La sua grande vitalità gli permette di adattarsi a ogni\nhabitat. Le sue chele non rilasciano mai la preda.",
+        "Originariamente Corphish era stato importato da altre regioni\ncome Pokémon domestico. Attualmente ne sono stati\ntrovati anche allo stato brado. Essendo molto resistente,\nha moltiplicato la sua popolazione.",
+        "Corphish cattura la preda con le sue temibili chele.\nNon ha esigenze particolari riguardo al cibo, infatti mangia\ndi tutto. Riesce a vivere anche in acque molto inquinate.",
+        "Sempre più Corphish vengono liberati da\nAllenatori che non possono più allenarli.\nOrmai si incontrano spesso anche ad Alola.",
+        "Si adatta a ogni habitat. Insieme a Feebas, è\nl’unico Pokémon che vive nelle acque stagnanti\ndei canali.",
+        "La sua grande vitalità gli permette di adattarsi\ne proliferare anche nelle acque dei fiumi più\ninquinati.",
+        "Importato dall’estero, si è successivamente\nrinselvatichito. Si adatta anche ai fiumi più\ninquinati."
+    ],
+    "height": 0.6,
+    "id": 341,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "name": "Corphish",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 11.5
+}

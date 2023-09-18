@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ein nachtaktives Pokémon, das Beute sucht, die durch\ndie Tageshitze der Wüste bereits erschöpft ist.",
+        "Gruppen von Noktuska folgen müden Wüstenreisenden\nund warten, bis diese bewegungsunfähig werden.",
+        "Am Tage bleibt Noktuska reglos, damit es in der brennenden\nWüstenhitze keine Feuchtigkeit verliert. Dieses Pokémon wird\nbei Nacht aktiv, wenn die Temperatur sinkt.",
+        "Wenn ein Reisender mitten in der Nacht durch eine\nWüste wandert, folgt Noktuska ihm und spielt ihm Streiche.\nDann wartet dieses Pokémon darauf, dass der Reisende\nmüde wird und sich nicht mehr bewegen kann."
+    ],
+    "height": 1.3,
+    "id": 332,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "name": "Noktuska",
+    "types": [
+        "Pflanze",
+        "Unlicht"
+    ],
+    "weight": 77.4
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il est capable de générer un nuage de vapeur pour\nse cacher. Il vit dans des montagnes inhabitées.",
+        "Il évacue la vapeur qui s’accumule à l’intérieur de son\ncorps par les bras situés sur son dos.\nCe jet est assez puissant pour raser des montagnes.",
+        "Il est capable de générer un nuage de vapeur pour se cacher.\nIl vit dans des montagnes inhabitées.",
+        "Il évacue la vapeur qui s’accumule à l’intérieur de son corps\npar les bras situés sur son dos. Ce jet est assez puissant\npour raser des montagnes."
+    ],
+    "height": 1.7,
+    "id": 721,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "name": "Volcanion",
+    "types": [
+        "Feu",
+        "Eau"
+    ],
+    "weight": 195.0
+}

@@ -1,0 +1,28 @@
+{
+    "descriptions": [
+        "The small ball holds the nutrients\nneeded for evolution. Apparently,\nit is very sweet and tasty.",
+        "Sunlight colors it red. When the\nsmall ball is drained of nutrients,\nit shrivels to herald evolution.",
+        "The small ball is not only filled with\nnutrients, it is also tasty. STARLY\ntry to peck it off.",
+        "It evolves by sucking the energy\nout of the small ball where it had\nbeen storing nutrients.",
+        "It evolves by sucking the energy\nout of the small ball where it had\nbeen storing nutrients.",
+        "The small ball is not only filled with\nnutrients, it is also tasty. Starly\ntry to peck it off.",
+        "The small ball is not only filled with\nnutrients, it is also tasty. Starly\ntry to peck it off.",
+        "The small ball is not only filled with\nnutrients, it is also tasty. Starly\ntry to peck it off.",
+        "The small ball is not only filled with\nnutrients, it is also tasty. Starly\ntry to peck it off.",
+        "Sunlight colors it red. When the small ball is\ndrained of nutrients, it shrivels to herald evolution.",
+        "It evolves by sucking the energy out of the small\nball where it had been storing nutrients.",
+        "Sunlight colors it red. When the small ball is\ndrained of nutrients, it shrivels to herald evolution.",
+        "It evolves by sucking the energy out of the small\nball where it had been storing nutrients.",
+        "It nimbly dashes about to avoid getting pecked\nby bird Pokémon that would love to make off\nwith its small, nutrient-rich storage ball.",
+        "The deeper a Cherubi’s red, the more nutrients it\nhas stockpiled in its body. And the sweeter and\ntastier its small ball!",
+        "Once the fruit growing alongside the main body is large and\nplump, Cherubi will use the nutrients within to evolve. The fruit\nthen detaches, becoming nourishment for other creatures."
+    ],
+    "height": 0.4,
+    "id": 420,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+    "name": "Cherubi",
+    "types": [
+        "Grass"
+    ],
+    "weight": 3.3
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Tiene una rama enredada en la cola. Cuando la saca,\nla rama prende fuego al hacer fricción con su pelaje\ny se lanza al ataque con ella.",
+        "Al extraer la rama que tiene en la cola, esta prende\ndebido a la fricción. Usa esa rama candente para\nenviar señales a sus compañeros.",
+        "Tiene una rama enredada en la cola. Cuando la saca, la rama\nprende fuego al hacer fricción con su pelaje y se lanza al\nataque con ella.",
+        "Al extraer la rama que tiene en la cola, esta prende debido a\nla fricción. Usa esa rama candente para enviar señales a sus\ncompañeros."
+    ],
+    "height": 1.0,
+    "id": 654,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+    "name": "Braixen",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 14.5
+}

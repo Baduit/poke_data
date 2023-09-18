@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在浮冰上生活。能夠一邊\n游泳一邊嗅出獵物的氣味，\n把對方找出來獵捕。",
+        "牠只要看見了圓形的東西，\n不論那是海豹球或是精靈球，\n都會把它頂在鼻子上轉轉看。"
+    ],
+    "height": 1.1,
+    "id": 364,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+    "name": "海魔獅",
+    "types": [
+        "冰",
+        "水"
+    ],
+    "weight": 87.6
+}

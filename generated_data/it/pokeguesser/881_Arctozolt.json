@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "La parte superiore del suo corpo è ghiacciata\ne quando trema produce elettricità. Cammina\ncon estrema difficoltà.",
+        "Anticamente viveva in riva al mare conservando\nil cibo grazie al ghiaccio del suo corpo, ma si è\nestinto a causa della sua estrema lentezza."
+    ],
+    "height": 2.3,
+    "id": 881,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+    "name": "Arctozolt",
+    "types": [
+        "Elettro",
+        "Ghiaccio"
+    ],
+    "weight": 150.0
+}

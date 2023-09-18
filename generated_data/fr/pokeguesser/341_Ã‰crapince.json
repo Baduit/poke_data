@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Sa nature robuste lui permet de\nvivre sur n’importe quel terrain. \nSes pinces ne lâchent jamais prise.",
+        "Sa nature robuste lui permet de\nvivre sur n’importe quel terrain. \nSes pinces ne lâchent jamais prise.",
+        "Sa nature robuste lui permet de prospérer dans\nn’importe quelles eaux, aussi polluées soient-elles.",
+        "Sa nature robuste lui permet de vivre sur n’importe\nquel terrain. Ses pinces ne lâchent jamais prise.",
+        "Les Écrapince étaient au départ des Pokémon étrangers\nimportés comme animaux domestiques. Ils ont fini par retrouver\nleur état sauvage. Ce Pokémon est particulièrement robuste\net sa population augmente sans arrêt.",
+        "Écrapince attrape ses proies avec ses puissantes pinces.\nPour la nourriture, il n’est pas difficile. Il mange de tout.\nVivre dans de l’eau sale ne dérange pas ce Pokémon.",
+        "On voit souvent des Écrapince sur les plages.\nIl s’agit en fait de Pokémon relâchés par leurs\nDresseurs, qui ne parvenaient pas les élever.",
+        "Il peut s’adapter à n’importe quel environnement.\nBarpau et lui sont d’ailleurs les seuls Pokémon\nà vivre dans l’eau des égouts !",
+        "Sa nature robuste lui permet de prospérer\ndans n’importe quelles eaux, aussi polluées\nsoient-elles.",
+        "Un Pokémon importé, retourné à l’état sauvage.\nIl s’adapte même aux rivières les plus polluées."
+    ],
+    "height": 0.6,
+    "id": 341,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "name": "Écrapince",
+    "types": [
+        "Eau"
+    ],
+    "weight": 11.5
+}

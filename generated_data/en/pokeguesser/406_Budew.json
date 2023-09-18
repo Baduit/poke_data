@@ -1,0 +1,29 @@
+{
+    "descriptions": [
+        "Over the winter, it closes its bud\nand endures the cold. In spring,\nthe bud opens and releases pollen.",
+        "It lives alongside clear ponds.\nIt scatters pollen that induces\nharsh sneezing and runny noses.",
+        "Sensitive to changing temperature,\nthe bud is said to bloom when it\nfeels the sun’s warm touch.",
+        "When it feels the sun’s warm touch,\nit opens its bud to release pollen.\nIt lives alongside clear pools.",
+        "When it feels the sun’s warm touch,\nit opens its bud to release pollen.\nIt lives alongside clear pools.",
+        "Sensitive to changing temperature,\nthe bud is said to bloom when it\nfeels the sun’s warm touch.",
+        "Sensitive to changing temperature,\nthe bud is said to bloom when it\nfeels the sun’s warm touch.",
+        "Sensitive to changing temperatures,\nthe bud blooms when it’s warm,\nreleasing toxic pollen.",
+        "Sensitive to changing temperatures,\nthe bud blooms when it’s warm,\nreleasing toxic pollen.",
+        "When it feels the sun’s warm touch, it opens its bud\nto release pollen. It lives alongside clear pools.",
+        "Over the winter, it closes its bud and endures the\ncold. In spring, the bud opens and releases pollen.",
+        "When it feels the sun’s warm touch, it opens its bud\nto release pollen. It lives alongside clear pools.",
+        "Over the winter, it closes its bud and endures the\ncold. In spring, the bud opens and releases pollen.",
+        "The pollen it releases contains poison. If this\nPokémon is raised on clean water, the poison’s\ntoxicity is increased.",
+        "This Pokémon is highly sensitive to temperature\nchanges. When its bud starts to open, that means\nspring is right around the corner.",
+        "When the sun's light strengthens, the bud atop this Pokémon's\nhead opens. This is a sign to the people that the harsh winter is\nover, and the season of budding has begun."
+    ],
+    "height": 0.2,
+    "id": 406,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "name": "Budew",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 1.2
+}

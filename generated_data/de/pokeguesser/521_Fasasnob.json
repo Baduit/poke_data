@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Männchen schrecken Gegner ab, indem sie ihren\nKopfschmuck schütteln. Weibchen verfügen über\nbessere Flugfertigkeiten.",
+        "Männliche Exemplare tragen eine Verzierung am Kopf.\nLässt sich von Natur aus nur auf seinen Trainer ein.",
+        "Männchen schrecken Gegner ab, indem sie ihren Kopfschmuck\nschütteln. Weibchen verfügen über bessere Flugfertigkeiten.",
+        "Männliche Exemplare tragen eine Verzierung am Kopf.\nLässt sich von Natur aus nur auf seinen Trainer ein.",
+        "Sie verfügen über exzellente Flugfertigkeiten.\nWeibchen können länger fliegen, aber dafür\nerreichen Männchen ein höheres Flugtempo.",
+        "Es ist schlau, aber auch sehr stolz. Seine Trainer\ngenießen daher generell großen Respekt."
+    ],
+    "height": 1.2,
+    "id": 521,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "name": "Fasasnob",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 29.0
+}

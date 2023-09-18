@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si aggira nella notte stellata lasciando cadere una\nscia di polvere incandescente.",
+        "I puntini sulla schiena sono più grandi o più piccoli\nsecondo il numero di stelle nel cielo.",
+        "Si dice che in luoghi dall’aria pura e dal cielo terso e stellato\nvivano moltissimi Ledian. Ciò è dovuto alla loro abitudine\ndi usare la luce delle stelle come fonte energetica.",
+        "Si dice che in luoghi dall’aria pura e dal cielo terso e stellato\nvivano moltissimi Ledian. Ciò è dovuto alla loro abitudine\ndi usare la luce delle stelle come fonte energetica.",
+        "Si dice che tragga energia dalla luce delle stelle,\nma è anche molto ghiotto di bacche.\nDi giorno dorme avvolto nell’erba.",
+        "Lotta sferrando pugni con le sue quattro\nbraccia e sopperisce alla poca potenza dei\nsingoli pugni con temibili scariche.",
+        "Si dice che il motivo sul suo dorso abbia una\nqualche relazione con le stelle, ma non si sa\nancora niente di preciso.",
+        "Svolazza nel cielo notturno lasciando dietro di\nsé una scia di polvere luccicante. Si dice che\nil contatto con essa porti fortuna."
+    ],
+    "height": 1.4,
+    "id": 166,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "name": "Ledian",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 35.6
+}

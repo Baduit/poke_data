@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Lorsqu’il est en colère, il abat des\nmontagnes et enterre des fleuves.\nOn doit alors modifier les cartes.",
+        "Lorsqu’il est en colère, il abat des\nmontagnes et enterre des fleuves.\nOn doit alors modifier les cartes.",
+        "D’une main seulement il a assez de force pour faire\ntrembler la terre et s’écrouler une montagne.",
+        "Lorsqu’il est en colère, il abat des montagnes et\nenterre des fleuves. On doit alors modifier les cartes.",
+        "Tyranocif est si incroyablement puissant qu’il peut abattre\nune montagne pour y faire son nid. Ce Pokémon se promène\ndans les montagnes pour y trouver de nouveaux adversaires.",
+        "Tyranocif est si incroyablement puissant qu’il peut abattre\nune montagne pour y faire son nid. Ce Pokémon se promène\ndans les montagnes pour y trouver de nouveaux adversaires.",
+        "Il parcourt les montagnes à la recherche d’un\nadversaire. Si ce dernier n’est pas à la hauteur,\nil préfère l’ignorer et s’en aller.",
+        "Aucun obstacle n’arrête ce Pokémon lorsqu’il\nse déplace : les montagnes, il les démolit ;\nles maisons, il les anéantit.",
+        "Son corps est invulnérable à toutes les attaques,\nc’est pourquoi il aime tant mettre ses forces\nà l’épreuve.",
+        "Son pas est si lourd qu’il fait trembler le sol\net s’écrouler même les plus grandes montagnes,\nce qui altère la topographie de la zone."
+    ],
+    "height": 2.0,
+    "id": 248,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "name": "Tyranocif",
+    "types": [
+        "Roche",
+        "Ténèbres"
+    ],
+    "weight": 202.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Se cuelga de ramas y aleros con la ventosa de su\ncabeza. Tiene siete tipos de gritos diferentes.",
+        "Emite ondas ultrasónicas que le permiten flotar en el\nviento para viajar grandes distancias.",
+        "Chimecho hace que sus gritos resuenen con eco en su\ninterior. Cuando se enfada, los chillidos se convierten en\nondas ultrasónicas capaces de derribar a los enemigos\nvoladores.",
+        "Cuando hay viento fuerte, Chimecho chilla colgado de la rama\nde un árbol o de los aleros de un edificio por la ventosa que\ntiene en la cabeza. Este Pokémon usa la larga cola que tiene\npara agarrar bayas y comérselas."
+    ],
+    "height": 0.6,
+    "id": 358,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+    "name": "Chimecho",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Appare con un vortice d’aria, facendo piccoli dispetti\ncome spostare i mobili nelle case o lasciare cotone\novunque.",
+        "Si infiltra nelle fessure più sottili, come un soffio di\nvento, lasciando dietro di sé dei batuffoli bianchi.",
+        "Appare con un vortice d’aria, facendo piccoli dispetti come\nspostare i mobili nelle case o lasciare cotone ovunque.",
+        "Si infiltra nelle fessure più sottili, come un soffio di vento,\nlasciando dietro di sé dei batuffoli bianchi.",
+        "Entra nelle case trasportato dal vento.\nDopo averle riempite di cotone, se ne va\nridendo felice.",
+        "Si sposta fluttuando nell’aria.\nSe il vento è troppo forte, perde il cotone che ha\nsulla testa.",
+        "È dispettoso e ama entrare di soppiatto nelle\ncase, nascondendo oggetti importanti e\nspargendo cotone ovunque.",
+        "Non ha un habitat fisso e si sposta fluttuando\ntrasportato dai vortici d’aria, facendo dispetti\novunque va.",
+        "Si diverte a spargere cotone ovunque. Se gli si\nversa dell’acqua addosso, diventa troppo\npesante per muoversi e si arrende.",
+        "Il cotone sul suo corpo si gonfia con la luce\ndel sole. Quando diventa eccessivamente\nvoluminoso, si stacca disperdendosi ovunque."
+    ],
+    "height": 0.7,
+    "id": 547,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "name": "Whimsicott",
+    "types": [
+        "Erba",
+        "Folletto"
+    ],
+    "weight": 6.6
+}

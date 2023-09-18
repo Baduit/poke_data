@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "No se encuentra satisfecho hasta que no se come\n400 kg de comida cada día. Cuando acaba de comer,\nse queda dormido.",
+        "Su estómago puede digerir todo tipo de comida,\nincluso si está podrida o mohosa.",
+        "Un día cualquiera en la vida de Snorlax consiste en comer y\ndormir. Es un Pokémon tan dócil que es fácil ver niños usando\nla gran panza que tiene como lugar de juegos.",
+        "Un día cualquiera en la vida de Snorlax consiste en comer y\ndormir. Es un Pokémon tan dócil que es fácil ver niños usando\nla gran panza que tiene como lugar de juegos.",
+        "Su estómago es exageradamente resistente.\nTanto que podría condimentar su comida con el\nveneno de Muk sin inmutarse.",
+        "Engulle 400 kg de comida a diario. Si le entra\nsueño cuando está alimentándose, sigue\ncomiendo mientras echa una cabezada.",
+        "Poco hace aparte de comer y dormir, pero\npuede desatar una fuerza arrolladora si le da\nun arrebato.",
+        "Solo piensa en comer y lo demás no le interesa.\nCuando duerme la siesta, no se inmuta ni aunque\nalguien se le tumbe en la barriga.",
+        "Engulle cualquier cosa, incluso comida mohosa,\nsin que esto le cause dolor de estómago.",
+        "Engulle cualquier cosa, incluso comida mohosa,\nsin que esto le cause dolor de estómago.",
+        "No se encuentra satisfecho hasta haber ingerido\n400 kg de comida cada día. Cuando acaba de\ncomer, se queda dormido.",
+        "Este Pokémon tiene un estómago a prueba de\nbomba, por lo que es capaz de ingerir incluso\ncomida podrida o mohosa."
+    ],
+    "height": 2.1,
+    "id": 143,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "name": "Snorlax",
+    "types": [
+        "Normal"
+    ],
+    "weight": 460.0
+}

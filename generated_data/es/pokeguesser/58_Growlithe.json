@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es muy agradable y leal. Para ahuyentar al enemigo,\nse pone a ladrar y a dar bocados.",
+        "De naturaleza valiente y honrada, se enfrenta sin\nmiedo a enemigos más grandes y fuertes.",
+        "Growlithe tiene un sentido del olfato excepcional y una\nmemoria sensitiva tremenda, nunca olvida una esencia. Este\nPokémon saca provecho de este don para identificar las\nsensaciones que tienen otros seres vivos.",
+        "Growlithe tiene un sentido del olfato excepcional y una\nmemoria sensitiva tremenda, nunca olvida una esencia. Este\nPokémon saca provecho de este don para identificar las\nsensaciones que tienen otros seres vivos.",
+        "Es muy leal e inteligente por naturaleza. No\nobstante, si un extraño invade su territorio,\nle ladrará a modo de amenaza.",
+        "Por muy adorable que parezca, si te acercas al\nGrowlithe de otro Entrenador, lo más probable\nes que te ladre e intente morderte.",
+        "Es muy afable con las personas una vez que ha\ncogido confianza, pero, en estado salvaje, libra\nviolentas disputas territoriales con los Rockruff.",
+        "Restos óseos hallados en yacimientos fósiles\nmuestran que su convivencia con los humanos\nse remonta a la Edad de Piedra.",
+        "Este Pokémon es muy amistoso. Aun así, ladra\ncon fiereza a cualquiera que invada su territorio.",
+        "Este Pokémon es muy amistoso. Aun así, ladra\ncon fiereza a cualquiera que invada su territorio.",
+        "De naturaleza valiente y honrada, se enfrenta sin\nmiedo a enemigos más grandes y fuertes.",
+        "Extremadamente fiel, ladrará furioso a cualquiera\nque suponga una amenaza para su Entrenador\ncon tal de defenderlo."
+    ],
+    "height": 0.7,
+    "id": 58,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "name": "Growlithe",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 19.0
+}

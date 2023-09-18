@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "Like the wind, it can slip through any\ngap, no matter how small. It leaves\nballs of white fluff behind.",
+        "Riding whirlwinds, they appear.\nThese Pokémon sneak through gaps into\nhouses and cause all sorts of mischief.",
+        "They appear along with whirlwinds. They\npull pranks, such as moving furniture\nand leaving balls of cotton in homes.",
+        "They appear along with whirlwinds. They\npull pranks, such as moving furniture\nand leaving balls of cotton in homes.",
+        "They appear along with whirlwinds. They pull\npranks, such as moving furniture and leaving balls\nof cotton in homes.",
+        "Like the wind, it can slip through any gap,\nno matter how small. It leaves balls of white\nfluff behind.",
+        "They appear along with whirlwinds. They pull\npranks, such as moving furniture and leaving balls\nof cotton in homes.",
+        "Like the wind, it can slip through any gap,\nno matter how small. It leaves balls of white\nfluff behind.",
+        "It rides on the wind and slips into people’s\nhomes. After it has turned a room into a cotton-\nfilled mess, it giggles to itself and takes off.",
+        "This Pokémon appears, riding upon the wind.\nBut if the wind gusts up, it’ll blow the cotton on\nthis Pokémon’s head clean off.",
+        "This nuisance sneaks into people’s homes,\nwhere it hides important things and scatters\ncotton all over the place.",
+        "Whimsicott doesn’t live in a fixed location. It\nfloats around on whirling winds, appearing all\nover the place to perform its mischief.",
+        "It scatters cotton all over the place as a prank. If\nit gets wet, it’ll become too heavy to move and\nhave no choice but to answer for its mischief.",
+        "As long as this Pokémon bathes in sunlight, its\ncotton keeps growing. If too much cotton fluff\nbuilds up, Whimsicott tears it off and scatters it."
+    ],
+    "height": 0.7,
+    "id": 547,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "name": "Whimsicott",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "weight": 6.6
+}

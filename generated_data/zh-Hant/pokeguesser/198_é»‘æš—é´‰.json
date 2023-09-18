@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "日落時醒來，於低垂的夜幕中飛行。\n也有所謂　「黑暗鴉出巢，\n快點回家吧」　的俗語。",
+        "被人嫌棄為不吉的象徵，\n但是會把亮晶晶發著光的\n東西送給關係好的訓練家。",
+        "對閃亮亮的東西毫無抵抗力，\n有時會為了尋求寶物而潛入\n會儲存寶石的尖牙陸鯊的巢穴。",
+        "會為了老大尋找閃閃發亮的東西。\n被人們視為不吉利的象徵，\n厭惡牠的人也很多。"
+    ],
+    "height": 0.5,
+    "id": 198,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "name": "黑暗鴉",
+    "types": [
+        "惡",
+        "飛行"
+    ],
+    "weight": 2.1
+}

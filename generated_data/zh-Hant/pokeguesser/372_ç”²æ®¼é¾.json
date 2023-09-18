@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "細胞在殼中\n以爆發般的速度變化，\n正在為進化做準備。",
+        "一動不動地潛伏在洞穴深處，\n不吃也不喝。\n不知為何不會死掉。",
+        "體內的細胞以令人\n目不暇給的速度不斷變化。\n堅硬的外殼成分與骨骼相同。",
+        "棲息在洞窟深處。\n總是躲在堅硬的外殼裡，\n夢想著飛上天空的那一天。",
+        "用成分與骨頭相同的硬殼\n覆蓋身體。體內蓄積著\n進化所需的能量。",
+        "忍耐飢餓，不吃任何食物。\n據說當牠用盡了儲存的\n能量後，就會開始進化。"
+    ],
+    "height": 1.1,
+    "id": 372,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "name": "甲殼龍",
+    "types": [
+        "龍"
+    ],
+    "weight": 110.5
+}

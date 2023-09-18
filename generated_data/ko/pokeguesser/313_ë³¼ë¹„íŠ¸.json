@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "밤이 되면 엉덩이를 빛나게 해\n동료와 대화한다. 네오비트가\n내는 달콤한 향기를 매우 좋아한다.",
+        "물이 깨끗한 연못에 서식한다.\n밤이 되면 엉덩이가 빛나며\n이를 깜박여서 동료와 대화한다.",
+        "날이 저물면 꼬리에서 빛을 내어\n밝기나 점멸로 동료와 대화한다.\n네오비트의 달콤한 향기에 유인된다.",
+        "꼬리의 불빛을 사용하여 단체로\n밤하늘에 기하학적인 도형을 그린다.\n네오비트가 내는 달콤한 향기를 매우 좋아한다."
+    ],
+    "height": 0.7,
+    "id": 313,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "name": "볼비트",
+    "types": [
+        "벌레"
+    ],
+    "weight": 17.7
+}

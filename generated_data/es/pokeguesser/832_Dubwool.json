@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Su lana es muy flexible. Las alfombras tejidas con\nella adoptan una textura similar a la de las camas\nelásticas.",
+        "Sus espléndidos cuernos sirven de reclamo para\natraer al sexo opuesto. No los utiliza como arma."
+    ],
+    "height": 1.3,
+    "id": 832,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+    "name": "Dubwool",
+    "types": [
+        "Normal"
+    ],
+    "weight": 43.0
+}

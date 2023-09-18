@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Si pensa che la tecnica per fare il cemento sia stata\ndiffusa proprio da Conkeldurr, 2000 anni fa.",
+        "Non si affida solo ai muscoli, ma sfrutta la forza\ncentrifuga per far roteare con maestria i suoi pilastri\ndi cemento.",
+        "Si pensa che la tecnica per fare il cemento sia stata diffusa\nproprio da Conkeldurr, 2000 anni fa.",
+        "Non si affida solo ai muscoli, ma sfrutta la forza centrifuga\nper far roteare con maestria i suoi pilastri di cemento.",
+        "Il cemento preparato da Conkeldurr è molto più\nduro e resistente della media, anche se la sua\ncomposizione non ha nulla di diverso.",
+        "Quando decide di fare sul serio, si sbarazza\ndei pilastri di cemento e si lancia sul nemico\narmato solo dei suoi pugni."
+    ],
+    "height": 1.4,
+    "id": 534,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "name": "Conkeldurr",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 87.0
+}

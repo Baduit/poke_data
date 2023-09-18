@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Puede leer los pensamientos y movimientos de su\nadversario a través de su aura.",
+        "Emite unas ondas que le permiten percibir todo lo que\nse encuentre a 1 km, incluso los sentimientos de otras\npersonas.",
+        "Puede leer los pensamientos y movimientos de su adversario\na través de su aura.",
+        "Emite unas ondas que le permiten percibir todo lo que se\nencuentre a 1 km, incluso los sentimientos de otras personas.",
+        "No solo es capaz de detectar auras, sino\ntambién de manipularlas. Esta habilidad le\nresulta muy útil durante los combates.",
+        "Detecta la presencia y los sentimientos de los\nseres vivos a más de 1 km de distancia,\nhabilidad que aprovecha para cazar en grupos.",
+        "Acumula poder espiritual y lo canaliza en forma\nde auras misteriosas capaces de hacer añicos\nincluso enormes rocas.",
+        "Puede percibir sentimientos ajenos a través de\nsu aura, pero averiguar cosas que preferiría no\nsaber constituye una fuente de estrés para él.",
+        "Caza a sus presas manipulando una energía,\ndenominada aura, cuya potencia es capaz incluso\nde hacer añicos rocas enormes.",
+        "Puede leer los pensamientos de la gente, por\nlo que establece lazos afectivos únicamente con\nEntrenadores de corazón noble."
+    ],
+    "height": 1.2,
+    "id": 448,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "name": "Lucario",
+    "types": [
+        "Lucha",
+        "Acero"
+    ],
+    "weight": 54.0
+}

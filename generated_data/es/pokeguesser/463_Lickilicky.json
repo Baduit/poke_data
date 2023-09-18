@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Agarra cosas con su lengua extensible. Si te acercas\nmucho, te deja lleno de babas.",
+        "La alta concentración de sustancias en su saliva lo\ndisuelve todo. Un lametón provoca un entumecimiento\npermanente.",
+        "Agarra cosas con su lengua extensible. Si te acercas mucho,\nte deja lleno de babas.",
+        "La alta concentración de sustancias en su saliva lo disuelve\ntodo. Un lametón provoca un entumecimiento permanente.",
+        "Se celebra una competición para comprobar qué\nLickilicky logra extender más lejos la lengua. El\nrécord actual es de 25 metros.",
+        "Es mucho más hábil usando la lengua que sus\nextremidades, hasta el punto de poder coger\ncon gran maña una minúscula habichuela.",
+        "Su lengua es un misterio sin resolver: no se sabe\ncómo puede extenderla hasta alcanzar longitudes\nque superan varias veces la de su propio cuerpo.",
+        "Es tan diestro con la lengua como un ser humano\ncon las manos. Por el contrario, muestra escasa\nmaña con los dedos."
+    ],
+    "height": 1.7,
+    "id": 463,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "name": "Lickilicky",
+    "types": [
+        "Normal"
+    ],
+    "weight": 140.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es schlägt mit Krallen zu oder schnurrt,\nje nachdem, ob es gerade wütend oder zutraulich ist.",
+        "Je nach Laune lässt es seinen Schweif anmutig\nwirbeln, ganz wie das Band eines Sportgymnasten.",
+        "Es schlägt mit Krallen zu oder schnurrt, je nachdem,\nob es gerade wütend oder zutraulich ist.",
+        "Je nach Laune lässt es seinen Schweif anmutig wirbeln,\nganz wie das Band eines Sportgymnasten."
+    ],
+    "height": 0.5,
+    "id": 431,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+    "name": "Charmian",
+    "types": [
+        "Normal"
+    ],
+    "weight": 3.9
+}

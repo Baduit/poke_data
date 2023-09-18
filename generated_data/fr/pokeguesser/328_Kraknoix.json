@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il creuse un trou conique dans le\nsable du désert et se terre en\nattendant qu’une proie trébuche.",
+        "Il creuse un trou conique dans le\nsable du désert et se terre en\nattendant qu’une proie trébuche.",
+        "Il vit dans les déserts arides. Pour attraper ses proies,\nil se place dans un trou et laisse sa gueule grande\nouverte en attendant qu’elles tombent dedans.",
+        "Il creuse puis attend ses proies dans son antre, un\ntrou conique dont il est impossible de s’échapper.",
+        "Le nid de Kraknoix consiste en un trou en pente creusé dans\nle sable, comme une cuvette. Ce Pokémon attend patiemment\nque sa proie tombe dedans. Ses gigantesques mâchoires sont\nassez puissantes pour croquer des rochers.",
+        "Kraknoix est un chasseur patient. Dans le désert, il creuse\nun trou dont on ne peut pas s’échapper et attend que sa proie\ntombe dedans. Ce Pokémon peut se passer d’eau une semaine\nentière.",
+        "Il peut survivre une semaine entière sans se\nsustenter. Il attend patiemment au fond de\nson trou, guettant sa proie.",
+        "Il creuse des trous dans le sable et brise les\nrochers qui le gênent d’un coup de mâchoire.\nSes terriers ressemblent à un entonnoir.",
+        "Sa lourde mâchoire peut briser le roc, mais s’il\ntombe à la renverse, il ne peut plus se relever.\nMascaïman en profite alors pour l’attaquer.",
+        "Pour attraper ses proies, il bâtit un nid piégé\net attend patiemment. Lorsque la nuit tombe,\nil s’enfouit dans le sable pour dormir.",
+        "Il est impossible de s’échapper de son antre\nen forme de cône qu’il creuse dans le sable\ndu désert.",
+        "Il creuse, puis attend ses proies dans son antre\nen forme de cône, dont il est impossible\nde s’échapper."
+    ],
+    "height": 0.7,
+    "id": 328,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "name": "Kraknoix",
+    "types": [
+        "Sol"
+    ],
+    "weight": 15.0
+}

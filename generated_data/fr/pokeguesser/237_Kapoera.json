@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il combat en tournoyant comme une\ntoupie. La force centrifuge décuple\nsa puissance destructrice.",
+        "Il combat en tournoyant comme une\ntoupie. La force centrifuge décuple\nsa puissance destructrice.",
+        "Il combat en tournoyant comme une toupie.\nLa force centrifuge décuple sa puissance destructrice.",
+        "Si sa danse de coups de pied vous fascine, vous\nrisquez de le regretter.",
+        "Kapoera tournoie à toute vitesse sur sa tête, tout en donnant\ndes coups de pied. Cette technique combine des attaques\noffensives et défensives. Ce Pokémon se déplace plus vite\nsur la tête qu’en marchant.",
+        "Kapoera tournoie à toute vitesse sur sa tête, tout en donnant\ndes coups de pied. Cette technique combine des attaques\noffensives et défensives. Ce Pokémon se déplace plus vite\nsur la tête qu’en marchant.",
+        "Il assène des coups de pied tout en tournant\nsur lui-même. Il va parfois si vite qu’il commence\nà s’enfoncer dans le sol.",
+        "Après avoir effectué un poirier visant\nà désorienter son adversaire, il lui assène\ndes coups de pied furieux."
+    ],
+    "height": 1.4,
+    "id": 237,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "name": "Kapoera",
+    "types": [
+        "Combat"
+    ],
+    "weight": 48.0
+}

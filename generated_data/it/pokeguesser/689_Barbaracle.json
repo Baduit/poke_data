@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Con l’evoluzione, i due Binacle si moltiplicano e il\nPokémon lotta con la forza di sette Binacle.",
+        "I Binacle delle gambe e delle braccia hanno cervelli\nindipendenti, ma generalmente seguono le direttive\ndi quello della testa.",
+        "Con l’evoluzione, i due Binacle si moltiplicano e il Pokémon\nlotta con la forza di sette Binacle.",
+        "I Binacle delle gambe e delle braccia hanno cervelli\nindipendenti, ma generalmente seguono le direttive\ndi quello della testa.",
+        "Il suo corpo è formato da sette Binacle.\nQuello che occupa la posizione della testa\ncoordina gli altri.",
+        "Gli occhi sulle sue mani hanno una visuale a 360\ngradi. Quando è in difficoltà, i suoi arti agiscono\nautonomamente per sconfiggere il nemico."
+    ],
+    "height": 1.3,
+    "id": 689,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
+    "name": "Barbaracle",
+    "types": [
+        "Roccia",
+        "Acqua"
+    ],
+    "weight": 96.0
+}

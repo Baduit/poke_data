@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il marque son territoire en maniant\nsa queue comme un pinceau. On\ndénombre plus de 5 000 marques.",
+        "Il marque son territoire en maniant\nsa queue comme un pinceau. On\ndénombre plus de 5 000 marques.",
+        "Il marque son territoire en maniant sa queue comme\nun pinceau. On dénombre plus de 5 000 marques.",
+        "Arrivé à l’âge adulte, il laisse ses camarades poser\nleur empreinte de patte sur son dos.",
+        "Queulorior délimite son territoire en libérant un fluide corporel\nqui sort de sa queue. On a découvert plus de 5 000 traces\ndifférentes de fluide laissées par ce Pokémon.",
+        "Queulorior délimite son territoire en libérant un fluide corporel\nqui sort de sa queue. On a découvert plus de 5 000 traces\ndifférentes de fluide laissées par ce Pokémon.",
+        "Ce Pokémon marque son territoire en peignant\nà l’aide du liquide suintant du bout de sa queue.",
+        "Ce Pokémon peint pour marquer son territoire.\nOn reconnaît les villes peuplées de nombreux\nQueulorior à leurs murs recouverts de graffitis.",
+        "La teinte du liquide qui coule de sa queue varie\nen fonction de son humeur.",
+        "Il se sert du liquide qui sort de sa queue pour\ndessiner sa marque. Ses fans s’arrachent ses\nplus beaux tracés à prix d’or."
+    ],
+    "height": 1.2,
+    "id": 235,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "name": "Queulorior",
+    "types": [
+        "Normal"
+    ],
+    "weight": 58.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "등의 혹 모양 화산은\n10년마다 대분화하나\n심하게 화가 나도 분화한다.",
+        "화나면 작열하는 마그마를\n등의 혹에서 분출한다.\n화산의 분화구에 거처가 있다.",
+        "몸 안에 화산을 지닌 포켓몬이다.\n몸에 모은 섭씨 1만 도의 마그마를\n가끔 등의 혹에서 뿜어 올리고 있다.",
+        "등의 혹은 뼈가 변형된 것이다.\n펄펄 끓는 마그마를 가끔 뿜어 올린다.\n화났을 때 자주 분화하는 것 같다."
+    ],
+    "height": 1.9,
+    "id": 323,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "name": "폭타",
+    "types": [
+        "불꽃",
+        "땅"
+    ],
+    "weight": 220.0
+}

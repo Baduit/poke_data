@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le gusta engrosar su coraza añadiendo cortezas de\nárbol. El aumento de peso no le molesta.",
+        "Es como una piña piñonera. Su coraza lo protege de\nlos pájaros que lo picotean por error.",
+        "Pineco permanece colgado de la rama de un árbol esperando\npacientemente a su presa. Si alguien sacude el árbol en el\nque está mientras come y le molesta, se tira al suelo y explota\nsin dar ningún tipo de aviso.",
+        "Pineco permanece colgado de la rama de un árbol esperando\npacientemente a su presa. Si alguien sacude el árbol en el\nque está mientras come y le molesta, se tira al suelo y explota\nsin dar ningún tipo de aviso.",
+        "Se aposta en los árboles y espera inmóvil a\nque pase un Pokémon insecto al que atrapar.\nEn Alola tiene predilección por los Cutiefly.",
+        "Usa saliva para adherir corteza de árbol a su\ncuerpo y así aumentar de volumen. Con la edad\npuede alcanzar un tamaño gigantesco."
+    ],
+    "height": 0.6,
+    "id": 204,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "name": "Pineco",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 7.2
+}

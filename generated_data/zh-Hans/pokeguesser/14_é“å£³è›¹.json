@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "虽然几乎动也动不了，\n但是如果遇到了危险，\n有时似乎会竖起毒刺来反抗。",
+        "虽然几乎动也动不了，\n但是如果遇到了危险，\n有时似乎会竖起毒刺来反抗。"
+    ],
+    "height": 0.6,
+    "id": 14,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "name": "铁壳蛹",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 10.0
+}

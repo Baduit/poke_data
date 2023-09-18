@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Di giorno dorme sotto il sole, mentre di notte\nsi mette in cerca di un posto più sicuro\nper continuare a dormire.",
+        "Emana un odore fresco e dolce. Quando si\nnasconde nell’erba alta, attira dei Cutiefly\nche gli si radunano intorno.",
+        "Quando esce il sole dispiega le sue quattro\nfoglie per assorbirne la luce. Il suo capo emana\nun profumo molto gradevole.",
+        "Adora la luce del sole. Più resta esposto al sole,\npiù i suoi colori si fanno vividi.",
+        "Quando è esposto alla luce del sole emette\nun dolce profumo che attrae i Pokémon di tipo\nColeottero.",
+        "Trascorre le giornate a dormire tranquillo sotto\nil sole. Quando giunge la notte si sveglia e si\nmette in movimento."
+    ],
+    "height": 0.3,
+    "id": 753,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+    "name": "Fomantis",
+    "types": [
+        "Erba"
+    ],
+    "weight": 1.5
+}

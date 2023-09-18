@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il liquido speciale in cui è avvolto il suo corpo gli\npermette di resistere alle condizioni più estreme.",
+        "Utilizza i suoi poteri psichici per respingere gli\naggressori. Comunica con i compagni usando la\ntelepatia.",
+        "Il liquido speciale in cui è avvolto il suo corpo gli permette\ndi resistere alle condizioni più estreme.",
+        "Utilizza i suoi poteri psichici per respingere gli aggressori.\nComunica con i compagni usando la telepatia.",
+        "Comunica con i suoi simili tramite la telepatia.\nSe subisce un impatto violento, il liquido\nspeciale in cui è immerso il suo corpo fuoriesce.",
+        "Si dice che il liquido speciale in cui è immerso\nil suo corpo gli permetta di vivere persino\nnello spazio."
+    ],
+    "height": 0.3,
+    "id": 577,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+    "name": "Solosis",
+    "types": [
+        "Psico"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Genera la energía vital que necesita haciendo girar sus\ndos cuerpos.",
+        "La combinación de sus dos cuerpos es\npredeterminada. Si no se corresponde con\nsu homólogo, se separa.",
+        "Genera la energía vital que necesita haciendo girar sus dos\ncuerpos.",
+        "La combinación de sus dos cuerpos es predeterminada. Si no\nse corresponde con su homólogo, se separa.",
+        "Los dos cuerpos que lo componen están más\nunidos que unos gemelos. Si intentaran acoplarse\na otros, no lograrían encajar.",
+        "Se dice que en tiempos remotos los seres\nhumanos se inspiraron en este Pokémon para\ninventar el mecanismo de engranaje."
+    ],
+    "height": 0.3,
+    "id": 599,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "name": "Klink",
+    "types": [
+        "Acero"
+    ],
+    "weight": 21.0
+}

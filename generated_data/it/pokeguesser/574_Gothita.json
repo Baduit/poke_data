@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Amplifica i poteri psichici con le antenne a forma di\nfiocchetti. Il suo sguardo è sempre fisso.",
+        "Osserva con attenzione i Pokémon e gli Allenatori,\ncome se contemplasse qualcosa che solo lui può\nvedere.",
+        "Amplifica i poteri psichici con le antenne a forma di fiocchetti.\nIl suo sguardo è sempre fisso.",
+        "Osserva con attenzione i Pokémon e gli Allenatori, come se\ncontemplasse qualcosa che solo lui può vedere.",
+        "Nonostante sia ancora piccolo, può lottare\nusando i poteri psichici accumulati nelle antenne\na forma di fiocchetti.",
+        "A volte emette versi anche se non c’è nessuno\nnei paraggi. Per questo si dice che parli con\nesseri che nessun altro può vedere."
+    ],
+    "height": 0.4,
+    "id": 574,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "name": "Gothita",
+    "types": [
+        "Psico"
+    ],
+    "weight": 5.8
+}

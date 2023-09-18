@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "すいじょうきを　ふきだして　じぶんの\nすがたを　のうむで　かくす。ひとの\nたちいらない　やまに　すむと　いう。",
+        "せなかの　アームから　たいないの\nすいじょうきを　ふんしゃする。\nやま　ひとつ　ふきとばす　いりょく。",
+        "すいじょうきを　ふきだして　じぶんの\nすがたを　のうむで　かくす。ひとの\nたちいらない　やまに　すむと　いう。",
+        "せなかの　アームから　たいないの\nすいじょうきを　ふんしゃする。\nやま　ひとつ　ふきとばす　いりょく。"
+    ],
+    "height": 1.7,
+    "id": 721,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "name": "ボルケニオン",
+    "types": [
+        "ほのお",
+        "みず"
+    ],
+    "weight": 195.0
+}

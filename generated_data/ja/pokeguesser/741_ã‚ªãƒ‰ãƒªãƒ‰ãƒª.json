@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "羽を　打ち合わせて　発火。\n華麗な　ステップを　踏みながら\n激しい　炎を　浴びせかけるぞ。",
+        "くれないのミツを　吸った　オドリドリ。\n情熱的な　ステップで　敵の\n身も　心も　焼き尽くす。",
+        "情熱的な　ダンスで　敵の\n心を　つかみ　油断した　隙に\n燃えさかる　炎で　焼き尽くす。",
+        "くれないのミツを　吸った　オドリドリ。\nトレーナーが　指示を　間違えると\n激しく　怒る　激情家　だ。"
+    ],
+    "height": 0.6,
+    "id": 741,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "name": "オドリドリ",
+    "types": [
+        "ほのお",
+        "ひこう"
+    ],
+    "weight": 3.4
+}

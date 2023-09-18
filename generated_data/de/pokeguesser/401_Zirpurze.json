@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Diese Pokémon unterhalten sich, indem sie ihre\nAntennen aneinanderschlagen. Der Ton ist ihr\nKennzeichen.",
+        "Wenn seine zwei Antennen sich berühren,\nerklingt ein Ruf wie das Spiel eines Xylophons.",
+        "Diese Pokémon unterhalten sich, indem sie ihre Antennen\naneinanderschlagen. Der Ton ist ihr Kennzeichen.",
+        "Wenn seine zwei Antennen sich berühren, erklingt ein Ruf\nwie das Spiel eines Xylophons."
+    ],
+    "height": 0.3,
+    "id": 401,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
+    "name": "Zirpurze",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 2.2
+}

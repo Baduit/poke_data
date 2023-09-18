@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il ne peut pas vivre sans son\nlégume, c’est pourquoi il le\nprotégera au péril de sa vie.",
+        "Il ne peut pas vivre sans son\nlégume, c’est pourquoi il le\nprotégera au péril de sa vie.",
+        "Il utilise le légume qu’il tient comme s’il\ns’agissait d’une épée.",
+        "Ce Pokémon se promène toujours en tenant un\nlégume. Il l’utilise pour faire son nid.",
+        "On voit souvent des Canarticho avec une tige, récupérée sur\nune plante quelconque. Apparemment, ils peuvent distinguer\nles bonnes des mauvaises. On a vu ces Pokémon se battre\npour des histoires de tiges.",
+        "On voit souvent des Canarticho avec une tige, récupérée sur\nune plante quelconque. Apparemment, ils peuvent distinguer\nles bonnes des mauvaises. On a vu ces Pokémon se battre\npour des histoires de tiges.",
+        "Il vit là où poussent des tiges. Ces endroits sont\nrares, ce qui pourrait faire penser que cette\nespèce de Pokémon est en voie d’extinction.",
+        "Il vit là où poussent des tiges. Ces endroits sont\nrares, ce qui pourrait faire penser que cette\nespèce de Pokémon est en voie d’extinction.",
+        "Il tranche ses adversaires avec sa tige, qu’il manie\ncomme une épée. Quand la situation l’exige,\nil s’en nourrit.",
+        "Il se bat à l’aide de sa tige. Il existe plusieurs\nécoles quant à son maniement."
+    ],
+    "height": 0.8,
+    "id": 83,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "name": "Canarticho",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 15.0
+}

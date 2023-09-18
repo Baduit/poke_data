@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "La finesse de son odorat lui permet de distinguer\nles nuances de parfums les plus subtiles, ce qui en\nfait un compagnon idéal pour les pâtissiers.",
+        "Son odorat est des millions de fois plus développé\nque celui d’un humain. Il se repère dans l’espace\ngrâce aux odeurs qui flottent autour de lui.",
+        "La finesse de son odorat lui permet de distinguer les nuances\nde parfums les plus subtiles, ce qui en fait un compagnon idéal\npour les pâtissiers.",
+        "Son odorat est des millions de fois plus développé que celui\nd’un humain. Il se repère dans l’espace grâce aux odeurs\nqui flottent autour de lui.",
+        "Il peut diagnostiquer l’état de santé mentale et\nphysique de quelqu’un rien qu’à l’odorat. Un tel\ndon pourrait avoir des applications en médecine.",
+        "Sa fourrure est si aérée qu’elle le rend très doux\net très agréable au toucher, et bien plus léger\nqu’il en a l’air."
+    ],
+    "height": 0.8,
+    "id": 685,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "name": "Cupcanaille",
+    "types": [
+        "Fée"
+    ],
+    "weight": 5.0
+}

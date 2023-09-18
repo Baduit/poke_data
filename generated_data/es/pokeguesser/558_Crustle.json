@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Su inmensa capacidad motriz le permite desplazarse\ncargando a sus espaldas rocas enormes durante días.",
+        "Se disputa el territorio con sus congéneres. Pierde\naquel al que le rompan la roca que lleva a cuestas.",
+        "Su inmensa capacidad motriz le permite desplazarse cargando\na sus espaldas rocas enormes durante días.",
+        "Se disputa el territorio con sus congéneres. Pierde aquel al\nque le rompan la roca que lleva a cuestas.",
+        "Este Pokémon posee un fuerte instinto territorial\ny prefiere los entornos áridos. Los días de lluvia\npermanece en el interior de su roca.",
+        "Su arma más potente son sus gruesas pinzas, tan\nduras que pueden abrir una brecha incluso en el\nProtector de Rhyperior."
+    ],
+    "height": 1.4,
+    "id": 558,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "name": "Crustle",
+    "types": [
+        "Bicho",
+        "Roca"
+    ],
+    "weight": 200.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Vive en la copa de los árboles. Produce descargas\nmientras vuela con el interior de la membrana que hace\nde capa.",
+        "Almacena en una membrana la electricidad generada\npor sus mejillas y planea por los aires soltando\ndescargas.",
+        "Vive en la copa de los árboles. Produce descargas mientras\nvuela con el interior de la membrana que hace de capa.",
+        "Almacena en una membrana la electricidad generada por sus\nmejillas y planea por los aires soltando descargas.",
+        "Planea con su membrana, que hace las veces de\ncapa. La electricidad que despide electrocuta\nsin distinción a enemigos y aliados.",
+        "Suelta una descarga eléctrica para achicharrar\nbayas o Pokémon insecto. Suele habitar los\nnidos que los Pikipek horadan en los árboles.",
+        "Se carga de electricidad y se echa a volar.\nDurante las noches de tormenta eléctrica se los\nve a centenares surcando el cielo.",
+        "Desprende descargas eléctricas mientras vuela,\npor lo que los Pokémon pájaro no se le acercan,\ny así puede quedarse la comida para él solo.",
+        "Planea por el aire, casi como si danzara, mientras\ndesprende electricidad. Resulta adorable, pero\npuede causar bastantes problemas.",
+        "Le encantan las bayas dulces. A veces almacena\ntanta comida en los carrillos que no puede volar\nbien."
+    ],
+    "height": 0.4,
+    "id": 587,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "name": "Emolga",
+    "types": [
+        "Eléctrico",
+        "Volador"
+    ],
+    "weight": 5.0
+}

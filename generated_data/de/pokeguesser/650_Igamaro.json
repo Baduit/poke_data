@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Wenn es seine Kraft auf die sonst eher weichen\nStacheln auf seinem Kopf konzentriert, werden\ndiese robust genug, um damit Steine zu zertrümmern.",
+        "Sein Kopf und Rücken werden von einer harten Hülle\nbedeckt, die so robust ist, dass sie selbst einer\nKollision mit einem LKW standhalten würde.",
+        "Wenn es seine Kraft auf die sonst eher weichen Stacheln\nauf seinem Kopf konzentriert, werden diese robust genug,\num damit Steine zu zertrümmern.",
+        "Sein Kopf und Rücken werden von einer harten Hülle bedeckt,\ndie so robust ist, dass sie selbst einer Kollision mit einem LKW\nstandhalten würde."
+    ],
+    "height": 0.4,
+    "id": 650,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+    "name": "Igamaro",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 9.0
+}

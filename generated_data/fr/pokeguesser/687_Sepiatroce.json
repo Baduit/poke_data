@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Doté des pouvoirs hypnotiques les plus puissants\ndu règne des Pokémon, il manipule son adversaire\nà sa guise.",
+        "Il attire ses ennemis en les hypnotisant, avant de les\nenserrer de ses tentacules et de les neutraliser avec\nson suc gastrique.",
+        "Doté des pouvoirs hypnotiques les plus puissants du règne\ndes Pokémon, il manipule son adversaire à sa guise.",
+        "Il attire ses ennemis en les hypnotisant, avant de les enserrer\nde ses tentacules et de les neutraliser avec son suc gastrique.",
+        "Les personnes malintentionnées tentent\nsouvent de s’approprier ses grands pouvoirs\nhypnotiques pour servir leurs mauvais desseins.",
+        "Il fait briller les motifs qui ornent son corps\nafin d’attirer ses proies. L’extrémité de ses\ntentacules est aussi coupante qu’un rasoir.",
+        "Il manipule à sa guise ceux qui se sont laissé\nhypnotiser en observant son corps lumineux\ntrop longtemps.",
+        "On raconte que ses pouvoirs hypnotiques\nseraient à l’origine d’évènements qui ont\nbouleversé le cours de l’Histoire."
+    ],
+    "height": 1.5,
+    "id": 687,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "name": "Sepiatroce",
+    "types": [
+        "Ténèbres",
+        "Psy"
+    ],
+    "weight": 47.0
+}

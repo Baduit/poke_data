@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Austos, die im Meer mit starker Strömung leben,\nwerden groß und entwickeln scharfe Stacheln.",
+        "Sein Panzer ist extrem hart. Es kann nicht\nzerschmettert werden, auch nicht durch eine Bombe.\nDer Panzer öffnet sich nur, wenn es angreift.",
+        "Austos kann im Meerwasser schwimmen, indem es Wasser\nschluckt und wieder herausspritzt. Dieses Pokémon kann\nsich auch verteidigen, indem es spitze Stacheln mithilfe\ndes Wasserdrucks verschießt.",
+        "Austos kann im Meerwasser schwimmen, indem es Wasser\nschluckt und mit Druck wieder herausspritzt. Auf dieselbe\nWeise verschießt dieses Pokémon scharfe Stacheln.",
+        "Seine Schale ist so hart, dass nicht einmal eine\nBombe sie zerschmettern kann. Bis heute weiß\nniemand, wie das Innere seiner Schale aussieht.",
+        "In Gräbern alter Jägervölker werden oft Speere\nausgegraben, welche aus abgebrochenen\nStacheln seiner Schale gefertigt wurden.",
+        "Seine Schale ist extrem hart. Schäden an der\nSchale schwellen zunächst an und entwickeln\nsich allmählich zu großen, scharfen Stacheln.",
+        "Flegmon-Ruten sind seine Leibspeise. Manchmal\nkriecht es sogar an Land, nur um nach Flegmon\nzu suchen.",
+        "Es wird von einer Schale geschützt, die härter als\nDiamant ist. Dieses gefährliche Pokémon feuert\ndie Stacheln an seiner Schale auf Gegner ab.",
+        "Es wird von einer Schale geschützt, die härter als\nDiamant ist. Dieses gefährliche Pokémon feuert\ndie Stacheln an seiner Schale auf Gegner ab.",
+        "Seine Schale ist extrem hart und kann nicht\neinmal durch eine Bombe zerschmettert werden.\nSie öffnet sich nur, wenn es angreift.",
+        "Ist seine Schale erst geschlossen, ist es selbst mit\nviel Kraft nicht mehr möglich, diese zu öffnen."
+    ],
+    "height": 1.5,
+    "id": 91,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "name": "Austos",
+    "types": [
+        "Wasser",
+        "Eis"
+    ],
+    "weight": 132.5
+}

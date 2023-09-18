@@ -1,0 +1,39 @@
+{
+    "descriptions": [
+        "Almost incapable\nof moving, this\nPOKéMON can only\fharden its shell\nto protect itself\nfrom predators.",
+        "Almost incapable\nof moving, this\nPOKéMON can only\fharden its shell\nto protect itself\nfrom predators.",
+        "Able to move only\nslightly. When\nendangered, it\fmay stick out its\nstinger and poison\nits enemy.",
+        "Although it is a\ncocoon, it can\nmove a little. It\fcan extend its\npoison barb if it\nis attacked.",
+        "From this form,\nit will grow into\nan adult. As its\fbody becomes soft­\ner, the external\nshell hardens.",
+        "Nearly incapable\nof movement, it\nleans against\fstout trees while\nwaiting for its\nevolution.",
+        "KAKUNA remains virtually immobile as it\nclings to a tree. However, on the\ninside, it is extremely busy as it\fprepares for its coming evolution.\nThis is evident from how hot the shell\nbecomes to the touch.",
+        "KAKUNA remains virtually immobile as it\nclings to a tree. However, on the\ninside, it is extremely busy as it\fprepares for its coming evolution.\nThis is evident from how hot the shell\nbecomes to the touch.",
+        "It remains virtually immobile while it\nclings to a tree. However, on the inside,\nit busily prepares for evolution. This is\nevident from how hot its shell becomes.",
+        "This POKéMON is in a temporary stage\nwhile making its body. It is almost\ncompletely unable to move on its own.",
+        "Almost incapable of moving, this POKéMON\ncan only harden its shell to protect\nitself when it is in danger.",
+        "While awaiting evolution, it\nhides from predators under\nleaves and in nooks of branches.",
+        "While awaiting evolution, it\nhides from predators under\nleaves and in nooks of branches.",
+        "While awaiting evolution, it\nhides from predators under\nleaves and in nooks of branches.",
+        "Although it is a cocoon, it can\nmove a little. It can extend its\npoison barb if it is attacked.",
+        "From this form, it will grow into\nan adult. As its body becomes softer,\nthe external shell hardens.",
+        "While awaiting evolution, it\nhides from predators under\nleaves and in nooks of branches.",
+        "While awaiting evolution, it\nhides from predators under\nleaves and in nooks of branches.",
+        "While awaiting evolution, it\nhides from predators under\nleaves and in nooks of branches.",
+        "While awaiting evolution, it\nhides from predators under\nleaves and in nooks of branches.",
+        "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
+        "While awaiting evolution, it hides from predators\nunder leaves and in nooks of branches.",
+        "Kakuna remains virtually immobile as it clings to a tree.\nHowever, on the inside, it is extremely busy as it prepares for\nits coming evolution. This is evident from how hot the shell\nbecomes to the touch.",
+        "Kakuna remains virtually immobile as it clings to a tree.\nHowever, on the inside, it is extremely busy as it prepares\nfor its coming evolution.\nThis is evident from how hot the shell becomes to the touch.",
+        "Able to move only slightly. When endangered, it\nmay stick out its stinger and poison its enemy.",
+        "Able to move only slightly. When endangered, it\nmay stick out its stinger and poison its enemy."
+    ],
+    "height": 0.6,
+    "id": 14,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "name": "Kakuna",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 10.0
+}

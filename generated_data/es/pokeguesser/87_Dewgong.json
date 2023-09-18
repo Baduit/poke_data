@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Está recubierto de un luminoso pelaje blanco. Este\nPokémon aumenta su actividad cuando bajan las\ntemperaturas.",
+        "Su aerodinámico cuerpo avanza fácilmente por el agua.\nCuanto más fría, más diversión.",
+        "A Dewgong le encanta dormitar sobre la frialdad del hielo.\nAntiguamente, algún que otro marino lo confundió con una\nsirena al verlo dormido sobre un glaciar.",
+        "A Dewgong le encanta dormitar sobre la frialdad del hielo.\nAntiguamente, algún que otro marino lo confundió con una\nsirena al verlo dormido sobre un glaciar.",
+        "Surca los mares a velocidades de 8 nudos en\nbusca de Pokémon que le sirvan de sustento.\nSiente predilección especial por los Wishiwashi.",
+        "Le gusta tenderse al sol en la playa después de\ncomer, ya que aumentar su temperatura\ncorporal le facilita la digestión.",
+        "Su cuerpo es blanco como la nieve. Puede nadar\nplácidamente en mares gélidos gracias a su\nresistencia al frío.",
+        "Su cuerpo es blanco como la nieve. Puede nadar\nplácidamente en mares gélidos gracias a su\nresistencia al frío."
+    ],
+    "height": 1.7,
+    "id": 87,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "Dewgong",
+    "types": [
+        "Agua",
+        "Hielo"
+    ],
+    "weight": 120.0
+}

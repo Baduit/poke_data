@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "奔跑的时候会从尾巴的根部\n制造出电能。在伽勒尔\n是很受欢迎的牧羊犬。",
+        "因为想要得到零食而\n帮助人类工作的贪吃鬼。\n总是带着电火花跑来跑去。"
+    ],
+    "height": 0.3,
+    "id": 835,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "name": "来电汪",
+    "types": [
+        "电"
+    ],
+    "weight": 13.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Schneidert sich ein Kleid, indem es sich Blätter\nzurechtbeißt und sie mit Klebefäden aus seinem\nMund zusammennäht.",
+        "Unter Modeschöpfern gilt es als beliebtes\nMaskottchen, da es sich aus Blättern\nKleidchen schneidert.",
+        "Schneidert sich ein Kleid, indem es sich Blätter zurechtbeißt\nund sie mit Klebefäden aus seinem Mund zusammennäht.",
+        "Unter Modeschöpfern gilt es als beliebtes Maskottchen,\nda es sich aus Blättern Kleidchen schneidert."
+    ],
+    "height": 0.3,
+    "id": 540,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+    "name": "Strawickl",
+    "types": [
+        "Käfer",
+        "Pflanze"
+    ],
+    "weight": 2.5
+}

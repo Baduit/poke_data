@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es beschützt sein Gebiet stets vor Eindringlingen.\nDaher fliegt es ständig wild umher.",
+        "Es ernährt sich von Insekten, die es im Gras findet.\nEin starker Flügelschlag hält es in der Luft.",
+        "Habitak kann einen sehr lauten Schrei ausstoßen,\nden man über die Entfernung von 1 km vernehmen kann.\nDurch das Echo seiner hohen, wehklagenden Schreie warnt\ndieses Pokémon seine Artgenossen vor drohender Gefahr.",
+        "Habitak kann einen sehr lauten Schrei ausstoßen,\nden man über die Entfernung von 1 km vernehmen kann.\nDurch das Echo seiner hohen, wehklagenden Schreie warnt\ndieses Pokémon seine Artgenossen vor drohender Gefahr.",
+        "Es kann nicht gut fliegen, da seine Flügel sehr\nkurz sind. Es rennt wild durch hohes Gras, um\nKäfer-Pokémon aufzupicken.",
+        "Bauern, deren Felder von Käfer-Pokémon\nbefallen sind, schätzen Habitak wegen seines\nunstillbaren Appetits ganz besonders.",
+        "Wenn es um die Verteidigung seines Reviers\ngeht, schreckt das draufgängerische Habitak\nselbst vor großen Pokémon nicht zurück.",
+        "Aufgrund seiner kurzen Flügel kann es keine\nlangen Strecken fliegen. Es rennt wild durch\ndie Gegend, um Käfer-Pokémon aufzupicken.",
+        "In großen Höhen fällt ihm das Fliegen schwer.\nAllerdings kann es pfeilschnell umherflitzen,\nwenn es um den Schutz seines Habitats geht.",
+        "In großen Höhen fällt ihm das Fliegen schwer.\nAllerdings kann es pfeilschnell umherflitzen,\nwenn es um den Schutz seines Habitats geht."
+    ],
+    "height": 0.3,
+    "id": 21,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "name": "Habitak",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 2.0
+}

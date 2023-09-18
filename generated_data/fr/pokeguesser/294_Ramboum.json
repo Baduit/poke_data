@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "L’onde de choc provoquée par son\ncri peut renverser un camion. Il\ntrépigne pour augmenter sa force.",
+        "L’onde de choc provoquée par son\ncri peut renverser un camion. Il\ntrépigne pour augmenter sa force.",
+        "Grâce à ses puissants muscles abdominaux, il peut\ncrier en expulsant l’air qu’il avait aspiré.",
+        "L’onde de choc provoquée par son cri peut renverser\nun camion. Il trépigne pour augmenter sa force.",
+        "Le hurlement de Ramboum est si fort qu’il peut faire\ns’effondrer une petite maison en bois. Il se sert de sa voix\npour punir ses ennemis. Les oreilles rondes de ce Pokémon\nservent de haut-parleurs.",
+        "Ramboum hurle en trépignant. Quand il a fini de hurler,\nce Pokémon reste incapable d’entendre le moindre son\npendant un long moment. Il semble que ce soit son point\nfaible.",
+        "Ses oreilles lui servant de haut-parleurs\npeuvent émettre des ondes sonores dont\nla puissance suffit à balayer une maison.",
+        "Ses hurlements n’affectent pas seulement l’ouïe ;\nils provoquent aussi une onde de choc qui balaie\nles ennemis et leur inflige des dégâts."
+    ],
+    "height": 1.0,
+    "id": 294,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "name": "Ramboum",
+    "types": [
+        "Normal"
+    ],
+    "weight": 40.5
+}

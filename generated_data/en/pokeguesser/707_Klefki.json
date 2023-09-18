@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "These key collectors threaten any attackers\nby fiercely jingling their keys at them.",
+        "It never lets go of a key that it likes,\nso people give it the keys to vaults and\nsafes as a way to prevent crime.",
+        "These key collectors threaten any attackers\nby fiercely jingling their keys at them.",
+        "It never lets go of a key that it likes,\nso people give it the keys to vaults and\nsafes as a way to prevent crime.",
+        "This even-tempered Pokémon has a habit of\ncollecting keys. It will sneak into people’s homes\nto steal their keys.",
+        "It inserts its horn into chinks in metal, absorbing\nmetal ions. For some reason, it collects keys.",
+        "Although it’s unclear why it collects keys, giving\nit a key makes Klefki very happy. However, it\napparently only likes master keys.",
+        "Long ago it lived in mines, but once the minerals\nthat make up its diet became scarcer, Klefki\nbegan appearing in human settlements.",
+        "This Pokémon is constantly collecting keys.\nEntrust a Klefki with important keys, and the\nPokémon will protect them no matter what.",
+        "Klefki sucks in metal ions with the horn topping\nits head. It seems this Pokémon loves keys so\nmuch that its head needed to look like one, too."
+    ],
+    "height": 0.2,
+    "id": 707,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "name": "Klefki",
+    "types": [
+        "Steel",
+        "Fairy"
+    ],
+    "weight": 3.0
+}

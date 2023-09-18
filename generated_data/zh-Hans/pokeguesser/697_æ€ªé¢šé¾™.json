@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "有说法，要完全复原是不可能的，\n实际上它全身都是羽毛一样的毛发。",
+        "是古代的王者。\n大颚的力量很惊人，\n连汽车也能轻易咬碎。",
+        "大约１亿年前的宝可梦。\n虽然凶暴，堂堂正正的\n举止却略显王者之风。",
+        "如果被它的大颚咬到，\n连汽车都会变得粉碎。\n是古代世界的王者。"
+    ],
+    "height": 2.5,
+    "id": 697,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "name": "怪颚龙",
+    "types": [
+        "岩石",
+        "龙"
+    ],
+    "weight": 270.0
+}

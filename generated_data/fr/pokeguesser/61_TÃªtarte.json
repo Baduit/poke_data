@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "La spirale qui orne son ventre ondule\ndoucement. Celui qui la fixe est saisi\nd’une étrange torpeur.",
+        "La spirale qui orne son ventre ondule\ndoucement. Celui qui la fixe est saisi\nd’une étrange torpeur.",
+        "Ce Pokémon amphibie transpire continuellement\nquand il est hors de l’eau afin d’hydrater son corps.",
+        "Ses deux jambes sont très développées.\nBien qu’il puisse se déplacer sur la terre ferme,\nce Pokémon préfère vivre sous l’eau.",
+        "La peau de Têtarte est toujours maintenue humide par\nun liquide huileux. Grâce à cette protection graisseuse,\nil peut facilement se glisser hors de l’étreinte de n’importe\nquel ennemi.",
+        "La peau de Têtarte est toujours maintenue humide par\nun liquide huileux. Grâce à cette protection graisseuse,\nil peut facilement se glisser hors de l’étreinte de n’importe\nquel ennemi.",
+        "Il est capable de vivre normalement sur la terre\nferme, mais il préfère vivre dans l’eau, où il a\nbeaucoup moins de prédateurs naturels.",
+        "Il patrouille sur la terre ferme à la recherche de\nnourriture, à savoir des Pokémon Insecte.\nIl les mange dans l’eau, où il est en sécurité.",
+        "Il est enfin capable de vivre sur la terre ferme,\nmais il passe le plus clair de son temps\nà chasser dans les eaux poissonneuses.",
+        "Son état de santé se dégrade à mesure que\nsa peau s’assèche, aussi faut-il veiller à ce\nqu’il soit toujours bien hydraté.",
+        "S’il se fait attaquer, il se sert de sa spirale pour\nendormir ses ennemis. Il peut ainsi s’enfuir.",
+        "S’il se fait attaquer, il se sert de sa spirale pour\nendormir ses ennemis. Il peut ainsi s’enfuir.",
+        "Il suffit de fixer la spirale sur son ventre pour\ns’assoupir. On se sert parfois de lui à la place\nd’une berceuse pour endormir les enfants.",
+        "Il sécrète une sorte de mucus huileux qui lui\npermet d’échapper aux ennemis qui tentent\nde l’attraper."
+    ],
+    "height": 1.0,
+    "id": 61,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "name": "Têtarte",
+    "types": [
+        "Eau"
+    ],
+    "weight": 20.0
+}

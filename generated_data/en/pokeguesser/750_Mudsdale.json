@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "It spits a mud that provides resistance to both\nwind and rain, so the walls of old houses were\noften coated with it.",
+        "Its heavy, mud-covered kicks are its best\nmeans of attack, and it can reduce large trucks\nto scrap without breaking a sweat.",
+        "It remains calm and unmoving no matter the\nsituation. It mixes dirt with the saliva in its\nmouth to make a special kind of mud.",
+        "It can trudge mountain roads without rest\nfor three days and three nights, all the while\ndragging a 10-ton load.",
+        "Mud that hardens around a Mudsdale’s legs\nsets harder than stone. It’s so hard that it allows\nthis Pokémon to scrap a truck with a single kick.",
+        "Mudsdale has so much stamina that it could carry\nover 10 tons across the Galar region without rest\nor sleep."
+    ],
+    "height": 2.5,
+    "id": 750,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "name": "Mudsdale",
+    "types": [
+        "Ground"
+    ],
+    "weight": 920.0
+}

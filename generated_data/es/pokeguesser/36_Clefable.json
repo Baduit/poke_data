@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Su oído es tan agudo que puede oír una aguja caer a\n1 km. Vive en montañas solitarias.",
+        "Un encantador y tímido Pokémon muy raro de ver.\nCorre y se oculta en cuanto siente que viene gente.",
+        "Clefable se mueve dando saltitos como si fuera haciendo uso\nde las alas. Estos pequeños brincos le permiten caminar por\nel agua. De todos es sabido que le encanta darse paseos por\nlos lagos en tranquilas noches de luna llena.",
+        "Clefable se mueve dando saltitos como si fuera haciendo uso\nde las alas. Estos pequeños brincos le permiten caminar por\nel agua. De todos es sabido que le encanta darse paseos por\nlos lagos en tranquilas noches de luna llena.",
+        "No les gusta dejarse ver ante las personas.\nViven tranquilamente en grupos en lo profundo\nde las montañas.",
+        "Se dice que avistar a una pareja de Clefable\ndando saltitos trae felicidad al matrimonio.",
+        "Su fino oído puede percibir la caída de un alfiler\na un kilómetro de distancia. Por eso prefiere\nvivir en las montañas, lejos del mundanal ruido.",
+        "Algunos científicos sostienen que cuando mira\nal cielo fijamente en las noches de luna llena es\nporque siente morriña.",
+        "Un Pokémon de aspecto feérico que protege\ncon celo su entorno y muy rara vez se deja ver\npor los humanos.",
+        "Un Pokémon de aspecto feérico que protege\ncon celo su entorno y muy rara vez se deja ver\npor los humanos.",
+        "Este Pokémon de aspecto feérico, raramente\nvisto por los humanos, corre a esconderse en\ncuanto detecta que hay alguien cerca.",
+        "Su oído es tan fino que puede percibir cómo cae\nuna aguja a 1 km de distancia. Por eso suele\nhabitar en lugares tranquilos."
+    ],
+    "height": 1.3,
+    "id": 36,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "name": "Clefable",
+    "types": [
+        "Hada"
+    ],
+    "weight": 40.0
+}

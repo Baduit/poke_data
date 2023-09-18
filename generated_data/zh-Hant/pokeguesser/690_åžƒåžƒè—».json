@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "為了不被大型寶可夢襲擊，\n總是混在海藻屑裡動也不動。\n主要的食物是腐爛的海草。",
+        "因為不擅長游泳，所以會纏在\n海藻碎屑上。在阿羅拉地區，\n經常可以在破破舵輪旁邊看見牠。",
+        "會混在海藻屑裡漂浮在大海，\n並且捕獵來吃海藻的寶可夢，\n當作大餐飽吃一頓。",
+        "看起來像是腐爛的海藻，\n因此會躲在海裡漂浮的\n藻屑裡混淆敵人的耳目。"
+    ],
+    "height": 0.5,
+    "id": 690,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "name": "垃垃藻",
+    "types": [
+        "毒",
+        "水"
+    ],
+    "weight": 7.3
+}

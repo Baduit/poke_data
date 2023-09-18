@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "頭の　葉っぱから　ほのかに　甘い\n香りが　漂う。おとなしくて\n日差しを　浴びるのが　大好き。",
+        "頭の　葉っぱで　まわりの\n温度や　湿度を　探る。\n日差しを　浴びることが　大好き。",
+        "葉っぱを　振り回して　相手を　威嚇するが\n葉っぱから　甘い　香りが　漂うので\nお互いに　和やかな　雰囲気に　なるよ。",
+        "葉っぱを　振り回して　相手を　威嚇するが\n葉っぱから　甘い　香りが　漂うので\nお互いに　和やかな　雰囲気に　なるよ。"
+    ],
+    "height": 0.9,
+    "id": 152,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "name": "チコリータ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 6.4
+}

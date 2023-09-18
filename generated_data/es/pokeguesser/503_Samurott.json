@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "En un abrir y cerrar de ojos, puede desenvainar y\nenvainar los sables que hay en sus patas delanteras.",
+        "Derriba a su rival con un solo tajo del sable que lleva\nen su coraza. Acalla al enemigo con una simple\nmirada.",
+        "En un abrir y cerrar de ojos, puede desenvainar y envainar los\nsables que hay en sus patas delanteras.",
+        "Derriba a su rival con un solo tajo del sable que lleva en su\ncoraza. Acalla al enemigo con una simple mirada."
+    ],
+    "height": 1.5,
+    "id": 503,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+    "name": "Samurott",
+    "types": [
+        "Agua"
+    ],
+    "weight": 94.6
+}

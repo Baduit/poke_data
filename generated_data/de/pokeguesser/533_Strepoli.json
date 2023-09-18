@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Diese durchtrainierten Muskelprotze sind im\nUmgang mit Stahlträgern versiert und können\ndamit ganze Häuser abreißen.",
+        "Selbst wenn es mit voller Wucht von einem\nProfi-Ringer angegriffen wird, lässt es dies\ndank seines Muskeltrainings kalt.",
+        "Diese durchtrainierten Muskelprotze sind im Umgang mit\nStahlträgern versiert und können damit ganze Häuser abreißen.",
+        "Selbst wenn es mit voller Wucht von einem Profi-Ringer\nangegriffen wird, lässt es dies dank seines Muskeltrainings kalt.",
+        "Strepoli und Maschock treffen sich regelmäßig\nzum Muskelvergleich. Wer schlecht abschneidet,\nlässt sich danach eine Weile nicht mehr blicken.",
+        "Es ist gut im Tragen von Stahlträgern und im\nAbreißen von Häusern. Das Bauen dagegen\nliegt ihm nicht besonders."
+    ],
+    "height": 1.2,
+    "id": 533,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "name": "Strepoli",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 40.0
+}

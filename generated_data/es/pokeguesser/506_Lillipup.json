@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Los mechones que cubren su cara actúan como un\nmagnífico radar para detectar con precisión lo que hay\na su alrededor.",
+        "Aunque se trata de un Pokémon valeroso, también es\nlo bastante inteligente como para escapar si el rival es\nmuy fuerte.",
+        "Los mechones que cubren su cara actúan como un magnífico\nradar para detectar con precisión lo que hay a su alrededor.",
+        "Aunque se trata de un Pokémon valeroso, también es lo\nbastante inteligente como para escapar si el rival es muy\nfuerte.",
+        "No suele ladrar mucho, por lo que resulta muy\npopular entre los Entrenadores que viven\nen apartamentos.",
+        "Los mechones que le cubren el rostro actúan\ncomo un radar con el que averiguan la\nenvergadura de posibles contrincantes.",
+        "Este Pokémon destaca por su perspicacia. Si\npercibe que no lleva las de ganar, no duda en\nhuir con el rabo entre las piernas.",
+        "Este inteligente Pokémon es muy popular, ya que\nobedece sin rechistar a su Entrenador e incluso\nlos novatos pueden entrenarlo sin problemas.",
+        "Es valiente pero cauto. Usa el suave pelaje que le\nrecubre el rostro para obtener información sobre\nsu entorno.",
+        "Muestra una inteligencia muy superior a la media\nde los niños humanos. No olvida ni el amor ni los\nmalos tratos que recibe."
+    ],
+    "height": 0.4,
+    "id": 506,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+    "name": "Lillipup",
+    "types": [
+        "Normal"
+    ],
+    "weight": 4.1
+}

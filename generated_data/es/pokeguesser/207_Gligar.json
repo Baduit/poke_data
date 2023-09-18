@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "A veces se sujeta a los precipicios. Cuando divisa una\npresa, despliega sus alas y planea para atacar.",
+        "Vuela directo a la cara del objetivo y acaba con su\naterrada víctima inyectándole veneno.",
+        "Gligar planea por el aire sin hacer ningún ruido, como si fuera\npatinando. Este Pokémon se agarra a la cara de su rival con\nlas patas traseras, con forma de garra, y las pinzas de las\ndelanteras y le inyecta veneno por el aguijón.",
+        "Gligar planea por el aire sin hacer ningún ruido, como si fuera\npatinando. Este Pokémon se agarra a la cara de su rival con\nlas patas traseras, con forma de garra, y las pinzas de las\ndelanteras y le inyecta veneno por el aguijón."
+    ],
+    "height": 1.1,
+    "id": 207,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+    "name": "Gligar",
+    "types": [
+        "Tierra",
+        "Volador"
+    ],
+    "weight": 64.8
+}

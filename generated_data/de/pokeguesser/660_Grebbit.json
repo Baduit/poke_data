@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Seine großen Ohren besitzen die Kraft, selbst Felsen,\ndie 1 t schwer sind, mühelos hochzuheben.\nEs wird daher oft auf Baustellen eingesetzt.",
+        "Mit Ohren so mächtig wie ein Bagger kann es selbst\ndas härteste Gestein zertrümmern. Ist es fertig mit\nGraben, lümmelt es herum.",
+        "Seine großen Ohren besitzen die Kraft, selbst Felsen,\ndie 1 t schwer sind, mühelos hochzuheben. Es wird daher\noft auf Baustellen eingesetzt.",
+        "Mit Ohren so mächtig wie ein Bagger kann es selbst das\nhärteste Gestein zertrümmern. Ist es fertig mit Graben,\nlümmelt es herum.",
+        "Seine Stärke gleicht der eines Baggers, sodass es\nsich durch harte Gesteinsschichten graben kann.\nEs leistet großartige Arbeit beim Tunnelbau.",
+        "Das Fell an seinem Bauch hält es schön warm.\nFrüher haben die Menschen daraus Kleidung\ngefertigt, die sie vor Kälte schützte."
+    ],
+    "height": 1.0,
+    "id": 660,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "name": "Grebbit",
+    "types": [
+        "Normal",
+        "Boden"
+    ],
+    "weight": 42.4
+}

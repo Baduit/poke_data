@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Protege sus puntos débiles con las pinzas y\npropina puñetazos en cuanto tiene ocasión.\nCuando pierde, llora lágrimas espumosas.",
+        "Suele perder las pinzas por usarlas demasiado,\npero enseguida le vuelven a crecer. Estas tienen\npoca carne, pero es muy apreciada.",
+        "Usa hábilmente sus robustas pinzas tanto para\natacar como para defenderse. Las peleas entre\ncongéneres parecen combates de boxeo.",
+        "A veces trepa por Exeggutor al confundirlo con\nuna palmera de verdad. Este, presa de la ira, se\ndesembaraza de él a sacudidas y lo pisotea."
+    ],
+    "height": 0.6,
+    "id": 739,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "name": "Crabrawler",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 7.0
+}

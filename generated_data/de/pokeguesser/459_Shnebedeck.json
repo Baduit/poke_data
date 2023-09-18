@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Im Winter steigt es bis zum Fuß der Berge herab.\nIm Frühjahr kehrt es auf den Gipfel zurück.",
+        "Im Frühjahr wachsen Beeren, die wie gefrorene\nSüßigkeiten aussehen, um seinen Bauch herum.",
+        "Im Winter steigt es bis zum Fuß der Berge herab.\nIm Frühjahr kehrt es auf den Gipfel zurück.",
+        "Im Frühjahr wachsen Beeren, die wie gefrorene Süßigkeiten\naussehen, um seinen Bauch herum.",
+        "Es lebt auf verschneiten Bergen und steckt seine\nFüße in den Schnee, um über sie Wasser und\nKälte zu absorbieren.",
+        "Die an Speiseeis erinnernden Beeren, die an\nseinem Bauch wachsen, sind bei den Flampion\nGalars ein sehr beliebter Snack."
+    ],
+    "height": 1.0,
+    "id": 459,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "name": "Shnebedeck",
+    "types": [
+        "Pflanze",
+        "Eis"
+    ],
+    "weight": 50.5
+}

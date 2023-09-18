@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "會由２、３０隻群居生活。\n受到敵人攻擊時，首領會\n奮不顧身地保護群體。",
+        "獠牙會一輩子不停地成長。\n即使在戰鬥中折斷，也只需要\n１年的時間就又能長得巨大如初。"
+    ],
+    "height": 1.4,
+    "id": 365,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+    "name": "帝牙海獅",
+    "types": [
+        "冰",
+        "水"
+    ],
+    "weight": 150.6
+}

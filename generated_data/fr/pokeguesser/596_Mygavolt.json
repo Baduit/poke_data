@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quand on l’attaque, il projette une\nmultitude de fils électrifiés pour\ncréer une barrière électrique.",
+        "Il tend des pièges avec ses fils\nélectriques. Il déguste tranquillement\nses proies une fois électrocutées.",
+        "Il tend des pièges avec ses fils électriques.\nIl déguste tranquillement ses proies une fois\nélectrocutées.",
+        "Quand on l’attaque, il projette une multitude de fils\nélectrifiés pour créer une barrière électrique.",
+        "Il tend des pièges avec ses fils électriques. Il déguste\ntranquillement ses proies une fois électrocutées.",
+        "Quand on l’attaque, il projette une multitude de fils électrifiés\npour créer une barrière électrique.",
+        "Il attaque en projetant les poils de son abdomen\nchargés en électricité. La victime reste alors\nparalysée pendant trois jours et trois nuits.",
+        "Il piège les oisillons qui ne savent pas encore\nvoler en tissant une toile électrique près des nids\ndes Pokémon oiseaux."
+    ],
+    "height": 0.8,
+    "id": 596,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "name": "Mygavolt",
+    "types": [
+        "Insecte",
+        "Électrik"
+    ],
+    "weight": 14.3
+}

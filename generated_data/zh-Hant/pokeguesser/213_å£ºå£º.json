@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "甲殼裡儲存著樹果。\n為了避免受到襲擊，\n會一動不動地躲在岩石下面。",
+        "儲存在壺形甲殼裡的\n樹果會在不知不覺間\n變成黏糊糊的果汁。"
+    ],
+    "height": 0.6,
+    "id": 213,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "name": "壺壺",
+    "types": [
+        "蟲",
+        "岩石"
+    ],
+    "weight": 20.5
+}

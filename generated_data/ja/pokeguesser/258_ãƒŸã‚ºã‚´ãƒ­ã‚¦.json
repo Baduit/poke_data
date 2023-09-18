@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "大きな　尾びれで　水を　かけば\nぐんぐん　スピードが　上がる。\n小さい　体でも　力持ち。",
+        "頭の　ヒレで　水の　流れを\n感じて　まわりの　様子を　知る。\n岩を　持ち上げる　力持ち。",
+        "頭の　ひれは　とても　敏感な　レーダー。\n水や　空気の　動きから　目を　使わずに\n周りの　様子を　キャッチすることが　できる。",
+        "水中では　ほっぺの　エラで　呼吸する。\nピンチに　なると　体より　大きな　岩を\n粉々に　砕く　パワーを　発揮する。"
+    ],
+    "height": 0.4,
+    "id": 258,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "name": "ミズゴロウ",
+    "types": [
+        "みず"
+    ],
+    "weight": 7.6
+}

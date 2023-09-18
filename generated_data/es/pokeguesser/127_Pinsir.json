@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Atrapa presas con sus pinzas hasta que las parte en\ndos. Lanza lejos lo que no puede quebrar.",
+        "Arremete violentamente con su cornamenta. Cuando\nllega el frío, se adentra en los bosques.",
+        "Pinsir es sorprendentemente fuerte. Puede agarrar con los\ncuernos a un rival que pese el doble que él y levantarlo por\nlos aires. En zonas frías, los movimientos de este Pokémon\nse vuelven lentos.",
+        "Pinsir tiene un par de cuernos imponentes recubiertos de\npinchos, que se clavan en el cuerpo del rival. Una vez que\nlos ha clavado, no hay quien escape de su abrazo.",
+        "Atrapa a sus rivales con las pinzas y los parte\nen dos con su enorme fuerza. A pesar de ser\nmuy fuerte, no soporta el frío.",
+        "Es capaz de derribar un árbol de una sola\narremetida. En Alola, su mayor rival es Vikavolt.",
+        "Son famosas sus disputas territoriales con los\nVikavolt. En Alola parece llevarse muy bien con\nlos Heracross por motivos que se desconocen.",
+        "Es de constitución robusta, pero no soporta el\nfrío. Al caer la noche, se cubre con un manto de\nhojas antes de conciliar el sueño.",
+        "Atrapa a su presa con las pinzas y aprieta fuerte.\nHabita en lugares cálidos, ya que el frío puede\nllegar a inmovilizarlo.",
+        "Atrapa a su presa con las pinzas y aprieta fuerte.\nHabita en lugares cálidos, ya que el frío puede\nllegar a inmovilizarlo.",
+        "Los Pinsir se juzgan entre ellos por la robustez\nde la cornamenta. Cuanto más imponente sea,\nmás agradará a sus congéneres del sexo opuesto.",
+        "Usa la cornamenta a modo de pinza para atrapar\na sus presas. Acto seguido, las parte por la mitad\no las arroja lejos."
+    ],
+    "height": 1.5,
+    "id": 127,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "name": "Pinsir",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 55.0
+}

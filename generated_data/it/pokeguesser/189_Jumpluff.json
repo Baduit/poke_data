@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sospinto dai venti stagionali, gira intorno al globo\nsparpagliando i suoi semi simili al cotone.",
+        "Anche nel vento forte controlla abilmente il suo\nbatuffolo per volare in ogni parte del mondo.",
+        "Jumpluff si affida alle correnti d’aria calda per attraversare\nil mare e volare verso terre lontane. Questo Pokémon\nridiscende a terra quando incontra una corrente fredda\nmentre fluttua.",
+        "Jumpluff si affida alle correnti d’aria calda per attraversare\nil mare e volare verso terre lontane. Questo Pokémon\nridiscende a terra quando incontra una corrente fredda\nmentre fluttua."
+    ],
+    "height": 0.8,
+    "id": 189,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+    "name": "Jumpluff",
+    "types": [
+        "Erba",
+        "Volante"
+    ],
+    "weight": 3.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Desde hace mucho tiempo se estudia su singular\nmotor como fuente de energía motriz.",
+        "Su cuerpo está hecho de plasma. Puede infiltrarse en\ndispositivos electrónicos e inutilizarlos.",
+        "Desde hace mucho tiempo se estudia su singular motor como\nfuente de energía motriz.",
+        "Su cuerpo está hecho de plasma. Puede infiltrarse en\ndispositivos electrónicos e inutilizarlos.",
+        "Gracias a la inventiva de cierto joven, se ha\niniciado la fabricación de diversos artilugios\nque aprovechan todo el potencial de Rotom.",
+        "Su cuerpo de plasma le permite infiltrarse en\ntoda clase de dispositivos electrónicos. Adora\nsobresaltar a la gente."
+    ],
+    "height": 0.3,
+    "id": 479,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "name": "Rotom",
+    "types": [
+        "Eléctrico",
+        "Fantasma"
+    ],
+    "weight": 0.3
+}

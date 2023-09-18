@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "身體猶如打磨過的金屬，\n雖然輕而堅硬，卻有著\n容易生鏽的弱點。",
+        "由特殊金屬構成的身體\n十分輕盈，能夠靈活地活動。\n不喜歡下雨，所以住在洞窟裡。"
+    ],
+    "height": 1.8,
+    "id": 884,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "name": "鋁鋼龍",
+    "types": [
+        "鋼",
+        "龍"
+    ],
+    "weight": 40.0
+}

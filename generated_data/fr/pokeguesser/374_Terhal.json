@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il dégage un champ magnétique opposé à celui\nde la terre, ce qui lui permet de léviter.",
+        "Il dialogue avec les siens par \nimpulsions magnétiques. En bande,\nils se déplacent à l’unisson.",
+        "Il dialogue avec les siens par \nimpulsions magnétiques. En bande,\nils se déplacent à l’unisson.",
+        "Il dialogue avec les siens par impulsions magnétiques.\nEn bande, ils se déplacent à l’unisson.",
+        "Au lieu du sang, une force magnétique très puissante coule\ndans les veines de Terhal. Ce Pokémon communique avec\nles autres en envoyant des pulsations magnétiques.",
+        "Terhal peut léviter en générant un champ magnétique qui\nrepousse le magnétisme naturel de la terre. Lorsqu’il dort, ce\nPokémon s’ancre à une falaise grâce à ses crochets dorsaux.",
+        "Toutes ses cellules sont en fait des aimants.\nIl utilise la force magnétique pour communiquer\navec ses congénères.",
+        "Il attire ses ennemis avec des ondes\nmagnétiques et les pourfend avec ses griffes\ncaudales dès qu’ils sont à portée.",
+        "Son corps n’est pas traversé par du sang, mais\npar des champs magnétiques. S’il est fatigué,\nil suffit de lui donner un aimant à grignoter.",
+        "Quand on l’énerve, il entre dans une colère noire\net déchaîne un puissant champ magnétique\nqui peut endommager les machines alentour.",
+        "Ce Pokémon peut créer un champ magnétique\nderrière lui qui attire ses ennemis avec force.\nIl les embroche alors de ses griffes acérées.",
+        "Les cellules de son corps sont composées\nd’aimants. Une force magnétique coule\ndans ses veines à la place du sang."
+    ],
+    "height": 0.6,
+    "id": 374,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "name": "Terhal",
+    "types": [
+        "Acier",
+        "Psy"
+    ],
+    "weight": 95.2
+}

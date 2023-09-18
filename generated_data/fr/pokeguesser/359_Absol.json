@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "La capacité de sa corne à sentir\nles catastrophes ayant trop attiré\nl’attention sur lui, il vit reclus.",
+        "La capacité de sa corne à sentir\nles catastrophes ayant trop attiré\nl’attention sur lui, il vit reclus.",
+        "Il pressent les catastrophes et n’apparaît aux gens\nque pour les prévenir d’un danger imminent.",
+        "Absol apparaît dès qu’une catastrophe naturelle est\nsur le point de se produire. Pour cette raison,\nles gens ont longtemps pensé qu’il portait malheur.",
+        "Chaque fois qu’Absol apparaît devant des gens,\nune catastrophe comme un tremblement de terre\nou un raz-de-marée survient peu de temps après.\nIl est devenu tristement célèbre sous l’appellation\nde Pokémon désastreux.",
+        "Absol a le pouvoir de prédire les catastrophes naturelles.\nIl vit dans un milieu montagneux aride et accidenté.\nCe Pokémon s’éloigne très rarement des montagnes.",
+        "Autrefois la cible de superstitions le rendant\nresponsable des catastrophes, il s’est retiré\ndans les montagnes pour y échapper.",
+        "On le dit annonciateur de catastrophes, mais\nc’est en fait un Pokémon paisible. Il prévient les\nhommes de l’imminence des cataclysmes.",
+        "Contrairement à ce que son apparence suggère,\nil s’agit d’un Pokémon bienveillant qui protège\nles champs et annonce les catastrophes.",
+        "Les anciens le détestent et le nomment « le\nPokémon Désastre », mais d’autres l’apprécient\npour son aptitude à prédire les catastrophes.",
+        "Il court par monts et par vaux, rapide comme\nle vent. Sa corne arquée lui permet de percevoir\nles signes avant-coureurs des cataclysmes.",
+        "Sa capacité à pressentir le danger lui a autrefois\nvalu la réputation de porter malheur."
+    ],
+    "height": 1.2,
+    "id": 359,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "name": "Absol",
+    "types": [
+        "Ténèbres"
+    ],
+    "weight": 47.0
+}

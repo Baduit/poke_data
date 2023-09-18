@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "La electricidad que genera y envía a sus patas le\nayuda a desplazarse rápidamente. Puede correr\nsin descanso durante tres días y tres noches.",
+        "La electricidad le confiere una enorme fuerza en\nlas patas. Su velocidad punta puede superar los\n90 km/h sin problema."
+    ],
+    "height": 1.0,
+    "id": 836,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "name": "Boltund",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 34.0
+}

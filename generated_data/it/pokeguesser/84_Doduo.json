@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Pokémon a due teste, scoperto a seguito di\nun’improvvisa mutazione. Può correre a 100 km/h.",
+        "I suoi due cervelli si comunicano le emozioni grazie\nai poteri telepatici.",
+        "Le due teste di Doduo non dormono mai nello stesso\nmomento, in modo che una sia sempre vigile per difendersi\ndai nemici, mentre l’altra può riposare tranquilla.",
+        "Le due teste di Doduo contengono lo stesso identico\ncervello. Secondo uno studio scientifico sono stati riportati\nrari casi di Doduo con cervelli diversi.",
+        "Le cortissime ali non gli permettono di volare.\nPuò tuttavia correre velocissimo grazie alle\nzampe ben sviluppate.",
+        "Le cortissime ali non gli permettono di volare.\nPuò tuttavia correre velocissimo grazie alle\nzampe ben sviluppate."
+    ],
+    "height": 1.4,
+    "id": 84,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "name": "Doduo",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 39.2
+}

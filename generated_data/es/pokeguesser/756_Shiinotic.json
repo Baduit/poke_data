@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es peligroso adentrarse por la noche en un\nbosque habitado por Shiinotic. Su luz confunde\na los caminantes, que terminan perdiéndose.",
+        "Las esporas parpadeantes que despide tienen\nun efecto somnífero. Absorbe la vitalidad de su\npresa cuando esta se queda dormida.",
+        "Duerme a su presa y le arrebata la vitalidad con\nsus brazos. Si otro Shiinotic se encuentra en\napuros, le transmite sus fuerzas.",
+        "Al rondar por su territorio, si se encuentra con\nun Parasect, competirá con él y acabarán\ndejando el lugar cubierto de esporas.",
+        "Atrae y duerme a su presa con la luz parpadeante\nde sus esporas y luego le absorbe la energía vital\ncon la punta de los dedos.",
+        "Conviene no acercarse si se avistan luces en la\nespesura del bosque en plena noche, ya que\npodrían ser las esporas soporíferas de Shiinotic."
+    ],
+    "height": 1.0,
+    "id": 756,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+    "name": "Shiinotic",
+    "types": [
+        "Planta",
+        "Hada"
+    ],
+    "weight": 11.5
+}

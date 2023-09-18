@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Pokémon formato dalle anime di persone e Pokémon.\nAma le stagioni umide.",
+        "Anche detto “Guida degli spiriti vaganti”. A volte\ni bambini che ne hanno uno svaniscono\nimprovvisamente nel nulla.",
+        "Pokémon formato dalle anime di persone e Pokémon.\nAma le stagioni umide.",
+        "Anche detto “Guida degli spiriti vaganti”. A volte i bambini\nche ne hanno uno svaniscono improvvisamente nel nulla.",
+        "Si dice che prenda per mano i bambini e li\naccompagni nell’aldilà. Preferisce quelli piccoli\ne leggeri.",
+        "Se il suo corpo si buca accidentalmente, la sua\nessenza vitale fuoriesce con un suono simile\na un lamento.",
+        "Il suo corpo rotondo contiene molte anime.\nPiù tempo passa in compagnia, più il suo\ncorpo si gonfia.",
+        "È formato dalle anime che vagano sul ciglio\ndella strada. Prende con sé i bambini\ntenendoli per mano.",
+        "Si avvicina ai bambini in cerca di compagnia,\nma spesso è costretto a fuggire perché viene\ntrattato senza troppi riguardi.",
+        "È nato dall’aggregazione di diverse anime.\nNelle stagioni umide possono apparirne\nnumerosi esemplari."
+    ],
+    "height": 0.4,
+    "id": 425,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "name": "Drifloon",
+    "types": [
+        "Spettro",
+        "Volante"
+    ],
+    "weight": 1.2
+}

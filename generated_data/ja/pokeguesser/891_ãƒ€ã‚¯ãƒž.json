@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "厳しい　鍛錬を　積み　技を\n磨く。　体得した　技によって\n進化したときの　姿が　変わる。",
+        "頭の　白く　長い　体毛を\n引っぱると　気合が　高まり\n丹田から　パワーが　湧きあがる。"
+    ],
+    "height": 0.6,
+    "id": 891,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
+    "name": "ダクマ",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 12.0
+}

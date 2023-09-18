@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "L’elettricità immagazzinata nella pelliccia gli stimola\ni muscoli e aumenta la sua velocità di reazione.",
+        "Accumula elettricità statica nella pelliccia, che poi\nscarica. Se si avvicina una tempesta, lo si vede\nscintillare.",
+        "Electrike accumula l’elettricità nella sua folta pelliccia.\nStimola i muscoli degli arti inferiori con cariche elettriche,\ngrazie alle quali ottiene prestazioni e accelerazioni esplosive.",
+        "Electrike corre più velocemente di quanto l’occhio umano\npossa percepire. L’attrito dovuto alla corsa viene trasformato\nin elettricità, accumulata poi nella pelliccia del Pokémon.",
+        "L’attrito fra l’atmosfera e la sua pelliccia genera\nelettricità statica e quando corre si avverte\nun crepitio.",
+        "Accumula elettricità statica in tutto il corpo\nsfregando la folta pelliccia. Il suo punto di forza\nè la velocità.",
+        "Accumula elettricità statica nella pelliccia e poi\nla rilascia. Se si avvicina una tempesta, emette\nscintille.",
+        "Accumula elettricità statica nella pelliccia. Nella\nstagione secca, il suo corpo sprizza scintille."
+    ],
+    "height": 0.6,
+    "id": 309,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "name": "Electrike",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 15.2
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Sein feines Gespür und Intellekt zeichnen es aus.\nEs bleibt in jeder Situation gelassen und besonnen.",
+        "Als Flegmon in den Kopf gebissen wurde, floss Gift\nin seinen Kopf und setzte eine gewaltige Kraft frei.",
+        "Laschoking betreibt jeden Tag Forschung, um die Geheimnisse\nder Welt zu lüften. Dieses Pokémon vergisst aber alles, was es\nbereits herausgefunden hat, wenn das Muschas auf seinem\nKopf abfällt.",
+        "Laschoking betreibt jeden Tag Forschung, um die Geheimnisse\nder Welt zu lüften. Dieses Pokémon vergisst aber alles, was es\nbereits herausgefunden hat, wenn das Muschas auf seinem\nKopf abfällt.",
+        "Durch einen giftigen Biss wurde es zu einer\nwahren Intelligenzbestie. Es verfügt über\nPsycho-Kräfte.",
+        "Es ist so berühmt für seine Intelligenz, dass\nsich vielerorts das Sprichwort „Nicht verzagen,\nLaschoking fragen!“ durchgesetzt hat.",
+        "In seinem Kopf kommen ihm ständig große Ideen,\ndie die Welt verändern könnten. Leider vergisst\nes sie jedoch viel zu schnell wieder.",
+        "Man nennt es auch den „Weisen des Meeres“.\nEs liefert sich mit Kommandutan epische\nQuiz-Duelle, die zumeist im Gleichstand enden.",
+        "Das Gift von Muschas drang in Flegmons Gehirn\nein und erweckte dabei wie durch ein Wunder\nbisher verborgene Intelligenz in ihm.",
+        "Bittet man es darum, löst es jedes noch so\nschwere Problem für einen. Jedoch ist niemand in\nder Lage, Laschokings Sprache zu verstehen."
+    ],
+    "height": 2.0,
+    "id": 199,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "name": "Laschoking",
+    "types": [
+        "Wasser",
+        "Psycho"
+    ],
+    "weight": 79.5
+}

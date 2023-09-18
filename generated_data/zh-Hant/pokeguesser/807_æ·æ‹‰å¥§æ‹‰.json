@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "會讓雙手雙腳的爪子帶電，\n然後將對手撕裂。就算被躲開，\n也會用飛散的電擊讓對手觸電。",
+        "會用與落雷相同的速度\n急速接近敵人，然後用\n銳利的爪子把對手撕碎。",
+        "以媲美閃電的速度奔跑，\n用能釋放高壓電的爪子\n將敵人撕得粉碎。",
+        "從手腳的肉球放電。\n當捷拉奧拉奔馳而過時，\n周圍將充斥著電閃雷鳴。"
+    ],
+    "height": 1.5,
+    "id": 807,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "捷拉奧拉",
+    "types": [
+        "電"
+    ],
+    "weight": 44.5
+}

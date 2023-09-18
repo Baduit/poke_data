@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "È un gran fifone e fugge agitando rapidamente\nle sue numerose zampette. Dopo il suo\npassaggio, tutto è lindo e pulito.",
+        "Vive dappertutto, dalle spiagge ai fondali marini.\nMangia volentieri anche sostanze putrescenti,\nperciò viene chiamato lo spazzino della natura.",
+        "Raccoglie da terra ogni tipo di oggetto.\nQuando trova delle monete viene preso\ndi mira da Murkrow e Meowth.",
+        "È un Pokémon estremamente timoroso.\nNon appena qualcosa gli si avvicina, Wimpod se\nla svigna a gran velocità agitando le zampette.",
+        "Poiché mangia di tutto, anche immondizia e\nsostanze putrescenti, è detto lo spazzino della\nnatura. Attorno alla sua tana regna la pulizia.",
+        "Si muovono in gruppo e stanno sempre sul chi\nva là. Non appena percepiscono la presenza\ndel nemico scappano in ogni direzione."
+    ],
+    "height": 0.5,
+    "id": 767,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+    "name": "Wimpod",
+    "types": [
+        "Coleottero",
+        "Acqua"
+    ],
+    "weight": 12.0
+}

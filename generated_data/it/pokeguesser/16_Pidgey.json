@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Molto comune in boschi e foreste, sbatte le ali a\nlivello del suolo per sollevare sabbia accecante.",
+        "È docile e preferisce evitare i conflitti. Ma se viene\ndisturbato, contrattacca ferocemente.",
+        "Pidgey ha un senso dell’orientamento molto sviluppato.\nÈ sempre in grado di ritornare al suo nido, anche quando\nsi spinge molto lontano dal suo ambiente abituale.",
+        "Pidgey ha un senso dell’orientamento molto sviluppato.\nÈ sempre in grado di ritornare al suo nido, anche quando\nsi spinge molto lontano dal suo ambiente abituale.",
+        "Di indole docile, preferisce gettare sabbia\nverso il nemico per proteggersi piuttosto\nche attaccarlo.",
+        "Di indole docile, preferisce gettare sabbia\nverso il nemico per proteggersi piuttosto\nche attaccarlo."
+    ],
+    "height": 0.3,
+    "id": 16,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "name": "Pidgey",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 1.8
+}

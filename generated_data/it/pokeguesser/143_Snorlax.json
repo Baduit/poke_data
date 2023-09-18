@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Dopo aver trangugiato i suoi immancabili 400 kg di\ncibo quotidiani, cade in un sonno profondo.",
+        "Il suo stomaco riesce a digerire qualsiasi tipo di cibo,\nanche se marcio o ammuffito.",
+        "La giornata tipica di Snorlax consiste in nient’altro che\nmangiare e dormire. È un Pokémon così docile che\ni bambini usano la sua enorme pancia come parco giochi.",
+        "La giornata tipica di Snorlax consiste in nient’altro che\nmangiare e dormire. È un Pokémon così docile che\ni bambini usano la sua enorme pancia come parco giochi.",
+        "Sembra che abbia uno stomaco fortissimo.\nIl fluido tossico di Muk per lui è solo un\ncondimento un po’ speziato.",
+        "Ogni giorno mangia 400 kg di cibo.\nAppena inizia a mangiare, si addormenta, ma\ncontinua anche mentre dorme.",
+        "Non fa altro che mangiare e dormire, ma quando\ndecide di fare sul serio tira fuori una potenza\neccezionale.",
+        "Il suo unico interesse è il cibo. Quando fa\nla sua pennichella pomeridiana, non si accorge\nnemmeno se qualcuno gli sale sulla pancia.",
+        "Mangia qualsiasi cosa gli capiti a tiro, anche\nse ammuffita, senza mai soffrire di mal di pancia.",
+        "Mangia qualsiasi cosa gli capiti a tiro, anche\nse ammuffita, senza mai soffrire di mal di pancia.",
+        "Dopo aver trangugiato i suoi immancabili 400 kg\ndi cibo quotidiani, cade in un sonno profondo.",
+        "Ha uno stomaco così resistente che può\ningerire anche cibo ammuffito o avariato."
+    ],
+    "height": 2.1,
+    "id": 143,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "name": "Snorlax",
+    "types": [
+        "Normale"
+    ],
+    "weight": 460.0
+}

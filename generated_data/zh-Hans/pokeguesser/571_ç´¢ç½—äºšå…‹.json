@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "不只是幻化成其他东西，\n还拥有让几百人看见幻像的力量。",
+        "据说，栖息地快要暴露在人类面前时，\n它就会制造出幻象，\n让人在森林里不断徘徊。",
+        "时刻为伙伴着想的宝可梦。\n为保护自己的栖息地和族群，\n会让敌人看到恐怖的幻象。",
+        "孤独的训练家会命令\n索罗亚克为自己展现幻像，\n借以排遣孤身一人的寂寞。"
+    ],
+    "height": 1.6,
+    "id": 571,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "name": "索罗亚克",
+    "types": [
+        "恶"
+    ],
+    "weight": 81.1
+}

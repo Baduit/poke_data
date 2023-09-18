@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Seine steinharte Haut und sein ausgeprägtes Horn\nsind seine Markenzeichen. Achte auf das Horn,\ndenn es enthält Gift.",
+        "Ein Schlag mit seinem gewaltigen Schweif kann\neinen Telegrafenmast knicken wie ein Streichholz.",
+        "Nidokings Schweif ist enorm stark. Mit einer Bewegung\nkann es einen metallenen Sendemast zum Einsturz bringen.\nWenn es in Rage gerät, ist es nur schwer aufzuhalten.",
+        "Nidokings Schweif ist enorm stark. Mit einer Bewegung\nkann es einen metallenen Sendemast zum Einsturz bringen.\nWenn es in Rage gerät, ist es nur schwer aufzuhalten.",
+        "Dank seiner stahlharten Haut kann es Gegner\nbesonders effektiv rammen. Mit seinem Horn\nspaltet es sogar Diamanten.",
+        "Dank seiner stahlharten Haut kann es Gegner\nbesonders effektiv rammen. Mit seinem Horn\nspaltet es sogar Diamanten.",
+        "Gerät es in Rage, ist es nur schwer aufzuhalten.\nDoch vor einem Nidoqueen, mit dem es schon\nviele Jahre verbracht hat, zeigt es sich friedlich.",
+        "Nidoking ist stolz auf seine Kraft und kämpft sehr\ngeschickt mit seinem dicken Schweif und seinem\nHorn, das selbst Diamanten zertrümmern kann."
+    ],
+    "height": 1.4,
+    "id": 34,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "name": "Nidoking",
+    "types": [
+        "Gift",
+        "Boden"
+    ],
+    "weight": 62.0
+}

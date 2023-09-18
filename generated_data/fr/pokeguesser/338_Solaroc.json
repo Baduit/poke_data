@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Le bruit court que cette nouvelle\nespèce vient du soleil. Il produit\nde la lumière en tournoyant.",
+        "Le bruit court que cette nouvelle\nespèce vient du soleil. Il produit\nde la lumière en tournoyant.",
+        "Il tire sa force de l’énergie solaire.\nIl est donc particulièrement à l’aise en journée.\nIl s’illumine quand il tourne.",
+        "Solaroc absorbe l’énergie du soleil pendant la\njournée. Toujours impassible, il parvient à lire\nles pensées de ses ennemis.",
+        "Solaroc est une nouvelle espèce de Pokémon. On raconte\nqu’il serait tombé de l’espace. Il flotte dans les airs et\nse déplace silencieusement. Au combat, ce Pokémon\nlibère une lumière intense.",
+        "La lumière du soleil est à l’origine du pouvoir de Solaroc.\nOn raconte qu’il peut lire les pensées d’autrui. Ce Pokémon\npeut libérer une chaleur insoutenable en faisant tournoyer\nson corps.",
+        "Il produit une lumière aussi aveuglante\nque le soleil quand il se met à tournoyer.",
+        "Tirant sa force de l’énergie solaire, il est\nparticulièrement puissant pendant la journée.\nIl s’illumine quand il tourne."
+    ],
+    "height": 1.2,
+    "id": 338,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "name": "Solaroc",
+    "types": [
+        "Roche",
+        "Psy"
+    ],
+    "weight": 154.0
+}

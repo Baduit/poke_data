@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "無論何時都充滿活力。\n為了變強，就算輸了一次又一次，\n也會不斷重新站起來迎戰對手。",
+        "體型雖小卻不可輕視，\n因為牠只要發現合適的對手，\n就會馬上撲上去大打出手。"
+    ],
+    "height": 0.7,
+    "id": 236,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "name": "無畏小子",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 21.0
+}

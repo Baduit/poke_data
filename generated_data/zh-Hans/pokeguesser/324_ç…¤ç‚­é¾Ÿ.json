@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "煤炭是其能量的来源。\n在煤炭龟栖息着的山里，\n沉睡着大量的煤炭。",
+        "如果甲壳中的火焰消失就会死亡。\n要在家里培育的话，必须常备燃料。",
+        "通过甲壳里喷出的烟\n就能了解它的身体状况。\n势头很旺时，说明很有精神。",
+        "燃烧煤炭，制作能量。\n如果煤炭烧尽，\n身体就会变得无法动弹。",
+        "会在甲壳中燃烧煤炭产生能量。\n危急关头会喷出黑色的煤烟。",
+        "在弃用的煤矿中\n住着很多煤炭龟，\n它们会不停地挖掘煤炭。"
+    ],
+    "height": 0.5,
+    "id": 324,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "name": "煤炭龟",
+    "types": [
+        "火"
+    ],
+    "weight": 80.4
+}

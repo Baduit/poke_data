@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "しっぽで　きのえだに　ぶらさがり\nえものを　かんさつする。すきを\nみて　じょうくうから　おそいかかる。",
+        "はおとを　たてずに　そらを　とぶ。\nながい　しっぽで　えものを　つかまえ\nキバで　きゅうしょを　ひとつき。",
+        "しっぽで　きのえだに　ぶらさがり\nえものを　かんさつする。すきを\nみて　じょうくうから　おそいかかる。",
+        "はおとを　たてずに　そらを　とぶ。\nながい　しっぽで　えものを　つかまえ\nキバで　きゅうしょを　ひとつき。"
+    ],
+    "height": 2.0,
+    "id": 472,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "name": "グライオン",
+    "types": [
+        "じめん",
+        "ひこう"
+    ],
+    "weight": 42.5
+}

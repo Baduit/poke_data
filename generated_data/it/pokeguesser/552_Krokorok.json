@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Forma gruppi di pochi esemplari. La pellicola che\nricopre i suoi occhi lo protegge dalle tempeste di\nsabbia.",
+        "La membrana speciale che ha sugli occhi è in grado\ndi percepire il calore dei corpi, consentendogli così\ndi vedere al buio.",
+        "Forma gruppi di pochi esemplari. La pellicola che ricopre\ni suoi occhi lo protegge dalle tempeste di sabbia.",
+        "La membrana speciale che ha sugli occhi è in grado di\npercepire il calore dei corpi, consentendogli così di vedere\nal buio.",
+        "Vive in piccoli gruppi.\nSe il capogruppo è una femmina, i maschi\nsi occupano di procurare il cibo.",
+        "La membrana speciale che ricopre i suoi occhi\ngli permette di vedere chiaramente l’ambiente\ncircostante anche al buio.",
+        "Odia il freddo. Se di notte la temperatura\ncala eccessivamente, si scava un rifugio in\nprofondità sotto la sabbia.",
+        "Sotterra alcune prede nella sabbia come scorta\nd’emergenza per i casi in cui la caccia non dia\nbuoni frutti.",
+        "È in grado di cacciare nel pieno della notte senza\ndifficoltà, grazie agli occhi particolari che gli\npermettono di vedere anche al buio.",
+        "È dotato di occhi particolari che gli permettono\ndi vedere anche al buio, ma poiché le notti nel\ndeserto sono fredde non è molto attivo di notte."
+    ],
+    "height": 1.0,
+    "id": 552,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+    "name": "Krokorok",
+    "types": [
+        "Terra",
+        "Buio"
+    ],
+    "weight": 33.4
+}

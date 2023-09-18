@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Les Grahyèna forment des meutes de dix qui\nexcellent au travail de groupe pour capturer leurs\nproies.",
+        "Il traque ses proies en groupe.\nIl ne désobéira jamais aux\nordres d’un bon Dresseur.",
+        "Il traque ses proies en groupe.\nIl ne désobéira jamais aux\nordres d’un bon Dresseur.",
+        "Il obéit toujours aux ordres de son Dresseur si celui-ci\nest très doué. Son comportement vient de l’époque\nreculée où il vivait en meute.",
+        "On peut facilement deviner quand Grahyèna se prépare à\nattaquer. Il grogne et se met à plat ventre. Ce Pokémon mord\nsauvagement ses ennemis avec ses crocs acérés.",
+        "Les Grahyèna vivent et se déplacent en meute.\nLeurs réminiscences de la vie sauvage les poussent à n’obéir\nqu’aux Dresseurs qu’ils considèrent comme réellement\ntalentueux."
+    ],
+    "height": 1.0,
+    "id": 262,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "name": "Grahyèna",
+    "types": [
+        "Ténèbres"
+    ],
+    "weight": 37.0
+}

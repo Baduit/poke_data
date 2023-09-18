@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Das Horn an seinem Kopf ist eine scharfe Klinge.\nNeckt seine Gegner mit quirligen Bewegungen\nund greift blitzartig an.",
+        "Legenden zufolge täuschte es seine Gegner mit flinken\nBewegungen und beschützte so die Pokémon.",
+        "Das Horn an seinem Kopf ist eine scharfe Klinge. Neckt seine\nGegner mit quirligen Bewegungen und greift blitzartig an.",
+        "Legenden zufolge täuschte es seine Gegner mit flinken\nBewegungen und beschützte so die Pokémon.",
+        "Eine Legende berichtet davon, wie Viridium einst\nmit Kobalium und Terrakium unermüdlich die\nPokémon Einalls vor den Menschen beschützte.",
+        "Es täuscht seine Gegner mit flinken Bewegungen,\num sie dann blitzartig anzugreifen und ohne jede\nGnade mit seinen Hörnern aufzuschlitzen."
+    ],
+    "height": 2.0,
+    "id": 640,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "name": "Viridium",
+    "types": [
+        "Pflanze",
+        "Kampf"
+    ],
+    "weight": 200.0
+}

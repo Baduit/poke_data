@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "平常栖息在海的浅滩底部，\n退潮的时候就爬到陆地上，\n四处寻找猎物。",
+        "古代海里的食肉宝可梦。\n能用８根触手捕捉猎物，\n一边用消化液溶化一边吃。",
+        "虽然脚很短走得慢，\n但脖子和触手能伸长３倍，\n因此能捉到远处的猎物。",
+        "用触手将猎物缠住后，\n会用消化液将其溶化，\n然后吸收其中的养分。"
+    ],
+    "height": 1.5,
+    "id": 346,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "name": "摇篮百合",
+    "types": [
+        "岩石",
+        "草"
+    ],
+    "weight": 60.4
+}

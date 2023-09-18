@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il suo habitat preferito sono i meravigliosi giardini\nfioriti. Assorbe e utilizza l’energia di piante e fiori.",
+        "Anticamente, i padroni dei castelli ricorrevano al suo\naiuto per abbellire i loro giardini con tanti fiori diversi.",
+        "Il suo habitat preferito sono i meravigliosi giardini fioriti.\nAssorbe e utilizza l’energia di piante e fiori.",
+        "Anticamente, i padroni dei castelli ricorrevano al suo aiuto per\nabbellire i loro giardini con tanti fiori diversi.",
+        "Ha il potere di controllare i fiori che coltiva.\nÈ in grado di creare tempeste di fiori tanto\nmeravigliose quanto devastanti.",
+        "Può vivere per centinaia di anni e dedica la sua\nintera esistenza alla cura dei giardini fioriti."
+    ],
+    "height": 1.1,
+    "id": 671,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+    "name": "Florges",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 10.0
+}

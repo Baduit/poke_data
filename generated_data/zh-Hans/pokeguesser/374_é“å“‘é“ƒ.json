@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "细胞全部是磁铁。\n使用磁力和伙伴之间进行交流。",
+        "放出磁力将对手吸到身边的时候，\n用臀部的爪子将对方劈开。",
+        "体内循环着的不是血液而是磁力。\n身体状况不好时，就给它磁铁吧。",
+        "如果把它惹恼，不仅会大闹一番，\n还会放出强大的磁力，\n所以会把机械类的东西都破坏掉。",
+        "从臀部发出磁力，猛地\n将敌人吸过来，然后用\n锐利的爪子把对方刺穿。",
+        "身体的细胞由磁铁构成。\n循环于全身的不是血液，\n而是磁力。"
+    ],
+    "height": 0.6,
+    "id": 374,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "name": "铁哑铃",
+    "types": [
+        "钢",
+        "超能力"
+    ],
+    "weight": 95.2
+}

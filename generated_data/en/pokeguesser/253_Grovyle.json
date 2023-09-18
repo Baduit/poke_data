@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "The leaves growing out of GROVYLE’s\nbody are convenient for camouflaging\nit from enemies in the forest.\fThis POKéMON is a master at climbing\ntrees in jungles.",
+        "This POKéMON adeptly flies from branch\nto branch in trees.\nIn a forest, no POKéMON can ever hope\fto catch a fleeing GROVYLE however\nfast they may be.",
+        "Leaves grow out of this POKéMON’s body.\nThey help obscure a GROVYLE from the eyes\nof its enemies while it is in a thickly\novergrown forest.",
+        "Its strongly developed thigh muscles\ngive it astounding agility and jumping\nperformance.",
+        "Its strongly developed thigh muscles\ngive it astounding agility and jumping\nperformance.",
+        "It lives in dense jungles. While \nclosing in on its prey, it leaps\nfrom branch to branch.",
+        "It lives in dense jungles. While \nclosing in on its prey, it leaps\nfrom branch to branch.",
+        "It lives in dense jungles. While \nclosing in on its prey, it leaps\nfrom branch to branch.",
+        "It leaps from tree branch to tree\nbranch quite swiftly. It shows\nastounding agility.",
+        "It leaps from tree branch to tree\nbranch quite swiftly. It shows\nastounding agility.",
+        "It lives in dense jungles. While \nclosing in on its prey, it leaps\nfrom branch to branch.",
+        "It lives in dense jungles. While \nclosing in on its prey, it leaps\nfrom branch to branch.",
+        "It lives in dense jungles. While\nclosing in on its prey, it leaps\nfrom branch to branch.",
+        "It lives in dense jungles. While\nclosing in on its prey, it leaps\nfrom branch to branch.",
+        "Its strongly developed thigh muscles give it\nastounding agility and jumping performance.",
+        "It lives in dense jungles. While closing in on its\nprey, it leaps from branch to branch.",
+        "The leaves growing out of Grovyle’s body are convenient for\ncamouflaging it from enemies in the forest. This Pokémon is a\nmaster at climbing trees in jungles.",
+        "This Pokémon adeptly flies from branch to branch in trees.\nIn a forest, no Pokémon can ever hope to catch a fleeing\nGrovyle however fast they may be."
+    ],
+    "height": 0.9,
+    "id": 253,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+    "name": "Grovyle",
+    "types": [
+        "Grass"
+    ],
+    "weight": 21.6
+}

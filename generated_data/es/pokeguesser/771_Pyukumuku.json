@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Vive en las playas y en aguas poco profundas.\nExpulsa sus entrañas para engañar a sus\ndepredadores y librarse de ellos.",
+        "En las playas se encuentran muchos ejemplares.\nLa mucosidad tan pegajosa que lo envuelve es\nmuy útil como loción tras tomar el sol.",
+        "La costumbre de lanzar de nuevo al agua los\nPyukumuku que han sido arrastrados hasta la\norilla se ha convertido en toda una tradición.",
+        "Su cuerpo está recubierto de fluidos viscosos.\nSi alguien lo pisa, resbalará y Pyukumuku lo\ngolpeará furioso.",
+        "Vive en los cálidos bajíos de las playas. Si se\ntopa con un enemigo, ataca golpeándolo sin\ncesar con las entrañas que expulsa por la boca.",
+        "La formidable mucosidad que envuelve su piel\nlo mantiene hidratado y le permite permanecer\nen tierra firme varios días sin secarse."
+    ],
+    "height": 0.3,
+    "id": 771,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "name": "Pyukumuku",
+    "types": [
+        "Agua"
+    ],
+    "weight": 1.2
+}

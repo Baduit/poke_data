@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Wenn es wütend ist, gerät es außer Kontrolle.\nEs zerstört alles mit seinen Klauen und mit Feuer.",
+        "Ist es einmal wütend, flippt es aus. Es fliegt über\ndas Land und spuckt Feuer, das alles verbrennt.",
+        "Es träumte sehr lange davon, dass ihm Flügel wachsen\nmögen. Dieser sehnliche Wunsch hat wohl eine plötzliche\nMutation in den Zellen dieses Pokémon hervorgerufen,\nsodass ihm plötzlich prächtige Flügel wuchsen.",
+        "Indem es sich zu Brutalanda entwickelt, setzt dieses\nPokémon seinen lang gehegten Traum von Flügeln um.\nUm seine Freude zu zeigen, fliegt es durch die Luft und\ndreht sich. Dabei spuckt es Flammen aus seinem Mund.",
+        "Wenn es wütend ist, kann es nicht mehr klar\ndenken und zerstört alles um sich herum.\nDas tut es bis zur völligen Erschöpfung.",
+        "Nun, da ihm Flügel gewachsen sind, zieht es\nseine Kreise am Himmel. Vor Freude spuckt\nes Flammen und hinterlässt eine Brandwüste.",
+        "Voller Freude darüber, endlich fliegen zu können,\nkreist es am Himmel. Es kommt erst wieder zu\nBoden, wenn es am Rande der Erschöpfung ist.",
+        "Als Ergebnis seines lang gehegten Wunsches\nhaben seine Zellen eine plötzliche Mutation\nvollzogen und ihm sind Flügel gewachsen.",
+        "Diesem ungewöhnlichen Pokémon sind im Zuge\nseiner Entwicklung Flügel gewachsen, nur weil es\nden sehnlichen Wunsch hatte, fliegen zu können.",
+        "Brutalanda freut sich ungemein darüber, endlich\nfliegen zu können, doch wenn es wütend wird,\ngerät es außer Kontrolle."
+    ],
+    "height": 1.5,
+    "id": 373,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "name": "Brutalanda",
+    "types": [
+        "Drache",
+        "Flug"
+    ],
+    "weight": 102.6
+}

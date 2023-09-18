@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Endurece su cuerpo golpeando grandes árboles sin\nperder jamás el ánimo.",
+        "A base de duro entrenamiento se hace cada vez más\nfuerte. Es tan resistente que puede soportar cualquier\nataque.",
+        "Makuhita es tenaz. Da igual las veces que le venzan; volverá a\nponerse en pie y a atacar. De hecho, cada vez que se\nrecupera, acumula más energía para poder evolucionar.",
+        "Makuhita tiene un ánimo inagotable. Nunca pierde la\nesperanza. Come mucho, duerme bastante y se entrena de\nforma metódica. Siguiendo estos hábitos de vida, este\nPokémon tiene siempre mucha energía.",
+        "Aunque son originarios de otras regiones, los\nMakuhita de Alola son ahora los más populares\nde todos.",
+        "Su jornada gira en torno al entrenamiento\nintensivo, que solo interrumpe para comer\ny para echarse una siestecilla.",
+        "Entrena golpeando los troncos de los árboles\ncon la mano abierta. A veces le da por error a\nun Exeggutor y este lo lanza volando.",
+        "Dicen que los Entrenadores dan de comer a sus\nMakuhita un guiso tradicional para que se hagan\nmás fuertes todavía."
+    ],
+    "height": 1.0,
+    "id": 296,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "name": "Makuhita",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 86.4
+}

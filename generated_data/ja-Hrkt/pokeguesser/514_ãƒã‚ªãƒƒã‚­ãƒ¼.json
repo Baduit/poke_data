@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "からだの　なかの　ほのおを　もやして\nあたまや　しっぽから　ひのこを\nまきちらせて　てきを　こがす。",
+        "こうふんすると　あたまや　しっぽから\nひのこが　まいあがって　あつくなる。\nなぜか　あまいものが　だいこうぶつ。",
+        "からだの　なかの　ほのおを　もやして\nあたまや　しっぽから　ひのこを\nまきちらせて　てきを　こがす。",
+        "こうふんすると　あたまや　しっぽから\nひのこが　まいあがって　あつくなる。\nなぜか　あまいものが　だいこうぶつ。"
+    ],
+    "height": 1.0,
+    "id": 514,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+    "name": "バオッキー",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 28.0
+}

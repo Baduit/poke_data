@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Grazie alle zampe vigorose, si muove con disinvoltura\nanche nel fango. Dorme immerso nella melma.",
+        "Dato che si allena sempre sguazzando nel fango, si\nritrova con due arti inferiori fortissimi.",
+        "La superficie corporea di Marshtomp è avvolta da una\nspessa pellicola appiccicosa che gli consente di vivere\nsulla terraferma. Questo Pokémon gioca con la fanghiglia\nsul fondo del mare nei momenti di bassa marea.",
+        "Marshtomp è molto più a suo agio nel fango che non in acqua\ne sa muoversi con estrema rapidità. La parte inferiore del suo\ncorpo mostra un chiaro sviluppo, consentendogli di camminare\nsolo sugli arti inferiori."
+    ],
+    "height": 0.7,
+    "id": 259,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "name": "Marshtomp",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 28.0
+}

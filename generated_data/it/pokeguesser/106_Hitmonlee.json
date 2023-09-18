@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Le zampe gli si accorciano e allungano a piacere.\nCon le gambe allungate, con un calcio può colpire\nanche nemici distanti.",
+        "Se parte con una scarica di colpi, le gambe possono\nfarsi ancora più lunghe per colpire un nemico in fuga.",
+        "Questo straordinario Pokémon ha un grande\nequilibrio. Può tirare raffiche di calci da qualsiasi\nposizione.",
+        "Le zampe di Hitmonlee sono estremamente elastiche.\nUsandole a mo’ di molla, si scaglia sul nemico con calci\nrovinosi. Dopo la lotta si strofina le zampe e scioglie i\nmuscoli per recuperare le forze.",
+        "Le zampe di Hitmonlee sono estremamente elastiche.\nUsandole a mo’ di molla, si scaglia sul nemico con calci\nrovinosi. Dopo la lotta si strofina le zampe e scioglie i\nmuscoli per recuperare le forze.",
+        "Nel momento in cui il suo calcio colpisce,\nla pianta del piede si fa dura come il diamante\nproducendo un impatto devastante.",
+        "Nel momento in cui il suo calcio colpisce,\nla pianta del piede si fa dura come il diamante\nproducendo un impatto devastante.",
+        "Può accorciare o allungare le gambe a piacere.\nIn questo modo riesce a colpire con i calci anche\ngli avversari distanti."
+    ],
+    "height": 1.5,
+    "id": 106,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "name": "Hitmonlee",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 49.8
+}

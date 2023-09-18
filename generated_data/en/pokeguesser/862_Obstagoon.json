@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Its voice is staggering in volume. Obstagoon\nhas a tendency to take on a threatening posture\nand shout—this move is known as Obstruct.",
+        "It evolved after experiencing numerous fights.\nWhile crossing its arms, it lets out a shout that\nwould make any opponent flinch."
+    ],
+    "height": 1.6,
+    "id": 862,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "name": "Obstagoon",
+    "types": [
+        "Dark",
+        "Normal"
+    ],
+    "weight": 46.0
+}

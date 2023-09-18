@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Al percibir la alegría de su Entrenador refuerza sus\nataques psicoquinéticos. Cuando está contento, da\nvueltas y baila.",
+        "Con sus poderes psíquicos puede deformar el espacio\na su alrededor y predecir el futuro.",
+        "Dicen que, al recibir los sentimientos positivos de su\nEntrenador, Kirlia crece con gran belleza. Este Pokémon\ncontrola poderes psicoquinéticos gracias al desarrollado\ncerebro que tiene.",
+        "Kirlia usa los cuernos para amplificar los poderes de\npsicoquinesia que tiene. Cuando los usa, altera el ambiente,\nlo transforma y crea espejismos.",
+        "Si su Entrenador está contento, desborda energía\ny baila alegremente dando giros.",
+        "Con sus poderes psíquicos puede deformar\nel espacio a su alrededor y predecir el futuro."
+    ],
+    "height": 0.8,
+    "id": 281,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "name": "Kirlia",
+    "types": [
+        "Psíquico",
+        "Hada"
+    ],
+    "weight": 20.2
+}

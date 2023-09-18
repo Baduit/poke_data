@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Habita en cuevas donde reina la más absoluta\noscuridad y emite ondas ultrasónicas de\n200 000 Hz a través de sus enormes orejas.",
+        "Ni el más recio de los luchadores profesionales\nsería capaz de aguantar sus ondas ultrasónicas de\n200 000 Hz sin marearse e hincar la rodilla.",
+        "Habita en cuevas donde reina la más absoluta oscuridad y\nemite ondas ultrasónicas de 200 000 Hz a través de sus\nenormes orejas.",
+        "Ni el más recio de los luchadores profesionales sería capaz de\naguantar sus ondas ultrasónicas de 200 000 Hz sin marearse\ne hincar la rodilla.",
+        "Le encanta la fruta, pero es tan selecto que\nemite ondas ultrasónicas para detectar cuáles\nestán maduras y el resto lo descarta.",
+        "Revolotea en busca de fruta, su principal fuente\nde sustento. Con las ondas ultrasónicas que\nemite puede determinar cuáles están maduras.",
+        "Al caer la noche, abandona su cueva y revolotea\nen busca de fruta madura, que localiza mediante\nondas ultrasónicas.",
+        "Su registro vocal cubre todo el espectro de\nfrecuencias. Ni los Pokémon más grandes\nsoportan las ondas ultrasónicas que emite."
+    ],
+    "height": 0.5,
+    "id": 714,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "name": "Noibat",
+    "types": [
+        "Volador",
+        "Dragón"
+    ],
+    "weight": 8.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Vive cerca del agua. En la tierra se mueve muy rápido\nbotando sobre su gran cola.",
+        "Para hacer frente a oponentes más grandes que él,\nagita su gran cola, llena de nutrientes, de un lado a\notro.",
+        "Azurill enrolla la cola como si fuera un lazo y la despliega a\ncontinuación todo lo que puede. De esta forma, un Azurill\nllegó a lanzarse a sí mismo hasta 10 m.",
+        "Azurill tiene una especie de pelota en la cola, que contiene los\nnutrientes necesarios para crecer. Es fácil ver a este Pokémon\nsaltando y jugueteando sentado encima de la misma.",
+        "La bola que tiene en la cola rebota como una\npelota de goma y está repleta de los nutrientes\nque este Pokémon necesita para crecer.",
+        "Es un Pokémon tranquilo, pero, si se le hace\nenfadar, atacará utilizando la enorme bola que\ntiene en la cola."
+    ],
+    "height": 0.2,
+    "id": 298,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "name": "Azurill",
+    "types": [
+        "Normal",
+        "Hada"
+    ],
+    "weight": 2.0
+}

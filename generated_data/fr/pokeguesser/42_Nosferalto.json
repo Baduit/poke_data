@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "Ses crocs acérés et creux peuvent\npénétrer la plus épaisse des peaux\net sucer le sang de la victime.",
+        "Ses crocs acérés et creux peuvent\npénétrer la plus épaisse des peaux\net sucer le sang de la victime.",
+        "Il mord son adversaire et absorbe toute son énergie,\nmême s’il devient trop lourd pour voler.",
+        "Quand il se met à sucer du sang, il ne s’arrête\nqu’une fois rassasié. C’est un chasseur nocturne.",
+        "Nosferalto adore boire le sang des créatures vivantes.\nIl est particulièrement actif pendant les nuits noires.\nCe Pokémon se balade dans les cieux étoilés, à la recherche\nde sang frais.",
+        "Nosferalto mord sa proie grâce à ses quatre crocs pour\nboire son sang. Il ne sort que lorsque la nuit est noire\net sans lune, pour voleter en quête de gens et de Pokémon\nà mordre.",
+        "Ses crocs sont creux comme des pailles et\nétonnamment fragiles. Ils sont en revanche\nparfaits pour sucer le sang de ses victimes.",
+        "Il arrive qu’un Nosferalto ayant trop sucé de\nsang ne puisse plus voler et tombe au sol,\noù il est dévoré par d’autres Pokémon.",
+        "On rencontre parfois des Nosferalto édentés\nque la faim a poussés à attaquer un Pokémon\nde type Acier.",
+        "Ce Pokémon peut absorber jusqu’à 300 ml\nde sang d’un coup. Victime de sa gourmandise,\nil en devient parfois trop lourd pour voler.",
+        "Il s’approche furtivement et attaque sans crier\ngare. Ses crocs acérés lui servent à sucer le sang.",
+        "Il s’approche furtivement et attaque sans crier\ngare. Ses crocs acérés lui servent à sucer le sang.",
+        "Le sang des êtres vivants est son péché mignon.\nOn dit qu’il partage parfois ce précieux breuvage\navec ses congénères affamés.",
+        "Il se déplace habilement sur ses petites pattes,\ns’approche silencieusement de sa proie endormie,\net lui suce le sang à l’aide de ses crocs."
+    ],
+    "height": 1.6,
+    "id": 42,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "name": "Nosferalto",
+    "types": [
+        "Poison",
+        "Vol"
+    ],
+    "weight": 55.0
+}

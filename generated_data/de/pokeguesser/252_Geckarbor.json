@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es klettert blitzschnell Wände empor. Mit seinem\nSchwanz misst es die Luftfeuchtigkeit, um das\nWetter am nächsten Tag vorherzusagen.",
+        "Dank seiner mit winzigen Stacheln besetzten Sohlen\nhaftet es sogar kopfüber an Wänden und Decken.",
+        "Mit den kleinen Haken unter seinen Füßen kann Geckarbor\nan Wänden hochklettern. Dieses Pokémon greift Feinde an,\nindem es mit seinem mächtigen Schweif zuschlägt.",
+        "Geckarbor ist ruhig und beherrscht, es gerät niemals in Panik.\nWenn es ein stärkerer Feind zornig anstarrt, erwidert es den\nbösen Blick, weicht aber keinen Millimeter zurück."
+    ],
+    "height": 0.5,
+    "id": 252,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "name": "Geckarbor",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 5.0
+}

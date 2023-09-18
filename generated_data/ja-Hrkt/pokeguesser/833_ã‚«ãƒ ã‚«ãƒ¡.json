@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "めのまえの　ものに　すぐに　かみつく\nしゅうせい。　はえかけの　まえばが\nかゆいので　かみついてしまうらしい。",
+        "あたまの　ツノは　いわの　かたさ。\nツノで　たたかい　ひるんだ　すきに\nパクリと　かみつき　はなさない。"
+    ],
+    "height": 0.3,
+    "id": 833,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "name": "カムカメ",
+    "types": [
+        "みず"
+    ],
+    "weight": 8.5
+}

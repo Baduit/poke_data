@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il répand des spores luminescentes qui\nclignotent autour de lui. Quiconque aperçoit\nces lumières tombe dans un sommeil profond.",
+        "Le jour, il dort tout en absorbant des nutriments\nà la racine des arbres. Le soir, il se lève et part\nà la recherche d’un nouvel arbre où se poser.",
+        "Il répand des spores luminescentes autour de\nlui. Malgré le danger qu’il représente, les balades\nnocturnes dans les bois où il vit sont populaires.",
+        "Il aime les endroits sombres et humides.\nLa nuit, il fait rayonner les spores contenues\ndans ses chapeaux.",
+        "Ses chapeaux sont délicieux, et les Pokémon\nde la forêt s’en délectent. Heureusement pour lui,\nses couvre-chefs repoussent en une nuit.",
+        "Il vit dans les forêts sombres même en plein jour.\nIl dissémine des spores clignotantes pour\nendormir ses ennemis."
+    ],
+    "height": 0.2,
+    "id": 755,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+    "name": "Spododo",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 1.5
+}

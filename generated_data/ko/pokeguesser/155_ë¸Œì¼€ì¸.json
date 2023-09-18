@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "겁이 많아서 늘 몸을 웅크리고\n있다. 습격당하면 등의 불꽃을\n타오르게 해서 몸을 보호한다.",
+        "겁쟁이 같은 성격이다.\n놀라면 등의 불꽃이\n한층 더 강하게 타오른다.",
+        "등에서 불꽃을 내뿜어 몸을 지킨다.\n화났을 때의 불꽃은 기운차지만\n지쳤을 때는 불완전연소한다.",
+        "등에서 불꽃을 내뿜어 몸을 지킨다.\n화났을 때의 불꽃은 기운차지만\n지쳤을 때는 불완전연소한다."
+    ],
+    "height": 0.5,
+    "id": 155,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "name": "브케인",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 7.9
+}

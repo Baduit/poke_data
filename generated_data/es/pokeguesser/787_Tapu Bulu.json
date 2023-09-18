@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Arranca de cuajo árboles grandes para hacerlos\ngirar. Vuelve exuberante la vegetación y luego\nabsorbe su energía.",
+        "El indolente espíritu guardián de Ula-Ula.\nInmoviliza al enemigo con la vegetación y lo\nembiste con sus cuernos.",
+        "Se lo conoce como espíritu guardián, pero abate\nsin piedad a aquellos que considera sus\nenemigos.",
+        "El espíritu guardián de Ula-Ula, que gobierna\nla flora. Hace repicar su cola para alertar de\nsu presencia y prevenir riñas sin sentido."
+    ],
+    "height": 1.9,
+    "id": 787,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "name": "Tapu Bulu",
+    "types": [
+        "Planta",
+        "Hada"
+    ],
+    "weight": 45.5
+}

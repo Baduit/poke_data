@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Nombre de scientifiques voient en\nlui l’ancêtre des Pokémon car il\nmaîtrise toutes leurs capacités.",
+        "Nombre de scientifiques voient en\nlui l’ancêtre des Pokémon car il\nmaîtrise toutes leurs capacités.",
+        "Nombre de scientifiques voient en lui l’ancêtre\ndes Pokémon car il maîtrise toutes leurs capacités.",
+        "Son ADN contient les codes génétiques de tous\nles Pokémon. Il peut utiliser nombre de techniques.",
+        "On dit que Mew possède le code génétique de tous les autres\nPokémon. Il peut se rendre invisible à sa guise, ce qui lui\npermet de ne pas se faire remarquer quand il s’approche\ndes gens.",
+        "On dit que Mew possède le code génétique de tous les autres\nPokémon. Il peut se rendre invisible à sa guise, ce qui lui\npermet de ne pas se faire remarquer quand il s’approche\ndes gens.",
+        "À l’aide d’un microscope, on peut distinguer\nle pelage extrêmement court, fin et délicat\nde ce Pokémon.",
+        "À l’aide d’un microscope, on peut distinguer\nle pelage extrêmement court, fin et délicat\nde ce Pokémon."
+    ],
+    "height": 0.4,
+    "id": 151,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "name": "Mew",
+    "types": [
+        "Psy"
+    ],
+    "weight": 4.0
+}

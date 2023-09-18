@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es rollt sich um seine Jungen, wenn diese schlafen\nsollen. Gegnern begegnet es mit Schnelligkeit.",
+        "Sein Nest ist seinem schmalen und dünnen Körper\nangepasst. Kein anderes Pokémon kommt hinein.",
+        "Wiesenior ist sehr schlank. Wenn es angegriffen wird, kann es\nsich durch enge Zwischenräume schlängeln und entkommen.\nTrotz seiner kurzen Gliedmaßen ist dieses Pokémon sehr\nwendig und flink.",
+        "Wiesenior ist sehr schlank. Wenn es angegriffen wird, kann es\nsich durch enge Zwischenräume schlängeln und entkommen.\nTrotz seiner kurzen Gliedmaßen ist dieses Pokémon sehr\nwendig und flink."
+    ],
+    "height": 1.8,
+    "id": 162,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "name": "Wiesenior",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.5
+}

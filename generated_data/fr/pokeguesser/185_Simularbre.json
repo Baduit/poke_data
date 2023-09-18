@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il prend l’apparence d’un arbre\npour éviter les attaques, mais il\ndéteste l’eau et fuit la pluie.",
+        "Il prend l’apparence d’un arbre\npour éviter les attaques, mais il\ndéteste l’eau et fuit la pluie.",
+        "Il fait semblant d’être un arbre. Sa composition est\nen fait plus proche de la pierre.",
+        "Il se déguise en arbre pour éviter les problèmes.\nIl déteste l’eau et se cache par temps de pluie.",
+        "Simularbre se camoufle en arbre pour éviter d’être attaqué\npar ses ennemis. Mais étant donné que ses pattes restent\nvertes toute l’année, ce Pokémon est facile à repérer\npendant l’hiver.",
+        "Simularbre se camoufle en arbre pour éviter d’être attaqué\npar ses ennemis. Mais étant donné que ses pattes restent\nvertes toute l’année, ce Pokémon est facile à repérer\npendant l’hiver.",
+        "Il imite un arbre pour passer inaperçu, mais il\ndéteste tellement l’eau qu’il prend ses jambes\nà son cou s’il se fait arroser.",
+        "Très populaire, notamment chez les personnes\nâgées. Plus la partie verte est grande, plus\nses fans se l’arrachent.",
+        "Il fait l’objet de revues spécialisées tant il est\npopulaire auprès des personnes âgées. Ses fans\naiment surtout la longueur et l’angle de ses bras.",
+        "La souplesse et la robustesse de ses bras sont\nle fruit d’un entraînement long et rigoureux\nqui consiste en une immobilité prolongée.",
+        "Si une branche remue alors qu’il n’y a pas de vent,\nc’est qu’il s’agit d’un Simularbre.\nOn n’en croise jamais les jours de pluie.",
+        "Il se déguise en arbre pour éviter de se faire\nattaquer. Il déteste l’eau et se cache par temps\nde pluie."
+    ],
+    "height": 1.2,
+    "id": 185,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+    "name": "Simularbre",
+    "types": [
+        "Roche"
+    ],
+    "weight": 38.0
+}

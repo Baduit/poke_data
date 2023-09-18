@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es wird permanent von Kopfschmerzen geplagt.\nWird der Schmerz stärker, setzt es geheimnisvolle\nKräfte ein.",
+        "Es besitzt mystische Kräfte, die es unbewusst einsetzt.\nDaher ist sein Blick immer verwirrt.",
+        "Enton verwendet eine geheimnisvolle Kraft. Dabei erzeugt\nes Gehirnströme, die man sonst nur von Schlafenden kennt.\nDiese Entdeckung führte zu einer kontroversen Diskussion\nunter Wissenschaftlern.",
+        "Enton besitzt mystische Kräfte. Wenn es sie einsetzt,\nerinnert es sich nicht mehr daran. Es kann ein solches\nEreignis offensichtlich nicht im Gedächtnis behalten,\nda es sich in einen tiefschlafähnlichen Zustand versetzt.",
+        "Es weint oft, da es immer unter Kopfschmerzen\nleidet und seine Psycho-Kräfte von Zeit zu Zeit\ngegen seinen Willen ausgelöst werden.",
+        "Es wird permanent von Kopfschmerzen geplagt.\nJe größer diese Schmerzen sind, desto stärker\nwerden seine Psycho-Kräfte.",
+        "Wenn es seine Psycho-Kräfte einsetzt, bekommt\nes Kopfschmerzen. Deshalb steht es lieber\nuntätig und geistesabwesend herum.",
+        "Es wurde herausgefunden, dass die Aktivität\nseiner Hirnzellen bei Kopfschmerzen auf das\nZehnfache ansteigt.",
+        "Es wird von chronischen Kopfschmerzen geplagt.\nOb es seine Psycho-Kräfte aus eigenem Willen\neinsetzt, ist unklar.",
+        "Es wird von chronischen Kopfschmerzen geplagt.\nOb es seine Psycho-Kräfte aus eigenem Willen\neinsetzt, ist unklar.",
+        "Enton leidet permanent unter Kopfschmerzen.\nWenn es seine geheimnisvollen Kräfte freisetzt,\nsollen die Schmerzen für eine Weile nachlassen.",
+        "Wenn es sehr gestresst ist, verstärken sich seine\nKopfschmerzen. Mit seinen Psycho-Kräften kann\nes alles in der Umgebung überwältigen."
+    ],
+    "height": 0.8,
+    "id": 54,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "name": "Enton",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 19.6
+}

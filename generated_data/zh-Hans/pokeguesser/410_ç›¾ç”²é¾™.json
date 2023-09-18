@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "大量的化石被发现，\n但是几乎没有\n脸的部分有损伤或缺失的情况。",
+        "看来多亏了那张结实的脸，\n敌人也少了。\n栖息在太古时代的丛林里。",
+        "食草的温顺宝可梦。\n用结实的脸部皮肤挖掘地面，\n连树根之类的也会吃。",
+        "虽然从太古时代的地层中\n发现了它的化石，\n但尚未发现除了脸以外的部分。"
+    ],
+    "height": 0.5,
+    "id": 410,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "name": "盾甲龙",
+    "types": [
+        "岩石",
+        "钢"
+    ],
+    "weight": 57.0
+}

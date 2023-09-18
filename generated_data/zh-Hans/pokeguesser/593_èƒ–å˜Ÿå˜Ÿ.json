@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "会缠着豪华客轮或是油轮周围，\n目的是将猎物拖进海里。",
+        "它是令渔夫恐惧的存在。\n传说，它会将渔夫拖入海中，\n夺走对方的性命。",
+        "身体的绝大部分都由\n与海水相同的成分组成。\n会把沉船当成自己的城堡。",
+        "每到满月时，胖嘟嘟会\n成群结队地来到海面上。\n这么做是为了等待猎物上门。"
+    ],
+    "height": 2.2,
+    "id": 593,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "name": "胖嘟嘟",
+    "types": [
+        "水",
+        "幽灵"
+    ],
+    "weight": 135.0
+}

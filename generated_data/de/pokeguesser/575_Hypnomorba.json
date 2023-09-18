@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Zieht seine Energie aus dem Sternenlicht.\nBei Nacht bringt es Steine zum Schweben\nund bildet damit Sternzeichen nach.",
+        "Erzählungen zufolge machen sie sich einen Spaß\ndaraus, in sternklaren Nächten von schlafenden\nKindern Besitz zu ergreifen.",
+        "Zieht seine Energie aus dem Sternenlicht. Bei Nacht bringt es\nSteine zum Schweben und bildet damit Sternzeichen nach.",
+        "Erzählungen zufolge machen sie sich einen Spaß daraus,\nin sternklaren Nächten von schlafenden Kindern Besitz\nzu ergreifen.",
+        "In sternklaren Nächten entführt es angeblich\nschlafende Kinder aus ihren Betten. Man nennt\nes auch die „Hexe der Bestrafung“.",
+        "An sternklaren Abenden erreicht es angeblich\nden Höhepunkt seiner Psycho-Kräfte. Seine\ngenaue Verbindung zum Weltraum ist unklar."
+    ],
+    "height": 0.7,
+    "id": 575,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "name": "Hypnomorba",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 18.0
+}

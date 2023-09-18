@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "夜行性。只要鳴叫一聲，\n就會有超過１００隻的\n黑暗鴉跟班聚集起來。",
+        "對於捕獵失敗還有\n背叛了的黑暗鴉跟班們，\n無論天涯海角都會窮追過去施以處罰。",
+        "絕不會容忍失敗或背叛的手下。\n這是為了維持群體的秩序，\n而不得不用的手段。",
+        "與敵人的戰鬥幾乎全由手下來應付。\n只有在最後給對手致命一擊的時候，\n才會弄髒自己的手。"
+    ],
+    "height": 0.9,
+    "id": 430,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "name": "烏鴉頭頭",
+    "types": [
+        "惡",
+        "飛行"
+    ],
+    "weight": 27.3
+}

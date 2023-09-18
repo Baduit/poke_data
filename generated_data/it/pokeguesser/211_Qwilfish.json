@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Per sparare le punte velenose, gonfia il corpo\nbevendo più di 10 l d’acqua in una volta.",
+        "I piccoli aculei che coprono il suo corpo si sono\nformati dalle squame. Contengono una tossina che\nfa svenire.",
+        "Qwilfish si gonfia assorbendo acqua. Poi usa la pressione\ndell’acqua ingerita per sparare i suoi aculei velenosi\ntutti insieme in un colpo solo.\nNon si può certo dire che sia un grande nuotatore.",
+        "Qwilfish si gonfia assorbendo acqua. Poi usa la pressione\ndell’acqua ingerita per sparare i suoi aculei velenosi\ntutti insieme in un colpo solo.\nNon si può certo dire che sia un grande nuotatore.",
+        "Se incontra un nemico più grande, ingoia acqua\ngonfiando il corpo fino quasi a scoppiare.",
+        "I piccoli aculei che coprono il suo corpo si sono\nformati dalle squame. Contengono una tossina\nche fa svenire."
+    ],
+    "height": 0.5,
+    "id": 211,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "name": "Qwilfish",
+    "types": [
+        "Acqua",
+        "Veleno"
+    ],
+    "weight": 3.9
+}

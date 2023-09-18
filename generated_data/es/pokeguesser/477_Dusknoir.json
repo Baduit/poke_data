@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se dice que recoge en su cuerpo flexible a los\nespíritus extraviados y los guía hasta casa.",
+        "La antena de la cabeza capta ondas de otra dimensión\nque le incitan a llevarse allí a la gente.",
+        "Se dice que recoge en su cuerpo flexible a los\nespíritus extraviados y los guía hasta casa.",
+        "La antena de la cabeza capta ondas de otra dimensión que\nle incitan a llevarse allí a la gente.",
+        "Se desconoce si posee voluntad propia. Capta\nondas de otra dimensión que le incitan a llevarse\nallí a humanos y Pokémon.",
+        "Engulle a los rivales con la boca del estómago y,\ntras haber devorado el alma, escupe el cuerpo."
+    ],
+    "height": 2.2,
+    "id": 477,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "name": "Dusknoir",
+    "types": [
+        "Fantasma"
+    ],
+    "weight": 106.6
+}

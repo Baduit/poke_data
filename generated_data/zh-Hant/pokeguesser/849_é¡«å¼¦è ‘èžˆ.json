@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "當牠用力抓撓胸部的突起物\n來製造電力時，四周會響起\n如同吉他演奏般的聲音。",
+        "氣勢洶洶的急性子。\n會大口喝下混濁的水，\n吸收其中所含的毒素。"
+    ],
+    "height": 1.6,
+    "id": 849,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "name": "顫弦蠑螈",
+    "types": [
+        "電",
+        "毒"
+    ],
+    "weight": 40.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Son épine dorsale le protège.\nSes os et ses nageoires sont très\nprisés en médecine traditionnelle.",
+        "Son épine dorsale le protège.\nSes os et ses nageoires sont très\nprisés en médecine traditionnelle.",
+        "Son corps est recouvert de pointes tranchantes.\nIl faut la plus grande attention pour le saisir, sous\npeine de se faire piquer.",
+        "Il peut nager à l’envers en agitant ses petites\nnageoires pectorales.",
+        "Hypocéan s’accroche aux récifs de corail avant de s’endormir.\nLes pêcheurs de coraux se font parfois piquer par les aiguillons\nde ce Pokémon lorsqu’ils ne font pas attention.",
+        "Hypocéan déclenche des tourbillons en faisant tournoyer\nson corps. Ces tourbillons sont assez puissants pour engloutir\ndes bateaux de pêche. Ce Pokémon affaiblit sa proie grâce à\nces courants, puis l’avale en une bouchée.",
+        "Le contact de ses nageoires dorsales engourdit.\nIl ancre sa queue au corail quand il dort pour\néviter que le courant ne l’emporte.",
+        "Le contact de ses nageoires dorsales engourdit.\nIl ancre sa queue au corail quand il dort pour\néviter que le courant ne l’emporte.",
+        "Les mâles s’occupent des petits, et tant qu’ils en\nont à élever, le venin contenu dans leurs épines\ndorsales devient beaucoup plus fort.",
+        "Sa puissance de succion est si forte qu’il peut\naspirer en un instant ses proies pour les manger,\nmême si elles sont plus grosses que sa bouche."
+    ],
+    "height": 1.2,
+    "id": 117,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "name": "Hypocéan",
+    "types": [
+        "Eau"
+    ],
+    "weight": 25.0
+}

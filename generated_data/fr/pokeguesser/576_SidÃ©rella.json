@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ses pouvoirs psychiques plient l’espace\naux alentours. On y voit des étoiles\néloignées de millions d’années-lumière.",
+        "Prédit l’avenir à partir de la position\net du mouvement des étoiles. Perçoit\naussi l’espérance de vie des Dresseurs.",
+        "Ses pouvoirs psychiques plient l’espace aux\nalentours. On y voit des étoiles éloignées de millions\nd’années-lumière.",
+        "Prédit l’avenir à partir de la position et du mouvement\ndes étoiles. Perçoit aussi l’espérance de vie des\nDresseurs.",
+        "Ses pouvoirs psychiques plient l’espace aux alentours.\nOn y voit des étoiles éloignées de millions d’années-lumière.",
+        "Prédit l’avenir à partir de la position et du mouvement\ndes étoiles. Perçoit aussi l’espérance de vie des Dresseurs.",
+        "Il prédit l’avenir à partir du mouvement\ndes étoiles. Il dispose de grands pouvoirs\npsychiques, mais il n’est pas de nature hostile.",
+        "Les criminels à qui Sidérella a révélé les derniers\ninstants de leur vie ont tous été portés disparus\nle jour même."
+    ],
+    "height": 1.5,
+    "id": 576,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "name": "Sidérella",
+    "types": [
+        "Psy"
+    ],
+    "weight": 44.0
+}

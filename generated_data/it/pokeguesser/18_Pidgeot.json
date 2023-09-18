@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Quando caccia, vola velocissimo sul pelo dell’acqua\ne cattura ignare prede come Magikarp.",
+        "Intimidisce i nemici spiegando le possenti ali.\nIn volo raggiunge la velocità di Mach 2.",
+        "Questo Pokémon è caratterizzato da uno stupendo piumaggio\ndai colori vivaci e brillanti. Molti Allenatori sono colpiti\ndall’evidente bellezza delle piume sulla testa. Per questo\nspesso scelgono Pidgeot come loro Pokémon.",
+        "Questo Pokémon è caratterizzato da uno stupendo piumaggio\ndai colori vivaci e brillanti. Molti Allenatori sono colpiti\ndall’evidente bellezza delle piume sulla testa. Per questo\nspesso scelgono Pidgeot come loro Pokémon.",
+        "Può volare a una velocità di Mach 2 in cerca\ndi prede. I suoi artigli sono armi micidiali.",
+        "Può volare a una velocità di Mach 2 in cerca\ndi prede. I suoi artigli sono armi micidiali."
+    ],
+    "height": 1.5,
+    "id": 18,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "name": "Pidgeot",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 39.5
+}

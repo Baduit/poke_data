@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "高熱で　水を　蒸発させて\n大地を　広げたと　言われている。\nカイオーガと　激しく　戦った。",
+        "カイオーガと　死闘の末\n長い　眠りに　ついた。大地の　化身と\n言われる　伝説の　ポケモン。",
+        "大地の　化身　と 伝わる　ポケモン。\n自然のエネルギーを　求めて　カイオーガと\n争いを　繰り返したという　伝説が　ある。",
+        "自然のエネルギーに　よって　ゲンシカイキし\n本来の　姿を　取り戻す。その力は\nマグマを　生みだし　大地を　広げる。"
+    ],
+    "height": 3.5,
+    "id": 383,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "name": "グラードン",
+    "types": [
+        "じめん"
+    ],
+    "weight": 950.0
+}

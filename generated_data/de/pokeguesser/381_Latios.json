@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ein hochintelligentes Pokémon. Wenn es im Flug\nseine Flügel nach hinten legt, ist es schneller als\nein Jet.",
+        "Es ist hochintelligent und versteht sogar die\nmenschliche Sprache. Es ist friedlich und\nmeidet Konflikte.",
+        "Latios kann seinem Gegenüber ein Bild von etwas, das es\neinmal gesehen hat, in den Kopf projizieren. Dieses Pokémon\nist intelligent und es versteht die menschliche Sprache.",
+        "Latios schüttet nur seinem Trainer gegenüber sein Herz aus.\nDieses Pokémon fliegt schneller als ein Flugzeug, indem es\nseine Vorderbeine einklappt, um den Luftwiderstand zu\nverringern."
+    ],
+    "height": 2.0,
+    "id": 381,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+    "name": "Latios",
+    "types": [
+        "Drache",
+        "Psycho"
+    ],
+    "weight": 60.0
+}

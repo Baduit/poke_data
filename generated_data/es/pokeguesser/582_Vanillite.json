@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Lanza un aliento de -50 °C. Crea bloques de nieve y\nes capaz de lograr que nieve a su alrededor.",
+        "Nació de un carámbano que absorbió la energía del\nsol al alba. Duerme arropado por la nieve.",
+        "Lanza un aliento de -50 °C. Crea bloques de nieve y es capaz\nde lograr que nieve a su alrededor.",
+        "Nació de un carámbano que absorbió la energía del sol al\nalba. Duerme arropado por la nieve.",
+        "Pokémon nacido de un carámbano. Con su\naliento gélido es capaz de crear cristales de\nnieve y provocar una nevasca.",
+        "Al abrazarlo transmite una sensación agradable\ny refrescante. La gente que vive en las regiones\ncálidas aprecia mucho su presencia en casa.",
+        "Exhala vaho a una temperatura de -50 ºC. Su\ntamaño corporal se reduce poco a poco cuando\nse encuentra en un lugar cálido.",
+        "Nació a partir del deseo de una estalactita de\nno derretirse con los rayos del albor. Por la\nnoche se arropa bajo la nieve para dormir.",
+        "No puede vivir en lugares muy cálidos. Provoca\nnevadas exhalando un vaho gélido y luego se\nacurruca en la nieve acumulada para dormir.",
+        "Este Pokémon nació a partir de un carámbano.\nExhala un vaho a -50 °C con el que congela el\nambiente para adaptarlo a sus necesidades."
+    ],
+    "height": 0.4,
+    "id": 582,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "name": "Vanillite",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 5.7
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "雄性平时总是拖拖拉拉的，\n但如果有强敌来袭，\n就会不顾自身，保护伙伴。",
+        "会吐出摄氏６０００度的气息，\n但不会用于猎物。\n因为更喜欢吃生的肉。"
+    ],
+    "height": 1.5,
+    "id": 668,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+    "name": "火炎狮",
+    "types": [
+        "火",
+        "一般"
+    ],
+    "weight": 81.5
+}

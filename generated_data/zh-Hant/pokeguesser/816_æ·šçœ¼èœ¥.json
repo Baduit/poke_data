@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "害怕時流下的淚水中含有\n相當於１００顆洋蔥的催淚成分，\n能讓對手淚流不止。",
+        "皮膚在濕掉時會變色，\n彷彿像是隱身了一樣，\n誰都看不見牠的身影。"
+    ],
+    "height": 0.3,
+    "id": 816,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+    "name": "淚眼蜥",
+    "types": [
+        "水"
+    ],
+    "weight": 4.0
+}

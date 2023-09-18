@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",
+        "It appears and vanishes with a ninja’s grace.\nIt toys with its enemies using swift movements, while\nslicing them with throwing stars of sharpest water.",
+        "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",
+        "It appears and vanishes with a ninja’s grace.\nIt toys with its enemies using swift movements, while\nslicing them with throwing stars of sharpest water."
+    ],
+    "height": 1.5,
+    "id": 658,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "name": "Greninja",
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "weight": 40.0
+}

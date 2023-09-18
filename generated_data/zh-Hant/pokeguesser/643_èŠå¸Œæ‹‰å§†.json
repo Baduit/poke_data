@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "從尾部噴出火焰，\n像噴射機那樣飛翔。\n據說牠能將世界燃燒殆盡。",
+        "在神話的敘述裡，如果人類\n蔑視真實、放縱欲望，牠就會\n用火焰燒盡他們的王國。"
+    ],
+    "height": 3.2,
+    "id": 643,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "name": "萊希拉姆",
+    "types": [
+        "龍",
+        "火"
+    ],
+    "weight": 330.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "頭の　突起で　生物の\n気持ちを　感じとる。　穏やかな\nものにしか　心を　開かない。",
+        "人気の　ない　場所が　好き。\n強い　感情を　感じとると\n一目散に　逃げ出してしまう。"
+    ],
+    "height": 0.4,
+    "id": 856,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "name": "ミブリム",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 3.4
+}

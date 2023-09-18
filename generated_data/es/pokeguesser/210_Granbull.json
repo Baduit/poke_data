@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "A pesar de su aspecto, es muy tímido. Sin embargo,\ncuando se enfada, ataca con sus colmillos.",
+        "Con solo enseñar las fauces, conseguirá ahuyentar\nprácticamente a todos los Pokémon con los que se\ncruce.",
+        "Granbull tiene la mandíbula inferior demasiado desarrollada\ny colmillos enormes y pesados que le obligan a inclinar la\ncabeza hacia atrás para compensar el peso. Si no se le\nasusta, no muerde.",
+        "Granbull tiene la mandíbula inferior demasiado desarrollada\ny colmillos enormes y pesados que le obligan a inclinar la\ncabeza hacia atrás para compensar el peso. Si no se le\nasusta, no muerde.",
+        "Ataca con su desarrollada mandíbula y sus\nenormes colmillos. Rara es la vez que muerde a\nalguien, a menos que le haya hecho enfadar.",
+        "Es más miedica que Snubbull. Resulta muy\npopular entre la gente joven debido a su\naspecto de duro y a su afable personalidad.",
+        "Su mandíbula posee una fuerza abrumadora,\npero, como no le gusta pelear, rara vez tiene\nocasión de demostrarlo.",
+        "Es muy popular entre la gente joven, pero su\npersonalidad afable y algo miedosa hacen de\nél un pésimo guardián."
+    ],
+    "height": 1.4,
+    "id": 210,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "name": "Granbull",
+    "types": [
+        "Hada"
+    ],
+    "weight": 48.7
+}

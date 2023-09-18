@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Große Gruppen Qurtel siedeln sich in stillgelegten\nBergwerken an und graben dort emsig nach Kohle.",
+        "In seinem Panzer verbrennt es Kohle und gewinnt\ndaraus Energie. Bei Gefahr sondert es Ruß ab.",
+        "Qurtel schaufelt sich auf der Suche nach Kohle durch\ndie Berge. Wenn es welche findet, füllt es die Hohlräume\nseines Panzers mit Kohle und verbrennt diese. Wenn es\nangegriffen wird, stößt es dicken schwarzen Rauch aus.",
+        "Qurtel erzeugt Energie, indem es Kohle verbrennt. Wenn das\nFeuer nachlässt, wird es schwächer. In der Vorbereitung auf\neinen Kampf verbrennt dieses Pokémon mehr Kohle.",
+        "Kohle ist die Quelle seiner Energie. Ein Glück,\ndass in den von Qurtel bewohnten Bergen\ngroße Kohlevorkommen schlummern.",
+        "Erlöschen die Flammen in seinem Panzer,\nstirbt es. Will man es bei sich zu Hause halten,\nbraucht man daher stets brennbares Material.",
+        "Am Rauch, den es aus seinem Panzer ausstößt,\nerkennt man seine Verfassung. Stößt es diesen\nkraftvoll aus, geht es ihm gut.",
+        "Es erzeugt Energie, indem es Kohle verbrennt.\nWenn diese vollständig verbrannt ist, kann es\nsich nicht mehr bewegen.",
+        "In seinem Panzer verbrennt es Kohle und gewinnt\ndaraus Energie. Bei Gefahr sondert es Ruß ab.",
+        "Große Gruppen von Qurtel siedeln sich in\nstillgelegten Bergwerken an und graben dort\nemsig nach Kohle."
+    ],
+    "height": 0.5,
+    "id": 324,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "name": "Qurtel",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 80.4
+}

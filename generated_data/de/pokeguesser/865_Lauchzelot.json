@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Porenta, die viele Schlachten überstanden haben,\nentwickeln sich zu Lauchzelot. Verwelkt seine\nLauchstange, zieht es sich vom Kämpfen zurück.",
+        "Der Lauch dient ihm als Waffe und zur Abwehr,\naber viele essen ihn auch. Mit den harten Blättern\npariert es und mit der scharfen Stange kontert es."
+    ],
+    "height": 0.8,
+    "id": 865,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "name": "Lauchzelot",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 117.0
+}

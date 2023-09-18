@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Este Pokémon vive en icebergs. Nada en el mar y usa\nel cuerno de su cabeza para romper el hielo.",
+        "Está recubierto de un pelaje de color azul, y tiene una\npiel gruesa y tosca. Se mantiene activo a -40 °C.",
+        "Seel busca a sus presas en aguas heladas, bajo las capas de\nhielo. Cuando necesita respirar, abre un agujerito en el hielo\ncon la afilada protuberancia que tiene encima de la cabeza.",
+        "Seel busca a sus presas en aguas heladas, bajo las capas de\nhielo. Cuando necesita respirar, abre un agujerito en el hielo\ncon la afilada protuberancia que tiene encima de la cabeza.",
+        "Siempre se ha creído que solo puede subsistir\nen aguas frías. El motivo de su aparición en\nAlola es un misterio.",
+        "La gruesa capa de grasa que le permite nadar\nsin problemas en aguas frías le da más de un\nsofoco en climas más cálidos.",
+        "Le encantan los lugares gélidos y disfruta\nnadando en aguas a temperaturas en torno a\nlos -10 °C.",
+        "Le encantan los lugares gélidos y disfruta\nnadando en aguas a temperaturas en torno a\nlos -10 °C."
+    ],
+    "height": 1.1,
+    "id": 86,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "name": "Seel",
+    "types": [
+        "Agua"
+    ],
+    "weight": 90.0
+}

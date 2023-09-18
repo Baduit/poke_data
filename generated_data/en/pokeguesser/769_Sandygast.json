@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Born from a sand mound playfully built by a\nchild, this Pokémon embodies the grudges of\nthe departed.",
+        "It takes control of anyone who puts a hand in its\nmouth. And so it adds to the accumulation of\nits sand-mound body.",
+        "It likes the shovel on its head, so Sandygast\nwill get serious and fight any children who come\nto take it back.",
+        "If you build sand mounds when you’re playing,\ndestroy them before you go home, or they\nmay get possessed and become Sandygast.",
+        "Grudges of the dead have possessed a mound of\nsand and become a Pokémon. Sandygast is fond\nof the shovel on its head.",
+        "Sandygast mainly inhabits beaches. It takes\ncontrol of anyone who puts their hand into its\nmouth, forcing them to make its body bigger."
+    ],
+    "height": 0.5,
+    "id": 769,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+    "name": "Sandygast",
+    "types": [
+        "Ghost",
+        "Ground"
+    ],
+    "weight": 70.0
+}

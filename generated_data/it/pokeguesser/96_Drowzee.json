@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Addormenta i suoi nemici e poi si nutre dei loro\nsogni. A volte fa indigestione di incubi.",
+        "Se si pensa di aver fatto un bel sogno, ma non lo\nsi ricorda, magari l’ha mangiato un Drowzee.",
+        "Drowzee è solito nutrirsi dei sogni degli altri mentre dormono,\nestraendoli dalle loro narici. Se durante il sonno si avverte\nprurito al naso, significa che Drowzee è già all’opera.",
+        "Drowzee è solito nutrirsi dei sogni degli altri mentre dormono,\nestraendoli dalle loro narici. Se durante il sonno si avverte\nprurito al naso, significa che Drowzee è già all’opera.",
+        "Si nutre dei sogni degli altri. Si pensa che abbia\ndegli antenati in comune con Munna e Musharna.",
+        "Sembra che sia ghiotto di sogni divertenti.\nSe si affeziona a qualcuno, gli mostra i sogni\nche ha trovato più gustosi.",
+        "Ha un debole per i sogni divertenti dei bambini.\nPer questo è facile incontrarlo vicino alle\nstrutture ricreative.",
+        "Addormenta le prede per mangiare i loro sogni.\nSembra che non gradisca gli incubi a causa del\nloro sapore acido.",
+        "Se si dorme sempre vicino a un Drowzee,\npuò capitare di sognare uno dei sogni che\nquesto Pokémon ha mangiato in passato.",
+        "Se si dorme sempre vicino a un Drowzee,\npuò capitare di sognare uno dei sogni che\nquesto Pokémon ha mangiato in passato."
+    ],
+    "height": 1.0,
+    "id": 96,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "name": "Drowzee",
+    "types": [
+        "Psico"
+    ],
+    "weight": 32.4
+}

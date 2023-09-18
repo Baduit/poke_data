@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "A bit of a dandy, it spends its free time\npreening its wings. Its preoccupation with any\ndirt on its plumage can leave it unable to battle.",
+        "It throws sharp feathers called blade quills\nat enemies or prey. It seldom misses.",
+        "This narcissistic Pokémon is a clean freak.\nIf you don’t groom it diligently, it will stop\nlistening to you.",
+        "Supremely sensitive to the presence of others,\nit can detect opponents standing behind it,\nflinging its sharp feathers to take them out.",
+        "It throws one knifelike feather after another at its\nenemies, and each one precisely strikes a weak\npoint. These feathers are known as blade quills.",
+        "It never slacks when it comes to the task of\ncleaning its feathers. Thorough preening keeps it\nlooking spiffy and its blade quills nice and sharp.",
+        "Regularly basks in sunlight to gather power—presumably due to\nthe frigid climate. Nonetheless, the edges of the blade quills set\ninto its wings are keen as ever."
+    ],
+    "height": 0.7,
+    "id": 723,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "name": "Dartrix",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "weight": 16.0
+}

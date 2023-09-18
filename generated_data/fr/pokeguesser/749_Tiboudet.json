@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "La boue qui lui colle aux pattes lui sert de\nsemelle antidérapante. Il peut ainsi courir\nà toute allure avec vigueur et assurance.",
+        "Un Pokémon très têtu, qui aime faire les choses\nà son rythme. Il passe ses journées à mâcher de\nla terre pour en faire de la boue et jouer avec.",
+        "Il adore jouer dans la boue. S’il ne prend pas\nson bain de boue quotidien, il tombe dans un tel\nétat de stress qu’il n’obéit plus à son Dresseur.",
+        "Ce Pokémon costaud n’a aucun mal à porter\ndes fardeaux pesant cinquante fois son poids.",
+        "Il est si fort qu’il peut aisément porter des charges\nallant jusqu’à 50 fois son poids.\nC’est un expert dans l’art d’utiliser la boue.",
+        "Il mâche de la terre pour créer une boue dont\nil s’enduit les jambes. Celle-ci lui permet alors\nd’arpenter même les routes accidentées."
+    ],
+    "height": 1.0,
+    "id": 749,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "name": "Tiboudet",
+    "types": [
+        "Sol"
+    ],
+    "weight": 110.0
+}

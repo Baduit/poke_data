@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Antico Pokémon Coleottero modificato dal Team\nPlasma, che ne ha notevolmente potenziato il\ncannone sulla schiena.",
+        "Esiste da più di 300 milioni di anni. Il Team Plasma\nne ha modificato il corpo montandogli un cannone\nsul dorso.",
+        "Antico Pokémon Coleottero modificato dal Team Plasma,\nche ne ha notevolmente potenziato il cannone sulla schiena.",
+        "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha\nmodificato il corpo montandogli un cannone sul dorso."
+    ],
+    "height": 1.5,
+    "id": 649,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "name": "Genesect",
+    "types": [
+        "Coleottero",
+        "Acciaio"
+    ],
+    "weight": 82.5
+}

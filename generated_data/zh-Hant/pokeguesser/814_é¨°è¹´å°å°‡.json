@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "蓬鬆的體毛幫助牠增強了抵禦\n寒冷的能力，也使牠能夠使出\n溫度更高的火屬性招式。",
+        "會用腳把樹果從樹木上\n踢落，用來練習挑球，\n藉此鍛鍊自己的腳法。"
+    ],
+    "height": 0.6,
+    "id": 814,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "name": "騰蹴小將",
+    "types": [
+        "火"
+    ],
+    "weight": 9.0
+}

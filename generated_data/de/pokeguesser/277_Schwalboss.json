@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Wenn seine beiden Schwanzfedern aufrecht stehen,\nzeigt das, dass es bei bester Gesundheit ist.\nEs fliegt elegant in den Himmel empor.",
+        "Findet es Beute, stürzt es sich aus großer Höhe\ndarauf und packt sie mit seinen spitzen Krallen.",
+        "Dieses Pokémon taucht in einem steilen Winkel ab, sobald es\nBeute wahrgenommen hat. Es packt seine Beute mit seinen\nKrallen und lässt sie nicht mehr entkommen.",
+        "Schwalboss ist sehr gewissenhaft bei der Pflege seiner\nglänzenden Flügel. Wenn zwei Schwalboss zusammen sind,\nputzen sie sich ihre Flügel gegenseitig."
+    ],
+    "height": 0.7,
+    "id": 277,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "name": "Schwalboss",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 19.8
+}

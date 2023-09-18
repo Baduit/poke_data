@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Beim Rennen erzeugt es Elektrizität in seinem\nSchwanzansatz. In der Galar-Region erfreut es\nsich bei Hirten großer Beliebtheit.",
+        "Im Austausch gegen Leckerlis hilft dieser kleine\nVielfraß Menschen bei der Arbeit. Beim Rennen\nwird es von knisternder Elektrizität umhüllt."
+    ],
+    "height": 0.3,
+    "id": 835,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "name": "Voldi",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 13.5
+}

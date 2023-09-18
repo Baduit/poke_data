@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "De nature très violente, il mord fermement\nses proies avec sa mâchoire, assez puissante\npour broyer une barre de fer.",
+        "Son cou extensible lui permet d’atteindre\ndes ennemis éloignés en un instant pour leur\nporter un coup décisif avec ses crocs aiguisés."
+    ],
+    "height": 1.0,
+    "id": 834,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "name": "Torgamord",
+    "types": [
+        "Eau",
+        "Roche"
+    ],
+    "weight": 115.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Non è solo elegante. Con il poderoso battito d’ali\nriesce a volare per migliaia di chilometri senza fermarsi.",
+        "Gli Swanna iniziano a ballare quando sorge il sole.\nIl capo del gruppo balla sempre al centro.",
+        "Non è solo elegante. Con il poderoso battito d’ali riesce\na volare per migliaia di chilometri senza fermarsi.",
+        "Gli Swanna iniziano a ballare quando sorge il sole. Il capo\ndel gruppo balla sempre al centro."
+    ],
+    "height": 1.3,
+    "id": 581,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+    "name": "Swanna",
+    "types": [
+        "Acqua",
+        "Volante"
+    ],
+    "weight": 24.2
+}

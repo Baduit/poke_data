@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Seine Schnurrhaare dienen ihm als Antennen. Durch\ndas Senden und Empfangen von elektrischen Wellen\nkann es mit weit entfernten Freunden kommunizieren.",
+        "Mit seinem Schwanz zapft es Kraftwerke sowie\nSteckdosen in Häusern an, um Strom zu tanken,\nden es über seine Schnurrhaare wieder entlädt.",
+        "Seine Schnurrhaare dienen ihm als Antennen. Durch das\nSenden und Empfangen von elektrischen Wellen kann es\nmit weit entfernten Freunden kommunizieren.",
+        "Mit seinem Schwanz zapft es Kraftwerke sowie Steckdosen\nin Häusern an, um Strom zu tanken, den es über seine\nSchnurrhaare wieder entlädt.",
+        "Es schleicht sich in Häuser und zapft an den\nSteckdosen Strom ab. Fällt die Stromrechnung\nmal unerwartet hoch aus, ist Dedenne schuld.",
+        "Seine oberen Schnurrhaare dienen ihm als\nSensoren zum Abtasten der Umgebung. Seine\nunteren Schnurrhaare erzeugen Elektrizität.",
+        "Mit den Schnurrhaaren empfangen sie elektrische\nWellen von Artgenossen. So teilen sie einander\nmit, wo Futter und Elektrizität zu finden sind.",
+        "Dedenne selbst kann nur wenig Elektrizität\nerzeugen, weshalb es Strom von anderen\nElektro-Pokémon oder aus Steckdosen stiehlt."
+    ],
+    "height": 0.2,
+    "id": 702,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "name": "Dedenne",
+    "types": [
+        "Elektro",
+        "Fee"
+    ],
+    "weight": 2.2
+}

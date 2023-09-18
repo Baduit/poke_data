@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Su nariz es muy sensible. Cuando ve algo por primera\nvez, lo toca con ella para recordarlo después.",
+        "Hace girar con pericia sobre la punta de su nariz\ncualquier cosa redondeada, ya sea una Poké Ball o\nun Spheal.",
+        "Cada vez que Sealeo ve algo nuevo, se lo pone en el morro y\nempieza a darle vueltas. A veces, para entretenerse, hace lo\nmismo con un Spheal.",
+        "Sealeo suele balancear y hacer rodar cosas en la punta del\nmorro. Al mismo tiempo, aprovecha para olerlas y detectar la\ntextura que tienen para ver si le gustan o no.",
+        "Vive sobre placas de hielo. Detecta el olor de\nsus presas mientras nada.",
+        "Tiene la costumbre de hacer girar en la punta del\nmorro cualquier objeto redondeado, ya sea una\nPoké Ball o un Spheal."
+    ],
+    "height": 1.1,
+    "id": 364,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+    "name": "Sealeo",
+    "types": [
+        "Hielo",
+        "Agua"
+    ],
+    "weight": 87.6
+}

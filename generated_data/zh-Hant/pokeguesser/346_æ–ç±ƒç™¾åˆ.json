@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "平時棲息在海中淺灘的底部，\n每當退潮時就會爬到陸地上，\n四處尋找獵物。",
+        "古代海裡的肉食性寶可夢。\n會用８根觸手捉住獵物，\n一邊用消化液溶解一邊進食。",
+        "雖然腳短且走得慢，但\n脖子和觸手能伸長３倍\n去捕捉在遠處的獵物。",
+        "用觸手捕捉到獵物時，\n會直接用消化液溶解\n獵物然後吸收養分。"
+    ],
+    "height": 1.5,
+    "id": 346,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "name": "搖籃百合",
+    "types": [
+        "岩石",
+        "草"
+    ],
+    "weight": 60.4
+}

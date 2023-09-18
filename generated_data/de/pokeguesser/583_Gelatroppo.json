@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es produziert Eiskörner, indem es die Luft um sich\nherum abkühlt, und zieht mit ihnen eine Eisschicht\num seinen Gegner.",
+        "Es lebt auf schneebedeckten Bergen. Vor vielen\nJahren fand es während einer Eiszeit seinen Weg\nin den Süden.",
+        "Es produziert Eiskörner, indem es die Luft um sich herum\nabkühlt, und zieht mit ihnen eine Eisschicht um seinen Gegner.",
+        "Es lebt auf schneebedeckten Bergen. Vor vielen Jahren fand\nes während einer Eiszeit seinen Weg in den Süden.",
+        "An heißen Tagen schmilzt sein Körper. Friert\nman es ein, nimmt es seine alte Gestalt wieder\nan, aber sein Körper ist leicht verbogen.",
+        "Dieses Pokémon existiert seit der Eiszeit.\nEs friert seine Gegner mit Eiskörnern ein und\nzerschmettert sie dann mit einem Kopfstoß.",
+        "Es friert seine Gegner ein, indem es ihre Körper\nmit einem Atem aus Eiskörnern bedeckt. In Alola\nfindet man vergleichsweise kleine Exemplare.",
+        "Gelatroppo sind so widerstandsfähig, dass sie\nsogar eine Eiszeit überdauerten. In warmen\nRegionen erfreuen sie sich großer Beliebtheit.",
+        "Es vergrößert seinen Eiskörper, indem es klares\nWasser trinkt. Bei gutem Wetter ist es eher selten\nanzutreffen.",
+        "Dieses Pokémon ist gutmütig. Es friert zwar\nGegner mit kalter Luft von -100 ºC ein, raubt\nihnen aber nie das Leben."
+    ],
+    "height": 1.1,
+    "id": 583,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "name": "Gelatroppo",
+    "types": [
+        "Eis"
+    ],
+    "weight": 41.0
+}

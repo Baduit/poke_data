@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Ehe man sichs versieht, hat es schon das\nLangschwert aus seinen Vorderbeinen gezogen\nund seinen Gegner besiegt.",
+        "Besiegt Gegner durch einen einzigen Hieb mit\nder Klinge an seinem Panzer. Ein böser Blick\nund seine Feinde verstummen.",
+        "Ehe man sichs versieht, hat es schon das Langschwert aus\nseinen Vorderbeinen gezogen und seinen Gegner besiegt.",
+        "Besiegt Gegner durch einen einzigen Hieb mit der Klinge an\nseinem Panzer. Ein böser Blick und seine Feinde verstummen."
+    ],
+    "height": 1.5,
+    "id": 503,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+    "name": "Admurai",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 94.6
+}

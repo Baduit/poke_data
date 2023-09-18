@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Non ci sono due Spinda con lo stesso motivo\nmaculato. Il suo passo barcollante confonde i nemici.",
+        "La probabilità che due Spinda con lo stesso disegno\nsi incontrino è praticamente nulla.",
+        "Pare che ogni Spinda esistente abbia un motivo maculato\nunico rispetto agli altri. Il suo passo barcollante e malsicuro\ndà l’impressione che stia ballando.",
+        "Pare che non esistano due Spinda dall’identico motivo\nmaculato. Questo Pokémon si muove in modo curioso\nbarcollando come in preda alle vertigini. Tale comportamento\npuò confondere l’avversario.",
+        "Si muove con passo incerto e barcollante,\ncercando invano di camminare dritto.",
+        "Ogni Spinda ha un motivo maculato unico.\nAlcuni appassionati si divertono a notare\nle differenze nella posizione delle macchie.",
+        "Si muove con passo incerto e barcollante.\nSe cammina troppo finisce per sentirsi male.",
+        "Ogni Spinda ha un motivo maculato unico.\nGrazie ai suoi movimenti incerti, riesce a\nschivare brillantemente gli attacchi nemici."
+    ],
+    "height": 1.1,
+    "id": 327,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "name": "Spinda",
+    "types": [
+        "Normale"
+    ],
+    "weight": 5.0
+}

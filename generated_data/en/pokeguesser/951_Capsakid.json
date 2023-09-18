@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+        "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+    ],
+    "height": 0.3,
+    "id": 951,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+    "name": "Capsakid",
+    "types": [
+        "Grass"
+    ],
+    "weight": 3.0
+}

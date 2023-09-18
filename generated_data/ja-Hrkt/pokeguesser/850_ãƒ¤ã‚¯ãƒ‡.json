@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "からだに　ためた　かねんガスで\nはつねつ。　とくに　おなかの\nきいろい　ぶぶんが　あついのだ。",
+        "はつねつした　からだで　えものを\nしめあげる。　こんがり　やけたら\nむしゃむしゃ　いただくのだ。"
+    ],
+    "height": 0.7,
+    "id": 850,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "name": "ヤクデ",
+    "types": [
+        "ほのお",
+        "むし"
+    ],
+    "weight": 1.0
+}

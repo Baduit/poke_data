@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "They never allow prey to escape.\nTheir jaws are so powerful, they can\ncrush the body of an automobile.",
+        "It can expand the focus of its eyes,\nenabling it to see objects in the far\ndistance as if it were using binoculars.",
+        "Very violent Pokémon, they try\nto clamp down on anything that\nmoves in front of their eyes.",
+        "Very violent Pokémon, they try\nto clamp down on anything that\nmoves in front of their eyes.",
+        "Very violent Pokémon, they try to clamp down on\nanything that moves in front of their eyes.",
+        "They never allow prey to escape. Their jaws\nare so powerful, they can crush the body of\nan automobile.",
+        "Very violent Pokémon, they try to clamp down on\nanything that moves in front of their eyes.",
+        "They never allow prey to escape. Their jaws\nare so powerful, they can crush the body of\nan automobile.",
+        "Its unique faculty of sight can detect small prey\nmore than 30 miles away, even in the midst of\na sandstorm.",
+        "After clamping down with its powerful jaws,\nit twists its body around to rip its prey in half.",
+        "When it spots prey, even at a distance of over\n30 miles, it swims through the desert as if it\nwere water, then jumps out and chomps them.",
+        "It conceals itself in sandstorms that Flygon\nwhip up and waits patiently for prey to appear.",
+        "This Pokémon is known as the Bully of the Sands.\nKrookodile’s mighty jaws can bite through heavy\nplates of iron with almost no effort at all.",
+        "While terribly aggressive, Krookodile also has\nthe patience to stay hidden under sand for days,\nlying in wait for prey."
+    ],
+    "height": 1.5,
+    "id": 553,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "name": "Krookodile",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "weight": 96.3
+}

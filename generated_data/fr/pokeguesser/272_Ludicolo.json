@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ses muscles se tonifient au son\nd’une musique entraînante. Il ne\npeut pas s’empêcher de danser.",
+        "Ses muscles se tonifient au son\nd’une musique entraînante. Il ne\npeut pas s’empêcher de danser.",
+        "Ses muscles se tonifient au son d’une musique\nentraînante. Il ne peut pas s’empêcher de danser.",
+        "Les cellules de Ludicolo s’activent s’il entend\nune musique entraînante, le rendant encore plus\npuissant.",
+        "Ludicolo ne peut pas s’empêcher de danser quand il entend\nune musique joyeuse et festive. On raconte que ce Pokémon\napparaît lorsqu’il entend les enfants chanter pendant leurs\nrandonnées.",
+        "Lorsque Ludicolo entend un rythme entraînant et joyeux,\nles cellules de son corps s’activent énergiquement.\nMême pendant les combats, ce Pokémon montre énormément\nd’énergie.",
+        "Les cellules de Ludicolo s’activent s’il entend\nune musique entraînante, le rendant encore\nplus puissant.",
+        "Il bouge son corps sur un rythme entraînant\npour décupler ses forces."
+    ],
+    "height": 1.5,
+    "id": 272,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "name": "Ludicolo",
+    "types": [
+        "Eau",
+        "Plante"
+    ],
+    "weight": 55.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "靠儲存在體內的可燃氣體\n來發熱。熱度最高的是\n腹部的黃色部分。",
+        "會用滾燙的身體勒緊獵物，\n等到烤得恰到好處之時，\n就把牠們大口大口地吃掉。"
+    ],
+    "height": 0.7,
+    "id": 850,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "name": "燒火蚣",
+    "types": [
+        "火",
+        "蟲"
+    ],
+    "weight": 1.0
+}

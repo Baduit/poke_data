@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Quando accumula tanta elettricità sparge scintille\nazzurrine dallo spazio tra le due corna.",
+        "Tocca il nemico con le sue due code e rilascia una\nscarica elettrica di oltre 20.000 volt.",
+        "Quando accumula tanta elettricità sparge scintille azzurrine\ndallo spazio tra le due corna.",
+        "Tocca il nemico con le sue due code e rilascia una scarica\nelettrica di oltre 20.000 volt.",
+        "Tocca il nemico con la punta delle code\ne rilascia una scarica elettrica ad alto voltaggio\nche lo carbonizza all’istante.",
+        "Quando è agitato, si batte il petto sprizzando\nscintille e producendo un rombo simile a\nun tuono.",
+        "Afferra le code sature di elettricità per caricare\ni suoi pugni al massimo della potenza per poi\ncolpire il nemico.",
+        "Un singolo Electivire è in grado di fornire\nl’elettricità necessaria agli edifici di una grande\ncittà per un anno.",
+        "Produce una quantità di elettricità direttamente\nproporzionale alla sua frequenza cardiaca.\nDurante la lotta il voltaggio si alza all’istante.",
+        "È uno dei Pokémon di tipo Elettro che\nproducono più elettricità. Rilascia scariche\nad alto voltaggio dalla punta delle code."
+    ],
+    "height": 1.8,
+    "id": 466,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "name": "Electivire",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 138.6
+}

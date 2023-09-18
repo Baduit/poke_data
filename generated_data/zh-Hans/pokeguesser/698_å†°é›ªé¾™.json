@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "曾栖息在古代寒冷的土地上。\n据说，冰雪龙鸣叫的时候，\n夜空中会出现极光。",
+        "虽然复原成功了，\n但由于现在的环境过热，\n被认为无法长期生存。",
+        "从化石中成功复原。\n曾经在没什么天敌的\n寒冷地区群居。",
+        "已经灭绝的古代宝可梦。\n有时候它还会以冰封的\n状态被发现喔。"
+    ],
+    "height": 1.3,
+    "id": 698,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "name": "冰雪龙",
+    "types": [
+        "岩石",
+        "冰"
+    ],
+    "weight": 25.2
+}

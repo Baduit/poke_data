@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Molto tempo fa, si riteneva che le sue urla sinistre\ncoincidessero con la chiamata della morte.",
+        "Se s’infuria, sputa fiamme contenenti una tossina.\nSe ci si brucia, il dolore permane a lungo.",
+        "In un branco di Houndoom, il capobranco è riconoscibile\ndalle corna fortemente arcuate all’indietro ed è quello\nche si dimostra più forte nella lotta contro gli altri.",
+        "In un branco di Houndoom, il capobranco è riconoscibile\ndalle corna fortemente arcuate all’indietro ed è quello\nche si dimostra più forte nella lotta contro gli altri.",
+        "Mette KO il nemico sputando fiamme che\ncontengono una tossina. Divide equamente\nle prede con il resto del branco.",
+        "Le sue urla sinistre sono inconfondibili.\nUn tempo era ritenuto un messaggero degli\ninferi e tutti lo temevano."
+    ],
+    "height": 1.4,
+    "id": 229,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "name": "Houndoom",
+    "types": [
+        "Buio",
+        "Fuoco"
+    ],
+    "weight": 35.0
+}

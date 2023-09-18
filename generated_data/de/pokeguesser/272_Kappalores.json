@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Hört es fröhliche Musik, füllen sich seine Muskeln\nmit Energie. Es muss dann einfach tanzen.",
+        "Der Rhythmus von Partymusik bringt das Blut von\nKappalores in Wallung und es wird dadurch stärker.",
+        "Kappalores fängt sofort zu tanzen an, wenn es stimmungsvolle,\nfeierliche Musik vernimmt. Dieses Pokémon erscheint\nangeblich, wenn es Kinder auf Wanderausflügen singen hört.",
+        "Wenn Kappalores einen fröhlichen Rhythmus hört, werden die\nZellen in seinem Körper aktiviert. Auch im Kampf zeigt dieses\nPokémon seine verblüffende Stärke.",
+        "Der Rhythmus von fröhlicher Musik aktiviert die\nZellen von Kappalores und macht es so stärker.",
+        "Es bewegt seinen Körper zu fröhlichen Rhythmen.\nAuf diese Weise erhöht es seine Kraft."
+    ],
+    "height": 1.5,
+    "id": 272,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "name": "Kappalores",
+    "types": [
+        "Wasser",
+        "Pflanze"
+    ],
+    "weight": 55.0
+}

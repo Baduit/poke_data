@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "A skillful dancer, it creates a sequence of water\nballoons as it dances, and briskly bombards\nits enemies.",
+        "It cares deeply for its companions. When its\nTrainer is feeling down, it performs a cheery\ndance to try and help.",
+        "It gets excited when it sees a dance it doesn’t\nknow. This hard worker practices diligently until\nit can learn that dance.",
+        "It attacks by smacking its enemies with the\nexploding water balloons that it creates.",
+        "As if dancing, it artfully dodges the attacks of its\nenemies. All the while, it’s busy forming a bunch\nof balloons to overwhelm its foes.",
+        "On nights when the sea is calm, Brionne dance\nwith one another to the singing of the Primarina\nthat’s leading them."
+    ],
+    "height": 0.6,
+    "id": 729,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+    "name": "Brionne",
+    "types": [
+        "Water"
+    ],
+    "weight": 17.5
+}

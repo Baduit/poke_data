@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Su núcleo central brilla con los colores del arcoíris.\nPara algunos tiene el valor de una gema.",
+        "El centro de su cuerpo alberga un órgano que emite\nextrañas señales de radio en la noche.",
+        "La parte central de Starmie, el núcleo brillante, resplandece\ncon siete colores distintos. Debido a su naturaleza luminosa, a\neste Pokémon se le ha dado el apelativo de la Gema del Mar.",
+        "Starmie nada por el agua haciendo girar su cuerpo estrellado\na modo de hélice. El núcleo de este Pokémon brilla y llega a\ntornarse de siete colores.",
+        "Su brillante núcleo emite y recibe extrañas\nseñales de radio que pueden causarle jaquecas\na cualquiera que se aproxime demasiado.",
+        "Corre el rumor de que Starmie es un invasor del\nespacio exterior, debido a la forma tan peculiar\nde su cuerpo.",
+        "Su reluciente núcleo se conoce como la Gema\ndel Mar y con él se elaboran adornos por los\nque se pagan fortunas.",
+        "Se desplaza por el agua haciendo girar su\ncuerpo geométrico. Parece que emite unas\nextrañas ondas electromagnéticas.",
+        "Su parte central se conoce como núcleo. Se\ncree que, cuando este brilla con siete colores,\nes señal de que se está comunicando.",
+        "Su parte central se conoce como núcleo. Se\ncree que, cuando este brilla con siete colores,\nes señal de que se está comunicando.",
+        "Su órgano central, conocido como núcleo, brilla\ncon los colores del arcoíris cuando se dispone a\nliberar sus potentes poderes psíquicos.",
+        "Starmie absorbe plancton al tiempo que nada\npor el mar haciendo girar su cuerpo a gran\nvelocidad."
+    ],
+    "height": 1.1,
+    "id": 121,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "name": "Starmie",
+    "types": [
+        "Agua",
+        "Psíquico"
+    ],
+    "weight": 80.0
+}

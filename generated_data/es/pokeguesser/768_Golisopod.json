@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Gracias a su destreza y sus enormes y afiladas\ngarras, puede cortar hasta el aire y el agua de\nun solo tajo.",
+        "Usa con astucia sus seis patas superiores en\ncombate. Suele habitar las cavernas del fondo\nmarino, donde lleva una vida contemplativa.",
+        "El caparazón que protege su cuerpo es tan duro\ncomo el diamante. Hará lo que sea por conseguir\nla victoria.",
+        "Su mayor arma son sus garras retráctiles.\nA veces va acompañado por un séquito de\nWimpod.",
+        "Hace lo que sea por conseguir la victoria. Si el\nrival se descuida, aprovecha para asestarle un\ngolpe letal con sus pequeñas garras frontales.",
+        "Vive en cavernas del fondo marino o en barcos\nhundidos. Lucha contra los Grapploct y el que\npierde se convierte en una suculenta presa."
+    ],
+    "height": 2.0,
+    "id": 768,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "name": "Golisopod",
+    "types": [
+        "Bicho",
+        "Agua"
+    ],
+    "weight": 108.0
+}

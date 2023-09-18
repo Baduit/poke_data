@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es führt seine beiden Klauen zusammen, dreht sich\nrapide um die eigene Achse und gräbt sich ratzfatz\ndurch das Erdreich.",
+        "Es gräbt sich mit 50 km/h schnurstracks durch\ndas Erdreich, indem es sich rapide um die eigene\nAchse dreht.",
+        "Es führt seine beiden Klauen zusammen, dreht sich rapide um\ndie eigene Achse und gräbt sich ratzfatz durch das Erdreich.",
+        "Es gräbt sich mit 50 km/h schnurstracks durch das Erdreich,\nindem es sich rapide um die eigene Achse dreht.",
+        "Es führt seine beiden Klauen zusammen, dreht\nsich rapide um die eigene Achse und stürzt sich\nauf seine Beute.",
+        "Ein Pokémon, das sich bei Landwirten mäßiger\nBeliebtheit erfreut, da es beim Graben durchs\nErdreich gelegentlich ihre Ernten ruiniert."
+    ],
+    "height": 0.3,
+    "id": 529,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "name": "Rotomurf",
+    "types": [
+        "Boden"
+    ],
+    "weight": 8.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es nutzt seine großen Blätter als Flügel und verteilt die\nsüßen Früchte, die an seinem Hals wachsen, an Kinder.",
+        "Sein Hals trägt zweimal im Jahr süße Früchte.\nKinder in den südlichen Tropen naschen oft davon.",
+        "Die Früchte am Hals von Tropius sind bei Kindern sehr\nbeliebt. Dieses Pokémon liebt Früchte und isst sie ständig.\nOffensichtlich sind ihm wegen dieser Vorliebe selbst Früchte\ngewachsen.",
+        "Kinder aus den südlichen Tropen essen die Früchte,\ndie am Hals von Tropius hängen, als Zwischenmahlzeit.\nDieses Pokémon kann fliegen, indem es mit den Blättern\nauf seinem Rücken schlägt, als ob es Flügel wären.",
+        "Die Früchte, die am Hals der in Alola lebenden\nTropius hängen, sind die besten, denn sie sind\nsüßer als die in anderen Regionen.",
+        "Die leckeren Früchte an seinem Hals sind sehr\nbeliebt. In warmen Gebieten gibt es viele\nFarmen, auf denen Tropius gezüchtet werden."
+    ],
+    "height": 2.0,
+    "id": 357,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "name": "Tropius",
+    "types": [
+        "Pflanze",
+        "Flug"
+    ],
+    "weight": 100.0
+}

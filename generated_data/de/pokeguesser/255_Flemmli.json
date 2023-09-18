@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "In seinem Bauch ist ein Flammensack, der stets\nbrennt. Umarmt man es, fühlt es sich warm an.",
+        "In seinem Inneren lodert ein Feuer. Es schleudert\n1 000 °C heiße Feuerbälle.",
+        "Flemmli hängt an seinem Trainer wie eine Klette. Es schlurft\nimmer hinter ihm her. Dieses Pokémon spuckt 1 000 °C\nheißes Feuer, das seinen Feinden ordentlich einheizt.",
+        "In Flemmlis Körper brennt eine Flamme. Wenn man es\numarmt, beginnt es zu glühen. Dieses Pokémon trägt ein\nflauschiges Fell aus Daunen."
+    ],
+    "height": 0.4,
+    "id": 255,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "name": "Flemmli",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 2.5
+}

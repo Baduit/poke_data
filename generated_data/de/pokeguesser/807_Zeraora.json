@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Mit seinen elektrisierten Krallen reißt es Gegner\nin Stücke. Selbst wenn sie ausweichen, werden\nsie von elektrisch geladenen Funken getroffen.",
+        "Schnell wie der Blitz nähert es sich seinen\nFeinden, um sie dann mit seinen scharfen\nKlauen in Stücke zu reißen.",
+        "Es läuft so schnell wie der Blitz und reißt Gegner\nmit seinen Krallen, die mit Hochspannung\ngeladen sind, in Stücke.",
+        "Über die Ballen an seinen Pfoten entlädt es\nElektrizität. Wenn Zeraora an einem vorbeirennt,\nzuckt ein Blitz auf und man hört Donnergrollen."
+    ],
+    "height": 1.5,
+    "id": 807,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "Zeraora",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 44.5
+}

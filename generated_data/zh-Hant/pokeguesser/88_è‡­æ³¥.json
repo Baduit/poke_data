@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "主要的食物是\n工廠排放的污泥廢液。\n最近數量減少了。",
+        "照射了來自月亮的Ｘ射線後，\n污泥發生變化而誕生。\n身體的細菌如果減少就會死亡。",
+        "誕生自海底的污泥。\n在乾淨的地方，牠會因為\n體內的細菌無法增長而死去。",
+        "最近工廠排放的廢水太乾淨，\n使得牠沒東西可吃。\n據說就快要絕種了。",
+        "由許多污泥凝聚而成。\n散發著惡臭，讓人無法觸碰。\n經過的地方寸草不生。",
+        "由許多污泥凝聚而成。\n散發著惡臭，讓人無法觸碰。\n經過的地方寸草不生。"
+    ],
+    "height": 0.9,
+    "id": 88,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "name": "臭泥",
+    "types": [
+        "毒"
+    ],
+    "weight": 30.0
+}

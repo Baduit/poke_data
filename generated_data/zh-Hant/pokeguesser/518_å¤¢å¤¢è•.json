@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在牠冒出黑黑的煙霧時，\n還是不要接近牠為妙，\n否則惡夢將會成真。",
+        "總是在打瞌睡作夢。\n剛睡醒的時候會鬧脾氣，\n所以最好別去招惹牠。"
+    ],
+    "height": 1.1,
+    "id": 518,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "name": "夢夢蝕",
+    "types": [
+        "超能力"
+    ],
+    "weight": 60.5
+}

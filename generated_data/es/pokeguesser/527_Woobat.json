@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Vive en bosques oscuros y cavernas. Emite\nultrasonidos por la nariz para saber todo lo que\npasa a su alrededor.",
+        "Se dice que la marca con forma de corazón que deja\nun Woobat al incrustar su nariz trae buena suerte.",
+        "Vive en bosques oscuros y cavernas. Emite ultrasonidos por\nla nariz para saber todo lo que pasa a su alrededor.",
+        "Se dice que la marca con forma de corazón que deja un\nWoobat al incrustar su nariz trae buena suerte.",
+        "Si al alzar la vista en una cueva se ven marcas\ncon forma de corazón en las paredes, es señal\nde que Woobat la ha convertido en su guarida.",
+        "Emite ultrasonidos mientras revolotea en busca\nde los Pokémon insecto con los que se sustenta."
+    ],
+    "height": 0.4,
+    "id": 527,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "name": "Woobat",
+    "types": [
+        "Psíquico",
+        "Volador"
+    ],
+    "weight": 2.1
+}

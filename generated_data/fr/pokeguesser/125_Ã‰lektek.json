@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Il fait tournoyer ses bras pour\ndonner de la force à ses coups.\nProfitez-en pour filer!",
+        "Il fait tournoyer ses bras pour\ndonner de la force à ses coups.\nProfitez-en pour filer!",
+        "Des ondes électriques parcourent la surface de son\ncorps. Il brille d’un éclat bleuté dans le noir.",
+        "Il adore se nourrir d’électricité. Il apparaît\noccasionnellement près des grandes centrales\nélectriques.",
+        "Lorsqu’une tempête approche, des groupes entiers de\nce Pokémon se battent pour grimper sur les hauteurs,\noù la foudre a le plus de chance de tomber. Certaines villes\nse servent d’Élektek en guise de paratonnerres.",
+        "Lorsqu’une tempête approche, des groupes entiers de\nce Pokémon se battent pour grimper sur les hauteurs,\noù la foudre a le plus de chance de tomber. Certaines villes\nse servent d’Élektek en guise de paratonnerres.",
+        "La moitié des coupures de courant soudaines\nest due à des groupes d’Élektek rassemblés\ndans une centrale électrique pour se nourrir.",
+        "L’électricité qui se dégage de son corps est\nlargement supérieure à celle qu’il ingère pour\nse nourrir.",
+        "Son corps regorge d’électricité. Il la concentre\ndans ses bras en faisant des moulinets, avant\nde décocher un coup d’une violence fulgurante.",
+        "On l’accuse d’être à l’origine des coupures\nde courant, mais c’est souvent une excuse pour\ncouvrir les bévues du personnel des centrales.",
+        "Il provoque de grosses pannes de courant en\nse nourrissant de l’électricité des centrales.",
+        "Il provoque de grosses pannes de courant en\nse nourrissant de l’électricité des centrales.",
+        "De nombreuses centrales électriques gardent\ndes Pokémon Sol à proximité afin d’empêcher\nles Élektek de leur voler de l’électricité.",
+        "Quand un orage approche, ils se réunissent\ntous autour d’un grand arbre et attendent\npatiemment que la foudre s’abatte."
+    ],
+    "height": 1.1,
+    "id": 125,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "name": "Élektek",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "The diamond-shaped crystals on its body\nexpel air as cold as -240 degrees Fahrenheit,\nsurrounding its enemies and encasing them in ice.",
+        "Using its diamond-shaped crystals,\nit can instantly create a wall of\nice to block an opponent’s attack.",
+        "The diamond-shaped crystals on its body\nexpel air as cold as -240 degrees Fahrenheit,\nsurrounding its enemies and encasing them in ice.",
+        "Using its diamond-shaped crystals,\nit can instantly create a wall of\nice to block an opponent’s attack.",
+        "An Aurorus was found frozen solid within a\nglacier, just as it appeared long ago, which\nbecame quite a big event in the news.",
+        "This usually quiet and kindly Pokémon has a\nsurface temperature of around\n–240 degrees Fahrenheit.",
+        "Aurorus was restored from a fossil. It’s said that\nwhen this Pokémon howls, auroras appear in the\nnight sky.",
+        "When gripped by rage, Aurorus will emanate\nfreezing air, covering everything around it in ice."
+    ],
+    "height": 2.7,
+    "id": 699,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "name": "Aurorus",
+    "types": [
+        "Rock",
+        "Ice"
+    ],
+    "weight": 225.0
+}

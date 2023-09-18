@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il a défié les humains pour protéger\nles siens. Son nom est resté dans\nla légende.",
+        "Ses cornes sont des lames effilées.\nIl lacère ses ennemis dans un\nmouvement tourbillonnant.",
+        "Ses cornes sont des lames effilées. Il lacère ses\nennemis dans un mouvement tourbillonnant.",
+        "Il lacère ses ennemis avec une agilité sans égale.\nLa légende raconte qu’il protège les Pokémon.",
+        "Ses cornes sont des lames effilées. Il lacère ses ennemis\ndans un mouvement tourbillonnant.",
+        "Il lacère ses ennemis avec une agilité sans égale.\nLa légende raconte qu’il protège les Pokémon.",
+        "Selon la légende, il aurait combattu aux côtés\nde Cobaltium et de Terrakium pour protéger\nles Pokémon d’Unys.",
+        "Rapide comme le vent, il s’abat tel un tourbillon\nsur ses ennemis avant de les transpercer sans pitié\nde ses cornes acérées."
+    ],
+    "height": 2.0,
+    "id": 640,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "name": "Viridium",
+    "types": [
+        "Plante",
+        "Combat"
+    ],
+    "weight": 200.0
+}

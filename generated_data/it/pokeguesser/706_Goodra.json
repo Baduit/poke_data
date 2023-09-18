@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Un Pokémon Drago davvero amichevole. Ama fare le\nfeste al suo Allenatore lasciandolo ricoperto di bava.",
+        "Attacca con i corni che possono allungarsi e\naccorciarsi. Ha una forza pari a quella di 100 pugili\nprofessionisti.",
+        "Un Pokémon Drago davvero amichevole. Ama fare le feste\nal suo Allenatore lasciandolo ricoperto di bava.",
+        "Attacca con i corni che possono allungarsi e accorciarsi.\nHa una forza pari a quella di 100 pugili professionisti.",
+        "Questo Pokémon adora la compagnia e, se viene\ntrascurato, si rattrista e si mette a piangere\nversando viscidi lacrimoni.",
+        "Chi lo prende in giro credendolo inoffensivo\npotrebbe ritrovarsi ad assaggiare la potenza\ndei suoi corni e della sua grossa coda.",
+        "È molto socievole e se si affeziona a qualcuno lo\nabbraccia ricoprendolo di bava appiccicosa.\nCi vuole pazienza con questo Pokémon...",
+        "Sotto la sua pelle viscosa c’è uno spesso strato\ndi grasso che assorbe i colpi dei nemici.",
+        "A volte non capisce gli ordini del suo Allenatore\ne rimane immobile con un’aria stupita. Molti lo\ntrovano adorabile proprio per questo.",
+        "Distende i suoi lunghi corni e si lancia all’attacco\ncon una potenza 100 volte superiore al pugno\ndi un peso massimo."
+    ],
+    "height": 2.0,
+    "id": 706,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "name": "Goodra",
+    "types": [
+        "Drago"
+    ],
+    "weight": 150.5
+}

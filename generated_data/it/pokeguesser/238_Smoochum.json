@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Le labbra sono la parte più sensibile del corpo,\nil primo organo con cui analizza nuovi oggetti.",
+        "Analizza tutto con le labbra e con esse riesce a\nmemorizzare ciò che gli piace e ciò che non gli piace.",
+        "Smoochum scorrazza vivacemente, ma spesso inciampa\ne cade. Così, appena può, cerca di specchiarsi da qualche\nparte per assicurarsi di non essersi imbrattato il volto.",
+        "Smoochum scorrazza vivacemente, ma spesso inciampa\ne cade. Così, appena può, cerca di specchiarsi da qualche\nparte per assicurarsi di non essersi imbrattato il volto.",
+        "Tocca gli oggetti con le labbra prima ancora\nche con le mani per analizzarli. Se sono sporchi,\nli lecca accuratamente per pulirli.",
+        "Le sue labbra sono recettori molto sensibili.\nPer evitare che si rovinino, le mantiene idratate\napplicandovi ogni giorno la linfa degli alberi.",
+        "Si sciacqua il volto alla minima traccia\ndi sporcizia. Pare non presti la stessa\nattenzione al resto del corpo.",
+        "È un Pokémon traboccante di curiosità.\nStabilisce cosa gli piace e cosa no\nappoggiandovi le labbra."
+    ],
+    "height": 0.4,
+    "id": 238,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "name": "Smoochum",
+    "types": [
+        "Ghiaccio",
+        "Psico"
+    ],
+    "weight": 6.0
+}

@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Cuando ataque, seguirá chupando energía de su\nvíctima, aunque pese tanto que ya no pueda volar.",
+        "Cuando chupa sangre, no para hasta hartarse.\nPor la noche sale volando a la caza de presas.",
+        "A Golbat le encanta chuparles la sangre a los seres vivos. Este\nPokémon es más activo en la oscuridad de la noche. Es al caer\nla noche cuando sale a revolotear y a buscar sangre fresca.",
+        "Golbat derriba a sus víctimas mordiéndoles con los cuatro\ncolmillos que tiene y chupándoles la sangre. Solo entra en\nacción en las noches sin luna. Revolotea en la oscuridad para\natacar a Pokémon y personas.",
+        "Succiona la sangre de sus presas con sus\ngruesos colmillos, que son huecos por dentro a\nmodo de caña y más frágiles de lo que parecen.",
+        "A veces chupa tanta sangre que es incapaz de\nvolar y cae al suelo para acabar siendo presa\nde otros Pokémon.",
+        "En ocasiones se ven ejemplares a los que les\nfalta algún colmillo por haber intentado morder\na un Pokémon de tipo Acero, presas del hambre.",
+        "Es capaz de ingerir 300 cc de sangre de una\nsentada. A veces chupa tanta que es incapaz\nde volar.",
+        "Tras aproximarse sigilosamente a su objetivo,\nutiliza sus afilados colmillos para chuparle la\nsangre.",
+        "Tras aproximarse sigilosamente a su objetivo,\nutiliza sus afilados colmillos para chuparle la\nsangre.",
+        "Le encanta chuparles la sangre a los seres vivos.\nEn ocasiones comparte la preciada colecta con\notros congéneres hambrientos.",
+        "Camina con soltura sobre sus pequeñas patas. Se\nacerca con sigilo a su presa mientras esta duerme\ny le clava los colmillos para chuparle la sangre."
+    ],
+    "height": 1.6,
+    "id": 42,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "name": "Golbat",
+    "types": [
+        "Veneno",
+        "Volador"
+    ],
+    "weight": 55.0
+}

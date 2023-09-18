@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "特別な　切り株の　パワーを\nドラミングで　コントロール。\n根っこを　操って　戦う。",
+        "ドラムテクニックに　優れた　ものが\nボスになる。　穏やかな　気性で\nグループの　調和を　重んじる。"
+    ],
+    "height": 2.1,
+    "id": 812,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "name": "ゴリランダー",
+    "types": [
+        "くさ"
+    ],
+    "weight": 90.0
+}

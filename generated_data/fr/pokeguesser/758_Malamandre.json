@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Curieusement, cette espèce ne compte que\ndes femelles. Ces dernières aiment s’entourer\nde nombreux admirateurs Tritox mâles.",
+        "Son gaz toxique est riche en phéromones. Il est\npossible d’isoler ces dernières pour concocter\nun puissant parfum aphrodisiaque.",
+        "Ce Pokémon habite au fin fond des cavernes.\nIl se fait servir par des Tritox envoûtés par\nses phéromones.",
+        "Malamandre punit sans merci les Tritox qui\nrentrent bredouilles de la chasse, généralement\nd’une gifle de sa paume enflammée.",
+        "Il n’existe que des spécimens femelles.\nElles envoûtent les Tritox mâles grâce\nà leurs nuages de phéromones.",
+        "Les conflits entre Malamandre seraient réglés\npar un simple calcul : le spécimen dont la suite\ncomporte le plus de Tritox l’emporte."
+    ],
+    "height": 1.2,
+    "id": 758,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+    "name": "Malamandre",
+    "types": [
+        "Poison",
+        "Feu"
+    ],
+    "weight": 22.2
+}

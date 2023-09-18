@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Habita en grandes pantanos. Si se acerca un enemigo,\nse alborota y causa temblores monumentales.",
+        "Construye su nido en el fondo de los pantanos.\nEs capaz de comerse cualquier cosa.",
+        "Whiscash defiende su territorio a toda costa. Es capaz de\napoderarse de un estanque entero para sí solo. Si alguien se\nle acerca, se revolverá y provocará un terremoto devastador.",
+        "Si Whiscash entra en estado de cólera salvaje, provoca un\ntemblor sísmico de un radio de 5 km. Este Pokémon tiene\nla habilidad de predecir terremotos de verdad.",
+        "Es un Pokémon muy voraz que se come todo lo\nque se mueve. Suele quedarse quieto en el\nlecho del río esperando a sus presas.",
+        "Se cree que cuando los bancos de Whiscash\nsaltan sobre la superficie del agua, es señal\npremonitoria de un terremoto.",
+        "Provoca fuertes temblores de tierra con los que\nintimida a sus rivales. Al engullir a las presas del\nfondo del cenagal también traga bastante lodo.",
+        "Como su vista no es muy aguda, utiliza los\nbarbillones para detectar las vibraciones que se\nproducen en el agua y localizar así a su presa.",
+        "Construye su nido en el fondo de los pantanos.\nEs tan voraz que no le hace ascos a ningún tipo\nde comida, siempre que se trate de seres vivos.",
+        "Habita en grandes pantanos. Si se acerca un\nenemigo, monta en cólera y causa temblores\nmonumentales."
+    ],
+    "height": 0.9,
+    "id": 340,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "name": "Whiscash",
+    "types": [
+        "Agua",
+        "Tierra"
+    ],
+    "weight": 23.6
+}

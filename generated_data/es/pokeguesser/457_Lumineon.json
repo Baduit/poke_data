@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Vive en las profundidades marinas. Atrae a sus presas\ncon parpadeos del dibujo de sus cuatro aletas.",
+        "Para que los depredadores no lo detecten, se arrastra\npor el fondo marino con las aletas del pecho.",
+        "Vive en las profundidades marinas. Atrae a sus presas con\nparpadeos del dibujo de sus cuatro aletas.",
+        "Para que los depredadores no lo detecten, se arrastra por el\nfondo marino con las aletas del pecho.",
+        "Atrae a sus presas con el destello que emite,\naunque eso también llama la atención de sus\nferoces depredadores marinos.",
+        "Un Pokémon abisal que vive en el lecho marino.\nUsa sus aletas ventrales para arrastrarse en\nbusca de Starmie, su presa favorita.",
+        "Es difícil encontrar presas en lo más profundo\ndel mar, por lo que lucha a capa y espada con\nlos Lanturn si avista una que merezca la pena.",
+        "Nada arrastrándose por el lecho marino. Sus\nespléndidas aletas brillan como las estrellas del\nfirmamento."
+    ],
+    "height": 1.2,
+    "id": 457,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "name": "Lumineon",
+    "types": [
+        "Agua"
+    ],
+    "weight": 24.0
+}

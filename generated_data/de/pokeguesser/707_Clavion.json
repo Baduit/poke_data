@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Dieses Pokémon sammelt eifrig Schlüssel, mit denen\nes wild herumfuchtelt, um Gegner abzuschrecken.",
+        "Da es Schlüssel, die ihm gefallen, wie seinen Augapfel\nhütet, vertrauen Menschen ihm die Schlüssel ihrer\nTresore an, um Diebstahl vorzubeugen.",
+        "Dieses Pokémon sammelt eifrig Schlüssel, mit denen es wild\nherumfuchtelt, um Gegner abzuschrecken.",
+        "Da es Schlüssel, die ihm gefallen, wie seinen Augapfel hütet,\nvertrauen Menschen ihm die Schlüssel ihrer Tresore an,\num Diebstahl vorzubeugen.",
+        "Dieses Pokémon sammelt eifrig Schlüssel,\ndie es oft aus fremden Häusern entwendet.\nAnsonsten ist es aber sehr friedlich.",
+        "Seinen Fortsatz steckt es gerne in metallene\nZwischenräume, um Metall-Ionen abzusaugen.\nSammelt aus unerfindlichen Gründen Schlüssel.",
+        "Niemand weiß, weshalb es Schlüssel sammelt,\naber schenkt man ihm einen, freut es sich sehr.\nEs akzeptiert allerdings nur Generalschlüssel.",
+        "Früher lebte es in Minen. Da sein mineralisches\nFutter dort aber immer seltener wird, findet man\nes nun auch in Menschensiedlungen.",
+        "Dieses Pokémon sammelt unaufhörlich Schlüssel.\nVertraut man ihm einen besonders wichtigen an,\nbeschützt es diesen um jeden Preis.",
+        "Mit dem Fortsatz an seinem Kopf saugt Clavion\nMetall-Ionen ein. Anscheinend liebt es Schlüssel\nso sehr, dass es sie mit seinem Aussehen imitiert."
+    ],
+    "height": 0.2,
+    "id": 707,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "name": "Clavion",
+    "types": [
+        "Stahl",
+        "Fee"
+    ],
+    "weight": 3.0
+}

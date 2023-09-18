@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "It has a twig stuck in its tail. With\nfriction from its tail fur, it sets the\ntwig on fire and launches into battle.",
+        "When the twig is plucked from its tail,\nfriction sets the twig alight. The flame\nis used to send signals to its allies.",
+        "It has a twig stuck in its tail. With\nfriction from its tail fur, it sets the\ntwig on fire and launches into battle.",
+        "When the twig is plucked from its tail,\nfriction sets the twig alight. The flame\nis used to send signals to its allies."
+    ],
+    "height": 1.0,
+    "id": 654,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+    "name": "Braixen",
+    "types": [
+        "Fire"
+    ],
+    "weight": 14.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "S’il voit son honneur bafoué, il\nest capable de faire des ravages\navec ses ailes tranchantes.",
+        "S’il voit son honneur bafoué, il\nest capable de faire des ravages\navec ses ailes tranchantes.",
+        "Il nage aussi vite qu’un hors-bord. Le tranchant de\nses ailes peut fendre un bloc de glace à la dérive.",
+        "Les trois cornes de son bec sont le symbole de sa\nforce. Celles du chef sont plus grosses que les autres.",
+        "Il nage aussi vite qu’un hors-bord. Le tranchant de ses ailes\npeut fendre un bloc de glace à la dérive.",
+        "Les trois cornes de son bec sont le symbole de sa force.\nCelles du chef sont plus grosses que les autres."
+    ],
+    "height": 1.7,
+    "id": 395,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "name": "Pingoléon",
+    "types": [
+        "Eau",
+        "Acier"
+    ],
+    "weight": 84.5
+}

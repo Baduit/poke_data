@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "A sudden transformation of Carbink,\nits pink, glimmering body is said to be\nthe loveliest sight in the whole world.",
+        "It can instantly create many diamonds\nby compressing the carbon in the air\nbetween its hands.",
+        "A sudden transformation of Carbink,\nits pink, glimmering body is said to be\nthe loveliest sight in the whole world.",
+        "It can instantly create many diamonds\nby compressing the carbon in the air\nbetween its hands."
+    ],
+    "height": 0.7,
+    "id": 719,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+    "name": "Diancie",
+    "types": [
+        "Rock",
+        "Fairy"
+    ],
+    "weight": 8.8
+}

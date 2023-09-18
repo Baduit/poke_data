@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "다른 세계에서는 여행\n파트너로 삼을 정도로\n친근한 울트라비스트다.",
+        "다른 세계에 사는 울트라비스트.\n머리의 독침에서 나온 독액을\n상대에게 끼얹고 깔깔 웃는다."
+    ],
+    "height": 0.6,
+    "id": 803,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
+    "name": "베베놈",
+    "types": [
+        "독"
+    ],
+    "weight": 1.8
+}

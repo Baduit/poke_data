@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ほぼ　動かないが　生きている。\n飲まず食わずで　殻に　こもるうち\n超能力に　目覚めたらしい。",
+        "殻の　中で　成長中。\nサイコパワーで　外の　様子を\nうかがい　進化に　備えている。"
+    ],
+    "height": 0.4,
+    "id": 825,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "name": "レドームシ",
+    "types": [
+        "むし",
+        "エスパー"
+    ],
+    "weight": 19.5
+}

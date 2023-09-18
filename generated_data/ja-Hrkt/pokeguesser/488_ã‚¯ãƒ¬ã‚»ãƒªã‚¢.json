@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ひこうするときは　ベールのような\nはねから　ひかる　りゅうしを　だす。\nみかづきのけしんと　よばれている。",
+        "クレセリアの　はねを　もって　ねると\nたのしい　ゆめが　みられると　いう。\nみかづきのけしん　と　よばれている。",
+        "ひこうするときは　ベールのような\nはねから　ひかる　りゅうしを　だす。\nみかづきのけしんと　よばれている。",
+        "クレセリアの　はねを　もって　ねると\nたのしい　ゆめが　みられると　いう。\nみかづきのけしん　と　よばれている。"
+    ],
+    "height": 1.5,
+    "id": 488,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "name": "クレセリア",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 85.6
+}

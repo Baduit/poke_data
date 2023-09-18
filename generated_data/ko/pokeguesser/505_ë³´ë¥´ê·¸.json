@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "체내의 발광물질로\n눈이나 몸을 빛나게 하여\n습격해 온 상대를 풀이 죽게 만든다.",
+        "뺨의 주머니에 모아둔 나무열매의\n씨앗을 날려서 공격한다. 적을\n발견하면 꼬리를 세운다.",
+        "체내의 발광 물질로\n눈이나 몸을 빛나게 하여\n습격해 온 상대를 풀이 죽게 만든다.",
+        "뺨의 주머니에 모아둔 나무열매의\n씨앗을 날려서 공격한다. 적을\n발견하면 꼬리를 세운다."
+    ],
+    "height": 1.1,
+    "id": 505,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "name": "보르그",
+    "types": [
+        "노말"
+    ],
+    "weight": 27.0
+}

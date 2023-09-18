@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Sus brazos disparan bolas de fuego de más de\n2000 °C. Vive en cráteres volcánicos.",
+        "Sus brazos disparan bolas de fuego de más de\n2000 °C. El aliento que desprende es abrasador.",
+        "Sus brazos disparan bolas de fuego de más de 2000 °C. Vive\nen cráteres volcánicos.",
+        "Sus brazos disparan bolas de fuego de más de 2000 °C.\nEl aliento que desprende es abrasador.",
+        "Vive en cráteres volcánicos. Al parecer, en cada\nvolcán solo habita una pareja de Magmortar.",
+        "Expulsa bolas de fuego por los brazos que\nalcanzan los 2000 °C. Si lanza ráfagas, sus\nbazos pueden llegar a fundirse un poco.",
+        "En la actualidad son aún muchas las empresas\nmetalúrgicas que dependen de las llamas de\nMagmortar para trabajar el metal.",
+        "Expulsa bolas de fuego con las que arrolla a su\nenemigo y lo deja completamente chamuscado,\nrazón por la que evita este método al cazar.",
+        "Al respirar profundamente, el fuego del interior\nde su vientre gana intensidad y puede alcanzar\nlos 2000 ºC.",
+        "Al vivir en un cráter, su cuerpo ha adquirido un\naspecto similar al de un volcán y ha desarrollado\nun órgano parecido a una cámara magmática."
+    ],
+    "height": 1.6,
+    "id": 467,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+    "name": "Magmortar",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 68.0
+}

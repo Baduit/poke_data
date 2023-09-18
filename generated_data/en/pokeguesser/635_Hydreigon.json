@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "This brutal Pokémon travels the skies on\nits six wings. Anything that moves seems\nlike a foe to it, triggering its attack.",
+        "The heads on their arms do not have\nbrains. They use all three heads to\nconsume and destroy everything.",
+        "It responds to movement by attacking.\nThis scary, three-headed Pokémon\ndevours everything in its path!",
+        "It responds to movement by attacking.\nThis scary, three-headed Pokémon\ndevours everything in its path!",
+        "The heads on their arms do not have brains.\nThey use all three heads to consume and\ndestroy everything.",
+        "It responds to movement by attacking. This scary,\nthree-headed Pokémon devours everything in\nits path!",
+        "The heads on their arms do not have brains.\nThey use all three heads to consume and\ndestroy everything.",
+        "It responds to movement by attacking. This scary,\nthree-headed Pokémon devours everything in\nits path!",
+        "There are a slew of stories about villages that\nwere destroyed by Hydreigon. It bites anything\nthat moves.",
+        "The three heads take turns sinking their teeth into\nthe opponent. Their attacks won’t slow until their\ntarget goes down."
+    ],
+    "height": 1.8,
+    "id": 635,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "name": "Hydreigon",
+    "types": [
+        "Dark",
+        "Dragon"
+    ],
+    "weight": 160.0
+}

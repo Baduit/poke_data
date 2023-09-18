@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Se formó a partir de 108 espíritus. Está unido a la\nfisura de una piedra angular mística.",
+        "Como castigo por una fechoría 500 años atrás, está\nunido a la fisura de una piedra angular mística.",
+        "Se formó a partir de 108 espíritus. Está unido a la fisura de\nuna piedra angular mística.",
+        "Como castigo por una fechoría 500 años atrás, está unido a\nla fisura de una piedra angular mística.",
+        "Este Pokémon se formó a partir de 108 espíritus.\nDicen que entre ellos se mezclaron algunos de\nnaturaleza malvada.",
+        "Un viajero utilizó un misterioso hechizo para\nunirlo a una Piedra Espíritu por sus constantes\nfechorías."
+    ],
+    "height": 1.0,
+    "id": 442,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "name": "Spiritomb",
+    "types": [
+        "Fantasma",
+        "Siniestro"
+    ],
+    "weight": 108.0
+}

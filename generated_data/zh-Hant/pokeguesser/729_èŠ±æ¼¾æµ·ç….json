@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "很擅長跳舞，會邊跳舞\n邊一個接一個地\n製造水氣球扔向敵人。",
+        "非常關心自己的夥伴。\n訓練家如果情緒低落，\n就會跳舞給予鼓勵。",
+        "個性勤奮，只要看見自己\n不知道的舞蹈，就會很興奮。\n會拚命練習直到自己也會跳為止。",
+        "會用手腳將自己吹起來的\n水球彈出去砸向敵人，\n再讓水球爆開進行攻擊。",
+        "一邊用舞步躲避敵人的攻擊，\n一邊連續製造出氣球，\n接連不斷地攻擊對方。",
+        "到了風平浪靜的夜晚，\n會配合領隊西獅海壬的歌聲\n和夥伴們一起跳舞。"
+    ],
+    "height": 0.6,
+    "id": 729,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+    "name": "花漾海獅",
+    "types": [
+        "水"
+    ],
+    "weight": 17.5
+}

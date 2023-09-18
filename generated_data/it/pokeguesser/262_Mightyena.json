@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "La sua eccezionale obbedienza verso gli Allenatori\nesperti deriva dall’antica abitudine di vivere in branchi.",
+        "Una decina di Mightyena per branco cacciano e\nsconfiggono il nemico con un perfetto lavoro di\ngruppo.",
+        "Mightyena invia chiari segnali quando sta preparando\nun attacco. Inizia a ringhiare cupo e si appiattisce.\nMorde selvaggiamente con le zanne appuntite e affilate.",
+        "Allo stato brado Mightyena si sposta e agisce soltanto\nassieme al suo branco. A causa della sua natura selvatica\nobbedisce solo a quegli Allenatori che considera possedere\nabilità superiori."
+    ],
+    "height": 1.0,
+    "id": 262,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "name": "Mightyena",
+    "types": [
+        "Buio"
+    ],
+    "weight": 37.0
+}

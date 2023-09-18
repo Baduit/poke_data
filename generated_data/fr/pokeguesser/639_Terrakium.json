@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il a combattu les humains pour protéger\nles Pokémon ayant perdu leur foyer à\ncause de leurs guerres fratricides.",
+        "Sa puissance d’impact lui permet\nd’enfoncer d’un seul coup le rempart\nd’un château. Un Pokémon de légende.",
+        "Sa puissance d’impact lui permet d’enfoncer d’un\nseul coup le rempart d’un château. Un Pokémon de\nlégende.",
+        "Un Pokémon de légende. Grâce à sa puissance\nphénoménale, il aurait détruit un château pour sauver\ndes Pokémon.",
+        "Sa puissance d’impact lui permet d’enfoncer d’un seul coup\nle rempart d’un château. Un Pokémon de légende.",
+        "Un Pokémon de légende. Grâce à sa puissance phénoménale,\nil aurait détruit un château pour sauver des Pokémon.",
+        "Il possède un pouvoir incommensurable.\nIl se montre impitoyable envers ceux\nqui s’en prennent aux petits Pokémon.",
+        "Selon une légende d’Unys, Terrakium se serait\njadis dressé contre les humains pour protéger\nles Pokémon."
+    ],
+    "height": 1.9,
+    "id": 639,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+    "name": "Terrakium",
+    "types": [
+        "Roche",
+        "Combat"
+    ],
+    "weight": 260.0
+}

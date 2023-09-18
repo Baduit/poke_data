@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        "Its sturdy wings\nlook heavy, but\nthey are actually\fhollow and light,\nallowing it to fly\nfreely in the sky.",
+        "After nesting in\nbramble bushes,\nthe wings of its\fchicks grow hard\nfrom scratches by\nthorns.",
+        "The feathers that\nit sheds are very\nsharp. It is said\fthat people once\nused the feathers\nas swords.",
+        "SKARMORY is entirely encased in hard,\nprotective armor. This POKéMON flies at\nclose to 190 mph.\fIt slashes foes with its wings that\npossess swordlike cutting edges.",
+        "SKARMORY’s steel wings become tattered\nand bashed in from repeated battles.\nOnce a year, the battered wings grow\fback completely, restoring the cutting\nedges to their pristine state.",
+        "A POKéMON that has a body and wings of\nsteel. People in the past used feathers\nfallen from SKARMORY to make swords and\nknives.",
+        "After nesting in bramble bushes, the wings\nof its chicks grow hard from scratches by\nthorns.",
+        "Its sturdy wings look heavy, but its bones\nare hollow and light, allowing it to fly\nfreely in the sky.",
+        "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph.",
+        "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph.",
+        "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph.",
+        "Its sturdy wings look heavy, but\nthey are actually hollow and light,\nallowing it to fly freely in the sky.",
+        "After nesting in bramble bushes,\nthe wings of its chicks grow hard\nfrom scratches by thorns.",
+        "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph.",
+        "Despite being clad entirely in\niron-hard armor, it flies at\nspeeds over 180 mph.",
+        "Its heavy-looking iron body is\nactually thin and light, so it can\nfly at speeds over 180 mph.",
+        "Its heavy-looking iron body is\nactually thin and light, so it can\nfly at speeds over 180 mph.",
+        "After nesting in bramble bushes, the wings of its\nchicks grow hard from scratches by thorns.",
+        "Despite being clad entirely in iron-hard armor,\nit flies at speeds over 180 mph.",
+        "Skarmory is entirely encased in hard, protective armor.\nThis Pokémon flies at close to 190 mph. It slashes foes with\nits wings that possess swordlike cutting edges.",
+        "Skarmory’s steel wings become tattered and bashed in from\nrepeated battles. Once a year, the battered wings grow back\ncompletely, restoring the cutting edges to their pristine state.",
+        "Its feathers, which fall off as it grows, are thin\nand sharp. In times long past, warriors used\nthem as swords.",
+        "Its metal body is sturdy, but it does rust rather\neasily. So on rainy days, this Pokémon prefers\nto stay put in its nest.",
+        "The wing feathers it sheds can be processed\nand made into knives whose sharpness is\nrecognized by the finest chefs.",
+        "Its body is draped in steel armor. It looks heavy,\nbut it can fly at speeds of up to 185 miles\nan hour!",
+        "The pointed feathers of these Pokémon are\nsharper than swords. Skarmory and Corviknight\nfight viciously over territory.",
+        "People fashion swords from Skarmory’s shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs."
+    ],
+    "height": 1.7,
+    "id": 227,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "name": "Skarmory",
+    "types": [
+        "Steel",
+        "Flying"
+    ],
+    "weight": 50.5
+}

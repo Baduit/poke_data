@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il est si puissant qu’il pourrait renverser un char de\n50 t d’un seul assaut. Il se sert de son corps comme\nd’un bouclier pour protéger ses alliés.",
+        "Il se défend en joignant ses poings devant son visage.\nDans cette posture, il peut même résister à l’onde de\nchoc d’une explosion.",
+        "Il est si puissant qu’il pourrait renverser un char de 50 t\nd’un seul assaut. Il se sert de son corps comme d’un bouclier\npour protéger ses alliés.",
+        "Il se défend en joignant ses poings devant son visage.\nDans cette posture, il peut même résister à l’onde de choc\nd’une explosion."
+    ],
+    "height": 1.6,
+    "id": 652,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "name": "Blindépique",
+    "types": [
+        "Plante",
+        "Combat"
+    ],
+    "weight": 90.0
+}

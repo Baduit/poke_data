@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Gracias a su misterioso parecido a una Poké Ball, atrae\na sus presas y lanza rápidamente esporas de veneno.",
+        "Atraen a otros Pokémon gracias a su similitud con una\nPoké Ball y los atacan expulsando esporas venenosas.",
+        "Gracias a su misterioso parecido a una Poké Ball, atrae a sus\npresas y lanza rápidamente esporas de veneno.",
+        "Atraen a otros Pokémon gracias a su similitud con una\nPoké Ball y los atacan expulsando esporas venenosas.",
+        "Todavía no se ha encontrado ninguna explicación\nni razón para su gran parecido a las Poké Balls.",
+        "Las esporas que expulsa por las extremidades\nson altamente tóxicas, pero, si se secan bien,\nsirven como remedio estomacal."
+    ],
+    "height": 0.2,
+    "id": 590,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
+    "name": "Foongus",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 1.0
+}

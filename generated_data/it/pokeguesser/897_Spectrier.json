@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Sonda l’area circostante con tutti i suoi sensi,\nesclusa la vista. Si narra che chi subisce i suoi\ncalci venga privato dell’anima.",
+        "Galoppa nelle notti buie assorbendo l’energia\nvitale delle creature addormentate.\nAma la solitudine e la quiete."
+    ],
+    "height": 2.0,
+    "id": 897,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "name": "Spectrier",
+    "types": [
+        "Spettro"
+    ],
+    "weight": 44.5
+}

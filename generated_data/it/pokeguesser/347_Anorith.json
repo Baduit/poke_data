@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Pokémon di tipo primitivo, usa i lunghi artigli per\ncatturare prede nascoste tra le rocce in fondo al mare.",
+        "Un antico Pokémon rigenerato da un fossile. Viveva\nnel mare e catturava le prede con gli artigli.",
+        "Anorith è stato rigenerato da un fossile preistorico. Un tempo\nviveva nei mari caldi. Questo Pokémon afferra saldamente\nla preda con i suoi due artigli.",
+        "Si dice che Anorith sia un Pokémon antenato, con otto ali\nsui fianchi. Il Pokémon nuotava nei mari primordiali remando\ncon le otto ali.",
+        "Questo Pokémon rigenerato da un fossile non è\na suo agio se rilasciato nel mare, a causa del\npeggioramento nella qualità delle acque odierne.",
+        "È un antico Pokémon Coleottero. Pare che\nnuotasse in modo sorprendentemente rapido\nusando le sue otto ali.",
+        "Questo Pokémon è stato rigenerato da un fossile.\nViveva nei mari circa 100 milioni di anni fa e\nusava i suoi due artigli per cacciare.",
+        "Nuota rapidamente utilizzando le sue otto ali\ncome fossero remi di una barca. È uno degli\nantenati dei Pokémon di tipo Coleottero."
+    ],
+    "height": 0.7,
+    "id": 347,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+    "name": "Anorith",
+    "types": [
+        "Roccia",
+        "Coleottero"
+    ],
+    "weight": 12.5
+}

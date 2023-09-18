@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es lebt auf dem Grund des Meeres. Im Frühling\nwirkt die Farbe seines Körpers viel kräftiger.",
+        "Es schwimmt äußerst elegant. Mit seinem dünnen\nMaul ernährt es sich von Seetang, der zwischen\nFelsen wächst.",
+        "Saganabyss lebt in extremen Tiefen des Südmeeres. Sein\nKörper ist so angelegt, dass er dem enormen Wasserdruck\ndieser unglaublichen Tiefe standhalten kann. Daher übersteht\ndieses Pokémon gewöhnliche Attacken unbeschadet.",
+        "Obwohl Saganabyss beim Schwimmen ein Bild von Eleganz\nund Schönheit bietet, kann es auch sehr grausam sein.\nWenn es Beute sichtet, sticht es sein dünnes Maul in den\nKörper eines Gegners und entzieht ihm die Flüssigkeit.",
+        "Die Farbe seines Körpers ändert sich je nach\nWassertemperatur. In Alola verfügt es über eine\nfast schon blendend grelle Färbung.",
+        "Es saugt die Körpersäfte seiner Beute aus.\nWas übrig bleibt, sinkt zu Boden und wird\nvon anderen Pokémon verspeist."
+    ],
+    "height": 1.8,
+    "id": 368,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "name": "Saganabyss",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 22.6
+}

@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        "It rotates its\narms to generate\nelectricity, but\fit tires easily,\nso it charges up\nonly a little bit.",
+        "Even in the most\nvicious storm,\nthis POKéMON plays\fhappily if thunder\nrumbles in the\nsky.",
+        "It loves violent\nthunder. The space\nbetween its horns\fflickers bluish-\nwhite when it is\ncharging energy.",
+        "ELEKID stores electricity in its body.\nIf it touches metal and accidentally\ndischarges all its built-up electricity,\fthis POKéMON begins swinging its arms\nin circles to recharge itself.",
+        "ELEKID stores electricity in its body.\nIf it touches metal and accidentally\ndischarges all its built-up electricity,\fthis POKéMON begins swinging its arms\nin circles to recharge itself.",
+        "If it touches metal and discharges the\nelectricity it has stored in its body, an\nELEKID begins swinging its arms in circles\nto recharge itself.",
+        "Even in the most vicious storm, this\nPOKéMON plays happily if thunder rumbles\nin the sky.",
+        "It rotates its arms to generate\nelectricity, but it tires easily, so it\ncharges up only a little bit.",
+        "It generates electricity by\nwhirling its arms. However, it\ncan’t store the energy it makes.",
+        "It generates electricity by\nwhirling its arms. However, it\ncan’t store the energy it makes.",
+        "A weak electric current flows\nbetween its horns. Sticking a hand\nthere shocks the unwary.",
+        "It rotates its arms to generate\nelectricity, but it tires easily,\nso it only charges up a little bit.",
+        "Even in the most vicious storm,\nthis Pokémon plays happily if thunder\nrumbles in the sky.",
+        "A weak electric current flows\nbetween its horns. Sticking a hand\nthere shocks the unwary.",
+        "A weak electric current flows\nbetween its horns. Sticking a hand\nthere shocks the unwary.",
+        "Spinning its arms around\nto generate electricity makes the area\nbetween its horns shine light blue.",
+        "Spinning its arms around\nto generate electricity makes the area\nbetween its horns shine light blue.",
+        "It generates electricity by whirling its arms.\nHowever, it can’t store the energy it makes.",
+        "Spinning its arms around to generate electricity\nmakes the area between its horns shine light blue.",
+        "Elekid stores electricity in its body. If it touches metal and\naccidentally discharges all its built-up electricity, this Pokémon\nbegins swinging its arms in circles to recharge itself.",
+        "Elekid stores electricity in its body. If it touches metal and\naccidentally discharges all its built-up electricity, this Pokémon\nbegins swinging its arms in circles to recharge itself.",
+        "When it’s in a house, electrical outlets serve as\nits baby bottles. It sucks down electricity.",
+        "This Pokémon is constantly fighting with\nTogedemaru that try to steal its electricity.\nIt’s a pretty even match.",
+        "When it hears the crash of thunder, Elekid’s\nmood improves. It can be useful to record that\nsound and play it when Elekid’s feeling down.",
+        "When its horns shine a bluish white, that’s the\nsign it’s fully charged. You’ll get a shocking\njolt if you touch it!",
+        "When a storm approaches, this Pokémon gets\nrestless. Once Elekid hears the sound of thunder,\nit gets full-on rowdy.",
+        "It’s not good at storing electricity yet. This\nPokémon sneaks into people’s homes, looking\nfor electrical outlets to eat electricity from.",
+        "They generate electricity by spinning their arms. During a\nthunderstorm, if one hears the lively voices of children out in the\nwilderness, what one is actually hearing are the voices of Elekid."
+    ],
+    "height": 0.6,
+    "id": 239,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "name": "Elekid",
+    "types": [
+        "Electric"
+    ],
+    "weight": 23.5
+}

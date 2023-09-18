@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Le braccia eccezionalmente sviluppate sono in\ngrado di assestare 1000 pugni in soli 2 secondi.",
+        "Con le sue quattro potenti braccia afferra gli arti del\nnemico per poi lanciarlo lontano.",
+        "Machamp è dotato di una forza tale da riuscire a scagliare\nlontano ogni cosa. Le sue braccia sono troppo possenti per\nriuscire a eseguire qualsiasi lavoro che richieda attenzione\ne destrezza. Tende ad agire prima di pensare.",
+        "Machamp è noto per la sua maestria nella pratica di tutte\nle arti marziali. Se afferra il nemico con le sue quattro braccia\npossenti, la lotta è già decisa. Lo sventurato avversario\nverrà infatti scagliato ben oltre l’orizzonte.",
+        "Sferra pugni di una potenza equivalente a\nun megaton che fanno volare oltre l’orizzonte\ni nemici che gli si parano davanti.",
+        "Può sollevare senza sforzo anche un camion, ma\nè piuttosto maldestro nei lavori di precisione.",
+        "Afferra l’avversario con le sue quattro braccia\ne lo avvinghia in una stretta complicatissima\ncomunemente chiamata “morsa di Machamp”.",
+        "Grazie alle sue quattro braccia può attaccare\ne difendersi allo stesso tempo. Si dice che sia\nesperto di tutte le arti marziali del mondo.",
+        "Con un solo braccio riesce a muovere una\nmontagna. Quando usa tutte e quattro le braccia\nsferra pugni di una potenza inimmaginabile.",
+        "Con un solo braccio riesce a muovere una\nmontagna. Quando usa tutte e quattro le braccia\nsferra pugni di una potenza inimmaginabile.",
+        "Agita velocemente le quattro braccia\ntempestando gli avversari di pugni\ne colpi da ogni direzione.",
+        "Muove le sue quattro braccia per riflesso prima\nancora di rendersene conto, sferrando pugni a\nraffica."
+    ],
+    "height": 1.6,
+    "id": 68,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "name": "Machamp",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 130.0
+}

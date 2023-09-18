@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il se nourrit des pierres qu’il\nrencontre en creusant le sol.\nIl peut creuser à 80 km/h!",
+        "Il se nourrit des pierres qu’il\nrencontre en creusant le sol.\nIl peut creuser à 80 km/h!",
+        "Il creuse sous terre en quête de nourriture.\nSes tunnels servent de maison aux Taupiqueur.",
+        "Onix vit généralement sous terre. Il cherche de\nla nourriture en creusant à plus de 80 km/h.",
+        "Onix a dans le cerveau un aimant qui lui sert de boussole.\nIl permet à ce Pokémon de ne pas se perdre pendant\nqu’il creuse. En prenant de l’âge, son corps s’arrondit\net se polit.",
+        "Onix a dans le cerveau un aimant qui lui sert de boussole.\nIl permet à ce Pokémon de ne pas se perdre pendant\nqu’il creuse. En prenant de l’âge, son corps s’arrondit\net se polit.",
+        "Il creuse la terre à toute allure en quête de\nnourriture. Ses tunnels servent de maison\naux Taupiqueur.",
+        "Il creuse la terre à toute allure en quête de\nnourriture. Ses tunnels servent de maison\naux Taupiqueur.",
+        "Il absorbe des éléments solides en creusant le sol,\nce qui le rend plus robuste.",
+        "Il creuse dans le sol à une vitesse de 80 km/h\nen contorsionnant son immense corps de pierre."
+    ],
+    "height": 8.8,
+    "id": 95,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "name": "Onix",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 210.0
+}

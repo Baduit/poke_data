@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "タマゴから　姿を　現して\n世界の　すべてを　生み出したと\nシンオウ神話に　語られている。",
+        "宇宙が　まだ　ない　ころに\n最初に　生まれた　ポケモンと\n神話の　中で　語られている。",
+        "タマゴから　姿を　現して\n世界の　すべてを　生み出したと\nシンオウ神話に　語られている。",
+        "宇宙が　まだ　ない　ころに\n最初に　生まれた　ポケモンと\n神話の　中で　語られている。"
+    ],
+    "height": 3.2,
+    "id": 493,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "name": "アルセウス",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 320.0
+}

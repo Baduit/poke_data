@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Posee un gran poder psíquico. Lo usa para comprimir\nel cerebro del enemigo y ocasionarle dolores de\ncabeza.",
+        "Según cuentan los rumores, procede de un desierto\ndonde hace 50 años se estrelló un ovni.",
+        "Posee un gran poder psíquico. Lo usa para comprimir el\ncerebro del enemigo y ocasionarle dolores de cabeza.",
+        "Según cuentan los rumores, procede de un desierto donde\nhace 50 años se estrelló un ovni.",
+        "Es capaz de usar un formidable poder psíquico.\nMuchos creen haber avistado extraterrestres\ncuando, en realidad, lo que vieron eran Elgyem.",
+        "Pokémon envuelto en un halo de misterio cuya\naparición, 50 años atrás, coincide curiosamente\ncon la caída de un ovni.",
+        "Cuando se halla junto a un televisor, la pantalla\nmuestra imágenes de extraños paisajes. Se cree\nque corresponden a su lugar de origen.",
+        "Fue descubierto hace aproximadamente 50 años.\nPosee un cerebro muy desarrollado que le otorga\npoderes psíquicos."
+    ],
+    "height": 0.5,
+    "id": 605,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "name": "Elgyem",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 9.0
+}

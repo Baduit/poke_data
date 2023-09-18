@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il brise la glace avec ses grosses\ndéfenses. Sa graisse le protège du\nfroid, mais aussi des attaques.",
+        "Il brise la glace avec ses grosses\ndéfenses. Sa graisse le protège du\nfroid, mais aussi des attaques.",
+        "Il brise la glace avec ses grosses défenses.\nSa graisse le protège du froid, mais aussi des\nattaques.",
+        "Ses robustes défenses pulvérisent la glace, et son\népaisse couche de graisse repousse les attaques.",
+        "Les deux énormes défenses de Kaimorse peuvent détruire\nen un seul coup des blocs de glace de plus de 10 t.\nL’épaisse couche de graisse de ce Pokémon l’isole\nlorsque la température est en dessous de zéro.",
+        "Kaimorse nage dans l’eau glacée et détruit les icebergs\nsur son passage à l’aide de ses grandes et impressionnantes\ndéfenses. Son épaisse couche de graisse lui permet de faire\nrebondir les attaques ennemies.",
+        "Ils vivent en groupes de 20 à 30 individus.\nSi un ennemi les attaque, le chef s’interpose\npour tous les protéger, au péril de sa vie.",
+        "Ses défenses poussent tout au long de sa vie.\nSi l’une d’elles se brise au cours d’un combat,\nau bout d’un an, elle aura repoussé entièrement."
+    ],
+    "height": 1.4,
+    "id": 365,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+    "name": "Kaimorse",
+    "types": [
+        "Glace",
+        "Eau"
+    ],
+    "weight": 150.6
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "El espíritu guardián de Akala, tan inocente como\ncruel. La fragancia de las flores constituye su\nfuente de energía.",
+        "Al revolotear esparce escamas que desprenden\nun brillo misterioso. Se dice que todo aquel que\nlas toca vuelve a sentirse pletórico al instante.",
+        "Esparce escamas brillantes que curan a las\npersonas y los Pokémon. En la isla de Akala es\nvenerado como su espíritu guardián.",
+        "Este espíritu guardián es tan candoroso como\ndespiadado, por lo que se podría decir que es\nla encarnación de la naturaleza misma."
+    ],
+    "height": 1.2,
+    "id": 786,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "Tapu Lele",
+    "types": [
+        "Psíquico",
+        "Hada"
+    ],
+    "weight": 18.6
+}

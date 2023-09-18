@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es cauteloso, desconfiado y de naturaleza\nnocturna. Durante el día acumula energía\nmediante la fotosíntesis.",
+        "Se aproxima a sus enemigos planeando por el\naire sin hacer el menor ruido y les propina unas\npatadas de lo más poderosas.",
+        "Usa sus afiladas plumas como arma arrojadiza\ny la fuerza de sus patas le permite asestar\npoderosas patadas que es mejor no subestimar.",
+        "Se siente a gusto en lugares angostos y oscuros.\nEn más de una ocasión usa el bolsillo o la\nmochila de su Entrenador a modo de nido.",
+        "En pleno vuelo, ataca arrojando sus plumas\nafiladas como cuchillas y, a corta distancia,\ncastiga al rival propinando poderosas patadas.",
+        "Durante el día acumula energía mediante la\nfotosíntesis y, al caer la noche, vuela sin hacer\nruido en busca de presas."
+    ],
+    "height": 0.3,
+    "id": 722,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "name": "Rowlet",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 1.5
+}

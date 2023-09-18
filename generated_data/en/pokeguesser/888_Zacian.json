@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Known as a legendary hero, this Pokémon\nabsorbs metal particles, transforming them\ninto a weapon it uses to battle.",
+        "This Pokémon has slumbered for many years.\nSome say it’s Zamazenta’s elder sister—others\nsay the two Pokémon are rivals."
+    ],
+    "height": 2.8,
+    "id": 888,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "name": "Zacian",
+    "types": [
+        "Fairy"
+    ],
+    "weight": 110.0
+}

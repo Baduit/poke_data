@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Nella sua dura corazza le cellule hanno cominciato\na cambiare. Quando si evolve, la corazza cade.",
+        "La sua corazza è capace di respingere qualsiasi\nattacco, ma lo appesantisce, rendendolo piuttosto\npigro.",
+        "All’interno della corazza-armatura di Shelgon, le cellule\nsono in continua trasformazione per creare un corpo\ncompletamente nuovo. La corazza pesantissima rende\ndifficili i movimenti.",
+        "Il corpo di Shelgon è ricoperto da escrescenze simili a ossa.\nQuesta corazza è così dura da proteggere completamente\ndagli attacchi nemici. Si rintana nelle grotte in attesa\ndell’evoluzione.",
+        "Le cellule all’interno della sua corazza mutano\na velocità vertiginosa in vista dell’evoluzione.",
+        "Si rintana nelle grotte senza bere né mangiare\nnulla. Gli studiosi non hanno ancora capito\ncome faccia a sopravvivere.",
+        "Le cellule all’interno della dura corazza,\ncomposta da materiale osseo, mutano a una\nvelocità vertiginosa.",
+        "Vive nelle profondità delle grotte. Resta chiuso\nnella dura corazza sognando il giorno in cui\nsarà in grado di volare.",
+        "Il suo corpo è protetto da una dura corazza\ncomposta di materiale osseo.\nAccumula energia per poi evolversi.",
+        "Resta a digiuno, sopportando la fame.\nSembra che l’evoluzione si inneschi quando\nesaurisce l’energia accumulata."
+    ],
+    "height": 1.1,
+    "id": 372,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "name": "Shelgon",
+    "types": [
+        "Drago"
+    ],
+    "weight": 110.5
+}

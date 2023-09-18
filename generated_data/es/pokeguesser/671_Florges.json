@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Habita en preciosos jardines floridos. Absorbe la\nenergía que emiten las plantas y la convierte en su\nfuente de poder.",
+        "Los propietarios de los castillos de antaño solían\ninvitar a Florges para que creasen jardines floridos,\na fin de decorar sus terrenos.",
+        "Habita en preciosos jardines floridos. Absorbe la energía que\nemiten las plantas y la convierte en su fuente de poder.",
+        "Los propietarios de los castillos de antaño solían invitar a\nFlorges para que creasen jardines floridos, a fin de decorar\nsus terrenos.",
+        "Es capaz de controlar las flores que cultiva. La\nráfaga de pétalos que emplea es hermosa a la\nvez que devastadora.",
+        "Su esperanza de vida asciende a varios siglos y\ndedica toda su dilatada existencia al cuidado\nde los jardines."
+    ],
+    "height": 1.1,
+    "id": 671,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+    "name": "Florges",
+    "types": [
+        "Hada"
+    ],
+    "weight": 10.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Está formado por los espíritus de personas y Pokémon.\nLe encantan las estaciones húmedas.",
+        "Se dice que es como un hito que guía a las almas.\nLos niños que sostienen un Drifloon a veces\ndesaparecen sin más.",
+        "Está formado por los espíritus de personas y Pokémon. Le\nencantan las estaciones húmedas.",
+        "Se dice que es como un hito que guía a las almas. Los niños\nque sostienen un Drifloon a veces desaparecen sin más.",
+        "Se dice que coge a niños pequeños de la mano\ny se los lleva al otro mundo. Prefiere a los niños\nque no pesan mucho.",
+        "Si por alguna razón su cuerpo llega a reventar,\nemite un sonido parecido al de un grito al tiempo\nque se escapa su energía vital.",
+        "En el interior de su cuerpo redondo almacena\ngran número de almas. Aumenta de tamaño con\ncada persona que se lleva.",
+        "Está formado por espíritus errantes que vagan\npor los caminos. Se lleva a los niños de la mano\npara entablar amistad con ellos.",
+        "Se acerca a los niños en busca de compañía,\npero lo tratan como un juguete y a menudo\ntiene que salir huyendo.",
+        "Está formado por una aglomeración de espíritus.\nSuele aparecer en grandes números durante las\nestaciones húmedas."
+    ],
+    "height": 0.4,
+    "id": 425,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "name": "Drifloon",
+    "types": [
+        "Fantasma",
+        "Volador"
+    ],
+    "weight": 1.2
+}

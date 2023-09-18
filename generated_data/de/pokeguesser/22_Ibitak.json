@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Mit seinen riesigen Flügeln kann dieses Pokémon\nnahezu pausenlos in der Luft bleiben.",
+        "Es hat genügend Ausdauer, den ganzen Tag\nzu fliegen. Sein scharfer Schnabel dient als Waffe.",
+        "Ibitak erkennt man an seinem langen Hals und Schnabel.\nEr ist hervorragend dafür geeignet, im Erdreich oder im\nWasser Beute zu jagen. Es setzt seinen langen, dünnen\nSchnabel dabei sehr geschickt ein.",
+        "Ibitak erkennt man an seinem langen Schnabel. Er ist\nhervorragend dafür geeignet, im Erdreich oder im Wasser\nBeute zu jagen. Es setzt seinen langen, dünnen Schnabel\ndabei sehr geschickt ein.",
+        "Es ist belastbar und hat genügend Ausdauer,\num selbst mit schwerer Fracht beladen einen\nganzen Tag lang in der Luft zu bleiben.",
+        "Wie kürzlich bekannt wurde, existieren uralte\nWandmalereien, auf denen Pokémon abgebildet\nsind, die Ähnlichkeiten mit Ibitak aufweisen.",
+        "Wer Essbares dabeihat, sollte sich nicht in\nIbitaks Revier begeben, da sonst ein Überfall\naus heiterem Himmel droht.",
+        "In Alola findet es seine Beute im Meer. Ibitak, die\nsuchend ihre Kreise über dem Wasser ziehen,\nsind ein typischer Anblick in der Region.",
+        "Dieses Pokémon gehört einer sehr alten Spezies\nan. Wittert es Gefahr, so fliegt es sofort in große\nHöhen davon.",
+        "Dieses Pokémon gehört einer sehr alten Spezies\nan. Wittert es Gefahr, so fliegt es sofort in große\nHöhen davon."
+    ],
+    "height": 1.2,
+    "id": 22,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "name": "Ibitak",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 38.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Comune nelle aree vulcaniche, striscia in giro\nlentamente, sempre alla ricerca di luoghi caldi.",
+        "Nel suo corpo scorre magma. Se non si muove\ncontinuamente, il suo corpo si raffredda e s’indurisce.",
+        "Nel corpo di Slugma scorre magma liquido. In caso di\ncongelamento, il magma si raffredda e si solidifica. Il corpo\ndiventa fragile e cade a pezzi consumandosi progressivamente.",
+        "Nel corpo di Slugma non scorre nemmeno una goccia di\nsangue, bensì magma rovente, che garantisce l’apporto di\nossigeno e sostanze nutritive fondamentali per i suoi organi."
+    ],
+    "height": 0.7,
+    "id": 218,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+    "name": "Slugma",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 35.0
+}

@@ -1,0 +1,33 @@
+{
+    "descriptions": [
+        "When it folds up its body and\nextends its wings, it looks like a\njet plane. It flies at sonic speed.",
+        "It flies at speeds equal to a jet\nfighter plane. It never allows its\nprey to escape.",
+        "It is said that when one runs at\nhigh speed, its wings create blades\nof wind that can fell nearby trees.",
+        "Its body is covered in fine scales that\nreduce drag, enabling it to fly at\nhigh speeds.",
+        "Its body is covered in fine scales that\nreduce drag, enabling it to fly at\nhigh speeds.",
+        "It is said that when one runs at\nhigh speed, its wings create blades\nof wind that can fell nearby trees.",
+        "It is said that when one runs at\nhigh speed, its wings create blades\nof wind that can fell nearby trees.",
+        "It is said that when one runs at\nhigh speed, its wings create blades\nof wind that can fell nearby trees.",
+        "It is said that when one runs at\nhigh speed, its wings create blades\nof wind that can fell nearby trees.",
+        "When it folds up its body and extends its wings,\nit looks like a jet plane. It flies at sonic speed.",
+        "It flies at speeds equal to a jet fighter plane.\nIt never allows its prey to escape.",
+        "When it folds up its body and extends its wings,\nit looks like a jet plane. It flies at sonic speed.",
+        "It flies at speeds equal to a jet fighter plane.\nIt never allows its prey to escape.",
+        "It can fly at speeds rivaling jet planes.\nIt dives into flocks of bird Pokémon and\ngulps the entire flock down whole.",
+        "The protuberances on its head serve as\nsensors. It can even detect distant prey.",
+        "It flies at the speed of sound while searching\nfor prey, and it has midair battles with\nSalamence as the two compete for food.",
+        "Its fine scales don’t just reduce wind\nresistance—their sharp edges also cause injury\nto any opponent who attacks it.",
+        "Garchomp makes its home in volcanic mountains.\nIt flies through the sky as fast as a jet airplane,\nhunting down as much prey as it can.",
+        "Garchomp is fast both underground and above.\nIt can bring down prey and return to its den\nbefore its body has chilled from being outside.",
+        "Soars across the heavens at blinding speed—a magnificent sight!\nIt has a feral disposition. Utmost caution is required if one\nmeets a Garchomp out in the wilds."
+    ],
+    "height": 1.9,
+    "id": 445,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "name": "Garchomp",
+    "types": [
+        "Dragon",
+        "Ground"
+    ],
+    "weight": 95.0
+}

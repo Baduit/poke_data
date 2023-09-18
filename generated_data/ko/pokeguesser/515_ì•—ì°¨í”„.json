@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "머리 송아리에 모은 물은\n영양 듬뿍. 꼬리를 사용해서\n그 물을 초목에 뿌린다.",
+        "머리의 송아리에 모은 물은\n영양이 가득하다. 식물에\n뿌려주면 크게 자란다.",
+        "머리 송아리에 모은 물은\n영양 듬뿍. 꼬리를 사용해서\n그 물을 초목에 뿌린다.",
+        "머리의 송아리에 모은 물은\n영양이 가득하다. 식물에\n뿌려주면 크게 자란다."
+    ],
+    "height": 0.6,
+    "id": 515,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "name": "앗차프",
+    "types": [
+        "물"
+    ],
+    "weight": 13.5
+}

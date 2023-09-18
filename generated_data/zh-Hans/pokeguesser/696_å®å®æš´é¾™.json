@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "大颚有着非常惊人的破坏力。\n有说法，即使复原，\n也没法恢复到原本的样子。",
+        "爱撒娇又任性。有时候，\n即使宝宝暴龙只打算逗着玩，\n对方也会严重受伤。",
+        "复活而来的古代宝可梦。\n性格既粗野又任性，\n能用大颚咬碎任何东西。",
+        "又任性又爱撒娇。\n即使它只是闹着玩，\n也会让训练家受重伤。"
+    ],
+    "height": 0.8,
+    "id": 696,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "name": "宝宝暴龙",
+    "types": [
+        "岩石",
+        "龙"
+    ],
+    "weight": 26.0
+}

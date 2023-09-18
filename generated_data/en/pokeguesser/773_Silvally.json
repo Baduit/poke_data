@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Its trust in its partner is what awakens it.\nThis Pokémon is capable of changing its type,\na flexibility that is well displayed in battle.",
+        "Although its name was Type: Null at first, the\nboy who evolved it into this form gave it the\nname by which it is now known.",
+        "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased.",
+        "Through the bond it formed with its Trainer, its\nwill was strengthened, and it was able to\ndestroy its control mask.",
+        "A solid bond of trust between this Pokémon and\nits Trainer awakened the strength hidden within\nSilvally. It can change its type at will.",
+        "The final factor needed to release this\nPokémon’s true power was a strong bond\nwith a Trainer it trusts."
+    ],
+    "height": 2.3,
+    "id": 773,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "name": "Silvally",
+    "types": [
+        "Normal"
+    ],
+    "weight": 100.5
+}

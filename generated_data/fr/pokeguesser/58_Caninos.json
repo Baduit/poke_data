@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Un Pokémon très loyal. Il restera\nimmobile jusqu’à ce que son\nDresseur lui donne un ordre.",
+        "Un Pokémon très loyal. Il restera\nimmobile jusqu’à ce que son\nDresseur lui donne un ordre.",
+        "Ce Pokémon est particulièrement affectueux et loyal.\nIl aboie et il mord pour se débarrasser de ses\nadversaires.",
+        "Il est courageux et fier. Il se dresse vaillamment\ndevant ses ennemis même s’ils sont plus puissants.",
+        "Caninos a un odorat très développé. Ce Pokémon n’oublie\njamais un parfum, quel qu’il soit. Il utilise son puissant sens\nolfactif pour deviner les émotions des autres créatures\nvivantes.",
+        "Caninos a un odorat très développé. Ce Pokémon n’oublie\njamais un parfum, quel qu’il soit. Il utilise son puissant sens\nolfactif pour deviner les émotions des autres créatures\nvivantes.",
+        "Un Pokémon très intelligent et affectueux.\nIl aboie pour intimider les inconnus et ceux qui\npénètrent sur son territoire.",
+        "Même s’il a l’air adorable, mieux vaut ne pas\ns’approcher du Caninos d’un Dresseur inconnu.\nOn risque de se faire mordre.",
+        "Il est très facile à apprivoiser, mais à l’état\nsauvage, il combat férocement les Rocabot\npour le contrôle de son territoire.",
+        "Cela fait des siècles qu’il vit avec les humains.\nDes ossements de Caninos ont été retrouvés\nsur des sites datant de l’âge de pierre.",
+        "Ce Pokémon est de nature amicale,\nmais il devient hargneux quand son territoire\nest menacé.",
+        "Ce Pokémon est de nature amicale,\nmais il devient hargneux quand son territoire\nest menacé.",
+        "Il est courageux et fiable. Il se dresse vaillamment\ndevant ses ennemis même s’ils sont plus puissants.",
+        "Très fidèle, il aboie de toutes ses forces pour\nprotéger son Dresseur d’Origine quand un danger\nle guette."
+    ],
+    "height": 0.7,
+    "id": 58,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "name": "Caninos",
+    "types": [
+        "Feu"
+    ],
+    "weight": 19.0
+}

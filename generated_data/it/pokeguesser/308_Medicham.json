@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Evita elegantemente gli attacchi a passo di danza, per\npoi lanciare devastanti attacchi con la stessa grazia.",
+        "Conosce le mosse del nemico grazie ai poteri di\npreveggenza ottenuti con le pratiche yoga.",
+        "Si dice che, grazie alla meditazione, Medicham incrementi\nla propria energia fisica e affini il sesto senso. Si nasconde\nefficacemente mimetizzandosi nei campi e in montagna.",
+        "Grazie alla propria abilità meditativa Medicham ha sviluppato\nil sesto senso. Ha acquisito anche la capacità di usare i poteri\npsicocinetici. È noto per rimanere fermo in meditazione\nun mese intero senza mangiare."
+    ],
+    "height": 1.3,
+    "id": 308,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "name": "Medicham",
+    "types": [
+        "Lotta",
+        "Psico"
+    ],
+    "weight": 31.5
+}

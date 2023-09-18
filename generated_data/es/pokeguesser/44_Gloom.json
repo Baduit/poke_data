@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "¡Huele bastante mal! De todas formas, una de cada\nmil personas aprecian su fétido olor.",
+        "La miel que emana de su boca posee un hedor capaz\nde derribar enemigos a 2 km de distancia.",
+        "Gloom libera un fétido olor por el pistilo de la flor. Cuando\nestá en peligro, el hedor se intensifica. Si este Pokémon está\ntranquilo y no se siente amenazado, no libera el desagradable\nolor.",
+        "Gloom babea un néctar que tiene un olor realmente horrible,\naunque parece ser que a él le gusta. De hecho, aspira los\ngases nocivos y libera más néctar aún.",
+        "Huele bastante mal, pero una de cada mil\npersonas aprecia su fétido olor.",
+        "Huele bastante mal, pero una de cada mil\npersonas aprecia su fétido olor.",
+        "Libera un fétido olor por los pistilos. El fuerte\nhedor hace perder el conocimiento a cualquiera\nque se encuentre en un radio de 2 km.",
+        "Lo que parece baba es realmente un néctar muy\npegajoso que se adhiere sin remisión al tocarlo."
+    ],
+    "height": 0.8,
+    "id": 44,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "name": "Gloom",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 8.6
+}

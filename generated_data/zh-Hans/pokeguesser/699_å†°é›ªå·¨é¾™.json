@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "报道里说，在冰山中发现了\n被冻住的冰雪巨龙，\n仍保持着当时的样子。",
+        "身体表面的温度是零下１５０度。\n平常是非常稳重温和的宝可梦。",
+        "从化石复原而来。\n据说当冰雪巨龙吼叫时，\n夜空中就会出现极光。",
+        "当它被激怒时，\n就会喷出猛烈的冷气，\n把周围都冰封起来。"
+    ],
+    "height": 2.7,
+    "id": 699,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "name": "冰雪巨龙",
+    "types": [
+        "岩石",
+        "冰"
+    ],
+    "weight": 225.0
+}

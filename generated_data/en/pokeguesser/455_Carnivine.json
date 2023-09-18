@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "It attracts prey with its sweet-\nsmelling saliva, then chomps down.\nIt takes a whole day to eat prey.",
+        "Hanging from branches using its\ntentacles, it looks like a plant.\nIt awaits prey, mouth wide open.",
+        "It binds itself to trees in marshes.\nIt attracts prey with its sweet-\nsmelling drool and gulps them down.",
+        "It walks around on its tentacles in\nsearch of a tree branch where it\ncan dangle down and ambush prey.",
+        "It walks around on its tentacles in\nsearch of a tree branch where it\ncan dangle down and ambush prey.",
+        "It binds itself to trees in marshes.\nIt attracts prey with its sweet-\nsmelling drool and gulps them down.",
+        "It binds itself to trees in marshes.\nIt attracts prey with its sweet-\nsmelling drool and gulps them down.",
+        "Using its tentacles to lash itself to\ntrees, it lies in wait for prey, luring it\nclose with sweet-smelling drool.",
+        "Using its tentacles to lash itself to\ntrees, it lies in wait for prey, luring it\nclose with sweet-smelling drool.",
+        "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
+        "It binds itself to trees in marshes. It attracts prey\nwith its sweet-smelling drool and gulps them down.",
+        "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
+        "It binds itself to trees in marshes. It attracts prey\nwith its sweet-smelling drool and gulps them down.",
+        "Though this is a plant Pokémon, it has a gluttonous and unruly\ntemperament. Carnivine attacks its prey with its cavernous maw\nwide open."
+    ],
+    "height": 1.4,
+    "id": 455,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+    "name": "Carnivine",
+    "types": [
+        "Grass"
+    ],
+    "weight": 27.0
+}

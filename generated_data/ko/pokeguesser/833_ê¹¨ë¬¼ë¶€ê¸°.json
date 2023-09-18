@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "눈앞에 있는 것은 바로 물어버리는\n습성을 가졌다. 나고 있는 앞니가\n근질거려서 물게 된다는 듯하다.",
+        "머리 뿔은 바위처럼 단단하다.\n뿔로 싸우다가 풀이 죽은 틈에\n덥석 물고 놓지 않는다."
+    ],
+    "height": 0.3,
+    "id": 833,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "name": "깨물부기",
+    "types": [
+        "물"
+    ],
+    "weight": 8.5
+}

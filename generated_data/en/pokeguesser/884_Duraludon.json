@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Its body resembles polished metal, and it’s both\nlightweight and strong. The only drawback is that\nit rusts easily.",
+        "The special metal that composes its body is very\nlight, so this Pokémon has considerable agility.\nIt lives in caves because it dislikes the rain."
+    ],
+    "height": 1.8,
+    "id": 884,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "name": "Duraludon",
+    "types": [
+        "Steel",
+        "Dragon"
+    ],
+    "weight": 40.0
+}

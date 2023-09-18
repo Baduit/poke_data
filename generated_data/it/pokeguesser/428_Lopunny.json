@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "È un Pokémon estremamente cauto. Se avverte\nun pericolo, si dà subito alla fuga saltellando.",
+        "Ha delle orecchie molto delicate. Se le si tocca con\nforza, scalcia con le sue graziose gambe.",
+        "È un Pokémon estremamente cauto. Se avverte un pericolo,\nsi dà subito alla fuga saltellando.",
+        "Ha delle orecchie molto delicate. Se le si tocca con forza,\nscalcia con le sue graziose gambe.",
+        "Cambia il pelo due volte l’anno. Le sciarpe e\ni berretti fatti con la lana che perde sono\nmolto caldi.",
+        "È cauto e rifugge la lotta, ma può sferrare\npotenti calci con le sue gambe aggraziate.",
+        "Presta sempre attenzione all’ambiente\ncircostante e in caso di pericolo sfodera calci\ndi straordinaria potenza distruttiva.",
+        "Terminata la stagione calda, si prepara all’arrivo\ndel freddo coprendosi di una pelliccia soffice\ne vaporosa."
+    ],
+    "height": 1.2,
+    "id": 428,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "name": "Lopunny",
+    "types": [
+        "Normale"
+    ],
+    "weight": 33.3
+}

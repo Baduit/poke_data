@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Vaga per le città nelle notti di luna nuova intonando\nuna melodia sinistra. Chi la ascolta, viene colpito da\nuna maledizione.",
+        "Intrappola le prede con i suoi arti simili a capelli e\ncanta dolcemente mentre queste si dibattono per\nliberarsi.",
+        "Vaga per le città nelle notti di luna nuova intonando\nuna melodia sinistra. Chi la ascolta, viene colpito da\nuna maledizione.",
+        "Intrappola le prede con i suoi arti simili a capelli e canta\ndolcemente mentre queste si dibattono per liberarsi.",
+        "Si dice che il lamento sinistro che fuoriesce dal\nsuo corpo a notte fonda sia la voce dei morti\nche soffrono nell’aldilà.",
+        "Nelle notti di luna nuova bussa alle porte\ndelle case e porta nell’aldilà chi gli apre."
+    ],
+    "height": 0.9,
+    "id": 711,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "name": "Gourgeist",
+    "types": [
+        "Spettro",
+        "Erba"
+    ],
+    "weight": 12.5
+}

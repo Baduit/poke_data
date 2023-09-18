@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "棉絮的種子營養豐富。\n牠會藉由風散播種子，\n讓草木和寶可夢變得活力十足。",
+        "用牠頭上的棉絮製成的線\n有著十分美麗動人的光澤，\n是伽勒爾地區的名產。"
+    ],
+    "height": 0.5,
+    "id": 830,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+    "name": "白蓬蓬",
+    "types": [
+        "草"
+    ],
+    "weight": 2.5
+}

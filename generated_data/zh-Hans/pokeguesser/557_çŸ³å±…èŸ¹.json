@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "会在自己喜欢的石头上开洞\n当成住所。对石丸子还有\n小炭仔来说是天敌。",
+        "如果找不到大小合适\n的石头来当成自己的家，\n它也会住到河马兽的洞里。"
+    ],
+    "height": 0.3,
+    "id": 557,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "name": "石居蟹",
+    "types": [
+        "虫",
+        "岩石"
+    ],
+    "weight": 14.5
+}

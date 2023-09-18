@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "要注意从右臂喷出的毒液。\n只要沾到一点点，\n就会被未知的毒素侵袭。",
+        "某个时期在阿罗拉呈爆发式增长，\n但是臭泥来了之后，\n数量一下子减少了。",
+        "用左臂锁住敌人后，\n会将有毒的液体泼向对方全身，\n封住其行动。",
+        "阿罗拉的灰尘山有点儿魁梧，\n据说是因为有臭臭泥这个天敌的缘故。",
+        "吃掉的垃圾会在体内\n转化为毒素。毒素的成分\n会随着吃掉的垃圾而不同。",
+        "从右臂喷出的毒液十分危险，\n虚弱的生物只要一沾到，\n立刻就会丢掉性命。"
+    ],
+    "height": 1.9,
+    "id": 569,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "name": "灰尘山",
+    "types": [
+        "毒"
+    ],
+    "weight": 107.3
+}

@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Il a la capacité de modifier sa\nstructure cellulaire pour prendre\nl’apparence de ce qu’il voit.",
+        "Il a la capacité de modifier sa\nstructure cellulaire pour prendre\nl’apparence de ce qu’il voit.",
+        "Il a la capacité de modifier sa structure cellulaire pour\nprendre l’apparence de ce qu’il voit.",
+        "Métamorph peut modifier sa structure cellulaire à\nsa guise pour se transformer en n’importe quelle\nforme vivante.",
+        "Métamorph peut modifier sa structure moléculaire pour\nprendre d’autres formes. Lorsqu’il essaie de se transformer\nde mémoire, il lui arrive de se tromper sur certains détails.",
+        "Métamorph peut modifier sa structure moléculaire pour\nprendre d’autres formes. Lorsqu’il essaie de se transformer\nde mémoire, il lui arrive de se tromper sur certains détails.",
+        "Il peut modifier sa structure moléculaire pour\nprendre l’apparence de son adversaire. Le degré\nde ressemblance dépend de chaque individu.",
+        "Grâce à son don de transformation, ce Pokémon\npeut devenir l’ami de tous les êtres vivants, sauf\ndes autres Métamorph, qu’il déteste.",
+        "Il peut prendre l’apparence de n’importe quoi,\nmais chaque Métamorph a son propre domaine\nde prédilection et ses propres faiblesses.",
+        "Il prend la forme de ce qu’il voit. Lorsqu’il n’a\npas de modèle sous les yeux, il doit se fier à sa\nmémoire et le résultat laisse parfois à désirer.",
+        "Quand il repère un ennemi, il adapte son corps\npour en faire une copie presque parfaite de\ncelui de son adversaire.",
+        "Quand il repère un ennemi, il adapte son corps\npour en faire une copie presque parfaite de\ncelui de son adversaire.",
+        "Il modifie sa structure cellulaire pour copier\nl’apparence de ce qu’il voit, mais au repos,\nil reprend sa forme normale.",
+        "Quand il rencontre l’un de ses semblables,\nil s’agite avec plus de vivacité que d’habitude\npour adopter exactement la même forme que lui."
+    ],
+    "height": 0.3,
+    "id": 132,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "name": "Métamorph",
+    "types": [
+        "Normal"
+    ],
+    "weight": 4.0
+}

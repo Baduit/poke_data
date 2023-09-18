@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "ふかいきりで　てきを　まどわせ\nじめつさせる　おそろしさを　もつ。\nかいりゅうが　エネルギーの　みなもと。",
+        "みずを　あやつる　ポニの　まもりがみ。\nけがれを　はらう　きよらかな　みずを\nうみだすと　つたえられている。",
+        "ふかい　きりの　おくに　すんでいると\nおそれ　うやまわれてきた。　みずを\nあやつる　ポニの　まもりがみだ。",
+        "まもりがみと　よばれるが　むやみに\nちかづく　あいてには　おそろしい\nわざわいを　もたらすこともある。"
+    ],
+    "height": 1.3,
+    "id": 788,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+    "name": "カプ・レヒレ",
+    "types": [
+        "みず",
+        "フェアリー"
+    ],
+    "weight": 21.2
+}

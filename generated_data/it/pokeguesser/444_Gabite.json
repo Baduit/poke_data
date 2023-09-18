@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Adora gli oggetti luccicanti. Va a caccia di tesori\nnelle grotte e li trasporta nel suo nido.",
+        "Ha l’abitudine di collezionare gemme che trova\nmentre si scava la tana, appositamente ampliata.",
+        "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte\ne li trasporta nel suo nido.",
+        "Ha l’abitudine di collezionare gemme che trova mentre si scava\nla tana, appositamente ampliata.",
+        "Con le scaglie che a volte perde durante la muta\nsi possono preparare tonici che alleviano\nla stanchezza e ripristinano le energie.",
+        "Adora gli oggetti luccicanti. Passa molto tempo\nnella sua tana a rimirare la sua scorta di gemme\ne Carbink.",
+        "Adora gli oggetti luccicanti. Se sorprende un\nSableye a caccia di Carbink, si infuria e lo\nattacca.",
+        "Quando il suo corpo si ingrandisce, fa la muta.\nCon la polvere ricavata frantumando le scaglie\nscartate si preparano dei rimedi naturali.",
+        "Emette ultrasuoni dalle protuberanze sulla testa\nper esaminare le grotte anche nel buio più fitto.",
+        "Accumula pietre preziose nella grotta in cui vive.\nFa a pezzi con gli artigli e le zanne chiunque\nvi si intrufoli."
+    ],
+    "height": 1.4,
+    "id": 444,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "name": "Gabite",
+    "types": [
+        "Drago",
+        "Terra"
+    ],
+    "weight": 56.0
+}

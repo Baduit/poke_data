@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "垂直の　壁も　すいすい　登る。\n尻尾で　空気の　湿度を　感じ\n明日の　天気を　当てる。",
+        "足の　裏の　小さな　トゲが\n壁や　天井に　引っかかるので\n逆さまに　なっても　落ちないのだ。",
+        "足の　裏の　小さな　トゲを　引っ掛けて\n垂直の　カベを　登ることが　できる。\n太い　尻尾を　たたきつけて　攻撃する。",
+        "沈着　冷静　何事にも　動じない。\n体の　大きな　ポケモンに　にらまれても\n一歩も　引かずに　にらみかえすぞ。"
+    ],
+    "height": 0.5,
+    "id": 252,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "name": "キモリ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 5.0
+}

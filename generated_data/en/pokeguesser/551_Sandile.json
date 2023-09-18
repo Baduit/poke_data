@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "They live buried in the sands of the\ndesert. The sun-warmed sands prevent\ntheir body temperature from dropping.",
+        "It moves along below the sand’s surface,\nexcept for its nose and eyes. A dark\nmembrane shields its eyes from the sun.",
+        "They live hidden under hot desert\nsands in order to keep their body\ntemperature from dropping.",
+        "They live hidden under hot desert\nsands in order to keep their body\ntemperature from dropping.",
+        "It moves along below the sand’s surface, except\nfor its nose and eyes. A dark membrane shields its\neyes from the sun.",
+        "They live buried in the sands of the desert.\nThe sun-warmed sands prevent their body\ntemperature from dropping.",
+        "It moves along below the sand’s surface, except\nfor its nose and eyes. A dark membrane shields its\neyes from the sun.",
+        "They live buried in the sands of the desert.\nThe sun-warmed sands prevent their body\ntemperature from dropping.",
+        "It submerges itself in sand and moves as if\nswimming. This wise behavior keeps its enemies\nfrom finding it and maintains its temperature.",
+        "It conceals itself in the sand and chomps down\non the legs of any prey that unwarily walk over\nit. Its favorite food is Trapinch.",
+        "Alola, where it’s warm all year round, is a\ncomfortable environment for this Pokémon.\nSometimes you’ll even see it outside of deserts.",
+        "Sandile’s still not good at hunting, so it mostly\neats things that have collapsed in the desert.\nIt’s called “the cleaner of the desert.”",
+        "The desert gets cold at night, so when the sun\nsets, this Pokémon burrows deep into the sand\nand sleeps until sunrise.",
+        "Sandile is small, but its legs and lower body are\npowerful. Pushing sand aside as it goes, Sandile\nmoves through the desert as if it’s swimming."
+    ],
+    "height": 0.7,
+    "id": 551,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "name": "Sandile",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "weight": 15.2
+}

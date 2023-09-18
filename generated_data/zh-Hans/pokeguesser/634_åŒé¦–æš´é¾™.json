@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在自己的领地走来走去，\n寻找食物。２个头时常会\n为了前进的方向而争吵。",
+        "２个头会争抢同一个食物。\n明明没有去和别人战斗，\n却总是遍体鳞伤。"
+    ],
+    "height": 1.4,
+    "id": 634,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "name": "双首暴龙",
+    "types": [
+        "恶",
+        "龙"
+    ],
+    "weight": 50.0
+}

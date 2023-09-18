@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Die Lippen sind sein empfindlichster Körperteil.\nNeue Dinge untersucht es zuerst damit.",
+        "Dieses Pokémon berührt alles mit den Lippen.\nDiese merken sich, was es mag und nicht mag.",
+        "Kussilla läuft hektisch umher, fällt aber auch ziemlich oft hin.\nEs lässt keine Möglichkeit aus, sein Spiegelbild zu betrachten,\num sicherzustellen, dass sein Gesicht nicht schmutzig\ngeworden ist.",
+        "Kussilla läuft hektisch umher, fällt aber auch ziemlich oft hin.\nEs lässt keine Möglichkeit aus, sein Spiegelbild zu betrachten,\num sicherzustellen, dass sein Gesicht nicht schmutzig\ngeworden ist.",
+        "Bevor es Dinge in die Hände nimmt, die es\ninteressieren, untersucht es diese mit den\nLippen. Dabei leckt es sie sorgfältig sauber.",
+        "Die Lippen sind sein empfindlichster Körperteil.\nEs schmiert sie täglich mit Baumsaft ein, damit\nsie nicht austrocknen und rissig werden.",
+        "Wird Kussillas Gesicht auch nur ein bisschen\nschmutzig, wäscht es sich sofort. Schmutz am\nRest seines Körpers scheint es nicht zu stören.",
+        "Ein äußerst neugieriges Pokémon, das alles mit\nseinen Lippen berührt, um herauszufinden, ob es\netwas mag oder nicht."
+    ],
+    "height": 0.4,
+    "id": 238,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "name": "Kussilla",
+    "types": [
+        "Eis",
+        "Psycho"
+    ],
+    "weight": 6.0
+}

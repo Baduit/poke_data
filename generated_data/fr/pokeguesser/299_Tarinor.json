@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Face au danger, il se protège en\naugmentant son magnétisme et en\nattirant tout objet métallique.",
+        "Face au danger, il se protège en\naugmentant son magnétisme et en\nattirant tout objet métallique.",
+        "Son nez polarisé lui permet de se défendre en\naugmentant son magnétisme et en attirant tout objet\nmétallique.",
+        "Son nez magnétique pointe constamment vers\nle nord. Les voyageurs l’observent pour connaître\nleur position.",
+        "Le nez magnétique de Tarinor pointe toujours vers le nord.\nSi deux de ces Pokémon se rencontrent, ils ne peuvent pas\nse faire face car leurs nez magnétiques se repoussent.",
+        "On raconte que Tarinor reste complètement immobile,\navec son nez magnétique orienté vers le nord. Cependant,\ndes études minutieuses ont démontré que ce Pokémon\nse déplace de 1 cm par an.",
+        "Le nez de Tarinor, qui fonctionne comme une\nboussole infaillible, en fait un allié de choix pour\ntout Dresseur Pokémon.",
+        "Sa puissance magnétique lui sert à attirer\nses proies, mais également des objets\nmétalliques qu’il utilise en guise de bouclier.",
+        "Il ne se déplace que d’un centimètre par an,\nmais s’il se sent menacé, il virevolte et s’enfonce\ndans le sol en un instant.",
+        "Grâce à sa force magnétique, il peut chasser\nses proies sans se déplacer, mais il attire\nparfois ses pires ennemis."
+    ],
+    "height": 1.0,
+    "id": 299,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "name": "Tarinor",
+    "types": [
+        "Roche"
+    ],
+    "weight": 97.0
+}

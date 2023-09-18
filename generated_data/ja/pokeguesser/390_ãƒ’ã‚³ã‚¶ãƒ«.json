@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "お尻の　炎は\nお腹で　作られた　ガスが　燃料。\n雨に　ぬれても　消えない。",
+        "お腹で　作られた　ガスが\nお尻で　燃えている。体調が　悪いと\n炎が　弱くなる。",
+        "お尻の　炎は\nお腹で　作られた　ガスが　燃料。\n雨に　ぬれても　消えない。",
+        "お腹で　作られた　ガスが\nお尻で　燃えている。体調が　悪いと\n炎が　弱くなる。"
+    ],
+    "height": 0.5,
+    "id": 390,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+    "name": "ヒコザル",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 6.2
+}

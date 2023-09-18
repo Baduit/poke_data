@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "神經質且容易發脾氣打架。\n當體內的腎上腺素增加時，\n毒素的濃度也會提升。",
+        "頭上的角含有毒素，\n當角撞穿了什麼東西時，\n毒素就會隨著衝擊而流出。",
+        "頭上的角含有毒素，\n當角撞穿了什麼東西時，\n毒素就會隨著衝擊而流出。",
+        "會用比鑽石還要堅硬\n的角到處擊碎岩石，\n藉此尋找月之石。"
+    ],
+    "height": 0.9,
+    "id": 33,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "name": "尼多力諾",
+    "types": [
+        "毒"
+    ],
+    "weight": 19.5
+}

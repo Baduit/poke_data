@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il est protégé du froid mordant par\nson épais manteau de fourrure. Ses\ncornes sont formées de glace.",
+        "Il est protégé du froid mordant par\nson épais manteau de fourrure. Ses\ncornes sont formées de glace.",
+        "Bien que pourvu de courtes pattes, ses sabots sont\npointus pour l’empêcher de glisser sur la glace.",
+        "Ses yeux sont masqués par ses longs poils. Il ne voit\nrien et se déplace en chargeant.",
+        "Cochignon est recouvert de longs poils épais qui lui\npermettent de supporter le froid hivernal. Ce Pokémon utilise\nses défenses pour déterrer la nourriture cachée sous la glace.",
+        "Cochignon est recouvert de longs poils épais qui lui\npermettent de supporter le froid hivernal. Ce Pokémon utilise\nses défenses pour déterrer la nourriture cachée sous la glace.",
+        "S’il charge un ennemi, les poils de son dos\nse dressent. Il est très sensible au bruit.",
+        "Bien qu’il soit pourvu de pattes courtes,\nses sabots larges et pointus l’empêchent\nde glisser sur la glace."
+    ],
+    "height": 1.1,
+    "id": 221,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "name": "Cochignon",
+    "types": [
+        "Glace",
+        "Sol"
+    ],
+    "weight": 55.8
+}

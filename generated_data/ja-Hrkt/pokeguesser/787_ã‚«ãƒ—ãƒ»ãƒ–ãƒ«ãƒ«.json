@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "たいぼくを　ひきぬき　ブンブン\nふりまわす。　くさきを　しげらせて\nそのエネルギーを　きゅうしゅうする。",
+        "ウラウラの　まもりがみで　ものぐさ。\nくさきを　あやつり　てきを　しばりつけ\nうごきを　とめて　ツノで　ひとつき。",
+        "まもりがみと　よばれるが　てきと\nみなした　ものは　てっていてきに\nたたきつぶす　はげしさを　もっている。",
+        "シッポを　ならし　いばしょを　つたえ\nむだなあらそいを　さける。　くさきを\nあやつる　ウラウラの　まもりがみ。"
+    ],
+    "height": 1.9,
+    "id": 787,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "name": "カプ・ブルル",
+    "types": [
+        "くさ",
+        "フェアリー"
+    ],
+    "weight": 45.5
+}

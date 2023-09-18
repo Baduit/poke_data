@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Les yeux sur ses pinces servent à\nintimider l’ennemi avant de passer\nà l’attaque.",
+        "Les yeux sur ses pinces servent à\nintimider l’ennemi avant de passer\nà l’attaque.",
+        "Les pinces de ce Pokémon contiennent de l’acier et\npeuvent réduire en miettes quasiment n’importe quoi.",
+        "Son corps est dur comme l’acier. Il intimide ses\nennemis en levant ses pinces pareilles à des yeux.",
+        "Le corps de Cizayox est dur comme de l’acier. Les attaques\nordinaires ne le déstabilisent pas. Ce Pokémon bat des ailes\npour réguler sa température interne.",
+        "Le corps de Cizayox est dur comme de l’acier. Les attaques\nordinaires ne le déstabilisent pas. Ce Pokémon bat des ailes\npour réguler sa température interne.",
+        "Il utilise ses ailes pour réguler sa température\ncorporelle, ce qui empêche sa carcasse d’acier\nde fondre en cas d’ardent combat.",
+        "Avec ses puissantes pinces d’acier, ce Pokémon\nimplacable s’acharne sur tout ce qu’il considère\ncomme un ennemi jusqu’à le briser.",
+        "Son corps est aussi solide que l’acier. Ses\npinces, grosses et lourdes, sont plus adaptées\nau broyage qu’à la capture d’ennemis.",
+        "Il utilise ses énormes pinces dures comme\nde l’acier pour réduire en miettes ceux\nqu’il identifie comme des ennemis.",
+        "Ses grandes pinces représentent un tiers de\nson poids. Un seul coup de l’une d’entre elles\npeut réduire un rocher en poussière.",
+        "Malgré son corps fin, sa puissance de frappe\nest prodigieuse, car même ses muscles sont\ncomposés de métal."
+    ],
+    "height": 1.8,
+    "id": 212,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "name": "Cizayox",
+    "types": [
+        "Insecte",
+        "Acier"
+    ],
+    "weight": 118.0
+}

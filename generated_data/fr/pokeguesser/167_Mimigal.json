@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il tisse une toile fine mais solide\npour poser des pièges et se poste\ndans l’attente d’une proie.",
+        "Il tisse une toile fine mais solide\npour poser des pièges et se poste\ndans l’attente d’une proie.",
+        "Il tisse une toile en utilisant un fil fin mais solide,\npuis il attend tranquillement sa proie.",
+        "Il reste immobile dans sa toile pendant des jours.\nIl attend que sa proie se rapproche pour la capturer.",
+        "La toile tissée par Mimigal peut être comparée à un second\nsystème nerveux. On raconte que ce Pokémon peut déterminer\nquel type de proie touche sa toile grâce aux infimes vibrations\ndes fils.",
+        "La toile tissée par Mimigal peut être comparée à un second\nsystème nerveux. On raconte que ce Pokémon peut déterminer\nquel type de proie touche sa toile grâce aux infimes vibrations\ndes fils.",
+        "Il attend dans sa toile jusqu’à ce qu’un\nBombydou, son mets favori, s’y fasse prendre.\nC’est un Pokémon extrêmement patient.",
+        "Certains pêcheurs récoltent son fil solide pour\ntisser des filets et attraper des Pokémon\npoissons.",
+        "La toile qu’il tisse avec les fils qu’il sécrète est\ntellement solide qu’elle peut soutenir une pierre\nde dix kilos.",
+        "Le poison contenu dans les mandibules de\nce Pokémon n’est pas très violent, mais il suffit\nà immobiliser les proies piégées dans sa toile."
+    ],
+    "height": 0.5,
+    "id": 167,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "name": "Mimigal",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 8.5
+}

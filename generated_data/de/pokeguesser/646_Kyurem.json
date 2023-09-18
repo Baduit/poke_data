@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Ein Legendäres Eis-Pokémon, das auf den Helden\nwartet, der seinen verstümmelten Körper mit\nWunsch und Wirklichkeit heilt.",
+        "Sein Körper erzeugt in seinem Inneren gewaltige\nMengen an Kälteenergie. Tritt diese jedoch aus,\ngefriert sein Körper.",
+        "Ein Legendäres Eis-Pokémon, das auf den Helden wartet, der\nseinen verstümmelten Körper mit Wunsch und Wirklichkeit heilt.",
+        "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an\nKälteenergie. Tritt diese jedoch aus, gefriert sein Körper.",
+        "Seine Kraft übertrifft die von Reshiram und\nZekrom, doch sie wird durch die extreme Kälte,\ndie in seinem Körper herrscht, versiegelt.",
+        "Es erzeugt Kälteenergie, mit der es seinen Körper\ngefroren hält. Damit verfolgt es offenbar das\nZiel, seine Zellstruktur zu stabilisieren."
+    ],
+    "height": 3.0,
+    "id": 646,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+    "name": "Kyurem",
+    "types": [
+        "Drache",
+        "Eis"
+    ],
+    "weight": 325.0
+}

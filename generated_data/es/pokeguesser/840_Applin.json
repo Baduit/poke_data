@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Habita durante toda su vida en el interior de una\nmanzana. Finge ser una fruta para protegerse de\nlos Pokémon pájaro, sus enemigos naturales.",
+        "Nada más nacer se refugia en una manzana, cuyo\ninterior va devorando a medida que crece. El\nsabor de la fruta determina la evolución."
+    ],
+    "height": 0.2,
+    "id": 840,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "name": "Applin",
+    "types": [
+        "Planta",
+        "Dragón"
+    ],
+    "weight": 0.5
+}

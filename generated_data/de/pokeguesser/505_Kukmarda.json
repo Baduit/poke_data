@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es kann mit einer körpereigenen Substanz seine\nAugen und seinen Torso aufleuchten lassen,\num Gegner zu erschrecken.",
+        "Bespuckt Gegner mit Kernen von Beeren aus\nseinen Backentaschen. Erspäht es einen Feind,\nrichtet es den Schweif auf.",
+        "Es kann mit einer körpereigenen Substanz seine Augen und\nseinen Torso aufleuchten lassen, um Gegner zu erschrecken.",
+        "Bespuckt Gegner mit Kernen von Beeren aus seinen\nBackentaschen. Erspäht es einen Feind, richtet es\nden Schweif auf."
+    ],
+    "height": 1.1,
+    "id": 505,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "name": "Kukmarda",
+    "types": [
+        "Normal"
+    ],
+    "weight": 27.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "This Pokémon snorts body fluids from its nose,\nblowing balloons to smash into its foes.\nIt’s famous for being a hard worker.",
+        "This Pokémon can control water bubbles. It\npractices diligently so it can learn to make\nbig bubbles.",
+        "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
+        "Popplio gets on top of its bouncy water balloons\nto jump higher. It’s quite the acrobatic fighter!",
+        "It creates special bouncy balloons to send at its\nopponents. When the balloons pop, the sheer\nforce of their bursting is what deals damage.",
+        "If Popplio want to create big, powerful balloons,\nthey must be persistent. It takes daily practice for\nthese Pokémon to develop their skills."
+    ],
+    "height": 0.4,
+    "id": 728,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "name": "Popplio",
+    "types": [
+        "Water"
+    ],
+    "weight": 7.5
+}

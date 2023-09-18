@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quando inizia a far freddo, i Ledyba si riuniscono\nda ogni luogo per scaldarsi tra loro.",
+        "Timidi, stanno sempre uniti. La traccia del liquido\nche esce dalle zampe mostra dove si trovano.",
+        "Dalla giuntura delle zampe col corpo Ledyba secerne\nun fluido aromatico usato per comunicare con i suoi simili.\nQuesto Pokémon comunica le sue sensazioni alterando\nl’odore del fluido.",
+        "Dalla giuntura delle zampe col corpo Ledyba secerne\nun fluido aromatico usato per comunicare con i suoi simili.\nQuesto Pokémon comunica le sue sensazioni alterando\nl’odore del fluido.",
+        "È molto timido e senza il suo gruppo si sente\nperso. Il motivo sul dorso è leggermente diverso\nin ciascun esemplare.",
+        "Secerne un fluido aromatico per comunicare con\ni suoi simili. Quando è arrabbiato, l’odore si fa\npungente.",
+        "Nel clima temperato di Alola, questo Pokémon\nestremamente sensibile al freddo è arzillo\ne pieno di vita.",
+        "È un Pokémon incredibilmente timido. Protegge\nil nido usando Riflesso assieme ai suoi simili."
+    ],
+    "height": 1.0,
+    "id": 165,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "name": "Ledyba",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 10.8
+}

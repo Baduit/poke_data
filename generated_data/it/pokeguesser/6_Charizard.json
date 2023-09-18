@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quando emette le sue lingue di fuoco, la fiamma\nrossa sulla punta della coda brucia più intensamente.",
+        "Grazie alle possenti ali può volare fino a 1400 m\nd’altezza. Sputa fuoco a una temperatura\nimpressionante.",
+        "Charizard solca i cieli in cerca di nemici molto forti.\nRiesce a emettere fiammate di un calore tale da fondere\nogni cosa. Tuttavia, non rivolge mai le sue micidiali lingue\ndi fuoco contro avversari più deboli di lui.",
+        "Charizard solca i cieli in cerca di nemici molto forti.\nRiesce a emettere fiammate di un calore tale da fondere\nogni cosa. Tuttavia, non rivolge mai le sue micidiali lingue\ndi fuoco contro avversari più deboli di lui.",
+        "Quando emette lingue di fuoco roventi\ndalla bocca, la fiamma rossa sulla punta\ndella coda brucia più intensamente.",
+        "Quando emette lingue di fuoco roventi\ndalla bocca, la fiamma rossa sulla punta\ndella coda brucia più intensamente.",
+        "Sputa fiamme incandescenti in grado di fondere\nle rocce. A volte causa incendi boschivi.",
+        "Grazie alle possenti ali può volare fino a\n1.400 m d’altezza. Le fiamme che sputa\npossono raggiungere temperature altissime."
+    ],
+    "height": 1.7,
+    "id": 6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "name": "Charizard",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 90.5
+}

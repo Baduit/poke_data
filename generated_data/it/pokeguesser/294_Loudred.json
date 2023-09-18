@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Leva potenti grida inspirando tanta aria e poi\nsparandola fuori con tutta la forza degli addominali.",
+        "Le onde d’urto dei suoi versi ribaltano anche i\ncamion. Pesta i piedi per accumulare energia.",
+        "I suoni assordanti emessi da Loudred sono in grado\ndi abbattere anche una casa in legno. La sua voce è\ncosì potente da poter essere usata come attacco contro\ni nemici. Le sue orecchie tonde fungono da altoparlanti.",
+        "Loudred urla pestando i piedi. Alla fine dei suoi strepiti è\ntemporaneamente incapace di udire qualsiasi rumore.\nQuesto è considerato il suo punto debole.",
+        "Le sue orecchie fungono da altoparlanti e sono\nin grado di emettere onde sonore talmente\npotenti da abbattere una casa.",
+        "Oltre a colpire l’udito, la sua potente voce\nproduce anche delle onde d’urto con le quali\nspazza via e danneggia i nemici."
+    ],
+    "height": 1.0,
+    "id": 294,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "name": "Loudred",
+    "types": [
+        "Normale"
+    ],
+    "weight": 40.5
+}

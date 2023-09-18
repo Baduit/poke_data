@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es ist erst satt, wenn es über 400 kg Nahrung am\nTag gefressen hat. Ist es mit dem Essen fertig,\nschläft es sofort ein.",
+        "Sein Magen kann jede Art von Nahrung verdauen,\nselbst wenn sie verschimmelt und verdorben ist.",
+        "Der typische Tagesablauf von Relaxo besteht lediglich aus\nEssen und Schlafen. Es ist so zutraulich, dass Kinder seinen\ndicken Bauch als Platz zum Spielen nutzen.",
+        "Der typische Tagesablauf von Relaxo besteht lediglich aus\nEssen und Schlafen. Es ist so zutraulich, dass Kinder seinen\ndicken Bauch als Platz zum Spielen nutzen.",
+        "Es heißt, sein Magen sei an Widerstandsfähigkeit\nnicht zu übertreffen. Für Relaxo ist selbst das\nGift eines Sleimok nicht mehr als ein Würzstoff.",
+        "Es nimmt jeden Tag 400 kg an Nahrung zu sich.\nEs schläft beim Essen ein und frisst selbst im\nSchlaf noch weiter.",
+        "Wenn es nicht gerade frisst, dann schläft es.\nMacht es aber einmal Ernst, ist Schluss mit\nlustig.",
+        "Bei ihm geht es immer nur ums Fressen. Macht\nman es sich auf seinem Bauch bequem, während\nes döst, ist es ihm daher egal.",
+        "Relaxo verschlingt sogar Nahrung, auf der sich\netwas Schimmel gebildet hat. Trotzdem verdirbt\nes sich nie den Magen.",
+        "Relaxo verschlingt sogar Nahrung, auf der sich\netwas Schimmel gebildet hat. Trotzdem verdirbt\nes sich nie den Magen.",
+        "Es muss über 400 kg Nahrung am Tag fressen,\num satt zu werden. Ist es mit dem Essen fertig,\nschläft es sofort ein.",
+        "Der Magen dieses Pokémon ist so resistent,\ndass es sogar Verschimmeltes oder Verdorbenes\nessen kann."
+    ],
+    "height": 2.1,
+    "id": 143,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "name": "Relaxo",
+    "types": [
+        "Normal"
+    ],
+    "weight": 460.0
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "La vue de son pendule oscillant\nendort en trois secondes, même\nquand on vient de se réveiller.",
+        "La vue de son pendule oscillant\nendort en trois secondes, même\nquand on vient de se réveiller.",
+        "Il transporte toujours un petit pendule. On raconte\nqu’il aurait un jour enlevé un enfant après l’avoir\nhypnotisé.",
+        "La vue de son pendule oscillant endort en trois\nsecondes, même quand on vient de se réveiller.",
+        "Hypnomade tient un pendule dans sa main. Le mouvement\nde balancier et les reflets brillants du pendule hypnotisent\nprofondément son ennemi. Lorsque ce Pokémon cherche\nses proies, il nettoie son pendule.",
+        "Hypnomade tient un pendule dans sa main. Le mouvement\nde balancier et les reflets brillants du pendule hypnotisent\nprofondément son ennemi. Lorsque ce Pokémon cherche\nses proies, il nettoie son pendule.",
+        "Bien que ce soit un Pokémon extrêmement\ndangereux, les personnes victimes d’insomnie\nle considèrent comme un sauveur.",
+        "Quand il rencontre quelqu’un, il l’endort et goûte\nses rêves. S’ils ont bon goût, il emporte la\npersonne avec lui.",
+        "À Alola, les Hypnomade s’en prennent\nprincipalement aux Dodoala. Les humains\nn’ont donc pas grand-chose à craindre.",
+        "Certains Hypnomade travaillent comme\nassistants dans les cliniques visant à guérir\nles patients de leurs insomnies.",
+        "Évitez son regard quand vous en croisez un,\nou il pourrait essayer de vous hypnotiser\navec son pendule.",
+        "Évitez son regard quand vous en croisez un,\nou il pourrait essayer de vous hypnotiser\navec son pendule."
+    ],
+    "height": 1.6,
+    "id": 97,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "name": "Hypnomade",
+    "types": [
+        "Psy"
+    ],
+    "weight": 75.6
+}

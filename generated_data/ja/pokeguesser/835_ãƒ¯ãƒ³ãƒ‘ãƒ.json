@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "走る　ときに　しっぽの　根元から\n電気を　生み出す。　ガラルでは\n牧羊犬として　人気。",
+        "おやつに　釣られて　人の　仕事を\n手伝う　食いしん坊。　パチパチと\n電気を　まとって　ひた走る。"
+    ],
+    "height": 0.3,
+    "id": 835,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "name": "ワンパチ",
+    "types": [
+        "でんき"
+    ],
+    "weight": 13.5
+}

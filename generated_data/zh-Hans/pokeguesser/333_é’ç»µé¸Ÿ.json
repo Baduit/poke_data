@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "像丝绵一样的翅膀中含有\n空气，触感蓬松。绝不会\n忽视对翅膀精细地保养。",
+        "看起来像是一团棉花云，因此\n不易被敌人发现。据说翅膀是\n随着世代演进逐渐变白的。"
+    ],
+    "height": 0.4,
+    "id": 333,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "name": "青绵鸟",
+    "types": [
+        "一般",
+        "飞行"
+    ],
+    "weight": 1.2
+}

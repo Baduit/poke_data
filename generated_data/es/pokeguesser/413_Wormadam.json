@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Su apariencia varía según dónde evolucione. Los\nmateriales que haya pasan a formar parte de su\ncuerpo.",
+        "Cuando Burmy evolucionó, su caparazón pasó a formar\nparte de este Pokémon.",
+        "Su apariencia varía según dónde evolucione. Los materiales\nque haya pasan a formar parte de su cuerpo.",
+        "Cuando Burmy evolucionó, su caparazón pasó a formar parte\nde este Pokémon."
+    ],
+    "height": 0.5,
+    "id": 413,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+    "name": "Wormadam",
+    "types": [
+        "Bicho",
+        "Planta"
+    ],
+    "weight": 6.5
+}

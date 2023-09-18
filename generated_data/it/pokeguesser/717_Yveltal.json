@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Quando le ali e le piume della coda di questo\nPokémon leggendario sono spiegate e di colore rosso\nacceso, può assorbire l’energia degli esseri viventi.",
+        "Secondo la leggenda, quando la sua lunga esistenza\ngiunge al termine, assorbe l’energia di tutti gli esseri\nviventi e si trasforma in un bozzolo.",
+        "Quando le ali e le piume della coda di questo Pokémon\nleggendario sono spiegate e di colore rosso acceso,\npuò assorbire l’energia degli esseri viventi.",
+        "Secondo la leggenda, quando la sua lunga esistenza giunge\nal termine, assorbe l’energia di tutti gli esseri viventi e si\ntrasforma in un bozzolo."
+    ],
+    "height": 5.8,
+    "id": 717,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "name": "Yveltal",
+    "types": [
+        "Buio",
+        "Volante"
+    ],
+    "weight": 203.0
+}

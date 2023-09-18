@@ -1,0 +1,34 @@
+{
+    "descriptions": [
+        "Its tail has a\nsmall brain of its\nown. Beware! If\fyou get close, it\nmay react to your\nscent and bite.",
+        "Its tail, which\nalso contains a\nsmall brain, may\fbite on its own if\nit notices an\nalluring smell.",
+        "When it is in\ndanger, its tail\nuses some sort of\fmysterious powers\nto drive away the\nenemy.",
+        "GIRAFARIG’s rear head also has a brain,\nbut it is small. The rear head attacks in\nresponse to smells and sounds.\fApproaching this POKéMON from behind\ncan cause the rear head to suddenly\nlash out and bite.",
+        "GIRAFARIG’s rear head contains a tiny\nbrain that is too small for thinking.\nHowever, the rear head doesn’t need to\fsleep, so it can keep watch over its\nsurroundings 24 hours a day.",
+        "A GIRAFARIG is an herbivore--it eats\ngrass and tree shoots. While it is eating,\nits tail makes chewing and swallowing\nmotions as if it were also eating.",
+        "Its tail, which also contains a small\nbrain, may bite on its own if it notices an\nalluring smell.",
+        "Its tail has a small brain of its own.\nBeware! If you get close, it may react\nto your scent and bite.",
+        "Its tail also has a small brain.\nIt bites to repel any foe trying\nto sneak up on it from behind.",
+        "While it sleeps, the head on its\ntail keeps watch. The tail doesn’t\nneed to sleep.",
+        "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward.",
+        "Its tail has a small brain of its\nown. Beware! If you get close, it\nmay react to your scent by biting.",
+        "Its tail, which also contains a\nsmall brain, may bite on its own if\nit notices an alluring smell.",
+        "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward.",
+        "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward.",
+        "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward.",
+        "The head on its tail contains a\nsmall brain. It can instinctively\nfight even while facing backward.",
+        "While it sleeps, the head on its tail keeps watch.\nThe tail doesn’t need to sleep.",
+        "Its tail has a small brain of its own. Beware! If you\nget close, it may react to your scent by biting.",
+        "Girafarig’s rear head also has a brain, but it is small. The rear\nhead attacks in response to smells and sounds. Approaching\nthis Pokémon from behind can cause the rear head to suddenly\nlash out and bite.",
+        "Girafarig’s rear head contains a tiny brain that is too small for\nthinking. However, the rear head doesn’t need to sleep, so it\ncan keep watch over its surroundings 24 hours a day."
+    ],
+    "height": 1.5,
+    "id": 203,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "name": "Girafarig",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "weight": 41.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "５００多年前被制造出的人造宝可梦。\n理解人类的语言但不会说。",
+        "机械结构的身体只是一个容器。\n被称为魂心的人造魂魄才是它的本体。",
+        "能够让意识同步，理解对方的心情。\n用来照料人的话是很方便的能力。",
+        "大约５００年前由科学家制作而成。\n被称为魂心的部分是它的本体。"
+    ],
+    "height": 1.0,
+    "id": 801,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+    "name": "玛机雅娜",
+    "types": [
+        "钢",
+        "妖精"
+    ],
+    "weight": 80.5
+}

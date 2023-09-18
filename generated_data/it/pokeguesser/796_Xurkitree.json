@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Una delle misteriose Ultracreature.\nÈ stata vista sprigionare scariche elettriche\nterrificanti da tutto il corpo.",
+        "Arrivato attraverso un Ultravarco, si ritiene che\nla sua fonte primaria di energia sia l’elettricità\ndato che ha attaccato una centrale elettrica.",
+        "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune.",
+        "Una delle cosiddette Ultracreature. Alcuni\nesemplari se ne stanno immobili con braccia\ne gambe piantate nel terreno come alberi."
+    ],
+    "height": 3.8,
+    "id": 796,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "name": "Xurkitree",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 100.0
+}

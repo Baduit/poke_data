@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es wurde in der Nähe eines Vulkans gefunden.\nDie Körpertemperatur dieses Feuerspuckers\nliegt bei fast 1 200 °C.",
+        "Es wurde bei einem Vulkanausbruch geboren.\nSein Körper ist von hellen Flammen umgeben.",
+        "Im Kampf stößt Magmar glühend heiße Flammen aus,\num seinen Gegner einzuschüchtern. Diese Feuersalven\nerzeugen Hitzewellen, die das Gras und die Bäume der\nUmgebung in Brand setzen.",
+        "Im Kampf stößt Magmar glühend heiße Flammen aus,\num seinen Gegner einzuschüchtern. Diese Feuersalven\nerzeugen Hitzewellen, die das Gras und die Bäume der\nUmgebung in Brand setzen.",
+        "Wenn es erschöpft ist, springt es in einen\nVulkankrater und entspannt sich in der Lava.\nSein brennender Körper ist 1 200 °C heiß.",
+        "Ist es wütend, stößt es glühend heiße Flammen\naus. Es hört damit erst auf, wenn von seinem\nGegner nur noch Asche übrig ist.",
+        "Mit seinem brennenden Körper und glühenden\nAtem heizt es seine Umgebung auf. Beim Niesen\nstößt es Flammen aus.",
+        "Je heißer die Umgebung, desto besser ist\nMagmar in Form. Im Vergleich zu anderen\nRegionen ist es in Alola besonders stark.",
+        "Magmar werden in Vulkankratern geboren.\nSie sehen aus wie Feuerbälle, da ihr ganzer\nKörper in Flammen gehüllt ist.",
+        "Magmar werden in Vulkankratern geboren.\nSie sehen aus wie Feuerbälle, da ihr ganzer\nKörper in Flammen gehüllt ist.",
+        "Magmar erlegt seine Beute mit Feuer. Manchmal\nröstet es diese zu seinem Bedauern so stark,\ndass sie versehentlich verkohlt.",
+        "Sein Körper ist ständig in Flammen gehüllt,\nwodurch es als eine Ursache von Bränden\ngefürchtet wird."
+    ],
+    "height": 1.3,
+    "id": 126,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "name": "Magmar",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 44.5
+}

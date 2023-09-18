@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "能改變體色，融入周圍的景色中。\n如果長時間不去理會牠，\n牠就會鬧彆扭而不肯現身。",
+        "就算是在不需要隱身的時候，\n體色也會隨心情和身體狀態而改變。\n顏色越濃代表牠越有活力。"
+    ],
+    "height": 1.0,
+    "id": 352,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "name": "變隱龍",
+    "types": [
+        "一般"
+    ],
+    "weight": 22.0
+}

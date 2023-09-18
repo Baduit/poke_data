@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "トゲの　たくさん　ついた　しっぽを\nあいてに　たたきつけて　こうげき。\nきしょうの　はげしい　ポケモン。",
+        "きしょうが　はげしく　トゲの　ついた\nしっぽを　ふりまわして　たたかう。\nあたまの　はっぱは　とても　にがい。",
+        "トゲの　たくさん　ついた　しっぽを\nあいてに　たたきつけて　こうげき。\nきしょうの　はげしい　ポケモン。",
+        "きしょうが　はげしく　トゲの　ついた\nしっぽを　ふりまわして　たたかう。\nあたまの　はっぱは　とても　にがい。"
+    ],
+    "height": 1.1,
+    "id": 512,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png",
+    "name": "ヤナッキー",
+    "types": [
+        "くさ"
+    ],
+    "weight": 30.5
+}

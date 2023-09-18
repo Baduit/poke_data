@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es lebt in warmen Meeren. Man sagt, dass Verliebte,\ndie es sehen, mit ewiger Liebe gesegnet sind.",
+        "Während der Laichzeit versammeln sich zahllose\nLiebiskus in den Korallenriffen. Daher erstrahlt\ndas Wasser rosa.",
+        "Liebiskus lebt in den seichten Gewässern der Tropen. Dieses\nherzförmige Pokémon verdankt seinen Namen der Tatsache,\ndass es hinter Liebespaaren herschwamm, die es in den Wellen\ndes Ozeans beobachtet hatte.",
+        "Liebiskus’ herzförmiger Körper ist ein Symbol der Liebe\nund der Romantik. Man sagt, jedem Paar, dem es begegnet,\nstünde eine unendliche Liebesbeziehung bevor.",
+        "Einsame Liebiskus verlieren den Lebensmut und\nvernachlässigen die Deckung. Diese Schwäche\nnutzen Pelipper, um sie sich zu schnappen.",
+        "Da Liebiskus besonders bei Pärchen beliebt\nsind, findet man sie oft in Swimmingpools von\nHotels für Frischvermählte.",
+        "Früher wurde es überfischt, weil man glaubte,\nder Besitz einer seiner herzförmigen Schuppen\nführe zu einer erfolgreichen Partnersuche.",
+        "Es lebt in den Korallenriffen warmer Meere und\nschläft besonders gern zwischen den Armen\nvon Corasonn."
+    ],
+    "height": 0.6,
+    "id": 370,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "name": "Liebiskus",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 8.7
+}

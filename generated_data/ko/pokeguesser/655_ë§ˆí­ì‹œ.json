@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "지팡이 끝의 타오르는 불꽃을\n바라보며 정신을 통일하면\n미래에 일어날 일을 내다볼 수 있다.",
+        "섭씨 3000도의 불꽃 소용돌이를\n초능력으로 조종한다.\n적을 소용돌이로 감싸 불태운다.",
+        "지팡이 끝의 타오르는 불꽃을\n바라보며 정신을 통일하면\n미래에 일어날 일을 내다볼 수 있다.",
+        "섭씨 3000도의 불꽃 소용돌이를\n초능력으로 조종한다.\n적을 소용돌이로 감싸 불태운다."
+    ],
+    "height": 1.5,
+    "id": 655,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+    "name": "마폭시",
+    "types": [
+        "불꽃",
+        "에스퍼"
+    ],
+    "weight": 39.0
+}

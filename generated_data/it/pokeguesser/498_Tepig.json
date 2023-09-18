@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Lancia palle di fuoco dal naso mentre evita abilmente\ngli attacchi del nemico. Mangia bacche che arrostisce\nlui stesso.",
+        "Adora mangiare le bacche arrostite, ma a volte si fa\nprendere la mano per l’eccitazione e le riduce in\ncenere.",
+        "Lancia palle di fuoco dal naso mentre evita abilmente\ngli attacchi del nemico. Mangia bacche che arrostisce\nlui stesso.",
+        "Adora mangiare le bacche arrostite, ma a volte si fa prendere\nla mano per l’eccitazione e le riduce in cenere."
+    ],
+    "height": 0.5,
+    "id": 498,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "name": "Tepig",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 9.9
+}

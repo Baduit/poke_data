@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Se è tanto arrabbiato da non riuscire più a distinguere\ngli amici dai nemici, è pericoloso avvicinarsi.",
+        "Vive in colonie sugli alberi. Se uno si adira, l’intera\ncolonia comincia ad agire violentemente senza motivo.",
+        "Quando Mankey inizia a tremare e la sua respirazione\nnasale diventa pesante significa che si sta infuriando.\nTuttavia, a causa dei suoi repentini attacchi d’ira,\nè impossibile per chiunque sfuggire alla sua furia.",
+        "Quando Mankey inizia a tremare e la sua respirazione\nnasale diventa pesante significa che si sta infuriando.\nTuttavia, a causa dei suoi repentini attacchi d’ira,\nè impossibile per chiunque sfuggire alla sua furia.",
+        "È soggetto ad attacchi di rabbia improvvisi e se\ntutti attorno a lui si dileguano, si arrabbia ancora\ndi più per la stizza di essere rimasto solo.",
+        "Quando si infuria si stanca così tanto che si\naddormenta, ma si arrabbia anche in sogno,\ne si risveglia ancora più arrabbiato.",
+        "Basta un nonnulla per farlo andare su tutte\nle furie. Tuttavia, non accumula stress e vive\nmolto a lungo.",
+        "Se uno di loro si arrabbia, si infuriano anche\ni Mankey che gli stanno intorno. Per questo\nnelle loro colonie non regna mai il silenzio.",
+        "Un Pokémon agile che vive sugli alberi.\nÈ molto irascibile e non esita ad attaccare\nchiunque gli capiti a tiro.",
+        "Un Pokémon agile che vive sugli alberi.\nÈ molto irascibile e non esita ad attaccare\nchiunque gli capiti a tiro."
+    ],
+    "height": 0.5,
+    "id": 56,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "name": "Mankey",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 28.0
+}

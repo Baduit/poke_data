@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "住在古老的洋楼里。\n诡异地摇晃手臂上的火焰，\n以此来催眠对手。",
+        "据说在用水晶灯火灵\n来充当照明设备的房子里，\n丧事会接连不断。"
+    ],
+    "height": 1.0,
+    "id": 609,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "name": "水晶灯火灵",
+    "types": [
+        "幽灵",
+        "火"
+    ],
+    "weight": 34.3
+}

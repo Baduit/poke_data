@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il suo enorme corpo di ghiaccio è duro come l’acciaio.\nAvanza distruggendo tutto ciò che gli si para davanti.",
+        "Ospita numerosi Bergmite sul suo dorso, come\nuna vera e propria portaerei di ghiaccio.",
+        "Il suo enorme corpo di ghiaccio è duro come l’acciaio.\nAvanza distruggendo tutto ciò che gli si para davanti.",
+        "Ospita numerosi Bergmite sul suo dorso, come una vera\ne propria portaerei di ghiaccio.",
+        "Nuota nei freddi mari polari ospitando numerosi\nBergmite sulla schiena e confondendosi tra\ngli iceberg.",
+        "Durante il giorno le crepe sul suo corpo\ndiventano più profonde, ma nel giro di una\nnotte si riempiono del tutto."
+    ],
+    "height": 2.0,
+    "id": 713,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "name": "Avalugg",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 505.0
+}

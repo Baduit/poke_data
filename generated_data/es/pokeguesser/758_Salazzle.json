@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Por algún motivo desconocido, solo hay\nhembras. Suele formarse su propio harén\ncompuesto por Salandit machos.",
+        "Su gas venenoso contiene numerosas feromonas.\nAl diluirlo es posible elaborar un perfume que\nresulta verdaderamente embriagador.",
+        "Vive en las profundidades de las cuevas.\nGracias a sus feromonas, atrae Salandit y los\nhace presas de su voluntad.",
+        "Castiga a los Salandit que no le traen caza\nabofeteándolos con sus ardientes zarpas.",
+        "Solo hay hembras. Gracias a sus feromonas,\natrae a los Salandit macho y los somete a su\nvoluntad.",
+        "Libran disputas con sus congéneres cuyo\nresultado, al parecer, se inclina por quien tenga\nun séquito de Salandit machos más numeroso."
+    ],
+    "height": 1.2,
+    "id": 758,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+    "name": "Salazzle",
+    "types": [
+        "Veneno",
+        "Fuego"
+    ],
+    "weight": 22.2
+}

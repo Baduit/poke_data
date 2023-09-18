@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sein aus weicher Seide bestehender Körper erhärtet\nmit der Zeit. Sobald Risse sichtbar sind, steht die\nEntwicklung kurz bevor.",
+        "Es vergisst keinen Angriff, den es im Kokon erdulden\nmusste. Nach der Entwicklung sinnt es auf Rache.",
+        "Panekon baut seinen schützenden Kokon, indem es seinen\nKörper mit feiner Seide einwickelt, die aus seinem Mund\naustritt. Wenn sein Körper mit Seide bedeckt ist, wird diese\nhart. Im Kokon wartet es auf seine Entwicklung.",
+        "Wenn es angegriffen wird, bewegt sich Panekon in\nkeiner Weise, egal, wie schwer es dabei verletzt wird.\nWenn es sich bewegen würde, wäre sein Körper zu\nschwach für seine Entwicklung. Die Schmerzen allerdings\nvergisst es nie."
+    ],
+    "height": 0.7,
+    "id": 268,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+    "name": "Panekon",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 11.5
+}

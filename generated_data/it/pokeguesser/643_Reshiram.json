@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Questo Pokémon leggendario può rendere il mondo\nun inferno di fiamme. Aiuta chi vuole costruire un\nmondo di verità.",
+        "Quando la sua coda brucia, il calore prodotto smuove\nl’aria provocando cambiamenti climatici in tutto il\nglobo.",
+        "Questo Pokémon leggendario può rendere il mondo un inferno\ndi fiamme. Aiuta chi vuole costruire un mondo di verità.",
+        "Quando la sua coda brucia, il calore prodotto smuove l’aria\nprovocando cambiamenti climatici in tutto il globo.",
+        "Solca i cieli come un jet emettendo fiamme\ndalla coda. Si dice che abbia la capacità\ndi ridurre in cenere il mondo intero.",
+        "Secondo le leggende, può incenerire un intero\npaese se i suoi abitanti oltraggiano la verità\ne sono accecati dalla cupidigia."
+    ],
+    "height": 3.2,
+    "id": 643,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "name": "Reshiram",
+    "types": [
+        "Drago",
+        "Fuoco"
+    ],
+    "weight": 330.0
+}

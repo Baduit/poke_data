@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Anziché camminare sulle sue corte zampe, preferisce\nrimbalzare sul suo corpo soffice e delicato.",
+        "Il suo corpo è morbidissimo. Se inizia a rotolare,\nrimbalza così forte che è impossibile fermarlo.",
+        "Le corde vocali di Igglybuff non sono sufficientemente\nsviluppate. Se eccede nel canto, gli viene il mal di gola.\nÈ solito fare i gargarismi con l’acqua corrente dei torrenti puri.",
+        "Igglybuff, così morbido e soffice, sembra fatto di gommapiuma\nrosa. Il suo corpo emana un lieve aroma che placa le emozioni\ne l’aggressività del nemico.",
+        "Gli piace molto cantare, ma è ancora inesperto.\nSe incoraggiato nel modo giusto, migliora\na poco a poco.",
+        "Si muove rimbalzando e quando suda molto\nemana un lieve aroma dolciastro.",
+        "Si allena continuamente nel canto per migliorare.\nAnche mentre dorme, continua a cantare\nin sogno.",
+        "Se lasciato fare, si allena nel canto senza sosta.\nOgni tanto è meglio fargli fare una pausa per\nevitare che si faccia male alla gola.",
+        "Adora cantare. Il suo corpo simile al\nmarshmallow emana una lieve e dolce fragranza.",
+        "Si sposta facendo rimbalzare il suo corpo\nmorbido. Quando la sua temperatura corporea\nsi alza, si colora di un rosa intenso."
+    ],
+    "height": 0.3,
+    "id": 174,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+    "name": "Igglybuff",
+    "types": [
+        "Normale",
+        "Folletto"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "애정 표현으로 코를\n부딪쳐 오지만 힘이 있기 때문에\n조심하지 않으면 날아가 버린다.",
+        "몸은 작지만 힘이 장사다.\n어른인 사람을 가볍게\n등에 태우고 걸어 다닌다.",
+        "강 근처에 수직으로 구멍을 파고 산다.\n사는 곳 가까이에 코의 표시를 남겨\n자신의 장소라고 동료에게 알리고 있다.",
+        "긴 코를 써서 물을 끼얹는다.\n동료가 모여들면 서로 물을 끼얹는다.\n흠뻑 젖은 몸을 물가에서 말린다."
+    ],
+    "height": 0.5,
+    "id": 231,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "name": "코코리",
+    "types": [
+        "땅"
+    ],
+    "weight": 33.5
+}

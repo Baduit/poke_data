@@ -1,0 +1,31 @@
+{
+    "descriptions": [
+        "It freely controls three small\nunits called Mini-Noses using\nmagnetic force.",
+        "It exudes strong magnetism from\nall over. It controls three small\nunits called Mini-Noses.",
+        "It exudes strong magnetism from\nall over. It controls three small\nunits called Mini-Noses.",
+        "It controls three units called Mini-Noses\nusing magnetic force. With them, it can\nattack the foe from three directions.",
+        "It controls three units called Mini-Noses\nusing magnetic force. With them, it can\nattack the foe from three directions.",
+        "It freely controls three small\nunits called Mini-Noses using\nmagnetic force.",
+        "It freely controls three small\nunits called Mini-Noses using\nmagnetic force.",
+        "It freely controls three units\ncalled Mini-Noses using\nmagnetic force.",
+        "It freely controls three units\ncalled Mini-Noses using\nmagnetic force.",
+        "It exudes strong magnetism from all over.\nIt controls three small units called Mini-Noses.",
+        "It freely controls three small units called Mini-Noses\nusing magnetic force.",
+        "It exudes strong magnetism from all over.\nIt controls three small units called Mini-Noses.",
+        "It freely controls three small units called Mini-Noses\nusing magnetic force.",
+        "It radiates such a powerful magnetic field that\nnearby electrical appliances become unusable.",
+        "The main body controls three mobile units called\nMini-Noses, which it maneuvers to catch prey.",
+        "Although it can control its units known as\nMini-Noses, they sometimes get lost and don’t\ncome back.",
+        "It uses three small units to catch prey and\nbattle enemies. The main body mostly just\ngives orders.",
+        "It is able to emit powerful magnetism, allowing it control over\nthe iron sand that forms its luscious mustache. Using this iron\nsand, Probopass forms hard stones with which it smites its prey."
+    ],
+    "height": 1.4,
+    "id": 476,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "name": "Probopass",
+    "types": [
+        "Rock",
+        "Steel"
+    ],
+    "weight": 340.0
+}

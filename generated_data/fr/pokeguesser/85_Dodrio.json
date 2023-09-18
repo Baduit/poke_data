@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quand Doduo connaît cette étrange\névolution, l’une de ses têtes se\ndédouble. Il atteint les 60 km/h.",
+        "Quand Doduo connaît cette étrange\névolution, l’une de ses têtes se\ndédouble. Il atteint les 60 km/h.",
+        "Un ennemi ne faisant pas attention à l’une des trois\ntêtes pendant une seconde se fait picorer.",
+        "Une espèce étrange que l’on trouve rarement.\nLes trois têtes représentent la joie, la tristesse et\nla colère.",
+        "Il faut se méfier lorsque les trois têtes de Dodrio regardent\ndans des directions différentes. Cela signifie qu’il est sur ses\ngardes. Si c’est le cas, il vaut mieux ne pas s’approcher de ce\nPokémon, il pourrait décider d’attaquer.",
+        "Apparemment, Dodrio ne se contente pas d’avoir trois têtes.\nIl semble également avoir trois cœurs et six poumons,\nce qui lui permet de courir très longtemps sans s’épuiser.",
+        "Quand une des têtes de Doduo se divise,\nil devient un Dodrio capable de courir à\n60 km/h.",
+        "Quand une des têtes de Doduo se divise,\nil devient un Dodrio capable de courir à\n60 km/h."
+    ],
+    "height": 1.8,
+    "id": 85,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "name": "Dodrio",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 85.2
+}

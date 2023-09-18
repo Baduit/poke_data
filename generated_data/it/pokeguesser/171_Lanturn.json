@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "La sua luce è visibile anche quando si trova in\nprofondità. È soprannominato “Stella degli abissi”.",
+        "Acceca la preda con un’intensa ondata di luce,\nimmobilizzandola, per poi ingoiarla in un sol boccone.",
+        "Lanturn è detto anche “Stella degli abissi” per la sua\nantenna-lanterna. Genera la luce grazie a una reazione\nchimica tra i batteri e i fluidi corporei all’interno\ndell’antenna stessa.",
+        "Lanturn emette una luce intensa. Osservando il mare da\nun’imbarcazione, di notte, è possibile scorgere la sua luce\nrisalire dagli abissi dov’è solito nuotare. Il mare assume\nl’aspetto d’un cielo stellato.",
+        "Quando sulla superficie del mare si vede brillare\nuna luce che sembra una stella, si tratta di\nun Lanturn.",
+        "Acceca la preda con una luce intensa per poi\nattaccarla immediatamente con una scossa\nelettrica.",
+        "Quando i batteri nelle antenne di Lanturn\nassimilano i suoi fluidi corporei, scatenano una\nreazione che sprigiona una forte luce.",
+        "Vive negli abissi più remoti. Abbaglia la preda\ncon la sua luce e approfitta del suo stordimento\nper ingoiarla in un sol boccone.",
+        "Emette una luce così intensa da illuminare la\nsuperficie del mare da oltre 5 km di profondità.",
+        "Acceca la preda con una luce intensa per poi\nattaccarla immediatamente con una scossa\nelettrica."
+    ],
+    "height": 1.2,
+    "id": 171,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "name": "Lanturn",
+    "types": [
+        "Acqua",
+        "Elettro"
+    ],
+    "weight": 22.5
+}

@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il suo corpo sottile è fatto di gas. Avvolge nemici\ndi ogni dimensione, soffocandoli.",
+        "Generato da sostanze gassose, fa perdere i sensi a\nchiunque respiri i gas tossici di cui è costituito.",
+        "Gastly è composto prevalentemente di sostanze gassose.\nSe esposto al vento forte il suo corpo gassoso si disperde\nsubito. Gruppi di questi Pokémon si radunano sotto\ni cornicioni per ripararsi dal vento.",
+        "Gastly è composto prevalentemente di sostanze gassose.\nSe esposto al vento forte il suo corpo gassoso si disperde\nsubito. Gruppi di questi Pokémon si radunano sotto\ni cornicioni per ripararsi dal vento.",
+        "Gli strani bagliori che a volte si scorgono negli\nedifici abbandonati potrebbero indicare la\npresenza di Gastly.",
+        "È molto difficile scorgere la sua sagoma,\nma è facilmente riconoscibile per via dell’odore\nvagamente dolciastro che emana.",
+        "Si dice che questo Pokémon sia nato quando\ni gas esalati da un cimitero sono stati\nanimati da un sentimento di rancore.",
+        "Il 95% del suo corpo è composto da gas tossici.\nSi dice che la percentuale restante sia l’anima\ndi qualcuno morto intossicato.",
+        "Si dice che appaia nelle case diroccate\ne abbandonate. Il suo corpo sembra fatto\ndi gas e non ha una forma definita.",
+        "Si dice che appaia nelle case diroccate\ne abbandonate. Il suo corpo sembra fatto\ndi gas e non ha una forma definita.",
+        "Generato da sostanze gassose, fa perdere i sensi\na chiunque respiri i gas tossici di cui è costituito.",
+        "Il suo corpo gassoso può infilarsi ovunque, ma\nun colpo di vento lo può spazzare via."
+    ],
+    "height": 1.3,
+    "id": 92,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "name": "Gastly",
+    "types": [
+        "Spettro",
+        "Veleno"
+    ],
+    "weight": 0.1
+}

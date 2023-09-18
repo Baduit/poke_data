@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Da es sich im Schatten verbergen und so für\nmenschliche Augen unsichtbar werden kann,\nwar seine Existenz lange bezweifelt worden.",
+        "Es verschmilzt mit dem Schatten seiner Gegner\nund kopiert deren Bewegungen und Kräfte.\nEs ist ein feiges und schwaches Pokémon.",
+        "Schlüpft es in den Schatten seines Gegners, um\ndessen Bewegungen und Kräfte zu imitieren,\nkann es sogar stärker als das Original werden.",
+        "Es verschmilzt mit den Schatten von Menschen\nund Pokémon, wodurch es ihre Gefühle\nverstehen und ihre Fähigkeiten kopieren kann.",
+        "Es schlüpfte in den Schatten eines Meisters des\nFaustkampfes und imitierte dessen Bewegungen.\nSo lernte es ultimative Geheimtechniken.",
+        "Da es in der Lage ist, mit jedem Schatten zu\nverschmelzen, ist es lange Zeit unentdeckt\ngeblieben."
+    ],
+    "height": 0.7,
+    "id": 802,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "name": "Marshadow",
+    "types": [
+        "Kampf",
+        "Geist"
+    ],
+    "weight": 22.2
+}

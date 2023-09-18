@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Diventa attivo di notte, quando va a caccia di\nprede stremate dalla calura del deserto.",
+        "Gruppi di Cacturne nel deserto braccano i passanti\nfinché questi, spossati, non si muovono più.",
+        "Di giorno Cacturne rimane immobile in modo da non perdere\nneanche una goccia d’acqua al sole cocente del deserto.\nIl Pokémon si desta di notte quando cala la temperatura.",
+        "Se un viaggiatore passa attraverso il deserto nella notte\ntenebrosa, un gruppo scomposto di Cacturne lo segue.\nPoi attende pazientemente che il malcapitato sia esausto\ne incapace di muoversi."
+    ],
+    "height": 1.3,
+    "id": 332,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "name": "Cacturne",
+    "types": [
+        "Erba",
+        "Buio"
+    ],
+    "weight": 77.4
+}

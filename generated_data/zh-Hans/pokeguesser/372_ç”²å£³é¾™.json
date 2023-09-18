@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "细胞在壳中\n以爆发般的速度变化，\n为进化做准备。",
+        "一动不动地潜伏在洞穴深处，\n不吃也不喝。\n不知为何不会死掉。",
+        "体内的细胞正处于千变万化的时期。\n坚硬的壳与骨头的成分相同。",
+        "栖息在洞窟的深处，\n躲在坚硬的外壳里，\n梦想着飞上天空的那一天。",
+        "覆盖着身体的硬壳\n成分和骨头相同。\n正在储备进化的能量。",
+        "可以不吃食物忍受饥饿。\n据说当它用尽积蓄的能量后，\n就会开始进化。"
+    ],
+    "height": 1.1,
+    "id": 372,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "name": "甲壳龙",
+    "types": [
+        "龙"
+    ],
+    "weight": 110.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Protettore di Mele Mele, è un Pokémon dalla\nvivace curiosità. Attira a sé le nuvole\ntemporalesche per assorbirne la carica elettrica.",
+        "Confonde i nemici con i suoi spostamenti\nimprovvisi. È tremendamente irascibile, ma\nquando si arrabbia si scorda subito il perché.",
+        "È considerato un nume protettore ma, se si\noffende, monta su tutte le furie e non esita\nad attaccare Pokémon ed esseri umani.",
+        "Protettore di Mele Mele, è in grado di controllare\ni fulmini. La sua grande curiosità a volte lo\nspinge a mostrarsi agli esseri umani."
+    ],
+    "height": 1.8,
+    "id": 785,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "name": "Tapu Koko",
+    "types": [
+        "Elettro",
+        "Folletto"
+    ],
+    "weight": 20.5
+}

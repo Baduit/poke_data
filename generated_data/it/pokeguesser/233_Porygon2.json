@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Ricerche avanzate hanno potenziato le sue capacità.\nOra può fare movimenti che non erano programmati.",
+        "Gli è stato installato un programma di sviluppo\nplanetario che lo rende capace di lavorare nello\nspazio.",
+        "Porygon2 è una creatura artificiale frutto del sapere scientifico.\nQuesto Pokémon è dotato di un’intelligenza artificiale che\ngli consente d’imparare autonomamente nuovi comportamenti\ned emozioni.",
+        "Porygon2 è una creatura artificiale frutto del sapere scientifico.\nQuesto Pokémon è dotato di un’intelligenza artificiale che\ngli consente d’imparare autonomamente nuovi comportamenti\ned emozioni.",
+        "È stato creato aggiornando Porygon con la\ntecnologia più avanzata per l’epoca, in vista\ndi un progetto di sviluppo planetario.",
+        "È nato da un potenziamento di Porygon per un\nprogetto di esplorazione di altri pianeti che\nperò non ha avuto successo.",
+        "Dotato di intelligenza artificiale, è in grado di\nimparare autonomamente molte cose... anche\nquelle che non dovrebbe!",
+        "Sopravvive anche nello spazio, ma non è in\ngrado di muoversi agevolmente a causa\ndell’assenza di gravità.",
+        "È un Porygon aggiornato con dei dati particolari.\nCresce imparando autonomamente svariate cose.",
+        "Dopo essere stati dotati d’intelligenza artificiale,\ni Porygon2 hanno cominciato a parlare fra di loro\nutilizzando una lingua misteriosa."
+    ],
+    "height": 0.6,
+    "id": 233,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+    "name": "Porygon2",
+    "types": [
+        "Normale"
+    ],
+    "weight": 32.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Its actual appearance is unknown. A scholar\nwho saw what was under its rag was\noverwhelmed by terror and died from the shock.",
+        "A lonely Pokémon, it conceals its terrifying\nappearance beneath an old rag so it can get\ncloser to people and other Pokémon.",
+        "Although it’s a quiet, lonely Pokémon, if you try\nto look at what’s under its rag, it will become\nagitated and resist violently.",
+        "A gust of wind revealed what hides under this\nPokémon’s rag to a passing Trainer, who went\nhome and died painfully that very night.",
+        "It wears a rag fashioned into a Pikachu costume\nin an effort to look less scary. Unfortunately,\nthe costume only makes it creepier.",
+        "There was a scientist who peeked under\nMimikyu’s old rag in the name of research.\nThe scientist died of a mysterious disease."
+    ],
+    "height": 0.2,
+    "id": 778,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "name": "Mimikyu",
+    "types": [
+        "Ghost",
+        "Fairy"
+    ],
+    "weight": 0.7
+}

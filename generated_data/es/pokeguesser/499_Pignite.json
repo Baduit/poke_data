@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Cuanto más come, más combustible tiene en su interior\npara avivar sus llamas, con lo que también aumenta su\npoder.",
+        "Cuando las llamas de su interior se avivan, aumenta su\nvelocidad y agilidad. Emite humo si está en peligro.",
+        "Cuanto más come, más combustible tiene en su interior para\navivar sus llamas, con lo que también aumenta su poder.",
+        "Cuando las llamas de su interior se avivan, aumenta su\nvelocidad y agilidad. Emite humo si está en peligro."
+    ],
+    "height": 1.0,
+    "id": 499,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "name": "Pignite",
+    "types": [
+        "Fuego",
+        "Lucha"
+    ],
+    "weight": 55.5
+}

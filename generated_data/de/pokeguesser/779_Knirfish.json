@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Wenn es über den Fortsatz an seinem Kopf\nPsycho-Kräfte freisetzt, ertönt in seiner\nUmgebung ein unangenehmes Zähneknirschen.",
+        "Es lähmt seine Beute mit Psycho-Kräften und\nzerkaut sie mit seinen kräftigen Zähnen. Auch\ndie Schale von Muschas knackt es problemlos.",
+        "Es vergräbt sich im Sand und setzt über den\nFortsatz an seinem Kopf Psycho-Kräfte frei. So\nscannt es die Gegend ab und wartet auf Beute.",
+        "Seine Haut ist so hart, dass selbst die Nadeln\neines Garstella sie nicht durchdringen. Mit\nseinen kräftigen Zähnen zerkaut es sie einfach."
+    ],
+    "height": 0.9,
+    "id": 779,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "name": "Knirfish",
+    "types": [
+        "Wasser",
+        "Psycho"
+    ],
+    "weight": 19.0
+}

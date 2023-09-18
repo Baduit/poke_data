@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Stabilisce il suo territorio nelle grandi paludi. Se\nil nemico gli si accosta, provoca un terremoto.",
+        "Nidifica nel letto delle paludi. È in grado di mangiare\nqualsiasi essere vivente.",
+        "Whiscash è estremamente legato all’area in cui vive e\ndelimita laghi enormi come proprio territorio. All’avvicinarsi\ndi un nemico, s’infuria scatenando terribili terremoti.",
+        "Se Whiscash si infuria, è in grado di scatenare una specie\ndi terremoto del raggio di 5 km. Inoltre ha la capacità di\nprevedere i terremoti reali.",
+        "Incredibilmente vorace, mangia qualunque\nessere vivente. Attende immobile le prede\nsul fondo delle paludi.",
+        "Si dice che se si vedono gruppi di Whiscash\nsaltare fuori dall’acqua sia segno di un\nterremoto imminente.",
+        "Intimorisce il nemico scatenando una specie di\nterremoto. Si nutre sul fondo delle paludi e\ninghiotte prede e fango insieme.",
+        "Poiché la sua vista non è molto sviluppata,\nindividua la posizione della preda percependo\nle vibrazioni dell’acqua con i baffi.",
+        "Nidifica nel letto delle paludi. Incredibilmente\nvorace, mangia qualunque essere vivente senza\ndistinzione di sorta.",
+        "Stabilisce il suo territorio nelle grandi paludi.\nSe un nemico si avvicina, si scatena provocando\ngrossi terremoti."
+    ],
+    "height": 0.9,
+    "id": 340,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "name": "Whiscash",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 23.6
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "能從刺的尖端放電。\n會用銳利的牙齒刮取\n附在岩石上的海藻來吃。",
+        "每根刺裡都儲存著電力。\n即使是折斷的刺也至少\n能持續放電３小時。"
+    ],
+    "height": 0.3,
+    "id": 871,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "name": "啪嚓海膽",
+    "types": [
+        "電"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Ha costantemente fame. Si nutre dei semi che\ntiene nelle sue tasche per produrre elettricità.",
+        "Indipendentemente da quanto mangia, è sempre\naffamato. Tiene molto ai semi che ha arrostito\ncon l’elettricità e li porta sempre con sé."
+    ],
+    "height": 0.3,
+    "id": 877,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+    "name": "Morpeko",
+    "types": [
+        "Elettro",
+        "Buio"
+    ],
+    "weight": 3.0
+}

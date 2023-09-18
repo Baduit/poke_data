@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Nel mondo ne esistono diverse varietà che si\ndifferenziano per i motivi sulle ali. Sembra che\nquesti dipendano dal clima del loro habitat.",
+        "I motivi sulle sue ali cambiano a seconda della zona\ne del clima in cui vive. Dal suo corpo si staccano\nscaglie dai colori vivaci.",
+        "Nel mondo ne esistono diverse varietà che si differenziano\nper i motivi sulle ali. Sembra che questi dipendano dal clima\ndel loro habitat.",
+        "I motivi sulle sue ali cambiano a seconda della zona e del\nclima in cui vive. Dal suo corpo si staccano scaglie dai\ncolori vivaci."
+    ],
+    "height": 1.2,
+    "id": 666,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
+    "name": "Vivillon",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 17.0
+}

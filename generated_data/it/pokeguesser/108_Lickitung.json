@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "La lunga lingua intrisa di saliva appiccicosa si\nattacca agli oggetti e può diventare molto utile.",
+        "La sua lingua è lunga il doppio del corpo. La usa\ncome un braccio per afferrare cibo e attaccare.",
+        "Quando Lickitung si trova di fronte a qualcosa di nuovo,\nistintivamente lo assaggia con una leccata.\nÈ dotato infatti di una memoria legata al gusto e alla\nconsistenza degli oggetti. Non ama i sapori aspri.",
+        "Quando Lickitung si trova di fronte a qualcosa di nuovo,\nistintivamente lo assaggia con una leccata.\nÈ dotato infatti di una memoria legata al gusto e alla\nconsistenza degli oggetti. Non ama i sapori aspri.",
+        "Esamina tutto ciò che lo circonda con la sua\nlunga lingua. Le parti leccate, se trascurate,\npossono sviluppare irritazioni.",
+        "Rimuove lo sporco leccandolo via, ma gli oggetti\nleccati emanano un cattivo odore che fa\ndubitare dell’efficacia della pulizia.",
+        "Ha una lingua lunga circa 2 m, che può muovere\ncon più scioltezza rispetto alle sue zampe\nanteriori. Le sue leccate paralizzano.",
+        "Ha una lingua lunga circa 2 m, che può muovere\ncon più scioltezza rispetto alle sue zampe\nanteriori. Le sue leccate paralizzano.",
+        "La sua saliva appiccicosa provoca un prurito\nterribile che non dà tregua se le parti leccate\nnon vengono ripulite.",
+        "Si nutre principalmente di Pokémon Coleottero.\nParalizza le prede leccandole con la lunga lingua\ne le inghiotte in un boccone."
+    ],
+    "height": 1.2,
+    "id": 108,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "name": "Lickitung",
+    "types": [
+        "Normale"
+    ],
+    "weight": 65.5
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "No puede volar porque sus alas son muy pequeñas.\nCuando va a evolucionar, se deshace de su calavera.",
+        "Sus pequeñas alas no le permiten volar. Usa una\ncalavera que le dio Mandibuzz para proteger sus\nposaderas.",
+        "No puede volar porque sus alas son muy pequeñas. Cuando\nva a evolucionar, se deshace de su calavera.",
+        "Sus pequeñas alas no le permiten volar. Usa una calavera que\nle dio Mandibuzz para proteger sus posaderas.",
+        "Protege sus posaderas blanduzcas con los\nhuesos de las presas que ha devorado. A\nmedida que crece se ve obligado a cambiarlos.",
+        "Todavía está en su más tierna infancia. Como\nsus alas aún no se han desarrollado del todo,\nse desplaza dando saltos.",
+        "El cráneo que usa de protección es regalo de un\nMandibuzz. Como sus alas son muy cortas para\nvolar, da brincos soñando que vuela por el cielo.",
+        "Demuestra un voraz apetito y aumenta de\ntamaño a vista de ojo. Su continuo crecimiento\nle obliga a cambiar varias veces de cráneo.",
+        "Usa una calavera para proteger sus posaderas.\nA menudo pelea con sus congéneres para\nhacerse con la más cómoda.",
+        "Deja en el nido las calaveras que va descartando\na medida que crece con celeridad para que las\nreutilicen futuras generaciones."
+    ],
+    "height": 0.5,
+    "id": 629,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+    "name": "Vullaby",
+    "types": [
+        "Siniestro",
+        "Volador"
+    ],
+    "weight": 9.0
+}

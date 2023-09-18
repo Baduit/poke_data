@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Los giros de su enorme ancla son capaces de\nnoquear al mismísimo Wailord de un solo golpe.\nEl alga verde es su verdadero cuerpo.",
+        "Es la reencarnación del espíritu de las algas que\nflotan a la deriva. Protege su cuerpo acoplando\na las algas los desperdicios que halla en el mar.",
+        "Envuelve a sus víctimas con su alga verde y les\nabsorbe la vitalidad. Se deleita en cazar solo\npresas de gran tamaño, como Wailord.",
+        "Su alga verde se extiende en forma de cadena\nvarios cientos de metros. Por algún motivo, se\nlleva bien con Skrelp.",
+        "Este Pokémon de tipo Fantasma no es sino la\nreencarnación de las algas que flotan a la deriva\ny arrastran consigo vestigios de barcos hundidos.",
+        "Acecha a su presa hundiendo el ancla en el mar.\nEs capaz de drenar la vitalidad incluso de presas\ndel tamaño de un Wailord."
+    ],
+    "height": 3.9,
+    "id": 781,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+    "name": "Dhelmise",
+    "types": [
+        "Fantasma",
+        "Planta"
+    ],
+    "weight": 210.0
+}

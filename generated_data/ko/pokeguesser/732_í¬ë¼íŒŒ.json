@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "먹은 나무열매 씨앗을 부리에\n저장한다. 적이나 먹이와\n마주치면 한 번에 발사한다.",
+        "부리를 젖혀서 여러 가지\n소리로 운다. 꽤 시끄러워서\n인근에 미움을 산다.",
+        "부리의 끝을 뒤로 젖혀\n100가지 이상의 울음소리를\n자유롭게 낼 수 있다.",
+        "먹은 나무열매의 씨를 부리에서\n발사한다. 씨는 대지에 흩어져서\n새로운 풀과 나무가 자라난다."
+    ],
+    "height": 0.6,
+    "id": 732,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "name": "크라파",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 14.8
+}

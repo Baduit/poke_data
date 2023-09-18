@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Pokémon che vive sugli iceberg. Nuota spaccando\nil ghiaccio con la punta che ha sulla testa.",
+        "Sotto la pelliccia azzurra ha una pelle spessa e dura.\nPuò resistere a una temperatura di -40 °C.",
+        "Seel caccia le prede nel mare gelido sotto le lastre\ndi ghiaccio. Per respirare apre un foro nel ghiaccio\nusando la protuberanza appuntita sulla sommità del capo.",
+        "Seel caccia le prede nel mare gelido sotto le lastre\ndi ghiaccio. Per respirare apre un foro nel ghiaccio\nusando la protuberanza appuntita sulla sommità del capo.",
+        "Finora si pensava che i Seel potessero vivere\nsolo nei mari gelidi, pertanto la loro comparsa\nad Alola è alquanto misteriosa.",
+        "Grazie al suo spesso strato di grasso nuota\ntranquillamente nell’acqua gelida. Nei mari\ncaldi rischia facilmente lo sfinimento.",
+        "Adora gli ambienti gelidi. Nuota con piacere\nnell’acqua a temperature di circa -10 ºC.",
+        "Adora gli ambienti gelidi. Nuota con piacere\nnell’acqua a temperature di circa -10 ºC."
+    ],
+    "height": 1.1,
+    "id": 86,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "name": "Seel",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 90.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es wetzt seine ständig wachsenden Zähne an\nharten Dingen. Es kann Wände aus Beton zernagen.",
+        "Auf der Suche nach Nahrung kann es mit den\nSchwimmhäuten an seinen Hinterbeinen\nFlüsse durchqueren.",
+        "Rattikarls kräftige Zähne wachsen ständig. Deshalb nagt es\nunablässig Steine und Baumstämme an, um sie abzuwetzen.\nManchmal knabbert es sogar Hauswände an.",
+        "Rattikarls kräftige Zähne wachsen immer nach. Deshalb nagt\nes ständig Steine und Baumstämme an. Manchmal knabbert es\nsogar Hauswände an.",
+        "Ein guter Schwimmer. An seinen Hinterläufen\nhat es Schwimmhäute, mit denen es Flüsse\nund manchmal sogar Meere durchquert.",
+        "Es ist aggressiver, als sein Äußeres vermuten\nlässt. Hält man einen Finger vor sein Gesicht,\nmuss man damit rechnen, dass es hineinbeißt.",
+        "Auf der Flucht vor seinen Feinden nutzt es die\nSchwimmhäute an seinen Hinterläufen, um von\nInsel zu Insel zu schwimmen.",
+        "Mit seinen Barthaaren hält es die Balance.\nBerührt man sie, wird es wütend und beißt zu,\negal, wie zutraulich es auch sein mag.",
+        "Die Hinterbeine dieses Pokémon verfügen über\nkleine Schwimmhäute. So kann es in Flüssen\njagen.",
+        "Die Hinterbeine dieses Pokémon verfügen über\nkleine Schwimmhäute. So kann es in Flüssen\njagen."
+    ],
+    "height": 0.7,
+    "id": 20,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "name": "Rattikarl",
+    "types": [
+        "Normal"
+    ],
+    "weight": 18.5
+}

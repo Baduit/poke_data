@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Encaissant les attaques, il vient\ntoucher l’ennemi de ses queues\net lui inflige une forte décharge.",
+        "Encaissant les attaques, il vient\ntoucher l’ennemi de ses queues\net lui inflige une forte décharge.",
+        "Des étincelles bleuâtres jaillissent entre ses 2 cornes\nquand il accumule beaucoup d’électricité.",
+        "Il place le bout de ses deux queues sur son ennemi\net libère une décharge de 20 000 V.",
+        "Des étincelles bleuâtres jaillissent entre ses 2 cornes\nquand il accumule beaucoup d’électricité.",
+        "Il place le bout de ses deux queues sur son ennemi et libère\nune décharge de 20 000 V.",
+        "Il connecte le bout de sa queue à son ennemi\net libère une violente décharge. L’ennemi est\ninstantanément grillé.",
+        "Quand il est excité, il se frappe violemment la\npoitrine de ses poings. Cela fait des étincelles\nélectriques et un vrai roulement de tonnerre.",
+        "Il tient fermement le bout de sa queue pour\ncharger son poing d’électricité, puis martèle\nses ennemis de coups dévastateurs.",
+        "Il suffit d’un seul Élekable pour alimenter tous\nles bâtiments d’une métropole pendant un an.",
+        "La quantité d’électricité qu’il génère est\nproportionnelle à son pouls. Quand il livre\nun combat, son voltage augmente aussitôt.",
+        "La quantité d’électricité qu’il génère est énorme,\nmême pour un Pokémon Électrik. Il inflige de\nfortes décharges du bout de ses queues."
+    ],
+    "height": 1.8,
+    "id": 466,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "name": "Élekable",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 138.6
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Sie erscheinen mit Orkanböen und spielen den\nLeuten Streiche, indem sie in Häusern Möbel\nverrücken oder Watte verstreuen.",
+        "Passiert wie ein Luftzug mühelos jeden noch so engen\nSpalt und hinterlässt dort nichts als ein weißes\nFellknäuel.",
+        "Sie erscheinen mit Orkanböen und spielen den Leuten\nStreiche, indem sie in Häusern Möbel verrücken oder\nWatte verstreuen.",
+        "Passiert wie ein Luftzug mühelos jeden noch so engen Spalt\nund hinterlässt dort nichts als ein weißes Fellknäuel.",
+        "Über Luftzüge dringt es in Häuser ein, verstreut\nin allen Zimmern Watte und macht sich dann\nlächelnd davon.",
+        "Es reitet auf dem Wind, doch wenn dieser\nzu stark ist, wird die Watte an seinem Kopf\nabgerissen.",
+        "Ein Störenfried, der heimlich in Wohnhäuser\neindringt und dann wichtige Dinge versteckt\nsowie in allen Zimmern Watte verstreut.",
+        "Es lässt sich nirgends nieder, sondern reitet\nwohin auch immer Orkanböen es tragen und\nspielt den Leuten dann Streiche.",
+        "Es verstreut Watte, um Leute zu ärgern. Es hört\ndamit auf, wenn es nass wird, weil es dann zu\nschwer ist und sich nicht mehr bewegen kann.",
+        "Sonnenlicht lässt seine Wolle anwachsen. Wird\ndas Volumen zu groß, zupft es die Wolle ab und\nverstreut sie überall in der Gegend."
+    ],
+    "height": 0.7,
+    "id": 547,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "name": "Elfun",
+    "types": [
+        "Pflanze",
+        "Fee"
+    ],
+    "weight": 6.6
+}

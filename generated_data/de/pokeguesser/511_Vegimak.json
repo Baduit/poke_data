@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Schwächelnden Pokémon gibt es ein paar der Kräuter\nauf seinem Kopf ab und hilft ihnen so wieder\nauf die Beine.",
+        "Ein nettes Kerlchen, das so talentiert darin ist,\nBeeren aufzuspüren, dass es sie mit all seinen\nKameraden teilt.",
+        "Schwächelnden Pokémon gibt es ein paar der Kräuter auf\nseinem Kopf ab und hilft ihnen so wieder auf die Beine.",
+        "Ein nettes Kerlchen, das so talentiert darin ist, Beeren\naufzuspüren, dass es sie mit all seinen Kameraden teilt."
+    ],
+    "height": 0.6,
+    "id": 511,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+    "name": "Vegimak",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 10.5
+}

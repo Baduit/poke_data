@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il attache un fil à sa proie avant\nde la libérer. Il s’en servira pour\nla retrouver, elle et ses amis.",
+        "Il attache un fil à sa proie avant\nde la libérer. Il s’en servira pour\nla retrouver, elle et ses amis.",
+        "Il peut produire des fils de soie par l’arrière-train ou\npar la bouche. Il est difficile de différencier les deux.",
+        "Il attache un fil à sa proie avant de la libérer.\nIl s’en servira pour la retrouver, elle et ses amis.",
+        "À l’extrémité des pattes de Migalos, on trouve de petits\ncrochets qui lui permettent de cavaler sur les surfaces\nverticales et au plafond. Ce Pokémon peut piéger ses\nennemis dans sa solide toile de soie.",
+        "À l’extrémité des pattes de Migalos, on trouve de petits\ncrochets qui lui permettent de cavaler sur les surfaces\nverticales et au plafond. Ce Pokémon peut piéger ses\nennemis dans sa solide toile de soie.",
+        "Dans certaines régions, on utilise le fil de\nMigalos pour tisser des étoffes. Leur grande\nsolidité les rend très populaires.",
+        "Ce Pokémon peut créer du fil avec sa bouche\nou son abdomen. Il l’utilise pour ligoter sa proie,\npuis aspire lentement ses fluides vitaux.",
+        "Il erre chaque nuit à la recherche d’une proie.\nQuand il en trouve une, il l’immobilise grâce à\nses fils, puis la croque avec ses mandibules.",
+        "Il capture ses proies en projetant un fil qu’il\nsécrète. À la nuit tombée, il quitte sa toile\net part chasser activement."
+    ],
+    "height": 1.1,
+    "id": 168,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "name": "Migalos",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 33.5
+}

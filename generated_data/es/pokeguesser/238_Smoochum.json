@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sus labios son la parte más sensible de su cuerpo.\nSiempre los usa para examinar las cosas.",
+        "Analiza todo tocándolo con los labios. Así puede\nrecordar las cosas que le gustan y disgustan.",
+        "Smoochum va corriendo por todos lados, pero se cae también\ncon frecuencia. Y, en cuanto tiene ocasión, se mira en algún\nsitio para ver si se ha manchado la cara.",
+        "Smoochum va corriendo por todos lados, pero se cae también\ncon frecuencia. Y, en cuanto tiene ocasión, se mira en algún\nsitio para ver si se ha manchado la cara.",
+        "Cuando quiere examinar algo, lo toca con los\nlabios antes que con las manos. Si está sucio,\nlimpia la mugre lamiendo repetidamente.",
+        "Los labios son la parte más sensible de su\ncuerpo. Para que no se le cuarteen, los mantiene\nhidratados a diario con savia de los árboles.",
+        "En cuanto se le ensucia la cara, aunque sea un\npoco, se la lava con agua. En el resto del cuerpo,\nla suciedad no parece importarle mucho.",
+        "Este Pokémon rebosante de curiosidad lo toca\ntodo con los labios para determinar qué cosas\nle gustan y cuáles no."
+    ],
+    "height": 0.4,
+    "id": 238,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "name": "Smoochum",
+    "types": [
+        "Hielo",
+        "Psíquico"
+    ],
+    "weight": 6.0
+}

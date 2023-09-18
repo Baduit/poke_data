@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "很久以前因這把劍\n而喪命之人的靈魂\n成為了獨劍鞘的靈魂。",
+        "獨劍鞘護手上的\n藍色眼珠是牠的本體。\n會用陳舊的布吸取人類的精氣。"
+    ],
+    "height": 0.8,
+    "id": 679,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "name": "獨劍鞘",
+    "types": [
+        "鋼",
+        "幽靈"
+    ],
+    "weight": 2.0
+}

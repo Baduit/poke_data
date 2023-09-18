@@ -1,0 +1,39 @@
+{
+    "descriptions": [
+        "Said to live in\nhuge colonies\ndeep in jungles,\falthough no one\nhas ever returned\nfrom there.",
+        "Said to live in\nhuge colonies\ndeep in jungles,\falthough no one\nhas ever returned\nfrom there.",
+        "Lures prey with\nthe sweet aroma of\nhoney. Swallowed\fwhole, the prey is\nmelted in a day,\nbones and all.",
+        "ACID that has dis­\nsolved many prey\nbecomes sweeter,\fmaking it even\nmore effective at\nattracting prey.",
+        "This horrifying\nplant POKéMON at­\ntracts prey with\faromatic honey,\nthen melts them in\nits mouth.",
+        "Once ingested into\nthis POKéMON's\nbody, even the\fhardest object\nwill melt into\nnothing.",
+        "VICTREEBEL has a long vine that\nextends from its head. This vine is\nwaved and flicked about as if it were\fan animal to attract prey. When an\nunsuspecting prey draws near, this\nPOKéMON swallows it whole.",
+        "VICTREEBEL has a long vine that\nextends from its head. This vine is\nwaved and flicked about as if it were\fan animal to attract prey. When an\nunsuspecting prey draws near, this\nPOKéMON swallows it whole.",
+        "The long vine extending from its head is\nwaved about as if it were a living thing to\nattract prey. When an unsuspecting victim\napproaches, it is swallowed whole.",
+        "Lures prey into its mouth with a honeylike\naroma. The helpless prey is melted with\na dissolving fluid.",
+        "Said to live in huge colonies deep in\njungles, although no one has ever\nreturned from there.",
+        "It pools in its mouth a fluid with\na honeylike scent, which is really\nan acid that dissolves anything.",
+        "It pools in its mouth a fluid with\na honeylike scent, which is really\nan acid that dissolves anything.",
+        "It pools in its mouth a fluid with\na honeylike scent, which is really\nan acid that dissolves anything.",
+        "Acid that has dissolved many prey\nbecomes sweeter, making it even\nmore effective at attracting prey.",
+        "This horrifying plant Pokémon attracts\nprey with aromatic honey,\nthen melts them in its mouth.",
+        "It pools in its mouth a fluid with\na honeylike scent, which is really\nan acid that dissolves anything.",
+        "It pools in its mouth a fluid with\na honeylike scent, which is really\nan acid that dissolves anything.",
+        "It pools in its mouth a fluid with\na honey-like scent, which is really\nan acid that dissolves anything.",
+        "It pools in its mouth a fluid with\na honey-like scent, which is really\nan acid that dissolves anything.",
+        "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there.",
+        "Once ingested into this Pokémon’s body,\neven the hardest object will melt into nothing.",
+        "Victreebel has a long vine that extends from its head.\nThis vine is waved and flicked about as if it were an animal to\nattract prey. When an unsuspecting prey draws near, this\nPokémon swallows it whole.",
+        "Victreebel has a long vine that extends from its head.\nThis vine is waved and flicked about as if it were an animal\nto attract prey. When an unsuspecting prey draws near,\nthis Pokémon swallows it whole.",
+        "Lures prey with the sweet aroma of honey.\nSwallowed whole, the prey is dissolved in a day,\nbones and all.",
+        "Lures prey with the sweet aroma of honey.\nSwallowed whole, the prey is dissolved in a day,\nbones and all."
+    ],
+    "height": 1.7,
+    "id": 71,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "name": "Victreebel",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 15.5
+}

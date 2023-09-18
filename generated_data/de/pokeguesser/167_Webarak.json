@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es spinnt ein Netz aus feinem, aber reißfestem\nFaden. Dann wartet es auf Beute, die im Netz zappelt.",
+        "Es sitzt tagelang regungslos in seinem Netz und lauert\nunvorsichtiger Beute auf, die ihm zu nahe kommt.",
+        "Das von Webarak gesponnene Netz ist sein zweites\nNervensystem. Dieses Pokémon kann anhand der feinen\nVibrationen der Netzfäden bestimmen, welche Art Beute\nsich darauf befindet.",
+        "Das von Webarak gesponnene Netz ist sein zweites\nNervensystem. Dieses Pokémon kann anhand der feinen\nVibrationen der Netzfäden bestimmen, welche Art Beute\nsich darauf befindet.",
+        "Ein sehr geduldiges Pokémon, das besonders\ngern Wommel frisst. Es wartet beharrlich darauf,\ndass sich welche in seinem Netz verfangen.",
+        "Einige Fischer knüpfen sich aus seinem robusten\nFaden Netze, mit denen sie dann Fisch-Pokémon\nfangen.",
+        "Es spinnt ein äußerst robustes Netz aus seinen\nFäden, das selbst unter dem Gewicht eines\n10 kg schweren Steines nicht reißt.",
+        "Das Gift an seinen Mundwerkzeugen ist nicht\nsonderlich stark, jedoch ausreichend, um Beute\nzu schwächen, die ihm ins Netz gegangen ist."
+    ],
+    "height": 0.5,
+    "id": 167,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "name": "Webarak",
+    "types": [
+        "Käfer",
+        "Gift"
+    ],
+    "weight": 8.5
+}

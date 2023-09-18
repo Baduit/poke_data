@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Para protegerse despide un hedor horrible de sus\nantenas, con el que repele a sus enemigos.",
+        "Sus patas tienen ventosas con las que se adhiere a\ncualquier sitio. Escala árboles buscando forraje.",
+        "Caterpie tiene un apetito voraz. Es capaz de devorar hojas\nque superen su tamaño en un abrir y cerrar de ojos.\nAtención a la antena que tiene: libera un hedor realmente\nfuerte.",
+        "Caterpie tiene un apetito voraz. Es capaz de devorar hojas\nque superen su tamaño en un abrir y cerrar de ojos.\nAtención a la antena que tiene: libera un hedor realmente\nfuerte.",
+        "A menudo resulta presa de Pokémon pájaro,\nfrente a los que su única defensa es el hedor\nrepulsivo que libera por su antena.",
+        "Se desarrolla rápidamente y es fácil de atrapar.\nEs el compañero ideal para Entrenadores menos\nexperimentados.",
+        "Muestra un apetito voraz, debido quizás a sus\nganas de acelerar su desarrollo. Puede llegar a\ndevorar un centenar de hojas al día.",
+        "Su cuerpo es blando y carente de fuerza. Parece\nque la naturaleza lo hubiera destinado a servir\nde sustento a otros Pokémon.",
+        "Cuando le tocan la antena roja que tiene en la\nfrente, se defiende desprendiendo un hedor\nnauseabundo.",
+        "Cuando le tocan la antena roja que tiene en la\nfrente, se defiende desprendiendo un hedor\nnauseabundo.",
+        "Para protegerse, despide un hedor horrible por\nlas antenas con el que repele a sus enemigos.",
+        "Sus cortas patas están recubiertas de ventosas\nque le permiten subir incansable por muros y\ncuestas."
+    ],
+    "height": 0.3,
+    "id": 10,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "name": "Caterpie",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 2.9
+}

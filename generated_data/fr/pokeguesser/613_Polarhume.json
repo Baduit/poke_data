@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Quand il est malade, sa goutte au nez\ndégèle et ses capacités de type Glace\ndeviennent moins efficaces.",
+        "Il a toujours la goutte au nez. Il\nl’aspire pour déclencher ses capacités.\nLa morve en est la matière première.",
+        "Il a toujours la goutte au nez. Il l’aspire pour\ndéclencher ses capacités. La morve en est la matière\npremière.",
+        "Sa roupie indique sa santé. S’il est en forme,\nelle sera épaisse et la puissance de ses attaques\nglacées augmentera.",
+        "Il a toujours la goutte au nez. Il l’aspire pour déclencher\nses capacités. La morve en est la matière première.",
+        "Sa roupie indique sa santé. S’il est en forme, elle sera épaisse\net la puissance de ses attaques glacées augmentera.",
+        "Quand il est en forme, sa goutte au nez devient\nencore plus visqueuse. Il n’hésite pas à s’essuyer\nle nez sur un adversaire qui lui déplaît.",
+        "Il renifle avant d’utiliser une capacité.\nLe froid intense contenu dans sa morve\nlui permet de lancer les capacités de type Glace."
+    ],
+    "height": 0.5,
+    "id": 613,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "name": "Polarhume",
+    "types": [
+        "Glace"
+    ],
+    "weight": 8.5
+}

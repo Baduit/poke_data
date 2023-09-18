@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "圆溜溜的身体\n被厚厚的脂肪包裹着，\n滚起来比走路要快。",
+        "会漂浮在波浪当中观察\n大海的状况。一旦发现猎物，\n就会通知群体里的帝牙海狮。"
+    ],
+    "height": 0.8,
+    "id": 363,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "name": "海豹球",
+    "types": [
+        "冰",
+        "水"
+    ],
+    "weight": 39.5
+}

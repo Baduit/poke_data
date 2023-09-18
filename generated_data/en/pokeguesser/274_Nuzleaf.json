@@ -1,0 +1,33 @@
+{
+    "descriptions": [
+        "NUZLEAF live in densely overgrown\nforests. They occasionally venture out\nof the forest to startle people.\fThis POKéMON dislikes having its long\nnose pinched.",
+        "This POKéMON pulls out the leaf on its\nhead and makes a flute with it.\nThe sound of NUZLEAF’s flute strikes\ffear and uncertainty in the hearts of\npeople lost in a forest.",
+        "A forest-dwelling POKéMON that is skilled\nat climbing trees. Its long and pointed\nnose is its weak point. It loses power if\nthe nose is gripped.",
+        "They live in holes bored in large trees.\nThe sound of NUZLEAF’s grass flute fills\nlisteners with dread.",
+        "They live in holes bored in large trees.\nThe sound of NUZLEAF’s grass flute fills\nlisteners with dread.",
+        "The sound of its grass flute makes\nits listeners uneasy. It lives deep\nin forests.",
+        "The sound of its grass flute makes\nits listeners uneasy. It lives deep\nin forests.",
+        "The sound of its grass flute makes\nits listeners uneasy. It lives deep\nin forests.",
+        "It lives deep in forests. With the\nleaf on its head, it makes a flute\nwhose song makes listeners uneasy.",
+        "It lives deep in forests. With the\nleaf on its head, it makes a flute\nwhose song makes listeners uneasy.",
+        "The sound of its grass flute makes\nits listeners uneasy. It lives deep\nin forests.",
+        "The sound of its grass flute makes\nits listeners uneasy. It lives deep\nin forests.",
+        "The sound of its grass flute makes\nits listeners uneasy. It lives deep\nin forests.",
+        "The sound of its grass flute makes\nits listeners uneasy. It lives deep\nin forests.",
+        "The sound of its grass flute makes its listeners\nuneasy. It lives deep in forests.",
+        "It lives deep in forests. With the leaf on its head,\nit makes a flute whose song makes\nlisteners uneasy.",
+        "Nuzleaf live in densely overgrown forests. They occasionally\nventure out of the forest to startle people. This Pokémon\ndislikes having its long nose pinched.",
+        "This Pokémon pulls out the leaf on its head and makes a flute\nwith it. The sound of Nuzleaf’s flute strikes fear and uncertainty\nin the hearts of people lost in a forest.",
+        "It lives deep in forests. With the leaf on its head,\nit makes a flute whose song makes listeners uneasy.",
+        "They live in holes bored in large trees. The sound\nof Nuzleaf’s grass flute fills listeners with dread."
+    ],
+    "height": 1.0,
+    "id": 274,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "name": "Nuzleaf",
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "weight": 28.0
+}

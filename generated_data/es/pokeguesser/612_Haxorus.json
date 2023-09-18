@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es gentil, pero no perdona a todo el que ose invadir\nsu territorio. Su mayor baza son sus colmillos, que\ncortan el acero.",
+        "Sus colmillos no se quiebran ni aunque los hinque\nen un armazón de acero. Está protegido por una\nresistente armadura.",
+        "Es gentil, pero no perdona a todo el que ose invadir su\nterritorio. Su mayor baza son sus colmillos, que cortan\nel acero.",
+        "Sus colmillos no se quiebran ni aunque los hinque en un\narmazón de acero. Está protegido por una resistente\narmadura.",
+        "Su mayor baza son sus colmillos, de gran tamaño\ny robustez. Lame la tierra en busca de minerales\npara mantenerlos fuertes y resistentes.",
+        "Amable por naturaleza, infunde auténtico pavor\nal enfadarse. Su mayor baza son los colmillos,\ncon los que puede cortar un armazón de acero."
+    ],
+    "height": 1.8,
+    "id": 612,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "name": "Haxorus",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 105.5
+}

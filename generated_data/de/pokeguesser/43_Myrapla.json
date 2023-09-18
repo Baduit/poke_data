@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Tagsüber versteckt es sich in der kalten Erde,\num die Sonne zu meiden. Es wächst im Mondschein.",
+        "Sein wissenschaftlicher Name lautet:\n„Oddium Wanderus“. Nachts soll es knapp\n300 m auf seinen zwei Wurzeln zurücklegen.",
+        "Am Tage vergräbt sich Myrapla im Boden, um mit seinem\nganzen Körper Nahrung aufzunehmen. Je fruchtbarer der\nBoden ist, desto glänzender werden seine Blätter.",
+        "Myrapla sucht nach fruchtbarem, nahrhaftem Boden und pflanzt\nsich selbst darin ein. Solange es eingepflanzt ist, nehmen seine\nFüße tagsüber die Gestalt von Baumwurzeln an.",
+        "Wenn sich der Mond zeigt, taucht es aus dem\nBoden auf. Über fruchtbarer Erde schüttelt es\nseinen Kopf und verstreut Samen.",
+        "Im warmen Klima Alolas gedeiht Myrapla\nbesonders gut. Hier lebende Exemplare\nsind rund und schwer.",
+        "Es wird oft mit Unkraut verwechselt. Versucht\nman, es aus der Erde zu ziehen, stößt es einen\nfürchterlichen Schrei aus.",
+        "Es wird oft mit Unkraut verwechselt. Versucht\nman, es aus der Erde zu ziehen, stößt es einen\nfürchterlichen Schrei aus.",
+        "Wird es vom Mondschein getroffen, bewegt es\nsich. Nachts wandert es weite Wege, um seine\nSamen zu verstreuen.",
+        "Tagsüber versteckt es sich in der kalten Erde,\num die Sonne zu meiden. Es wächst im\nMondschein."
+    ],
+    "height": 0.5,
+    "id": 43,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "name": "Myrapla",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 5.4
+}

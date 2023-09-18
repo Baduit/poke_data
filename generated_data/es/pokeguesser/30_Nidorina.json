@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Tiene un carácter afable. Emite ondas ultrasónicas\npara confundir al enemigo.",
+        "Cuando alimenta a sus crías, primero mastica y ablanda\nla comida y luego la escupe para su prole.",
+        "Cuando están en familia o con sus amigos, esconden las púas\npara evitar accidentes. Según parece, se alteran bastante si se\nseparan del grupo.",
+        "Cuando están en familia o con sus amigos, esconden las púas\npara evitar accidentes. Según parece, se alteran bastante si se\nseparan del grupo.",
+        "Mientras se cobija en su madriguera, retrae las\npúas, señal inequívoca de que se siente a salvo.",
+        "Mientras se cobija en su madriguera, retrae las\npúas, señal inequívoca de que se siente a salvo.",
+        "Se cree que el cuerno de la frente se le ha\natrofiado para evitar herir a sus crías al\nalimentarlas.",
+        "Cuando el peligro se cierne sobre la manada,\nlos miembros unen fuerzas para defenderse\nemitiendo un coro de ondas ultrasónicas."
+    ],
+    "height": 0.8,
+    "id": 30,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "name": "Nidorina",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 20.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Dieses Pokémon vereinte seine Kräfte mit einem\nMenschenkönig und rettete die Galar-Region.\nEs nimmt Metall in sich auf und kämpft damit.",
+        "Dieses Pokémon fiel in Form einer Steinstatue\nin solch einen langen Schlaf, dass es in\nVergessenheit geraten ist."
+    ],
+    "height": 2.9,
+    "id": 889,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+    "name": "Zamazenta",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 210.0
+}

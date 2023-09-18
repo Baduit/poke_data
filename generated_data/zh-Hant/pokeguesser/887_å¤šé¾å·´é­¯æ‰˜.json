@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "讓多龍梅西亞住在自己角上的\n洞裡。戰鬥開始後會用音速\n將多龍梅西亞發射出去。",
+        "牠角裡的多龍梅西亞\n似乎滿心期待著能被\n以音速發射出去。"
+    ],
+    "height": 3.0,
+    "id": 887,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "name": "多龍巴魯托",
+    "types": [
+        "龍",
+        "幽靈"
+    ],
+    "weight": 50.0
+}

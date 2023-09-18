@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "深い　海溝の　底で　眠る。\nルギアが　羽ばたくと　４０日\n嵐が　続くと　言われている。",
+        "海の神様と　伝えられる　ポケモン。\n嵐の　夜　姿を　見たという　話が\n伝えられる。",
+        "翼を　軽く　羽ばたかせた　だけで　民家を\n吹き飛ばす　破壊力を　持っている　ために\n海底で　人知れず　暮らす　ように　なった。",
+        "翼を　軽く　羽ばたかせた　だけで　民家を\n吹き飛ばす　破壊力を　持っている　ために\n海底で　人知れず　暮らす　ように　なった。"
+    ],
+    "height": 5.2,
+    "id": 249,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "name": "ルギア",
+    "types": [
+        "エスパー",
+        "ひこう"
+    ],
+    "weight": 216.0
+}

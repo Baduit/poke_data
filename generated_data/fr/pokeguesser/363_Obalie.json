@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il gagne la côte en roulant sur les\nblocs de glace car sa morphologie\nn’est pas adaptée à la nage.",
+        "Il gagne la côte en roulant sur les\nblocs de glace car sa morphologie\nn’est pas adaptée à la nage.",
+        "Il se déplace en roulant, car il n’est pas doué pour\nla nage. Quand il est heureux, il applaudit avec ses\nnageoires.",
+        "Son corps est couvert d’une douce fourrure.\nElle le protège du sentiment de froid quand il se\ndéplace en roulant sur la glace.",
+        "Obalie est bien plus rapide quand il roule que quand\nil marche. Lorsque des groupes de ce Pokémon mangent,\nils applaudissent tous en même temps pour montrer\nqu’ils sont contents. Leurs repas sont très bruyants.",
+        "Obalie voyage toujours en faisant rouler son corps tout rond.\nLorsque la saison des neiges arrive, on peut voir ce Pokémon\nrouler sur la glace et traverser la mer.",
+        "Grâce à son corps composé d’une épaisse\ncouche de graisse qui lui donne sa forme ronde,\nil se déplace plus vite en roulant qu’en marchant.",
+        "Il scrute la mer en se laissant porter par\nles vagues. Lorsqu’il repère des proies,\nil avertit les Kaimorse du groupe."
+    ],
+    "height": 0.8,
+    "id": 363,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "name": "Obalie",
+    "types": [
+        "Glace",
+        "Eau"
+    ],
+    "weight": 39.5
+}

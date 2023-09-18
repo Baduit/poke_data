@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "La potencia de su voz es realmente pasmosa. La\ntécnica que usa para intimidar al rival mientras\ngrita recibe el nombre de Obstrucción.",
+        "Evoluciona tras haber librado numerosas peleas.\nEl grito de guerra que profiere mientras pone los\nbrazos en cruz atemoriza a cualquier rival."
+    ],
+    "height": 1.6,
+    "id": 862,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "name": "Obstagoon",
+    "types": [
+        "Siniestro",
+        "Normal"
+    ],
+    "weight": 46.0
+}

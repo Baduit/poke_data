@@ -1,0 +1,33 @@
+{
+    "descriptions": [
+        "A Pokémon that lives by water.\nIt moves quickly on land by\nbouncing on its big tail.",
+        "AZURILL spins its tail as if it were a\nlasso, then hurls it far. The momentum\nof the throw sends its body flying, too.\fUsing this unique action, one of these\nPOKéMON managed to hurl itself a record\n33 feet.",
+        "AZURILL’s tail is large and bouncy.\nIt is packed full of the nutrients this\nPOKéMON needs to grow.\fAZURILL can be seen bouncing and\nplaying on its big, rubbery tail.",
+        "Its tail, which is packed with nutrition,\nis very bouncy like a rubber ball. On sunny\ndays they gather at the edge of water and\nsplash about for fun.",
+        "It battles by flinging around its tail,\nwhich is bigger than its body. The\ntail is a flotation device in water.",
+        "It battles by flinging around its tail,\nwhich is bigger than its body. The\ntail is a flotation device in water.",
+        "Its tail is filled with nutrients\nnecessary for growth. It plays\nby bouncing on its tail.",
+        "Its tail bounces like a rubber ball.\nIt flings that tail around to fight\nopponents bigger than itself.",
+        "Its tail is packed full of the\nnutrients it needs to grow.",
+        "Its tail is packed full of the\nnutrients it needs to grow.",
+        "Its tail bounces like a rubber ball.\nIt flings that tail around to fight\nopponents bigger than itself.",
+        "Its tail bounces like a rubber ball.\nIt flings that tail around to fight\nopponents bigger than itself.",
+        "It swings its large, nutrient-filled\ntail around to fight opponents\nbigger than itself.",
+        "It swings its large, nutrient-filled\ntail around to fight opponents\nbigger than itself.",
+        "A Pokémon that lives by water. It moves quickly on\nland by bouncing on its big tail.",
+        "It swings its large, nutrient-filled tail around to fight\nopponents bigger than itself.",
+        "Azurill spins its tail as if it were a lasso, then hurls it far.\nThe momentum of the throw sends its body flying, too.\nUsing this unique action, one of these Pokémon managed to\nhurl itself a record 33 feet.",
+        "Azurill’s tail is large and bouncy. It is packed full of the\nnutrients this Pokémon needs to grow. Azurill can be seen\nbouncing and playing on its big, rubbery tail.",
+        "The ball on Azurill’s tail bounces like a rubber\nball, and it’s full of the nutrients the Pokémon\nneeds to grow.",
+        "Although Azurill are normally docile, an angry\none will swing around the big ball on its tail and\ntry to smash its opponents."
+    ],
+    "height": 0.2,
+    "id": 298,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "name": "Azurill",
+    "types": [
+        "Normal",
+        "Fairy"
+    ],
+    "weight": 2.0
+}

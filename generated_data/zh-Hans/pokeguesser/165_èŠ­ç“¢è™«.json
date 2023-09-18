@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "因为胆小，不总是聚在一起\n就会感到不安。背后的花纹\n每只都会有细微的不同。",
+        "用带气味的体液与伙伴交流。\n发怒的时候，气味会酸酸的。",
+        "非常怕冷的宝可梦。\n在温暖的阿罗拉，\n可以看到它生气勃勃的样子。",
+        "非常胆小的宝可梦。\n会和伙伴一起张开反射壁来保护巢穴。"
+    ],
+    "height": 1.0,
+    "id": 165,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "name": "芭瓢虫",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 10.8
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "用触角上的眼珠花纹威吓敌人。\n用４根翅膀前后左右灵活飞行。",
+        "翅膀和触角很怕湿气。\n雨后会朝着太阳的方向晒干身体。",
+        "会用眼珠花纹威吓敌人。\n如果这样不起作用，就会挥动\n４根翅膀，灵活地四处逃窜。",
+        "像薄薄的翅膀一样的触角\n很容易吸收湿气。\n雨天会静静地待在树洞等地方度过。"
+    ],
+    "height": 0.8,
+    "id": 284,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "name": "雨翅蛾",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 3.6
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es versteckt sich im Dunkeln von Höhlen.\nSeine Augen sind Edelsteine.",
+        "Es haust in düsteren Höhlen, wo es mit seinen\nspitzen Klauen Edelsteine ausgräbt und verspeist.",
+        "Zobiris führt ein ruhiges, zurückgezogenes Leben tief im Innern\neiner Höhle. Es ist aber trotzdem sehr gefürchtet, da man sagt,\nes stehle die Seelen der Menschen, wenn seine Augen im\nDunkeln furchterregend funkeln.",
+        "Zobiris durchwühlt mit seinen scharfen Krallen den Erdboden\nauf der Suche nach Steinen, von denen es sich ernährt.\nDie Substanzen in den Steinen nehmen schließlich eine\nfeste Form an und gelangen auf seine Körperoberfläche.",
+        "Seine Liebe zu Edelsteinen treibt es dazu,\nRocara nachzustellen. Knarksel kommt ihm\nallerdings immer zuvor.",
+        "Es ist gefürchtet, da man sagt, es stehle\ndie Seelen der Menschen, wenn seine\nEdelsteinaugen furchterregend funkeln.",
+        "Mit seinen scharfen Krallen gräbt es nach\nEdelsteinen, die es mit seinen dicken Fängen\nzerbeißt. Besonders gern frisst es Rocara.",
+        "Die Substanzen der Edelsteine, die es frisst,\nverfestigen sich an seiner Körperoberfläche,\nwobei unendlich viele Musterungen entstehen.",
+        "Man sagt, es stehle die Seelen der Menschen,\nwenn seine Edelsteinaugen furchterregend\nfunkeln. Viele fürchten es deswegen.",
+        "Es ernährt sich von Edelsteinen. Im Dunkeln\nfunkeln seine beiden Augen wie Juwelen."
+    ],
+    "height": 0.5,
+    "id": 302,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "name": "Zobiris",
+    "types": [
+        "Unlicht",
+        "Geist"
+    ],
+    "weight": 11.0
+}

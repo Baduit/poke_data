@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Seine Antenne besitzt ein Augenmuster. Seine vier\nFlügel erlauben es, in alle Richtungen zu fliegen.",
+        "Dank seiner vier Flügel kann es frei in alle Richtungen\nfliegen, sogar seitwärts und rückwärts.",
+        "Maskeregen schüchtert seine Feinde mit den augenähnlichen\nMustern auf seinen Antennen ein. Dieses Pokémon kann mit\nseinen vier Flügeln wie ein Hubschrauber in jede Richtung\nfliegen, sogar seitwärts und rückwärts.",
+        "Maskeregens Antennen haben ein augenähnliches Muster,\ndas ihm ein furchterregendes Äußeres verleiht. Wenn seine\n„Augen“ traurig aussehen, ist ein heftiger Regenguss im Anzug.",
+        "Schüchtert seine Feinde mit den augenähnlichen\nMustern auf seinen Antennen ein. Kann dank\nseiner vier Flügel frei in alle Richtungen fliegen.",
+        "Seine Flügel und Fühler sind empfindlich gegen\nFeuchtigkeit. Nachdem es geregnet hat, streckt\nes sie gen Sonne, um sie zu trocknen.",
+        "Kann es Feinde nicht mit seinen augenähnlichen\nMustern einschüchtern, flieht es geschwind\nmithilfe seiner vier Flügel.",
+        "Seine Antennen erinnern an dünne Flügel und\nsaugen leicht Flüssigkeit auf. Regentage\nverbringt es regungslos in Baumhöhlen."
+    ],
+    "height": 0.8,
+    "id": 284,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "name": "Maskeregen",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 3.6
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "首の　まわりから　発散する\nスパイスのような　香りには\n元気を　出させる　効果がある。",
+        "首回りの　つぼみから　におう\nスパイシーな　香りは\nかいだ　人を　元気に　させる。",
+        "首の　周りの　くるりと　巻いた　葉っぱの\n中には　小さな　木の芽が　１個　なっている。\nその　香りは　人を　元気に　させるぞ。",
+        "首の　周りの　くるりと　巻いた　葉っぱの\n中には　小さな　木の芽が　１個　なっている。\nその　香りは　人を　元気に　させるぞ。"
+    ],
+    "height": 1.2,
+    "id": 153,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+    "name": "ベイリーフ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 15.8
+}

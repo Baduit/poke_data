@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Este Pokémon consta de cinco subalternos y un\nlíder, cuyas órdenes obedecen sin rechistar.",
+        "Este Pokémon está formado por seis individuos\nque cambian de formación al luchar, haciendo\ngala de un notable espíritu de equipo."
+    ],
+    "height": 3.0,
+    "id": 870,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "name": "Falinks",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 62.0
+}

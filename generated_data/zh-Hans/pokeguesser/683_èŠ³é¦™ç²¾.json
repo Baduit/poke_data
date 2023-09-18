@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "由于它会不断从体毛里\n散发出强烈的香气，\n导致伙伴训练家的嗅觉失灵。",
+        "会发出恶臭让敌人丧失战意，\n或者发出芳香的味道\n来帮助自己的伙伴。"
+    ],
+    "height": 0.8,
+    "id": 683,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+    "name": "芳香精",
+    "types": [
+        "妖精"
+    ],
+    "weight": 15.5
+}

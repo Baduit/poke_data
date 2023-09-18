@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "예리하고 단단한 이빨과\n더욱 튼튼한 피부의\n몸통박치기는 집도 부술 정도다.",
+        "송곳니가 길고 클수록\n무리 중에서 서열이 높다.\n송곳니가 자라는 데는 시간이 걸린다.",
+        "몸을 둥글게 말아 고속 회전하며\n상대에게 돌진하는 공격이 특기다.\n구르기 시작하면 어지간해서는 멈출 수 없다.",
+        "단단한 몸으로 부딪치면 집도 부서진다.\n그 힘을 이용해 산길을 막고 있는\n토사를 치우는 일을 돕는다."
+    ],
+    "height": 1.1,
+    "id": 232,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+    "name": "코리갑",
+    "types": [
+        "땅"
+    ],
+    "weight": 120.0
+}

@@ -1,0 +1,41 @@
+{
+    "descriptions": [
+        "Spits fire that\nis hot enough to\nmelt boulders.\fKnown to cause\nforest fires\nunintentionally.",
+        "Spits fire that\nis hot enough to\nmelt boulders.\fKnown to cause\nforest fires\nunintentionally.",
+        "When expelling a\nblast of super\nhot fire, the red\fflame at the tip\nof its tail burns\nmore intensely.",
+        "If CHARIZARD be­\ncomes furious, the\nflame at the tip\fof its tail flares\nup in a whitish-\nblue color.",
+        "Breathing intense,\nhot flames, it can\nmelt almost any­\fthing. Its breath\ninflicts terrible\npain on enemies.",
+        "It uses its wings\nto fly high. The\ntemperature of its\ffire increases as\nit gains exper­\nience in battle.",
+        "CHARIZARD flies around the sky in\nsearch of powerful opponents.\nIt breathes fire of such great heat\fthat it melts anything. However, it\nnever turns its fiery breath on any\nopponent weaker than itself.",
+        "CHARIZARD flies around the sky in\nsearch of powerful opponents.\nIt breathes fire of such great heat\fthat it melts anything. However, it\nnever turns its fiery breath on any\nopponent weaker than itself.",
+        "A CHARIZARD flies about in search of\nstrong opponents. It breathes intense\nflames that can melt any material. However,\nit will never torch a weaker foe.",
+        "Its wings can carry this POKéMON close to\nan altitude of 4,600 feet. It blows out\nfire at very high temperatures.",
+        "It spits fire that is hot enough to melt\nboulders. It may cause forest fires by\nblowing flames.",
+        "It is said that CHARIZARD’s fire\nburns hotter if it has\nexperienced harsh battles.",
+        "It is said that CHARIZARD’s fire\nburns hotter if it has\nexperienced harsh battles.",
+        "It is said that CHARIZARD’s fire\nburns hotter if it has\nexperienced harsh battles.",
+        "If CHARIZARD becomes furious,\nthe flame at the tip of its tail flares\nup in a light blue shade.",
+        "Breathing intense, hot flames, it can\nmelt almost anything. Its breath\ninflicts terrible pain on enemies.",
+        "It is said that Charizard’s fire\nburns hotter if it has\nexperienced harsh battles.",
+        "It is said that Charizard’s fire\nburns hotter if it has\nexperienced harsh battles.",
+        "It is said that Charizard’s fire\nburns hotter if it has\nexperienced harsh battles.",
+        "It is said that Charizard’s fire\nburns hotter if it has\nexperienced harsh battles.",
+        "When expelling a blast of superhot fire,\nthe red flame at the tip of its tail burns\nmore intensely.",
+        "Its wings can carry this Pokémon close to an\naltitude of 4,600 feet. It blows out fire at very\nhigh temperatures.",
+        "Charizard flies around the sky in search of powerful opponents.\nIt breathes fire of such great heat that it melts anything.\nHowever, it never turns its fiery breath on any opponent\nweaker than itself.",
+        "Charizard flies around the sky in search of powerful opponents.\nIt breathes fire of such great heat that it melts anything.\nHowever, it never turns its fiery breath on any opponent\nweaker than itself.",
+        "When this Pokémon expels a blast of superhot\nfire, the red flame at the tip of its tail burns\nmore intensely.",
+        "When this Pokémon expels a blast of superhot\nfire, the red flame at the tip of its tail burns\nmore intensely.",
+        "It spits fire that is hot enough to melt boulders.\nIt may cause forest fires by blowing flames.",
+        "Its wings can carry this Pokémon close to an\naltitude of 4,600 feet. It blows out fire at very\nhigh temperatures."
+    ],
+    "height": 1.7,
+    "id": 6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "name": "Charizard",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "weight": 90.5
+}

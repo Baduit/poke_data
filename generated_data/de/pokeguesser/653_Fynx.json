@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Wenn es Zweige frisst, fasst es neue Kraft und stößt\nüber seine Ohren über 200 °C heiße Luft aus.",
+        "Anstelle eines Snacks kaut es unterwegs auf einem\nZweig herum. Es schreckt Gegner ab, indem es über\nseine Ohren heiße Luft ausstößt.",
+        "Wenn es Zweige frisst, fasst es neue Kraft und stößt über\nseine Ohren über 200 °C heiße Luft aus.",
+        "Anstelle eines Snacks kaut es unterwegs auf einem Zweig\nherum. Es schreckt Gegner ab, indem es über seine Ohren\nheiße Luft ausstößt."
+    ],
+    "height": 0.4,
+    "id": 653,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "name": "Fynx",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 9.4
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il tire sa force de la lumière des\nétoiles. Plus il y en a et plus ses\nmotifs dorsaux sont grands.",
+        "Il tire sa force de la lumière des\nétoiles. Plus il y en a et plus ses\nmotifs dorsaux sont grands.",
+        "Quand les étoiles brillent dans le ciel, il volette\npartout en semant derrière lui une poudre brillante.",
+        "Les points sur son dos deviennent plus grands ou\nplus petits selon le nombre d’étoiles dans le ciel.",
+        "On dit que dans les pays où le ciel est dégagé et où les\nétoiles illuminent les cieux, vivent d’innombrables quantités\nde Coxyclaque. La raison en est simple : l’énergie de ce\nPokémon provient de la lumière des étoiles.",
+        "On dit que dans les pays où le ciel est dégagé et où les\nétoiles illuminent les cieux, vivent d’innombrables quantités\nde Coxyclaque. La raison en est simple : l’énergie de ce\nPokémon provient de la lumière des étoiles.",
+        "On dit qu’il se nourrit de la lumière des étoiles,\nmais il mange aussi des Baies comme les autres.\nIl dort pendant la journée dans un lit d’herbes.",
+        "Il se bat en frappant avec ses quatre poings.\nChaque coup ne fait pas très mal mais assénées\nen rafale, ses attaques sont dévastatrices.",
+        "Le motif qui orne son dos aurait un lien avec\nles étoiles, mais nul ne sait encore en quoi\nconsiste ce lien.",
+        "Il vole dans le ciel nocturne en répandant une\npoudre scintillante. Si elle vous touche, quelque\nchose de positif devrait bientôt vous arriver."
+    ],
+    "height": 1.4,
+    "id": 166,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "name": "Coxyclaque",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 35.6
+}

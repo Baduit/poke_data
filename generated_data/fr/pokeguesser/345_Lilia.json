@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il vivait au fond de la mer il y a\n100 millions d’années. La science\na permis de le ressusciter.",
+        "Il vivait au fond de la mer il y a\n100 millions d’années. La science\na permis de le ressusciter.",
+        "Il attrape ses proies avec ses tentacules-pétales.\nIl a disparu il y a cent millions d’années.",
+        "Il vivait au fond de la mer il y a 100 millions d’années.\nLa science a permis de le ressusciter.",
+        "L’espèce des Lilia s’est éteinte il y a environ 100 millions\nd’années. Cet ancien Pokémon s’accroche à un rocher,\nsous l’eau, et attrape ses proies à l’aide de ses tentacules\nen forme de pétales de fleur.",
+        "Lilia est un Pokémon très ancien ressuscité à partir d’un\nfossile. Il reste en permanence fixé à un rocher.\nCe Pokémon balaie l’horizon depuis son perchoir, immobile,\nen quête de proies.",
+        "Il vivait déjà dans les mers chaudes il y a fort\nlongtemps. Il imite les algues pour masquer sa\nprésence et gobe toute proie qui l’approche.",
+        "Il s’accroche aux rochers grâce à ses ventouses\npuissantes. Une fois fixé, aucun courant marin,\naussi violent soit-il, ne peut l’en déloger.",
+        "Reconstitué à partir d’un fossile, ce Pokémon\nvivait dans les mers chaudes il y a environ\n100 millions d’années.",
+        "Accroché aux rochers des profondeurs, il attend\nqu’une proie s’approche de lui pour l’attraper\navec ses tentacules en forme de pétales."
+    ],
+    "height": 1.0,
+    "id": 345,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+    "name": "Lilia",
+    "types": [
+        "Roche",
+        "Plante"
+    ],
+    "weight": 23.8
+}

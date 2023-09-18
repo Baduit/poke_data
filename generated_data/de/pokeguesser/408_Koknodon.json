@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es wurde aus einem ballartigen, eisernen Fossil\ngeschaffen. Es schlägt Beute mit einem Kopfstoß.",
+        "Es lebt seit Urzeiten im Dschungel. Kann im Weg\nbefindliche Bäume mit Kopfstößen aus dem Weg\nräumen.",
+        "Es wurde aus einem ballartigen, eisernen Fossil geschaffen.\nEs schlägt Beute mit einem Kopfstoß.",
+        "Es lebt seit Urzeiten im Dschungel. Kann im Weg befindliche\nBäume mit Kopfstößen aus dem Weg räumen.",
+        "Vor Urzeiten lebte es im Dschungel.\nMit seinem Kopfstoß setzt es sich\ngegen Aerodactyl zur Wehr.",
+        "In den Erdschichten, in denen Fossilien von\nKoknodon entdeckt werden, finden sich\nauch Überreste abgebrochener Bäume.",
+        "Dieses urzeitliche Pokémon war trotz seines\nharten, robusten Schädels nicht sehr schlau.",
+        "Seine Besonderheit ist der harte Schädel. Mit\nseinem Kopfstoß fällte es Bäume, um deren\nFrüchte fressen zu können."
+    ],
+    "height": 0.9,
+    "id": 408,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "name": "Koknodon",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 31.5
+}

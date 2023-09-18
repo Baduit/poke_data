@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "When the Kalos region’s ecosystem falls into\ndisarray, it appears and reveals its secret power.",
+        "It’s hypothesized that it’s monitoring\nthose who destroy the ecosystem\nfrom deep in the cave where it lives.",
+        "When the Kalos region’s ecosystem falls into\ndisarray, it appears and reveals its secret power.",
+        "It’s hypothesized that it’s monitoring\nthose who destroy the ecosystem\nfrom deep in the cave where it lives.",
+        "This is Zygarde’s form when it has gathered\n50% of its cells. It wipes out all those who\noppose it, showing not a shred of mercy.",
+        "It’s thought to be monitoring the ecosystem.\nThere are rumors that even greater power lies\nhidden within it.",
+        "This is Zygarde’s form when about half of its\npieces have been assembled. It plays the role of\nmonitoring the ecosystem.",
+        "Some say it can change to an even more\npowerful form when battling those who threaten\nthe ecosystem."
+    ],
+    "height": 5.0,
+    "id": 718,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "name": "Zygarde",
+    "types": [
+        "Dragon",
+        "Ground"
+    ],
+    "weight": 305.0
+}

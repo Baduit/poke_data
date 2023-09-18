@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Aturde a sus oponentes con un gas venenoso\nque produce al quemar sus fluidos corporales\ny luego se abalanza sobre ellos.",
+        "Vive en volcanes y desolados pedregales. El gas\nvenenoso que libera despide un aroma dulce con\nel que atrae a Pokémon insecto para atacarlos.",
+        "Los machos están a merced de las hembras.\nLes ceden la mayoría de presas que capturan,\ny la falta de nutrientes les impide evolucionar.",
+        "Debilita a sus presas con gas venenoso y ataca\ncuando ve que se tambalean. Spinda, que de por\nsí camina oscilando, suele darle problemas.",
+        "Produce un gas venenoso al quemar con las\nllamas de la cola el líquido secretado en sus\nbolsas de veneno.",
+        "Se aproxima a su presa por la espalda y, antes\nde que pueda advertirlo, la inmoviliza con un\ngas venenoso."
+    ],
+    "height": 0.6,
+    "id": 757,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+    "name": "Salandit",
+    "types": [
+        "Veneno",
+        "Fuego"
+    ],
+    "weight": 4.8
+}

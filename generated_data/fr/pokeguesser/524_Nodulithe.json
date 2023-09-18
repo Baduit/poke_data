@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il a une oreille hexagonale. Son\ncorps, compressé dans des strates\nprofondes, est dur comme de l’acier.",
+        "On l’a découvert dans une fissure après\nun grand tremblement de terre il y a\n100 ans. Il possède un noyau d’énergie.",
+        "Il a une oreille hexagonale. Son corps, compressé\ndans des strates profondes, est dur comme de l’acier.",
+        "On l’a découvert dans une fissure après un grand\ntremblement de terre il y a 100 ans. Il possède\nun noyau d’énergie.",
+        "Il a une oreille hexagonale. Son corps, compressé\ndans des strates profondes, est dur comme de l’acier.",
+        "On l’a découvert dans une fissure après un grand tremblement\nde terre il y a 100 ans. Il possède un noyau d’énergie.",
+        "Ce Pokémon est né dans les entrailles de\nla terre. Il adore comparer sa solidité à celle\nde ses amis, Racaillou et Strassie.",
+        "La cavité hexagonale qu’il arbore est son oreille.\nIl se précipite vers tout ce qu’il entend, mais\nperd l’équilibre et chute dès que le son s’arrête.",
+        "Sa cavité hexagonale est une oreille. Il se met\nen colère si l’on tente d’y plonger la main, car\nc’est là que se trouve son noyau d’énergie.",
+        "Ce Pokémon a été découvert dans une faille\nrocheuse. La terre qui constitue son corps\nremonte à plusieurs centaines d’années.",
+        "Son corps est aussi dur que le fer,\nmais si on le laisse longtemps dans l’eau,\nil paraît qu’il ramollit légèrement.",
+        "Il se déplace en réagissant aux sons environnants.\nSon noyau d’énergie rend son corps légèrement\nchaud au toucher."
+    ],
+    "height": 0.4,
+    "id": 524,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "name": "Nodulithe",
+    "types": [
+        "Roche"
+    ],
+    "weight": 18.0
+}

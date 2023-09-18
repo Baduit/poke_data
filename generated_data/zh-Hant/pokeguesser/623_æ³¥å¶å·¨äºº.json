@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "據說古代人發明泥偶巨人\n是為了當成勞動力來使用。\n牠會忠實遵從主人的命令。",
+        "胸口的封印一旦解開\n就會不顧一切地四處大鬧，\n把街道全都化成瓦礫堆。",
+        "古代人城堡的牆壁裡那\n像炮台一樣的底座是為了\n讓泥偶巨人發射光束而建的。",
+        "雖然有人認為牠體內\n有著生成能量的永動機，\n但至今仍未得到證實。"
+    ],
+    "height": 2.8,
+    "id": 623,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+    "name": "泥偶巨人",
+    "types": [
+        "地面",
+        "幽靈"
+    ],
+    "weight": 330.0
+}

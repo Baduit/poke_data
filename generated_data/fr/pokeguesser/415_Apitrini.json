@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ce trio inséparable depuis la\nnaissance récolte du miel\npour satisfaire Apireine.",
+        "Ce trio inséparable depuis la\nnaissance récolte du miel\npour satisfaire Apireine.",
+        "Ce trio inséparable depuis la naissance récolte du miel\npour satisfaire Apireine.",
+        "Il récolte le nectar et l’amène à la colonie.\nLa nuit, les Pokémon de cette espèce s’assemblent\npour bâtir une ruche et s’endormir.",
+        "Ce trio inséparable depuis la naissance récolte du miel\npour satisfaire Apireine.",
+        "Il récolte le nectar et l’amène à la colonie. La nuit,\nles Pokémon de cette espèce s’assemblent pour bâtir\nune ruche et s’endormir.",
+        "Ce trio est inséparable et pourtant, leur goût\npour le nectar diffère légèrement.",
+        "Du lever du soleil à la tombée de la nuit,\nil récolte du nectar pour Apireine et sa colonie."
+    ],
+    "height": 0.3,
+    "id": 415,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "name": "Apitrini",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 5.5
+}

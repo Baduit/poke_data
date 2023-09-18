@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "고열로 물을 증발시켜\n대지를 넓혔다고 전해진다.\n가이오가와 격하게 싸웠다.",
+        "가이오가와 사투 끝에 긴 잠에\n들었다. 대지의 화신이라\n불리는 전설의 포켓몬이다.",
+        "대지의 화신이라 전해지는 포켓몬.\n자연의 힘을 갈구하여 가이오가와\n사투를 반복한다는 전설이 있다.",
+        "자연의 힘에 의해 원시회귀하여\n원래의 모습을 되찾는다. 그 힘은\n마그마를 만들어내며 대지를 확장한다."
+    ],
+    "height": 3.5,
+    "id": 383,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "name": "그란돈",
+    "types": [
+        "땅"
+    ],
+    "weight": 950.0
+}

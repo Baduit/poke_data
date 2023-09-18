@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "１０８個靈魂聚集在一起\n成為了寶可夢，但其中\n似乎混進了壞心眼的靈魂。",
+        "總是作惡多端，不料有一天\n被使用神奇法術的旅人\n綁縛到了楔石上。"
+    ],
+    "height": 1.0,
+    "id": 442,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "name": "花岩怪",
+    "types": [
+        "幽靈",
+        "惡"
+    ],
+    "weight": 108.0
+}

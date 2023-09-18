@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Since a broken tusk will not grow back,\nthey diligently sharpen their tusks on\nriver rocks after they’ve been fighting.",
+        "Their tusks can shatter rocks.\nTerritory battles between Fraxure\ncan be intensely violent.",
+        "A broken tusk will not grow back, so\nit diligently sharpens its tusks on\nriver rocks after the end of a battle.",
+        "A broken tusk will not grow back, so\nit diligently sharpens its tusks on\nriver rocks after the end of a battle.",
+        "Their tusks can shatter rocks. Territory battles\nbetween Fraxure can be intensely violent.",
+        "A broken tusk will not grow back, so it diligently\nsharpens its tusks on river rocks after the end of\na battle.",
+        "Their tusks can shatter rocks. Territory battles\nbetween Fraxure can be intensely violent.",
+        "A broken tusk will not grow back, so it diligently\nsharpens its tusks on river rocks after the end of\na battle.",
+        "After battle, this Pokémon carefully sharpens its\ntusks on river rocks. It needs to take care of its\ntusks—if one breaks, it will never grow back.",
+        "Its skin is as hard as a suit of armor. Fraxure’s\nfavorite strategy is to tackle its opponents,\nstabbing them with its tusks at the same time."
+    ],
+    "height": 1.0,
+    "id": 611,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "name": "Fraxure",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 36.0
+}

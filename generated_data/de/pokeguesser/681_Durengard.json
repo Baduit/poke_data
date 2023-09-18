@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Generationen von Königen hatten dieses Pokémon\nan ihrer Seite. Mit seiner mysteriösen Kraft kann es\nMenschen und Pokémon gleichermaßen kontrollieren.",
+        "Angeblich erkennt es jene Menschen, die Potenzial\nzum Herrscher haben. Es heißt, von ihm anerkannte\nPersonen seien bald darauf Könige geworden.",
+        "Generationen von Königen hatten dieses Pokémon an ihrer\nSeite. Mit seiner mysteriösen Kraft kann es Menschen und\nPokémon gleichermaßen kontrollieren.",
+        "Angeblich erkennt es jene Menschen, die Potenzial zum\nHerrscher haben. Es heißt, von ihm anerkannte Personen\nseien bald darauf Könige geworden.",
+        "Mit seinem stählernen Körper und der Barriere,\ndie es durch eine mysteriöse Kraft erzeugt,\nvermag es jegliche Angriffe abzuschwächen.",
+        "Mithilfe seiner mysteriösen Kräfte kontrollierte es\nMenschen und Pokémon und ließ sie ein Land\nnach seinen Vorstellungen erschaffen."
+    ],
+    "height": 1.7,
+    "id": 681,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "name": "Durengard",
+    "types": [
+        "Stahl",
+        "Geist"
+    ],
+    "weight": 53.0
+}

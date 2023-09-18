@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Beim Abfeuern seiner Ultraschallwellen, mit denen\nes selbst Beton zertrümmern kann, wedelt es eifrig\nmit dem Schweif.",
+        "Wer den Ultraschallwellen eines Männchens in der Balz\nausgesetzt wird, verfällt in eine euphorische Stimmung.",
+        "Beim Abfeuern seiner Ultraschallwellen, mit denen es selbst\nBeton zertrümmern kann, wedelt es eifrig mit dem Schweif.",
+        "Wer den Ultraschallwellen eines Männchens in der Balz\nausgesetzt wird, verfällt in eine euphorische Stimmung.",
+        "Hat es besonders starke Ultraschallwellen\nausgestoßen, wird es so müde, dass es für\neine Weile nicht fliegen kann.",
+        "Es wird in manchen Regionen für seine Nasenform\nverehrt, die angeblich Glück bringen soll."
+    ],
+    "height": 0.9,
+    "id": 528,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png",
+    "name": "Fletiamo",
+    "types": [
+        "Psycho",
+        "Flug"
+    ],
+    "weight": 10.5
+}

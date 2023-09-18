@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Combatte mentre gira come una trottola. La forza\ncentrifuga decuplica il suo potere distruttivo.",
+        "Se ci si fa incantare dall’elegante danza dei suoi\ncalci, si rischia di ricevere una bella lezione.",
+        "Hitmontop rotea sulla testa ad alta velocità sferrando calci\nviolenti. Questa tecnica è molto efficace sia in attacco che\nin difesa. Il Pokémon si muove molto più velocemente\nroteando che non camminando.",
+        "Hitmontop rotea sulla testa ad alta velocità sferrando calci\nviolenti. Questa tecnica è molto efficace sia in attacco che\nin difesa. Il Pokémon si muove molto più velocemente\nroteando che non camminando.",
+        "Gira su se stesso tirando calci. Se gira molto\nvelocemente può scavare una fossa nel terreno.",
+        "Prima esegue una verticale per spiazzare il\nnemico, poi parte con i suoi calci spettacolari."
+    ],
+    "height": 1.4,
+    "id": 237,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "name": "Hitmontop",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 48.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Su cuerpo es más duro que cualquier metal debido a la\ngran presión y calor de su hábitat.",
+        "Atraviesa rocas a mordisco limpio. Sus ojos pueden\nver en la oscuridad subterránea.",
+        "Steelix vive a mayor profundidad aún que Onix. Se le conoce\npor su tendencia a excavar hacia el interior del planeta. Hay\ndatos que muestran que este Pokémon ha llegado a alcanzar\n1 km de profundidad.",
+        "Steelix vive a mayor profundidad aún que Onix. Se le conoce\npor su tendencia a excavar hacia el interior del planeta. Hay\ndatos que muestran que este Pokémon ha llegado a alcanzar\n1 km de profundidad.",
+        "Según dicen, si un Onix vive más de 100 años,\nsu cuerpo adquiere una composición que\nrecuerda a la de los diamantes.",
+        "Se cree que su cuerpo se ha ido transformando\npor el hierro acumulado en la tierra que ha\ningerido."
+    ],
+    "height": 9.2,
+    "id": 208,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+    "name": "Steelix",
+    "types": [
+        "Acero",
+        "Tierra"
+    ],
+    "weight": 400.0
+}

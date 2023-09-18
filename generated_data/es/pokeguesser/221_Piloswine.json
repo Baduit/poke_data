@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Aunque tiene las patas cortas, las fuertes pezuñas le\npermiten agarrarse bien al suelo, a pesar del hielo.",
+        "Como su largo pelaje le impide ver con claridad, sigue\natacando repetidamente.",
+        "Piloswine está cubierto por un pelaje tupido y de largas\ncerdas que le permite soportar el frío polar. Este Pokémon\nusa los colmillos para desenterrar los alimentos que hayan\npodido quedar bajo el hielo.",
+        "Piloswine está cubierto por un pelaje tupido y de largas\ncerdas que le permite soportar el frío polar. Este Pokémon\nusa los colmillos para desenterrar los alimentos que hayan\npodido quedar bajo el hielo.",
+        "Cuando carga contra un enemigo, se le erizan los\npelos del lomo. Es muy sensible al sonido.",
+        "Aunque tiene las patas cortas, sus fuertes\npezuñas le permiten caminar por la nieve sin\nresbalar."
+    ],
+    "height": 1.1,
+    "id": 221,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "name": "Piloswine",
+    "types": [
+        "Hielo",
+        "Tierra"
+    ],
+    "weight": 55.8
+}

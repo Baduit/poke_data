@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "È un maestro del tip tap. Fa roteare il suo\nbastone di ghiaccio mentre si esibisce\nin leggiadri passi di danza.",
+        "Le sue comiche movenze lo rendono simpatico\na tutti. Emette poteri psichici dal motivo che ha\nsul ventre."
+    ],
+    "height": 1.5,
+    "id": 866,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "name": "Mr. Rime",
+    "types": [
+        "Ghiaccio",
+        "Psico"
+    ],
+    "weight": 58.2
+}

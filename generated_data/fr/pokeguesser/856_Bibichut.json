@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "La protubérance sur sa tête lui permet\nde percevoir les émotions des êtres vivants.\nIl n’accorde sa confiance qu’aux gens calmes.",
+        "Il aime les lieux inhabités.\nS’il perçoit des émotions trop fortes,\nil s’enfuit aussi vite que possible."
+    ],
+    "height": 0.4,
+    "id": 856,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "name": "Bibichut",
+    "types": [
+        "Psy"
+    ],
+    "weight": 3.4
+}

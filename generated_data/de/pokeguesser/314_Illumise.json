@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sein süßer Duft leitet Volbeat an,\nüber 200 verschiedene Lichtmuster\nan den Nachthimmel zu malen.",
+        "Sein süßer Duft leitet Volbeat an, Zeichen aus Licht\nan den Nachthimmel zu malen.",
+        "Illumise zieht ganze Scharen Volbeat mit seinem süßlichen\nDuft an. Dann lässt es diesen hell leuchtenden Schwarm\ngeometrische Figuren aus Licht an den Nachthimmel malen.",
+        "Illumise leitet einen Schwarm Volbeat an, wenn sie Zeichen\nan den Nachthimmel malen. Je komplexer diese werden,\ndesto mehr Respekt bekommt es von seinen Artgenossen."
+    ],
+    "height": 0.6,
+    "id": 314,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "name": "Illumise",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 17.7
+}

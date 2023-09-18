@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es feuert Freunde mit Pompons an, die aus\nFunken bestehen. Es holt sich Energie aus\nTelegrafenmasten.",
+        "Es holt sich Energie aus Telegrafenmasten.\nWenn es diese entlädt, hört man ein lautes Prasseln.",
+        "Plusle dient seinen Artgenossen als Cheerleader. Wenn ein\nTeamkamerad im Kampf erfolgreich ist, erzeugt es das\nprasselnde Geräusch von Funken, um so seine Freude zu\nzeigen.",
+        "Wenn Plusle seinen Partner anfeuert, sprüht es Funken\naus seinem Körper. Wenn sein Partner verliert, brüllt dieses\nPokémon laut."
+    ],
+    "height": 0.4,
+    "id": 311,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "name": "Plusle",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 4.2
+}

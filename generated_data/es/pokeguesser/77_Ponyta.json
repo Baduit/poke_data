@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Cuando nace, apenas puede tenerse en pie. Pero va\nfortaleciendo las patas en cuanto empieza a galopar.",
+        "Fortalece las patas mientras sigue a sus padres. Corre\nen el campo y en la montaña todo el día.",
+        "Al nacer, Ponyta es muy débil y apenas puede ponerse en pie.\nCon todo, se va haciendo más fuerte al tropezarse y caerse\nen su intento por seguir a sus progenitores.",
+        "Al nacer, Ponyta es muy débil y apenas puede ponerse en pie.\nCon todo, se va haciendo más fuerte al tropezarse y caerse\nen su intento por seguir a sus progenitores.",
+        "Es capaz de saltar muy alto. Absorbe el impacto\ndel aterrizaje con sus robustas patas y pezuñas.",
+        "Es capaz de saltar muy alto. Absorbe el impacto\ndel aterrizaje con sus robustas patas y pezuñas.",
+        "Al nacer es un poco lento, pero va fortaleciendo\nlas patas paulatinamente al disputar carreras con\nsus congéneres.",
+        "Por extraño que parezca, una vez que alguien\nse ha hecho merecedor de su confianza, puede\ntocarle la ardiente crin sin quemarse."
+    ],
+    "height": 1.0,
+    "id": 77,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "name": "Ponyta",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Capaz de percibir cualquier tipo de aroma, encuentra\nsin problemas todo alimento enterrado bajo tierra.",
+        "Aunque es muy grande, no se le da nada mal lo de\ntrepar árboles. Come y duerme en las copas.",
+        "En los bosques habitados por Ursaring, dicen que abundan\nlos arroyos y árboles gigantes en los que guardan su\nalimento. Este Pokémon se dedica todos los días a pasear\npor el bosque para buscar comida y guardarla.",
+        "En los bosques habitados por Ursaring, dicen que abundan\nlos arroyos y árboles gigantes en los que guardan su\nalimento. Este Pokémon se dedica todos los días a pasear\npor el bosque para buscar comida y guardarla."
+    ],
+    "height": 1.8,
+    "id": 217,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "name": "Ursaring",
+    "types": [
+        "Normal"
+    ],
+    "weight": 125.8
+}

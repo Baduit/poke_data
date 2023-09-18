@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Cuando lanza una descarga de fuego supercaliente, la\nroja llama de su cola brilla más intensamente.",
+        "Con las alas que tiene puede alcanzar una altura de\ncasi 1400 m. Suele escupir fuego por la boca.",
+        "Charizard se dedica a volar por los cielos en busca de\noponentes fuertes. Echa fuego por la boca y es capaz de\nderretir cualquier cosa. No obstante, si su rival es más débil\nque él, no usará este ataque.",
+        "Charizard se dedica a volar por los cielos en busca de\noponentes fuertes. Echa fuego por la boca y es capaz de\nderretir cualquier cosa. No obstante, si su rival es más débil\nque él, no usará este ataque.",
+        "Cuando exhala fuego abrasador, la llama de la\npunta de la cola se aviva y adquiere un intenso\ncolor rojo.",
+        "Cuando exhala fuego abrasador, la llama de la\npunta de la cola se aviva y adquiere un intenso\ncolor rojo.",
+        "Escupe un fuego tan caliente que funde las rocas.\nCausa incendios forestales sin querer.",
+        "Sus potentes alas le permiten volar a una altura\nde 1400 m. Escupe llamaradas que llegan a\nalcanzar temperaturas elevadísimas."
+    ],
+    "height": 1.7,
+    "id": 6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "name": "Charizard",
+    "types": [
+        "Fuego",
+        "Volador"
+    ],
+    "weight": 90.5
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "张大嘴巴移动，连同沙子\n把对手一整个吞下去。\n会从鼻孔把沙子喷出来丢掉。",
+        "主要在白天活动。\n因为沙漠的夜晚会降温，\n所以会钻到沙子的深处睡觉。"
+    ],
+    "height": 0.8,
+    "id": 449,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "name": "沙河马",
+    "types": [
+        "地面"
+    ],
+    "weight": 49.5
+}

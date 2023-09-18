@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "La toelettatura del manto vaporoso non solo lo rende\npiù bello, ma gli consente anche di muoversi\npiù liberamente.",
+        "Nell’antica Kalos, questo Pokémon aveva il compito\ndi proteggere i re.",
+        "La toelettatura del manto vaporoso non solo lo rende più\nbello, ma gli consente anche di muoversi più liberamente.",
+        "Nell’antica Kalos, questo Pokémon aveva il compito di\nproteggere i re.",
+        "In passato i nobili gareggiavano tra loro per\nstabilire quale Furfrou avesse il taglio più bello.",
+        "Se non viene tagliato, il suo pelo continua\na crescere a dismisura. Si lascia tosare\nsolamente dalle persone di cui si fida."
+    ],
+    "height": 1.2,
+    "id": 676,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+    "name": "Furfrou",
+    "types": [
+        "Normale"
+    ],
+    "weight": 28.0
+}

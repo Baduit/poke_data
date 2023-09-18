@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Nella gobba accumula magma. Quando piove, il\nmagma si indurisce e il Pokémon diventa più lento.",
+        "Nel suo corpo accumula magma che ribolle a 1200 °C.\nDopo aver usato una mossa di tipo Fuoco, la sua\ngobba si restringe.",
+        "Numel è estremamente tardo, tanto da non notare di essere\nattaccato. Tuttavia, non sa resistere alla fame per più di\nun secondo. Il suo corpo è un calderone bollente di\nmagma liquido.",
+        "Numel accumula magma a una temperatura di 1200 °C\nall’interno del proprio corpo. Se si bagna, il magma si\nraffredda e si solidifica. Se si appesantisce diventa goffo\nnei movimenti."
+    ],
+    "height": 0.7,
+    "id": 322,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "name": "Numel",
+    "types": [
+        "Fuoco",
+        "Terra"
+    ],
+    "weight": 24.0
+}

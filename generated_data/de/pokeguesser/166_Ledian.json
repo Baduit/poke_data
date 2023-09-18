@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Leuchten die Sterne am Nachthimmel,\nschwirrt es umher und verstreut einen\nstrahlenden, leuchtenden Puder.",
+        "Die Größe des gepunkteten Musters hängt direkt mit\nder Anzahl der Sterne am Firmament zusammen.",
+        "In Ländern mit frischer Luft und Sternen am Himmel leben\nunzählig viele Ledian. Dafür gibt es einen guten Grund:\nDieses Pokémon nutzt das Licht der Sterne als Energie.",
+        "In Ländern mit frischer Luft und Sternen am Himmel leben\nunzählig viele Ledian. Dafür gibt es einen guten Grund:\nDieses Pokémon nutzt das Licht der Sterne als Energie.",
+        "Es heißt, es ziehe seine Energie aus dem Licht\nder Sterne, aber es frisst trotzdem mit Wonne\nBeeren. Tagsüber schläft es im Gras.",
+        "Es kämpft, indem es mit seinen vier Armen\nSchläge verteilt. Da diese jedoch kaum Wucht\nhaben, setzt es alles auf lange Schlagserien.",
+        "Es heißt, das Muster auf seinem Rücken stehe in\nZusammenhang mit den Sternen am Firmament.\nGenaueres ist bisher aber noch nicht bekannt.",
+        "Nachts fliegt Ledian durch die Gegend und\nverstreut glitzernden Puder. Es soll Glück\nbringen, wenn man etwas davon abbekommt."
+    ],
+    "height": 1.4,
+    "id": 166,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "name": "Ledian",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 35.6
+}

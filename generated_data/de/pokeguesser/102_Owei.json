@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Die sechs Eier kommunizieren telepathisch.\nWerden sie getrennt, finden sie sich schnell wieder.",
+        "Auch wenn sein Erscheinungsbild eher Eiern ähnelt,\nwurde entdeckt, dass es mehr mit pflanzenähnlichen\nWurzeln in Zusammenhang steht.",
+        "Dieses Pokémon besteht aus sechs Eiern, die ein\nengmaschiges Netz bilden. Die sechs Eier ziehen sich\ngegenseitig an und drehen sich. Wenn die Eier Risse\nbekommen, steht Owei kurz vor seiner Entwicklung.",
+        "Dieses Pokémon besteht aus sechs Eiern, die ein\nengmaschiges Netz bilden. Die sechs Eier ziehen sich\ngegenseitig an und drehen sich. Wenn die Eier Risse\nbekommen, steht Owei kurz vor seiner Entwicklung.",
+        "Die sechs Eier kommunizieren telepathisch\nmiteinander. Sie tragen das Erbgut von Pflanzen\nsowie Pokémon eines bestimmten Typs in sich.",
+        "Es besteht aus sechs Eiern. Krabbox versucht\noft, es sich einzuverleiben, doch wehrt es sich\ntapfer mit seinen Psycho-Kräften.",
+        "Dieses Pokémon besteht aus sechs Individuen.\nGeht eines verloren, sind es am nächsten\nMorgen trotzdem auf jeden Fall wieder sechs.",
+        "Owei in Alola sind trotz gleicher Größe schwerer\nals ihre Artgenossen in anderen Regionen, da ihr\nInneres eine besonders hohe Dichte hat.",
+        "Oweis kleine Köpfe ziehen sich gegenseitig an\nund drehen sich. Es braucht sechs von ihnen,\num die Balance zu halten.",
+        "Oweis kleine Köpfe ziehen sich gegenseitig an\nund drehen sich. Es braucht sechs von ihnen,\num die Balance zu halten.",
+        "Owei mag zwar Eiern ähneln, ist aber ein echtes\nPokémon, das aus sechs Individuen besteht, die\nwohl telepathisch miteinander kommunizieren.",
+        "Es muss immer aus sechs Mitgliedern bestehen,\nsonst herrscht Unruhe. Fehlt auch nur eines, steigt\nbei den anderen die Bereitschaft zur Flucht."
+    ],
+    "height": 0.4,
+    "id": 102,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "name": "Owei",
+    "types": [
+        "Pflanze",
+        "Psycho"
+    ],
+    "weight": 2.5
+}

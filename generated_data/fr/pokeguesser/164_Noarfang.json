@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ses yeux sont capables de voir\ndistinctement même quand il fait\ntrès sombre.",
+        "Ses yeux sont capables de voir\ndistinctement même quand il fait\ntrès sombre.",
+        "Ses yeux sont adaptés à la nuit. Ils peuvent\nconcentrer la faible lumière dans l’obscurité.",
+        "Quand il réfléchit, il tourne sa tête sur 180° pour\noptimiser son mode de pensée.",
+        "Dans l’obscurité, Noarfang ne rate jamais une proie.\nIl le doit à sa vision surdéveloppée qui lui permet de\ntout voir, même avec une lueur très faible, ainsi qu’à\nses ailes très souples et silencieuses.",
+        "Dans l’obscurité, Noarfang ne rate jamais une proie.\nIl le doit à sa vision surdéveloppée qui lui permet de\ntout voir, même avec une lueur très faible, ainsi qu’à\nses ailes très souples et silencieuses.",
+        "Sa vue perçante lui permettant de distinguer sa\nproie même dans l’obscurité la plus profonde,\nil a reçu le surnom d’« empereur de la nuit ».",
+        "Quand il est soucieux, il tourne la tête à 180\ndegrés. Il ne faut alors surtout pas le déranger,\nsous peine de recevoir un coup de bec.",
+        "Ses yeux à la structure particulière sont capables\nde voir comme en plein jour même quand il fait\ntrès sombre.",
+        "Quand il réfléchit, il tourne sa tête sur 180 degrés\npour optimiser son mode de pensée."
+    ],
+    "height": 1.6,
+    "id": 164,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "name": "Noarfang",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 40.8
+}

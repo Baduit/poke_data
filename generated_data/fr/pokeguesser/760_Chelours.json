@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sa force physique hors norme le rend assez\ndangereux. D’ailleurs, les zones qu’il habite sont\nsystématiquement interdites d’accès.",
+        "Il fête chaque victoire par une accolade avec\nson Dresseur, au grand dam de ce dernier,\net en particulier de sa colonne vertébrale.",
+        "Il fait de grands gestes avec ses pattes pour\nintimider et mettre en garde ses ennemis.\nMieux vaut alors prendre ses jambes à son cou !",
+        "Sa force colossale fait sa fierté. De nombreuses\npersonnes le considèrent comme le Pokémon\nle plus dangereux d’Alola.",
+        "Il serre fort contre lui ceux qu’il considère\ncomme ses compagnons, mais ses câlins sont\nassez puissants pour broyer les os.",
+        "Il abat ses proies à l’aide de techniques à faire\npâlir d’envie des combattants professionnels,\npuis les emporte sous les bras dans sa tanière."
+    ],
+    "height": 2.1,
+    "id": 760,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "name": "Chelours",
+    "types": [
+        "Normal",
+        "Combat"
+    ],
+    "weight": 135.0
+}

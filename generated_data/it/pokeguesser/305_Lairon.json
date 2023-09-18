@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Adora i minerali di ferro. Scaglia il suo corpo d’acciaio\ncontro gli altri nella lotta per il territorio.",
+        "Per sfoggiare la sua potenza, crea grandi scintille\nscontrandosi contro i massi con il suo corpo d’acciaio.",
+        "Lairon tempra la sua fibra d’acciaio ingerendo dosi enormi\ndi minerali altamente nutritivi presenti nell’acqua di sorgente.\nQuesto Pokémon crea la propria dimora nei pressi di sorgenti\nd’acqua purissima.",
+        "Lairon si nutre del ferro contenuto nelle rocce e nell’acqua.\nCrea la propria dimora in montagna vicino a giacimenti ferrosi.\nPer questo motivo il Pokémon si scontra spesso con minatori\nalla ricerca di pepite di ferro.",
+        "I monti in cui vive sono ricchi di minerali ferrosi\ne sorgenti d’acqua. Per questo, spesso in passato\nquesto Pokémon si scontrava con gli esseri umani.",
+        "I Lairon lottano per il territorio scagliandosi l’uno\ncontro l’altro. A un’osservazione attenta, la loro\narmatura d’acciaio mostra graffi e ammaccature."
+    ],
+    "height": 0.9,
+    "id": 305,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "name": "Lairon",
+    "types": [
+        "Acciaio",
+        "Roccia"
+    ],
+    "weight": 120.0
+}

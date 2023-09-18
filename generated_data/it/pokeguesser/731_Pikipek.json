@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Riesce a beccare i tronchi degli alberi al ritmo di\n16 colpi al secondo. Usa i buchi così scavati\ncome nido o per immagazzinare cibo.",
+        "Si nutre di bacche. Usa come proiettili i semi\ndelle bacche mangiate, sputandoli dal becco\nper attaccare.",
+        "Picchia sul legno con il suo duro becco.\nDal ritmo dei suoi colpi è possibile capire\nil suo umore e il suo stato di salute.",
+        "Sembra esile ma nel collo ha muscoli d’acciaio.\nRiesce a beccare i tronchi degli alberi al ritmo\ndi 16 colpi al secondo."
+    ],
+    "height": 0.3,
+    "id": 731,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+    "name": "Pikipek",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 1.2
+}

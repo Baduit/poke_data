@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Un spécimen bien entraîné peut\nsentir et identifier les émotions de\nquelqu’un à plus d’un kilomètre.",
+        "Un spécimen bien entraîné peut\nsentir et identifier les émotions de\nquelqu’un à plus d’un kilomètre.",
+        "Il peut deviner les pensées et les mouvements des\nautres en analysant leur aura.",
+        "Il peut sentir et identifier les émotions de quelqu’un\nà plus d’un kilomètre.",
+        "Il peut deviner les pensées et les mouvements des autres\nen analysant leur aura.",
+        "Il peut sentir et identifier les émotions de quelqu’un à plus\nd’un kilomètre.",
+        "Ne se contentant pas de percevoir les auras,\nil peut également les modifier. Il n’hésite pas\nà s’en servir en plein combat.",
+        "Il peut détecter les émotions des individus\nse trouvant à 1 km, ainsi que leur espèce.\nIl chasse en meute en se servant des auras.",
+        "Il peut canaliser son énergie mentale pour\ndéchaîner des auras mystérieuses capables\nde réduire d’énormes rochers en miettes.",
+        "Grâce à ses auras, il peut détecter toutes les\némotions de son adversaire, même celles qu’il\npréférerait ignorer et qui lui causent du stress.",
+        "Il chasse ses proies en se servant d’une force\nappelée aura, dont la puissance est telle qu’elle\nlui permet de réduire un rocher en poussière.",
+        "Étant capable de lire ce que pensent les humains,\nce Pokémon ne s’attache qu’aux Dresseurs dotés\nd’un cœur pur."
+    ],
+    "height": 1.2,
+    "id": 448,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "name": "Lucario",
+    "types": [
+        "Combat",
+        "Acier"
+    ],
+    "weight": 54.0
+}

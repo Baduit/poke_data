@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Con il tempo si fa sempre più lungo. La notte avvolge\nil suo corpo attorno a qualche ramo per dormire.",
+        "Si muove in modo silenzioso e furtivo. Si nutre di uova\ndi uccelli come Pidgey e Spearow, che ingoia intere.",
+        "Ekans si attorciglia a spirale per riposarsi. In questa posizione\nriesce a reagire alle insidie provenienti da ogni parte grazie\nalla testa sollevata e allo sguardo fulminante.",
+        "Ekans si attorciglia a spirale per riposarsi. In questa posizione\nriesce a reagire alle insidie provenienti da ogni parte grazie\nalla testa sollevata e allo sguardo fulminante.",
+        "Può sganciare la mandibola per ingoiare intere\nprede più grosse di lui. Dopo il pasto, si\narrotola su se stesso per riposarsi.",
+        "È ghiotto di Uova di Pokémon alati, che ingoia\nintere. Può accadere che gli si blocchino in\ngola, togliendogli il respiro.",
+        "Si allunga sempre più con l’età.\nLa notte si avvolge attorno a qualche ramo\nper dormire.",
+        "Si allunga sempre più con l’età.\nLa notte si avvolge attorno a qualche ramo\nper dormire."
+    ],
+    "height": 2.0,
+    "id": 23,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "name": "Ekans",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 6.9
+}

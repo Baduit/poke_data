@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "２根触手原本是鳍。\n释放电力让猎物麻痹后进行袭击。",
+        "在光线都无法到达的海底生活。\n让触手发光来与伙伴们交流。",
+        "会通过２根触手发出\n微光来吸引猎物。\n是一种在夜钓时很有用的宝可梦。",
+        "灯笼鱼之间会通过发光触手上\n发出的闪光来宣示各自的领地。",
+        "从鳍变化而来的触手\n之中，分别流通着\n正电以及负电。",
+        "在黑暗的海底，\n触手上不断闪烁着的光\n是它们唯一的通信手段。"
+    ],
+    "height": 0.5,
+    "id": 170,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "name": "灯笼鱼",
+    "types": [
+        "水",
+        "电"
+    ],
+    "weight": 12.0
+}

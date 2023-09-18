@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Es ist überall in der Galar-Region anzutreffen.\nHat es keine Beeren, die es in seinen beiden\nBacken horten kann, wird es unruhig.",
+        "Da es unentwegt Beeren futtert, ist es zäher als\nes aussieht. Man sieht es oft auf Feldern, wo es\nnach Beeren sucht."
+    ],
+    "height": 0.3,
+    "id": 819,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "name": "Raffel",
+    "types": [
+        "Normal"
+    ],
+    "weight": 2.5
+}

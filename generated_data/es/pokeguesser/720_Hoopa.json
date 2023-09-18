@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Este problemático Pokémon envía cualquier objeto a\nlugares remotos mediante unos anillos que deforman\nel espacio.",
+        "Reúne los objetos que le atraen para esconderlos\nen una guarida secreta, teletransportándolos a\ntravés de sus anillos.",
+        "En su forma original, este Pokémon posee una fuerza\ndescomunal. Una leyenda cuenta que una vez robó un tesoro\ndel interior de una fortaleza.",
+        "Dicen que gracias a sus seis anillos y seis enormes brazos\npuede robar todo lo que se le antoja.\nAdquirió una forma reducida cuando alguien selló su poder."
+    ],
+    "height": 0.5,
+    "id": 720,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
+    "name": "Hoopa",
+    "types": [
+        "Psíquico",
+        "Fantasma"
+    ],
+    "weight": 9.0
+}

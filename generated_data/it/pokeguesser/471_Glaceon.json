@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Modificando la temperatura del corpo, congela\nl’aria e crea folate di cristalli di ghiaccio.",
+        "Abbassa la temperatura del corpo per ghiacciare i\npropri peli e lanciarli come micidiali aghi sottilissimi.",
+        "Modificando la temperatura del corpo, congela l’aria e crea\nfolate di cristalli di ghiaccio.",
+        "Abbassa la temperatura del corpo per ghiacciare i propri peli\ne lanciarli come micidiali aghi sottilissimi.",
+        "Può congelare l’umidità dell’aria modificando la\nsua temperatura corporea e creare cristalli\ndi ghiaccio intorno a sé.",
+        "Congela la sua pelliccia creando tanti piccoli\nghiaccioli appuntiti, con cui poi attacca\nle sue prede.",
+        "Congela la sua pelliccia creando degli aghi\nacuminati per difendersi. La sua temperatura\ncorporea può scendere fino a -60 °C.",
+        "In un istante congela l’umidità circostante e crea\ngranelli di ghiaccio che scaglia sulla preda.",
+        "Crea dei meravigliosi cristalli di ghiaccio per\nammaliare le prede, che si ritrovano congelate\nsenza neanche rendersene conto.",
+        "L’aria gelida emessa da Glaceon genera una\nneve molto sottile, perfetta per le piste da sci."
+    ],
+    "height": 0.8,
+    "id": 471,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "name": "Glaceon",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 25.9
+}

@@ -1,0 +1,29 @@
+{
+    "descriptions": [
+        "Its body is composed of plasma. It\nis known to infiltrate electronic\ndevices and wreak havoc.",
+        "Its body is composed of plasma. It\nis known to infiltrate electronic\ndevices and wreak havoc.",
+        "Its electric-like body can enter\nsome kinds of machines and take\ncontrol in order to make mischief.",
+        "Research continues on this Pokémon,\nwhich could be the power source of a\nunique motor.",
+        "Research continues on this Pokémon,\nwhich could be the power source of a\nunique motor.",
+        "Its electric-like body can enter\nsome kinds of machines and take\ncontrol in order to make mischief.",
+        "Its electric-like body can enter\nsome kinds of machines and take\ncontrol in order to make mischief.",
+        "Its electric-like body can enter\nsome kinds of machines and take\ncontrol in order to make mischief.",
+        "Its electric-like body can enter\nsome kinds of machines and take\ncontrol in order to make mischief.",
+        "Research continues on this Pokémon, which could\nbe the power source of a unique motor.",
+        "Its body is composed of plasma. It is known to\ninfiltrate electronic devices and wreak havoc.",
+        "Research continues on this Pokémon, which could\nbe the power source of a unique motor.",
+        "Its body is composed of plasma. It is known to\ninfiltrate electronic devices and wreak havoc.",
+        "One boy’s invention led to the development of\nmany different machines that take advantage of\nRotom’s unique capabilities.",
+        "With a body made of plasma, it can inhabit all\nsorts of machines. It loves to surprise others.",
+        "This bizarre Pokémon appears to be a will-o'-the-wisp powered\nby electricity. Be wary, as Rotom is both smart and mischievous."
+    ],
+    "height": 0.3,
+    "id": 479,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "name": "Rotom",
+    "types": [
+        "Electric",
+        "Ghost"
+    ],
+    "weight": 0.3
+}

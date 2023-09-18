@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il peut manipuler les souvenirs de\nses ennemis et fait clignoter ses doigts\ntricolores pour discuter avec ses amis.",
+        "Il manipule l’esprit avec ses pouvoirs\npsychiques et peut modifier les images\nconservées dans les souvenirs.",
+        "Il fait clignoter ses doigts tricolores pour communiquer\navec ses semblables. Son langage reste un mystère.",
+        "Il manipule l’esprit avec ses pouvoirs psychiques\net peut modifier les images conservées dans les\nsouvenirs.",
+        "Il fait clignoter ses doigts tricolores pour communiquer\navec ses semblables. Son langage reste un mystère.",
+        "Il manipule l’esprit avec ses pouvoirs psychiques et peut\nmodifier les images conservées dans les souvenirs.",
+        "Il peut modifier les souvenirs avec ses pouvoirs\npsychiques. Vous ne le savez pas encore,\nmais vous avez peut-être déjà tout oublié...",
+        "Ses pouvoirs psychiques sont redoutables.\nIl peut contrôler ses adversaires et modifier\nleurs souvenirs grâce à ses doigts tricolores.",
+        "À chaque fois que Neitram se matérialise\ndans une pâture, un Moumouflon disparaît\ndans des circonstances mystérieuses.",
+        "Il peut manipuler les souvenirs de son adversaire\nà loisir. Parfois, on l’aperçoit en train de\nvagabonder au-dessus des champs de blé."
+    ],
+    "height": 1.0,
+    "id": 606,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+    "name": "Neitram",
+    "types": [
+        "Psy"
+    ],
+    "weight": 34.5
+}

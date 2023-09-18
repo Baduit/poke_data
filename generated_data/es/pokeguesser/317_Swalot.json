@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Se traga cualquier cosa de una pieza. Sus poros\nsegregan fluidos tóxicos que dañan a sus enemigos.",
+        "Se traga todo lo que le quepa en su enorme boca.\nSus jugos gástricos pueden digerir cualquier cosa.",
+        "Cuando Swalot detecta una presa, echa por los poros, y a\nborbotones, un fluido tóxico espantoso con el que rocía a su\nvíctima. Una vez que la debilita, se la traga entera gracias a\nla gigantesca boca que tiene.",
+        "Swalot no tiene dientes, así que lo que come se lo traga de\nuna vez; da igual lo que sea. A este Pokémon le cabría un\nneumático en la boca sin problema."
+    ],
+    "height": 1.7,
+    "id": 317,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "name": "Swalot",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 80.0
+}

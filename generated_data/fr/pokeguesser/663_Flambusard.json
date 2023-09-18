@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Exalté par un combat sans merci, il s’envole en\nsemant dans son sillage les escarbilles du feu qui\ncouve dans son plumage.",
+        "Quand il s’abat sur ses proies, sa vitesse dépasse\nles 500 km/h. Il les achève d’un puissant coup de\nserre.",
+        "Exalté par un combat sans merci, il s’envole en semant\ndans son sillage les escarbilles du feu qui couve dans\nson plumage.",
+        "Quand il s’abat sur ses proies, sa vitesse dépasse\nles 500 km/h. Il les achève d’un puissant coup de serre.",
+        "Il raffole des Goélise et des Picassaut.\nIl déstabilise ses proies d’un bon coup de patte\navant de les capturer avec ses serres acérées.",
+        "Il fond sur ses proies en piqué à 500 km/h,\nsemant derrière lui une pluie d’escarbilles\néchappées de ses ailes.",
+        "Son plumage résistant est ignifugé.\nJadis, la combinaison portée par les pompiers\nétait faite de plumes de Flambusard.",
+        "La plupart de ses proies sont des Pokémon\noiseaux. Il surgit sans prévenir et propulse\nsa victime au sol d’un puissant coup de patte.",
+        "Flambusard chasse surtout les Pokémon oiseaux.\nIl intimide ses adversaires en produisant\ndes étincelles avec son plumage.",
+        "Flambusard attaque à une vitesse de 500 km/h.\nIl achève ses proies d’un puissant coup de patte\nsans leur laisser la moindre chance de fuir."
+    ],
+    "height": 1.2,
+    "id": 663,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "name": "Flambusard",
+    "types": [
+        "Feu",
+        "Vol"
+    ],
+    "weight": 24.5
+}

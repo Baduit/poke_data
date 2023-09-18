@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Ils vivent en petits groupes.\nLa membrane qui couvre leurs yeux\nles protège du soleil.",
+        "La membrane spéciale qui recouvre ses\nyeux détecte la chaleur et lui permet\nde voir dans le noir.",
+        "Ils vivent en petits groupes. La membrane qui couvre\nleurs yeux les protège du soleil.",
+        "La membrane spéciale qui recouvre ses yeux détecte\nla chaleur et lui permet de voir dans le noir.",
+        "Ils vivent en petits groupes. La membrane qui couvre\nleurs yeux les protège du soleil.",
+        "La membrane spéciale qui recouvre ses yeux détecte\nla chaleur et lui permet de voir dans le noir.",
+        "Les Escroco se déplacent en bandes, souvent\nmenées par une femelle. La plupart du temps,\nles mâles se chargent de collecter la nourriture.",
+        "Grâce à la membrane spéciale qui recouvre\nses yeux, il peut distinguer parfaitement\nses environs, même en pleine nuit.",
+        "Son corps supportant mal les baisses de\ntempérature, il s’ensable profondément lorsque\nles nuits sont trop fraîches.",
+        "Il garde une partie de ses prises en réserve\ndans le sable, au cas où il rentrerait bredouille\nde la chasse.",
+        "Il chasse de nuit sans difficulté grâce à\nses yeux particuliers qui lui permettent\nde voir dans l’obscurité.",
+        "Bien que ses yeux particuliers lui permettent\nde voir dans l’obscurité, les nuits sont si froides\ndans le désert qu’il ne se déplace presque pas."
+    ],
+    "height": 1.0,
+    "id": 552,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+    "name": "Escroco",
+    "types": [
+        "Sol",
+        "Ténèbres"
+    ],
+    "weight": 33.4
+}

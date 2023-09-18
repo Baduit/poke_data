@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se saludan entre sí frotándose con la cola y\nlimpiándose a conciencia.",
+        "Le encanta la limpieza. Usa su cola a modo de escoba\ny se pasa el día barre que te barre.",
+        "Se saludan entre sí frotándose con la cola y limpiándose a\nconciencia.",
+        "Le encanta la limpieza. Usa su cola a modo de escoba y se\npasa el día barre que te barre.",
+        "Este Pokémon es extremadamente pulcro y no\npuede ver ni una mota de suciedad o la limpiará\nusando su cola como si fuera una mopa.",
+        "Tras usar la cola para limpiar su madriguera o\nsu propio cuerpo, se pasa un día entero\nlavándosela con agua de manantial.",
+        "Usa la cola para barrer la basurilla. Su extrema\npulcritud es tanto una ayuda en la limpieza del\nhogar como un incordio.",
+        "Se saludan entre sí frotándose la cola. Cuanto\nmás voluminosa es, más orgullosos se muestran."
+    ],
+    "height": 0.4,
+    "id": 572,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "name": "Minccino",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.8
+}

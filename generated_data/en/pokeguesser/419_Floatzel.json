@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "It floats using its well-developed\nflotation sac. It assists in the\nrescues of drowning people.",
+        "Its flotation sac developed as a\nresult of pursuing aquatic prey.\nIt can double as a rubber raft.",
+        "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey.",
+        "With its flotation sac inflated, it\ncan carry people on its back. It\ndeflates the sac before it dives.",
+        "With its flotation sac inflated, it\ncan carry people on its back. It\ndeflates the sac before it dives.",
+        "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey.",
+        "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey.",
+        "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey.",
+        "It is a common sight around\nfishing ports. It is known to\nrescue people and carry off prey.",
+        "It floats using its well-developed flotation sac.\nIt assists in the rescues of drowning people.",
+        "Its flotation sac developed as a result of pursuing\naquatic prey. It can double as a rubber raft.",
+        "It floats using its well-developed flotation sac.\nIt assists in the rescues of drowning people.",
+        "Its flotation sac developed as a result of pursuing\naquatic prey. It can double as a rubber raft.",
+        "Has a long, rather splendid flotation sac, which prevents\nFloatzel from drowning even in stormy seas. One might glimpse\nthis species around fishing hamlets from time to time."
+    ],
+    "height": 1.1,
+    "id": 419,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "name": "Floatzel",
+    "types": [
+        "Water"
+    ],
+    "weight": 33.5
+}

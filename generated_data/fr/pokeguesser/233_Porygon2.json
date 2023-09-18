@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il a subi une mise à jour censée lui\npermettre d’explorer d’autres\nplanètes... C’est un échec.",
+        "Il a subi une mise à jour censée lui\npermettre d’explorer d’autres\nplanètes... C’est un échec.",
+        "Des recherches poussées ont amélioré ses capacités.\nIl a appris de nouveaux mouvements.",
+        "On lui a installé un logiciel de terraformation pour\nlui permettre de travailler dans l’espace.",
+        "Porygon2 fut créé par des humains grâce aux progrès\nde la science. Ce Pokémon a été doté d’une intelligence\nartificielle qui lui permet d’apprendre de nouveaux\nmouvements et des émotions par lui-même.",
+        "Porygon2 fut créé par des humains grâce aux progrès\nde la science. Ce Pokémon a été doté d’une intelligence\nartificielle qui lui permet d’apprendre de nouveaux\nmouvements et des émotions par lui-même.",
+        "Cette mise à jour de Porygon a été conçue\ndans le cadre d’un projet de terraformation,\ngrâce aux avancées scientifiques de l’époque.",
+        "Version évoluée de Porygon, créée dans l’espoir\nde pouvoir un jour terraformer des planètes,\nun rêve loin d’être concrétisé pour l’instant.",
+        "Grâce à son intelligence artificielle, il peut\napprendre beaucoup de choses par lui-même,\nqu’elles soient utiles... ou un peu superflues.",
+        "Bien qu’il puisse survivre dans l’espace, il peine\nmalheureusement à se mouvoir en apesanteur.",
+        "Fruit de la mise à jour d’un Porygon avec\ndes données spéciales, il peut apprendre\net se développer de manière autonome.",
+        "Depuis qu’on l’a doté d’une intelligence\nartificielle, il parle un langage mystérieux\nque seuls ses congénères comprennent."
+    ],
+    "height": 0.6,
+    "id": 233,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+    "name": "Porygon2",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.5
+}

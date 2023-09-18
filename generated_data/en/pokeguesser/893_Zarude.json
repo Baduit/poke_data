@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Within dense forests, this Pokémon lives in a pack\nwith others of its kind. It’s incredibly aggressive,\nand the other Pokémon of the forest fear it.",
+        "Once the vines on Zarude’s body tear off, they\nbecome nutrients in the soil. This helps the plants\nof the forest grow."
+    ],
+    "height": 1.8,
+    "id": 893,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+    "name": "Zarude",
+    "types": [
+        "Dark",
+        "Grass"
+    ],
+    "weight": 70.0
+}

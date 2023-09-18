@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Al evolucionar se divide en dos espadas.\nSe comunican entre sí mediante telepatía y\ncoordinan los ataques para rebanar al enemigo.",
+        "Ni siquiera el espadachín más ducho conseguiría\nesquivar los complejos ataques que encadenan\nambas espadas a la vez.",
+        "Al evolucionar se divide en dos espadas. Se comunican entre\nsí mediante telepatía y coordinan los ataques para rebanar al\nenemigo.",
+        "Ni siquiera el espadachín más ducho conseguiría esquivar los\ncomplejos ataques que encadenan ambas espadas a la vez.",
+        "Su espada se duplicó durante su proceso de\nevolución. Intimida a los rivales con el chirrido\nmetálico que produce al frotar ambas hojas.",
+        "Su táctica para abatir a las presas consiste en\nalternar ataque y defensa de forma frenética\nentre ambas espadas."
+    ],
+    "height": 0.8,
+    "id": 680,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "name": "Doublade",
+    "types": [
+        "Acero",
+        "Fantasma"
+    ],
+    "weight": 4.5
+}

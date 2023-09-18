@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es un poco coqueto, por lo que, cuando puede,\nse acicala las alas. En ocasiones se niega a\ncombatir por temor a mancharse las plumas.",
+        "Ataca a sus presas y enemigos lanzándoles\nplumas sorprendentemente afiladas. Acierta\nprácticamente siempre.",
+        "Es narcisista y bastante pulcro, por lo que, si no\nse le dedica suficiente atención a su aseo, se\nniega a obedecer cualquier orden.",
+        "Su capacidad de percepción es excelente y\npuede detectar una presencia a sus espaldas\ny aniquilarla con sus afiladas plumas.",
+        "Golpea con precisión los puntos vitales del\nenemigo arrojando sus plumas afiladas como\ncuchillos.",
+        "Jamás desatiende el cuidado de sus alas, no solo\npor mera cuestión estética, sino también para\nmantener las plumas perfectamente afiladas."
+    ],
+    "height": 0.7,
+    "id": 723,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "name": "Dartrix",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 16.0
+}

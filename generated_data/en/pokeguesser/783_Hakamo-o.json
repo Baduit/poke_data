@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "It leaps at its prey with a courageous shout.\nIts scaly punches tear its opponents to shreds.",
+        "It sheds and regrows its scales on a continuous\nbasis. The scales become harder and sharper\neach time they’re regrown.",
+        "It makes noise by clanging its scales together.\nWhen the rhythm has reached its peak,\nHakamo-o attacks.",
+        "The scales it sheds can be molded and\nprocessed to make pots and pans. They\nconduct heat well, so they’re a popular item.",
+        "The scaleless, scarred parts of its body are\nsigns of its strength. It shows them off to\ndefeated opponents.",
+        "Before attacking its enemies, it clashes its\nscales together and roars. Its sharp claws\nshred the opposition."
+    ],
+    "height": 1.2,
+    "id": 783,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "name": "Hakamo-o",
+    "types": [
+        "Dragon",
+        "Fighting"
+    ],
+    "weight": 47.0
+}

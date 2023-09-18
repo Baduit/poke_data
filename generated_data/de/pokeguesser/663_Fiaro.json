@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Die Aufregung eines harten Kampfes veranlasst es\ndazu, im Flug Funken aus den Zwischenräumen\nseines Gefieders zu sprühen.",
+        "Bei der Jagd erreicht es Geschwindigkeiten von bis zu\n500 km/h. Es erledigt seine Beute mit einem kräftigen\nTritt.",
+        "Die Aufregung eines harten Kampfes veranlasst es dazu,\nim Flug Funken aus den Zwischenräumen seines Gefieders\nzu sprühen.",
+        "Bei der Jagd erreicht es Geschwindigkeiten von bis zu\n500 km/h. Es erledigt seine Beute mit einem kräftigen Tritt.",
+        "Auf seinem Speiseplan stehen bevorzugt Wingull\nund Peppeck. Es schaltet seine Beute mit einem\nkräftigen Tritt aus, um sie sich dann zu krallen.",
+        "Bei bis zu 500 km/h sprüht es im Flug Funken\naus den Zwischenräumen seines Gefieders und\nstürzt sich schnurstracks auf seine Beute.",
+        "Sein Gefieder ist robust und feuerfest. Früher\nfertigte man Feuerwehranzüge deshalb aus\nFiaro-Federn.",
+        "Fiaro ernährt sich vor allem von Vogel-Pokémon.\nEs nähert sich überfallartig seiner Beute und\nbefördert sie mit einem kräftigen Tritt zu Boden.",
+        "Fiaro ernährt sich vor allem von Vogel-Pokémon.\nAus den Zwischenräumen seines Gefieders sprüht\nes Funken, um seine Gegner einzuschüchtern.",
+        "Fiaro greift mit einer Geschwindigkeit von bis zu\n500 km/h an. Mit einem kräftigen Tritt erlegt es\nseine Beute und gibt ihr keine Chance zur Flucht."
+    ],
+    "height": 1.2,
+    "id": 663,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "name": "Fiaro",
+    "types": [
+        "Feuer",
+        "Flug"
+    ],
+    "weight": 24.5
+}

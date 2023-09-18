@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "尻尾を　バネのかわりに　いつも\n飛び跳ねている。跳ねる　振動で\n心臓を　鼓動　させているのだ。",
+        "尻尾で　飛び跳ねて　心臓を\n動かしている。パールルの　作った\n真珠を　頭に　乗せている。",
+        "シッポで　びょんびょん　飛び跳ねる　ポケモン。\n飛び跳ねる　振動で　心臓を　動かして\nいるので　飛び跳ねる　ことは　止められないのだ。",
+        "頭に　乗せた　真珠が　バネブーの\nサイコパワーを　高める　働きをする。\n大きな　真珠を　いつも　探している。"
+    ],
+    "height": 0.7,
+    "id": 325,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "name": "バネブー",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 30.6
+}

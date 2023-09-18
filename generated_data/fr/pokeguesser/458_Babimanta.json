@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "On organise des excursions pour le\nvoir surfer sur les vagues au côté\ndes Rémoraid.",
+        "On organise des excursions pour le\nvoir surfer sur les vagues au côté\ndes Rémoraid.",
+        "Les motifs sur son dos sont différents selon les\nrégions. On le voit souvent dans des bancs de\nRémoraid.",
+        "Il nage si proche de la surface que l’on peut voir\nles motifs sur son dos depuis un bateau.",
+        "Les motifs sur son dos sont différents selon les régions.\nOn le voit souvent dans des bancs de Rémoraid.",
+        "Il nage si proche de la surface que l’on peut voir les motifs\nsur son dos depuis un bateau.",
+        "Il est très affectueux et adore les humains.\nLes excursions permettant d’aller nager avec\nlui sont très populaires auprès des touristes.",
+        "Il s’approche souvent des bateaux pour\nsympathiser avec les humains. Le motif\nqui orne son dos varie selon son habitat.",
+        "Les Babimanta vivant à Galar semblent un peu\nengourdis. Cela pourrait être dû à la basse\ntempérature de la mer.",
+        "Il nage au sein des bancs de Rémoraid.\nLorsqu’un prédateur les attaque, il se bat\nà leurs côtés."
+    ],
+    "height": 1.0,
+    "id": 458,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "name": "Babimanta",
+    "types": [
+        "Eau",
+        "Vol"
+    ],
+    "weight": 65.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es taucht seinen großen Schnabel ins Wasser\nund fängt so eine Menge Beute.",
+        "Ein Bote der Lüfte. Bringt Eier und kleine Pokémon\nin seinem Schnabel in Sicherheit.",
+        "Pelipper transportiert kleine Pokémon und Eier in seinem\nriesigen Schnabel durch die Lüfte. Dieses Pokémon baut\nsein Nest auf steilen Klippen am Meer.",
+        "Pelipper sucht nach Nahrung, während es über die Wellen\nfliegt. Dieses Pokémon taucht seinen großen Schnabel ins\nMeer, um seine Beute abzuschöpfen. Dann schluckt es alles\nauf einmal herunter.",
+        "Sein riesiger Schnabel ist so groß, dass sogar\nein kleines Kind problemlos hineinpassen würde.",
+        "Die jungen Männchen beschaffen die Nahrung.\nSie sammeln die Beute in ihrem großen Schnabel\nund bringen sie zurück ins Nest zu den anderen.",
+        "In seinem riesigen Schnabel transportiert es\nkleine Pokémon. Niemand weiß, wohin es sie\nbringt.",
+        "Mit seinem großen Schnabel schöpft es Lusardin\naus dem Wasser und schluckt sie im Ganzen.\nEs kann über 30 Stück auf einmal verspeisen.",
+        "Ein Bote der Lüfte. Es bringt Eier und kleine\nPokémon in seinem Schnabel in Sicherheit.",
+        "Es schnappt sich seine Beute, indem es beim\nFliegen mit seinem großen Schnabel das Wasser\nstreift."
+    ],
+    "height": 1.2,
+    "id": 279,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "name": "Pelipper",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 28.0
+}

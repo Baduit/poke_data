@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Malgré sa petite taille, son intelligence lui permet\nd’affronter sans trembler de grands Pokémon tels que\nles Mackogneur ou les Hariyama.",
+        "Il utilise ses ailes pour contrôler avec précision sa\nposture en vol. Ses attaques aériennes sont difficiles\nà parer.",
+        "Malgré sa petite taille, son intelligence lui permet d’affronter\nsans trembler de grands Pokémon tels que les Mackogneur\nou les Hariyama.",
+        "Il utilise ses ailes pour contrôler avec précision sa posture\nen vol. Ses attaques aériennes sont difficiles à parer.",
+        "Il terrasse ses adversaires grâce à sa vitesse,\nmais se pavane tant avant de lancer sa botte\nsecrète qu’il se retrouve parfois en difficulté.",
+        "Il combat ses adversaires en sautillant pour\nse retrouver dans leur angle mort. Il maîtrise\nde formidables techniques de clés articulaires.",
+        "Il utilise des tactiques basées sur son agilité\npour fatiguer son adversaire, et termine\nle combat par une magnifique frappe décisive.",
+        "Il prend toujours la pose avant de donner le coup\nde grâce à son adversaire. Certains en profitent\npour contre-attaquer."
+    ],
+    "height": 0.8,
+    "id": 701,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "name": "Brutalibré",
+    "types": [
+        "Combat",
+        "Vol"
+    ],
+    "weight": 21.5
+}

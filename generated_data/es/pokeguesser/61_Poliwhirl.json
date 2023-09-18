@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Capaz de vivir dentro o fuera del agua. Fuera del agua\nsuda para mantener baboso su cuerpo.",
+        "Tiene unas extremidades inferiores muy desarrolladas.\nAunque puede vivir en tierra, prefiere el medio\nacuático.",
+        "La piel de Poliwhirl está siempre húmeda y lubricada con un\nfluido viscoso. Gracias a esta película resbaladiza, puede\nescapar de las garras del enemigo, resbalándosele de las\nzarpas en pleno combate.",
+        "La piel de Poliwhirl está siempre húmeda y lubricada con un\nfluido viscoso. Gracias a esta película resbaladiza, puede\nescapar de las garras del enemigo, resbalándosele de las\nzarpas en pleno combate.",
+        "Puede vivir en tierra firme perfectamente, pero\nprefiere el agua, donde encuentra menos\nenemigos naturales.",
+        "Sale a la superficie en busca de Pokémon\ninsecto que llevarse a la boca, aunque luego\nprefiere comérselos bajo la seguridad del agua.",
+        "Puede vivir en tierra firme perfectamente, pero\nprefiere el agua, donde encuentra más Pokémon\npez que le sirven de sustento.",
+        "Cuando se le seca la piel, su salud se resiente,\npor lo que conviene asegurarse de mantenerlo\nsiempre bien hidratado.",
+        "Cuando se siente intimidado, usa la espiral del\nvientre para adormecer al rival y aprovechar\npara escaparse.",
+        "Cuando se siente intimidado, usa la espiral del\nvientre para adormecer al rival y aprovechar\npara escaparse.",
+        "Mirar fijamente la espiral de su vientre provoca\nsomnolencia, por lo que puede usarse como\nalternativa a las nanas para dormir a los niños.",
+        "Secreta un sudor viscoso que le sirve para\nescurrirse y escapar del agarre de sus enemigos."
+    ],
+    "height": 1.0,
+    "id": 61,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "name": "Poliwhirl",
+    "types": [
+        "Agua"
+    ],
+    "weight": 20.0
+}

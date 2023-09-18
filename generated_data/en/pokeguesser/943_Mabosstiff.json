@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+        "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+    ],
+    "height": 1.1,
+    "id": 943,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    "name": "Mabosstiff",
+    "types": [
+        "Dark"
+    ],
+    "weight": 61.0
+}

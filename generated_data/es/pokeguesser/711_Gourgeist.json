@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "En las noches de luna nueva deambula por las calles\nde las ciudades y emite espeluznantes alaridos que\nmaldicen a quienes los oyen.",
+        "Atrapa a su presa con los brazos, que parecen formar\nsendas matas de pelo, y entona una alegre canción\nmientras se regodea con su sufrimiento.",
+        "En las noches de luna nueva deambula por las calles de las\nciudades y emite espeluznantes alaridos que maldicen a\nquienes los oyen.",
+        "Atrapa a su presa con los brazos, que parecen formar sendas\nmatas de pelo, y entona una alegre canción mientras se\nregodea con su sufrimiento.",
+        "Se dice que los espeluznantes alaridos que emite\nbien entrada la noche son los lamentos de almas\nen pena desde el más allá.",
+        "Las noches de luna nueva llama a la puerta de las\ncasas y se lleva al otro mundo a quien abra."
+    ],
+    "height": 0.9,
+    "id": 711,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "name": "Gourgeist",
+    "types": [
+        "Fantasma",
+        "Planta"
+    ],
+    "weight": 12.5
+}

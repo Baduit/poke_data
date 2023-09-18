@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "しんかした　ばしょによって　すがたが\nかわる。みぢかにある　ざいりょうが\nからだの　いちぶに　なるのだ。",
+        "ミノムッチから　しんかしたとき\nミノが　からだの　いちぶに　なった。\nいっしょう　ミノを　ぬぐことはない。",
+        "しんかした　ばしょによって　すがたが\nかわる。みぢかにある　ざいりょうが\nからだの　いちぶに　なるのだ。",
+        "ミノムッチから　しんかしたとき\nミノが　からだの　いちぶに　なった。\nいっしょう　ミノを　ぬぐことはない。"
+    ],
+    "height": 0.5,
+    "id": 413,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+    "name": "ミノマダム",
+    "types": [
+        "むし",
+        "くさ"
+    ],
+    "weight": 6.5
+}
