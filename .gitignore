@@ -36,3 +36,6 @@ build
 gcc_build
 msvc_build
 clang_build
+
+# Annoying
+settings.json
