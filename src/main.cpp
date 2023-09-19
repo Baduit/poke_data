@@ -19,20 +19,27 @@ void write_to_file(const std::filesystem::path& output_filename, const nlohmann:
 	output_stream << value.dump(4);
 }
 
+auto handle_args(int argc, char** argv)
+{
+	if (argc != 3)
+		throw std::runtime_error(std::format("Wrong number of argument.\nHelp:\n", help_message));
+
+	std::filesystem::path input_dir = argv[1];
+	if (!std::filesystem::exists(input_dir))
+		throw std::runtime_error(std::format("Invalid input directory.\nHelp:\n", help_message));
+
+	std::filesystem::path output_dir = argv[2];
+	if (!std::filesystem::exists(output_dir))
+		throw std::runtime_error(std::format("Invalid output directory.\nHelp:\n", help_message));
+	
+	return std::make_pair(input_dir, output_dir);
+}
+
 int main(int argc, char** argv)
 {
 	try
 	{
-		if (argc != 3)
-			throw std::runtime_error(std::format("Wrong number of argument.\nHelp:\n", help_message));
-
-		std::filesystem::path input_dir = argv[1];
-		if (!std::filesystem::exists(input_dir))
-			throw std::runtime_error(std::format("Invalid input directory.\nHelp:\n", help_message));
-
-		std::filesystem::path output_dir = argv[2];
-		if (!std::filesystem::exists(output_dir))
-			throw std::runtime_error(std::format("Invalid output directory.\nHelp:\n", help_message));
+		auto [input_dir, output_dir] = handle_args(argc, argv);
 
 		// Todo : unify both these map into one map
 		std::map<pokemon::Language, pokemon::MetaData> metadata_per_langage;
