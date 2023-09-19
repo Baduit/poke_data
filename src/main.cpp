@@ -41,50 +41,69 @@ struct PokemonData
 	std::vector<pokemon::OneLanguagePokemon> pokemons;
 };
 
+
+std::map<pokemon::Language, PokemonData> extract_data(const std::filesystem::path& input_dir)
+{
+	std::map<pokemon::Language, PokemonData> pokemon_data;
+	for (auto&& complete_pokemon: pokemon::PokemonGenerator::generatePokemon(input_dir))
+	{
+		for (auto&& [language, pokemon]: complete_pokemon.generatePkemonByLanguage())
+		{
+			pokemon_data[language].metadata.names.push_back(pokemon.name);
+			pokemon_data[language].pokemons.push_back(std::move(pokemon));
+		}
+	}
+	return pokemon_data;
+}
+
+std::filesystem::path generate_data_directory(const std::filesystem::path& output_dir)
+{
+	std::filesystem::path generated_dir = output_dir / "generated_data";
+	if (!std::filesystem::create_directory(generated_dir))
+		throw std::runtime_error(std::format("Can't create data directory inside output directory : {}", generated_dir.string()));
+	return generated_dir;
+}
+
+std::filesystem::path generate_language_directory(const pokemon::Language& language, const std::filesystem::path& generated_dir)
+{
+	std::filesystem::path language_dir = generated_dir / language.value_of();
+	if (!std::filesystem::create_directory(language_dir))
+		throw std::runtime_error(std::format("Can't create the language directory : {}", language_dir.string()));
+	return language_dir;
+}
+
+std::filesystem::path generate_pokeguesser_directory(const std::filesystem::path& language_dir)
+{
+	std::filesystem::path pokeguesser_directory = language_dir / "pokeguesser";
+	if (!std::filesystem::create_directory(pokeguesser_directory))
+		throw std::runtime_error(std::format("Can't create the pokeguesser directory : {}", pokeguesser_directory.string()));
+	return pokeguesser_directory;
+}
+
+void write_pokeguesser_data(const std::filesystem::path& pokeguesser_directory, const std::vector<pokemon::OneLanguagePokemon>& pokemons)
+{
+	for (const auto& pokemon: pokemons)
+	{
+		std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
+		write_to_file(pokeguesser_directory / pokemon_filename, pokemon);
+	}
+}
+
 int main(int argc, char** argv)
 {
 	try
 	{
 		auto [input_dir, output_dir] = handle_args(argc, argv);
-
-		std::map<pokemon::Language, PokemonData> pokemon_data;
-		for (auto&& complete_pokemon: pokemon::PokemonGenerator::generatePokemon(input_dir))
-		{
-			for (auto&& [language, pokemon]: complete_pokemon.generatePkemonByLanguage())
-			{
-				pokemon_data[language].metadata.names.push_back(pokemon.name);
-				pokemon_data[language].pokemons.push_back(std::move(pokemon));
-			}
-		}
-
-		// Create main output folder
-		std::filesystem::path generated_dir = output_dir / "generated_data";
-		if (!std::filesystem::create_directory(generated_dir))
-			throw std::runtime_error(std::format("Can't create data directory inside output directory : {}", generated_dir.string()));	
+		auto pokemon_data = extract_data(input_dir);
+		std::filesystem::path generated_dir = generate_data_directory(output_dir);
 	
-		// Create a folder per langage
 		for (const auto& [language, data]: pokemon_data)
 		{
 			const auto& [metadata, pokemons] = data;
-			std::filesystem::path langage_dir = generated_dir / language.value_of();
-			if (!std::filesystem::create_directory(langage_dir))
-				throw std::runtime_error(std::format("Can't create the langage directory : {}", langage_dir.string()));
-			
-			// Serialize the metadata at the top level of the langage directiry
-			write_to_file(langage_dir / "metadata.json", metadata);
-
-			// Create the pokeguesser directory
-			std::filesystem::path pokeguesser_directory = langage_dir / "pokeguesser";
-			if (!std::filesystem::create_directory(pokeguesser_directory))
-				throw std::runtime_error(std::format("Can't create the pokeguesser directory : {}", pokeguesser_directory.string()));
-
-			// Serizalize all pokemons with only the data needed for pokeguesser with the name id.json
-			for (const auto& pokemon: pokemons)
-			{
-				std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
-				write_to_file(pokeguesser_directory / pokemon_filename, pokemon);
-			}
-
+			std::filesystem::path language_dir = generate_language_directory(language, generated_dir);
+			write_to_file(language_dir / "metadata.json", metadata);
+			std::filesystem::path pokeguesser_directory = generate_pokeguesser_directory(language_dir);
+			write_pokeguesser_data(pokeguesser_directory, pokemons);
 		}
 	}
 	catch(std::exception& e)
