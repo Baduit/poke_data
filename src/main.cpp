@@ -11,6 +11,43 @@ constexpr std::string_view help_message =
 		"The second argument is the path of the output data directory will be written "
 		"(it must exists and be empty or at least without any already generated files)";
 
+struct PokemonData
+{
+	pokemon::MetaData metadata;
+	std::vector<pokemon::OneLanguagePokemon> pokemons;
+};		
+
+
+void write_to_file(const std::filesystem::path& output_filename, const nlohmann::json& value);
+std::pair<std::filesystem::path, std::filesystem::path> handle_args(int argc, char** argv);
+std::map<pokemon::Language, PokemonData> extract_pokemon_data(const std::filesystem::path& input_dir);
+std::filesystem::path generate_data_directory(const std::filesystem::path& output_dir);
+std::filesystem::path generate_language_directory(const pokemon::Language& language, const std::filesystem::path& generated_dir);
+std::filesystem::path generate_pokeguesser_directory(const std::filesystem::path& language_dir);
+void write_pokeguesser_data(const std::filesystem::path& pokeguesser_directory, const std::vector<pokemon::OneLanguagePokemon>& pokemons);
+
+int main(int argc, char** argv)
+{
+	try
+	{
+		auto [input_dir, output_dir] = handle_args(argc, argv);
+		auto pokemon_data = extract_pokemon_data(input_dir);
+		std::filesystem::path generated_dir = generate_data_directory(output_dir);
+	
+		for (const auto& [language, data]: pokemon_data)
+		{
+			const auto& [metadata, pokemons] = data;
+			std::filesystem::path language_dir = generate_language_directory(language, generated_dir);
+			write_to_file(language_dir / "metadata.json", metadata);
+			std::filesystem::path pokeguesser_directory = generate_pokeguesser_directory(language_dir);
+			write_pokeguesser_data(pokeguesser_directory, pokemons);
+		}
+	}
+	catch(std::exception& e)
+	{
+		std::cout << e.what() << std::endl;
+	}
+}
 
 void write_to_file(const std::filesystem::path& output_filename, const nlohmann::json& value)
 {
@@ -19,7 +56,7 @@ void write_to_file(const std::filesystem::path& output_filename, const nlohmann:
 	output_stream << value.dump(4);
 }
 
-auto handle_args(int argc, char** argv)
+std::pair<std::filesystem::path, std::filesystem::path> handle_args(int argc, char** argv)
 {
 	if (argc != 3)
 		throw std::runtime_error(std::format("Wrong number of argument.\nHelp:\n", help_message));
@@ -35,14 +72,7 @@ auto handle_args(int argc, char** argv)
 	return std::make_pair(input_dir, output_dir);
 }
 
-struct PokemonData
-{
-	pokemon::MetaData metadata;
-	std::vector<pokemon::OneLanguagePokemon> pokemons;
-};
-
-
-std::map<pokemon::Language, PokemonData> extract_data(const std::filesystem::path& input_dir)
+std::map<pokemon::Language, PokemonData> extract_pokemon_data(const std::filesystem::path& input_dir)
 {
 	std::map<pokemon::Language, PokemonData> pokemon_data;
 	for (auto&& complete_pokemon: pokemon::PokemonGenerator::generatePokemon(input_dir))
@@ -86,28 +116,5 @@ void write_pokeguesser_data(const std::filesystem::path& pokeguesser_directory, 
 	{
 		std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
 		write_to_file(pokeguesser_directory / pokemon_filename, pokemon);
-	}
-}
-
-int main(int argc, char** argv)
-{
-	try
-	{
-		auto [input_dir, output_dir] = handle_args(argc, argv);
-		auto pokemon_data = extract_data(input_dir);
-		std::filesystem::path generated_dir = generate_data_directory(output_dir);
-	
-		for (const auto& [language, data]: pokemon_data)
-		{
-			const auto& [metadata, pokemons] = data;
-			std::filesystem::path language_dir = generate_language_directory(language, generated_dir);
-			write_to_file(language_dir / "metadata.json", metadata);
-			std::filesystem::path pokeguesser_directory = generate_pokeguesser_directory(language_dir);
-			write_pokeguesser_data(pokeguesser_directory, pokemons);
-		}
-	}
-	catch(std::exception& e)
-	{
-		std::cout << e.what() << std::endl;
 	}
 }
