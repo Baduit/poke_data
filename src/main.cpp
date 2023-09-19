@@ -35,21 +35,25 @@ auto handle_args(int argc, char** argv)
 	return std::make_pair(input_dir, output_dir);
 }
 
+struct PokemonData
+{
+	pokemon::MetaData metadata;
+	std::vector<pokemon::OneLanguagePokemon> pokemons;
+};
+
 int main(int argc, char** argv)
 {
 	try
 	{
 		auto [input_dir, output_dir] = handle_args(argc, argv);
 
-		// Todo : unify both these map into one map
-		std::map<pokemon::Language, pokemon::MetaData> metadata_per_langage;
-		std::map<pokemon::Language, std::vector<pokemon::OneLanguagePokemon>> pokemons_per_langage;
+		std::map<pokemon::Language, PokemonData> pokemon_data;
 		for (auto&& complete_pokemon: pokemon::PokemonGenerator::generatePokemon(input_dir))
 		{
 			for (auto&& [language, pokemon]: complete_pokemon.generatePkemonByLanguage())
 			{
-				metadata_per_langage[language].names.push_back(pokemon.name);
-				pokemons_per_langage[language].push_back(std::move(pokemon));
+				pokemon_data[language].metadata.names.push_back(pokemon.name);
+				pokemon_data[language].pokemons.push_back(std::move(pokemon));
 			}
 		}
 
@@ -59,8 +63,9 @@ int main(int argc, char** argv)
 			throw std::runtime_error(std::format("Can't create data directory inside output directory : {}", generated_dir.string()));	
 	
 		// Create a folder per langage
-		for (const auto& [language, metadata]: metadata_per_langage)
+		for (const auto& [language, data]: pokemon_data)
 		{
+			const auto& [metadata, pokemons] = data;
 			std::filesystem::path langage_dir = generated_dir / language.value_of();
 			if (!std::filesystem::create_directory(langage_dir))
 				throw std::runtime_error(std::format("Can't create the langage directory : {}", langage_dir.string()));
@@ -74,7 +79,6 @@ int main(int argc, char** argv)
 				throw std::runtime_error(std::format("Can't create the pokeguesser directory : {}", pokeguesser_directory.string()));
 
 			// Serizalize all pokemons with only the data needed for pokeguesser with the name id.json
-			const auto& pokemons = pokemons_per_langage.at(language);
 			for (const auto& pokemon: pokemons)
 			{
 				std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
