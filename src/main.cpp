@@ -25,6 +25,9 @@ std::filesystem::path generate_data_directory(const std::filesystem::path& outpu
 std::filesystem::path generate_language_directory(const pokemon::Language& language, const std::filesystem::path& generated_dir);
 std::filesystem::path generate_pokeguesser_directory(const std::filesystem::path& language_dir);
 void write_pokeguesser_data(const std::filesystem::path& pokeguesser_directory, const std::vector<pokemon::OneLanguagePokemon>& pokemons);
+std::filesystem::path generate_pokedle_directory(const std::filesystem::path& language_dir);
+void write_pokedle_data(const std::filesystem::path& pokedle_directory, const std::vector<pokemon::OneLanguagePokemon>& pokemons);
+
 
 int main(int argc, char** argv)
 {
@@ -41,6 +44,8 @@ int main(int argc, char** argv)
 			write_to_file(language_dir / "metadata.json", metadata);
 			std::filesystem::path pokeguesser_directory = generate_pokeguesser_directory(language_dir);
 			write_pokeguesser_data(pokeguesser_directory, pokemons);
+			std::filesystem::path pokedle_directory = generate_pokedle_directory(language_dir);
+			write_pokeguesser_data(pokedle_directory, pokemons);
 		}
 	}
 	catch(std::exception& e)
@@ -116,5 +121,22 @@ void write_pokeguesser_data(const std::filesystem::path& pokeguesser_directory, 
 	{
 		std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
 		write_to_file(pokeguesser_directory / pokemon_filename, pokemon);
+	}
+}
+
+std::filesystem::path generate_pokedle_directory(const std::filesystem::path& language_dir)
+{
+	std::filesystem::path pokedle_directory = language_dir / "pokedle";
+	if (!std::filesystem::create_directory(pokedle_directory))
+		throw std::runtime_error(std::format("Can't create the pokedle directory : {}", pokedle_directory.string()));
+	return pokedle_directory;
+}
+
+void write_pokedle_data(const std::filesystem::path& pokedle_directory, const std::vector<pokemon::OneLanguagePokemon>& pokemons)
+{
+	for (const auto& pokemon: pokemons)
+	{
+		std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
+		write_to_file(pokedle_directory / pokemon_filename, pokemon);
 	}
 }
