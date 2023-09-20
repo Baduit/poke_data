@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Seine großen Augen bestehen aus vielen kleinen\nAugen. Nachts wird es von Licht angezogen.",
+        "Dieses Pokémon lebt im Schatten großer Bäume.\nEs frisst Insekten und wird von Licht angezogen.",
+        "Bluzuk hat einen Pelz aus dünnen Borsten entwickelt, der dem\nSchutz seines Körpers dient. Es hat große Augen, denen auch\nwinzig kleine Beute nicht entgeht.",
+        "Bluzuk hat einen Pelz aus dünnen Borsten entwickelt, der dem\nSchutz seines Körpers dient. Es hat große Augen, denen auch\nwinzig kleine Beute nicht entgeht.",
+        "Seine großen Augen fungieren als Radar.\nIm Licht kann man erkennen, dass sie aus\nunzähligen, sehr kleinen Augen bestehen.",
+        "Seine großen Augen fungieren als Radar.\nIm Licht kann man erkennen, dass sie aus\nunzähligen, sehr kleinen Augen bestehen."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "name": "Bluzuk",
+    "types": [
+        "Käfer",
+        "Gift"
+    ],
+    "weight": 30.0
+}

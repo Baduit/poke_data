@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "睡著生，睡著死。\n似乎所有的行動都是根據\n所看見的夢而引發的睡相。",
+        "抱住的樹是出生時父母所贈的。\n關係親密的話，也會緊緊抱著\n訓練家的胳膊。",
+        "從出生那刻起就一直在睡覺。\n當進入深度睡眠的時候，\n會變得完全靜止不動。",
+        "終其一生都處於睡著的狀態。\n這是因為牠所吃的葉子裡\n含有類似麻醉藥的成分。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "name": "樹枕尾熊",
+    "types": [
+        "一般"
+    ],
+    "weight": 19.9
+}

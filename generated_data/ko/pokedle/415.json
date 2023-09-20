@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 4,
+    "height": 0.3,
+    "name": "세꿀버리",
+    "types": [
+        "벌레",
+        "비행"
+    ],
+    "weight": 5.5
+}

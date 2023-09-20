@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Swellow",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 19.8
+}

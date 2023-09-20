@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Este Pokémon vive en aguas frías. Sale del agua para\nbuscar comida cuando refresca el ambiente.",
+        "Cuando la temperatura baja por la tarde, emerge del\nagua y va a la orilla en busca de comida.",
+        "Wooper suele vivir en el agua, pero es posible también verle\nen tierra en busca de comida. Cuando está en terreno firme,\nse cubre con una película viscosa tóxica.",
+        "Wooper suele vivir en el agua, pero es posible también verle\nen tierra en busca de comida. Cuando está en terreno firme,\nse cubre con una película viscosa tóxica.",
+        "Este Pokémon vive en aguas frías. Sale del agua\npara buscar comida cuando refresca el ambiente.",
+        "Cuando se desplaza en tierra firme, cubre su\ncuerpo con una membrana mucosa y venenosa\npara mantener hidratada la piel."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "name": "Wooper",
+    "types": [
+        "Agua",
+        "Tierra"
+    ],
+    "weight": 8.5
+}

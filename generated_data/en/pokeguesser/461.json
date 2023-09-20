@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "They live in cold regions, forming\ngroups of four or five that hunt\nprey with impressive coordination.",
+        "It sends signals to others by\ncarving odd patterns in frost-\ncovered trees and ice.",
+        "Evolution made it even more\ndevious. It communicates by clawing\nsigns in boulders.",
+        "It lives in snowy regions. It carves\npatterns in trees with its claws as\na signal to others.",
+        "It lives in snowy regions. It carves\npatterns in trees with its claws as\na signal to others.",
+        "Evolution made it even more\ndevious. It communicates by clawing\nsigns in boulders.",
+        "Evolution made it even more\ndevious. It communicates by clawing\nsigns in boulders.",
+        "They communicate by clawing\nsigns in boulders and work\ntogether to surround enemies.",
+        "They communicate by clawing\nsigns in boulders and work\ntogether to surround enemies.",
+        "It lives in snowy regions. It carves patterns in trees\nwith its claws as a signal to others.",
+        "They live in cold regions, forming groups of four or\nfive that hunt prey with impressive coordination.",
+        "It lives in snowy regions. It carves patterns in trees\nwith its claws as a signal to others.",
+        "They live in cold regions, forming groups of four or\nfive that hunt prey with impressive coordination.",
+        "They travel in groups of four or five, leaving\nsigns for one another on trees and rocks. They\nbring down their prey with coordinated attacks.",
+        "They dwell in cold places. This Pokémon’s main\nfood source in Alola is Vulpix and Sandshrew,\nwhich they carefully divide among their group.",
+        "One Weavile will trip a Sandshrew and flip it\nover, and then another Weavile will deal the\nfinishing blow with its sharp claws.",
+        "Thanks to its increased intelligence, scrapping\nover food is a thing of the past. A scratch from\nits claws will give you a case of frostbite!",
+        "They attack their quarry in packs. Prey as large\nas Mamoswine easily fall to the teamwork of\na group of Weavile.",
+        "With its claws, it leaves behind signs for its\nfriends to find. The number of distinct signs\nis said to be over 500.",
+        "This species corners prey as a pack, under the guidance of\na leader. Weavile displays increased cunning, leading me to\nspeculate that its evolution caused further brain development."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "name": "Weavile",
+    "types": [
+        "Dark",
+        "Ice"
+    ],
+    "weight": 34.0
+}

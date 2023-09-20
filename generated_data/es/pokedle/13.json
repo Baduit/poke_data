@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Weedle",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 3.2
+}

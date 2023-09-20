@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Su potencia al embestir es capaz de derribar las\nmurallas de un castillo. Las leyendas hablan de sus\nproezas.",
+        "Las leyendas hablan de este Pokémon, que derribó\nun castillo con su propia fuerza para proteger a otros\nPokémon.",
+        "Su potencia al embestir es capaz de derribar las murallas de\nun castillo. Las leyendas hablan de sus proezas.",
+        "Las leyendas hablan de este Pokémon, que derribó un castillo\ncon su propia fuerza para proteger a otros Pokémon.",
+        "Posee una fuerza extraordinaria, y combatirá sin\nmiramientos contra cualquier adversario que se\nmeta con Pokémon más pequeños y débiles.",
+        "Las leyendas de Teselia narran la lucha que libró\ncontra los humanos para proteger a los Pokémon."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+    "name": "Terrakion",
+    "types": [
+        "Roca",
+        "Lucha"
+    ],
+    "weight": 260.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Minior",
+    "types": [
+        "Roca",
+        "Volador"
+    ],
+    "weight": 40.0
+}

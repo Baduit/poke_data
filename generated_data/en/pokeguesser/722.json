@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "This wary Pokémon uses photosynthesis to\nstore up energy during the day, while becoming\nactive at night.",
+        "Silently it glides, drawing near its targets. Before\nthey even notice it, it begins to pelt them with\nvicious kicks.",
+        "It sends its feathers, which are as sharp as\nblades, flying in attack. Its legs are strong,\nso its kicks are also formidable.",
+        "It feels relaxed in tight, dark places and has\nbeen known to use its Trainer’s pocket or bag\nas a nest.",
+        "At a distance, it launches its sharp feathers while\nflying about. If the enemy gets too close, Rowlet\nswitches tactics and delivers vicious kicks.",
+        "During the day, it builds up energy via\nphotosynthesis. At night, it flies silently\nthrough the sky, on the prowl for prey.",
+        "Flies noiselessly on delicate wings. It has mastered the art of\ndeftly launching dagger-sharp feathers from those same wings."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "name": "Rowlet",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "weight": 1.5
+}

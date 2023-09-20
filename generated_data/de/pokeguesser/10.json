@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Als Schutz vor Feinden sondert es einen übel\nriechenden Gestank mit seinen Antennen ab.",
+        "Die Saugnäpfe an den Beinen haften auf jedem\nUntergrund. Es sucht hartnäckig in Bäumen\nnach Futter.",
+        "Raupy ist sehr gefräßig, es kann Blätter verschlingen,\ndie größer sind als es selbst. Seine Antennen sondern\neinen übel riechenden Gestank ab.",
+        "Raupy ist sehr gefräßig. Es kann Blätter verschlingen,\ndie seine eigene Größe um ein Vielfaches übersteigen.\nSeine Antennen sondern einen übel riechenden Gestank ab.",
+        "Es versucht, angreifende Vogel-Pokémon mit\ndem Gestank aus seinen Antennen in die Flucht\nzu schlagen. Das gelingt ihm aber nicht immer.",
+        "Es eignet sich bestens für frischgebackene\nTrainer, da es sich leicht fangen lässt und\nsich sehr schnell entwickelt.",
+        "Das nimmersatte Raupy verschlingt 100 Blätter\nam Tag. Vermutlich strebt es so ein schnelleres\nWachstum an.",
+        "Sein weicher und schwacher Körper ist ein\nallseits beliebtes Futter. Es muss sich daher\nstets vor Angreifern in Acht nehmen.",
+        "Berührt man die Fühler auf seinem Kopf,\nso versucht es sich zu schützen, indem es\neinen penetranten Geruch absondert.",
+        "Berührt man die Fühler auf seinem Kopf,\nso versucht es sich zu schützen, indem es\neinen penetranten Geruch absondert.",
+        "Als Schutz vor Feinden sondert es einen übel\nriechenden Gestank mit seinen Antennen ab.",
+        "Es hat Saugnäpfe an den Beinchen, mit denen es\nmühelos Steigungen und Mauern erklimmen kann."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "name": "Raupy",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 2.9
+}

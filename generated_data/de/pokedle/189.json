@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 2,
+    "height": 0.8,
+    "name": "Papungha",
+    "types": [
+        "Pflanze",
+        "Flug"
+    ],
+    "weight": 3.0
+}

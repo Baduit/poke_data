@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Como no saben nadar muy bien, se mueven\nrápidamente rodando. Cuando están alegres, dan\npalmadas con las aletas.",
+        "Tiene un suave pelaje que lo protege del frío cuando\nse revuelca por el hielo.",
+        "Spheal se desplaza por el suelo más rápido rodando que\ncaminando. Cuando come con otros de su especie, todos se\nponen a aplaudir para expresar su alegría. Por eso, a veces\nson algo escandalosos.",
+        "Spheal se desplaza siempre rodando gracias al cuerpo\nesférico que tiene. Al comenzar la época glacial, es fácil verle\nrodando por superficies heladas y atravesando el mar.",
+        "La gruesa capa de grasa bajo la piel le confiere\nuna forma perfectamente esférica. Se desplaza\nmás rápido rodando que caminando.",
+        "Flota entre las olas para examinar el océano.\nSi encuentra una presa, avisa enseguida a los\nWalrein de su manada."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "name": "Spheal",
+    "types": [
+        "Hielo",
+        "Agua"
+    ],
+    "weight": 39.5
+}

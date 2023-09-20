@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Su bella y grácil silueta le viene dada por su\ndesarrollada musculatura, que le permite andar de\nnoche sin hacer ruido.",
+        "Se aproxima evitando que lo detecten. Con sigilo, se\nacerca a su rival por la espalda y lo ataca.",
+        "Su bella y grácil silueta le viene dada por su desarrollada\nmusculatura, que le permite andar de noche sin hacer ruido.",
+        "Se aproxima evitando que lo detecten. Con sigilo, se acerca\na su rival por la espalda y lo ataca.",
+        "Bajo su hermoso pelaje y cautivador estilo, que\npuede llevar fácilmente a engaño, se oculta un\ncarácter imprevisible y agresivo.",
+        "Libra disputas territoriales con los Thievul. Se\nacerca a sus rivales por la espalda sin hacer el\nmenor ruido."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "name": "Liepard",
+    "types": [
+        "Siniestro"
+    ],
+    "weight": 37.5
+}

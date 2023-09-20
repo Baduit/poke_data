@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "並行して　並ぶ　空間の　狭間に\n住むと　言われている。\n神話に　登場する　ポケモン。",
+        "空間を　ゆがめる　能力を　持ち\nシンオウ地方の　神話では\n神様として　描かれている。",
+        "並行して　並ぶ　空間の　狭間に\n住むと　言われている。\n神話に　登場する　ポケモン。",
+        "空間を　ゆがめる　能力を　持ち\nシンオウ地方の　神話では\n神様として　描かれている。"
+    ],
+    "height": 4.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "name": "パルキア",
+    "types": [
+        "みず",
+        "ドラゴン"
+    ],
+    "weight": 336.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es verkriecht sich gerne in Löchern, von wo aus\nes Gegner mit Tinte beschießt. Es bevorzugt\nFelsspalten und Vasen.",
+        "Beim Beutefang setzt es seine Tentakel ein.\nEs zermalmt seine Beute mit seinem steinharten Kopf.",
+        "Octillery saugt sich mit seinen Tentakeln an einem Feind fest.\nDieses Pokémon betäubt seinen Gegner, bevor es ihm den\nRest gibt. Wenn ein Feind zu stark ist, speit es Tinte aus und\nflüchtet.",
+        "Octillery saugt sich mit seinen Tentakeln an einem Feind fest.\nDieses Pokémon betäubt seinen Gegner, bevor es ihm den\nRest gibt. Wenn ein Feind zu stark ist, speit es Tinte aus und\nflüchtet.",
+        "Die Tinte, die es während der Flucht ausspeit,\nvermindert den Geruchssinn und verwirrt selbst\nPokémon mit einer guten Nase.",
+        "Es schläft hauptsächlich in Felshöhlen. Die\nschwarze Tinte, die es ausspeit, wird auch als\nKochzutat verwendet.",
+        "Es fühlt sich instinktiv in Löchern am wohlsten und\nschläft auch am liebsten in solchen, wobei es\nmitunter die Schlafplätze von anderen einnimmt.",
+        "Es umschlingt Beute mit seinen Tentakeln und\nverpasst ihr dann eine beherzte Kopfnuss mit\nseinem steinharten Schädel."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "name": "Octillery",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 28.5
+}

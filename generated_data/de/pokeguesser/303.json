@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Mit seinem friedlichen Gesicht bringt es Gegner zur\nSelbstgefälligkeit und beißt anschließend mit seinem\nriesigen Kiefer gnadenlos zu.",
+        "Auf seinem Kopf befindet sich ein riesiger Kiefer,\nder aus Hörnern besteht. Er kann Eisen zermalmen.",
+        "Flunkifers sagenhafter Kiefer besteht aus umgewandelten\nStahlhörnern. Sein unterwürfiger Gesichtsausdruck dient dazu,\nseinen Gegner in Sicherheit zu wiegen, sodass er\nunaufmerksam wird. Dann schnappt es zu!",
+        "Fall bloß nicht auf das hübsche Gesicht dieses Pokémon\nherein – es ist sehr gefährlich. Flunkifer lenkt seine Feinde\nab und schlägt dann mit seinem massiven Kiefer zu. Sein\nkräftiger Stahlkiefer besteht aus umgewandelten Hörnern.",
+        "Ein verschlagenes Pokémon, das sich niedlich\ngibt, um die Beute in Sicherheit zu wiegen. Dann\nverschlingt es diese mit seinem riesigen Kiefer.",
+        "Es hat zwei Münder. Mit dem großen Kiefer auf\nseinem Hinterkopf kann es nichts schmecken,\ndeswegen isst es damit Dinge, die es nicht mag.",
+        "Mit seinem friedlichen Gesicht wiegt es Gegner\nin Sicherheit und beißt dann mit seinem riesigen\nKiefer zu. Danach gibt es kein Entkommen mehr.",
+        "Sein riesiger Kiefer hat sich aus stählernen\nHörnern entwickelt. Mit ihm beißt es seine\nGegner."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "name": "Flunkifer",
+    "types": [
+        "Stahl",
+        "Fee"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "因谜一般的能量而活动。\n因为从古代开始就持续活动，\n说不定很快就会用尽力量。",
+        "古代人捏制黏土制作它\n好像是为了让其当仆人。\n但它的能量源尚不明确。",
+        "诞生自黏土的古代宝可梦。\n不知为何，有一些泥偶小人\n会不断地把大石头排列起来。",
+        "用黏土制成的宝可梦。\n即使现在也一直遵循着\n数千年前主人的命令。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "name": "泥偶小人",
+    "types": [
+        "地面",
+        "幽灵"
+    ],
+    "weight": 92.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "On dit qu’il se déplace à dos\nd’étoile filante. Il se montre\nsouvent quand on en voit.",
+        "On dit qu’il se déplace à dos\nd’étoile filante. Il se montre\nsouvent quand on en voit.",
+        "Il ressemble un peu à une étoile. On suppose qu’il est\nvenu sur terre accroché à une météorite.",
+        "On en voit beaucoup lorsque le ciel se remplit\nd’étoiles filantes. Ils s’éclipsent au lever du soleil.",
+        "Les nuits où il y a des étoiles filantes, on peut voir des Mélo\ndanser en cercle. Ils dansent toute la nuit et ne s’arrêtent\nqu’à l’aube. Ces Pokémon se désaltèrent alors avec la rosée\ndu matin.",
+        "Les nuits où il y a des étoiles filantes, on peut voir des Mélo\ndanser en cercle. Ils dansent toute la nuit et ne s’arrêtent\nqu’à l’aube. Ces Pokémon se désaltèrent alors avec la rosée\ndu matin.",
+        "On dit que s’il contemple fixement le ciel\nlorsque des étoiles filantes passent, c’est\nparce que cela lui rappelle son bercail.",
+        "Selon certaines croyances, sa forme prouve\nqu’il s’agit de la réincarnation d’une étoile.\nÉtrangement, il aime beaucoup les Météno.",
+        "Les nuits où les étoiles filantes inondent le\nciel, il danse en cercle avec ses congénères.\nOn dit qu’admirer ce spectacle porte bonheur.",
+        "Il serait parvenu jusqu’à nous en chevauchant\nune étoile filante. On le trouve dans les endroits\noù des météorites sont tombées.",
+        "On dit qu’il apparaît souvent là où se sont\nécrasées des météorites.",
+        "Il ressemble un peu à une étoile. On suppose\nqu’il est venu sur terre accroché à une météorite."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "name": "Mélo",
+    "types": [
+        "Fée"
+    ],
+    "weight": 3.0
+}

@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "やりの　ように　とがった　あごは\nはがねの　かたさ。　その　みは\nおどろくほど　おいしい　らしい。",
+        "おびれを　かいてんさせ　いっきに\nとつげき。　１００ノットを　こえる\nそくどで　えものを　つらぬくぞ。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "name": "カマスジョー",
+    "types": [
+        "みず"
+    ],
+    "weight": 30.0
+}

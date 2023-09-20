@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Aspira profundamente y luego, usando sus fuertes\nabdominales, suelta un potente vozarrón.",
+        "Las ondas de sus gritos pueden voltear un camión.\nPatea el suelo para ganar potencia.",
+        "Los bramidos de Loudred pueden echar abajo una casa\nreforzada con vigas de madera. Este Pokémon usa el vozarrón\nque tiene para castigar a sus rivales. Las orejas redondas le\nsirven de altavoces.",
+        "Loudred grita a la vez que da pisotones. Una vez que deja de\nchillar, se queda ensordecido durante un buen rato; lo que se\nconsidera su punto débil.",
+        "A través de las orejas, que le sirven de altavoces,\nemite ondas sonoras capaces de echar abajo una\ncasa.",
+        "Su voz no afecta solo al oído. Sus ondas sonoras\nprovocan variaciones de presión en el aire que\nhacen que sus enemigos salgan despedidos."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "name": "Loudred",
+    "types": [
+        "Normal"
+    ],
+    "weight": 40.5
+}

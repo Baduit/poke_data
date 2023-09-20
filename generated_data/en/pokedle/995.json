@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 9,
+    "height": 1.6,
+    "name": "Iron Thorns",
+    "types": [
+        "Rock",
+        "Electric"
+    ],
+    "weight": 303.0
+}

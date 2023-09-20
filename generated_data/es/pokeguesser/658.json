@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Comprime el agua y crea estrellas ninja con las que\nataca al enemigo. Cuando las hace girar a gran\nvelocidad cortan en dos hasta el metal.",
+        "Aparece y desaparece de improvisto, cual ninja. Marea\nal oponente con su soberbia agilidad y lo hace trizas\ncon sus Shuriken de Agua.",
+        "Comprime el agua y crea estrellas ninja con las que ataca al\nenemigo. Cuando las hace girar a gran velocidad cortan en\ndos hasta el metal.",
+        "Aparece y desaparece de improvisto, cual ninja. Marea al\noponente con su soberbia agilidad y lo hace trizas con sus\nShuriken de Agua."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "name": "Greninja",
+    "types": [
+        "Agua",
+        "Siniestro"
+    ],
+    "weight": 40.0
+}

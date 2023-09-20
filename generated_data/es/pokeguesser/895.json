@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Cierta teoría afirma que la forma de sus brazos\nrepresenta la cabeza de un Pokémon dragón\nancestral, aunque esto no ha podido verificarse.",
+        "Todo su cuerpo es una gema de energía dragón\ncristalizada. Se cree que posee los poderes de\ntodos los Pokémon dragón."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+    "name": "Regidrago",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 200.0
+}

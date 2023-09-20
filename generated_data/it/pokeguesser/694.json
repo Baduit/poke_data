@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Vive nei deserti. Può produrre energia elettrica\nsfruttando la luce solare e, grazie a essa, può\nsopravvivere anche senza mangiare.",
+        "Le pieghe ai due lati della testa contengono cellule\nin grado di convertire la luce solare in energia\nelettrica.",
+        "Vive nei deserti. Può produrre energia elettrica sfruttando\nla luce solare e, grazie a essa, può sopravvivere anche\nsenza mangiare.",
+        "Le pieghe ai due lati della testa contengono cellule in grado\ndi convertire la luce solare in energia elettrica.",
+        "Distende le pieghe sulla testa per raccogliere la\nluce solare e produrre energia elettrica che\nusa per sferrare potenti mosse di tipo Elettro.",
+        "Possiede un organo con cui genera energia\nelettrica fotovoltaica. Se viene disturbato mentre\nla produce, si stressa e si indebolisce."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "name": "Helioptile",
+    "types": [
+        "Elettro",
+        "Normale"
+    ],
+    "weight": 6.0
+}

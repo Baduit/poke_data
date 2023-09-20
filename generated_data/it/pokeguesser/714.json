@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Vive in caverne completamente buie. Emette onde\nultrasoniche alla frequenza di 200.000 Hz dalle\ngrandi orecchie.",
+        "Questo Pokémon emette ultrasuoni a 200.000 Hz\nin grado di stordire e stendere anche un lottatore\nprofessionista.",
+        "Vive in caverne completamente buie. Emette onde ultrasoniche\nalla frequenza di 200.000 Hz dalle grandi orecchie.",
+        "Questo Pokémon emette ultrasuoni a 200.000 Hz in grado\ndi stordire e stendere anche un lottatore professionista.",
+        "Adora la frutta. Ha gusti raffinati e usa gli\nultrasuoni per individuare i frutti maturi al punto\ngiusto, ignorando gli altri.",
+        "Vola alla ricerca di frutti di cui cibarsi.\nÈ in grado di determinare se sono maturi grazie\nagli ultrasuoni che emette.",
+        "La sera esce dalla grotta in cui vive e vola\nin cerca di frutti maturi, che individua grazie\nagli ultrasuoni.",
+        "Controlla onde sonore di qualsiasi frequenza.\nNemmeno i Pokémon più grandi riescono a\nsopportare i suoi ultrasuoni."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "name": "Noibat",
+    "types": [
+        "Volante",
+        "Drago"
+    ],
+    "weight": 8.0
+}

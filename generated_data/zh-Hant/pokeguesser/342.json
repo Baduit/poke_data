@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "性情粗暴愛打架，然而一旦\n鉗子掉落就會馬上變得軟弱，\n在重新長出之前都會提心吊膽。",
+        "鉗子經常脫落。與好勝蟹還有\n鐵臂槍蝦不同，鉗子裡頭的肉\n帶有泥臭味所以很難吃。",
+        "不停揮舞自己巨大的鉗子，\n是個性情粗暴的傢伙。\n被認為是很難培育的寶可夢。",
+        "有著熱愛戰鬥的性格。\n當遇到靠近自己領地的對手，\n會毫不留情地將之打倒。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "name": "鐵螯龍蝦",
+    "types": [
+        "水",
+        "惡"
+    ],
+    "weight": 32.8
+}

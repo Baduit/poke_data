@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 5,
+    "height": 0.1,
+    "name": "Joltik",
+    "types": [
+        "Bicho",
+        "Eléctrico"
+    ],
+    "weight": 0.6
+}

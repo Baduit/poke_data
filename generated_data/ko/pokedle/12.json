@@ -1,0 +1,11 @@
+{
+    "color": "하양",
+    "generation": 1,
+    "height": 1.1,
+    "name": "버터플",
+    "types": [
+        "벌레",
+        "비행"
+    ],
+    "weight": 32.0
+}

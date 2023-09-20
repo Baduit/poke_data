@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Aparecen en medio de un torbellino y entran en las\ncasas para descolocar los muebles o esparcir algodón\npor doquier.",
+        "Es capaz de atravesar las más mínimas fisuras. A su\npaso, deja bolitas blancas de pelo.",
+        "Aparecen en medio de un torbellino y entran en las casas para\ndescolocar los muebles o esparcir algodón por doquier.",
+        "Es capaz de atravesar las más mínimas fisuras. A su paso,\ndeja bolitas blancas de pelo.",
+        "Entra en las casas con las corrientes de aire y\nesparce algodón por todas partes. Desaparece\nentre risas tras su travesura.",
+        "Aparece al levantarse el viento, pero, cuando\neste arrecia, pierde el algodón de la cabeza.",
+        "Este travieso Pokémon entra sigilosamente en\nlas casas, esconde los objetos valiosos y\ndispersa bolas de algodón por todas partes.",
+        "Este Pokémon no vive en un lugar determinado,\nsino que se deja llevar por los torbellinos para\ndesplazarse y realizar sus travesuras.",
+        "Este travieso Pokémon se divierte esparciendo\nbolas de algodón. Al mojarlo, su peso aumenta\ntanto que no logra moverse y se da por vencido.",
+        "Su algodón se expande cuando recibe los rayos\ndel sol, pero acaba desprendiéndose si se vuelve\ndemasiado voluminoso."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "name": "Whimsicott",
+    "types": [
+        "Planta",
+        "Hada"
+    ],
+    "weight": 6.6
+}

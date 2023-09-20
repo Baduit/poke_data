@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Esamina l’ambiente circostante tendendo le orecchie\nfuori dall’erba. Si protegge con il corno velenoso.",
+        "Solleva le orecchie come ali per captare rumori in\nlontananza. Quando è adirato, estende i baffi velenosi.",
+        "Nidoran♂ ha sviluppato dei muscoli per muovere liberamente\nle orecchie in qualsiasi direzione. Così, questo Pokémon\nè in grado di percepire anche il più flebile fruscio.",
+        "Nidoran♂ ha sviluppato dei muscoli per muovere liberamente\nle orecchie in qualsiasi direzione. Così, questo Pokémon\nè in grado di percepire anche il più flebile fruscio.",
+        "Rizza le orecchie enormi per sondare i dintorni.\nSe percepisce un pericolo, attacca con gli aculei\nvelenosi.",
+        "Rizza le orecchie enormi per sondare i dintorni.\nSe percepisce un pericolo, attacca con gli aculei\nvelenosi.",
+        "Il corno sulla fronte è estremamente velenoso.\nDi indole circospetta, rizza costantemente le\nsue grandi orecchie.",
+        "Impavido nonostante la corporatura minuta,\nlotta con coraggio per proteggere la femmina\na cui è affezionato, anche a costo della vita."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "name": "Nidoran♂",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 9.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 4,
+    "height": 1.0,
+    "name": "Snover",
+    "types": [
+        "Grass",
+        "Ice"
+    ],
+    "weight": 50.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 5,
+    "height": 1.0,
+    "name": "골비람",
+    "types": [
+        "땅",
+        "고스트"
+    ],
+    "weight": 92.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 7,
+    "height": 0.7,
+    "name": "Toxapex",
+    "types": [
+        "Poison",
+        "Water"
+    ],
+    "weight": 14.5
+}

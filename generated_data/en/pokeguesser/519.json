@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Each follows its Trainer’s orders as\nbest it can, but they sometimes fail to\nunderstand complicated commands.",
+        "These Pokémon live in cities. They are\naccustomed to people. Flocks often\ngather in parks and plazas.",
+        "This very forgetful Pokémon will\nwait for a new order from its Trainer\neven though it already has one.",
+        "This very forgetful Pokémon will\nwait for a new order from its Trainer\neven though it already has one.",
+        "This very forgetful Pokémon will wait for a new\norder from its Trainer even though it already\nhas one.",
+        "These Pokémon live in cities. They are accustomed\nto people. Flocks often gather in parks and plazas.",
+        "This very forgetful Pokémon will wait for a new\norder from its Trainer even though it already\nhas one.",
+        "These Pokémon live in cities. They are accustomed\nto people. Flocks often gather in parks and plazas.",
+        "Where people go, these Pokémon follow.\nIf you’re scattering food for them, be careful—\nseveral hundred of them can gather at once.",
+        "It’s forgetful and not very bright, but many\nTrainers love it anyway for its friendliness\nand sincerity."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "name": "Pidove",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 2.1
+}

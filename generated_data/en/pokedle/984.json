@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 9,
+    "height": 2.2,
+    "name": "Great Tusk",
+    "types": [
+        "Ground",
+        "Fighting"
+    ],
+    "weight": 320.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "In seinen Backen sammelt sich Gift. Es versucht,\nBeute zu überraschen und mit Giftfingern zu\nschnappen.",
+        "Bläst es seine Giftbeutel auf, ertönt ein unheimliches\nGeräusch, das Gegner zurückschrecken lässt\nund vergiftet.",
+        "In seinen Backen sammelt sich Gift. Es versucht, Beute zu\nüberraschen und mit Giftfingern zu schnappen.",
+        "Bläst es seine Giftbeutel auf, ertönt ein unheimliches\nGeräusch, das Gegner zurückschrecken lässt und vergiftet.",
+        "Es schüchtert Gegner mit Geräuschen ein, die\nes mit seinen Giftbeuteln erzeugt. Gelingt ihm\ndies, erledigt es sein Ziel mit einem Giftangriff.",
+        "Verdünnt man sein Gift, wird es zu Medizin. Seit\nes zum Maskottchen eines Pharmakonzerns\nwurde, hat es viele neue Fans gewonnen."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "name": "Glibunkel",
+    "types": [
+        "Gift",
+        "Kampf"
+    ],
+    "weight": 23.0
+}

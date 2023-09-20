@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es de naturaleza mansa, pero si se le provoca\ny monta en cólera, destruye todo lo que le rodea\ncon su aliento devastador.",
+        "Le encantan los niños amistosos, hasta el punto\nde abandonar las montañas para acercarse a\nlos pueblos y así poder jugar con ellos.",
+        "Si un niño con el que ha trabado amistad sufre\nlas burlas de otro niño, busca la casa del\nabusón y le prende fuego.",
+        "Se adentra en los pueblos para jugar con los\nniños. Los protege de cualquier peligro, así que\nsus padres están tranquilos.",
+        "Habita en montañas de más de 3000 m de\naltura. En ocasiones se acerca a los pueblos\npara jugar con los niños.",
+        "Es de naturaleza mansa y amable, pero, si se\nenfurece, puede desatar fuertes vientos capaces\nde llevarse cualquier cosa por delante."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "name": "Drampa",
+    "types": [
+        "Normal",
+        "Dragón"
+    ],
+    "weight": 185.0
+}

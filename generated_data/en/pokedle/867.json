@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 8,
+    "height": 1.6,
+    "name": "Runerigus",
+    "types": [
+        "Ground",
+        "Ghost"
+    ],
+    "weight": 66.6
+}

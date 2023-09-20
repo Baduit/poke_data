@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Vuela pausadamente por el cielo azul. Su hermoso\ntrino cautiva a todo aquel que lo escucha.",
+        "En días soleados, le gusta mezclarse con las nubes\ny disfrutar de la libertad del cielo mientras trina con\nvoz de soprano.",
+        "Altaria baila y revolotea por el cielo entre ondeantes nubes\nque parecen de algodón. Al entonar melodías con su voz\ncristalina, este Pokémon deja a sus oyentes embobados y\nadmirados.",
+        "Altaria canta de maravilla, como una soprano. Tiene unas alas\nque parecen nubes de algodón. Este Pokémon aprovecha las\ncorrientes ascendentes y remonta el vuelo con sus flamantes\nalas hacia la inmensidad del cielo azul.",
+        "Mientras vuela pausadamente, emite un bello\ntrino que cautiva a todo el que lo oye.",
+        "Es de carácter amable, pero, si monta en cólera,\nintimidará al oponente con estridentes chillidos\ny atacará sin piedad."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "name": "Altaria",
+    "types": [
+        "Dragón",
+        "Volador"
+    ],
+    "weight": 20.6
+}

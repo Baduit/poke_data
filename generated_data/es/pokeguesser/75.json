@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "De naturaleza descuidada y libre, no le importa\ndañarse cuando baja rodando montañas.",
+        "Se mueve rodando cuesta abajo y sobre cualquier\nobstáculo, sin frenar ni cambiar de dirección.",
+        "Graveler crece alimentándose a base de piedras. Y, según\nparece, las prefiere cubiertas de musgo. Cada día se abre\ncamino comiéndose una tonelada de rocas.",
+        "Las piedras son la comida preferida de Graveler. Este\nPokémon sube a la cima de las montañas devorando todas\nlas rocas que va encontrando a su paso. Una vez que alcanza\nla cumbre, baja rodando hasta la falda.",
+        "Su comida preferida son las rocas cubiertas de\nmusgo. Llega a comer más de una tonelada en un\ndía y causa un gran estruendo al masticar.",
+        "Se desplaza rodando, pues a pie va muy\ndespacio. Si toma carrerilla, puede superar los\n100 km/h.",
+        "Escala los riscos de las montañas y, una vez\nalcanzada la cima, desciende rodando por los\nsenderos.",
+        "Se desplaza rodando por las laderas. Si por\nmala fortuna termina cayendo en un río, con su\núltimo aliento causa una gigantesca explosión.",
+        "Se le suele ver rodando montaña abajo. No evita\nlos obstáculos, sino que los arrolla.",
+        "Se le suele ver rodando montaña abajo. No evita\nlos obstáculos, sino que los arrolla."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "name": "Graveler",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 105.0
+}

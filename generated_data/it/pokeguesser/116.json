@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "È noto per i suoi attacchi ai volatili con getti\nd’inchiostro dalla superficie dell’acqua.",
+        "Crea la sua tana all’ombra dei coralli. Se avverte un\npericolo, spruzza inchiostro nero e fugge.",
+        "Horsea si nutre di piccoli insetti e del muschio trovato\nsugli scogli. Se la corrente oceanica si fa rapida, avvolge\nla coda attorno agli spuntoni di roccia o ai coralli per evitare\ndi essere spazzato via.",
+        "Avvertendo il pericolo, Horsea spruzza istintivamente una nube\nd’inchiostro nero dalla bocca, tentando poi la fuga. Questo\nPokémon nuota agitando abilmente la pinna sulla schiena.",
+        "Se si sente minacciato, sputa dalla bocca\nun inchiostro speciale o un potente\ngetto d’acqua per difendersi.",
+        "Se si sente minacciato, sputa dalla bocca\nun inchiostro speciale o un potente\ngetto d’acqua per difendersi.",
+        "Vive in mari dalle correnti tranquille. Quando\nviene attaccato spruzza inchiostro nero e ne\napprofitta per fuggire.",
+        "Nuota come se danzasse nell’acqua creando\nmulinelli. Gioca con i suoi simili facendo a gara\na chi ne crea di più grandi."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "name": "Horsea",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 8.0
+}

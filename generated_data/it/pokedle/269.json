@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Dustox",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 31.6
+}

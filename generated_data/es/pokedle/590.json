@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 5,
+    "height": 0.2,
+    "name": "Foongus",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 1.0
+}

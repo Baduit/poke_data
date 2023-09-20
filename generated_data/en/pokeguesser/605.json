@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "It uses its strong psychic power\nto squeeze its opponent’s brain,\ncausing unendurable headaches.",
+        "This Pokémon had never been seen until\nit appeared from far in the desert\n50 years ago.",
+        "Rumors of its origin are linked to a UFO\ncrash site in the desert 50 years ago.",
+        "Rumors of its origin are linked to a UFO\ncrash site in the desert 50 years ago.",
+        "It uses its strong psychic power to squeeze its\nopponent’s brain, causing unendurable headaches.",
+        "Rumors of its origin are linked to a UFO crash site\nin the desert 50 years ago.",
+        "It uses its strong psychic power to squeeze its\nopponent’s brain, causing unendurable headaches.",
+        "Rumors of its origin are linked to a UFO crash site\nin the desert 50 years ago.",
+        "It controls tremendous psychic power. Most\nreports of alien sightings are actually just\npeople mistaking Elgyem for an alien.",
+        "This Pokémon is shrouded in mystery. It’s said\nto have appeared from a UFO that fell from the\nsky about 50 years ago.",
+        "If this Pokémon stands near a TV, strange scenery\nwill appear on the screen. That scenery is said\nto be from its home.",
+        "This Pokémon was discovered about 50 years\nago. Its highly developed brain enables it to\nexert its psychic powers."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "name": "Elgyem",
+    "types": [
+        "Psychic"
+    ],
+    "weight": 9.0
+}

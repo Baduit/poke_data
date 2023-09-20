@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es spricht Beschwörungen. Viele lösen Schmerzen\naus, manche aber bringen Glück.",
+        "Sein bizarrer, bannfluchartiger Ruf quält seine Gegner.\nEs verschwindet so plötzlich, wie es auftaucht.",
+        "Es spricht Beschwörungen. Viele lösen Schmerzen aus,\nmanche aber bringen Glück.",
+        "Sein bizarrer, bannfluchartiger Ruf quält seine Gegner.\nEs verschwindet so plötzlich, wie es auftaucht.",
+        "Es erscheint aus dem Nichts, flüstert\nBeschwörungen, spricht Flüche aus und\nerzeugt furchteinflößende Trugbilder.",
+        "Manche Leute suchen verzweifelt nach einem\nTraunmagil, weil es mit seinen Beschwörungen\nLiebeswünsche in Erfüllung gehen lassen kann.",
+        "Es wird für seine Flüche und Beschwörungen\ngefürchtet. Wenn ihm danach ist, spricht es\nauch mal Bannsprüche, die Menschen helfen.",
+        "Es verursacht schreckliche Qualen, indem es\nFlüche flüstert, die schlimme Kopfschmerzen\nund fürchterliche Halluzinationen auslösen."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "name": "Traunmagil",
+    "types": [
+        "Geist"
+    ],
+    "weight": 4.4
+}

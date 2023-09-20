@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "ぜんしんが　きんにくの　かたまり。\nしょくしゅを　つかって　くりだす\nしめわざの　いりょくは　すさまじい。",
+        "おのれのうでを　ためすべく　りくに\nあがり　たいせんあいてを　さがす。\nたたかいおえると　うみに　かえる。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "name": "オトスパス",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 39.0
+}

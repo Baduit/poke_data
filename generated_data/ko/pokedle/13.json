@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 0.3,
+    "name": "뿔충이",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 3.2
+}

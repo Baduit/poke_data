@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 6,
+    "height": 1.8,
+    "name": "Dragalge",
+    "types": [
+        "Veleno",
+        "Drago"
+    ],
+    "weight": 81.5
+}

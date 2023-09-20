@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es ist hart genug im Nehmen, um mitsamt seines\nschweren Felsens mehrere Tage durch trockene\nGebiete zu wandern.",
+        "Revierkonflikte führen oft zu heftigen Kämpfen\nzwischen ihnen. Gewonnen hat, wer das\ngegnerische Haus zerstört.",
+        "Es ist hart genug im Nehmen, um mitsamt seines schweren\nFelsens mehrere Tage durch trockene Gebiete zu wandern.",
+        "Revierkonflikte führen oft zu heftigen Kämpfen zwischen ihnen.\nGewonnen hat, wer das gegnerische Haus zerstört.",
+        "Dieses Pokémon mag trockene Gebiete und\nverkriecht sich bei Regen unter seinem Felsen.\nEs zeigt stark ausgeprägtes Territorialverhalten.",
+        "Seine kräftigen Scheren sind robuste Waffen.\nSie sind hart genug, um selbst in den Schützern\nvon Rihornior Risse zu hinterlassen."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "name": "Castellith",
+    "types": [
+        "Käfer",
+        "Gestein"
+    ],
+    "weight": 200.0
+}

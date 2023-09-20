@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sfreccia a gran velocità sotto terra, avvitandosi su\nse stesso, mentre si apre un passaggio scavando\ncon le unghie.",
+        "Quando gira su se stesso, scava la terra scendendo\nin verticale alla velocità di 50 km/h.",
+        "Sfreccia a gran velocità sotto terra, avvitandosi su se stesso,\nmentre si apre un passaggio scavando con le unghie.",
+        "Quando gira su se stesso, scava la terra scendendo in verticale\nalla velocità di 50 km/h.",
+        "Congiunge le unghie e si avvita su se stesso\na gran velocità per poi lanciarsi sulla preda.",
+        "Non è ben visto dagli agricoltori per la sua\nabitudine di scavare cunicoli sottoterra\ncon le unghie, rovinando gli ortaggi."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "name": "Drilbur",
+    "types": [
+        "Terra"
+    ],
+    "weight": 8.5
+}

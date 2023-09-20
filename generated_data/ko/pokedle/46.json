@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 1,
+    "height": 0.3,
+    "name": "파라스",
+    "types": [
+        "벌레",
+        "풀"
+    ],
+    "weight": 5.4
+}

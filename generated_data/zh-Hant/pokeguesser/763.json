@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "擅長運用自己的腳使出踢擊。\n會狠狠教訓被打倒的對手，\n大笑著炫耀自己的勝利。",
+        "以擁有美腿的寶可夢為人所知，\n成了美容沙龍等廣告的吉祥物。",
+        "動作優美的踢技高手。\n就算是面對搏擊冠軍，\n也能一擊將對方打倒。",
+        "攻擊性很強的寶可夢，\n同時也是踢腿高手。\n每次踢飛對手時都會高聲大笑。",
+        "讓人畏懼的寶可夢。\n擁有苗條的雙腿和殘忍的心，\n會毫不留情地狠踩敵人。",
+        "用又尖又硬的腳尖施展踢擊，\n朝對手的身體和心靈\n留下無法磨滅的創傷。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "name": "甜冷美后",
+    "types": [
+        "草"
+    ],
+    "weight": 21.4
+}

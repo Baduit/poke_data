@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il a été modifié pour être capable\nde travailler dans des dimensions\nparallèles, mais c’est un échec.",
+        "Il a été modifié pour être capable\nde travailler dans des dimensions\nparallèles, mais c’est un échec.",
+        "Un logiciel supplémentaire fut installé pour l’améliorer.\nMais depuis, il se comporte bizarrement.",
+        "On a modifié son programme pour qu’il puisse\nparcourir les dimensions, mais ce fut un échec.",
+        "Un logiciel supplémentaire fut installé pour l’améliorer.\nMais depuis, il se comporte bizarrement.",
+        "On a modifié son programme pour qu’il puisse parcourir\nles dimensions, mais ce fut un échec.",
+        "Il a été modifié pour devenir encore plus\nefficace, mais cela a entraîné plusieurs bugs.\nMaintenant, il se conduit très bizarrement.",
+        "Un nouveau logiciel était censé lui permettre\nde voyager entre les dimensions, mais tout ne\nse passe pas comme prévu et il y a des bugs.",
+        "Son comportement, manifestement étrange,\ns’expliquerait par l’incompétence du technicien\nqui a mis à jour son système d’exploitation.",
+        "Le logiciel qu’on lui a implanté était de toute\névidence défaillant. Il s’agit sans doute d’une\nexpérience ratée, vu son étrange comportement.",
+        "Depuis qu’on lui a ajouté un programme\npermettant de voyager entre les dimensions,\nson comportement est devenu instable.",
+        "On dit qu’un nouveau programme l’a fait évoluer,\nmais les avis des scientifiques divergent quant à\nsavoir s’il s’agit réellement d’une évolution."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "name": "Porygon-Z",
+    "types": [
+        "Normal"
+    ],
+    "weight": 34.0
+}

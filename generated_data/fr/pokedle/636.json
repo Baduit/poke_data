@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 5,
+    "height": 1.1,
+    "name": "Pyronille",
+    "types": [
+        "Insecte",
+        "Feu"
+    ],
+    "weight": 28.8
+}

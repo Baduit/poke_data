@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Pokémon de tipo Dragón muy afable al que le gusta\nabrazar con efusión a su Entrenador, aunque después\nlo deja totalmente pringado.",
+        "Ataca con sus antenas retráctiles, desplegando\nuna fuerza comparable a los puñetazos de 100\nboxeadores profesionales.",
+        "Pokémon de tipo Dragón muy afable al que le gusta abrazar\ncon efusión a su Entrenador, aunque después lo deja\ntotalmente pringado.",
+        "Ataca con sus antenas retráctiles, desplegando una fuerza\ncomparable a los puñetazos de 100 boxeadores profesionales.",
+        "Es muy afable y cariñoso. Si lo ignoran, le invade\nla tristeza y llora lágrimas viscosas.",
+        "Golpea con sus antenas retráctiles y derriba con\nsu gruesa cola a aquellos que se burlan de él\ncreyendo que es inofensivo.",
+        "Un Pokémon muy amistoso que demuestra su\nafecto con abrazos viscosos y gelatinosos. Se\nnecesita algo de estoicismo para no apartarse.",
+        "Debajo de su resbaladiza piel cuenta con una\nvoluminosa capa de grasa que le permite\nbloquear los ataques enemigos.",
+        "A veces no entiende las instrucciones de su\nEntrenador y se queda como abstraído, pero\nmucha gente encuentra este rasgo adorable.",
+        "Ataca extendiendo sus largas antenas. La fuerza\nque despliega es 100 veces superior a la del\npuñetazo de un boxeador de peso pesado."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "name": "Goodra",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 150.5
+}

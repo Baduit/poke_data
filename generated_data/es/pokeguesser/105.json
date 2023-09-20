@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es pequeño y siempre ha sido muy débil. Cuando\nempezó a usar huesos, se volvió más violento.",
+        "El hueso que lleva es su gran arma. Lo lanza\nhábilmente como un bumerán y deja a todos fuera\nde combate.",
+        "Marowak es la forma evolucionada de Cubone. Es más fuerte\nporque ha superado la pena por la pérdida de su madre.\nEl ánimo de este Pokémon, ya curtido y fortalecido, no es\nmuy fácil de alterar.",
+        "Marowak es la forma evolucionada de Cubone. Es más fuerte\nporque ha superado la pena por la pérdida de su madre.\nEl ánimo de este Pokémon, ya curtido y fortalecido, no es\nmuy fácil de alterar.",
+        "Cuando Cubone evoluciona a Marowak, deja de\nser débil y cobarde, se vuelve más agresivo y\nusa el hueso como arma.",
+        "Utiliza su hueso como si fuese un bumerán para\nderribar a Mandibuzz, su enemigo natural, a\nmodo de venganza.",
+        "Lanza su hueso para abatir a los Mandibuzz.\nSegún cuentan, es su forma de vengar a su\nmadre.",
+        "Se comunica con los suyos golpeando su hueso\nrítmicamente. Se han llegado a contabilizar\nhasta cincuenta patrones distintos.",
+        "Este Pokémon ha dejado atrás su debilidad y\nse ha vuelto más feroz con el paso del tiempo.\nBlande su hueso con destreza.",
+        "Este Pokémon ha dejado atrás su debilidad y\nse ha vuelto más feroz con el paso del tiempo.\nBlande su hueso con destreza.",
+        "Ha evolucionado tras fortalecerse y superar\nsu pena. Ahora lucha con arrojo blandiendo\nsu hueso a modo de arma.",
+        "Al evolucionar, se ha fusionado con el cráneo de\nsu madre y, además, ha adquirido un carácter\nagresivo."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "name": "Marowak",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 45.0
+}

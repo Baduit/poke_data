@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Bringt man beide Köpfe in Rage, stößt sein Horn\nheftige Eisböen aus, und alles in seiner Umgebung\nversinkt in Schnee.",
+        "Es verschluckt Unmengen an Wasser und wandelt es\nintern in Schneewolken um. Ist es wütend, erzeugt es\nSchneestürme.",
+        "Bringt man beide Köpfe in Rage, stößt sein Horn heftige\nEisböen aus, und alles in seiner Umgebung versinkt in Schnee.",
+        "Es verschluckt Unmengen an Wasser und wandelt es intern in\nSchneewolken um. Ist es wütend, erzeugt es Schneestürme.",
+        "Seine zwei Köpfe haben je ein eigenes Gehirn.\nSind sich beide einig, greifen sie den Gegner an,\nindem sie heftige Eisböen ausstoßen.",
+        "Selbst wenn es einen seiner Köpfe verliert,\nkann es ohne besondere Probleme weiterleben.\nIn seinem Inneren erzeugt es Schneewolken.",
+        "Aus seinen zwei Mündern stößt es Eisböen aus.\nDa es praktisch überall Schnee erzeugen kann,\nist es bei Snowboardern und Skifahrern beliebt.",
+        "Es entsteht, wenn zwei Gelatroppo im Licht\nder Morgensonne miteinander verschmelzen\nund dann in einer kalten Nacht wieder gefrieren.",
+        "Wenn es in Rage gerät, erzeugt es gewaltige\nEisböen, die sowohl Freund als auch Feind\nzu Eisklötzen gefrieren lassen.",
+        "Seine Körpertemperatur beträgt circa -6 ºC.\nAngeblich ist es aus der Verschmelzung von\nzwei Gelatroppo hervorgegangen."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "name": "Gelatwino",
+    "types": [
+        "Eis"
+    ],
+    "weight": 57.5
+}

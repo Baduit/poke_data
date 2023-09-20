@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es el Pokémon de tipo Dragón más débil. Habita en\nzonas oscuras y húmedas para evitar que su viscoso\ncuerpo se seque.",
+        "La membrana mucosa que lo recubre hace resbalar\ntanto los puñetazos como las patadas de los\nenemigos que lo golpean, gracias a su viscosidad.",
+        "Es el Pokémon de tipo Dragón más débil. Habita en zonas\noscuras y húmedas para evitar que su viscoso cuerpo se\nseque.",
+        "La membrana mucosa que lo recubre hace resbalar tanto los\npuñetazos como las patadas de los enemigos que lo golpean,\ngracias a su viscosidad.",
+        "Es el Pokémon de tipo Dragón más débil.\nNecesita mantener la piel húmeda para respirar,\ny por eso se oculta en las sombras.",
+        "Una membrana viscosa lo envuelve y lo protege,\npero tiene tal cantidad de gérmenes que hay\nque lavarse bien las manos tras tocarlo.",
+        "Palpa los alrededores con sus cuernos. Estos\nson tan sensibles que se queda paralizado si\nalguien se los agarra.",
+        "La mayor parte de su cuerpo está compuesto\npor agua, por lo que muere si llega a secarse.\nSiempre se le encuentra inmóvil en la sombra.",
+        "Su cuerpo se compone casi exclusivamente de\nagua, por lo que se debilitaría si se deshidratase.\nEs el Pokémon de tipo Dragón más débil.",
+        "Sus antenas son órganos sensoriales sumamente\ndesarrollados. Poder esconderse nada más\ndetectar enemigos le ha permitido sobrevivir."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "name": "Goomy",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 2.8
+}

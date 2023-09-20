@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 4,
+    "height": 2.2,
+    "name": "Abomasnow",
+    "types": [
+        "Planta",
+        "Hielo"
+    ],
+    "weight": 135.5
+}

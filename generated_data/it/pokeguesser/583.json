@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Congela il corpo del nemico con granelli di ghiaccio\nche genera raffreddando l’aria circostante.",
+        "Vive sulle montagne innevate. Durante le antiche\nglaciazioni si è spostato nelle regioni del sud.",
+        "Congela il corpo del nemico con granelli di ghiaccio che\ngenera raffreddando l’aria circostante.",
+        "Vive sulle montagne innevate. Durante le antiche glaciazioni\nsi è spostato nelle regioni del sud.",
+        "Si scioglie nelle giornate calde. Riprende le\nproprie sembianze se viene congelato, pur\nrimanendo leggermente deformato.",
+        "Le sue origini risalgono all’era glaciale.\nUsa granelli di ghiaccio per congelare\ni nemici, che poi riduce in frantumi a testate.",
+        "Congela i nemici cospargendoli di granelli di\nghiaccio. I Vanillish che vivono ad Alola sono\npiù piccoli della media.",
+        "Un Pokémon incredibilmente robusto, rimasto\ninalterato fin dall’era glaciale. È popolarissimo\ntra gli abitanti delle regioni più calde.",
+        "Beve acqua pura per ingrandire il suo corpo\ndi ghiaccio. Non si fa vedere in giro nei giorni\ndi bel tempo.",
+        "Congela i nemici con il suo fiato a -100 ºC,\nma la sua indole gentile gli impedisce\ndi infliggere loro danni letali."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "name": "Vanillish",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 41.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "きゅうばんの　くちで　えものに\nすいつき　くいこませた　キバから\nでんきを　ながして　かんでんさせる。",
+        "うでの　ちからで　うみから　はいだし\nみずべの　えものに　おそいかかる。\nいっしゅんで　うみへ　ひきずりこむ。",
+        "きゅうばんの　くちで　えものに\nすいつき　くいこませた　キバから\nでんきを　ながして　かんでんさせる。",
+        "うでの　ちからで　うみから　はいだし\nみずべの　えものに　おそいかかる。\nいっしゅんで　うみへ　ひきずりこむ。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "name": "シビルドン",
+    "types": [
+        "でんき"
+    ],
+    "weight": 80.5
+}

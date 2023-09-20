@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "酷似精靈球的花紋\n究竟有什麼意義和理由，\n至今仍沒有人能了解。",
+        "從雙臂噴出的孢子是劇毒，\n但據說在徹底乾燥之後，\n可以作為腸胃藥使用。"
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
+    "name": "哎呀球菇",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 1.0
+}

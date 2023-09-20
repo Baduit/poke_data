@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Pawniard",
+    "types": [
+        "Buio",
+        "Acciaio"
+    ],
+    "weight": 10.2
+}

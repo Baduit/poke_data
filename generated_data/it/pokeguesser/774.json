@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Vive normalmente nello strato d’ozono, ma\nquando il guscio esterno si indurisce precipita\na terra.",
+        "Ha avuto origine da una mutazione improvvisa\ndi nanoparticelle. Un attacco violento può fargli\nperdere il guscio esterno.",
+        "Vive nello strato d’ozono, dove Pokémon più\nforti di lui lo cacciano per cibarsene. Spesso\nprecipita sulla terraferma cercando di fuggire.",
+        "Il suo guscio esterno è estremamente resistente,\nma quando precipita dallo strato d’ozono\nl’impatto con il suolo lo fa andare in mille pezzi."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "name": "Minior",
+    "types": [
+        "Roccia",
+        "Volante"
+    ],
+    "weight": 40.0
+}

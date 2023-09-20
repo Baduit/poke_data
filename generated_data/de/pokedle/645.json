@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Demeteros",
+    "types": [
+        "Boden",
+        "Flug"
+    ],
+    "weight": 68.0
+}

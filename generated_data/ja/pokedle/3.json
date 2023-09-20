@@ -1,0 +1,11 @@
+{
+    "color": "緑色",
+    "generation": 1,
+    "height": 2.0,
+    "name": "フシギバナ",
+    "types": [
+        "くさ",
+        "どく"
+    ],
+    "weight": 100.0
+}

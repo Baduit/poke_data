@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Adoran los mares gélidos del norte. Congelan su\naliento para crear sendas por las que caminar sobre\nlas aguas.",
+        "Congela su aliento y crea colmillos y garras de hielo\npara combatir. Vive en las gélidas tierras del norte.",
+        "Adoran los mares gélidos del norte. Congelan su aliento para\ncrear sendas por las que caminar sobre las aguas.",
+        "Congela su aliento y crea colmillos y garras de hielo para\ncombatir. Vive en las gélidas tierras del norte.",
+        "Congela su aliento y crea colmillos de hielo más\nduros que el acero. Nada en mares de aguas frías\nen busca de alimento.",
+        "Nada plácidamente en mares fríos. Cuando se\ncansa, congela el agua con su aliento y reposa\nsobre el hielo."
+    ],
+    "height": 2.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "name": "Beartic",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 260.0
+}

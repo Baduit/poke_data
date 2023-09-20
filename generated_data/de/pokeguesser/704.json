@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Dieses schwächste aller Drachen-Pokémon lebt\nan feuchten und schattigen Plätzen, um seinen\nglitschigen Körper vor dem Austrocknen zu bewahren.",
+        "Sein Körper ist von einer schleimigen Schicht umhüllt,\nan der gegnerische Tritte und Schläge abgleiten, ohne\nSchaden anzurichten.",
+        "Dieses schwächste aller Drachen-Pokémon lebt an feuchten\nund schattigen Plätzen, um seinen glitschigen Körper vor dem\nAustrocknen zu bewahren.",
+        "Sein Körper ist von einer schleimigen Schicht umhüllt, an der\ngegnerische Tritte und Schläge abgleiten, ohne Schaden\nanzurichten.",
+        "Das schwächste aller Drachen-Pokémon.\nWenn seine Haut austrocknet, erstickt es.\nDaher hält es sich bevorzugt im Schatten auf.",
+        "Sein Körper ist von einer schleimigen Schutz-\nschicht umhüllt, die voller Bakterien steckt.\nNach dem Anfassen also Hände waschen!",
+        "Mit seinen Fühlern tastet es die Umgebung ab.\nEs ist so empfindlich, dass es in Schockstarre\nverfällt, wenn man es in die Hand nimmt.",
+        "Sein Körper besteht fast ausschließlich aus\nWasser. Trocknet es aus, stirbt es. Deshalb hält\nes sich immer bewegungslos im Schatten auf.",
+        "Sein Körper besteht vorwiegend aus Wasser und\nverschrumpelt daher völlig, wenn es austrocknet.\nEs ist das schwächste aller Drachen-Pokémon.",
+        "Seine Fühler sind hochentwickelte Sinnesorgane.\nDa es dank ihnen Feinde sofort spüren und sich\nverstecken kann, hat es bis heute überlebt."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "name": "Viscora",
+    "types": [
+        "Drache"
+    ],
+    "weight": 2.8
+}

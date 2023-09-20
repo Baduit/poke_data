@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Doudouvet",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 0.6
+}

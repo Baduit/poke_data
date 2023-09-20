@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 7,
+    "height": 5.5,
+    "name": "垒磊石",
+    "types": [
+        "岩石",
+        "钢"
+    ],
+    "weight": 820.0
+}

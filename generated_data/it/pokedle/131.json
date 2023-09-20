@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 1,
+    "height": 2.5,
+    "name": "Lapras",
+    "types": [
+        "Acqua",
+        "Ghiaccio"
+    ],
+    "weight": 220.0
+}

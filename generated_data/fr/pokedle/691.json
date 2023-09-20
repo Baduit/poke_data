@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 6,
+    "height": 1.8,
+    "name": "Kravarech",
+    "types": [
+        "Poison",
+        "Dragon"
+    ],
+    "weight": 81.5
+}

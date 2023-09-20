@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Brachte Menschen dazu, den Sandhügel zu einer\nstattlichen Sandburg auszubauen. Auch seine\nFlüche haben an Stärke gewonnen.",
+        "Unter seiner Sandburg liegen zahlreiche\nKnochen qualvoll Verstorbener, denen\ndie Lebenskraft ausgesaugt wurde.",
+        "Jedes einzelne seiner Körner verfügt über einen\neigenen Willen. Kleine Pokémon verschluckt es\nlebendig und saugt ihnen die Lebensenergie aus.",
+        "Ein grauenvolles Pokémon, das seine Feinde in\neinen Sandsturm einschließt, um sie dann ihrer\nLebensenergie zu berauben.",
+        "Colossand wird auch als „Schrecken der Strände“\nbezeichnet. Es manipuliert Sand, um seine Beute\nzu begraben und sich ihre Seele einzuverleiben.",
+        "Es lebt an Stränden, obwohl es Wasser hasst.\nWird es von starkem Regen erwischt, so kann es\nseine sandburgartige Form nicht aufrechterhalten."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+    "name": "Colossand",
+    "types": [
+        "Geist",
+        "Boden"
+    ],
+    "weight": 250.0
+}

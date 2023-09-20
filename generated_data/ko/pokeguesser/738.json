@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "복부에 발전 기관을 갖고 있다.\n큰 턱에 에너지를 모아\n굉장한 전격을 쏜다.",
+        "날아다니며 틈을 노린다.\n전기 에너지를 큰 턱으로\n모아서 적에게 발사한다.",
+        "배에 있는 발전기관에서\n전기를 일으킨다. 전격 빔으로\n새포켓몬도 압도한다.",
+        "아크로바틱한 비행으로 적을\n교란한다. 풀이 죽은 틈을 타\n전격 빔을 가한다.",
+        "복부에서 만든 전기를\n커다란 턱에 집중시켜서\n고출력의 빔을 쏜다.",
+        "예비 배터리로서 전지충이를\n안고 날면 높은 전력의\n전자빔을 연사할 수 있다."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "name": "투구뿌논",
+    "types": [
+        "벌레",
+        "전기"
+    ],
+    "weight": 45.0
+}

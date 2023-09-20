@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 6,
+    "height": 0.8,
+    "name": "Tyrunt",
+    "types": [
+        "Rock",
+        "Dragon"
+    ],
+    "weight": 26.0
+}

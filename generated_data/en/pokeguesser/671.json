@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It claims exquisite flower gardens as its territory,\nand it obtains power from basking in the energy\nemitted by flowering plants.",
+        "In times long past, governors of castles\nwould invite Florges to create flower gardens\nto embellish the castle domains.",
+        "It claims exquisite flower gardens as its territory,\nand it obtains power from basking in the energy\nemitted by flowering plants.",
+        "In times long past, governors of castles\nwould invite Florges to create flower gardens\nto embellish the castle domains.",
+        "It controls the flowers it grows. The petal\nblizzards that Florges triggers are overwhelming\nin their beauty and power.",
+        "Its life can span several hundred years. It’s said\nto devote its entire life to protecting gardens."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+    "name": "Florges",
+    "types": [
+        "Fairy"
+    ],
+    "weight": 10.0
+}

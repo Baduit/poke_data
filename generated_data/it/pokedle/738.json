@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 7,
+    "height": 1.5,
+    "name": "Vikavolt",
+    "types": [
+        "Coleottero",
+        "Elettro"
+    ],
+    "weight": 45.0
+}

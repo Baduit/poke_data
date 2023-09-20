@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Carvanha",
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "weight": 20.8
+}

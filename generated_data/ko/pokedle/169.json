@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 2,
+    "height": 1.8,
+    "name": "크로뱃",
+    "types": [
+        "독",
+        "비행"
+    ],
+    "weight": 75.0
+}

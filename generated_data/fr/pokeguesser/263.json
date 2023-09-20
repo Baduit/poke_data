@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il marche en zigzaguant et n’a\npas son pareil pour trouver des\nobjets dans l’herbe ou sous terre.",
+        "Il marche en zigzaguant et n’a\npas son pareil pour trouver des\nobjets dans l’herbe ou sous terre.",
+        "Il marche en zigzaguant et n’a pas son pareil pour\ntrouver des objets dans l’herbe ou sous terre.",
+        "Un Pokémon d’une curiosité insatiable. Il montre\nde l’intérêt pour tout ce qui l’entoure et passe d’un\nendroit à un autre en zigzaguant pour tout regarder.",
+        "Zigzaton se promène nerveusement un peu partout. En effet,\nce Pokémon est très curieux. Tout ce qu’il voit l’intéresse.",
+        "Les poils sur le dos de Zigzaton sont durs. Il frotte son dos\ncontre les arbres pour marquer son territoire. Ce Pokémon\nfait parfois le mort pour tromper ses ennemis au combat.",
+        "Il frotte son pelage dur sur les arbres pour\nmarquer son territoire. Il est plus docile\nque son cousin de Galar.",
+        "Le Zigzaton de Galar a adopté cette forme\ndans les autres régions.\nIl est très doué pour dénicher des choses."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "name": "Zigzaton",
+    "types": [
+        "Normal"
+    ],
+    "weight": 17.5
+}

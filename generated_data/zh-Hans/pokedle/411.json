@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 4,
+    "height": 1.3,
+    "name": "护城龙",
+    "types": [
+        "岩石",
+        "钢"
+    ],
+    "weight": 149.5
+}

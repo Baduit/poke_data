@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Un Pokémon très intelligent. Il\npeut voler plus vite qu’un avion à\nréaction en repliant ses ailes.",
+        "Un Pokémon très intelligent. Il\npeut voler plus vite qu’un avion à\nréaction en repliant ses ailes.",
+        "Un Pokémon très intelligent. Il peut voler plus vite\nqu’un avion à réaction en repliant ses ailes.",
+        "Un Pokémon très intelligent qui comprend le langage\nhumain. Il déteste se battre.",
+        "Latios a le pouvoir de faire voir à une personne une image\nprovenant de son subconscient. Ce Pokémon est intelligent\net comprend le langage humain.",
+        "Latios n’ouvrira son cœur qu’à un Dresseur doté d’un esprit\ncompatissant. Ce Pokémon peut voler plus vite qu’un avion\nà réaction en repliant ses pattes avant pour améliorer\nson aérodynamisme."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+    "name": "Latios",
+    "types": [
+        "Dragon",
+        "Psy"
+    ],
+    "weight": 60.0
+}

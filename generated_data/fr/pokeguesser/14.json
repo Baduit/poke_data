@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il se cache sous les feuilles et les\nbranches pour fuir les prédateurs\nen attendant d’évoluer.",
+        "Il se cache sous les feuilles et les\nbranches pour fuir les prédateurs\nen attendant d’évoluer.",
+        "Incapable de se déplacer de lui-même, il se défend en\ndurcissant sa carapace.",
+        "Il se cache sous les feuilles et les branches pour fuir\nles prédateurs en attendant d’évoluer.",
+        "Coconfort est la plupart du temps immobile et reste\naccroché à un arbre. Cependant, intérieurement, il est\ntrès actif, car il se prépare pour sa prochaine évolution.\nEn touchant sa carapace, on peut sentir sa chaleur.",
+        "Coconfort est la plupart du temps immobile et reste\naccroché à un arbre. Cependant, intérieurement, il est\ntrès actif, car il se prépare pour sa prochaine évolution.\nEn touchant sa carapace, on peut sentir sa chaleur.",
+        "Il peut à peine bouger. Quand il est menacé,\nil sort parfois son aiguillon pour empoisonner\nses ennemis.",
+        "Il peut à peine bouger. Quand il est menacé,\nil sort parfois son aiguillon pour empoisonner\nses ennemis."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "name": "Coconfort",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 10.0
+}

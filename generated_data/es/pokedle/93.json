@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 1,
+    "height": 1.6,
+    "name": "Haunter",
+    "types": [
+        "Fantasma",
+        "Veneno"
+    ],
+    "weight": 0.1
+}

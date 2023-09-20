@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "非常喜欢吃长有苔藓的岩石。\n发着嘎吱嘎吱的声音，\n１天吃１吨以上。",
+        "因腿脚笨拙而把身体蜷成一团\n翻滚着移动。蓄势而发的话，\n时速能超过１００千米。",
+        "会爬上山崖前往山顶。\n到达山顶后，会立刻\n沿着来时的山路滚下去。",
+        "会从悬崖上滚下来移动。\n如果不慎落入河里，\n就会来个大爆炸以作最后挣扎。",
+        "常在山路上滚来滚去。\n滚动时从来不关心\n前面的路上都有什么。",
+        "常在山路上滚来滚去。\n滚动时从来不关心\n前面的路上都有什么。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "name": "隆隆石",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 105.0
+}

@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Il possède de sacrés biscoteaux.\nIl peut parcourir sans relâche\nl’Océan Pacifique.",
+        "Il possède de sacrés biscoteaux.\nIl peut parcourir sans relâche\nl’Océan Pacifique.",
+        "Il possède de sacrés biscoteaux. Il peut parcourir\nsans relâche l’océan Pacifique.",
+        "Excellent nageur, il pratique le crawl ou la nage\npapillon mieux qu’un champion olympique.",
+        "Les muscles solides et surdéveloppés de Tartard ne se\nfatiguent jamais, quels que soient les efforts qu’il produit.\nCe Pokémon est tellement endurant qu’il peut traverser\nun océan à la nage avec une étonnante facilité.",
+        "Les muscles solides et surdéveloppés de Tartard ne se\nfatiguent jamais, quels que soient les efforts qu’il produit.\nCe Pokémon est tellement endurant qu’il peut traverser\nun océan à la nage avec une étonnante facilité.",
+        "Les Tartard d’Alola nagent la brasse avec\nhabileté. Beaucoup d’enfants apprennent à\nnager en les imitant.",
+        "Il a un indice de masse grasse proche de zéro.\nComme il est plein de muscles, il est très lourd\net a dû apprendre à nager pour se déplacer.",
+        "Bien qu’il fasse partie des Pokémon de type Eau\nles plus doués pour la nage, il reste en général\nsur la terre ferme.",
+        "Son impressionnante musculature a été sculptée\npar sa nage vigoureuse. Un direct du droit lui\nsuffit à réduire un gros rocher en miettes.",
+        "Son corps très musclé lui permet de nager plus\nrapidement qu’un champion de natation.",
+        "Son corps très musclé lui permet de nager plus\nrapidement qu’un champion de natation.",
+        "Cette véritable montagne de muscles peut\nse frayer un chemin même dans les eaux glaciales\nen éclatant la banquise avec ses bras robustes.",
+        "Aussi habile à la nage qu’au combat, il peut\ndonner de vigoureux coups de poing avec\nses bras musclés."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "name": "Tartard",
+    "types": [
+        "Eau",
+        "Combat"
+    ],
+    "weight": 54.0
+}

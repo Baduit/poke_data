@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "La femmina ha un temperamento mite. Lancia\nultrasuoni capaci di incantare i nemici.",
+        "Per nutrire i piccoli, prima intenerisce il cibo\nmasticandolo, poi lo sputa per i cuccioli.",
+        "Quando questi Pokémon si riuniscono con gli amici e la\nfamiglia, tengono i loro aculei a debita distanza per evitare\ndi ferirsi a vicenda. Se allontanati dal branco, diventano\nnervosi e irascibili.",
+        "Quando questi Pokémon si riuniscono con gli amici e la\nfamiglia, tengono i loro aculei a debita distanza per evitare\ndi ferirsi a vicenda. Se allontanati dal branco, diventano\nnervosi e irascibili.",
+        "Quando è nella sua tana i suoi aculei si ritirano.\nQuesto dimostra che è rilassato.",
+        "Quando è nella sua tana i suoi aculei si ritirano.\nQuesto dimostra che è rilassato.",
+        "Si pensa che il corno sulla fronte si sia atrofizzato\nper evitare che Nidorina punga i suoi cuccioli\nquando li nutre.",
+        "Quando il branco è minacciato da un pericolo,\ni suoi membri uniscono le forze e dispiegano\nun coro di ultrasuoni."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "name": "Nidorina",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 20.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Le lourd masque qu’il porte est un limiteur qui\nl’empêche d’exprimer toute l’étendue de\nsa puissance. Il recèle une force mystérieuse.",
+        "Ce Pokémon créé de toutes pièces porte un\nmasque qui contient sa puissance et l’empêche\nde perdre le contrôle et de tout détruire.",
+        "Développé en tant qu’arme dans un but bien\nprécis, il est devenu incontrôlable lors d’une\nexpérience et a dû être cryogénisé.",
+        "On lui fait porter un masque qui limite\nsa puissance afin d’éviter qu’il n’en perde\nle contrôle et sème le chaos.",
+        "On raconte qu’il aurait été recréé à Galar\nsuite à un vol de documents de recherche\nhautement confidentiels.",
+        "Il a été créé artificiellement d’après un Pokémon\nmythique. Il est muni d’un masque afin de contenir\nsa puissance."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
+    "name": "Type:0",
+    "types": [
+        "Normal"
+    ],
+    "weight": 120.5
+}

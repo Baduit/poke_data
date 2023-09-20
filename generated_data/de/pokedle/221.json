@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 2,
+    "height": 1.1,
+    "name": "Keifel",
+    "types": [
+        "Eis",
+        "Boden"
+    ],
+    "weight": 55.8
+}

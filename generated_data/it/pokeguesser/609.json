@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le fiamme di Chandelure risucchiano lo spirito e\nlasciano il corpo come un guscio vuoto.",
+        "Le anime bruciate dalle sue fiamme cupe perdono\nla strada e rimangono a vagare in questo mondo\nper l’eternità.",
+        "Le fiamme di Chandelure risucchiano lo spirito e lasciano\nil corpo come un guscio vuoto.",
+        "Le anime bruciate dalle sue fiamme cupe perdono la strada\ne rimangono a vagare in questo mondo per l’eternità.",
+        "Infesta vecchie case. Ipnotizza l’avversario\nfacendo tremolare le fiammelle sugli arti.",
+        "Si dice che nelle ville in cui i Chandelure erano\nutilizzati al posto dei lampadari i funerali\nsi susseguissero senza sosta."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "name": "Chandelure",
+    "types": [
+        "Spettro",
+        "Fuoco"
+    ],
+    "weight": 34.3
+}

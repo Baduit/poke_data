@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Pawniard",
+    "types": [
+        "Dark",
+        "Steel"
+    ],
+    "weight": 10.2
+}

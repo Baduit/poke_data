@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 1,
+    "height": 1.4,
+    "name": "Golem",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 300.0
+}

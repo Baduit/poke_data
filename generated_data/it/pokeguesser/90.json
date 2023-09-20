@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "La sua conchiglia dura respinge ogni tipo di attacco.\nÈ vulnerabile solo quando apre il guscio.",
+        "Mentre attanaglia il nemico diviene vulnerabile,\nperciò usa questa tecnica come ultima risorsa.",
+        "Di notte Shellder usa la sua lingua larga per scavare una buca\nsul fondo del mare e infilarcisi per dormire.\nQuando dorme chiude la conchiglia ma lascia la lingua fuori\na penzoloni.",
+        "Di notte Shellder usa la sua lingua larga per scavare una buca\nsul fondo del mare e infilarcisi per dormire.\nQuando dorme chiude la conchiglia ma lascia la lingua fuori\na penzoloni.",
+        "La conchiglia esterna è più dura del diamante.\nIn passato era usata per costruire scudi.",
+        "Con la lingua che gli sporge sempre a penzoloni\nscava abilmente sul fondo del mare in cerca\ndi cibo.",
+        "Con il tempo, la sabbia che si accumula\nnel guscio forma delle perle. Poiché gli danno\nnoia, il Pokémon le sputa via.",
+        "La lingua gli sporge a penzoloni anche quando la\nconchiglia è chiusa. Se gliela si tira con forza,\nShellder apre la conchiglia per la sorpresa.",
+        "La sua conchiglia è capace di resistere a\nqualsiasi attacco, ma quando si apre\nil Pokémon diventa molto vulnerabile.",
+        "La sua conchiglia è capace di resistere a\nqualsiasi attacco, ma quando si apre\nil Pokémon diventa molto vulnerabile.",
+        "Nuota all’indietro aprendo e chiudendo le\ndue valve. È sorprendentemente rapido.",
+        "La sua conchiglia dura respinge ogni tipo\ndi attacco. È vulnerabile solo quando apre\nle valve."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "name": "Shellder",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 4.0
+}

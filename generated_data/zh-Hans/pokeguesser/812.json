@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "能够通过打鼓来控制\n特别的树桩中的力量，\n操纵树根进行战斗。",
+        "打鼓技巧最高超的那一只\n会成为首领。性情温和，\n重视族群的和谐相处。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "name": "轰擂金刚猩",
+    "types": [
+        "草"
+    ],
+    "weight": 90.0
+}

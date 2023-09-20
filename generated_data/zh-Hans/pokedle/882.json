@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 8,
+    "height": 2.3,
+    "name": "鳃鱼龙",
+    "types": [
+        "水",
+        "龙"
+    ],
+    "weight": 215.0
+}

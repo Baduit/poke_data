@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 8,
+    "height": 2.0,
+    "name": "Hydragla",
+    "types": [
+        "Eau",
+        "Glace"
+    ],
+    "weight": 175.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Bronzor",
+    "types": [
+        "Acero",
+        "Psíquico"
+    ],
+    "weight": 60.5
+}

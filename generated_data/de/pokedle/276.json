@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.3,
+    "name": "Schwalbini",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 2.3
+}

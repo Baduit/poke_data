@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Marill",
+    "types": [
+        "Agua",
+        "Hada"
+    ],
+    "weight": 8.5
+}

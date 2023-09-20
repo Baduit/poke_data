@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "是充滿謎團的ＵＢ的一種。\n有人曾目擊到走在街上的路人\n被寄生後暴走的模樣。",
+        "ＵＢ的一種。\n是否有自主意識尚不清楚，\n但不時會展現少女般的姿態。",
+        "被稱為究極異獸，\n是來自其他世界的生命體。\n被認為擁有強烈的神經毒。",
+        "從究極之洞中現身來到\n這個世界。似乎會靠寄生在\n寶可夢或人類身上來生存。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+    "name": "虛吾伊德",
+    "types": [
+        "岩石",
+        "毒"
+    ],
+    "weight": 55.5
+}

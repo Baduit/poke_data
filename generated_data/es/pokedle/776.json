@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 7,
+    "height": 2.0,
+    "name": "Turtonator",
+    "types": [
+        "Fuego",
+        "Dragón"
+    ],
+    "weight": 212.0
+}

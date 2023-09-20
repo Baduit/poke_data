@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "由电能聚集而成。\n据说在解开身上的圆环后\n会释放出隐藏的力量。",
+        "整个身体是制造电能的\n器官。可以制造出\n伽勒尔全域所需的电力。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+    "name": "雷吉艾勒奇",
+    "types": [
+        "电"
+    ],
+    "weight": 145.0
+}

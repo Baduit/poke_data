@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es knackt mit seinen Hauern Nüsse.\nBrechen seine Fangzähne ab, wächst\nan ihrer Stelle ein stärkeres Ersatzpaar.",
+        "Markiert sein Revier, indem es mit seinen Fängen\nKerben in Bäume schlägt. Brechen diese einmal ab,\nwachsen sie sofort nach.",
+        "Es knackt mit seinen Hauern Nüsse. Brechen seine Fangzähne\nab, wächst an ihrer Stelle ein stärkeres Ersatzpaar.",
+        "Markiert sein Revier, indem es mit seinen Fängen Kerben\nin Bäume schlägt. Brechen diese einmal ab, wachsen sie\nsofort nach.",
+        "Sie wohnen in Löchern, die sie selbst graben.\nAb und an veranstalten sie mit harten Beeren\nWettbewerbe, wer die stärksten Fangzähne hat.",
+        "Sie rammen sich spielerisch mit ihren Fangzähnen.\nBrechen diese ab, wachsen sie sofort nach."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "name": "Milza",
+    "types": [
+        "Drache"
+    ],
+    "weight": 18.0
+}

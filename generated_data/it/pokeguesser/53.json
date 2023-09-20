@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Sebbene molto amato per il suo pelo, è difficile\naddomesticarlo per la volubile crudeltà.",
+        "I muscoli flessibili gli consentono di camminare\nsenza fare alcun rumore. Attacca in un lampo.",
+        "Persian è dotato di sei baffetti furbi che gli conferiscono\nun aspetto forte. I baffi captano ogni movimento dell’aria\nriconoscendo presenze vicine. Se afferrato per i baffi,\ndiventa docile.",
+        "Persian è dotato di sei baffetti furbi che gli conferiscono\nun aspetto forte. I baffi captano ogni movimento dell’aria\nriconoscendo presenze vicine. Se afferrato per i baffi,\ndiventa docile.",
+        "È particolarmente suscettibile, tanto da\nattaccare chiunque lo guardi negli occhi.\nI suoi artigli affilati provocano profonde ferite.",
+        "È un Pokémon molto altezzoso, caratteristica\nparticolarmente marcata nei Persian di Alola.\nConquistarsi il suo affetto è un’impresa ardua.",
+        "La gemma che ha sulla fronte è di un colore\ndiverso da quella dei Persian di Alola, ma è\ncomposta praticamente dello stesso il materiale.",
+        "È molto popolare tra le persone facoltose.\nA volte viene preso di mira dai cacciatori,\nattirati dalla gemma che ha sulla fronte.",
+        "La gemma che ha in fronte emette una luce\nsplendente. Ha le movenze sinuose ed eleganti\ndi una regina.",
+        "La gemma che ha in fronte emette una luce\nsplendente. Ha le movenze sinuose ed eleganti\ndi una regina.",
+        "Conquistarsi il suo affetto è un’impresa ardua\nperché è molto altezzoso. Se qualcosa non gli\nva, tira subito fuori gli artigli.",
+        "Ha un portamento elegante e distinto.\nNon gli va a genio la rozzezza di Perrserker\ne i due Pokémon si disprezzano a vicenda."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "name": "Persian",
+    "types": [
+        "Normale"
+    ],
+    "weight": 32.0
+}

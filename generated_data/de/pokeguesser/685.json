@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es verfügt über einen feinen Geruchssinn, mit dem\nes selbst die schwächsten Gerüche erkennen kann.\nEs hilft deshalb oft in Konditoreien aus.",
+        "Sein Geruchssinn ist mehrere Millionen Mal stärker als\nder des Menschen. Durch die schwächsten Gerüche\nin der Luft weiß es, was in seiner Umgebung vorgeht.",
+        "Es verfügt über einen feinen Geruchssinn, mit dem es selbst\ndie schwächsten Gerüche erkennen kann. Es hilft deshalb oft\nin Konditoreien aus.",
+        "Sein Geruchssinn ist mehrere Millionen Mal stärker als der\ndes Menschen. Durch die schwächsten Gerüche in der Luft\nweiß es, was in seiner Umgebung vorgeht.",
+        "Es kann die körperliche und seelische Verfassung\nanderer anhand ihres Körpergeruchs erkennen.\nDies versucht man für die Medizin zu nutzen.",
+        "Da in seinem Fell eine Menge Luft eingeschlossen\nist, fühlt es sich unheimlich weich an und ist\nleichter, als es auf den ersten Blick aussieht."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "name": "Sabbaione",
+    "types": [
+        "Fee"
+    ],
+    "weight": 5.0
+}

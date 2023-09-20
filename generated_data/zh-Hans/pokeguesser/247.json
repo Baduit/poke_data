@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "它是令人头痛的宝可梦。\n不等进化完成就会利用压缩气体\n四处乱飞大闹来纾解压力。",
+        "会到处胡闹，相当危险的蛹。\n在岩盘一样的外壳内，\n新的身体正在逐渐成形。",
+        "被外壳覆盖，但能自由自在地\n跳来跳去。兼具硬度和速度，\n因此破坏力超群。",
+        "虽然是蛹却不会呆着不动。\n在坚硬的甲壳之下\n已经长出了手脚。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "name": "沙基拉斯",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 152.0
+}

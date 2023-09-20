@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 7,
+    "height": 0.5,
+    "name": "전지충이",
+    "types": [
+        "벌레",
+        "전기"
+    ],
+    "weight": 10.5
+}

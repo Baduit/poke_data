@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Vive en la capa de ozono sobre las nubes y no puede\nser visto desde el suelo.",
+        "Como hasta hace poco volaba a la altura de la capa\nde ozono, nadie lo había visto nunca.",
+        "Dicen que Rayquaza ha vivido durante millones de años.\nLas leyendas cuentan que puso fin al continuo enfrentamiento\nentre Groudon y Kyogre.",
+        "Rayquaza ha vivido en la capa de ozono durante millones de\naños, alimentándose de meteoritos. La energía de estos\nmeteoritos se acumula en su cuerpo y le permite\nmegaevolucionar."
+    ],
+    "height": 7.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "name": "Rayquaza",
+    "types": [
+        "Dragón",
+        "Volador"
+    ],
+    "weight": 206.5
+}

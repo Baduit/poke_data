@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Dieses Pokémon gräbt auf seiner Suche nach Futter\nlange Tunnel, in denen sich später Digda einnisten.",
+        "Es lebt gewöhnlich unter der Erde. Während es sich\nmit 80 km/h durchs Erdreich bohrt, sucht es nach\nNahrung.",
+        "Onix hat einen Magneten in seinem Gehirn. Er dient ihm\nals Kompass, sodass es beim Graben von Tunneln nicht\ndie Orientierung verliert. Wenn es älter wird, wird sein\nKörper immer runder und glatter.",
+        "Onix hat einen Magneten in seinem Gehirn. Er dient ihm\nals Kompass, sodass es beim Graben von Tunneln nicht\ndie Orientierung verliert. Wenn es älter wird, wird sein\nKörper immer runder und glatter.",
+        "Es gräbt auf seiner Suche nach Futter mit\nirrsinniger Geschwindigkeit lange Tunnel,\nin denen sich später Digda einnisten.",
+        "Es gräbt auf seiner Suche nach Futter mit\nirrsinniger Geschwindigkeit lange Tunnel,\nin denen sich später Digda einnisten.",
+        "Wenn es sich durch die Erde gräbt, nimmt es\nviele harte Gegenstände auf, die seinen Körper\nerhärten.",
+        "Es bohrt sich mit 80 km/h durch das Erdreich,\nindem es seinen massiven, rauen Körper dreht\nund windet."
+    ],
+    "height": 8.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "name": "Onix",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 210.0
+}

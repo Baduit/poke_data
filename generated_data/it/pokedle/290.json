@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Nincada",
+    "types": [
+        "Coleottero",
+        "Terra"
+    ],
+    "weight": 5.5
+}

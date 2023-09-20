@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Gringolem",
+    "types": [
+        "Sol",
+        "Spectre"
+    ],
+    "weight": 92.0
+}

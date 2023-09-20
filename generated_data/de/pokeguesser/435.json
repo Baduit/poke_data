@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Über seine Schweifspitze versprüht es eine\nübelriechende Substanz. Die Reichweite liegt\nbei über 50 m.",
+        "Es spritzt eine stinkende Substanz aus seinem Schweif.\nHat sie lange gegärt, stinkt sie stärker.",
+        "Über seine Schweifspitze versprüht es eine übelriechende\nSubstanz. Die Reichweite liegt bei über 50 m.",
+        "Es spritzt eine stinkende Substanz aus seinem Schweif.\nHat sie lange gegärt, stinkt sie stärker.",
+        "In seinem Magen speichert es eine stinkende\nFlüssigkeit, die es im Kampf aus seinem Schweif\nsprüht. Ihr Geruch hängt von seiner Nahrung ab.",
+        "Die Flüssigkeit, die es aus seinem Schweif sprüht,\nhat einen sehr starken Geruch. Es errichtet seinen\nBau, indem es Löcher in den Boden gräbt."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "name": "Skuntank",
+    "types": [
+        "Gift",
+        "Unlicht"
+    ],
+    "weight": 38.0
+}

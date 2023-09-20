@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "为了轻盈，骨骼空空的。\n用大大的翅膀迎风，\n向着浩瀚天空飞翔。",
+        "在长翅鸥飞来飞去的海下面\n聚集着成群的鱼宝可梦，\n所以渔夫会先寻找长翅鸥。",
+        "翅膀又细又长。\n能乘着上升气流，\n像滑翔机一样在空中翱翔。",
+        "在海边的悬崖上筑巢。\n会在海上盘旋，\n寻找它非常爱吃的弱丁鱼。",
+        "在陡峭的岩壁上筑巢，\n会借助海风，飞升到\n广阔的天空中滑翔。",
+        "利用气流，\n不拍打翅膀就能飞上天空。\n会在海边的岩壁上筑巢。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "name": "长翅鸥",
+    "types": [
+        "水",
+        "飞行"
+    ],
+    "weight": 9.5
+}

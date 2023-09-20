@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 0.5,
+    "name": "투구",
+    "types": [
+        "바위",
+        "물"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 3,
+    "height": 1.6,
+    "name": "Métalosse",
+    "types": [
+        "Acier",
+        "Psy"
+    ],
+    "weight": 550.0
+}

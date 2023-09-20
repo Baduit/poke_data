@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "La vieira de su ombligo no solo sirve como arma, sino\ntambién como instrumento para cortar las bayas que\nestén duras.",
+        "Ataca con la vieira de su ombligo. En cuanto para un\nataque, pasa al contraataque sin dilación.",
+        "La vieira de su ombligo no solo sirve como arma, sino también\ncomo instrumento para cortar las bayas que estén duras.",
+        "Ataca con la vieira de su ombligo. En cuanto para un ataque,\npasa al contraataque sin dilación."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+    "name": "Oshawott",
+    "types": [
+        "Agua"
+    ],
+    "weight": 5.9
+}

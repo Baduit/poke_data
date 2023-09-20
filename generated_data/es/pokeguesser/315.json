@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ataca con sus manos, en las que tiene un tipo de\nveneno diferente en cada una. Cuanto más aroma,\nmejor salud tiene.",
+        "Se dice que le brotan flores de colores poco usuales\nsi bebe agua de manantial rica en nutrientes.",
+        "Roselia lanza finas espinas a todo el que se le acerca con\nintención de robarle las flores de los brazos. El aroma de este\nPokémon resulta relajante a los seres vivos.",
+        "Dicen que, en muy raras ocasiones, aparece un ejemplar de\nRoselia con las flores de colores muy poco comunes. Las\nespinas que este Pokémon tiene en la cabeza contienen un\nveneno extremadamente peligroso.",
+        "Las flores que tiene emanan un aroma relajante.\nCuanto más intenso, mejor es su estado de salud.",
+        "Ataca con sus manos, cada una de las cuales\ncontiene un tipo de veneno diferente. Cuanto\nmás intenso es su aroma, mejor salud tiene."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "name": "Roselia",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 2.0
+}

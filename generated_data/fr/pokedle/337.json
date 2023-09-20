@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Séléroc",
+    "types": [
+        "Roche",
+        "Psy"
+    ],
+    "weight": 168.0
+}

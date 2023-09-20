@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "有许多看似自然形成的\n洞窟其实都是龙头地鼠\n一阵乱钻之后留下来的。",
+        "别名钻头王。在地底下\n挖掘前进的速度\n达到了每小时１５０公里。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "name": "龙头地鼠",
+    "types": [
+        "地面",
+        "钢"
+    ],
+    "weight": 40.4
+}

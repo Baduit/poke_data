@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        "Stores thermal\nenergy in its\nbody. Swims at a\fsteady 8 knots\neven in intensely\ncold waters.",
+        "Stores thermal\nenergy in its\nbody. Swims at a\fsteady 8 knots\neven in intensely\ncold waters.",
+        "Its entire body is\na snowy-white.\nUnharmed by even\fintense cold, it\nswims powerfully\nin icy waters.",
+        "Its streamlined\nbody has little\ndrag in water.\fThe colder the\ntemperature, the\nfriskier it gets.",
+        "It loves frigid\nseas with ice\nfloes. It uses its\flong tail to\nchange swimming\ndirection quickly.",
+        "It sleeps under\nshallow ocean\nwaters during the\fday, then looks\nfor food at night\nwhen it's cold.",
+        "DEWGONG loves to snooze on bitterly\ncold ice.\nThe sight of this POKéMON sleeping on\fa glacier was mistakenly thought to be\na mermaid by a mariner long ago.",
+        "DEWGONG loves to snooze on bitterly\ncold ice.\nThe sight of this POKéMON sleeping on\fa glacier was mistakenly thought to be\na mermaid by a mariner long ago.",
+        "It loves to snooze on bitterly cold ice.\nThe sight of this POKéMON sleeping on\na glacier was mistakenly thought to be\na mermaid by a mariner long ago.",
+        "Its body is covered with a pure white\nfur. The colder the weather, the more\nactive it becomes.",
+        "It stores thermal energy in the body.\nIt swims at a steady eight knots even in\nintensely cold waters.",
+        "In snow, the pure white coat\ncovering its body obscures it from\npredators.",
+        "In snow, the pure white coat\ncovering its body obscures it from\npredators.",
+        "In snow, the pure white coat\ncovering its body obscures it from\npredators.",
+        "Its streamlined body has little\ndrag in water. The colder the\ntemperature, the friskier it gets.",
+        "It loves frigid seas with ice\nfloes. It uses its long tail to\nchange swimming direction quickly.",
+        "In snow, the pure white coat\ncovering its body obscures it from\npredators.",
+        "In snow, the pure white coat\ncovering its body obscures it from\npredators.",
+        "Its streamlined body has low resistance,\nand it swims around cold oceans at\na speed of eight knots.",
+        "Its streamlined body has low resistance,\nand it swims around cold oceans at\na speed of eight knots.",
+        "Its body is covered with a pure white fur.\nThe colder the weather, the more active\nit becomes.",
+        "Its streamlined body has little drag in water.\nThe colder the temperature, the friskier it gets.",
+        "Dewgong loves to snooze on bitterly cold ice. The sight of this\nPokémon sleeping on a glacier was mistakenly thought to be a\nmermaid by a mariner long ago.",
+        "Dewgong loves to snooze on bitterly cold ice. The sight of\nthis Pokémon sleeping on a glacier was mistakenly thought\nto be a mermaid by a mariner long ago.",
+        "It swims through the ocean at a speed of eight\nknots, searching for Pokémon that will become\nits prey. It’s especially fond of Wishiwashi.",
+        "It sunbathes on the beach after meals. The rise\nin its body temperature helps its digestion.",
+        "Its entire body is a snowy white. Unharmed by\neven intense cold, it swims powerfully\nin icy waters.",
+        "Its entire body is a snowy white. Unharmed by\neven intense cold, it swims powerfully\nin icy waters."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "Dewgong",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "weight": 120.0
+}

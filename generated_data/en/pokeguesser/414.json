@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "It loves the honey of flowers\nand steals honey collected by\nCOMBEE.",
+        "It does not keep a nest. It flies\nover fields and mountains in\nconstant search of floral honey.",
+        "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from COMBEE.",
+        "It flutters around at night and\nsteals honey from the COMBEE hive.",
+        "It flutters around at night and\nsteals honey from the COMBEE hive.",
+        "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee.",
+        "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee.",
+        "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee.",
+        "While it loves floral honey, it won’t\ngather any itself. Instead, it\nplots to steal some from Combee.",
+        "It loves the honey of flowers and steals honey\ncollected by Combee.",
+        "It flutters around at night and steals honey from\nthe Combee hive.",
+        "It loves the honey of flowers and steals honey\ncollected by Combee.",
+        "It flutters around at night and steals honey from\nthe Combee hive.",
+        "Scatters steel-colored scales as it flaps its wings. Despite\nbeing observed feeding primarily on the nectar of flowers,\nMothim is not often seen around flower gardens."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "name": "Mothim",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 23.3
+}

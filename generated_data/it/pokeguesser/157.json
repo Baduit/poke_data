@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Quando è davvero arrabbiato diventa così caldo\nche qualsiasi cosa tocchi va subito a fuoco.",
+        "Ha una devastante mossa segreta. Può sfregare la\npelliccia infuocata e causare forti esplosioni.",
+        "Typhlosion si nasconde avvolto da una lucente nube di calore\ncreata dalle sue fiamme roventi. Questo Pokémon crea\nesplosioni spettacolari che riducono in cenere ogni cosa.",
+        "Typhlosion si nasconde avvolto da una lucente nube di calore\ncreata dalle sue fiamme roventi. Questo Pokémon crea\nesplosioni spettacolari che riducono in cenere ogni cosa."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "name": "Typhlosion",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 79.5
+}

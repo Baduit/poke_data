@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+        "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings."
+    ],
+    "height": 4.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "name": "Cetitan",
+    "types": [
+        "Ice"
+    ],
+    "weight": 700.0
+}

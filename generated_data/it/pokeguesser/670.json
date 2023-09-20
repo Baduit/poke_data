@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Vola sui campi in fiore e si prende cura delle piante\nche si stanno seccando. Lotta sfruttando i poteri\nnascosti dei fiori.",
+        "Quando i fiori di un’aiuola ben curata sbocciano,\nappare e celebra l’evento con una danza graziosa.",
+        "Vola sui campi in fiore e si prende cura delle piante che si\nstanno seccando. Lotta sfruttando i poteri nascosti dei fiori.",
+        "Quando i fiori di un’aiuola ben curata sbocciano, appare\ne celebra l’evento con una danza graziosa.",
+        "Fa crescere il suo fiore e lo utilizza come arma.\nPiù il fiore è bello, maggiore è il potere che\nracchiude.",
+        "Trasmette il suo potere ai fiori e se ne prende\ncura con tutto il suo amore. Non ha alcuna pietà\nper chi deturpa le sue aiuole."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "name": "Floette",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 0.9
+}

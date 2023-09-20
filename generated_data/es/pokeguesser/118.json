@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Nada a una velocidad de cinco nudos. Si siente\npeligro, golpea con su afilado cuerno.",
+        "Sus aletas dorsal, trasera y pectoral ondean gráciles\nen el agua. Por eso es llamado el Bailarín Acuático.",
+        "Goldeen es un bello Pokémon que mueve con elegancia las\naletas en el agua. Con todo, no hay que bajar la guardia, en\ncualquier momento puede embestir con el cuerno.",
+        "A Goldeen le encanta nadar libremente y a su aire en ríos y\nestanques. Si pones a uno de estos Pokémon en un acuario,\nusará el cuerno que tiene para romper las paredes,\nindependientemente del grosor del cristal, y escapar.",
+        "Cuando el tiempo se vuelve más cálido, se\nagrupan y nadan río arriba. Este espectáculo tan\npoético anuncia la llegada de la primavera.",
+        "Hay muchos Entrenadores que, fascinados por\nel tamaño de su cuerno y la belleza de sus\naletas, entrenan únicamente Goldeen.",
+        "La hermosa aleta caudal es su rasgo distintivo,\npero por lo que compiten los propios Goldeen es\npor lucir el cuerno más grueso y afilado.",
+        "Al nadar, sus hermosas aletas ondean gráciles\ncual vestido de gala, lo que le ha merecido el\napodo de Princesa de los Mares.",
+        "Durante la época de desove, se les suele ver\nnadando a contracorriente en ríos o remontando\ncascadas en grandes grupos.",
+        "Durante la época de desove, se les suele ver\nnadando a contracorriente en ríos o remontando\ncascadas en grandes grupos.",
+        "Sus aletas pectorales, caudal y dorsal ondean\ngráciles en el agua. Por eso se le llama el Bailarín\nAcuático.",
+        "La aleta dorsal y las aletas pectorales están tan\ndesarrolladas que actúan como músculos. Puede\nnadar a una velocidad de cinco nudos."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "name": "Goldeen",
+    "types": [
+        "Agua"
+    ],
+    "weight": 15.0
+}

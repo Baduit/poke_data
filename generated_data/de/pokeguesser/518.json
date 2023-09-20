@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Der Dunst, der aus seiner Stirn tritt, enthält die\nTräume unzähliger Menschen und Pokémon.",
+        "Je nach Inhalt der Träume, die es frisst, nimmt der\nDunst, der aus seiner Stirn austritt, unterschiedliche\nFarben an.",
+        "Der Dunst, der aus seiner Stirn tritt, enthält die Träume\nunzähliger Menschen und Pokémon.",
+        "Je nach Inhalt der Träume, die es frisst, nimmt der Dunst,\nder aus seiner Stirn austritt, unterschiedliche Farben an.",
+        "Wenn es schwärzlichen Dunst ausströmt, sollte\nman sich ihm nicht nähern, denn sonst werden\nAlpträume wahr.",
+        "Es schlummert und träumt immerzu. Wenn es\ngeweckt wird, bekommt es schlechte Laune.\nDeshalb sollte man es lieber in Ruhe lassen."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "name": "Somnivora",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 60.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rose",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Granivol",
+    "types": [
+        "Plante",
+        "Vol"
+    ],
+    "weight": 0.5
+}

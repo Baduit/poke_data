@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ダンスの　ような　優雅な　動きで\n攻撃を　交わして　強烈な　一撃を\n相手に　お見舞いする。",
+        "ヨガの　修行で　鍛えられた\nサイコパワーで　相手の　動きを\n予測する　ことが　できるのだ。",
+        "めいそうする　ことで　体の　エネルギーが\n高まり　第６感が　鋭くなる　という。\n野山と　一体になって　気配を　消す。",
+        "ヨガの　力で　第６感が　発達して\nサイコパワーを　操れる　ように　なった。\n１ヶ月間　なにも　食べずに　めいそうする。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "name": "チャーレム",
+    "types": [
+        "かくとう",
+        "エスパー"
+    ],
+    "weight": 31.5
+}

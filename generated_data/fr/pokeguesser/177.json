@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il mange des cactus en prenant\nsoin d’éviter les bourgeons et les\népines. Il ne tient pas en place. ",
+        "Il mange des cactus en prenant\nsoin d’éviter les bourgeons et les\népines. Il ne tient pas en place. ",
+        "Ses ailes ne sont pas assez développées et il ne peut\nque planer péniblement. Il fixe toujours quelque\nchose.",
+        "Il cherche sa nourriture par terre, mais quelquefois\nil grimpe aux arbres pour manger.",
+        "Natu ne peut pas voler, car ses ailes n’ont pas encore fini de\ngrandir. Si ses yeux croisent le regard de quelqu’un d’autre,\nil reste immobile et concentré. Mais si la personne en question\ndétourne son regard, il s’enfuit en lieu sûr.",
+        "Natu est capable de sauter très haut. Ce Pokémon bat\ndes ailes et saute sur les branches élevées des arbres\npour en récupérer les bourgeons.",
+        "Bien qu’il ne sache pas encore voler, il peut\nsauter jusqu’aux plus hautes branches des\narbres pour en picorer les bourgeons.",
+        "Son regard fixe semble dévisager les gens.\nIl s’enfuit en sautillant à la moindre tentative\nd’approche.",
+        "Il est très doué pour grimper aux arbres et ainsi\nmanger les bourgeons dont il raffole.",
+        "Ses ailes ne sont pas assez développées\ndonc il ne peut se déplacer qu’en sautillant.\nIl fixe toujours quelque chose du regard."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "name": "Natu",
+    "types": [
+        "Psy",
+        "Vol"
+    ],
+    "weight": 2.0
+}

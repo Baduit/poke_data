@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 9,
+    "height": 0.6,
+    "name": "Iron Bundle",
+    "types": [
+        "Ice",
+        "Water"
+    ],
+    "weight": 11.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 7,
+    "height": 1.1,
+    "name": "Tukanon",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 26.0
+}

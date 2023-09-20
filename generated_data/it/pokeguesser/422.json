@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Se si esercita una forte pressione sul suo corpo,\nne fuoriesce un misterioso liquido viola.",
+        "Cambia facilmente aspetto e colore secondo il luogo\ndi provenienza.",
+        "Se si esercita una forte pressione sul suo corpo, ne fuoriesce\nun misterioso liquido viola.",
+        "Cambia facilmente aspetto e colore secondo il luogo\ndi provenienza.",
+        "Vive principalmente sui litorali rocciosi.\nLa forma e il colore del suo corpo mutano in\nbase all’habitat e al cibo di cui si nutre.",
+        "Quando lo si tocca, lascia sulle mani un viscoso\nliquido viola difficile da rimuovere anche dopo\nripetuti lavaggi.",
+        "Vive solitamente in mare, ma può spostarsi\nanche sulla terraferma e restarvi finché\nla pelle non inizia a seccarsi.",
+        "Quando avverte il pericolo, secerne un liquido\nviola. Si ritiene sia un fenomeno simile ai sudori\nfreddi causati dalla paura.",
+        "Il suo aspetto cambia in base all’habitat.\nSecondo alcune teorie, assume questa forma\nnei mari più caldi.",
+        "Se premuto con forza secerne un misterioso\nliquido viola molto appiccicoso, ma non nocivo."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "name": "Shellos",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 6.3
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 9,
+    "height": 0.9,
+    "name": "Iron Treads",
+    "types": [
+        "Ground",
+        "Steel"
+    ],
+    "weight": 240.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Parece que se desliza al correr. Engaña a sus rivales\ncon su velocidad y los fustiga con su látigo.",
+        "Cuando su cuerpo está sucio, no puede realizar la\nfotosíntesis con sus hojas, así que cuida mucho su\nhigiene personal.",
+        "Parece que se desliza al correr. Engaña a sus rivales con su\nvelocidad y los fustiga con su látigo.",
+        "Cuando su cuerpo está sucio, no puede realizar la fotosíntesis\ncon sus hojas, así que cuida mucho su higiene personal."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png",
+    "name": "Servine",
+    "types": [
+        "Planta"
+    ],
+    "weight": 16.0
+}

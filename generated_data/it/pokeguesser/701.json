@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Nonostante le piccole dimensioni, è in grado di\ntenere testa a Pokémon ben più grandi come\nMachamp o Hariyama.",
+        "Grazie alle sue ali riesce a controllare con la massima\nprecisione i movimenti in aria e attacca dall’alto,\nin posizione di vantaggio rispetto ai nemici.",
+        "Nonostante le piccole dimensioni, è in grado di tenere testa\na Pokémon ben più grandi come Machamp o Hariyama.",
+        "Grazie alle sue ali riesce a controllare con la massima\nprecisione i movimenti in aria e attacca dall’alto, in posizione\ndi vantaggio rispetto ai nemici.",
+        "Prevale sul nemico grazie alla sua rapidità, ma a\nvolte per mettersi in mostra aspetta troppo a\nlanciare l’attacco finale e si trova in difficoltà.",
+        "Durante la lotta, si porta con agili salti negli\nangoli ciechi della visuale dell’avversario.\nÈ in grado di eseguire magnifiche leve articolari.",
+        "Sfrutta la sua agilità per indebolire l’avversario,\ne conclude la lotta dandogli il colpo di grazia\ncon una mossa grandiosa.",
+        "Assume sempre una posa speciale prima di\nsferrare il colpo finale. A volte i nemici\napprofittano di questo istante per contrattaccare."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "name": "Hawlucha",
+    "types": [
+        "Lotta",
+        "Volante"
+    ],
+    "weight": 21.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 1,
+    "height": 0.6,
+    "name": "Kakuna",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 10.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Golett",
+    "types": [
+        "Ground",
+        "Ghost"
+    ],
+    "weight": 92.0
+}

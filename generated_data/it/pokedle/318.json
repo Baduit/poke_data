@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Carvanha",
+    "types": [
+        "Acqua",
+        "Buio"
+    ],
+    "weight": 20.8
+}

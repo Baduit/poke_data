@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "用從尾巴尖端慢慢滲出的\n體液繪出獨有的標記，\n用以宣告自己的地盤。",
+        "會到處畫下展示自己地盤的標記，\n所以在圖圖犬比較多的城市，\n路邊牆上到處都是這些塗鴉。",
+        "從尾巴尖端滲出的體液\n會隨著圖圖犬的情緒變化\n而出現不同的顏色。",
+        "會用尾巴前端分泌出的液體\n畫下標記。其中有些標記會\n吸引愛好者以高價買賣。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "name": "圖圖犬",
+    "types": [
+        "一般"
+    ],
+    "weight": 58.0
+}

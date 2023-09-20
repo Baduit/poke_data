@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Emana un forte magnetismo da tutto il corpo.\nControlla tre piccole unità, dette Mininasi.",
+        "Controlla tre piccole unità, dette Mininasi, usando\nla forza magnetica.",
+        "Emana un forte magnetismo da tutto il corpo. Controlla\ntre piccole unità, dette Mininasi.",
+        "Controlla tre piccole unità, dette Mininasi, usando la forza\nmagnetica.",
+        "Emette un forte campo magnetico che manda\nin cortocircuito le apparecchiature elettriche\nrendendole inutilizzabili.",
+        "È in grado di controllare tre piccole unità dette\nMininasi per catturare le sue prede senza\ndoversi spostare.",
+        "Controlla delle unità dette Mininasi, ma pare che\na volte queste si smarriscano e non riescano più\na tornare.",
+        "Usa le tre piccole unità per procacciare il cibo\ne lottare contro i nemici. Il corpo centrale si\nlimita quasi esclusivamente a impartire ordini."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "name": "Probopass",
+    "types": [
+        "Roccia",
+        "Acciaio"
+    ],
+    "weight": 340.0
+}

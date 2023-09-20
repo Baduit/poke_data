@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es stößt aus Brust und Rücken elastische Blasen aus,\nmit denen es gegnerische Angriffe abfängt und so\nden erlittenen Schaden verringert.",
+        "Es schützt seine Haut mit feinen Blasen, die seinen\nKörper umhüllen. Es mag unbekümmert aussehen,\nbehält die Umgebung aber immer aufmerksam im Auge.",
+        "Es stößt aus Brust und Rücken elastische Blasen aus,\nmit denen es gegnerische Angriffe abfängt und so den\nerlittenen Schaden verringert.",
+        "Es schützt seine Haut mit feinen Blasen, die seinen\nKörper umhüllen. Es mag unbekümmert aussehen,\nbehält die Umgebung aber immer aufmerksam im Auge."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "name": "Froxy",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 7.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Wenn es schnell gräbt, können seine Stacheln und\nKrallen abbrechen. Sie wachsen binnen eines Tages\nnach.",
+        "Bei Gefahr igelt sich dieses Pokémon ein.\nZusammengerollt kann es angreifen oder fliehen.",
+        "Sandamers Körper ist übersät mit spitzen Stacheln,\ndie eigentlich Hauthärtungen darstellen. Einmal im Jahr\nfallen die alten Stacheln aus und werden durch neue ersetzt.",
+        "Sandamer kann sich zu einem Ball mit langen Stacheln\nzusammenrollen. Im Kampf schlägt es seine Gegner in die\nFlucht, indem es sie mit seinen Stacheln sticht. Dann springt\nes sie an und schlägt mit seinen scharfen Klauen zu.",
+        "Seine Krallen und Stacheln sind scharf, aber\nauch spröde und brechen oft ab. Sie wachsen\njedoch innerhalb eines Tages wieder nach.",
+        "Es erklimmt mit seinen Krallen Bäume, rollt sich\nein und wartet, bis Beute erscheint. Dann stürzt\nes sich als stachelige Kugel auf sie herab.",
+        "Seine Krallen und Stacheln brechen oft ab. Sie\nwerden dann zu Werkzeugen für den Ackerbau\nverarbeitet.",
+        "Mit seinen Krallen kann es gut Bäume erklimmen.\nHäufig macht es die Baumkrone dann gleich zu\nseinem Schlafplatz.",
+        "Es greift Gegner mit seinen scharfen Klauen an.\nBrechen diese im Kampf ab, wachsen sie binnen\neines Tages nach.",
+        "Es greift Gegner mit seinen scharfen Klauen an.\nBrechen diese im Kampf ab, wachsen sie binnen\neines Tages nach.",
+        "Je trockener das Gebiet ist, in dem Sandamer\nlebt, desto härter und glatter fühlen sich die\nStacheln an seinem Rücken an.",
+        "Mit seinen scharfen Krallen klettert es auf Bäume\nund wirft unten wartenden Sandan Beeren zu,\ndie sie sich dann teilen."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "name": "Sandamer",
+    "types": [
+        "Boden"
+    ],
+    "weight": 29.5
+}

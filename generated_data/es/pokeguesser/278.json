@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Sus largas alas aprovechan los vientos marinos para\nplanear. Cuando descansa, las pliega.",
+        "Anida en acantilados y alcanza gran altura\naprovechando las corrientes ascendentes.",
+        "Wingull tiene la costumbre de llevar a su presa y objetos de\nvalor en el pico, y esconderlos en distintos sitios. Este\nPokémon vuela dejándose llevar por las corrientes de aire\ncomo si fuera patinando por el cielo.",
+        "Wingull emerge del mar y asciende desplegando las largas y\nestrechas alas que posee. Este Pokémon tiene un pico largo\nque le resulta muy útil para pescar.",
+        "Sus huesos livianos y sus grandes alas le\npermiten dejarse llevar por el viento y surcar\nlos cielos grácilmente.",
+        "Suele sobrevolar los bancos de Pokémon pez,\npor lo que los pescadores siguen a Wingull\ncuando buscan buenas capturas.",
+        "Tiene alas largas y finas. Se deja llevar por las\ncorrientes ascendentes y luego planea a alta\ncota grácilmente.",
+        "Anida en los riscos junto a la costa y sobrevuela\nel mar trazando círculos en busca de algún\nWishiwashi que llevarse al buche.",
+        "Construye sus nidos en acantilados escarpados.\nAprovecha la brisa marina para elevarse hacia el\ninmenso cielo y planear.",
+        "Aprovecha las corrientes de aire para ganar\naltura sin necesidad de batir las alas. Anida\nen acantilados costeros."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "name": "Wingull",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 9.5
+}

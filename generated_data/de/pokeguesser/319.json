@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Seine Zähne durchdringen sogar Eisen.\nEs schwimmt mit 120 km/h und wird\n„Tyrann des Meeres“ genannt.",
+        "Tohaido mag Radau und schwimmt bis zu\n120 km/h schnell, indem es Wasser aus\nseinem Hinterteil ausstößt.",
+        "Tohaido trägt den Spitznamen „Tyrann des Meeres“ und ist\nsehr gefürchtet. Seine grausamen Zähne wachsen sofort nach,\nwenn sie ausgebrochen sind. Es kann sogar einen Öltanker\nzerreißen.",
+        "Tohaido kann bis zu 120 km/h schnell schwimmen, indem\nes Meerwasser aus seinem Hinterteil herausschießt. Dieses\nPokémon kann jedoch keine weiten Strecken zurücklegen.",
+        "Es jagt mit 120 km/h seine Beute und erlegt sie\nmithilfe seiner Zähne, die selbst Eisen durch-\ndringen. Sein Spitzname ist „Tyrann des Meeres“.",
+        "Tohaido hat eine traurige Vergangenheit: Seine\nRückenflosse gilt als Delikatesse, weshalb es\nlange Zeit gnadenlos überfischt wurde.",
+        "Man glaubt, dass die ausgefallenen Zähne von\nTohaido vor Unfällen auf dem Meer schützen.\nDeswegen werden sie zu Schmuck verarbeitet.",
+        "Es schwimmt, indem es das Meerwasser, das es\ntrinkt, aus seinem Hinterteil ausstößt. Für den\nGeruch von Blut ist es sehr empfänglich.",
+        "Wittert es Beute, schießt es Wasser aus seinem\nHinterteil und jagt ihr mit einer Geschwindigkeit\nvon 120 km/h hinterher.",
+        "Tohaido trägt den Spitznamen „Tyrann des\nMeeres“. Schiffe, die in sein Revier eindringen,\ngreift es ausnahmslos an."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "name": "Tohaido",
+    "types": [
+        "Wasser",
+        "Unlicht"
+    ],
+    "weight": 88.8
+}

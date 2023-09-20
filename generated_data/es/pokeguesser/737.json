@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Almacena electricidad en su cuerpo, lo que\npuede resultar útil en numerosas situaciones,\ncomo al salir de acampada.",
+        "Al hacer la digestión genera energía eléctrica\nque almacena en la bolsa que posee para tal\nefecto.",
+        "Escondido bajo la hojarasca, permanece casi\ninmóvil mientras come humus con fruición. Quien\nlo pisa en un descuido se lleva una descarga.",
+        "Cuando lo atacan, se protege con su robusto\ncaparazón. Si el rival lo sigue atosigando, le\nsuelta una descarga eléctrica.",
+        "Se protege el cuerpo con un robusto caparazón.\nContraataca liberando corriente eléctrica por\nla punta de las mandíbulas.",
+        "Al digerir la hojarasca de la que se alimenta,\ngenera energía eléctrica que almacena en la\nbolsa que posee para tal efecto."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+    "name": "Charjabug",
+    "types": [
+        "Bicho",
+        "Eléctrico"
+    ],
+    "weight": 10.5
+}

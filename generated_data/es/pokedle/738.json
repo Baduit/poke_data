@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 7,
+    "height": 1.5,
+    "name": "Vikavolt",
+    "types": [
+        "Bicho",
+        "Eléctrico"
+    ],
+    "weight": 45.0
+}

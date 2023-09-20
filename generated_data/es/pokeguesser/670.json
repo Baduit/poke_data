@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Revolotea alrededor de campos de flores y cuida de\naquellas que empiezan a marchitarse. Usa en combate\nel poder oculto de las flores.",
+        "Cuando las plantas bien cuidadas de un parterre\nflorecen, hace acto de presencia e interpreta un\nbaile primoroso para celebrarlo.",
+        "Revolotea alrededor de campos de flores y cuida de aquellas\nque empiezan a marchitarse. Usa en combate el poder oculto\nde las flores.",
+        "Cuando las plantas bien cuidadas de un parterre florecen,\nhace acto de presencia e interpreta un baile primoroso para\ncelebrarlo.",
+        "Usa como arma la flor que cultiva por su cuenta\ny, cuanto mayor sea la belleza de esta, mayor\nserá también el poder que oculta en su interior.",
+        "Confiere su poder a las flores y cuida de ellas\ncon mucho esmero; no perdona que destruyan\nlos campos donde estas crecen."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "name": "Floette",
+    "types": [
+        "Hada"
+    ],
+    "weight": 0.9
+}

@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 4,
+    "height": 1.9,
+    "name": "메가자리",
+    "types": [
+        "벌레",
+        "비행"
+    ],
+    "weight": 51.5
+}

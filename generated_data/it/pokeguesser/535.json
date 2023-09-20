@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Fa vibrare le membrane sulle guance per emettere\nonde sonore impercettibili agli umani con cui\nsegnala un pericolo.",
+        "Facendo vibrare le guance, emette onde sonore\nche gli uomini non sentono. Conversa al ritmo di\nqueste onde.",
+        "Fa vibrare le membrane sulle guance per emettere onde\nsonore impercettibili agli umani con cui segnala un pericolo.",
+        "Facendo vibrare le guance, emette onde sonore che gli uomini\nnon sentono. Conversa al ritmo di queste onde.",
+        "Tympole canta sott’acqua con la sua voce acuta\nformando delicate increspature sulla superficie.",
+        "Comunica con i suoi simili tramite onde sonore.\nIl suo grido d’allerta è impercettibile agli esseri\numani e agli altri Pokémon."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+    "name": "Tympole",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 4.5
+}

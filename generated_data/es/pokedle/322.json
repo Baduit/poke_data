@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Numel",
+    "types": [
+        "Fuego",
+        "Tierra"
+    ],
+    "weight": 24.0
+}

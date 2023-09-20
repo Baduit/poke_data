@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "This Pokémon was believed to have\nbeen born from the sun. When it evolves,\nits entire body is engulfed in flames.",
+        "The base of volcanoes is where they make\ntheir homes. They shoot fire from their\nfive horns to repel attacking enemies.",
+        "Said to have been born from the sun,\nit spews fire from its horns and encases\nitself in a cocoon of fire when it evolves.",
+        "Said to have been born from the sun,\nit spews fire from its horns and encases\nitself in a cocoon of fire when it evolves.",
+        "Said to have been born from the sun, it spews fire\nfrom its horns and encases itself in a cocoon of fire\nwhen it evolves.",
+        "The base of volcanoes is where they make their\nhomes. They shoot fire from their five horns to repel\nattacking enemies.",
+        "Said to have been born from the sun, it spews fire\nfrom its horns and encases itself in a cocoon of fire\nwhen it evolves.",
+        "The base of volcanoes is where they make their\nhomes. They shoot fire from their five horns to repel\nattacking enemies.",
+        "When battling opponents, it sprays fire from its\nfive horns. The max temperature of the flames\ncan reach nearly 5,500 degrees Fahrenheit.",
+        "It protects itself with flame. Long years ago,\npeople believed Larvesta had a nest on the sun.",
+        "The people of ancient times believed that\nLarvesta fell from the sun.",
+        "Larvesta’s body is warm all over. It spouts fire\nfrom the tips of its horns to intimidate predators\nand scare prey."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "name": "Larvesta",
+    "types": [
+        "Bug",
+        "Fire"
+    ],
+    "weight": 28.8
+}

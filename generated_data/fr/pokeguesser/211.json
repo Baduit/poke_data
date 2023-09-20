@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il envoie ses piquants empoisonnés\nà la ronde. Sa forme sphérique en\nfait un piètre nageur.",
+        "Il envoie ses piquants empoisonnés\nà la ronde. Sa forme sphérique en\nfait un piètre nageur.",
+        "Pour tirer ses dards empoisonnés, il gonfle son corps\nen buvant 10 l d’eau subitement.",
+        "Son corps est recouvert de pics provenant de ses\nécailles. Ils sécrètent un poison étourdissant.",
+        "Qwilfish se gonfle en aspirant de l’eau. Ce Pokémon utilise\nla pression de l’eau avalée pour envoyer d’un coup les pointes\ntoxiques de son corps. Nager lui demande un gros effort.",
+        "Qwilfish se gonfle en aspirant de l’eau. Ce Pokémon utilise\nla pression de l’eau avalée pour envoyer d’un coup les pointes\ntoxiques de son corps. Nager lui demande un gros effort.",
+        "Lorsqu’il est confronté à plus gros que lui,\nil avale autant d’eau que possible pour égaler\nle gabarit de son adversaire.",
+        "Ses petites épines étaient autrefois des écailles.\nElles sécrètent des toxines pouvant faire\nperdre connaissance."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "name": "Qwilfish",
+    "types": [
+        "Eau",
+        "Poison"
+    ],
+    "weight": 3.9
+}

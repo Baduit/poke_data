@@ -1,0 +1,11 @@
+{
+    "color": "藍色",
+    "generation": 8,
+    "height": 2.3,
+    "name": "雷鳥海獸",
+    "types": [
+        "電",
+        "冰"
+    ],
+    "weight": 150.0
+}

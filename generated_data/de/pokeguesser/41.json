@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Obwohl es keine Augen hat, kann es Hindernisse\nmithilfe von Ultraschallwellen wahrnehmen.",
+        "Es hat keine Augen. Zur Orientierung nutzt es seine\nUltraschallwellen-Schreie, um in der Dunkelheit\nzu fliegen.",
+        "Tagsüber bleibt Zubat an einem dunklen Ort und bewegt sich\nkaum. Wenn es dem Sonnenlicht längere Zeit ausgesetzt wird,\nzieht es sich Verbrennungen an seinem Körper zu.",
+        "Zubat meidet Sonnenlicht, da es dadurch krank würde.\nAm Tage hält es sich in Höhlen oder unter den Dachrinnen\nalter Häuser auf. Dort schläft es mit dem Kopf nach unten.",
+        "Tagsüber schläft es in Höhlen. Da es keine\nAugen hat, erschließt es sich seine Umgebung\nim Flug durch das Aussenden von Schallwellen.",
+        "Sonnenlicht verursacht bei ihm Verbrennungen.\nDie Frequenz seiner Ultraschallwellen variiert\nvon Schwarm zu Schwarm.",
+        "Da es keine Augäpfel hat, ist es blind. Mithilfe\nvon Ultraschallwellen, die es aus dem Mund\naussendet, erkundet es seine Umgebung.",
+        "Seine dünne Haut erleidet bei Sonnenlicht\nVerbrennungen. Bei Kälte schmiegt es sich\nan seine Artgenossen, um sich zu wärmen.",
+        "Zubat stößt während des Fluges Ultraschalllaute\naus, um Hindernisse zu orten.",
+        "Zubat stößt während des Fluges Ultraschalllaute\naus, um Hindernisse zu orten.",
+        "Über den Mund stößt es Ultraschallwellen aus,\num seine Umgebung zu erkunden. So kann es\nselbst in engen Höhlen geschickt umherfliegen.",
+        "Zubat leben tief in Höhlen, wo das Sonnenlicht\nsie nicht erreicht. Bei Tagesanbruch rücken sie\nzusammen, um sich im Schlaf zu wärmen."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "name": "Zubat",
+    "types": [
+        "Gift",
+        "Flug"
+    ],
+    "weight": 7.5
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Die Nerven in seiner Nase sind sehr empfindlich.\nSieht es etwas Neues, berührt es es zuerst mit\nder Nase.",
+        "Pokébälle, Seemops und alles, was sonst noch\nrund ist, balanciert es mit großem Geschick\nauf seiner Nasenspitze.",
+        "Seejong hat die Angewohnheit, alles, was es zum ersten Mal\nsieht, auf seiner Nasenspitze zu jonglieren. Dieses Pokémon\nhält sich bei Laune, indem es manchmal ein Seemops auf\nseiner Nase balanciert und hin- und herrollt.",
+        "Seejong balanciert häufig Dinge auf seiner Nasenspitze\nund rollt sie hin und her. Während es das tut, überprüft es\nden Duft und die Beschaffenheit des Gegenstandes und\nstellt fest, ob es das Objekt mag oder nicht.",
+        "Seejong lebt auf Eisschollen. Wittert es beim\nSchwimmen Beute, spürt es sie auf und schnappt\nsie sich.",
+        "Seejong balanciert gerne Pokébälle, Seemops\nund alles, was sonst noch rund ist, auf seiner\nNasenspitze."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+    "name": "Seejong",
+    "types": [
+        "Eis",
+        "Wasser"
+    ],
+    "weight": 87.6
+}

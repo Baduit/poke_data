@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Dinoclier",
+    "types": [
+        "Roche",
+        "Acier"
+    ],
+    "weight": 57.0
+}

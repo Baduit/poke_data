@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 2,
+    "height": 0.9,
+    "name": "딜리버드",
+    "types": [
+        "얼음",
+        "비행"
+    ],
+    "weight": 16.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Lorsqu’il est sur les traces d’une proie,\nce Pokémon n’est pas du genre à abandonner.\nSauf le soir, lorsqu’il tombe de sommeil.",
+        "Il est accro au goût des Rattata et Rattatac,\nmais n’en croise pas beaucoup car ceux-ci sont\nnocturnes. Heureusement, il sait rester patient.",
+        "À l’origine, on ne le trouvait pas à Alola,\nmais il y a été introduit il y a bien longtemps\npour faire face à la prolifération de Rattata.",
+        "D’un naturel très patient, il ne peut toutefois\ns’empêcher de bondir sur son plat favori,\nRattata, s’il en voit un."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+    "name": "Argouste",
+    "types": [
+        "Normal"
+    ],
+    "weight": 14.2
+}

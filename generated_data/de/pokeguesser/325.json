@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es hüpft beständig umher, wobei es seinen Schweif\nals Feder verwendet. Nur so bleibt sein Herz aktiv.",
+        "Seine Hüpfbewegungen bringen sein Herz zum\nSchlagen. Es trägt eine Perle von Perlu auf dem Kopf.",
+        "Spoink hüpft auf seinem Schweif durch die Gegend.\nDie Erschütterung des Hüpfens bringt sein Herz zum Schlagen.\nDeshalb kann dieses Pokémon das Hüpfen nicht sein lassen,\nansonsten würde sein Herz aufhören zu schlagen.",
+        "Spoink trägt eine Perle auf seinem Kopf, die seine\npsychokinetische Energie verstärkt. Deshalb ist es\ndauernd auf der Suche nach einer größeren Perle."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "name": "Spoink",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 30.6
+}

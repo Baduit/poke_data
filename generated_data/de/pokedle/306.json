@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 3,
+    "height": 2.1,
+    "name": "Stolloss",
+    "types": [
+        "Stahl",
+        "Gestein"
+    ],
+    "weight": 360.0
+}

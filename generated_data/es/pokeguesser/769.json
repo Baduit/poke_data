@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Surgió cuando una persona murió abandonada\nen plena calle y su resentimiento poseyó un\nmontículo de arena apilado por un niño.",
+        "Controla a todo aquel que ose meterle la mano\nen la boca. Su objetivo es aumentar el tamaño\nde su cuerpo en forma de duna.",
+        "Siente mucho apego por la pala de su cabeza.\nSi un niño intenta quitársela, se enfurece y pelea\npor ella.",
+        "Los montículos de arena que los niños no allanan\nantes de irse a casa pueden acabar poseídos\npor un espíritu y convertirse en este Pokémon.",
+        "Nace de un montículo de arena poseído por el\nresentimiento de un difunto. Siente mucho apego\npor la pala de su cabeza.",
+        "Suele habitar en playas. Aumenta de tamaño al\ntomar control de todo aquel que se atreva a\nintroducir la mano en su boca."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+    "name": "Sandygast",
+    "types": [
+        "Fantasma",
+        "Tierra"
+    ],
+    "weight": 70.0
+}

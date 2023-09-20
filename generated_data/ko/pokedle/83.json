@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 0.8,
+    "name": "파오리",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 15.0
+}

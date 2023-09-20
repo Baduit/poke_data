@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 5,
+    "height": 0.1,
+    "name": "Wattzapf",
+    "types": [
+        "Käfer",
+        "Elektro"
+    ],
+    "weight": 0.6
+}

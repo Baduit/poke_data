@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Muy común en bosques y selvas. Aletea al nivel del\nsuelo para levantar la gravilla.",
+        "Es manso y prefiere evitar los problemas. Sin embargo,\nsi le molestan atacará ferozmente.",
+        "Pidgey tiene un sentido de la orientación muy desarrollado.\nEs capaz de regresar a su nido, por lejos que se encuentre\nde las zonas que le resultan familiares.",
+        "Pidgey tiene un sentido de la orientación muy desarrollado.\nEs capaz de regresar a su nido, por lejos que se encuentre\nde las zonas que le resultan familiares.",
+        "Su docilidad es tal que suelen defenderse\nlevantando arena en lugar de contraatacar.",
+        "Su docilidad es tal que suelen defenderse\nlevantando arena en lugar de contraatacar."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "name": "Pidgey",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 1.8
+}

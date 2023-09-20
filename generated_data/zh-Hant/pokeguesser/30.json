@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "待在巢穴深處的時候，\n牠一定會把身上的刺收起來。\n這代表牠正處於放鬆狀態。",
+        "待在巢穴深處的時候，\n牠一定會把身上的刺收起來。\n這代表牠正處於放鬆狀態。",
+        "人們認為牠額頭上的角\n是為了避免在給孩子餵食時\n刺到孩子而退化的。",
+        "有危險逼近群體時，\n會與夥伴們團結一致地\n用超音波的大合唱來攻擊。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "name": "尼多娜",
+    "types": [
+        "毒"
+    ],
+    "weight": 20.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Cuando usa la hoja de su cabeza como flauta, asusta\na la gente. Vive en lo más profundo de los bosques.",
+        "Vive en lo más profundo del bosque. Utiliza la hoja de\nsu cabeza como flauta con un sonido perturbador.",
+        "Nuzleaf habita bosques muy poblados y, en ocasiones, se\natreve a salir para asustar a la gente. A este Pokémon no le\ngusta nada que le pellizquen la nariz.",
+        "Nuzleaf saca la hoja que tiene en la cabeza y la usa como\nflauta. El sonido que emite infunde miedo e incertidumbre a\nquien se encuentre perdido por el bosque.",
+        "Vive en lo más profundo del bosque. Utiliza la\nhoja de la cabeza como flauta para emitir un\nsonido perturbador.",
+        "Vive en las oquedades de los árboles grandes.\nEl sonido que emite al usar la hoja de la cabeza\ncomo flauta asusta a quienes lo escuchan."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "name": "Nuzleaf",
+    "types": [
+        "Planta",
+        "Siniestro"
+    ],
+    "weight": 28.0
+}

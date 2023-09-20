@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Con danze e suoni a ritmo vivace scaccia i suoi\npredatori, i Pokémon uccello, che divorano i semi\ndei suoi fiori.",
+        "Vive nelle zone aride. Se muove il corpo a tempo\nproduce un suono di maracas.",
+        "Con danze e suoni a ritmo vivace scaccia i suoi predatori,\ni Pokémon uccello, che divorano i semi dei suoi fiori.",
+        "Vive nelle zone aride. Se muove il corpo a tempo produce\nun suono di maracas.",
+        "Emette un suono di maracas. Sfrutta il suo ritmo\nvivace per prendere alla sprovvista i Pokémon\nalati, che volano via in tutta fretta.",
+        "Una volta all’anno i suoi fiori rilasciano semi\nricchissimi di sostanze nutritive, che li rendono\nun prezioso alimento nel deserto."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "name": "Maractus",
+    "types": [
+        "Erba"
+    ],
+    "weight": 28.0
+}

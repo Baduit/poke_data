@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Exeggutor",
+    "types": [
+        "Planta",
+        "Psíquico"
+    ],
+    "weight": 120.0
+}

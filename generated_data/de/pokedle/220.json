@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Quiekel",
+    "types": [
+        "Eis",
+        "Boden"
+    ],
+    "weight": 6.5
+}

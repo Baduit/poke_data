@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Im Sonnenlicht betreibt sein ganzer Körper\nPhotosynthese. Sein Panzer besteht aus hartem Lehm.",
+        "Sein Körper lebt von der Photosynthese,\ndie Sauerstoff freisetzt. Ist es durstig, welkt sein Blatt.",
+        "Im Sonnenlicht betreibt sein ganzer Körper Photosynthese.\nSein Panzer besteht aus hartem Lehm.",
+        "Sein Körper lebt von der Photosynthese, die Sauerstoff\nfreisetzt. Ist es durstig, welkt sein Blatt."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+    "name": "Chelast",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 10.2
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Scava veloce nel terreno in cerca di cibo lasciando\nlunghi cunicoli usati poi come casa dai Diglett.",
+        "Di solito vive sottoterra. Cerca cibo scavando\ncunicoli nel terreno alla velocità di 80 km/h.",
+        "Onix nel cervello ha una calamita, che agisce da bussola\nper consentirgli di non perdere l’orientamento mentre\nscava sottoterra. Con il passare del tempo il suo corpo\ndiventa sempre più smussato e levigato.",
+        "Onix nel cervello ha una calamita, che agisce da bussola\nper consentirgli di non perdere l’orientamento mentre\nscava sottoterra. Con il passare del tempo il suo corpo\ndiventa sempre più smussato e levigato.",
+        "Scava nel terreno con incredibile vigore in cerca\ndi cibo, creando cunicoli usati poi come tana\ndai Diglett.",
+        "Scava nel terreno con incredibile vigore in cerca\ndi cibo, creando cunicoli usati poi come tana\ndai Diglett.",
+        "Scava nel terreno assorbendo gli oggetti più duri\nper irrobustire il suo corpo.",
+        "Scava nel terreno a una velocità di 80 km/h\ncontorcendo e agitando il corpo grande\ne possente."
+    ],
+    "height": 8.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "name": "Onix",
+    "types": [
+        "Roccia",
+        "Terra"
+    ],
+    "weight": 210.0
+}

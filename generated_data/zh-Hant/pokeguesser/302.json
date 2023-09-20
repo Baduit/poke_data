@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "非常喜歡寶石，\n因此到處追著小碎鑽跑，\n但卻被尖牙陸鯊半路奪走。",
+        "寶石的眼睛發出詭異光芒時，\n就會攝取人的魂魄。\n是令人恐懼的寶可夢。",
+        "會用堅硬的爪子挖土，\n並用粗壯的獠牙啃食寶石。\n最喜歡吃小碎鑽。",
+        "吃下的寶石成分會在身體\n表面浮現出來。所形成的\n花紋有無限多種變化。",
+        "寶石的眼睛發出詭異光芒時，\n就會攝取人的魂魄。\n是令人恐懼的寶可夢。",
+        "會去吃寶石的結晶。\n雙眼在漆黑一片的地方\n會發出寶石的光芒。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "name": "勾魂眼",
+    "types": [
+        "惡",
+        "幽靈"
+    ],
+    "weight": 11.0
+}

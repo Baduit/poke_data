@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 2,
+    "height": 0.8,
+    "name": "마그카르고",
+    "types": [
+        "불꽃",
+        "바위"
+    ],
+    "weight": 55.0
+}

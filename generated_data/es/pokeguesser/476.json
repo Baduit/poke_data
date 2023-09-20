@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Emana un fuerte magnetismo. Controla tres pequeñas\nunidades llamadas mininarices.",
+        "Con el magnetismo que emana, controla tres pequeñas\nunidades llamadas mininarices.",
+        "Emana un fuerte magnetismo. Controla tres pequeñas\nunidades llamadas mininarices.",
+        "Con el magnetismo que emana, controla tres pequeñas\nunidades llamadas mininarices.",
+        "Crea un campo magnético tan potente que\ninutiliza cualquier electrodoméstico que se\nencuentre cerca.",
+        "Las tres unidades que controla, llamadas\nmininarices, le permiten atrapar a su presa\nsin necesidad de mover el resto de su cuerpo.",
+        "Manipula unas pequeñas unidades conocidas\ncomo mininarices, aunque estas a veces se\npierden y no saben cómo regresar a Probopass.",
+        "Usa sus tres pequeñas unidades para capturar\npresas o combatir, mientras que el resto de su\ncuerpo se dedica casi solo a impartir órdenes."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "name": "Probopass",
+    "types": [
+        "Roca",
+        "Acero"
+    ],
+    "weight": 340.0
+}

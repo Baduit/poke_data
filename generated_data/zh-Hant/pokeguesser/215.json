@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "性格狡猾且兇猛。\n會趁著雙親不在時\n侵入巢穴把蛋盜走。",
+        "用爪子在蛋上開個孔，\n吸食中間的美味。\n有時會被培育家憎惡而遭到驅逐。",
+        "靠著團隊合作從鳥寶可夢的\n巢穴中把蛋偷出來之後，\n卻會為了由誰來吃而爭吵。",
+        "會趁著黑夜襲擊獵物。\n遇上穿山鼠時會伸出爪子來獵捕，\n但對方堅硬的皮膚有時會讓爪子折斷。",
+        "手指中藏有鋒利的爪子。\n會突然伸出利爪，\n讓襲擊自己的對手心生怯意。",
+        "性格狡猾且凶猛。\n會趁著雙親不在時\n侵入巢穴把蛋盜走。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "name": "狃拉",
+    "types": [
+        "惡",
+        "冰"
+    ],
+    "weight": 28.0
+}

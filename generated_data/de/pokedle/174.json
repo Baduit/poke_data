@@ -1,0 +1,11 @@
+{
+    "color": "Rosa",
+    "generation": 2,
+    "height": 0.3,
+    "name": "Fluffeluff",
+    "types": [
+        "Normal",
+        "Fee"
+    ],
+    "weight": 1.0
+}

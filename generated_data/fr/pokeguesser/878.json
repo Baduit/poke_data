@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Ce Pokémon est assez costaud pour porter\ndes charges de cinq tonnes sans problème.\nIl utilise sa trompe pour creuser le sol.",
+        "Les travaux physiques, c’est son affaire.\nSon corps de cuivre rouille sous la pluie\net prend une vive couleur verte."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+    "name": "Charibari",
+    "types": [
+        "Acier"
+    ],
+    "weight": 100.0
+}

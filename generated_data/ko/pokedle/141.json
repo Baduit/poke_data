@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 1.3,
+    "name": "투구푸스",
+    "types": [
+        "바위",
+        "물"
+    ],
+    "weight": 40.5
+}

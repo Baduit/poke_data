@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "They live in groups of a few individuals.\nProtective membranes shield their eyes\nfrom sandstorms.",
+        "The special membrane covering its eyes\ncan sense the heat of objects, so it can\nsee its surroundings even in darkness.",
+        "Protected by thin membranes, their eyes\ncan see even in the dead of night.\nThey live in groups of a few individuals.",
+        "Protected by thin membranes, their eyes\ncan see even in the dead of night.\nThey live in groups of a few individuals.",
+        "They live in groups of a few individuals. Protective\nmembranes shield their eyes from sandstorms.",
+        "The special membrane covering its eyes can sense\nthe heat of objects, so it can see its surroundings\neven in darkness.",
+        "They live in groups of a few individuals. Protective\nmembranes shield their eyes from sandstorms.",
+        "The special membrane covering its eyes can sense\nthe heat of objects, so it can see its surroundings\neven in darkness.",
+        "They move in groups of a few individuals.\nA female is often the leader of the group, and\nthe males will gather food.",
+        "Thanks to the special membrane covering its\neyes, it can see its surroundings clearly, even in\nthe middle of the night.",
+        "Krokorok really hates it when its body gets\ncold. On nights when the temperature drops,\nit digs deep into the desert sands.",
+        "It buries some of its prey in the sand to use as\nemergency meals when its hunts\nare unsuccessful.",
+        "Krokorok has specialized eyes that enable it to\nsee in the dark. This ability lets Krokorok hunt in\nthe dead of night without getting lost.",
+        "Although this Pokémon has specialized eyes that\nallow it to see in the dark, Krokorok won’t move\nmuch at night—the desert gets cold after sunset."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+    "name": "Krokorok",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "weight": 33.4
+}

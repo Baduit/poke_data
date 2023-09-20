@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il hulule chaque jour à la même\nheure. Dans certaines cultures,\nil incarne la sagesse.",
+        "Il hulule chaque jour à la même\nheure. Dans certaines cultures,\nil incarne la sagesse.",
+        "Il a un sens du timing parfait. Il reste toujours en\nrythme en balançant sa tête.",
+        "Il se tient toujours sur un pied. Il change de pied\nsi vite qu’on peut à peine distinguer ce mouvement.",
+        "Hoothoot est doté d’un organe interne qui ressent et suit\nla rotation de la planète. Grâce à cet organe peu ordinaire,\nce Pokémon commence à hululer tous les jours exactement\nà la même heure.",
+        "Hoothoot est doté d’un organe interne qui ressent et suit\nla rotation de la planète. Grâce à cet organe peu ordinaire,\nce Pokémon commence à hululer tous les jours exactement\nà la même heure.",
+        "Il hoche toujours la tête au même rythme,\naussi faisait-il fréquemment office d’horloge\npar le passé.",
+        "Il hulule toujours à la même heure. Il était\nautrefois vénéré comme le messager du dieu\ndu temps.",
+        "Il se tient toujours sur un pied. Il en change si vite\nqu’on peut à peine distinguer ce mouvement.",
+        "Il hulule chaque jour aux mêmes moments.\nCertains Dresseurs s’en servent comme\nd’une montre."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "name": "Hoothoot",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 21.2
+}

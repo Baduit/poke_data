@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 1,
+    "height": 1.8,
+    "name": "化石翼龍",
+    "types": [
+        "岩石",
+        "飛行"
+    ],
+    "weight": 59.0
+}

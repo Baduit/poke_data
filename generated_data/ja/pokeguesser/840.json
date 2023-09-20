@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "一生　りんごの　中で　暮らし\n天敵の　鳥ポケモンに　出会うと\nりんごの　振りをして　身を守る。",
+        "生まれると　りんごに　潜りこむ。\n中身を　食べながら　成長し\nりんごの　味が　進化を　決める。"
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "name": "カジッチュ",
+    "types": [
+        "くさ",
+        "ドラゴン"
+    ],
+    "weight": 0.5
+}

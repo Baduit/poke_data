@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 4,
+    "height": 2.4,
+    "name": "Rihornior",
+    "types": [
+        "Boden",
+        "Gestein"
+    ],
+    "weight": 282.8
+}

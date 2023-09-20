@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 8,
+    "height": 2.0,
+    "name": "Pescryodon",
+    "types": [
+        "Wasser",
+        "Eis"
+    ],
+    "weight": 175.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Rhinocorne",
+    "types": [
+        "Sol",
+        "Roche"
+    ],
+    "weight": 115.0
+}

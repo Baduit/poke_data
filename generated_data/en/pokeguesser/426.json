@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "At dusk, swarms of them are\ncarried aloft on winds. When\nnoticed, they suddenly vanish.",
+        "It’s drowzy in daytime, but flies\noff in the evening in big groups.\nNo one knows where they go.",
+        "It carries people and Pokémon\nwhen it flies. But since it only\ndrifts, it can end up anywhere.",
+        "At dusk, swarms of them are\ncarried aloft on winds. When\nnoticed, they suddenly vanish.",
+        "It can generate and release gas\nwithin its body. That’s how it can\ncontrol the altitude of its drift.",
+        "It can generate and release gas\nwithin its body. That’s how it can\ncontrol the altitude of its drift.",
+        "At dusk, swarms of them are\ncarried aloft on winds. When\nnoticed, they suddenly vanish.",
+        "They carry people and Pokémon,\nbut the wind can catch them, so\nthere can’t be a fixed destination.",
+        "They carry people and Pokémon,\nbut the wind can catch them, so\nthere can’t be a fixed destination.",
+        "It carries people and Pokémon when it flies.\nBut since it only drifts, it can end up anywhere.",
+        "It’s drowsy in daytime, but flies off in the evening in\nbig groups. No one knows where they go.",
+        "It carries people and Pokémon when it flies.\nBut since it only drifts, it can end up anywhere.",
+        "It’s drowsy in daytime, but flies off in the evening in\nbig groups. No one knows where they go.",
+        "There was once an incident in which a man\ntook a trip riding a Drifblim, only to go missing.",
+        "Even while under careful observation, large\nflocks of Drifblim flying at dusk will inexplicably\ndisappear from view.",
+        "There’s a rumor that if you catch a Drifblim\nfloating on the wind at dusk, you’ll be carried\naway to the afterlife.",
+        "The raw material for the gas inside its body\nis souls. When its body starts to deflate, it’s\nthought to carry away people and Pokémon.",
+        "Some say this Pokémon is a collection of souls\nburdened with regrets, silently drifting through\nthe dusk.",
+        "It grabs people and Pokémon and carries them\noff somewhere. Where do they go?\nNobody knows.",
+        "It drifts along at dusk, perfectly silent. Its transient, melancholy\naspect touches some people deeply—every so often, one will\ncome upon a song or poem devoted to Drifblim."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "name": "Drifblim",
+    "types": [
+        "Ghost",
+        "Flying"
+    ],
+    "weight": 15.0
+}

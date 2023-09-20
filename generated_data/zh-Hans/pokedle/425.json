@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 4,
+    "height": 0.4,
+    "name": "飘飘球",
+    "types": [
+        "幽灵",
+        "飞行"
+    ],
+    "weight": 1.2
+}

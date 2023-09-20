@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "꼬리를 용수철 대용으로 써서 항상\n뛰어오르고 있다. 뛰는 반동으로\n심장을 고동시키고 있는 것이다.",
+        "꼬리로 뛰어올라 심장을\n움직이고 있다. 진주몽이 만든\n진주를 머리에 이고 있다.",
+        "꼬리로 뿅뿅 뛰어오르는 포켓몬이다.\n뛰어오르는 진동으로 심장을 움직이기\n때문에 뛰어오르는 것을 멈출 수 없다.",
+        "머리에 얹은 진주가 피그점프의\n사이코 파워를 높여주는 역할을 한다.\n항상 큰 진주를 찾고 있다."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "name": "피그점프",
+    "types": [
+        "에스퍼"
+    ],
+    "weight": 30.6
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Les cristaux qui parsèment son corps lui permettent\nde piéger ses ennemis dans la glace en émettant\nde l’air refroidi à -150 °C.",
+        "En utilisant ses cristaux, il peut créer en un instant\nun mur de glace pour se protéger des attaques\nennemies.",
+        "Les cristaux qui parsèment son corps lui permettent de piéger\nses ennemis dans la glace en émettant de l’air refroidi\nà -150 °C.",
+        "En utilisant ses cristaux, il peut créer en un instant un mur\nde glace pour se protéger des attaques ennemies.",
+        "Un Dragmara a été retrouvé dans un glacier,\nen parfait état de conservation, ce qui a fait\nla une des actualités.",
+        "La température de la surface de son corps\nest de -150 °C. Ce Pokémon est généralement\ntrès calme et très doux.",
+        "Ce Pokémon a été ressuscité à partir d’un fossile.\nOn raconte qu’une aurore boréale apparaît dans\nle ciel nocturne quand il hurle à la lune.",
+        "Lorsqu’il se laisse emporter par sa rage,\nil relâche des bourrasques glacées\nqui gèlent tout ce qui l’entoure."
+    ],
+    "height": 2.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "name": "Dragmara",
+    "types": [
+        "Roche",
+        "Glace"
+    ],
+    "weight": 225.0
+}

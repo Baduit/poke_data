@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "性格暴躁，喜欢打架，\n但如果钳子掉落，就会一下子弱下来。\n在再生之前，都会提心吊胆的。",
+        "钳子经常会掉。钳子里面\n跟好胜蟹和铁臂枪虾不同，\n有臭泥味，实在很难吃。",
+        "不停挥舞自己巨大的钳子，\n是个性格粗暴的家伙。\n被认为是很难培育的宝可梦。",
+        "有着热爱战斗的性格。\n当遇到靠近自己领地的对手，\n会毫不留情地将之打倒。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "name": "铁螯龙虾",
+    "types": [
+        "水",
+        "恶"
+    ],
+    "weight": 32.8
+}

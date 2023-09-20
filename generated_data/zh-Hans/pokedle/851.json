@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 8,
+    "height": 3.0,
+    "name": "焚焰蚣",
+    "types": [
+        "火",
+        "虫"
+    ],
+    "weight": 120.0
+}

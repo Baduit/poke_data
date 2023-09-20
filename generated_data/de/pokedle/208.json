@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 2,
+    "height": 9.2,
+    "name": "Stahlos",
+    "types": [
+        "Stahl",
+        "Boden"
+    ],
+    "weight": 400.0
+}

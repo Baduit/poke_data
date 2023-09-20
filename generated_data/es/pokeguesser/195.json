@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es un Pokémon bastante perezoso. Para pescar\npermanece en el fondo del río con la boca abierta.",
+        "Este despreocupado Pokémon es de naturaleza\ntranquila. Siempre que nada, choca con los barcos.",
+        "Quagsire caza dejando las fauces abiertas en el agua y\nesperando a que su presa entre sin darse cuenta. Como se\nqueda quieto, el Pokémon no pasa mucha hambre.",
+        "Quagsire caza dejando las fauces abiertas en el agua y\nesperando a que su presa entre sin darse cuenta. Como se\nqueda quieto, el Pokémon no pasa mucha hambre.",
+        "Es de naturaleza tranquila. Permanece impasible\ncuando, al nadar, choca de cabeza contra rocas\nde río o el casco de los barcos.",
+        "Su cuerpo siempre resulta escurridizo al tacto.\nSuele chocarse contra el lecho del río al nadar,\npero no le importa demasiado."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "name": "Quagsire",
+    "types": [
+        "Agua",
+        "Tierra"
+    ],
+    "weight": 75.0
+}

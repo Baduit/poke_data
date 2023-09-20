@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Seine Schweifspitze ist so hell, dass viele\nVerschollene es als Orientierungspunkt nutzen.",
+        "Seine Schweifspitze ist so hell, dass viele\nVerschollene es als Orientierungspunkt nutzen.",
+        "Ampharos strahlt so viel Licht aus, dass es sogar aus dem\nWeltraum noch gesehen werden kann. In der Antike benutzten\ndie Menschen das Licht dieses Pokémon dazu, Signale über\nweite Entfernungen auszutauschen.",
+        "Ampharos strahlt so viel Licht aus, dass es sogar aus dem\nWeltraum noch gesehen werden kann. In der Antike benutzten\ndie Menschen das Licht dieses Pokémon dazu, Signale über\nweite Entfernungen auszutauschen.",
+        "Das Licht seiner Schweifspitze kann man selbst\naus dem Weltall noch sehen. Um seinen Standort\nzu verbergen, macht es sein Licht zumeist aus.",
+        "Seine Schweifspitze strahlt ein starkes, helles\nLicht aus. Auf See gilt dieses Leuchten von\nalters her als bedeutender Wegweiser."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "name": "Ampharos",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 61.5
+}

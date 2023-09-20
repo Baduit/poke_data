@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Ha appreso tramite un durissimo allenamento l’arte\ndi maneggiare le sue due conchiglie come fossero\nlame.",
+        "Le loro conchiglie sono tutte diverse nella forma e\nogni Dewott si allena duramente per imparare a usarle.",
+        "Ha appreso tramite un durissimo allenamento l’arte di\nmaneggiare le sue due conchiglie come fossero lame.",
+        "Le loro conchiglie sono tutte diverse nella forma e ogni\nDewott si allena duramente per imparare a usarle."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+    "name": "Dewott",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 24.5
+}

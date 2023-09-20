@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Usa su cuerpo duro y escamoso para sellar la entrada\na su madriguera y protegerse de los depredadores.",
+        "Tiene el cuerpo recubierto de escamas duras y\ncortantes. Cuando se inquieta, las usa para\ndefenderse.",
+        "Nidoqueen tiene el cuerpo totalmente recubierto de escamas\ndurísimas. Suele lanzar por los aires a sus rivales de los\nviolentos golpes que les propina. Cuando se trata de\ndefender a sus crías, alcanza su nivel máximo de fuerza.",
+        "Nidoqueen tiene el cuerpo totalmente recubierto de escamas\ndurísimas. Suele lanzar por los aires a sus rivales de los\nviolentos golpes que les propina. Cuando se trata de\ndefender a sus crías, alcanza su nivel máximo de fuerza.",
+        "Su robusto cuerpo está recubierto de escamas\ndurísimas que se renuevan constantemente.",
+        "Su robusto cuerpo está recubierto de escamas\ndurísimas que se renuevan constantemente.",
+        "Su defensa destaca sobre la capacidad ofensiva.\nUsa las escamas del cuerpo como una coraza\npara proteger a su prole de cualquier ataque.",
+        "Para mecer a sus crías, las coloca en los huecos\nque tiene entre las púas dorsales, momento\ndurante el cual no secretan veneno."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "name": "Nidoqueen",
+    "types": [
+        "Veneno",
+        "Tierra"
+    ],
+    "weight": 60.0
+}

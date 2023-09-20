@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Les encanta reunirse en zonas apestosas donde se\nacumula el lodo, haciendo su olor más insoportable.",
+        "Su cuerpo segrega un fluido tóxico que elimina la vida\nvegetal cuando la toca.",
+        "Muk emana por todo el cuerpo un fluido maloliente que obliga\na taparse la nariz. Con solo una gota de la sustancia que\nexuda este Pokémon, se podría contaminar un estanque.",
+        "A este Pokémon le encanta comer cosas repulsivas. En\nciudades sucias en las que la gente tira la basura por la calle,\nlos Muk tienen, sin duda, su punto de encuentro.",
+        "Desprende un hedor insoportable que invita a\ntaparse la nariz. A algunos fanáticos de este\nPokémon, este hecho les parece encantador.",
+        "Con la reciente preocupación por el medio\nambiente, este Pokémon escasea cada vez más.\nPodría considerarse en peligro de extinción.",
+        "Su número ha disminuido por falta de sustento,\npor lo que se han creado estanques de lodo\nartificiales para salvarlo de la extinción.",
+        "Al ser un portador de toda clase de gérmenes,\nha sido perseguido a lo largo de la historia\nhasta verse abocado casi a la extinción.",
+        "Huele tan mal que puede provocar desmayos.\nSu nariz se ha atrofiado de tal manera que\nha perdido por completo el sentido del olfato.",
+        "Huele tan mal que puede provocar desmayos.\nSu nariz se ha atrofiado de tal manera que\nha perdido por completo el sentido del olfato."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "name": "Muk",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 2,
+    "height": 0.5,
+    "name": "Baldorfish",
+    "types": [
+        "Wasser",
+        "Gift"
+    ],
+    "weight": 3.9
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 1,
+    "height": 0.8,
+    "name": "Zubat",
+    "types": [
+        "Veneno",
+        "Volador"
+    ],
+    "weight": 7.5
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Lleva a su cría en la bolsa de su panza. Solo deja que\nsu cría salga a jugar cuando no siente peligro.",
+        "Si no hay peligro, el joven sale de la bolsa y juega.\nEl adulto vigila atentamente al joven.",
+        "No es recomendable molestar ni intentar atrapar a crías de\nKangaskhan mientras estén jugando, ya que seguro que su\nmadre anda cerca y reaccionará con enfado y violencia.",
+        "No es recomendable molestar ni intentar atrapar a crías de\nKangaskhan mientras estén jugando, ya que seguro que su\nmadre anda cerca y reaccionará con enfado y violencia.",
+        "Profesa un fuerte amor por su cría. Se dice que\nes capaz de enfrentarse sin temor a cualquier\npeligro con tal de protegerla.",
+        "La cría se separa de su madre cuando ronda los\ntres años. Es el único momento en el que la\nmadre llora con vehemencia.",
+        "Mete a la cría en su marsupio para protegerla. Si\nalguien hace daño a su retoño, monta en cólera\ny ataca al agresor sin miramientos.",
+        "No es prudente acercarse a un retoño que esté\njugando fuera de su bolsa, pues la madre nunca\nanda lejos.",
+        "Cuida de la cría que lleva en la bolsa de su\npanza y se enfrenta a todo aquel que supone\nuna amenaza para protegerla.",
+        "Cuida de la cría que lleva en la bolsa de su\npanza y se enfrenta a todo aquel que supone\nuna amenaza para protegerla.",
+        "Aunque lleve una cría en el marsupio, su juego\nde pies no pierde ligereza. Abruma al rival con\nráfagas de ágiles puñetazos.",
+        "Se han documentado casos de Kangaskhan sin\ncrías que han adoptado bebés humanos cuyos\npadres habían sido víctimas de accidentes."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "name": "Kangaskhan",
+    "types": [
+        "Normal"
+    ],
+    "weight": 80.0
+}

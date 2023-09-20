@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 3,
+    "height": 2.0,
+    "name": "Tropius",
+    "types": [
+        "Plante",
+        "Vol"
+    ],
+    "weight": 100.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Non riesce a evitare di inseguire tutto ciò che si\nmuove e corre in tondo a caccia della propria coda.",
+        "È davvero carino quando barcolla per i giramenti di\ntesta, dopo aver cercato di mordersi la coda.",
+        "Skitty ha l’abitudine di lasciarsi ammaliare dagli oggetti\nin movimento e seguirli dando loro la caccia. Questo\nPokémon è noto anche per rincorrere la sua stessa\ncoda fino a rimanere stordito.",
+        "Skitty è noto per il suo movimento rotatorio inteso a mordere\nla propria coda. Allo stato brado, vive all’interno di tronchi\ncavi nella foresta. È molto amato come animale domestico\ngrazie all’aspetto estremamente dolce."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "name": "Skitty",
+    "types": [
+        "Normale"
+    ],
+    "weight": 11.0
+}

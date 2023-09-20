@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Se desplaza hundido en la arena, dejando al\ndescubierto solo los ojos y la nariz. Una membrana\nnegra le protege los ojos.",
+        "Vive en las arenas desérticas, donde las altas\ntemperaturas de las mismas evitan que su cuerpo\nse enfríe.",
+        "Se desplaza hundido en la arena, dejando al descubierto solo\nlos ojos y la nariz. Una membrana negra le protege los ojos.",
+        "Vive en las arenas desérticas, donde las altas temperaturas\nde las mismas evitan que su cuerpo se enfríe.",
+        "Se desplaza sumergido bajo la arena, como si\nnadase. Así se esconde de sus enemigos y evita\nque descienda su temperatura corporal.",
+        "Se desplaza hundido en la arena y atrapa a las\npresas incautas de la superficie mordiéndoles la\npata. Su manjar favorito son los Trapinch.",
+        "El hábitat de Alola, cálido durante todo el año,\nes ideal para este Pokémon, por lo que también\nse le puede ver fuera del desierto.",
+        "Se nutre principalmente de cadáveres hallados\nen la arena, debido a su ineptitud para la caza.\nDe ahí su apodo: el Barrendero del Desierto.",
+        "En las frías noches del desierto se oculta a mucha\nprofundidad en la arena y duerme hasta que sale\nel sol.",
+        "Es pequeño, pero cuenta con un tren inferior\nfuerte. Se desplaza por el desierto abriéndose\npaso entre la arena, como si nadase."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "name": "Sandile",
+    "types": [
+        "Tierra",
+        "Siniestro"
+    ],
+    "weight": 15.2
+}

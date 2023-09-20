@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "不知為何只發現♀。\n率領夜盜火蜥的♂，\n組成逆後宮一起生活。",
+        "毒瓦斯裡含有很多的費洛蒙。\n稀釋後可用來製作性感的香水。",
+        "棲息在洞窟的深處，\n讓那些被自己的費洛蒙迷住的\n夜盜火蜥們侍奉自己。",
+        "對於那些沒捕到獵物的夜盜火蜥，\n焰后蜥會用噴火的手掌猛打\n牠們耳光作為懲罰。",
+        "焰后蜥只有雌性。\n會釋放出費洛蒙氣體，\n讓雄性的夜盜火蜥為之著迷。",
+        "據說焰后蜥之間在爭鬥時，\n是透過比拼誰帶著更多隻\n雄性夜盜火蜥來定勝負的。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+    "name": "焰后蜥",
+    "types": [
+        "毒",
+        "火"
+    ],
+    "weight": 22.2
+}

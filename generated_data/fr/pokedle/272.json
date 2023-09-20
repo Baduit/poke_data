@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Ludicolo",
+    "types": [
+        "Eau",
+        "Plante"
+    ],
+    "weight": 55.0
+}

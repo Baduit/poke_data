@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Sa poitrine et son dos sécrètent une mousse qui\nlui permet de subir moins de dégâts en amortissant\nle choc des attaques.",
+        "Il protège son corps en l’entourant d’une mousse\ndélicate. Malgré son apparence insouciante,\nce Pokémon est en fait constamment à l’affût.",
+        "Sa poitrine et son dos sécrètent une mousse qui lui permet\nde subir moins de dégâts en amortissant le choc des attaques.",
+        "Il protège son corps en l’entourant d’une mousse délicate.\nMalgré son apparence insouciante, ce Pokémon est en fait\nconstamment à l’affût."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "name": "Grenousse",
+    "types": [
+        "Eau"
+    ],
+    "weight": 7.0
+}

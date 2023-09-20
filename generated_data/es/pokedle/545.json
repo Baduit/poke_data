@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 5,
+    "height": 2.5,
+    "name": "Scolipede",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 200.5
+}

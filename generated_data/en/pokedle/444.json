@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 4,
+    "height": 1.4,
+    "name": "Gabite",
+    "types": [
+        "Dragon",
+        "Ground"
+    ],
+    "weight": 56.0
+}

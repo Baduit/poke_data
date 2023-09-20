@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "It has black, cape-like fur that is\nvery hard and decreases the amount\nof damage it receives.",
+        "It loyally follows its Trainer’s\norders. For ages, they have helped\nTrainers raise Pokémon.",
+        "This very loyal Pokémon\nhelps Trainers, and it also\ntakes care of other Pokémon.",
+        "This very loyal Pokémon\nhelps Trainers, and it also\ntakes care of other Pokémon.",
+        "This very loyal Pokémon helps Trainers, and it also\ntakes care of other Pokémon.",
+        "It has black, cape-like fur that is very hard and\ndecreases the amount of damage it receives.",
+        "This very loyal Pokémon helps Trainers, and it also\ntakes care of other Pokémon.",
+        "It has black, cape-like fur that is very hard and\ndecreases the amount of damage it receives.",
+        "Its dense black fur grows continuously. The high\ncost of keeping its hard fur properly groomed\nmakes this a troublesome Pokémon to train.",
+        "This Pokémon obeys its master’s orders\nfaithfully. However, it refuses to listen to\nanything said by a person it doesn’t respect.",
+        "The longer its black fur grows, the harder and\nmore impervious it gets. Claws and fangs can’t\neasily penetrate it.",
+        "It has been living with people for so long that\nportrayals of it can be found on the walls of\ncaves from long, long ago.",
+        "Herdier is a very smart and friendly Pokémon.\nSo much so that there’s a theory that Herdier was\nthe first Pokémon to partner with people.",
+        "The black fur that covers this Pokémon’s body\nis dense and springy. Even sharp fangs bounce\nright off."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "name": "Herdier",
+    "types": [
+        "Normal"
+    ],
+    "weight": 14.7
+}

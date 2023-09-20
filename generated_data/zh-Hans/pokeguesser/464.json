@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "会在手掌的洞里塞进岩石和\n石丸子发射出去，每只手里\n可以装填３个。",
+        "用护具弹开敌人的攻击，\n在对手畏缩时用自己\n引以为傲的钻头贯穿对方。"
+    ],
+    "height": 2.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "name": "超甲狂犀",
+    "types": [
+        "地面",
+        "岩石"
+    ],
+    "weight": 282.8
+}

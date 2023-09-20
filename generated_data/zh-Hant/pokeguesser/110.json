@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "牠是靠著吸收垃圾中\n含有的毒氣、細菌和灰塵\n來維持生命。",
+        "牠是靠著吸收垃圾中\n含有的毒氣、細菌和灰塵\n來維持生命。",
+        "用２個身體來混合瓦斯。\n在往昔的伽勒爾似乎到處\n都能見到牠們的身影。",
+        "雖然吸入空氣的力量\n稍弱於伽勒爾的雙彈瓦斯，\n製造出的毒素卻更加強力。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "name": "雙彈瓦斯",
+    "types": [
+        "毒"
+    ],
+    "weight": 9.5
+}

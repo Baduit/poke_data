@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Marill",
+    "types": [
+        "Water",
+        "Fairy"
+    ],
+    "weight": 8.5
+}

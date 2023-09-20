@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Confonde l’avversario grazie alla rapidità dei\nmovimenti. Oltre ad artigli e zanne, nella lotta si\nserve anche delle pietre appuntite della criniera.",
+        "Se lo si allena nel modo giusto fin dalla tenera\netà, diventa un fedele compagno devoto\nal proprio Allenatore.",
+        "La sua criniera di roccia è affilata come la lama\ndi un coltello. Segue la preda senza mai perderla\ndi vista e quando è stanca le dà il colpo finale.",
+        "La sua criniera di roccia è più affilata della lama\ndi un coltello. Le sue schegge sono considerate\ndei preziosi portafortuna.",
+        "È un Pokémon calmo e prudente. Le rocce della\nsua criniera sono affilate come lame di un rasoio.",
+        "Intrappola gradualmente la preda avvicinandosi\ncon movimenti rapidi. Le sue zanne mirano dritto\nai punti vitali."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "name": "Lycanroc",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 25.0
+}

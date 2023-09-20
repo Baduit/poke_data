@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Finge ser una luz guía en el camino, pero en realidad\nsolo quiere absorber la energía vital de quien lo sigue.",
+        "La luz que desprende absorbe la energía vital de\nhumanos y Pokémon.",
+        "Finge ser una luz guía en el camino, pero en realidad solo\nquiere absorber la energía vital de quien lo sigue.",
+        "La luz que desprende absorbe la energía vital de humanos y\nPokémon.",
+        "El calor de la llama hace que su cuerpo esté\nalgo tibio. Toma de la mano a quien se pierde\npara llevárselo a su mundo de espíritus.",
+        "Cuanto más joven sea la energía vital que ha\nabsorbido, mayor tamaño tendrá la llama de\nla cabeza y más siniestro será su brillo."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "name": "Litwick",
+    "types": [
+        "Fantasma",
+        "Fuego"
+    ],
+    "weight": 3.1
+}

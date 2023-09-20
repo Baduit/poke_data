@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "會用鼻子吸收人類或寶可夢\n情緒糟糕時產生的負能量，\n來為自己補充活力。",
+        "不但會溜進民宅偷盜，\n還會吸收人們悔恨時\n的負面能量。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+    "name": "搗蛋小妖",
+    "types": [
+        "惡",
+        "妖精"
+    ],
+    "weight": 5.5
+}

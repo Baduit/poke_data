@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "目の前の　ものに　すぐに　噛みつく\n習性。　生えかけの　前歯が\n痒いので　噛みついてしまうらしい。",
+        "頭の　ツノは　岩の　硬さ。\nツノで　戦い　ひるんだ　隙に\nパクリと　噛みつき　離さない。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "name": "カムカメ",
+    "types": [
+        "みず"
+    ],
+    "weight": 8.5
+}

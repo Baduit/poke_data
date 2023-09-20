@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es saugt die Seele eines jeden auf, der in seinen\nFeuerkranz gerät, bis nur noch eine leere Hülle von\nihm übrig ist.",
+        "Seelen, die das Feuer seiner schaurigen Flammen\ngekostet haben, irren bis ans Ende der Tage ziellos\ndurch diese Welt.",
+        "Es saugt die Seele eines jeden auf, der in seinen Feuerkranz\ngerät, bis nur noch eine leere Hülle von ihm übrig ist.",
+        "Seelen, die das Feuer seiner schaurigen Flammen gekostet\nhaben, irren bis ans Ende der Tage ziellos durch diese Welt.",
+        "Dieses Pokémon bewohnt gerne alte Anwesen. Es\nhypnotisiert seine Opfer, indem es die Flammen\nan seinen Armen auf unheimliche Weise schwenkt.",
+        "Angeblich soll früher in Häusern, wo Skelabra zur\nBeleuchtung verwendet wurden, eine Beerdigung\nauf die andere gefolgt sein."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "name": "Skelabra",
+    "types": [
+        "Geist",
+        "Feuer"
+    ],
+    "weight": 34.3
+}

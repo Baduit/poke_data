@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 1,
+    "height": 0.8,
+    "name": "냄새꼬",
+    "types": [
+        "풀",
+        "독"
+    ],
+    "weight": 8.6
+}

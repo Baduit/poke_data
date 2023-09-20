@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 5,
+    "height": 2.1,
+    "name": "Cobaltium",
+    "types": [
+        "Acier",
+        "Combat"
+    ],
+    "weight": 250.0
+}

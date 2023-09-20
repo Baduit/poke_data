@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Rancunier, il n’oublie aucune des\nattaques subies dans le cocon et\nse venge une fois qu’il a évolué.",
+        "Rancunier, il n’oublie aucune des\nattaques subies dans le cocon et\nse venge une fois qu’il a évolué.",
+        "Son corps, constitué de soie fine, durcit avec le\ntemps. Si vous voyez apparaître des fissures, c’est\nqu’il va très bientôt évoluer.",
+        "Rancunier, il n’oublie aucune des attaques subies\ndans le cocon et se venge une fois qu’il a évolué.",
+        "Blindalys fabrique son cocon protecteur en s’enveloppant\ndans la soie qui sort de sa bouche. Une fois la soie autour\nde son corps, elle se met à durcir. Ce Pokémon prépare\nson évolution à l’intérieur du cocon.",
+        "Lorsqu’il est attaqué, Blindalys reste immobile, même s’il a\ntrès mal. En effet, s’il bougeait, son corps serait affaibli lors\nde son évolution. En revanche, ce Pokémon n’oubliera pas\nla douleur endurée."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+    "name": "Blindalys",
+    "types": [
+        "Insecte"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 1,
+    "height": 0.4,
+    "name": "암나이트",
+    "types": [
+        "바위",
+        "물"
+    ],
+    "weight": 7.5
+}

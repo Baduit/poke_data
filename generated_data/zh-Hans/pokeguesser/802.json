@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "可以潜入影子中，\n因为不会在人的面前展露身姿，\n所以其存在曾是个幻想。",
+        "潜入对手的影子，\n复制其动作和力量。\n是胆小软弱的宝可梦。",
+        "能潜入对方的影子，\n模仿对方的动作和力量。\n在模仿的过程中会变得比本尊更强。",
+        "会潜入人或宝可梦的影子里。\n会理解所潜入者的心情，\n复制其能力。",
+        "潜入拳法高手的影子里\n复制对方的动作，\n最后习得了究极的奥义。",
+        "拥有潜入一切影子里的能力，\n所以在很长一段时间里\n都没有任何人发现它。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "name": "玛夏多",
+    "types": [
+        "格斗",
+        "幽灵"
+    ],
+    "weight": 22.2
+}

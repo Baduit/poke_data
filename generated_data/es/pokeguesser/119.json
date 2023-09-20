@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "En otoño, cuando se reproducen, se les puede ver\nnadando con energía por ríos y arroyos.",
+        "Hace su nido en los agujeros que cava con el cuerno.\nDefiende sus huevos con su vida.",
+        "En otoño, se ven ejemplares de Seaking macho danzando en\nlas riberas de los ríos para cortejar a las hembras. En esta\népoca, la coloración de este Pokémon alcanza sus niveles\nmáximos de belleza.",
+        "Seaking protege sus huevos con uñas y dientes. Macho y\nhembra se turnan para vigilar el nido y los huevos. Este\nperíodo de protección dura más de un mes en el caso de\nestos Pokémon.",
+        "Cuando las temperaturas bajan mucho, su piel\nse torna de un color carmesí. Es una señal\ninequívoca de que se aproxima el otoño.",
+        "Los fanáticos de este Pokémon pueden dividirse\nen dos grupos: los que adoran sus aletas y los\nque adoran su cuerno. No se llevan nada bien.",
+        "Es capaz de pulverizar las rocas más duras\nhaciendo girar su cuerno a modo de taladro.\nLos machos presentan una coloración más viva.",
+        "Los machos ejecutan una coreografía en el\nlecho del río para ganarse la atención de las\nhembras, que acuden al mejor bailarín.",
+        "Los machos usan el cuerno de la cabeza para\nhoradar rocas en el lecho del río y construir allí\nsu nido.",
+        "Los machos usan el cuerno de la cabeza para\nhoradar rocas en el lecho del río y construir allí\nsu nido.",
+        "En otoño gana algo de peso para atraer a\nposibles parejas y se cubre de llamativos colores.",
+        "Perfora las piedras del lecho del río con su\ncuerno para hacer un nido y que la corriente\nno arrastre sus huevos."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "name": "Seaking",
+    "types": [
+        "Agua"
+    ],
+    "weight": 39.0
+}

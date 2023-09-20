@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Hubelupf",
+    "types": [
+        "Pflanze",
+        "Flug"
+    ],
+    "weight": 1.0
+}

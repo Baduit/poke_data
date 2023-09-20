@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 1.6,
+    "name": "Metagross",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "weight": 550.0
+}

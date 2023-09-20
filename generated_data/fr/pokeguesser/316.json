@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il est principalement composé d’un\nestomac dont les sucs digestifs\ndissolvent tout ce qu’il avale.",
+        "Il est principalement composé d’un\nestomac dont les sucs digestifs\ndissolvent tout ce qu’il avale.",
+        "Son corps est principalement constitué d’un estomac\ndont les sucs digestifs dissolvent tout.",
+        "Il n’y a rien que son estomac ne puisse digérer.\nPendant sa digestion, il laisse s’échapper des gaz très\nbruyants et nauséabonds.",
+        "Virtuellement, le corps de Gloupti n’est qu’un estomac.\nIl est capable d’avaler des objets aussi gros que lui.\nL’estomac de ce Pokémon contient un fluide spécial\nqui lui permet de digérer n’importe quoi.",
+        "Le corps de Gloupti n’est pratiquement qu’un gros estomac.\nEn comparaison, son cœur et son cerveau sont tout petits.\nL’estomac de ce Pokémon contient des enzymes spéciales\ncapables de tout dissoudre."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "name": "Gloupti",
+    "types": [
+        "Poison"
+    ],
+    "weight": 10.3
+}

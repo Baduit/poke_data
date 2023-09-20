@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Si dice che possieda l’immortalità e possa farne dono\nagli altri. Torna in vita dopo aver dormito per\n1000 anni sotto forma di albero.",
+        "Si dice che possieda l’immortalità e che possa farne\ndono agli altri quando le sue corna brillano dei colori\ndell’arcobaleno.",
+        "Si dice che possieda l’immortalità e possa farne dono agli altri.\nTorna in vita dopo aver dormito per 1000 anni sotto forma\ndi albero.",
+        "Si dice che possieda l’immortalità e che possa farne dono agli\naltri quando le sue corna brillano dei colori dell’arcobaleno."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+    "name": "Xerneas",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 215.0
+}

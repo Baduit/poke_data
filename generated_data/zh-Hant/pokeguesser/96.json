@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "吞食夢來生存的寶可夢。\n被認為與食夢夢和夢夢蝕\n有著共同的祖先。",
+        "聽說愉快的夢特別美味。\n變得親密後，\n有時也會讓人作最美味的夢哦。",
+        "在遊樂設施附近可以看見\n牠的身影，因為牠想吃那一晚\n孩子們所做的美夢。",
+        "會讓獵物睡著，吃掉對方\n所做的夢。惡夢的味道是酸的，\n所以牠似乎不怎麼愛吃。",
+        "如果每晚和牠一起睡覺，\n有時會讓你夢見\n牠過去吃過的夢。",
+        "如果每晚和牠一起睡覺，\n有時會讓你夢見\n牠過去吃過的夢。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "name": "催眠貘",
+    "types": [
+        "超能力"
+    ],
+    "weight": 32.4
+}

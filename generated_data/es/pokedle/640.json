@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 5,
+    "height": 2.0,
+    "name": "Virizion",
+    "types": [
+        "Planta",
+        "Lucha"
+    ],
+    "weight": 200.0
+}

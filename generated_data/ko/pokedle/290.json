@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 3,
+    "height": 0.5,
+    "name": "토중몬",
+    "types": [
+        "벌레",
+        "땅"
+    ],
+    "weight": 5.5
+}

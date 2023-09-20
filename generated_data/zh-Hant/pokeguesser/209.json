@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "臉看起來很嚴厲，但其實相當膽小。\n那拼命作出威嚇的表情很受女性歡迎。",
+        "發出的嗚咽聲讓對手不安。\n平時是很悠閒的傢伙，\n１天中有一半時間都在睡覺哦。",
+        "喜歡與人親近，很會撒嬌。\n牠的動作與長相之間的反差\n似乎能讓年輕女性不禁著迷。",
+        "個性與外表相反，其實很膽小。\n要是把牠和其他小狗寶可夢\n放在一起，牠有可能會被欺負。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+    "name": "布魯",
+    "types": [
+        "妖精"
+    ],
+    "weight": 7.8
+}

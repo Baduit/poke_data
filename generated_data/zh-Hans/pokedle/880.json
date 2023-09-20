@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 8,
+    "height": 1.8,
+    "name": "雷鸟龙",
+    "types": [
+        "电",
+        "龙"
+    ],
+    "weight": 190.0
+}

@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "在伽勒爾隨處可見。\n如果不往兩邊的頰囊裡\n塞滿樹果，就會感到不安。",
+        "由於牠無論何時都在吃樹果，\n使得牠比外表看起來還要頑強。\n會出現在田地裡尋找樹果。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "name": "貪心栗鼠",
+    "types": [
+        "一般"
+    ],
+    "weight": 2.5
+}

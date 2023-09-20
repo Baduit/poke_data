@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "腹部有著發電器官，\n會將能量集中在大顎上，\n發出驚人的電擊。",
+        "來回盤旋尋找機會。\n用巨大的顎部積蓄電能，\n向敵人發射。",
+        "利用位於腹部的發電器官\n製造電力。靠著電擊光束，\n即使面對鳥寶可夢也能佔據優勢。",
+        "會以雜技般的飛行擾亂敵人，\n趁著對手退縮的那一瞬間\n施展出電擊光束。",
+        "用腹部發電，\n並把電力集中在大大的顎部，\n釋放出能量驚人的光束。",
+        "如果牠在飛行時把蟲電寶抱住\n當作備用電池，就能連續發射\n電力超高的電磁光束。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "name": "鍬農炮蟲",
+    "types": [
+        "蟲",
+        "電"
+    ],
+    "weight": 45.0
+}

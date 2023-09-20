@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Diese Kreatur kam durch eine Ultrapforte.\nSie besteht anscheinend aus mehreren\naufeinandergestapelten Wesen.",
+        "Diese rätselhafte Lebensform ist vermutlich eine\nUltrabestie. Sie sieht aus wie eine Steinmauer,\nbis sie sich plötzlich bewegt und angreift."
+    ],
+    "height": 5.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png",
+    "name": "Muramura",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 820.0
+}

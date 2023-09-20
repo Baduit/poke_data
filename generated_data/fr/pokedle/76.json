@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 1,
+    "height": 1.4,
+    "name": "Grolem",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 300.0
+}

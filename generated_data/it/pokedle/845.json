@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 8,
+    "height": 0.8,
+    "name": "Cramorant",
+    "types": [
+        "Volante",
+        "Acqua"
+    ],
+    "weight": 18.0
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Des scientifiques ont essayé de\nfaire évoluer un Magnézone en\nlaboratoire, mais ce fut un échec.",
+        "Des scientifiques ont essayé de\nfaire évoluer un Magnézone en\nlaboratoire, mais ce fut un échec.",
+        "Le champ magnétique qu’ils émettent est tel qu’ils\nont tendance à s’attirer mutuellement et à s’empêcher\nde bouger.",
+        "Il a évolué suite à son exposition à un champ\nmagnétique spécial. Ses 3 unités génèrent du\nmagnétisme.",
+        "Le champ magnétique qu’ils émettent est tel qu’ils ont\ntendance à s’attirer mutuellement et à s’empêcher de bouger.",
+        "Il a évolué suite à son exposition à un champ magnétique\nspécial. Ses trois unités génèrent du magnétisme.",
+        "Ses trois unités émettent une force magnétique.\nIl n’est pas rare que les gens le confondent avec\nun OVNI quand il vole dans le ciel.",
+        "Il vole dans le ciel en émettant et en recevant\ndes ondes bien mystérieuses.",
+        "Il surveille son territoire à l’aide de son radar,\net élimine rapidement tout intrus avec son\nlaser destructeur.",
+        "De nombreuses personnes pensent encore qu’il\ns’agit d’un Pokémon venu de l’espace. Il émet\nun champ magnétique extrêmement puissant.",
+        "On raconte qu’il serait contrôlé par une entité\nextraterrestre grâce à des ondes qu’il capterait\navec l’antenne sur sa tête.",
+        "On pense qu’il a évolué après avoir été exposé\nà un champ magnétique particulier qui a modifié\nla structure moléculaire de son corps."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "name": "Magnézone",
+    "types": [
+        "Électrik",
+        "Acier"
+    ],
+    "weight": 180.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Aunque intenta pasar por parte superior de una\nPoké Ball para atraer a sus presas, consigue engañar\na pocos.",
+        "Baila meciendo rítmicamente los dos brazos a modo\nde Poké Ball para hacer que sus presas se acerquen.",
+        "Aunque intenta pasar por parte superior de una Poké Ball para\natraer a sus presas, consigue engañar a pocos.",
+        "Baila meciendo rítmicamente los dos brazos a modo de\nPoké Ball para hacer que sus presas se acerquen.",
+        "Expulsa esporas venenosas. Crecerán setas\nen cualquier superficie con la que entren en\ncontacto si no se lava de inmediato.",
+        "Por lo general no se mueve demasiado. Suele\npermanecer quieto al lado de Poké Balls que\nhaya por el suelo."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "name": "Amoonguss",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 10.5
+}

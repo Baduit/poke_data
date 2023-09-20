@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 1,
+    "height": 2.2,
+    "name": "Dracolosse",
+    "types": [
+        "Dragon",
+        "Vol"
+    ],
+    "weight": 210.0
+}

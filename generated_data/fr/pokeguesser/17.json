@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il survole son vaste territoire en\nquête d’une proie avant de fondre\nsur elle toutes griffes en avant.",
+        "Il survole son vaste territoire en\nquête d’une proie avant de fondre\nsur elle toutes griffes en avant.",
+        "Grâce à ses griffes très puissantes, il est capable\nde transporter des Noeunoeuf vers un nid éloigné\nde plus de 100 km.",
+        "Il protège son territoire avec ardeur et repousse à\ncoups de bec tout intrus.",
+        "Roucoups utilise une vaste surface pour son territoire.\nCe Pokémon surveille régulièrement son espace aérien.\nSi quelqu’un pénètre sur son territoire, il corrige l’ennemi\nsans pitié d’un coup de ses terribles serres.",
+        "Roucoups utilise une vaste surface pour son territoire.\nCe Pokémon surveille régulièrement son espace aérien.\nSi quelqu’un pénètre sur son territoire, il corrige l’ennemi\nsans pitié d’un coup de ses terribles serres.",
+        "Ce Pokémon est très endurant. Il survole\nen permanence son territoire pour chasser.",
+        "Ce Pokémon est très endurant. Il survole\nen permanence son territoire pour chasser."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "name": "Roucoups",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 30.0
+}

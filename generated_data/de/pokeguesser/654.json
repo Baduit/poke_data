@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "In seinem Schweif steckt ein Zweig, den es bei Bedarf\nmit der Reibungswärme seiner Schweifhaare anzündet\nund im Kampf einsetzt.",
+        "Sein Zweig entzündet sich durch die Reibung, die beim\nHerausziehen aus seinem Schweif entsteht. Mit der\nFlamme sendet es Signale an Kameraden.",
+        "In seinem Schweif steckt ein Zweig, den es bei Bedarf mit der\nReibungswärme seiner Schweifhaare anzündet und im Kampf\neinsetzt.",
+        "Sein Zweig entzündet sich durch die Reibung, die beim\nHerausziehen aus seinem Schweif entsteht. Mit der Flamme\nsendet es Signale an Kameraden."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+    "name": "Rutena",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 14.5
+}

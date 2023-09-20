@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "On dit que ce Pokémon serait né du\nsoleil. Lorsqu’il évolue, tout son\ncorps est enveloppé de flammes.",
+        "Il vit au pied des volcans. Il repousse\nceux qui l’attaquent avec les flammes\nqui jaillissent de ses cinq cornes.",
+        "On dit que ce Pokémon serait né du soleil.\nIl évolue en enveloppant son corps des flammes qui\njaillissent de ses cornes.",
+        "Il vit au pied des volcans. Il repousse ceux qui\nl’attaquent avec les flammes qui jaillissent de ses cinq\ncornes.",
+        "On dit que ce Pokémon serait né du soleil. Il évolue\nen enveloppant son corps des flammes qui jaillissent\nde ses cornes.",
+        "Il vit au pied des volcans. Il repousse ceux qui l’attaquent\navec les flammes qui jaillissent de ses cinq cornes.",
+        "Il se bat en projetant des flammes par ses\ncinq cornes. Ces gerbes de feu dévastatrices\npeuvent atteindre les 3 000 °C.",
+        "Il se sert de flammes pour se défendre. Jadis,\nles anciens pensaient qu’il nichait dans le soleil.",
+        "Il y a fort longtemps, les gens croyaient que\nles Pyronille étaient tombés du soleil.",
+        "La température de son corps est très élevée.\nIl projette des flammes du bout de ses cornes\npour intimider ses ennemis et ses proies."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "name": "Pyronille",
+    "types": [
+        "Insecte",
+        "Feu"
+    ],
+    "weight": 28.8
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "D’un tempérament fougueux, il ne supporte pas que\nl’on s’en prenne aux faibles. Sa feuille lui permet\nde deviner les actions de l’ennemi.",
+        "Il encaisse les attaques de plein fouet sans même\ntiquer et il poursuit sa route. Il étale ses ennemis d’un\ncoup de patte capable de briser un poteau électrique.",
+        "D’un tempérament fougueux, il ne supporte pas que\nl’on s’en prenne aux faibles. Sa feuille lui permet\nde deviner les actions de l’ennemi.",
+        "Il encaisse les attaques de plein fouet sans même tiquer\net il poursuit sa route. Il étale ses ennemis d’un coup de patte\ncapable de briser un poteau électrique.",
+        "Ses gros bras sont sa plus grande fierté. Si vous\nvoulez devenir un Dresseur de Pandarbare,\nil va falloir jouer des poings !",
+        "Il peut détecter les mouvements ennemis grâce\naux vibrations de sa feuille. Avec ses amis,\nce grand lunatique a en fait le cœur sur la main.",
+        "Ce Pokémon féroce est très fier de ses gros\nbras. Beaucoup de Dresseurs l’apprécient\npour son côté truculent.",
+        "Il est du genre à laisser ses poings parler :\nil martèle ses ennemis et charge avec assez\nde force pour envoyer voler un camion-benne.",
+        "Ce Pokémon agressif a recours à la force\npour faire taire ceux qui le contrarient.\nIl adore combattre les Ixon.",
+        "Il anticipe les mouvements de son adversaire\ngrâce à sa feuille. Ses coups de poing peuvent\nréduire un camion-benne en un tas de ferraille."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+    "name": "Pandarbare",
+    "types": [
+        "Combat",
+        "Ténèbres"
+    ],
+    "weight": 136.0
+}

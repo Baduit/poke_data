@@ -1,0 +1,11 @@
+{
+    "color": "Negro",
+    "generation": 8,
+    "height": 1.1,
+    "name": "Carkol",
+    "types": [
+        "Roca",
+        "Fuego"
+    ],
+    "weight": 78.0
+}

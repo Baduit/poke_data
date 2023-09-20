@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "両手足の　ツメを　帯電させ\n相手を　八つ裂き。　かわされても\n飛び散る　電撃で　感電させる。",
+        "雷が　落ちるのと　同じ\n速さで　敵に　急接近。\n鋭い　ツメで　八つ裂きに　する。",
+        "雷に　匹敵する　スピードで\n走り　大電圧を　発する\nツメで　敵を　八つ裂きにする。",
+        "手足の　肉球から　放電。\nゼラオラが　駆け抜けると　稲妻が\n光り　雷鳴が　轟く。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "ゼラオラ",
+    "types": [
+        "でんき"
+    ],
+    "weight": 44.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Nuota veloce come una moto d’acqua. Le estremità\ndelle ali sono aguzze e spaccano anche il ghiaccio.",
+        "Le tre corna che si allungano dal suo becco attestano\nla sua forza. Il capogruppo ha le corna più grosse.",
+        "Nuota veloce come una moto d’acqua. Le estremità delle ali\nsono aguzze e spaccano anche il ghiaccio.",
+        "Le tre corna che si allungano dal suo becco attestano la sua\nforza. Il capogruppo ha le corna più grosse."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "name": "Empoleon",
+    "types": [
+        "Acqua",
+        "Acciaio"
+    ],
+    "weight": 84.5
+}

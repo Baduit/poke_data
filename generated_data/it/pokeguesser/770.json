@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Si è evoluto servendosi degli esseri umani per\ndiventare un castello di sabbia, aumentando\ncosì la propria forza malefica.",
+        "Succhia energia vitale dalle vittime e ne\nseppellisce le ossa rinsecchite sotto il castello.",
+        "Ognuno dei suoi granelli ha una volontà propria.\nInghiotte vivi i Pokémon più piccoli e ne ruba\nl’energia vitale.",
+        "Questo temibile Pokémon immobilizza i nemici\ncon una tempesta di sabbia per poi rubarne\nl’energia vitale.",
+        "Viene chiamato anche “Incubo della spiaggia”.\nControlla la sabbia per far sprofondare la preda\ne assorbirne l’anima.",
+        "Vive sulla spiaggia ma odia l’acqua.\nSotto una pioggia violenta, non riesce a\nmantenere la sua forma di castello di sabbia."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+    "name": "Palossand",
+    "types": [
+        "Spettro",
+        "Terra"
+    ],
+    "weight": 250.0
+}

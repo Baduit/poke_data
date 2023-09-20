@@ -1,0 +1,10 @@
+{
+    "color": "Blue",
+    "generation": 1,
+    "height": 0.5,
+    "name": "Squirtle",
+    "types": [
+        "Water"
+    ],
+    "weight": 9.0
+}

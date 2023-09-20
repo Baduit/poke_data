@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Al sentirse amenazado, sus ojos emiten cierto\nbrillo, algo que atrae a otros miembros de su\nespecie, y juntos luchan como un mismo ente.",
+        "Debido a su aspecto débil y a su apetitoso\nsabor, son el blanco de muchos depredadores,\npero quien se las ve con ellos sale mal parado.",
+        "Se agrupan debido a su manifiesta debilidad,\naunque también se suelen avistar nadando\nen solitario, separados de su banco.",
+        "Al sentirse amenazado, alerta a sus congéneres\nemitiendo un brillo por las pupilas que puede\nverse incluso a 40 kilómetros de distancia.",
+        "Debido a su manifiesta debilidad cuando van\nsolos, han adquirido la capacidad de agruparse\nen bancos a la hora de enfrentarse a un enemigo.",
+        "Al sentirse amenazado, le lloran los ojos. La luz\nque se refleja en sus lágrimas sirve de señal a sus\ncongéneres para agruparse en gran número."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
+    "name": "Wishiwashi",
+    "types": [
+        "Agua"
+    ],
+    "weight": 0.3
+}

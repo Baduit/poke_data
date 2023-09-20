@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Puede dejar fuera de combate a sus oponentes con el\nimpacto de su enorme cuerpo al caer en el agua tras\nun salto.",
+        "Es el más grande de los Pokémon. Puede nadar a una\nprofundidad de 3000 m aguantando la respiración.",
+        "Wailord es el mayor Pokémon registrado hasta la fecha. Este\ncoloso va nadando lánguidamente por el ancho mar con la\nboca abierta para que penetre la mayor cantidad posible de\nalimento.",
+        "Wailord caza con otros miembros de su especie. Es\nespectacular ver cómo saltan y chapotean en el agua para\nagrupar a sus presas. Realmente impresiona ver cómo\nimpactan contra el agua.",
+        "Tienen el hábito de cazar en grupo. Con sus\ntremendas bocas pueden engullir de un trago\nbancos enteros de Wishiwashi.",
+        "Su descomunal tamaño lo convierte en un\nPokémon muy popular. Los enclaves turísticos\ndonde se observan Wailord son todo un éxito.",
+        "Debido a su voraz apetito por los Pokémon pez,\nlos pescadores se ven obligados a controlar su\nnúmero si proliferan demasiado.",
+        "Cuando un Sharpedo o un Dhelmise acechan a\nun pequeño Wailmer, el banco entero de Wailord\nse une para protegerlo.",
+        "Puede dejar fuera de combate a sus oponentes\ncon el impacto de su enorme cuerpo al caer en\nel agua tras uno de sus saltos.",
+        "Su descomunal tamaño lo convierte en un\nPokémon muy popular. Los enclaves turísticos\ndonde se avistan Wailord son todo un éxito."
+    ],
+    "height": 14.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "name": "Wailord",
+    "types": [
+        "Agua"
+    ],
+    "weight": 398.0
+}

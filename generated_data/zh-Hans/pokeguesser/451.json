@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "将自己的身体埋在沙子里，\n一声不响地等待猎物。\n祖先和烧火蚣的祖先是近亲。",
+        "用尾巴上带毒的钩爪袭击对手。\n一旦被夹住，毒素就会扩散开来，\n导致全身无法动弹。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "name": "钳尾蝎",
+    "types": [
+        "毒",
+        "虫"
+    ],
+    "weight": 12.0
+}

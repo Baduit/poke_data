@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il passe le plus clair de son temps\naffalé. Rien qu’à le voir, on a\nenvie de bâiller.",
+        "Il passe le plus clair de son temps\naffalé. Rien qu’à le voir, on a\nenvie de bâiller.",
+        "Rien qu’à voir un Parecool, on n’a plus envie de\nbouger et on s’endort.",
+        "Il dort 20 heures par jour et ne fait rien d’autre,\nsi ce n’est manger trois ou quatre feuilles dans\nla journée.",
+        "Parecool se prélasse plus de vingt heures par jour.\nIl bouge tellement peu qu’il n’a presque pas besoin de\nmanger. Le repas quotidien de ce Pokémon n’est constitué\nque de trois feuilles.",
+        "Le cœur de Parecool ne bat qu’une fois par minute.\nQuoi qu’il arrive, il se contente de s’avachir, immobile.\nIl est très rare de voir ce Pokémon se déplacer."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+    "name": "Parecool",
+    "types": [
+        "Normal"
+    ],
+    "weight": 24.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Normalerweise liegen seine Stacheln am Rücken\nan, aber wenn es sich aufregt, stellen sie sich\nauf und stechen angreifende Gegner.",
+        "Sein langer Stachel fungiert als Blitzableiter.\nDamit zieht es Blitze auf sich, die es dann in\nseinen Elektrotaschen speichert.",
+        "Es hat 14 lange stachelartige Strähnen auf dem\nRücken, die sich unfreiwillig aufstellen, wenn es\nsich freut oder von etwas überrascht wird.",
+        "Da es selbst nicht besonders viel Elektrizität\nerzeugen kann, badet es in den Blitzen von\nGewittern, um sich aufzuladen.",
+        "Der Schweif an seinem Rücken absorbiert Blitze\nund Angriffe von Elektro-Pokémon. Es speichert\nden so gewonnenen Strom in Elektrotaschen.",
+        "Bei Gefahr rollt es sich zusammen, stellt seine\nRückenstacheln auf und schießt willkürlich mit\nElektrizität um sich."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+    "name": "Togedemaru",
+    "types": [
+        "Elektro",
+        "Stahl"
+    ],
+    "weight": 3.3
+}

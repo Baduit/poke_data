@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "あたまで　もえる　ほのおの　ように\nはげしい　せいかくの　ポケモン。\nすばやさでは　だれにも　まけない。",
+        "すばやさで　あいてを　ほんろうする。\nりょうて　りょうあしを　つかった\nどくとくの　たたかい　かたを　する。",
+        "あたまで　もえる　ほのおの　ように\nはげしい　せいかくの　ポケモン。\nすばやさでは　だれにも　まけない。",
+        "すばやさで　あいてを　ほんろうする。\nりょうて　りょうあしを　つかった\nどくとくの　たたかい　かたを　する。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "name": "ゴウカザル",
+    "types": [
+        "ほのお",
+        "かくとう"
+    ],
+    "weight": 55.0
+}

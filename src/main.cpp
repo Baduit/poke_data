@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 			std::filesystem::path pokeguesser_directory = generate_pokeguesser_directory(language_dir);
 			write_pokeguesser_data(pokeguesser_directory, pokemons);
 			std::filesystem::path pokedle_directory = generate_pokedle_directory(language_dir);
-			write_pokeguesser_data(pokedle_directory, pokemons);
+			write_pokedle_data(pokedle_directory, pokemons);
 		}
 	}
 	catch(std::exception& e)
@@ -119,8 +119,8 @@ void write_pokeguesser_data(const std::filesystem::path& pokeguesser_directory, 
 {
 	for (const auto& pokemon: pokemons)
 	{
-		std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
-		write_to_file(pokeguesser_directory / pokemon_filename, pokemon);
+		std::filesystem::path pokemon_filename = std::format("{}.json", pokemon.id);
+		write_to_file(pokeguesser_directory / pokemon_filename, pokemon.serialize_for_pokeguesser());
 	}
 }
 
@@ -136,7 +136,7 @@ void write_pokedle_data(const std::filesystem::path& pokedle_directory, const st
 {
 	for (const auto& pokemon: pokemons)
 	{
-		std::filesystem::path pokemon_filename = std::format("{}_{}.json", pokemon.id, pokemon.name);
-		write_to_file(pokedle_directory / pokemon_filename, pokemon);
+		std::filesystem::path pokemon_filename = std::format("{}.json", pokemon.id);
+		write_to_file(pokedle_directory / pokemon_filename, pokemon.serialize_for_pokedle());
 	}
 }

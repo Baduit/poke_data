@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Die Krallen an seinen Füßen sind sehr ausgeprägt.\nEs kann sogar ein Owei zu seinem Nest\nin 100 km Entfernung tragen.",
+        "Dieses Pokémon verteidigt sein abgegrenztes Areal\nsorgsam gegen alle Eindringlinge.",
+        "Tauboga nennt ein großes Gebiet sein Eigen. Es fliegt\numher und kontrolliert seinen Lebensraum. Wenn jemand\nsein Gebiet betritt, zeigt es keine Gnade und greift seine\nGegner mit seinen scharfen Krallen an.",
+        "Tauboga nennt ein großes Gebiet sein Eigen. Es fliegt\numher und kontrolliert seinen Lebensraum. Wenn jemand\nsein Gebiet betritt, zeigt es keine Gnade und greift seine\nGegner mit seinen scharfen Krallen an.",
+        "Dieses kraftvolle Pokémon wacht unermüdlich\nüber sein riesiges Territorium und fliegt weite\nStrecken auf der Suche nach Beute.",
+        "Dieses kraftvolle Pokémon wacht unermüdlich\nüber sein riesiges Territorium und fliegt weite\nStrecken auf der Suche nach Beute."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "name": "Tauboga",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 30.0
+}

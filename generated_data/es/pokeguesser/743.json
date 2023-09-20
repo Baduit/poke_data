@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Fabrica varios tipos de bolas de polen. Algunas\nse usan como alimento y otras para el combate.",
+        "Algunas de las bolas de polen que fabrican son\nextremadamente nutritivas, por lo que a veces\nse venden como suplementos alimenticios.",
+        "Odia la lluvia porque humedece el polen. Si en el\ncielo aparecen nubes amenazadoras, permanece\ninmóvil y expectante en el hueco de un árbol.",
+        "Puede predecir las condiciones meteorológicas\nfijándose en la humedad y dirección del viento.\nSolo se avistan cuando reina el buen tiempo.",
+        "Mezcla polen y néctar para elaborar unas bolas\ncuyo efecto varía en función de los ingredientes\nusados y de sus proporciones.",
+        "Detesta verse empapado por la lluvia, por lo que\nrara vez se deja ver en la nubosa región de Galar."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+    "name": "Ribombee",
+    "types": [
+        "Bicho",
+        "Hada"
+    ],
+    "weight": 0.5
+}

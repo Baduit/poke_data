@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sein Gesang erzeugt unausweichlich Kopfweh.\nEs bewegt sich so schnell, dass es beinah\nunsichtbar zu sein scheint.",
+        "Es bewegt sich so schnell, dass es manchmal\nunsichtbar zu sein scheint. Es liebt Baumsaft.",
+        "Ninjask bewegt sich so schnell, dass man es nicht sehen kann.\nSeine Schreie sind aber laut und deutlich zu hören. Deshalb\nhielt man dieses Pokémon lange für unsichtbar.",
+        "Wenn Ninjask nicht richtig trainiert wird, hört es nicht mehr auf\nseinen Trainer und beginnt, unaufhörlich und laut zu brüllen.\nEs stellt die Fähigkeiten eines Trainers auf eine harte Probe.",
+        "Lauscht man längere Zeit seinem Gesang, löst er\ndauerhafte Kopfschmerzen aus. Es ist so schnell,\ndass es beinahe unsichtbar zu sein scheint.",
+        "Dieses Pokémon ist so schnell, dass es jedem\nAngriff ausweichen kann. Es ernährt sich am\nliebsten von süßem Baumsaft."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "name": "Ninjask",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 12.0
+}

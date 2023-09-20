@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Si nasconde sotto la sabbia e si sposta cacciando\nfuori gli occhi e il naso. Una membrana nera gli\nprotegge gli occhi.",
+        "Vive nella sabbia del deserto che, scaldata dal sole,\nimpedisce alla sua temperatura corporea di scendere.",
+        "Si nasconde sotto la sabbia e si sposta cacciando fuori gli\nocchi e il naso. Una membrana nera gli protegge gli occhi.",
+        "Vive nella sabbia del deserto che, scaldata dal sole, impedisce\nalla sua temperatura corporea di scendere.",
+        "Si nasconde sotto la sabbia e si sposta come\nse nuotasse. In questo modo evita i nemici e\nmantiene alta la sua temperatura corporea.",
+        "Si nasconde sotto la sabbia e azzanna le zampe\ndei Pokémon che gli camminano sopra. È ghiotto\ndi Trapinch.",
+        "Le temperature tropicali di Alola rendono questa\nregione l’ambiente ideale per i Sandile, tanto che\nvengono avvistati anche fuori dai deserti.",
+        "La caccia non è il suo forte e si ciba soprattutto\ndi prede che trova già morte nel deserto. Per\nquesto viene chiamato “spazzino del deserto”.",
+        "Affronta le fredde notti del deserto rintanandosi\nin profondità sotto la sabbia e dormendo fino al\nsorgere del sole.",
+        "Nonostante la corporatura minuta, ha zampe\nrobuste. Si fa strada nel deserto come nuotando\nnella sabbia."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "name": "Sandile",
+    "types": [
+        "Terra",
+        "Buio"
+    ],
+    "weight": 15.2
+}

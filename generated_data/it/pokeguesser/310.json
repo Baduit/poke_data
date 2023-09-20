@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Raramente si mostra agli umani. Si dice che nidifichi\nnelle zone dove è caduto un fulmine.",
+        "Scarica elettricità dalla criniera. Crea nubi\ntemporalesche in cielo che fanno cadere saette.",
+        "Manectric scarica costantemente l’elettricità dalla propria\ncriniera. Spesso le scintille scatenano incendi nei boschi.\nIn lotta questo Pokémon crea nubi temporalesche.",
+        "Manectric scarica forti scosse elettriche dalla propria criniera,\nusata come collettore dell’elettricità presente nell’atmosfera.\nCrea inoltre nubi temporalesche sopra la sua testa.",
+        "Se si notano strane nubi temporalesche, sotto\ndi loro si vedrà questo Pokémon. Si dice che sia\nin grado di correre alla velocità del fulmine.",
+        "L’elettricità gli stimola i muscoli rendendolo\npiù veloce e inoltre allevia i suoi dolori muscolari\nfacendolo tornare rapidamente in forma.",
+        "L’elettricità gli stimola i muscoli rendendolo più\nveloce e inoltre allevia i suoi dolori muscolari\nfacendolo tornare rapidamente in forma.",
+        "Raramente si mostra agli umani. Si dice che\nviva nelle zone dove è caduto un fulmine."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "name": "Manectric",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 40.2
+}

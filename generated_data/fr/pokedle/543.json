@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 5,
+    "height": 0.4,
+    "name": "Venipatte",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 5.3
+}

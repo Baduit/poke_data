@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "With a flashing slash of its giant sharp claws,\nit cleaves seawater—or even air—right in two.",
+        "It battles skillfully with its six arms, but spends\nmost of its time peacefully meditating in caves\ndeep beneath the sea.",
+        "The shell covering its body is as hard as\ndiamond. This Pokémon will do anything it\ntakes to win.",
+        "Its claws, which it can extend and retract at\nwill, are its greatest weapons. Golisopod is\nsometimes accompanied by Wimpod.",
+        "It will do anything to win, taking advantage of\nevery opening and finishing opponents off with\nthe small claws on its front legs.",
+        "They live in sunken ships or in holes in the\nseabed. When Golisopod and Grapploct\nbattle, the loser becomes the winner’s meal."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "name": "Golisopod",
+    "types": [
+        "Bug",
+        "Water"
+    ],
+    "weight": 108.0
+}

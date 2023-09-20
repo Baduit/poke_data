@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "無邪気で　残酷な　アーカラの\n守り神。　花の　芳しい\n香りが　エネルギーの　源。",
+        "ヒラヒラ　飛びまわり　不思議に　光る\n鱗粉を　振りまく。　触れた者は\nたちまち　元気を　取り戻すという。",
+        "輝く　りん粉を　振りまいて\n人や　ポケモンの　傷を　癒す。\nアーカラで　祀られる　守り神だ。",
+        "守り神と　呼ばれるが　無邪気で\n残酷な　性質も　併せ持つ\n自然の化身と　いえる　存在。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "カプ・テテフ",
+    "types": [
+        "エスパー",
+        "フェアリー"
+    ],
+    "weight": 18.6
+}

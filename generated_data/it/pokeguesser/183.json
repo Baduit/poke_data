@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "La pelliccia è idrorepellente. Così, rimane asciutto\nanche giocando nell’acqua.",
+        "La punta della coda contiene un olio più leggero\ndell’acqua, che gli permette di stare a galla.",
+        "La coda di Marill contiene dell’olio e agisce da salvagente.\nSe si scorge soltanto la sua coda a pelo d’acqua, significa\nche questo Pokémon si sta immergendo in profondità\nper cibarsi di piante acquatiche.",
+        "Per nutrirsi Marill pesca il cibo in riva a torrenti impetuosi,\navvinghiando la coda attorno ai tronchi degli alberi. La coda\ndi questo Pokémon è flessibile e dalla costituzione elastica.",
+        "La coda rotonda funge da salvagente. All’interno\ndella palla sono conservate sostanze nutritive\nsotto forma di grasso.",
+        "Non soffre il freddo nemmeno quando emerge\ndai mari gelidi, grazie alla pelliccia idrorepellente\nche si asciuga subito."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "name": "Marill",
+    "types": [
+        "Acqua",
+        "Folletto"
+    ],
+    "weight": 8.5
+}

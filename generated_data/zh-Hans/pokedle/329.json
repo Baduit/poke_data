@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 3,
+    "height": 1.1,
+    "name": "超音波幼虫",
+    "types": [
+        "地面",
+        "龙"
+    ],
+    "weight": 15.3
+}

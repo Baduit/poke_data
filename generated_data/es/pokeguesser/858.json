@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Para mantener alejados a los demás seres vivos,\nemana a su alrededor ondas psíquicas cuya\npotencia es capaz de provocar jaquecas.",
+        "Recibe el apodo de Hechicera del Bosque.\nQuienes arman demasiado barullo se exponen a\nser despedazados por las garras de su tentáculo."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "name": "Hatterene",
+    "types": [
+        "Psíquico",
+        "Hada"
+    ],
+    "weight": 5.1
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il sort la nuit pour chasser. Il\ntraque les proies épuisées après\nune journée dans le désert.",
+        "Il sort la nuit pour chasser. Il\ntraque les proies épuisées après\nune journée dans le désert.",
+        "Il sort la nuit pour chasser. Il traque les proies\népuisées après une journée dans le désert.",
+        "Les Cacturne traquent en groupe les voyageurs du\ndésert, guettant les signes de fatigue pour frapper.",
+        "Pendant la journée, Cacturne reste immobile pour éviter\nde se déshydrater sous le soleil du désert. Ce Pokémon\nne commence son activité qu’une fois la nuit tombée,\nsous une température plus fraîche.",
+        "Lorsqu’un voyageur traverse le désert au milieu de la nuit,\nles Cacturne le suivent en groupe. Ces Pokémon attendent\nle bon moment, quand le voyageur est fatigué et qu’il n’est\nplus capable de bouger."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "name": "Cacturne",
+    "types": [
+        "Plante",
+        "Ténèbres"
+    ],
+    "weight": 77.4
+}

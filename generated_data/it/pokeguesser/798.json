@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Un’Ultracreatura arrivata attraverso un\nUltravarco. Non attacca di propria iniziativa,\nma il suo corpo affilato è un’arma letale.",
+        "Questa Ultracreatura è stata vista tagliare\nin due un traliccio dell’alta tensione con un\nsolo colpo.",
+        "Ultracreatura dal corpo sottile come un foglio\ndi carta e affilato come la lama di una spada.",
+        "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "name": "Kartana",
+    "types": [
+        "Erba",
+        "Acciaio"
+    ],
+    "weight": 0.1
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ce Pokémon docile préfère éviter\nle combat. Toutefois, il se montre\ntrès féroce quand on l’agresse.",
+        "Ce Pokémon docile préfère éviter\nle combat. Toutefois, il se montre\ntrès féroce quand on l’agresse.",
+        "On l’aperçoit souvent dans les forêts. Avec ses ailes,\nil brasse l’air près du sol pour projeter du sable.",
+        "Ce Pokémon docile préfère éviter le combat.\nToutefois, il se montre très féroce quand on l’agresse.",
+        "Roucool a un excellent sens de l’orientation. Il est capable de\nretrouver son nid sans jamais se tromper, même s’il est très\nloin de chez lui et dans un environnement qu’il ne connaît pas.",
+        "Roucool a un excellent sens de l’orientation. Il est capable de\nretrouver son nid sans jamais se tromper, même s’il est très\nloin de chez lui et dans un environnement qu’il ne connaît pas.",
+        "De nature très docile, il préfère projeter\ndu sable pour se défendre plutôt que\ncontre-attaquer.",
+        "De nature très docile, il préfère projeter\ndu sable pour se défendre plutôt que\ncontre-attaquer."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "name": "Roucool",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 1.8
+}

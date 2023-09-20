@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 8,
+    "height": 3.0,
+    "name": "Katapuldra",
+    "types": [
+        "Drache",
+        "Geist"
+    ],
+    "weight": 50.0
+}

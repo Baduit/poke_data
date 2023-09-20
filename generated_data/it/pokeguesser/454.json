@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ha una sacca di veleno sulla gola. Quando gracida\nil veleno si rimescola, diventando più efficace.",
+        "I suoi artigli secernono una tossina così velenosa\nche persino un graffio può essere letale.",
+        "Ha una sacca di veleno sulla gola. Quando gracida il veleno\nsi rimescola, diventando più efficace.",
+        "I suoi artigli secernono una tossina così velenosa che persino\nun graffio può essere letale.",
+        "Si avvicina a balzi al nemico e lo colpisce\ncon i suoi artigli avvelenati. Basta un graffio\nper mandare KO l’avversario.",
+        "Quando abbatte la preda, lancia un alto gracidio\ndi vittoria. Come specie è affine ai Seismitoad."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "name": "Toxicroak",
+    "types": [
+        "Veleno",
+        "Lotta"
+    ],
+    "weight": 44.4
+}

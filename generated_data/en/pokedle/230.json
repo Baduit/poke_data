@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 2,
+    "height": 1.8,
+    "name": "Kingdra",
+    "types": [
+        "Water",
+        "Dragon"
+    ],
+    "weight": 152.0
+}

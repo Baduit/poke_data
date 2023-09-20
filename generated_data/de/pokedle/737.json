@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 7,
+    "height": 0.5,
+    "name": "Akkup",
+    "types": [
+        "Käfer",
+        "Elektro"
+    ],
+    "weight": 10.5
+}

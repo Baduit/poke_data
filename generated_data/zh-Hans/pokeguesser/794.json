@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "从其他世界出现的究极异兽。\n会向人展现自己的身体，\n但不知道是出于自豪还是威吓。",
+        "谜一般的生物究极异兽。\n被目击到了一拳把翻斗车\n打得粉碎的光景。",
+        "在这个世界是异类，很危险，\n但在它原本栖息的世界，\n好像只是寻常能见的生物。",
+        "会炫耀膨胀到异常程度的肌肉。\n是究极异兽中的一种。"
+    ],
+    "height": 2.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+    "name": "爆肌蚊",
+    "types": [
+        "虫",
+        "格斗"
+    ],
+    "weight": 333.6
+}

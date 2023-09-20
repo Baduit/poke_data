@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "朝北鼻鼻子上的磁铁绝对不会失灵，\n所以是训练家旅行时的良伴。",
+        "用强劲的磁力把猎物吸过来。\n也会吸引并收集铁来保护身躯。",
+        "１年只会移动１厘米。\n但在陷入危机时会旋转身体，\n瞬间潜入地下。",
+        "它会一动不动地用强力的\n磁力将猎物吸过来狩猎。\n但有时也会吸到天敌。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "name": "朝北鼻",
+    "types": [
+        "岩石"
+    ],
+    "weight": 97.0
+}

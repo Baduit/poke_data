@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Moorabbel",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 28.0
+}

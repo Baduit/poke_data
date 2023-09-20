@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "頭上長著尖銳的針。\n總是躲在森林或是草叢裡，\n不停地吃著葉子。",
+        "頭上長著尖銳的針。\n總是躲在森林或是草叢裡，\n不停地吃著葉子。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "name": "獨角蟲",
+    "types": [
+        "蟲",
+        "毒"
+    ],
+    "weight": 3.2
+}

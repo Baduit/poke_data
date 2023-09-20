@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il suo guscio sembra ricolmo di gioia. Si dice che\nporti fortuna se lo si tratta bene.",
+        "Un proverbio dice che chi riuscirà a far alzare un\nTogepi dormiente sarà baciato dalla fortuna.",
+        "Togepi ricava la sua energia dai nobili sentimenti di affetto\ne generosità emanati dai Pokémon e dall’uomo.\nTogepi immagazzina le sensazioni di felicità dentro il suo\nguscio e le divide con gli altri.",
+        "Togepi ricava la sua energia dai nobili sentimenti di affetto\ne generosità emanati dai Pokémon e dall’uomo.\nTogepi immagazzina le sensazioni di felicità dentro il suo\nguscio e le divide con gli altri.",
+        "Sembra che il suo guscio sia ricolmo di felicità.\nSi dice che porti fortuna se lo si tratta bene.",
+        "Viene considerato un simbolo di buona fortuna.\nSi dice che il suo guscio sia ricolmo di felicità."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+    "name": "Togepi",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 1.5
+}

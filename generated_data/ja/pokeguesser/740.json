@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "トップを　目指すはずが　雪山に\n迷い登り　寒さに　耐えるうちに\n毛が　生えてきて　進化していた。",
+        "とにかく　見境なく　なぐる。\nいざと　なったら　ハサミを　自切し\nロケットのように　発射し　なぐる。",
+        "ハサミの　中に　冷気を　溜めて\nぶん殴る。　分厚い　氷の\n壁も　粉々に　してしまうぞ。",
+        "考えるより　まず　殴ってみる。\nゆきなだれを　パンチの　ラッシュで\n押し返したという　記録も　ある。"
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+    "name": "ケケンカニ",
+    "types": [
+        "かくとう",
+        "こおり"
+    ],
+    "weight": 180.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es kann nach Belieben seine Farbe ändern. Nur das\ngezackte Muster auf seinem Bauch bleibt gleich.",
+        "Beim Beutefang passt es seine Farbe der Umgebung\nan. Nur das Muster auf seinem Bauch bleibt gleich.",
+        "Kecleon kann die Farbe seines Körpers bei Bedarf verändern,\num sich seiner Umgebung anzupassen. Es gibt allerdings eine\nAusnahme: Das Zickzackmuster auf seinem Bauch kann es\nnicht verändern.",
+        "Kecleon verändert seine Körperfärbung, um sich seiner\nUmgebung anzupassen. Dadurch kann es sich prima an\nseine ahnungslose Beute anschleichen. Es schlägt mit\nseiner dehnbaren, langen Zunge aus und fängt sie.",
+        "Es kann mit der Umgebung verschmelzen, indem\nes seine Farbe ändert. Wenn man es längere Zeit\nignoriert, macht es sich schmollend unsichtbar.",
+        "Seine Färbung ändert sich nicht nur zur Tarnung,\nsondern auch je nach Laune und Verfassung. Je\nkräftiger seine Farben sind, desto vitaler ist es."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "name": "Kecleon",
+    "types": [
+        "Normal"
+    ],
+    "weight": 22.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Vive da solo lontano dagli altri. Apparentemente\nogni esemplare crede di essere il più importante.",
+        "Vive senza riunirsi in gruppi. Con i suoi poderosi\ncolpi d’ala, può spaccare in due degli alberi enormi.",
+        "Vive da solo lontano dagli altri. Apparentemente ogni\nesemplare crede di essere il più importante.",
+        "Vive senza riunirsi in gruppi. Con i suoi poderosi colpi d’ala,\npuò spaccare in due degli alberi enormi."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "name": "Prinplup",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 23.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Un Pokémon de leyenda. Se dice que el tiempo\ncomenzó a avanzar cuando Dialga nació.",
+        "Tiene el poder de controlar el tiempo. Aparece en los\nmitos de Sinnoh como una vieja deidad.",
+        "Un Pokémon de leyenda. Se dice que el tiempo comenzó a\navanzar cuando Dialga nació.",
+        "Tiene el poder de controlar el tiempo. Aparece en los mitos\nde Sinnoh como una vieja deidad."
+    ],
+    "height": 5.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "name": "Dialga",
+    "types": [
+        "Acero",
+        "Dragón"
+    ],
+    "weight": 683.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 9,
+    "height": 0.6,
+    "name": "Bramblin",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "weight": 0.6
+}

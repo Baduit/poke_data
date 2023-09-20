@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Omanyte",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 7.5
+}

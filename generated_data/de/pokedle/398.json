@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Staraptor",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 24.9
+}

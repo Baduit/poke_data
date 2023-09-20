@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 7,
+    "height": 5.5,
+    "name": "차곡차곡",
+    "types": [
+        "바위",
+        "강철"
+    ],
+    "weight": 820.0
+}

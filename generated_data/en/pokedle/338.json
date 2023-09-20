@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Solrock",
+    "types": [
+        "Rock",
+        "Psychic"
+    ],
+    "weight": 154.0
+}

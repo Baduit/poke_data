@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "L’eau contenue dans la mèche sur sa\ntête est pleine de nutriments. Elle fait\npousser les plantes avec vigueur.",
+        "Il supporte mal les environnements secs.\nIl s’humidifie avec sa queue en aspirant\nl’eau stockée dans la mèche sur sa tête.",
+        "Sa houppette est chargée d’eau et de nutriments.\nIl nourrit les plantes et les arbres avec sa queue.",
+        "L’eau contenue dans la mèche sur sa tête est pleine\nde nutriments. Elle fait pousser les plantes avec\nvigueur.",
+        "Sa houppette est chargée d’eau et de nutriments.\nIl nourrit les plantes et les arbres avec sa queue.",
+        "L’eau contenue dans la mèche sur sa tête est pleine\nde nutriments. Elle fait pousser les plantes avec vigueur."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "name": "Flotajou",
+    "types": [
+        "Eau"
+    ],
+    "weight": 13.5
+}

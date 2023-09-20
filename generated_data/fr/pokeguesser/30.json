@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ce Pokémon dresse ses piquants\nen cas de danger. Ils poussent\nmoins vite que ceux de Nidorino.",
+        "Ce Pokémon dresse ses piquants\nen cas de danger. Ils poussent\nmoins vite que ceux de Nidorino.",
+        "La femelle a un tempérament doux. Elle émet des cris\nultrasoniques capables de déstabiliser ses ennemis.",
+        "Pour nourrir ses petits, il mâche les aliments pour les\nrendre tendres et il les recrache à ses bébés.",
+        "Lorsqu’un Nidorina est avec ses amis ou sa famille, il replie\nses pointes pour ne pas blesser ses proches. Ce Pokémon\ndevient vite nerveux lorsqu’il est séparé de son groupe.",
+        "Lorsqu’un Nidorina est avec ses amis ou sa famille, il replie\nses pointes pour ne pas blesser ses proches. Ce Pokémon\ndevient vite nerveux lorsqu’il est séparé de son groupe.",
+        "Quand ce Pokémon s’abrite au fond de son\nterrier, ses cornes se rétractent. C’est signe\nqu’il est détendu.",
+        "Quand ce Pokémon s’abrite au fond de son\nterrier, ses cornes se rétractent. C’est signe\nqu’il est détendu.",
+        "On pense que sa corne frontale s’est atrophiée\npour lui permettre de nourrir ses petits sans\nles blesser.",
+        "Si un danger menace le groupe, ces Pokémon\nse réunissent et l’affrontent en émettant\ndes ultrasons en chœur."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "name": "Nidorina",
+    "types": [
+        "Poison"
+    ],
+    "weight": 20.0
+}

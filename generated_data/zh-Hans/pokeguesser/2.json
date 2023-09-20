@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "它的花苞会在吸收养分后\n长大。当花苞发出香味时，\n就预示着它快要开花了。",
+        "它的花苞会在吸收养分后\n长大。当花苞发出香味时，\n就预示着它快要开花了。",
+        "当背上的花苞长大之后，\n它似乎就无法再用两只脚\n站立起来了。",
+        "沐浴在阳光下越久，\n身体内会涌出越多力量，\n背上的花苞也会渐渐成长。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "name": "妙蛙草",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 13.0
+}

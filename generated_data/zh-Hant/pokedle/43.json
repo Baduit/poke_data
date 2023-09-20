@@ -1,0 +1,11 @@
+{
+    "color": "藍色",
+    "generation": 1,
+    "height": 0.5,
+    "name": "走路草",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 5.4
+}

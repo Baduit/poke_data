@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Un Pokémon Oiseau légendaire dont\non dit qu’il vit dans les nuages\nd’orage. Il contrôle la foudre.",
+        "Un Pokémon Oiseau légendaire dont\non dit qu’il vit dans les nuages\nd’orage. Il contrôle la foudre.",
+        "L’oiseau légendaire de la foudre. Il surgit hors\ndes nuages en lançant d’énormes éclairs.",
+        "Un Pokémon Oiseau légendaire dont on dit qu’il vit\ndans les nuages d’orage. Il contrôle la foudre.",
+        "Électhor est un Pokémon Oiseau légendaire capable de\ncontrôler l’électricité. Il vit généralement dans les nuages\norageux. Ce Pokémon gagne en puissance lorsqu’il est\nfrappé par la foudre.",
+        "Électhor est un Pokémon Oiseau légendaire capable de\ncontrôler l’électricité. Il vit généralement dans les nuages\norageux. Ce Pokémon gagne en puissance lorsqu’il est\nfrappé par la foudre.",
+        "Ce Pokémon oiseau légendaire apparaît quand\nle ciel s’assombrit et que la foudre ne cesse\nde tomber.",
+        "Ce Pokémon oiseau légendaire apparaît quand\nle ciel s’assombrit et que la foudre ne cesse\nde tomber.",
+        "On dit que ce Pokémon capable de contrôler\nla foudre installe son nid au creux des nuages\nd’orage noirs.",
+        "On raconte que lorsque ce Pokémon oiseau\nlégendaire fait vibrer ses plumes, le frottement\nfait tomber la foudre instantanément."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "name": "Électhor",
+    "types": [
+        "Électrik",
+        "Vol"
+    ],
+    "weight": 52.6
+}

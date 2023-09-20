@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Su medio es el desierto. Para esconderse, levanta\narena con las patas. Tiene los ojos protegidos con\nmallas rojas.",
+        "Se le conoce como el Alma del Desierto. Levanta\ntormentas de arena al batir sus alas y se refugia en\nsu interior.",
+        "A Flygon se le conoce como el Espíritu del Desierto. Al volar,\ncomo levanta una nube de arena al batir las alas, está siempre\nenvuelto en una tormenta de arena.",
+        "Flygon puede provocar una tormenta de arena batiendo las\nalas. Estas, al ser agitadas, crean una melodía. Y, como las\n“melodías” pueden oírse cuando hay tormenta, dicen que es\nel espíritu del desierto.",
+        "Al batir las alas, crea una melodía que atrae a\nsus presas. Cuando estas se acercan, quedan\natrapadas en una tormenta de arena.",
+        "Al batir las alas, provoca tormentas de arena\nque lo ocultan por completo, por lo que rara vez\nse ha visto a este Pokémon.",
+        "Al batir las alas levanta tormentas de arena en\nlas que se esconden los Krookodile, para luego\ncompartir las presas que cacen entre ambos.",
+        "Muchas personas se han perdido en el desierto\ntras quedar cautivadas por el sonido que emite\nal batir las alas, semejante a una bella melodía.",
+        "Al batir las alas, provoca tormentas de arena que\nlo ocultan por completo, por lo que rara vez se\nha visto a este Pokémon.",
+        "El batir de sus alas suena como un bello canto de\nmujer. Se lo conoce como el Alma del Desierto."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "name": "Flygon",
+    "types": [
+        "Tierra",
+        "Dragón"
+    ],
+    "weight": 82.0
+}

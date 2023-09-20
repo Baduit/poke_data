@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Papilord",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 23.3
+}

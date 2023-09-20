@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 5,
+    "height": 0.7,
+    "name": "Farfaduvet",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 6.6
+}

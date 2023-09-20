@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "甲壳里储存着树果。\n为了避免受到袭击，\n它会一动不动地躲在岩石下面。",
+        "储存在壶形甲壳里的\n树果会在不知不觉间\n变成黏糊糊的果汁。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "name": "壶壶",
+    "types": [
+        "虫",
+        "岩石"
+    ],
+    "weight": 20.5
+}

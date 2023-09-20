@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Swadloon",
+    "types": [
+        "Bicho",
+        "Planta"
+    ],
+    "weight": 7.3
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Trae energia dalla luce delle stelle. Ne traccia la\nposizione facendo levitare le pietre con i poteri\npsichici.",
+        "Si racconta che nelle notti stellate, per giocare con\ni bambini addormentati, si diverta a muoverli come\npupazzi.",
+        "Trae energia dalla luce delle stelle. Ne traccia la posizione\nfacendo levitare le pietre con i poteri psichici.",
+        "Si racconta che nelle notti stellate, per giocare con i bambini\naddormentati, si diverta a muoverli come pupazzi.",
+        "Si dice che nelle notti stellate porti via con sé\ni bambini addormentati. Per questo è chiamato\nanche “strega del castigo”.",
+        "Si dice che accumuli energia psichica soprattutto\nnelle notti stellate, ma la sua connessione con\nl’universo rimane un mistero."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "name": "Gothorita",
+    "types": [
+        "Psico"
+    ],
+    "weight": 18.0
+}

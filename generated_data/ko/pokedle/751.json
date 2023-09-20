@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 7,
+    "height": 0.3,
+    "name": "물거미",
+    "types": [
+        "물",
+        "벌레"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il suo fiato è a -50 °C. Fa nevicare tutto intorno,\nformando dei cristalli di neve.",
+        "Pokémon nato da una stalattite che ha ricevuto\nl’energia del sole mattutino. Dorme sepolto sotto\nla neve.",
+        "Il suo fiato è a -50 °C. Fa nevicare tutto intorno, formando\ndei cristalli di neve.",
+        "Pokémon nato da una stalattite che ha ricevuto l’energia del\nsole mattutino. Dorme sepolto sotto la neve.",
+        "Pokémon nato da una stalattite di ghiaccio.\nCon il suo fiato gelido forma dei cristalli\ndi neve e fa nevicare.",
+        "Abbracciarlo dà una piacevole sensazione\ndi freschezza. Per chi vive in regioni calde, è\ndecisamente un Pokémon da tenere in casa.",
+        "Il suo fiato ha una temperatura di -50 °C.\nQuando si trova in un luogo caldo, il volume\ndel suo corpo si riduce a poco a poco.",
+        "È nato dal desiderio di una stalattite che non\nvoleva sciogliersi ai raggi del sole mattutino.\nLa notte dorme immerso nella neve.",
+        "Non può vivere nei luoghi caldi. Fa nevicare\nesalando un alito gelido e poi si addormenta\nimmerso nella neve che si è accumulata.",
+        "Si dice che sia nato da una stalattite di ghiaccio.\nPer crearsi un habitat adatto, congela l’ambiente\nintorno con il suo fiato a -50 ºC."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "name": "Vanillite",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 5.7
+}

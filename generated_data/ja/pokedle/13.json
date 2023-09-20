@@ -1,0 +1,11 @@
+{
+    "color": "茶色",
+    "generation": 1,
+    "height": 0.3,
+    "name": "ビードル",
+    "types": [
+        "むし",
+        "どく"
+    ],
+    "weight": 3.2
+}

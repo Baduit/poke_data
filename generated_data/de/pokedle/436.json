@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Bronzel",
+    "types": [
+        "Stahl",
+        "Psycho"
+    ],
+    "weight": 60.5
+}

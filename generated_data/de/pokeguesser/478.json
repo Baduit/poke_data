@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Sein eisiger Atem mit -50 °C friert Gegner ein.\nWas aussieht wie sein Körper, ist tatsächlich hohl.",
+        "In schneereichen Gegenden erzählt man sich, es sei\ndie Wiedergeburt einer in den Bergen Verunglückten.",
+        "Sein eisiger Atem mit -50 °C friert Gegner ein. Was aussieht\nwie sein Körper, ist tatsächlich hohl.",
+        "In schneereichen Gegenden erzählt man sich, es sei\ndie Wiedergeburt einer in den Bergen Verunglückten.",
+        "Menschen und Pokémon, die ihm gefallen,\nfriert es mit eisiger Luft ein. Dann nimmt es\nsie mit in seinen Bau und stellt sie dort aus.",
+        "Man sagt, die Seele einer in den Bergen\nverunglückten Frau sei in einen Eiszapfen\ngefahren. Es frisst am liebsten Männerseelen.",
+        "Wanderer, die durch verschneite Berge stapfen,\nfriert es ein und nimmt sie mit in seinen Bau.\nAllerdings nur jene, die es als schön erachtet.",
+        "Es heißt, dass es am Abend eines Schneesturms\nMenschensiedlungen heimsuche. Wenn es an der\nTür klopft, sollte man sie besser nicht öffnen.",
+        "Es ist aus dem Gram einer Frau entstanden, die\nauf schneebedeckten Bergen umgekommen ist.\nAm liebsten isst es gefrorene Seelen.",
+        "Es friert seine Beute mit -50 ºC kalter Luft ein,\nnimmt sie dann in seinen Unterschlupf mit und\nreiht sie dort fein säuberlich auf."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "name": "Frosdedje",
+    "types": [
+        "Eis",
+        "Geist"
+    ],
+    "weight": 26.6
+}

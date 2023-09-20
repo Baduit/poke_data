@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Das lange Fell um sein Gesicht fungiert als\nHightech-Radar, mit dem es fein säuberlich\nseine Umgebung abtastet.",
+        "Ein tapferes Pokémon, das jedoch klug genug ist,\nseinen Gegner zu mustern, bevor es sich auf einen\nKampf einlässt.",
+        "Das lange Fell um sein Gesicht fungiert als Hightech-Radar,\nmit dem es fein säuberlich seine Umgebung abtastet.",
+        "Ein tapferes Pokémon, das jedoch klug genug ist, seinen\nGegner zu mustern, bevor es sich auf einen Kampf einlässt.",
+        "Es jault nicht, weswegen es bei Trainern, die in\nApartmenthäusern wohnen, sehr beliebt ist.",
+        "Das Fell auf seinem Gesicht fungiert als Radar,\nmit dem es Gegner aufspürt.",
+        "Ein Pokémon mit ausgeprägtem Urteilsvermögen.\nBefindet es seinen Gegner für zu stark, zieht es\nden Schwanz ein und sucht sofort das Weite.",
+        "Dieses pfiffige Pokémon ist besonders bei\nAnfängern beliebt, da es den Befehlen seines\nTrainers brav folgt und leicht zu trainieren ist.",
+        "Es ist zwar tapfer, aber auch vorsichtig. Mit dem\nweichen Fell, das sein Gesicht bedeckt, nimmt\nYorkleff Informationen über seine Umgebung auf.",
+        "Yorkleff ist deutlich intelligenter als die meisten\nKinder und vergisst nie, wenn man ihm Zuneigung\nentgegenbringt oder es schlecht behandelt."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+    "name": "Yorkleff",
+    "types": [
+        "Normal"
+    ],
+    "weight": 4.1
+}

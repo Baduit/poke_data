@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "原本栖息在臭氧层，\n身体的外壳变重后，\n就会向着地面落下。",
+        "如果受到强烈的冲击，外壳就会剥落。\n纳米粒子突变诞生而成的宝可梦。",
+        "栖息在臭氧层，成为了\n更强大的宝可梦的食物。\n会在逃跑的过程中掉落到地上。",
+        "外壳非常坚固，但落到地上的\n冲击会让它碎成细屑。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "name": "小陨星",
+    "types": [
+        "岩石",
+        "飞行"
+    ],
+    "weight": 40.0
+}

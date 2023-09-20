@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "会偷偷在看中的猎物身上\n留下标记，追踪目标的气味，\n在对方放松警戒时偷盗。",
+        "靠着轻盈的身体和锐利的\n爪子到处去偷食物和蛋。\n逐电犬是它的天敌。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "name": "猾大狐",
+    "types": [
+        "恶"
+    ],
+    "weight": 19.9
+}

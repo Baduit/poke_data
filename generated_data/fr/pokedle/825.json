@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 8,
+    "height": 0.4,
+    "name": "Coléodôme",
+    "types": [
+        "Insecte",
+        "Psy"
+    ],
+    "weight": 19.5
+}

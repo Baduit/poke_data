@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "遇到敌人时会从脚\n伸出有着百万伏特\n威力的爪子来迎战。",
+        "当把尾巴和伙伴连接在一起时，\n可以分享到对方的电能，\n从而释放出更加强力的电击。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "name": "勒克猫",
+    "types": [
+        "电"
+    ],
+    "weight": 30.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Rowlet",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 1.5
+}

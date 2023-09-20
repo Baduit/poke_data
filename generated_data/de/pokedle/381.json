@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 2.0,
+    "name": "Latios",
+    "types": [
+        "Drache",
+        "Psycho"
+    ],
+    "weight": 60.0
+}

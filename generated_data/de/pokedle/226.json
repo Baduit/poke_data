@@ -1,0 +1,11 @@
+{
+    "color": "Violett",
+    "generation": 2,
+    "height": 2.1,
+    "name": "Mantax",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 220.0
+}

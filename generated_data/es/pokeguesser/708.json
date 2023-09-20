@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Pokémon que nace cuando un espíritu se adentra en\nun tocón podrido. Habita en bosques que son poco\nfrecuentados por humanos.",
+        "Según una leyenda, son en realidad almas de niños\nque pasaron a mejor vida tras perderse en el bosque\ny se convirtieron en Pokémon al habitar un tocón.",
+        "Pokémon que nace cuando un espíritu se adentra en un tocón\npodrido. Habita en bosques que son poco frecuentados por\nhumanos.",
+        "Según una leyenda, son en realidad almas de niños que\npasaron a mejor vida tras perderse en el bosque y se\nconvirtieron en Pokémon al habitar un tocón.",
+        "Nace cuando el alma de un niño perdido habita\nun tocón. Su grito se asemeja a un escalofriante\nchillido.",
+        "Se cree que con las hojillas verdes que le\ncrecen se puede preparar una infusión capaz\nde curar cualquier enfermedad.",
+        "Imita la voz de un niño con la intención de que\nalgún humano se adentre y se pierda en lo más\nprofundo del bosque y puedan hacerse amigos.",
+        "Nació cuando un espíritu desconocido se alojó\nen el interior de un tocón. Una infusión con sus\nhojas verdes puede curar toda afección.",
+        "Se dice que en realidad son almas de niños que\npasaron a mejor vida tras perderse en el bosque\ny se convirtieron en Pokémon al habitar un tocón.",
+        "Imita el llanto de un niño con la intención de\nque algún adulto se adentre y se pierda en lo\nmás profundo del bosque."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "name": "Phantump",
+    "types": [
+        "Fantasma",
+        "Planta"
+    ],
+    "weight": 7.0
+}

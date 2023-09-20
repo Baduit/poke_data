@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Es ist von Natur aus sehr mutig und fordert daher\njeden noch so starken Feind heraus. Selbst wenn\nes den Kürzeren zieht, dient dies seinem Training.",
+        "Mit seinem kleinen Körper kann es flink fliegen\nund so mithilfe von trickreichen Taktiken größere\nGegner überlisten."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+    "name": "Meikro",
+    "types": [
+        "Flug"
+    ],
+    "weight": 1.8
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es verbrennt Haare, die es bei der Körperpflege\nverschluckt hat, indem es Feuer speit. Die\nFlammen variieren je nach Art des Speiens.",
+        "Es zeigt nie seine Gefühle und ist am liebsten\nallein. Sein Zutrauen zu gewinnen, kann einige\nZeit in Anspruch nehmen.",
+        "Gegenüber Menschen, die zu aufdringlich sind,\nverschließt es sich. Übermäßiger Körperkontakt\nist für Flamiau selbst bei guten Freunden tabu.",
+        "Es erneuert sein Fell zweimal pro Jahr. Wenn es\nmal wieder soweit ist, steckt es seinen Körper\nin Brand, um sein altes Haarkleid loszuwerden.",
+        "Jede freie Minute verbringt es mit der Fellpflege.\nDie Haare, die sich dadurch im Bauch anhäufen,\nentzündet es, um Feuer-Attacken einzusetzen.",
+        "Personen, denen es nicht vertraut, sollten sich\ndavor hüten, es zu streicheln. Mit seinen scharfen\nKrallen verteilt es nämlich üble Kratzwunden."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+    "name": "Flamiau",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 4.3
+}

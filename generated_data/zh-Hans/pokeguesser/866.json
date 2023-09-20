@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "踢踏舞的达人。\n会挥动手中的冰杖，\n向观众表演轻快的舞步。",
+        "幽默的动作使它获得了\n众人的喜爱。能从腹部的\n图案释放出精神力量。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "name": "踏冰人偶",
+    "types": [
+        "冰",
+        "超能力"
+    ],
+    "weight": 58.2
+}

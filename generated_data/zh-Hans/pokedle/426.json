@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 4,
+    "height": 1.2,
+    "name": "随风球",
+    "types": [
+        "幽灵",
+        "飞行"
+    ],
+    "weight": 15.0
+}

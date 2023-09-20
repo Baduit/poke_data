@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 7,
+    "height": 1.8,
+    "name": "Araquanid",
+    "types": [
+        "Water",
+        "Bug"
+    ],
+    "weight": 82.0
+}

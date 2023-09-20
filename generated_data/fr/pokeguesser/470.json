@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il utilise la photosynthèse comme\nune plante et a aussi tendance à\néviter le combat à tout prix.",
+        "Il utilise la photosynthèse comme\nune plante et a aussi tendance à\néviter le combat à tout prix.",
+        "Un Phyllali qui dort par beau temps produit un air frais\net pur par photosynthèse.",
+        "Il utilise la photosynthèse comme une plante.\nC’est pourquoi il est toujours entouré d’air pur.",
+        "Un Phyllali qui dort par beau temps produit un air frais et pur\npar photosynthèse.",
+        "Il utilise la photosynthèse comme une plante. C’est pourquoi\nil est toujours entouré d’air pur.",
+        "Sa structure cellulaire est plus proche de celle\ndes végétaux que de celle des animaux.\nIl produit de l’énergie par photosynthèse.",
+        "Les jeunes Phyllali sentent l’herbe fraîche.\nAvec l’âge, ce parfum se mue en une odeur\nde feuilles mortes.",
+        "Il n’aime pas le conflit, mais s’il doit protéger\nses amis, il peut raidir sa queue en forme de\nfeuille et la rendre aussi tranchante qu’une lame.",
+        "Il vit dans le calme des forêts profondes\ntraversées par de jolis ruisseaux, où il se\nnourrit de lumière et d’eau fraîche.",
+        "Les habitants de Galar adorent l’odeur unique\nqui se dégage de ses feuilles, aussi entrent-elles\ndans la composition d’un parfum très populaire.",
+        "Grâce à sa queue aussi effilée qu’une lame, il est\ncapable de fendre en deux des arbres immenses."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "name": "Phyllali",
+    "types": [
+        "Plante"
+    ],
+    "weight": 25.5
+}

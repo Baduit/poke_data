@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es hat extrem starke Muskeln und kann durch den\nOzean schwimmen, ohne sich ausruhen zu müssen.",
+        "Dieses Pokémon ist ein meisterhafter Schwimmer.\nSeine Techniken schlagen selbst Olympiasieger.",
+        "Quappo besitzt hochentwickelte, starke Muskeln, die niemals\nermüden, egal, wie sehr es sie auch beansprucht. Es ist so\nkräftig, dass es mühelos große Ozeane durchschwimmen kann.",
+        "Quappo besitzt hochentwickelte, starke Muskeln,\ndie niemals ermüden. Es ist so kräftig, dass es\nmühelos große Ozeane durchschwimmen kann.",
+        "Quappo, die aus Alola stammen, sind besonders\ngut im Brustschwimmen. Viele Kinder lernen\nSchwimmen, indem sie Quappo nachahmen.",
+        "Sein Körperfettanteil geht gegen null. Es ist sehr\nschwer, besteht aber fast nur aus Muskeln. So\nkonnte es seine Schwimmfähigkeiten ausbauen.",
+        "Selbst unter den Wasser-Pokémon gilt es als\nhervorragender Schwimmer. Dennoch hält es\nsich vorwiegend an Land auf.",
+        "Dank seines Schwimmtrainings ist es ein wahres\nMuskelpaket. Ein Faustschlag reicht ihm aus, um\nselbst riesige Felsen zu zertrümmern.",
+        "Seine beherzte Schwimmtechnik erfordert\nvollen Körpereinsatz und ermöglicht es ihm,\nselbst Weltmeister zu schlagen.",
+        "Seine beherzte Schwimmtechnik erfordert\nvollen Körpereinsatz und ermöglicht es ihm,\nselbst Weltmeister zu schlagen.",
+        "Sein ganzer Körper besteht fast nur aus Muskeln.\nIn kalten Meeren zerschlägt es mit seinen starken\nArmen Treibeis, um voranzukommen.",
+        "Es ist sowohl ein begnadeter Schwimmer als auch\nKampfsportler. Mit seinen durchtrainierten Armen\nteilt es kräftige Schläge aus."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "name": "Quappo",
+    "types": [
+        "Wasser",
+        "Kampf"
+    ],
+    "weight": 54.0
+}

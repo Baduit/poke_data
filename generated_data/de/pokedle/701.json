@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 6,
+    "height": 0.8,
+    "name": "Resladero",
+    "types": [
+        "Kampf",
+        "Flug"
+    ],
+    "weight": 21.5
+}

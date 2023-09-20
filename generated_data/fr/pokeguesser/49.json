@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il répand ses écailles poudreuses\nen battant des ailes. Elles sont\ntoxiques au toucher.",
+        "Il répand ses écailles poudreuses\nen battant des ailes. Elles sont\ntoxiques au toucher.",
+        "Les écailles qu’il sème ont le pouvoir de paralyser\ntotalement un ennemi.",
+        "Ses ailes sont couvertes d’écailles poudreuses.\nÀ chaque battement d’ailes, il laisse tomber de\nla poudre hautement toxique.",
+        "Aéromite est un Pokémon nocturne, il ne sort donc que\nla nuit. Ses proies préférées sont les petits insectes qui\nse rassemblent autour des réverbères, attirés par la lumière.",
+        "Aéromite est un Pokémon nocturne, il ne sort donc que\nla nuit. Ses proies préférées sont les petits insectes qui\nse rassemblent autour des réverbères, attirés par la lumière.",
+        "Les écailles de ses ailes sont presque impossibles\nà retirer lorsqu’elles se collent à la peau,\net elles libèrent un poison violent au contact.",
+        "Les écailles de ses ailes sont presque impossibles\nà retirer lorsqu’elles se collent à la peau,\net elles libèrent un poison violent au contact."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "name": "Aéromite",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 12.5
+}

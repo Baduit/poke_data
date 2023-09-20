@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ある朝　突然　降ってくる。\nオニスズメに　襲われると　葉っぱを\n激しく　振って　追い払う。",
+        "葉っぱの　裏側に　たまった\n朝露だけを　飲んで　暮らす。\n他には　なにも　食べないという。",
+        "体に　ためた　栄養は　進化の　ときまで\n取っておくため　ほとんど　動こうとしない。\nなにも　食べずに　朝露　だけを　飲んでいる。",
+        "体に　ためた　栄養は　進化の　ときまで\n取っておくため　ほとんど　動こうとしない。\nなにも　食べずに　朝露　だけを　飲んでいる。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "name": "ヒマナッツ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 1.8
+}

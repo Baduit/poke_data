@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Mit seinen Ruten und den Fühlern an seinem Kopf\ntastet es die Umgebung ab. Ein überaus aggressiver\nGeselle.",
+        "Es beißt Angreifer und injiziert ihnen Gift, das selbst\ngroße Vogel-Pokémon, seine natürlichen Feinde,\nlähmt.",
+        "Mit seinen Ruten und den Fühlern an seinem Kopf tastet es\ndie Umgebung ab. Ein überaus aggressiver Geselle.",
+        "Es beißt Angreifer und injiziert ihnen Gift, das selbst große\nVogel-Pokémon, seine natürlichen Feinde, lähmt.",
+        "Es ist zwar artverwandt mit Thermopod, aber\njedes Mal, wenn sich die beiden über den Weg\nkrabbeln, streiten sie erbittert miteinander.",
+        "In den Fangzähnen speichert es höchst potentes\nGift. Wenn Toxiped potenzielle Beute erspäht,\nstürzt es sich vollkommen unüberlegt auf diese."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "name": "Toxiped",
+    "types": [
+        "Käfer",
+        "Gift"
+    ],
+    "weight": 5.3
+}

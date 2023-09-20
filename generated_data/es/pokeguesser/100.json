@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Fue descubierto cuando se crearon las Poké Balls.\nSe dice que tiene algo que ver con ellas.",
+        "Suele vivir en centrales de energía. Mucha gente\nacaba muy mal al confundirlo con una Poké Ball.",
+        "Voltorb fue visto por primera vez en una empresa encargada\nde comercializar Poké Balls. La conexión que existe entre\naquella primera vez que se le vio y el hecho de que se parece\nmucho a una Poké Ball sigue siendo un misterio.",
+        "Voltorb es tremendamente sensible y a la más mínima\nsacudida explota. Cuentan que se creó cuando alguien\nexpuso una Poké Ball a una gran descarga eléctrica.",
+        "Se dice que se camufla como una Poké Ball.\nAl más mínimo estímulo se autodestruirá.",
+        "Se dice que se camufla como una Poké Ball.\nAl más mínimo estímulo se autodestruirá."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "name": "Voltorb",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 10.4
+}

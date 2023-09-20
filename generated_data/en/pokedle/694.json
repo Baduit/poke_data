@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 6,
+    "height": 0.5,
+    "name": "Helioptile",
+    "types": [
+        "Electric",
+        "Normal"
+    ],
+    "weight": 6.0
+}

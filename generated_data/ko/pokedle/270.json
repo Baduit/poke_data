@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 3,
+    "height": 0.5,
+    "name": "연꽃몬",
+    "types": [
+        "물",
+        "풀"
+    ],
+    "weight": 2.6
+}

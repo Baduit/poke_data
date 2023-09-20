@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "It tends to bite everything, and it\nis not a picky eater. Approaching it\ncarelessly is dangerous.",
+        "They cannot see, so they tackle and bite\nto learn about their surroundings.\nTheir bodies are covered in wounds.",
+        "Lacking sight, it’s unaware of its\nsurroundings, so it bumps into things\nand eats anything that moves.",
+        "Lacking sight, it’s unaware of its\nsurroundings, so it bumps into things\nand eats anything that moves.",
+        "They cannot see, so they tackle and bite to learn\nabout their surroundings. Their bodies are covered\nin wounds.",
+        "Lacking sight, it’s unaware of its surroundings,\nso it bumps into things and eats anything\nthat moves.",
+        "They cannot see, so they tackle and bite to learn\nabout their surroundings. Their bodies are covered\nin wounds.",
+        "Lacking sight, it’s unaware of its surroundings,\nso it bumps into things and eats anything\nthat moves.",
+        "When it encounters something, its first urge is\nusually to bite it. If it likes what it tastes, it will\ncommit the associated scent to memory.",
+        "Because it can’t see, this Pokémon is constantly\nbiting at everything it touches, trying to keep\ntrack of its surroundings."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "name": "Deino",
+    "types": [
+        "Dark",
+        "Dragon"
+    ],
+    "weight": 17.3
+}

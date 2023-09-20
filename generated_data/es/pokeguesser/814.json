@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Su suave pelaje lo protege del frío y le permite\nincrementar todavía más la temperatura de sus\nmovimientos de tipo Fuego.",
+        "Para mejorar su habilidad con los pies, toma\nbayas de las ramas de los árboles sin usar las\nmanos y juega a darles toques."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "name": "Raboot",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 9.0
+}

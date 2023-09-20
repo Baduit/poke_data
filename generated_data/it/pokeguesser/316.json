@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Ha cuore e cervello mini: lo stomaco prende troppo\nspazio! Con i succhi gastrici scioglie qualunque cosa.",
+        "Non c’è nulla che il suo stomaco non possa digerire.\nDurante la digestione espelle gas insopportabilmente\nfetidi.",
+        "Praticamente l’intero corpo di Gulpin è costituito\ndallo stomaco, che gli consente di ingoiare oggetti delle\nsue stesse dimensioni. Inoltre, il suo stomaco contiene\nun fluido speciale in grado di fargli digerire ogni cosa.",
+        "La maggior parte del corpo di Gulpin è formato dallo stomaco\ndi dimensioni enormi rispetto al cuore e al cervello.\nLo stomaco di questo Pokémon contiene enzimi speciali che\nsciolgono qualsiasi cosa."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "name": "Gulpin",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 10.3
+}

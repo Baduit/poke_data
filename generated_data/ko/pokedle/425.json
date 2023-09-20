@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 4,
+    "height": 0.4,
+    "name": "흔들풍손",
+    "types": [
+        "고스트",
+        "비행"
+    ],
+    "weight": 1.2
+}

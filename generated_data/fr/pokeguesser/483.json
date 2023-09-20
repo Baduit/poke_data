@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "On dit que le temps s’écoule au\nrythme des battements de cœur de\nce Pokémon légendaire de Sinnoh.",
+        "On dit que le temps s’écoule au\nrythme des battements de cœur de\nce Pokémon légendaire de Sinnoh.",
+        "Les mythes parlent de ce Pokémon. On dit que le\ntemps s’est mis en mouvement à sa naissance.",
+        "Il peut contrôler le temps. Les mythes de Sinnoh en\nparlent comme d’une divinité ancienne.",
+        "Les mythes parlent de ce Pokémon. On dit que le temps\ns’est mis en mouvement à sa naissance.",
+        "Il peut contrôler le temps. Les mythes de Sinnoh en parlent\ncomme d’une divinité ancienne."
+    ],
+    "height": 5.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "name": "Dialga",
+    "types": [
+        "Acier",
+        "Dragon"
+    ],
+    "weight": 683.0
+}

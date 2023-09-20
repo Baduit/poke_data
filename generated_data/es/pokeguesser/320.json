@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Le gusta botar como una pelota de playa. Cuanta más\nagua de mar traga, más alto puede llegar.",
+        "Engulle una tonelada de comida al día. Le gusta\njugar expulsando con energía el agua marina por\nsus espiráculos.",
+        "Wailmer tiene los espiráculos encima de la cabeza. A este\njuguetón Pokémon le encanta asustar a la gente expulsando\nel agua que acumula a través de estos orificios.",
+        "Wailmer puede almacenar agua dentro de su organismo para\nconvertirse en una pelota y botar por tierra firme. Cuanta más\nagua trague, mayor altura alcanzará al saltar.",
+        "A este Pokémon le gusta dar sustos a la gente.\nSe divierte tragando mucha agua de mar para\nhincharse como una bola y dar grandes saltos.",
+        "Wailmer se come una tonelada de Wishiwashi\ncada día. Le gusta llamar la atención expulsando\nchorros de agua marina por su espiráculo.",
+        "Nada con la boca abierta para engullir alimento\ny cantidades ingentes de agua de mar, cuyo\nexceso expulsa luego por el espiráculo.",
+        "En raras ocasiones, bancos enteros quedan\nvarados en la playa, tal vez debido a que en un\npasado vivía en tierra firme.",
+        "Wailmer se come una tonelada de Wishiwashi\ncada día. Le gusta llamar la atención expulsando\nchorros de agua marina por su espiráculo.",
+        "Cuando traga una gran cantidad de agua marina,\nse hincha hasta parecer una pelota. Necesita una\ntonelada de alimento al día."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "name": "Wailmer",
+    "types": [
+        "Agua"
+    ],
+    "weight": 130.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ses vrilles en acier peuvent transpercer\ndes poutres en fer. Il est très employé\ndans la construction de tunnels.",
+        "Il se creuse des terriers labyrinthiques\nà 100 m sous terre. Il lui arrive de\npercer les galeries du métro.",
+        "Ses vrilles en acier peuvent transpercer des poutres\nen fer. Il est très employé dans la construction de\ntunnels.",
+        "Il se creuse des terriers labyrinthiques à 100 m sous\nterre. Il lui arrive de percer les galeries du métro.",
+        "Ses vrilles en acier peuvent transpercer des poutres en fer.\nIl est très employé dans la construction de tunnels.",
+        "Il se creuse des terriers labyrinthiques à 100 m sous terre.\nIl lui arrive de percer les galeries du métro.",
+        "On confond souvent les cavernes creusées\npar les Minotaupe avec des grottes naturelles.",
+        "On l’appelle le « roi de la vrille ». Il creuse la terre\nà une vitesse pouvant atteindre 150 km/h."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "name": "Minotaupe",
+    "types": [
+        "Sol",
+        "Acier"
+    ],
+    "weight": 40.4
+}

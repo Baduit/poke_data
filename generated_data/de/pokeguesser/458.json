@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ihre Rücken sind je nach Region unterschiedlich\ngemustert. Oft mischen sie sich unter\nRemoraid-Schwärme.",
+        "Da es nah an der Meeresoberfläche schwimmt, kann\nman sein Rückenmuster von Schiffen aus erspähen.",
+        "Ihre Rücken sind je nach Region unterschiedlich gemustert.\nOft mischen sie sich unter Remoraid-Schwärme.",
+        "Da es nah an der Meeresoberfläche schwimmt, kann man\nsein Rückenmuster von Schiffen aus erspähen.",
+        "Ein sehr zahmes, zutrauliches Pokémon. Touren,\nbei denen man Mantirps begegnen kann, sind\neine beliebte Freizeitaktivität an Küstenorten.",
+        "Es ist so zutraulich, dass es sich sogar Schiffen\nvoller Menschen nähert. Die Rückenmuster von\nMantirps sind in jeder Region unterschiedlich.",
+        "Vielleicht liegt es an der niedrigen Temperatur\ndes Meeres, aber die Mantirps der Galar-Region\nbewegen sich etwas schwerfälliger als andere.",
+        "Es mischt sich unter Remoraid-Schwärme und\nschwimmt mit ihnen. Werden diese angegriffen,\nkämpft es gemeinsam an ihrer Seite."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "name": "Mantirps",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 65.0
+}

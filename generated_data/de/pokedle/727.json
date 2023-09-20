@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 7,
+    "height": 1.8,
+    "name": "Fuegro",
+    "types": [
+        "Feuer",
+        "Unlicht"
+    ],
+    "weight": 83.0
+}

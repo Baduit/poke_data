@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "用零下１００度的冷气\n冻住空气中的水分，\n用冰之装甲保护自身。",
+        "栖息在极其寒冷的地域。\n会把自己的脚冻在\n冰岩怪的背上固定起来。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+    "name": "冰宝",
+    "types": [
+        "冰"
+    ],
+    "weight": 99.5
+}

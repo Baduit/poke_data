@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 8,
+    "height": 0.5,
+    "name": "드라꼰",
+    "types": [
+        "드래곤",
+        "고스트"
+    ],
+    "weight": 2.0
+}

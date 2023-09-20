@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Emana dal corpo un profumino delizioso, che\nper sua sfortuna spinge i Toucannon a\ninghiottirlo in un solo boccone.",
+        "Il suo sudore è eccessivamente dolce, ma se\nviene diluito con la quantità giusta d’acqua\ndiventa una bevanda gradevolmente zuccherata.",
+        "A causa del suo profumino delizioso, Bounsweet\nè preda di molti Pokémon alati, ma non essendo\nmolto perspicace non se ne preoccupa granché.",
+        "Quando un Pokémon alato sta per inghiottirlo,\nBounsweet cerca di resistere ruotando le foglie\nche ha sul capo, con scarsi risultati.",
+        "Il dolce profumo fruttato che sprigiona il suo\ncorpo stimola notevolmente l’appetito dei\nPokémon alati.",
+        "Quando viene attaccato produce un sudore\ndolce e delizioso, il cui profumo attira ulteriori\nnemici."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+    "name": "Bounsweet",
+    "types": [
+        "Erba"
+    ],
+    "weight": 3.2
+}

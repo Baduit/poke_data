@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Schwärme von Kanivanha haben in Dschungelflüssen\nschon so manches Boot zerbissen und versenkt.",
+        "Es lebt in reißenden Flüssen, die sich ihren Weg\ndurch den Dschungel bahnen. Es fängt Beute,\ndie sich in sein Gebiet wagt.",
+        "Kanivanhas starke Kiefer und seine spitzen Zähne verfügen\nüber die zerstörerische Kraft, Bootsrümpfe verschlingen zu\nkönnen. Dieses Pokémon hat schon viele Boote versenkt.",
+        "Wenn jemand Kanivanhas Revier betritt, schwärmt es aus und\nschnappt mit seinen spitzen Zähnen nach dem Eindringling.\nWenn es allein ist, ist dieses Pokémon sehr scheu.",
+        "Schwärme von Kanivanha schützen ihr Revier,\nindem sie sich mit gefletschten Zähnen\ngnadenlos auf Eindringlinge stürzen.",
+        "Wittert es auch nur einen Hauch von Blut,\ngreift es im Schwarm seine Beute an.\nAlleine ist es hingegen ziemlich furchtsam.",
+        "Dieses ängstliche Pokémon jagt nicht, wenn es\nallein ist. Aber sobald sich fünf von ihnen\nversammeln, geraten sie in Rage.",
+        "Mit seinem robusten Kiefer und starken Zähnen\nzerbeißt es mühelos Holzboote. Es streitet mit\nBarschuft um Futter.",
+        "Kanivanha jagt Beute nicht im Alleingang,\nsondern wartet auf seine Artgenossen, um mit\nihnen im Schwarm anzugreifen.",
+        "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "name": "Kanivanha",
+    "types": [
+        "Wasser",
+        "Unlicht"
+    ],
+    "weight": 20.8
+}

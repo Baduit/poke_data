@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "与勾帕路翁和代拉基翁\n并肩保护合众地区宝可梦\n的传说一直流传至今。",
+        "以敏捷的身手像旋风一般将敌人\n玩弄于股掌之中，会用锋利的角\n毫不留情地切斩对手。"
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "name": "毕力吉翁",
+    "types": [
+        "草",
+        "格斗"
+    ],
+    "weight": 200.0
+}

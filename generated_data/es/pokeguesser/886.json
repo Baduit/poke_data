@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Vuela a una velocidad de 200 km/h. Lucha junto\na un Dreepy, al que cuida hasta el momento de\nsu evolución.",
+        "Si no lleva un Dreepy del que cuidar encima de\nla cabeza, se intranquiliza y trata de sustituirlo\ncon otro Pokémon."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "name": "Drakloak",
+    "types": [
+        "Dragón",
+        "Fantasma"
+    ],
+    "weight": 11.0
+}

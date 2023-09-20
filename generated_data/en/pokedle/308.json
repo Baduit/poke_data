@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 3,
+    "height": 1.3,
+    "name": "Medicham",
+    "types": [
+        "Fighting",
+        "Psychic"
+    ],
+    "weight": 31.5
+}

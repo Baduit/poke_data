@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "とても　寒い　場所から　流れ\n流されて　やってきた。　氷で\n顔を　つねに　冷やして　いるのだ。",
+        "暑さに　弱い　顔を　いつも\n氷で　冷やしている。　頭の\n毛を　海に　たらして　餌を釣る。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+    "name": "コオリッポ",
+    "types": [
+        "こおり"
+    ],
+    "weight": 89.0
+}

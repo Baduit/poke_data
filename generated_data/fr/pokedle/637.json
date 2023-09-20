@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 5,
+    "height": 1.6,
+    "name": "Pyrax",
+    "types": [
+        "Insecte",
+        "Feu"
+    ],
+    "weight": 46.0
+}

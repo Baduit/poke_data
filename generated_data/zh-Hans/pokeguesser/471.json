@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "自由地控制体温，\n让大气中的水分冻结，\n卷起冰晶。",
+        "把体毛冻得像锐利的冰柱\n那样尖之后，朝猎物冲撞过去。",
+        "把体毛冻住，\n变成锐利的针来保护身体。\n体温最低可下降到零下６０度。",
+        "能瞬间将周围的水分冻住，\n做成冰粒，朝着猎物发射出去。",
+        "能够降下冰晶。\n被它的美貌迷住的猎物\n会在不知不觉间被冻住。",
+        "冰伊布释放出的冷气能\n制造出粉状的雪。这使它受到\n各个滑雪场的热烈欢迎。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "name": "冰伊布",
+    "types": [
+        "冰"
+    ],
+    "weight": 25.9
+}

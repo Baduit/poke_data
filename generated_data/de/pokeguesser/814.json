@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Sein flauschiges Fell schützt es vor Kälte und\nermöglicht es ihm, noch heißere Feuer-Attacken\nauszuteilen.",
+        "Es pflückt Beeren von Ästen, ohne seine Hände\nzu benutzen, und jongliert sie mit den Füßen.\nDamit trainiert es seine Fußfertigkeiten."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "name": "Kickerlo",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 9.0
+}

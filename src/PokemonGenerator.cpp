@@ -85,6 +85,7 @@ tl::generator<Pokemon> PokemonGenerator::generatePokemon(std::filesystem::path d
 		auto pokemon_specie_info = getPokemonSpeciesInfo(data_location / pokemon_info.specie / "index.json");
 		pokemon.names = std::move(pokemon_specie_info.names);
 		pokemon.descriptions = std::move(pokemon_specie_info.descriptions);
+		pokemon.generation = pokemon_specie_info.generation;
 
 		for (const auto& type_url : pokemon_info.types)
 		{
@@ -93,6 +94,8 @@ tl::generator<Pokemon> PokemonGenerator::generatePokemon(std::filesystem::path d
 				pokemon.types[std::move(language)].push_back(std::move(type));
 			}
 		}
+
+		pokemon.color = getColorInfo(data_location / pokemon_specie_info.color / "index.json");
 		
 		// It could be optimized probably, I'm  bit tired and that's the first idea I got
 		std::erase_if(pokemon.names, [&pokemon](const auto& pair_lang_name){ return !pokemon.descriptions.contains(pair_lang_name.first); });
@@ -103,6 +106,8 @@ tl::generator<Pokemon> PokemonGenerator::generatePokemon(std::filesystem::path d
 
 		std::erase_if(pokemon.types, [&pokemon](const auto& pair_lang_name){ return !pokemon.names.contains(pair_lang_name.first); });
 		std::erase_if(pokemon.types, [&pokemon](const auto& pair_lang_name){ return !pokemon.descriptions.contains(pair_lang_name.first); });
+
+		std::erase_if(pokemon.color, [&pokemon](const auto& pair_lang_name){ return !pokemon.names.contains(pair_lang_name.first); });
 
 		co_yield pokemon;
 	}
@@ -117,7 +122,7 @@ PokemonGenerator::PokemonInfo PokemonGenerator::getPokemonInfo(const std::filesy
 	auto height = data.at("height").get<Decimeter>();
 	auto weight = data.at("weight").get<Hectogram>();
 	auto image_url = data.at("sprites").at("other").at("official-artwork").at("front_default").get<std::string>();
-	auto specie = data.at("species").at("url").get<std::string_view>().substr(1);
+	auto specie = data.at("species").at("url").get<std::string_view>().substr(1); // Remove first /
 
 	auto types_generator =
 		[](auto data_types) -> tl::generator<std::filesystem::path>
@@ -162,11 +167,19 @@ PokemonGenerator::PokemonSpecieInfo PokemonGenerator::getPokemonSpeciesInfo(cons
 		auto description = description_object.at("flavor_text").get<std::string>();
 		descriptions[std::move(language)].push_back(std::move(description));
 	}
+
+	std::string_view generation = data.at("generation").at("url").get<std::string_view>();
+	generation = generation.substr(0, generation.length() -1); // Remove last /
+	generation = generation.substr(generation.find_last_of('/') + 1);
+
+	std::filesystem::path color_url = data.at("color").at("url").get<std::string_view>().substr(1);
 	
 	return
 		PokemonSpecieInfo{
 			.names = std::move(names),
-			.descriptions = std::move(descriptions)
+			.descriptions = std::move(descriptions),
+			.generation = to_int(generation).value(),
+			.color = color_url
 		};
 }
 
@@ -187,6 +200,23 @@ tl::generator<PokemonGenerator::TypeInfo> PokemonGenerator::getTypeInfo(std::fil
 			};
 		co_yield type_info;
 	}
+}
+
+std::map<Language, Color> PokemonGenerator::getColorInfo(std::filesystem::path color_filename)
+{
+	std::ifstream stream(color_filename);
+	nlohmann::json data = nlohmann::json::parse(stream);
+
+	std::map<Language, Color> color_per_language;
+
+	for (const auto& type_obj: data.at("names"))
+	{
+		auto language = type_obj.at("language").at("name").get<Language>();
+		auto color = type_obj.at("name").get<Color>();
+		color_per_language[language] = color;
+	}
+
+	return color_per_language;
 }
 	
 } // namespace pokemon

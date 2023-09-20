@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在明亮的地方看就會發現\n那對有著雷達作用的大眼睛，\n是由許多小眼睛聚集而成的。",
+        "在明亮的地方看就會發現\n那對有著雷達作用的大眼睛，\n是由許多小眼睛聚集而成的。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "name": "毛球",
+    "types": [
+        "蟲",
+        "毒"
+    ],
+    "weight": 30.0
+}

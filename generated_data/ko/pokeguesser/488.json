@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "비행할 때는 베일 같은\n날개에서 빛나는 입자를 낸다.\n초승달의 화신으로 불리고 있다.",
+        "크레세리아의 날개를 가지고 자면\n즐거운 꿈을 꿀 수 있다고 한다.\n초승달의 화신으로 불리고 있다.",
+        "비행할 때는 베일 같은\n날개에서 빛나는 입자를 낸다.\n초승달의 화신으로 불리고 있다.",
+        "크레세리아의 날개를 가지고 자면\n즐거운 꿈을 꿀 수 있다고 한다.\n초승달의 화신으로 불리고 있다."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "name": "크레세리아",
+    "types": [
+        "에스퍼"
+    ],
+    "weight": 85.6
+}

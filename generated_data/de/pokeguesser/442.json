@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ein Pokémon, das aus 108 Geistern besteht.\nEs ist an einen Spalt in einem mysteriösen Stein\ngebunden.",
+        "Es wurde in einen Spalt eines Steins gebannt,\nals Sühne für Untaten, die es vor 500 Jahren\nbegangen hatte.",
+        "Ein Pokémon, das aus 108 Geistern besteht. Es ist an einen\nSpalt in einem mysteriösen Stein gebunden.",
+        "Es wurde in einen Spalt eines Steins gebannt, als Sühne\nfür Untaten, die es vor 500 Jahren begangen hatte.",
+        "Es besteht aus 108 Geistern. Allerdings scheinen\nsich auch einige bösartige daruntergemischt zu\nhaben.",
+        "Aufgrund seiner ständigen Untaten wurde es von\neinem Reisenden mithilfe mysteriöser Künste an\neinen Spiritkern gebunden."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "name": "Kryppuk",
+    "types": [
+        "Geist",
+        "Unlicht"
+    ],
+    "weight": 108.0
+}

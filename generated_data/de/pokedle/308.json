@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 3,
+    "height": 1.3,
+    "name": "Meditalis",
+    "types": [
+        "Kampf",
+        "Psycho"
+    ],
+    "weight": 31.5
+}

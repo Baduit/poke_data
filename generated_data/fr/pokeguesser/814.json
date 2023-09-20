@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Son pelage épais lui permet de mieux résister\nau froid et d’augmenter la température\nde ses capacités Feu.",
+        "Pour parfaire son jeu de jambes,\nil cueille des Baies puis drible avec,\nle tout sans se servir de ses mains."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "name": "Lapyro",
+    "types": [
+        "Feu"
+    ],
+    "weight": 9.0
+}

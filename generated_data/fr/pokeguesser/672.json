@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Ce Pokémon paisible serait le premier à avoir jamais\ncohabité avec les humains.",
+        "Tant qu’il a de l’eau et du soleil en abondance, ce\nPokémon n’a pas besoin de nourriture. Les feuilles sur\nson dos produisent son énergie par photosynthèse.",
+        "Ce Pokémon paisible serait le premier à avoir jamais cohabité\navec les humains.",
+        "Tant qu’il a de l’eau et du soleil en abondance,\nce Pokémon n’a pas besoin de nourriture. Les feuilles\nsur son dos produisent son énergie par photosynthèse."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+    "name": "Cabriolaine",
+    "types": [
+        "Plante"
+    ],
+    "weight": 31.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Archen",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "weight": 9.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Weiß",
+    "generation": 4,
+    "height": 1.0,
+    "name": "Shnebedeck",
+    "types": [
+        "Pflanze",
+        "Eis"
+    ],
+    "weight": 50.5
+}

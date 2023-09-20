@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Dieser Grobian ergreift andere Pokémon mit seinen\nScheren und wirft sie aus seinem Teich.",
+        "Dieses rauflustige Pokémon nimmt Eindringlinge\nmit seinen Scheren in die Zange und wirft sie aus\nseinem Revier.",
+        "Krebutack ist von Natur aus sehr gewalttätig, sodass es\ndauernd andere Lebewesen zum Kampf herausfordern muss.\nAndere Lebensformen lehnen es ab, mit diesem Pokémon\nin ein und demselben Teich zu leben.",
+        "Krebutack legt seine Schale regelmäßig ab. Direkt danach\nist seine Schale weich und empfindlich. Bis sie gehärtet ist,\nsucht es sich ein Versteck in einem Flussbett, damit es nicht\nvon Gegnern angegriffen wird.",
+        "Es ist ungestüm und liebt Kämpfe, doch sobald\nes seine Scheren verliert, wird es mutlos. Bis sie\nnachgewachsen sind, zittert es vor Angst.",
+        "Es verliert oft seine Scheren. Anders als bei\nKrabbox und Scampisto ist das Innere der\nScheren unappetitlich und stinkt.",
+        "Ein grobes Pokémon, das mit seinen riesigen\nScheren wild um sich schlägt. Man sagt, dass es\nsehr schwer zu trainieren sei.",
+        "Es ist sehr rauflustig. Nähert sich ein Gegner\nseinem Unterschlupf, geht es gnadenlos auf\nihn los."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "name": "Krebutack",
+    "types": [
+        "Wasser",
+        "Unlicht"
+    ],
+    "weight": 32.8
+}

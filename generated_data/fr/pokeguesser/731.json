@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il creuse les arbres à raison de seize coups de\nbec par seconde. Le trou creusé lui sert ensuite\nà stocker des provisions ou à faire son nid.",
+        "Il se nourrit essentiellement de fruits, dont il\nconserve les pépins dans son bec pour en\ncanarder ses ennemis, telle une mitraillette.",
+        "On peut deviner son état d’esprit et de santé\nen étudiant le rythme auquel il tape contre\nles arbres avec son bec dur.",
+        "Son cou fin renferme des muscles étonnamment\npuissants. Il tape contre les arbres à raison\nde seize coups de bec par seconde."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+    "name": "Picassaut",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 1.2
+}

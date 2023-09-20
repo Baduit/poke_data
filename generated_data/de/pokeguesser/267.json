@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Die bunten Flügel sind sein Markenzeichen.\nMit seinem Rüssel saugt es süßen Honig aus Blumen.",
+        "Es besitzt ein aggressives Wesen. Es sticht seinen\nRüssel in seine Beute und saugt sie aus.",
+        "Papinellas Lieblingsspeise ist Blütenstaub. Wenn du dieses\nPokémon beobachten möchtest, musst du bloß einen\nBlumentopf vor ein geöffnetes Fenster stellen. Papinella\nwird sich diese Leckerei nicht entgehen lassen.",
+        "Papinella hat einen langen Rüssel, der hervorragend zum\nSammeln von Blütenpollen geeignet ist. Dieses Pokémon\nflattert im Frühlingswind herum und sammelt Blütenstaub."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "name": "Papinella",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 28.4
+}

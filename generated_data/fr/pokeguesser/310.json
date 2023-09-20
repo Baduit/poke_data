@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il libère l’électricité par sa crinière.\nIl crée un nuage d’orage pour appeler\nla foudre.",
+        "Il libère l’électricité par sa crinière.\nIl crée un nuage d’orage pour appeler\nla foudre.",
+        "Ce Pokémon évite le contact des humains.\nOn raconte qu’il fait son nid là où la foudre est déjà\ntombée.",
+        "Il libère l’électricité par sa crinière. Il crée un nuage\nd’orage pour appeler la foudre.",
+        "La crinière d’Élecsprint libère constamment de l’électricité.\nLes étincelles déclenchent parfois des feux de forêt.\nAu début de ses combats, ce Pokémon crée des nuages\norageux.",
+        "Élecsprint peut libérer un courant intense de sa crinière.\nCette crinière lui permet de récupérer l’électricité de\nl’atmosphère. Ce Pokémon peut créer des nuages orageux\nau-dessus de sa tête.",
+        "Si un nuage orageux un peu louche apparaît\ndans le ciel, un Élecsprint se trouve sûrement\nen dessous. On le dit aussi rapide que l’éclair.",
+        "Il diffuse de l’électricité dans ses membres pour\naugmenter sa vitesse. C’est également ainsi\nqu’il apaise ses douleurs musculaires.",
+        "Il diffuse de l’électricité dans ses membres\npour augmenter sa vitesse. C’est également\nainsi qu’il apaise ses douleurs musculaires.",
+        "Ce Pokémon évite de se montrer aux humains.\nOn raconte qu’il fait son nid aux endroits\noù la foudre s’est abattue."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "name": "Élecsprint",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 40.2
+}

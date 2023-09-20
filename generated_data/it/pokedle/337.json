@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Lunatone",
+    "types": [
+        "Roccia",
+        "Psico"
+    ],
+    "weight": 168.0
+}

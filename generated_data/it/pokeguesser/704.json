@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il suo corpo è coperto da una membrana viscida che fa\nscivolare e devia i colpi dei nemici.",
+        "È il Pokémon Drago più debole di tutti. Vive in ambienti\numidi e in ombra per evitare che il suo corpo si secchi.",
+        "Il suo corpo è coperto da una membrana viscida\nche fa scivolare e devia i colpi dei nemici.",
+        "È il Pokémon Drago più debole di tutti. Vive in ambienti\numidi e in ombra per evitare che il suo corpo si secchi.",
+        "È il Pokémon di tipo Drago più debole di tutti.\nLa sua pelle deve restare umida per poter\nrespirare e per questo si rifugia nell’ombra.",
+        "Il suo corpo è protetto da una membrana viscida\nche pullula di batteri. Meglio lavarsi bene le mani\ndopo averlo toccato!",
+        "I corni con cui sonda l’ambiente circostante sono\ncosì sensibili che, se qualcuno glieli afferra,\nil Pokémon resta pietrificato per lo shock.",
+        "Il suo corpo è formato prevalentemente d’acqua\ne se si disidrata rischia di morire. Per questo\nse ne sta rintanato all’ombra.",
+        "Il suo corpo è composto quasi esclusivamente\ndi acqua. Se si secca, avvizzisce. È il più debole\ndei Pokémon di tipo Drago.",
+        "I suoi corni sono degli straordinari organi\nsensoriali. Riesce a sopravvivere nascondendosi\nnon appena percepisce la presenza del nemico."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "name": "Goomy",
+    "types": [
+        "Drago"
+    ],
+    "weight": 2.8
+}

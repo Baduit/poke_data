@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Verfügt über einen Giftsack an seiner Kehle.\nQuakt es, schäumt das Gift und wird so noch stärker.",
+        "Die Gelenke an seinen Klauen geben ein so starkes\nGift ab, dass selbst ein kleiner Kratzer fatal ist.",
+        "Verfügt über einen Giftsack an seiner Kehle. Quakt es,\nschäumt das Gift und wird so noch stärker.",
+        "Die Gelenke an seinen Klauen geben ein so starkes Gift ab,\ndass selbst ein kleiner Kratzer fatal ist.",
+        "Es nähert sich springend seinem Gegner und\nbohrt seine giftigen Klauen in ihn hinein. Schon\nein kleiner Kratzer lässt den Gegner K.O. gehen.",
+        "Wenn es seine Beute erlegt, quakt es seinen\nTriumph in die Welt hinaus. Es ist artverwandt\nmit Branawarz."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "name": "Toxiquak",
+    "types": [
+        "Gift",
+        "Kampf"
+    ],
+    "weight": 44.4
+}

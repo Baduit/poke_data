@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il disegno sulla pancia rappresenta una faccia\nspaventosa, capace di far fuggire i nemici più pavidi.",
+        "Per terrorizzare la preda dilata il petto ed emette un\nterribile verso liberando aria dalla bocca.",
+        "Questo Pokémon è così forte da riuscire a stritolare qualsiasi\ncosa col corpo, persino un bidone in acciaio. Se Arbok\nsi avvinghia a un nemico è impossibile sfuggire a questa\nmorsa fatale.",
+        "Questo Pokémon è così forte da riuscire a stritolare qualsiasi\ncosa col corpo, persino un bidone in acciaio. Se Arbok\nsi avvinghia a un nemico è impossibile sfuggire a questa\nmorsa fatale.",
+        "Secondo gli studi più recenti, esistono più di 20\nvarianti del disegno che ha sul ventre.",
+        "Spiazza l’avversario con il disegno sul ventre,\npoi gli si avvinghia rapidamente e aspetta che\nil suo battito cardiaco si fermi.",
+        "Gli spaventosi disegni che ha sulla pancia\nsono oggetto di studio. Ne sono state scoperte\nsei diverse variazioni.",
+        "Gli spaventosi disegni che ha sulla pancia\nsono oggetto di studio. Ne sono state scoperte\nsei diverse variazioni."
+    ],
+    "height": 3.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "name": "Arbok",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 65.0
+}

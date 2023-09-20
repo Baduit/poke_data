@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Crapustule",
+    "types": [
+        "Eau",
+        "Sol"
+    ],
+    "weight": 62.0
+}

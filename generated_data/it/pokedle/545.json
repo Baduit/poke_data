@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 2.5,
+    "name": "Scolipede",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 200.5
+}

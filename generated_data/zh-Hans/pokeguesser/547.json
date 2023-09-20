@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "乘着风侵入民居。\n把房间里弄得满是棉花后，\n咯咯咯地笑着离去。",
+        "乘着风出现，\n但如果风力过强，\n头上的棉花就会被风扯掉。",
+        "潜入民居，藏起重要的东西，\n或是在屋子里到处撒棉花，\n是个捣蛋的家伙。",
+        "并没有特定的栖息地。\n乘着旋风到处现身，搞恶作剧。",
+        "喜欢到处撒棉花捣蛋。\n沾水之后就会变重而\n动弹不得，只能听天由命。",
+        "每当沐浴阳光，身上的棉花\n就会膨胀。如果膨胀过了头，\n它就会把棉花扯开到处乱撒。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "name": "风妖精",
+    "types": [
+        "草",
+        "妖精"
+    ],
+    "weight": 6.6
+}

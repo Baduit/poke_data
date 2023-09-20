@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "When this legendary Pokémon’s wings and\ntail feathers spread wide and glow red,\nit absorbs the life force of living creatures.",
+        "When its life comes to an end, it absorbs\nthe life energy of every living thing\nand turns into a cocoon once more.",
+        "When this legendary Pokémon’s wings and\ntail feathers spread wide and glow red,\nit absorbs the life force of living creatures.",
+        "When its life comes to an end, it absorbs\nthe life energy of every living thing\nand turns into a cocoon once more."
+    ],
+    "height": 5.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "name": "Yveltal",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "weight": 203.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Nace en las profundidades subterráneas, a altas\ntemperaturas y a gran presión. Irradia energía por\nla roca que tiene en la cabeza.",
+        "Lleva varios cientos de millones de años durmiendo en\nlas profundidades subterráneas, desde su nacimiento.\nAparece a veces al excavar en cuevas.",
+        "Nace en las profundidades subterráneas, a altas temperaturas\ny a gran presión. Irradia energía por la roca que tiene en la\ncabeza.",
+        "Lleva varios cientos de millones de años durmiendo en las\nprofundidades subterráneas, desde su nacimiento. Aparece\na veces al excavar en cuevas.",
+        "Nace en las profundidades subterráneas, a altas\ntemperaturas y a gran presión. Lanza rayos por\nsus gemas a modo de defensa.",
+        "Aunque no es un Pokémon especialmente raro\nde ver, el brillo de las joyas que lleva\nincrustadas lo hace muy popular.",
+        "Se dice que en las profundidades subterráneas\nviven grupos enteros de Carbink con su reina\nrodeados de toda suerte de joyas.",
+        "Para que las piedras preciosas que adornan sus\ncuerpos no pierdan lustre, los Carbink se las\npulen unos a otros con sus mullidos bigotes.",
+        "Fulmina a sus enemigos con potentes rayos de\nenergía que dispara por las gemas que tiene\nincrustadas en el cuerpo.",
+        "Se cree que en algún lugar de este mundo existe\nun filón rebosante de Carbink que viven bajo las\nórdenes de una reina."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+    "name": "Carbink",
+    "types": [
+        "Roca",
+        "Hada"
+    ],
+    "weight": 5.7
+}

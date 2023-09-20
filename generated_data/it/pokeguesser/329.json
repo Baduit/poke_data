@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Fa vibrare velocemente le ali generando onde\nultrasoniche che provocano dei forti mal di testa.",
+        "Sbattendo violentemente le ali genera onde\nultrasoniche per far svenire la preda che poi scioglie\ncol proprio acido.",
+        "Vibrava attacca la preda generando onde a ultrasuoni con\nle vigorose vibrazioni delle due ali. Tali onde sono così potenti\nda causare il mal di testa a chi le sente.",
+        "Le ali di Vibrava non hanno ancora completato il loro sviluppo.\nPiù che per affrontare lunghe distanze, le utilizza per generare\nonde ultrasoniche facendole vibrare.",
+        "Le sue ali non sono del tutto sviluppate. Più che\nper volare, le usa per attaccare i nemici con le\nonde ultrasoniche prodotte dalle loro vibrazioni.",
+        "Per far sviluppare le ali, si nutre ogni giorno\ndi una grande quantità di prede, che succhia\ndopo averle sciolte con il proprio acido.",
+        "Grazie agli ultrasuoni che produce con le\nvibrazioni delle ali, fa svenire le prede e le\nseppellisce nella sabbia per conservarle.",
+        "Genera strane onde acustiche con le vibrazioni\ndelle ali. Gli Allenatori devono proteggersi le\norecchie con dei tappi.",
+        "Fa vibrare velocemente le ali generando\nonde ultrasoniche che provocano dei\nforti mal di testa.",
+        "Per far sviluppare le ali, si nutre ogni giorno\ndi una grande quantità di prede, che succhia\ndopo averle sciolte con il proprio acido."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "name": "Vibrava",
+    "types": [
+        "Terra",
+        "Drago"
+    ],
+    "weight": 15.3
+}

@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 5,
+    "height": 0.7,
+    "name": "프로토가",
+    "types": [
+        "물",
+        "바위"
+    ],
+    "weight": 16.5
+}

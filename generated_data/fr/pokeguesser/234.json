@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Quiconque observe ses antennes\nressent une sensation étrange,\ncomme si leur centre l’attirait.",
+        "Quiconque observe ses antennes\nressent une sensation étrange,\ncomme si leur centre l’attirait.",
+        "Quiconque observe ses bois ressent une sensation\nétrange, comme si leur centre l’attirait.",
+        "Ses bois tordus changent le flot de l’air et créent\nune distorsion spatiale dans la réalité.",
+        "Les superbes bois de Cerfrousse étaient vendus très cher\ncomme œuvres d’art. Ce Pokémon fut chassé et l’espèce\nproche de l’extinction à cause des gens qui recherchaient\nleurs précieux bois.",
+        "Les superbes bois de Cerfrousse étaient vendus très cher\ncomme œuvres d’art. Ce Pokémon fut chassé et l’espèce\nproche de l’extinction à cause des gens qui recherchaient\nleurs précieux bois."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "name": "Cerfrousse",
+    "types": [
+        "Normal"
+    ],
+    "weight": 71.2
+}

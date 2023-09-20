@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 5,
+    "height": 0.3,
+    "name": "아이앤트",
+    "types": [
+        "벌레",
+        "강철"
+    ],
+    "weight": 33.0
+}

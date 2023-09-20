@@ -1,0 +1,10 @@
+{
+    "color": "Rot",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Grillmak",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 11.0
+}

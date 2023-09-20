@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Abre un agujero en la roca y vive en él. Si la roca se\nresquebraja, no se queda tranquilo hasta que no\nencuentra otra.",
+        "Si encuentran una piedra de tamaño ideal, segregan\nun líquido por la boca para crear un agujero y\ndeslizarse dentro.",
+        "Abre un agujero en la roca y vive en él. Si la roca se\nresquebraja, no se queda tranquilo hasta que no encuentra\notra.",
+        "Si encuentran una piedra de tamaño ideal, segregan un líquido\npor la boca para crear un agujero y deslizarse dentro.",
+        "Cuando halla una piedra de su agrado, la horada\ny establece su morada. Es enemigo natural de los\nRoggenrola y los Rolycoly.",
+        "Si no encuentra una piedra que sea idónea como\nmorada, se instala en los orificios de algún\nHippowdon."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "name": "Dwebble",
+    "types": [
+        "Bicho",
+        "Roca"
+    ],
+    "weight": 14.5
+}

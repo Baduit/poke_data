@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "体内の　毒袋に　溜めた\n毒素を　皮膚から　分泌。\n触ると　ピリピリと　痺れる。",
+        "毒素を　化学変化　させて\n電気を　出す。　電力は\n弱いが　ビリビリと　痺れる。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "name": "エレズン",
+    "types": [
+        "でんき",
+        "どく"
+    ],
+    "weight": 11.0
+}

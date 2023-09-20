@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "NUMEL is extremely dull witted - it\ndoesn’t notice being hit. However, it\ncan’t stand hunger for even a second.\fThis POKéMON’s body is a seething\ncauldron of boiling magma.",
+        "NUMEL stores magma of almost 2,200\ndegrees F within its body. If it gets\nwet, the magma cools and hardens.\fIn that event, the POKéMON’s body\ngrows heavy and its movements become\nsluggish.",
+        "A NUMEL stores boiling magma in the hump\non its back. It is a hardy POKéMON that can\ntransport a 220-pound load. It has served\nhumans at work since long ago.",
+        "Magma of almost 2,200 degrees Fahrenheit\ncourses through its body. When it grows\ncold, the magma hardens and slows it.",
+        "Magma of almost 2,200 degrees Fahrenheit\ncourses through its body. When it grows\ncold, the magma hardens and slows it.",
+        "Its humped back stores intensely\nhot magma. In rain, the magma\ncools, slowing its movement.",
+        "Its humped back stores intensely\nhot magma. In rain, the magma\ncools, slowing its movement.",
+        "Its humped back stores intensely\nhot magma. In rain, the magma\ncools, slowing its movement.",
+        "The flaming magma it stores in the\nhump on its back is the source of\nits tremendous power.",
+        "The flaming magma it stores in the\nhump on its back is the source of\nits tremendous power.",
+        "Its humped back stores intensely\nhot magma. In rain, the magma\ncools, slowing its movement.",
+        "Its humped back stores intensely\nhot magma. In rain, the magma\ncools, slowing its movement.",
+        "The magma in its body reaches\n2,200 degrees F. Its hump gets smaller\nwhen it uses Fire-type moves.",
+        "The magma in its body reaches\n2,200 degrees F. Its hump gets smaller\nwhen it uses Fire-type moves.",
+        "Its humped back stores intensely hot magma.\nIn rain, the magma cools, slowing its movement.",
+        "The magma in its body reaches 2,200 degrees\nFahrenheit. Its hump gets smaller when it uses\nFire-type moves.",
+        "Numel is extremely dull witted—it doesn’t notice being hit.\nHowever, it can’t stand hunger for even a second.\nThis Pokémon’s body is a seething cauldron of boiling magma.",
+        "Numel stores magma of almost 2,200 degrees Fahrenheit\nwithin its body. If it gets wet, the magma cools and hardens.\nIn that event, the Pokémon’s body grows heavy and its\nmovements become sluggish."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "name": "Numel",
+    "types": [
+        "Fire",
+        "Ground"
+    ],
+    "weight": 24.0
+}

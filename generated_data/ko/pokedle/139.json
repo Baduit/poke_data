@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 1,
+    "height": 1.0,
+    "name": "암스타",
+    "types": [
+        "바위",
+        "물"
+    ],
+    "weight": 35.0
+}

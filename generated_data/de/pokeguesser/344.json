@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Eine antike Lehmstatue, die durch ein mysteriöses\nLicht zum Leben erwacht ist.",
+        "In die Puppe, die Menschen vor 20 000 Jahren aus\nLehm formten, ist anscheinend Leben eingefahren.",
+        "Lepumentas sind aus Schlamm gefertigte Puppen, die von\nprimitiven Menschen hergestellt und durch mysteriöse Strahlen\nzum Leben erweckt wurden. Diese Pokémon bewegen sich\nschwebend fort.",
+        "Lepumentas ist auf mysteriöse Weise aus einer Tonstatue\nentstanden, die vor 20 000 Jahren von einer antiken\nZivilisation geschaffen wurde. Dieses Pokémon verschießt\nStrahlen aus beiden Händen.",
+        "Wenn es nass wird, schmilzt es. Fängt es an zu\nregnen, errichtet es mit seinen Psycho-Kräften\neine schützende Hülle um seinen Körper.",
+        "Menschen der Urzeit haben es als Nachbildung\nvon etwas, das vom Himmel kam, hergestellt.\nEs verschießt Strahlen aus beiden Händen.",
+        "Dieses rätselhafte Pokémon ist aus einer\nLehmpuppe entstanden, die vor 20 000 Jahren\nvon einem uralten Volk angefertigt wurde.",
+        "Es scheint, sein Ursprung geht auf altertümliche\nLehmpuppen zurück. Durch Telekinese kann es\nschweben und sich bewegen."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "name": "Lepumentas",
+    "types": [
+        "Boden",
+        "Psycho"
+    ],
+    "weight": 108.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 1.5,
+    "name": "Tauboss",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 39.5
+}

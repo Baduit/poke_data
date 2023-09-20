@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "會旋轉身體使出踢擊。\n當牠高速旋轉身體時，\n會直接鑽進地底下。",
+        "會透過倒立來擾亂\n對方的節奏，然後\n趁隙施展華麗的踢擊。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "name": "戰舞郎",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 48.0
+}

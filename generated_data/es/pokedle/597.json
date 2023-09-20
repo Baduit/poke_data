@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Ferroseed",
+    "types": [
+        "Planta",
+        "Acero"
+    ],
+    "weight": 18.8
+}

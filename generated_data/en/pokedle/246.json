@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Larvitar",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "weight": 72.0
+}

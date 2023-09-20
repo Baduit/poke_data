@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es hat ein freundliches Wesen, aber wenn es zur\nWeißglut gebracht wird, zerstört es mit einem\nheftigen Hauch die gesamte Umgebung.",
+        "Es ist sehr freundlich und liebt Kinder. Häufig\nkommt es aus den Bergen herab in die Städte,\num mit seinen kleinen Freunden zu spielen.",
+        "Wenn eines der Kinder, mit denen es befreundet\nist, von jemandem gehänselt wird, sucht es das\nHaus des Übeltäters auf und brennt es nieder.",
+        "Es besucht so manche Stadt und spielt mit den\nKindern. Mütter können beruhigt sein, da es die\nKinder auch in brenzligen Situationen beschützt.",
+        "Es lebt auf Bergen, die mehr als 3 000 m hoch\nsind. Ganz selten zeigt es sich auch in Städten,\nwo es vergnügt mit den Kindern spielt.",
+        "Ein zutrauliches und gutmütiges Pokémon. Wird\nes jedoch wütend, beschwört es heftige Stürme\nherauf, die alles und jeden davonfegen."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "name": "Sen-Long",
+    "types": [
+        "Normal",
+        "Drache"
+    ],
+    "weight": 185.0
+}

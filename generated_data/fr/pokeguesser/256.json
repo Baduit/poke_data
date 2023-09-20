@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ce maître du coup de pied peut donner\n10 coups par seconde. Ses cris aigus\nintimident l’ennemi.",
+        "Ce maître du coup de pied peut donner\n10 coups par seconde. Ses cris aigus\nintimident l’ennemi.",
+        "Ce maître du coup de pied peut donner 10 coups\npar seconde. Ses cris aigus intimident l’ennemi.",
+        "Au combat, les flammes dans son corps redoublent\nd’intensité. Ses coups de pied sont dévastateurs.",
+        "Galifeu muscle ses cuisses et ses mollets en courant dans les\nchamps ou dans les montagnes. Les jambes de ce Pokémon\nsont très puissantes et rapides, capables de donner 10 coups\nde pied en 1 seconde.",
+        "Galifeu combat grâce aux flammes ardentes qu’il crache\nde son bec et à ses coups de pied destructeurs.\nLe cri de ce Pokémon est très puissant et très gênant\npour l’adversaire."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "name": "Galifeu",
+    "types": [
+        "Feu",
+        "Combat"
+    ],
+    "weight": 19.5
+}

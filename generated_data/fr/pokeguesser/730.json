@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il contrôle ses ballons d’eau par son chant, dont\nla mélodie, apprise auprès de ses semblables,\nse transmet de génération en génération.",
+        "Son chant est son principal atout en combat.\nSon Dresseur devra donc veiller à tout prix\nà la bonne santé de ses cordes vocales.",
+        "Pour lui, le combat est une performance\nartistique. Il chante et danse de toute son âme\npour abattre ses proies.",
+        "Surnommé « la diva », il offre un spectacle\nenchanteur lorsqu’il dirige un chœur composé\nde ses congénères à la lumière de la lune.",
+        "Il manie ses ballons d’eau avec les ondes sonores\nqu’il émet. Celles-ci ressemblent à un chant\ncéleste et mélodieux.",
+        "Les combats sont une véritable performance\nartistique, pour lui. Les spectateurs sont charmés\npar son chant et la danse de ses ballons."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+    "name": "Oratoria",
+    "types": [
+        "Eau",
+        "Fée"
+    ],
+    "weight": 44.0
+}

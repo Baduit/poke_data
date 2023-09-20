@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 8,
+    "height": 0.4,
+    "name": "Dottler",
+    "types": [
+        "Coleottero",
+        "Psico"
+    ],
+    "weight": 19.5
+}

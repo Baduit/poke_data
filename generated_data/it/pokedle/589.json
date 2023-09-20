@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Escavalier",
+    "types": [
+        "Coleottero",
+        "Acciaio"
+    ],
+    "weight": 33.0
+}

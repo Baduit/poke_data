@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "È protetto da un guscio resistente. Si scaglia contro\nil nemico rotolando come uno pneumatico.",
+        "Di solito non si muove, ma se viene attaccato,\ncomincia a turbinare su se stesso e si scaglia contro\nil nemico.",
+        "È protetto da un guscio resistente. Si scaglia contro il nemico\nrotolando come uno pneumatico.",
+        "Di solito non si muove, ma se viene attaccato, comincia a\nturbinare su se stesso e si scaglia contro il nemico.",
+        "Attacca l’avversario turbinando rapidamente\nsu se stesso. Può raggiungere una velocità\ndi circa 100 km/h.",
+        "Mentre accumula l’energia necessaria per\nevolversi, si difende con il guscio resistente\ne le spine velenose."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "name": "Whirlipede",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 58.5
+}

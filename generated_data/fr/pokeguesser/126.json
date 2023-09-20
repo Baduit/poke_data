@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Quand il respire profondément, des\nvagues de chaleur émanent de son\ncorps et le rendent difficile à voir.",
+        "Quand il respire profondément, des\nvagues de chaleur émanent de son\ncorps et le rendent difficile à voir.",
+        "On trouve ce Pokémon près des bouches de volcans.\nSon corps incandescent atteint 1 200 °C.",
+        "Il est né au milieu d’un volcan. Son corps est couvert\nde flammes qui flambent comme un soleil.",
+        "Lorsqu’il se bat, Magmar fait jaillir des flammes de son corps\npour intimider son adversaire. Les explosions enflammées de\nce Pokémon déclenchent des vagues de chaleur qui embrasent\nla végétation environnante.",
+        "Lorsqu’il se bat, Magmar fait jaillir des flammes de son corps\npour intimider son adversaire. Les explosions enflammées de\nce Pokémon déclenchent des vagues de chaleur qui embrasent\nla végétation environnante.",
+        "Quand il est fatigué, il se jette dans un volcan\npour se soigner dans le magma. Son corps brûle\nà 1 200 °C.",
+        "Quand il s’énerve, une flamme ardente\nl’enveloppe tout entier. Il ne se calme que\nquand son adversaire est réduit en cendres.",
+        "Son corps est tellement ardent que même son\nsouffle brûle. Lorsqu’il éternue, des flammes\ns’échappent de son bec.",
+        "Plus il fait chaud, mieux il se porte. On dit\nd’ailleurs que le Magmar d’Alola est plus robuste\nque ses cousins habitant d’autres contrées.",
+        "Né dans le cratère d’un volcan, son corps est\nrecouvert de flammes. Il ressemble ainsi à une\nboule de feu.",
+        "Né dans le cratère d’un volcan, son corps est\nrecouvert de flammes. Il ressemble ainsi à une\nboule de feu.",
+        "Il achève ses proies avec ses flammes, mais\nil lui arrive de les calciner accidentellement,\nà son plus grand regret.",
+        "Tout son corps est en combustion permanente.\nIl est craint, car on dit qu’il cause des incendies."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "name": "Magmar",
+    "types": [
+        "Feu"
+    ],
+    "weight": 44.5
+}

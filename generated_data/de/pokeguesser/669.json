@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Die Krone auf seinem Kopf hat es sich aus\nPollen von Blumen gebastelt. Sie besitzt eine\nheilende Wirkung.",
+        "Es entlockt Blumen ihre geheimen Kräfte und\nkontrolliert diese nach Belieben. Die Blume,\ndie es trägt, ist wie ein Teil seines Körpers.",
+        "Hat es eine Blume gefunden, die ihm gefällt, lebt es\nsein Leben lang in Symbiose mit ihr. Es lässt sich\nunbekümmert vom Wind treiben.",
+        "Es entlockt Blumen ihre geheimen Kräfte und kontrolliert diese\nnach Belieben. Die Blume, die es trägt, ist wie ein Teil seines\nKörpers.",
+        "Hat es eine Blume gefunden, die ihm gefällt, lebt es sein\nLeben lang in Symbiose mit ihr. Es lässt sich unbekümmert\nvom Wind treiben.",
+        "Ohne die Kräfte einer Blume ist es relativ\nschutzlos. Es sucht jedoch so lange, bis es\neine findet, deren Form und Farbe ihm zusagt."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "name": "Flabébé",
+    "types": [
+        "Fee"
+    ],
+    "weight": 0.1
+}

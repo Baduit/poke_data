@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Espanta a los Pokémon pájaro con un baile rápido y\nhaciendo ruido para evitar que picoteen las semillas de\nsus flores.",
+        "Vive en territorio árido. Emite un sonido parecido a\nunas maracas si se mueve de forma rítmica.",
+        "Espanta a los Pokémon pájaro con un baile rápido y haciendo\nruido para evitar que picoteen las semillas de sus flores.",
+        "Vive en territorio árido. Emite un sonido parecido a unas\nmaracas si se mueve de forma rítmica.",
+        "Emite un sonido parecido a unas maracas. Se\nmueve con un ritmo marchoso para sorprender\na los Pokémon pájaro, que huyen espantados.",
+        "Una vez al año, esparce sus semillas, cuyo alto\nvalor nutritivo las convierte en una inestimable\nfuente de alimento en el desierto."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "name": "Maractus",
+    "types": [
+        "Planta"
+    ],
+    "weight": 28.0
+}

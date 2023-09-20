@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le corna della testa sono lame affilate. Muovendosi\ncome un turbine, scuote e falcia fulmineo i nemici.",
+        "Le leggende dicono di lui che protegge i Pokémon\ntenendo in scacco i nemici con i suoi movimenti\nfulminei.",
+        "Le corna della testa sono lame affilate. Muovendosi come\nun turbine, scuote e falcia fulmineo i nemici.",
+        "Le leggende dicono di lui che protegge i Pokémon tenendo\nin scacco i nemici con i suoi movimenti fulminei.",
+        "Secondo la leggenda, ha lottato fino all’ultimo\nassieme a Cobalion e Terrakion per proteggere\ni Pokémon di Unima.",
+        "Si abbatte sui nemici rapido come un turbine e li\nfa a pezzi senza pietà con le sue corna affilate."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "name": "Virizion",
+    "types": [
+        "Erba",
+        "Lotta"
+    ],
+    "weight": 200.0
+}

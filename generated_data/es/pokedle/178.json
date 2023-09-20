@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 2,
+    "height": 1.5,
+    "name": "Xatu",
+    "types": [
+        "Psíquico",
+        "Volador"
+    ],
+    "weight": 15.0
+}

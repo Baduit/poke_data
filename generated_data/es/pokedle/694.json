@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 6,
+    "height": 0.5,
+    "name": "Helioptile",
+    "types": [
+        "Eléctrico",
+        "Normal"
+    ],
+    "weight": 6.0
+}

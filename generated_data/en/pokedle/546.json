@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Cottonee",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "weight": 0.6
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Lançargot",
+    "types": [
+        "Insecte",
+        "Acier"
+    ],
+    "weight": 33.0
+}

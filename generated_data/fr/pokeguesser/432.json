@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il plaque ses queues contre son\ndos pour paraître plus grand.\nIl soutient un regard des heures.",
+        "Il plaque ses queues contre son\ndos pour paraître plus grand.\nIl soutient un regard des heures.",
+        "Il n’hésitera pas à voler le nid d’autres Pokémon et\nà s’y installer si celui-ci est confortable.",
+        "Il ceinture sa taille de sa queue bifide pour paraître\nplus imposant.",
+        "Il n’hésitera pas à voler le nid d’autres Pokémon et\nà s’y installer si celui-ci est confortable.",
+        "Il ceinture sa taille de sa queue bifide pour paraître\nplus imposant."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+    "name": "Chaffreux",
+    "types": [
+        "Normal"
+    ],
+    "weight": 43.8
+}

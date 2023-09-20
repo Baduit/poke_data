@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Manternel",
+    "types": [
+        "Insecte",
+        "Plante"
+    ],
+    "weight": 20.5
+}

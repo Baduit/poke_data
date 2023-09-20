@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il aime mesurer sa force à celle des\nplus grands Pokémon. Ses coups de\npaume peuvent projeter un camion.",
+        "Il aime mesurer sa force à celle des\nplus grands Pokémon. Ses coups de\npaume peuvent projeter un camion.",
+        "Il piétine le sol violemment pour concentrer son\nénergie. Il peut envoyer en l’air un camion de 10 t\nd’un seul coup de poing.",
+        "Il aime mesurer sa force à celle des plus grands\nPokémon. Ses coups de paume peuvent projeter\nun camion.",
+        "Hariyama s’entraîne à donner ses coups directs avec sa paume\nle plus souvent possible. Un seul de ces puissants coups\nde paume peut plier un poteau téléphonique en deux.",
+        "Hariyama a l’air un peu enrobé, mais c’est en fait\nune montagne de muscles. Si ce Pokémon se raidit\net contracte ses muscles, son corps devient dur\ncomme de la pierre.",
+        "Malgré leur force spectaculaire, les vieux\nHariyama préfèrent délaisser le combat au\nprofit de l’entraînement des jeunes Makuhita.",
+        "Sa force herculéenne lui permet de renverser\nun camion d’une seule main. Les Hariyama\naiment s’adonner à des concours de force pure.",
+        "Bien qu’il aime les rapports de force, c’est aussi\nun cœur tendre qui sait respecter et féliciter\nses adversaires pour leur combativité.",
+        "Les Hariyama les plus forts ne sont pas\nforcément les plus grands. Les petits gabarits\naussi ont plus d’un tour dans leur sac."
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "name": "Hariyama",
+    "types": [
+        "Combat"
+    ],
+    "weight": 253.8
+}

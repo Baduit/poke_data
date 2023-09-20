@@ -1,0 +1,11 @@
+{
+    "color": "Violett",
+    "generation": 8,
+    "height": 2.2,
+    "name": "Krarmor",
+    "types": [
+        "Flug",
+        "Stahl"
+    ],
+    "weight": 75.0
+}

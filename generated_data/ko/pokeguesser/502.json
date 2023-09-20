@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "물 흐르는 듯한 칼솜씨로\n2개의 가리비칼을 사용하는 기술은\n엄격한 수련을 통해 익힌 것이다.",
+        "혹독한 수행 끝에\n쌍검자비마다 다른 형태의\n가리비칼 다루는 기술을 습득한다.",
+        "물 흐르는 듯한 칼 솜씨로\n2개의 가리비칼을 사용하는 기술은\n엄격한 수련을 통해 익힌 것이다.",
+        "혹독한 수행 끝에\n쌍검자비마다 다른 형태의\n가리비칼 다루는 기술을 습득한다."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+    "name": "쌍검자비",
+    "types": [
+        "물"
+    ],
+    "weight": 24.5
+}

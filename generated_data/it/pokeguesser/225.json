@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Trascina il cibo avvolgendolo nella coda e ha\nl’abitudine di condividerlo con chi si perde fra\nle montagne.",
+        "Porta sempre del cibo con sé e lo condivide volentieri\ncon gli sfortunati che si sono persi in montagna.",
+        "Delibird trasporta il cibo avvolgendolo nella coda. Si narra di\nun esploratore che riuscì a raggiungere la vetta del monte più\nalto del mondo grazie alla riserva di cibo di questo Pokémon.",
+        "Delibird trasporta il cibo avvolgendolo nella coda. Si narra di\nun esploratore che riuscì a raggiungere la vetta del monte più\nalto del mondo grazie alla riserva di cibo di questo Pokémon.",
+        "I Delibird prediligono normalmente i climi freddi,\nma quelli di Alola sembrano trovarsi a loro agio\nanche con temperature piuttosto calde.",
+        "È sempre alla ricerca di cibo, che ama\ncondividere con esseri umani e Pokémon.",
+        "Se incontra qualcuno che si è perso, condivide\nil cibo che ha con sé. È onnivoro, perciò\npotrebbe offrire anche dei Pokémon Coleottero.",
+        "Trasporta il cibo avvolgendolo nella coda.\nIl Delibird con la coda più grande diventa\nil capo di tutto lo stormo.",
+        "Trasporta cibo per tutto il giorno. Si racconta\nche diverse persone disperse o in difficoltà\nsi siano salvate grazie al suo cibo.",
+        "È sempre alla ricerca di cibo, che ama\ncondividere con esseri umani e Pokémon."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "name": "Delibird",
+    "types": [
+        "Ghiaccio",
+        "Volante"
+    ],
+    "weight": 16.0
+}

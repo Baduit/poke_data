@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "It’s very curious, but its means of investigating\nthings is to try to punch them with its tentacles.\nThe search for food is what brings it onto land.",
+        "Its tentacles tear off easily, but it isn’t alarmed\nwhen that happens—it knows they’ll grow back.\nIt’s about as smart as a three-year-old."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "name": "Clobbopus",
+    "types": [
+        "Fighting"
+    ],
+    "weight": 4.0
+}

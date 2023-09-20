@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "因為會釋放強大的磁力，\n導致附近的電器都變得\n無法使用。",
+        "可以本體不動，\n自由操縱被稱為小朝北鼻的\n３個組件來捕捉獵物。",
+        "會操縱被稱為小朝北鼻的組件。\n但這些組件有時似乎會\n因為迷路而無法回來。",
+        "會驅使３個小組件去\n獲取食物或與敵人戰鬥。\n本體基本上只負責下命令。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "name": "大朝北鼻",
+    "types": [
+        "岩石",
+        "鋼"
+    ],
+    "weight": 340.0
+}

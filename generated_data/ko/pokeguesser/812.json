@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "특별한 그루터기의 파워를\n드럼 연주로 컨트롤한다.\n뿌리를 조종해서 싸운다.",
+        "드럼 테크닉이 가장 뛰어난 자가\n보스가 된다. 천성이 온화해서\n그룹의 조화를 중히 여긴다."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "name": "고릴타",
+    "types": [
+        "풀"
+    ],
+    "weight": 90.0
+}

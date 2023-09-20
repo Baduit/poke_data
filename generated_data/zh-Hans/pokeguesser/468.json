@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "不会出现在发生\n争端和纷乱的地方。\n近来几乎见不到它的身影。",
+        "被称为会带来恩惠的宝可梦，\n从很久很久以前开始，\n人们就视它为吉祥之物。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "name": "波克基斯",
+    "types": [
+        "妖精",
+        "飞行"
+    ],
+    "weight": 38.0
+}

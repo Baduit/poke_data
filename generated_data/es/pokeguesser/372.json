@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Las células han empezado a cambiar dentro de su dura\nconcha, que se separa cuando evoluciona.",
+        "La robusta capa que lo rodea repele los ataques.\nAunque es una buena protección, lo hace lento y\npesado.",
+        "Dentro de la capa acorazada de Shelgon, las células están en\npleno proceso de creación de un cuerpo nuevo. El peso de la\ncoraza le hace tener unos movimientos lentos.",
+        "Shelgon está recubierto por una especie de capa ósea: una\ncoraza muy dura que hace rebotar los ataques enemigos. Este\nPokémon se esconde en las cavernas para evolucionar.",
+        "En el interior de su coraza, las células se\ntransforman a una velocidad vertiginosa para\npreparar su evolución.",
+        "Permanece quieto en el fondo de las grutas sin\nprobar bocado ni beber ningún líquido. Resulta\nsorprendente que pueda sobrevivir así.",
+        "Las células de su cuerpo se transforman a una\nvelocidad vertiginosa. Su dura coraza está\nformada por una especie de tejido óseo.",
+        "Vive en el fondo de las grutas. Mientras se\nrecluye en su dura concha, sueña con el día\nen el que pueda surcar el cielo volando.",
+        "Lo recubre una dura coraza de tejido óseo. En el\ninterior, acumula energía de cara a la evolución.",
+        "Aguanta el hambre sin comer nada. Al parecer,\ninicia el proceso evolutivo cuando se agota toda\nla energía que tenía acumulada."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "name": "Shelgon",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 110.5
+}

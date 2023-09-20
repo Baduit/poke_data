@@ -1,0 +1,29 @@
+{
+    "descriptions": [
+        "GROUDON has long been described in \nmythology as the POKéMON that raised\nlands and expanded continents.\fThis POKéMON took to sleep after a\ncataclysmic battle with KYOGRE.",
+        "GROUDON has the power to scatter rain\nclouds and make water evaporate with\nlight and heat.\fIt came as a savior to people who had\nbeen suffering from terrible floods.",
+        "GROUDON has appeared in mythology as the\ncreator of the land. It sleeps in magma\nunderground and is said to make volcanoes\nerupt on awakening.",
+        "This legendary POKéMON is said to\nrepresent the land. It went to sleep after\ndueling KYOGRE.",
+        "This legendary POKéMON is said to\nrepresent the land. It went to sleep after\ndueling KYOGRE.",
+        "It had been asleep in underground\nmagma ever since it fiercely\nfought KYOGRE long ago.",
+        "It had been asleep in underground\nmagma ever since it fiercely\nfought KYOGRE long ago.",
+        "It had been asleep in underground\nmagma ever since it fiercely\nfought KYOGRE long ago.",
+        "Said to have expanded the lands by\nevaporating water with raging heat.\nIt battled titanically with KYOGRE.",
+        "Said to have expanded the lands by\nevaporating water with raging heat.\nIt battled titanically with KYOGRE.",
+        "It had been asleep in underground\nmagma ever since it fiercely\nfought Kyogre long ago.",
+        "It had been asleep in underground\nmagma ever since it fiercely\nfought Kyogre long ago.",
+        "It had been asleep in underground\nmagma ever since it fiercely\nfought Kyogre long ago.",
+        "It had been asleep in underground\nmagma ever since it fiercely\nfought Kyogre long ago.",
+        "Said to have expanded the lands by evaporating\nwater with raging heat. It battled titanically\nwith Kyogre.",
+        "This legendary Pokémon is said to represent the\nland. It went to sleep after dueling Kyogre.",
+        "Groudon is said to be the personification of the land\nitself. Legends tell of its many clashes against Kyogre,\nas each sought to gain the power of nature.",
+        "Through Primal Reversion and with nature’s full power,\nit will take back its true form. It can cause magma to\nerupt and expand the landmass of the world."
+    ],
+    "height": 3.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "name": "Groudon",
+    "types": [
+        "Ground"
+    ],
+    "weight": 950.0
+}

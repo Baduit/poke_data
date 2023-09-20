@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ses pattes arrière lui permettent de traverser les\nrivières. Il est toujours en quête de nourriture.",
+        "Il grignote sans cesse pour apaiser\nla poussée de ses crocs. Il peut\ntranspercer un mur de parpaings.",
+        "Il grignote sans cesse pour apaiser\nla poussée de ses crocs. Il peut\ntranspercer un mur de parpaings.",
+        "Il grignote sans cesse pour apaiser la poussée de ses\ncrocs. Il peut transpercer un mur de parpaings.",
+        "Les crocs robustes de Rattatac poussent constamment.\nPour éviter qu’ils raclent le sol, il se fait les dents sur\ndes cailloux ou des troncs d’arbre. Il lui arrive même\nde ronger les murs des maisons.",
+        "Les crocs robustes de Rattatac poussent constamment.\nPour éviter qu’ils raclent le sol, il se fait les dents sur\ndes cailloux ou des troncs d’arbre. Il lui arrive même\nde ronger les murs des maisons.",
+        "C’est un très bon nageur. Les doigts de ses\npattes arrière sont palmés, ce qui lui permet de\ntraverser les rivières et parfois même les mers.",
+        "Beaucoup plus agressif qu’il n’en a l’air, mieux\nvaut éviter de lui tendre la main si l’on veut la\nrécupérer entière.",
+        "Les petites palmes de ses pattes postérieures\nlui permettraient de se rendre d’île en île\nà la nage afin d’échapper à ses prédateurs.",
+        "Il se sert de ses moustaches pour garder\nl’équilibre. Que le Rattatac soit apprivoisé\nou non, ne le touchez pas ou il vous mordrait !",
+        "Ses pattes arrière sont palmées. Il peut donc\npoursuivre sa proie dans les cours d’eau et\nles rivières.",
+        "Ses pattes arrière sont palmées. Il peut donc\npoursuivre sa proie dans les cours d’eau et\nles rivières."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "name": "Rattatac",
+    "types": [
+        "Normal"
+    ],
+    "weight": 18.5
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es entzündet ein Licht und gibt vor, dem Gegner\nden Weg zu weisen, doch eigentlich saugt es ihm\nseine Lebensenergie ab.",
+        "Es entfacht eine Flamme, die von der Lebensenergie\neines Menschen oder eines Pokémon zehrt.",
+        "Es entzündet ein Licht und gibt vor, dem Gegner den Weg zu\nweisen, doch eigentlich saugt es ihm seine Lebensenergie ab.",
+        "Es entfacht eine Flamme, die von der Lebensenergie eines\nMenschen oder eines Pokémon zehrt.",
+        "Seine Flamme wärmt seinen Körper leicht.\nWer vom Weg abkommt, wird von ihm an der\nHand genommen und ins Jenseits gelockt.",
+        "Je jünger das Opfer, dem es die Lebensenergie\nentzieht, desto höher und unheimlicher brennt\ndie Flamme auf seinem Kopf."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "name": "Lichtel",
+    "types": [
+        "Geist",
+        "Feuer"
+    ],
+    "weight": 3.1
+}

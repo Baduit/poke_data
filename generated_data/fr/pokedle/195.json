@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 2,
+    "height": 1.4,
+    "name": "Maraiste",
+    "types": [
+        "Eau",
+        "Sol"
+    ],
+    "weight": 75.0
+}

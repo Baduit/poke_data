@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "腕に　生えた　葉っぱは　大木も\nスッパリ　切り倒す　切れ味。\n密林の　戦いでは　無敵。",
+        "ジャングルを　身軽に　走り回り\n腕に　生えた　切れ味　鋭い　葉っぱで\n獲物を　しとめるのだ。",
+        "体に　生えた　葉っぱは　鋭い　切れ味。\n素早い　身のこなしで　木の　枝を　飛び回り\n敵の　頭上や　背後から　襲いかかるぞ。",
+        "背中の　タネには　樹木を　元気にする\n栄養が　沢山　詰まっていると　いわれる。\n森の　木を　大事に　育てている　ポケモン。"
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+    "name": "ジュカイン",
+    "types": [
+        "くさ"
+    ],
+    "weight": 52.2
+}

@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "During the daytime, CACTURNE remains\nunmoving so that it does not lose any\nmoisture to the harsh desert sun.\fThis POKéMON becomes active at night\nwhen the temperature drops.",
+        "If a traveler is going through a desert\nin the thick of night, CACTURNE\nwill follow in a ragtag group.\fThe POKéMON are biding their time,\nwaiting for the traveler to tire and\nbecome incapable of moving.",
+        "After spending thousands of years in\nharsh deserts, its blood transformed into\nthe same substances as sand. It is\nnocturnal, so it hunts at night.",
+        "It lives in deserts. It becomes active at\nnight when it hunts for prey exhausted\nfrom the desert’s heat.",
+        "It lives in deserts. It becomes active at\nnight when it hunts for prey exhausted\nfrom the desert’s heat.",
+        "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat.",
+        "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat.",
+        "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat.",
+        "Packs of them follow travelers\nthrough the desert until\nthe travelers can no longer move.",
+        "Packs of them follow travelers\nthrough the desert until\nthe travelers can no longer move.",
+        "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat.",
+        "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat.",
+        "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat.",
+        "It becomes active at night,\nseeking prey that is exhausted\nfrom the day’s desert heat.",
+        "It becomes active at night, seeking prey that is\nexhausted from the day’s desert heat.",
+        "Packs of them follow travelers through the desert\nuntil the travelers can no longer move.",
+        "During the daytime, Cacturne remains unmoving so that it does\nnot lose any moisture to the harsh desert sun. This Pokémon\nbecomes active at night when the temperature drops.",
+        "If a traveler is going through a desert in the thick of night,\nCacturne will follow in a ragtag group. The Pokémon are\nbiding their time, waiting for the traveler to tire and become\nincapable of moving."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "name": "Cacturne",
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "weight": 77.4
+}

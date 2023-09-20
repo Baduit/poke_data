@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 7,
+    "height": 1.6,
+    "name": "Archéduc",
+    "types": [
+        "Plante",
+        "Spectre"
+    ],
+    "weight": 36.6
+}

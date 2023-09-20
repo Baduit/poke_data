@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "De nature poltronne, il prend ses nombreuses\npattes à son cou au moindre danger et balaie\nle sol sur son passage.",
+        "Il vit aussi bien en bord de mer que dans les\nfonds marins. Véritable aspirateur sur pattes, il\navale n’importe quelle nourriture, même pourrie.",
+        "Il ramasse tout ce qu’il trouve par terre, y\ncompris des pièces. Cela lui vaut d’être pris\npour cible par les Cornèbre et les Miaouss.",
+        "Un Pokémon timoré qui se sauve à toutes pattes\ndès que l’on s’approche de lui.",
+        "Ce véritable nettoyeur de la nature mange tout,\nmême la nourriture avariée et les déchets.\nLes environs de son nid sont toujours impeccables.",
+        "Ils se déplacent en groupe, toujours en alerte.\nDès qu’ils détectent une présence ennemie,\nils s’enfuient dans toutes les directions."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+    "name": "Sovkipou",
+    "types": [
+        "Insecte",
+        "Eau"
+    ],
+    "weight": 12.0
+}

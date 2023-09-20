@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 8,
+    "height": 0.8,
+    "name": "Cramorant",
+    "types": [
+        "Volador",
+        "Agua"
+    ],
+    "weight": 18.0
+}

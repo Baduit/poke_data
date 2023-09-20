@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Wormadam",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "weight": 6.5
+}

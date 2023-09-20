@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Unfezant",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 29.0
+}

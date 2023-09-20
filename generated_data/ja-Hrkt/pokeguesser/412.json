@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "つめたい　こがらしを　ふせぐため\nこえだや　おちばを　ざいりょうに\nミノを　つくり　からだを　おおう。",
+        "たたかいで　ミノが　こわれてしまうと\nちかくにある　ざいりょうで\nミノを　すぐに　つくりなおす。",
+        "つめたい　こがらしを　ふせぐため\nこえだや　おちばを　ざいりょうに\nミノを　つくり　からだを　おおう。",
+        "たたかいで　ミノが　こわれてしまうと\nちかくにある　ざいりょうで\nミノを　すぐに　つくりなおす。"
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+    "name": "ミノムッチ",
+    "types": [
+        "むし"
+    ],
+    "weight": 3.4
+}

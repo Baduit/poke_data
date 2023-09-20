@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "以每秒１６连击在树干上\n啄出洞来。啄开的洞穴\n用作收藏食物的仓库和巢穴。",
+        "树果是它的食物。\n将吃剩下的种子作为子弹\n从嘴里发射出，用来攻击。",
+        "会用坚硬的鸟嘴啄树木。\n通过啄击的节奏，大致就能知道\n它当时的心情和身体状况。",
+        "拥有看着很细，\n却很强韧的颈部肌肉。\n能以每秒１６连击的速度猛啄树木。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+    "name": "小笃儿",
+    "types": [
+        "一般",
+        "飞行"
+    ],
+    "weight": 1.2
+}

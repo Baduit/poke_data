@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 7,
+    "height": 2.0,
+    "name": "爆焰龟兽",
+    "types": [
+        "火",
+        "龙"
+    ],
+    "weight": 212.0
+}

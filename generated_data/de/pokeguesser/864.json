@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "In ihm wuchs eine mysteriöse Kraft und so löste\nes sich von seinem Panzer los. Sein geisterhaftes\nEktoplasma schützt die Seele im Kern.",
+        "Vor dem geisterhaften Ektoplasma, das seine\nSeele umhüllt, ist Vorsicht geboten. Berührt man\nes, erstarrt man wie zu Stein."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+    "name": "Gorgasonn",
+    "types": [
+        "Geist"
+    ],
+    "weight": 0.4
+}

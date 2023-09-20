@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 2,
+    "height": 2.1,
+    "name": "巨翅飞鱼",
+    "types": [
+        "水",
+        "飞行"
+    ],
+    "weight": 220.0
+}

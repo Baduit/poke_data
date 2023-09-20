@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Vor 100 Millionen Jahren starb es aus. Es fängt\nseine Beute mit als Blüte getarnten Tentakeln.",
+        "Vor 100 Millionen Jahren lebte dieses Pokémon auf\ndem Meeresgrund. Die Wissenschaft belebte es neu.",
+        "Von Liliep nahm man an, es sei seit etwa 100 Millionen\nJahren ausgestorben. Mit seinen wie Blütenblätter geformten\nTentakeln heftet es sich an einen Felsen auf dem Meeresboden\nund fängt Beute.",
+        "Liliep ist ein urzeitliches Pokémon, das aus einem Fossil\nerzeugt wurde. Es bleibt ständig an einem Felsen verankert.\nMit seinen beiden Augen hält es ständig Ausschau nach Beute.",
+        "In der Vorzeit lebte es im warmen Meer. Es\ntarnte sich als Seegras, um Beute aufzulauern\nund sie dann zu verschlingen.",
+        "Da es sich mit seinen starken Saugnäpfen an\nFelsen heftete, konnte es selbst von den\nstärksten Wellen nicht mitgerissen werden.",
+        "Dieses Pokémon wurde aus einem Fossil\nwiederbelebt. Vor etwa 100 Millionen Jahren\nwar es in warmen Meeren zu Hause.",
+        "Liliep heftet sich an Felsen am Meeresgrund.\nNähert sich Beute, fängt es diese mit seinen\nwie Blütenblätter geformten Tentakeln."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+    "name": "Liliep",
+    "types": [
+        "Gestein",
+        "Pflanze"
+    ],
+    "weight": 23.8
+}

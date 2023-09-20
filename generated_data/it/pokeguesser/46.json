@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Sul dorso di questo Pokémon nascono funghi\nchiamati tochukaso, che crescono insieme a lui.",
+        "Si nasconde sottoterra dove si ciba di radici.\nI funghi che ha sulla schiena sono parassiti.",
+        "Paras ha sulla schiena dei funghi parassiti chiamati tochukaso,\nche crescono traendo nutrimento dal Paras ospite. Sono molto\napprezzati come farmaco di longevità.",
+        "Paras ha sulla schiena dei funghi parassiti chiamati tochukaso,\nche crescono traendo nutrimento dal Paras ospite. Sono molto\napprezzati come farmaco di longevità.",
+        "Mangia a più non posso, ma i funghi che\ncrescono sul suo dorso gli rubano quasi\ntutto il nutrimento.",
+        "I funghi che ha sul dorso, chiamati tochukaso,\nsono considerati un farmaco di longevità.\nPrima dell’uso, vanno essiccati e polverizzati.",
+        "I funghi sul dorso di Paras crescono con\ndifficoltà ad Alola, forse per mancanza\ndi umidità o di nutrimento.",
+        "I funghi che crescono sul dorso di questo\nPokémon, chiamati tochukaso, controllano le sue\nazioni contro la sua volontà.",
+        "Scava nella terra per cibarsi delle radici degli\nalberi, ma i funghi che ha sul dorso assorbono\nquasi tutte le sostanze nutritive.",
+        "Scava nella terra per cibarsi delle radici degli\nalberi, ma i funghi che ha sul dorso assorbono\nquasi tutte le sostanze nutritive."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "name": "Paras",
+    "types": [
+        "Coleottero",
+        "Erba"
+    ],
+    "weight": 5.4
+}

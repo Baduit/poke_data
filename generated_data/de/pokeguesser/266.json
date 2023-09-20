@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es bindet sich mit Seide an Äste und trinkt\nRegenwasser, während es starr auf seine\nEntwicklung wartet.",
+        "Es trinkt den Tau, der sich in der Seide fängt, und\nwartet auf seine Entwicklung. Sein Kokon schützt es.",
+        "Schaloko bindet sich mit einem Seidenfaden an einen Ast.\nEs baumelt dort und wartet auf seine Entwicklung. Durch zwei\nkleine Löcher in seinem Seidenkokon lugt es heraus.",
+        "Bisher nahm man an, dass Schaloko vor seiner Entwicklung\nhungert und überhaupt nichts zu sich nimmt. Nun aber wird\nbehauptet, dass es seinen Durst mit Regenwasser löscht,\ndas sich auf seiner seidigen Hülle sammelt."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+    "name": "Schaloko",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 10.0
+}

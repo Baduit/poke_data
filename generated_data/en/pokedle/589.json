@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Escavalier",
+    "types": [
+        "Bug",
+        "Steel"
+    ],
+    "weight": 33.0
+}

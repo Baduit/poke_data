@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 3,
+    "height": 0.3,
+    "name": "Roselia",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 2.0
+}

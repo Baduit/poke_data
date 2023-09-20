@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Der Groll eines verstorbenen Reisenden fuhr in\neinen Sandhügel, den ein Kind gebaut hatte,\nund brachte dieses Pokémon in die Welt.",
+        "Es kann jeden kontrollieren, der seine Hand\nin sein Maul steckt, und bringt sie dann dazu,\nseinen Körper immer weiter zu vergrößern.",
+        "Die Schaufel auf seinem Kopf ist sein größter\nSchatz. Versucht ein Kind, sich seine Schaufel\nzurückzuholen, gibt es diese nicht kampflos auf.",
+        "Lässt man beim Spielen gebaute Sandhaufen\nzurück, kann es vorkommen, dass sich eine\nSeele dort einnistet und ein Sankabuh entsteht.",
+        "Es entstand aus einem Sandhaufen, in den der\nGroll eines Verstorbenen fuhr. Die Schaufel auf\nSankabuhs Kopf ist sein größter Schatz.",
+        "Für gewöhnlich lebt es an Stränden. Es kann alle\nkontrollieren, die ihre Hand in sein Maul stecken,\nund bringt sie dazu, seinen Körper zu vergrößern."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+    "name": "Sankabuh",
+    "types": [
+        "Geist",
+        "Boden"
+    ],
+    "weight": 70.0
+}

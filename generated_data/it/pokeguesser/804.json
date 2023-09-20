@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "È una delle forme di vita note come\nUltracreature. Il suo corpo contiene\ncentinaia di litri di veleno.",
+        "Una delle Ultracreature. Il luminoso liquido\ntossico che emette dagli aculei è caratterizzato\nda un’elevata viscosità."
+    ],
+    "height": 3.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "name": "Naganadel",
+    "types": [
+        "Veleno",
+        "Drago"
+    ],
+    "weight": 150.0
+}

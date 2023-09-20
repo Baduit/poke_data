@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 5,
+    "height": 2.5,
+    "name": "펜드라",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 200.5
+}

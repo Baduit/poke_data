@@ -1,0 +1,11 @@
+{
+    "color": "きいろ",
+    "generation": 1,
+    "height": 2.0,
+    "name": "ファイヤー",
+    "types": [
+        "ほのお",
+        "ひこう"
+    ],
+    "weight": 60.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Alla sua liana ricca di nutrienti attacca dei fiori\nche così riprendono vigore, emanando piacevoli\nfragranze.",
+        "Se si immergono i suoi fiori in un bagno caldo\nsi produce un effetto rilassante. Ciò lo ha reso\nmolto popolare nei centri termali.",
+        "Ama adornare di fiori la liana appiccicosa\nche gli spunta dalla testa. Se resta senza\nfiori, si fa prendere dall’ansia.",
+        "Usa i suoi fluidi corporei per attaccarsi addosso\ni fiori che raccoglie. Il profumo che emana dai\nsuoi petali ha proprietà curative.",
+        "Coglie fiori con la sua liana e li usa per decorare\nil proprio corpo. Non si sa come mai, ma i fiori\nche ha addosso non appassiscono.",
+        "Questo Pokémon emette un profumo davvero\ndelizioso. Ogni esemplare ha una fragranza\ndiversa a seconda dei fiori che ha addosso."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+    "name": "Comfey",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 0.3
+}

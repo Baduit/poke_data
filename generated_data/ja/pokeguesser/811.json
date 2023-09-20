@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "２本の　スティックで　激しい\nビートを　刻める　バチンキーほど\n仲間たちの　尊敬を　集める。",
+        "激しい　ビートを　刻むことに\n夢中になる　あまり　戦いで\n相手が　気絶しても　気づかない。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "name": "バチンキー",
+    "types": [
+        "くさ"
+    ],
+    "weight": 14.0
+}

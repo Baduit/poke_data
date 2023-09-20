@@ -1,0 +1,11 @@
+{
+    "color": "白色",
+    "generation": 1,
+    "height": 1.1,
+    "name": "巴大蝶",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 32.0
+}

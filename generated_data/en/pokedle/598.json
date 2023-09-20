@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Ferrothorn",
+    "types": [
+        "Grass",
+        "Steel"
+    ],
+    "weight": 110.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 3,
+    "height": 1.9,
+    "name": "Camerupt",
+    "types": [
+        "Fire",
+        "Ground"
+    ],
+    "weight": 220.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "胸の　突起を　掻きむしり\n電気を　起こすとき　あたりに\nギターのような　音が　響く。",
+        "ケンカ腰で　気が　短い。\nよどんだ　水を　がぶ飲みして\n水中の　毒素を　取りこむ。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "name": "ストリンダー",
+    "types": [
+        "でんき",
+        "どく"
+    ],
+    "weight": 40.0
+}

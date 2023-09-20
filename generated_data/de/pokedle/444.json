@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 4,
+    "height": 1.4,
+    "name": "Knarksel",
+    "types": [
+        "Drache",
+        "Boden"
+    ],
+    "weight": 56.0
+}

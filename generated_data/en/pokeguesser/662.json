@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "From its beak, it expels embers that set\nthe tall grass on fire. Then it pounces on\nthe bewildered prey that pop out of the grass.",
+        "The hotter the flame sac on its belly,\nthe faster it can fly, but it takes some\ntime to get the fire going.",
+        "From its beak, it expels embers that set\nthe tall grass on fire. Then it pounces on\nthe bewildered prey that pop out of the grass.",
+        "The hotter the flame sac on its belly,\nthe faster it can fly, but it takes some\ntime to get the fire going.",
+        "From its beak, it fires embers at its prey. Once\nit has caught them, it grills them at high heat\nbefore feasting upon them.",
+        "It will not tolerate other Fletchinder entering its\nterritory, which has a radius of several miles.",
+        "It scatters embers in the tall grass. Then bug\nPokémon, frightened by the flames, come\nflying out, and Fletchinder gobbles them up.",
+        "Its speed right after takeoff already puts it in\nthe top speed class of all bird Pokémon.",
+        "Fletchinder launches embers into the den of\nits prey. When the prey comes leaping out,\nFletchinder’s sharp talons finish it off.",
+        "Fletchinder are exceedingly territorial and\naggressive. These Pokémon fight among\nthemselves over feeding grounds."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "name": "Fletchinder",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "weight": 16.0
+}

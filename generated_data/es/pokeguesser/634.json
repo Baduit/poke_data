@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sus dos cabezas se llevan fatal, y la que consigue\ncomer más que la otra es la que lleva la voz cantante.",
+        "Cambia de morada siempre que termina con la comida\nde una zona. Sus dos cabezas se llevan fatal.",
+        "Sus dos cabezas se llevan fatal, y la que consigue comer más\nque la otra es la que lleva la voz cantante.",
+        "Cambia de morada siempre que termina con la comida de una\nzona. Sus dos cabezas se llevan fatal.",
+        "Rastrea su territorio en busca de alimento.\nA menudo sus dos cabezas son incapaces de\nacordar hacia qué dirección avanzar.",
+        "Las dos cabezas se disputan la comida con\nbrutalidad. Por eso siempre está cubierto de\nheridas, aunque no haya combatido contra nadie."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "name": "Zweilous",
+    "types": [
+        "Siniestro",
+        "Dragón"
+    ],
+    "weight": 50.0
+}

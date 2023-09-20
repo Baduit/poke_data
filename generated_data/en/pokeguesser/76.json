@@ -1,0 +1,43 @@
+{
+    "descriptions": [
+        "Its boulder-like\nbody is extremely\nhard. It can\feasily withstand\ndynamite blasts\nwithout damage.",
+        "Its boulder-like\nbody is extremely\nhard. It can\feasily withstand\ndynamite blasts\nwithout damage.",
+        "Once it sheds its\nskin, its body\nturns tender and\fwhitish. Its hide\nhardens when it's\nexposed to air.",
+        "It sheds its skin\nonce a year. The\ndiscarded shell\fimmediately hard­\nens and crumbles\naway.",
+        "It is capable of\nblowing itself up.\nIt uses this\fexplosive force to\njump from mountain\nto mountain.",
+        "Its rock-like body\nis so durable,\neven high-powered\fdynamite blasts\nfail to scratch\nits rugged hide.",
+        "GOLEM live up on mountains.\nIf there is a large earthquake, these\nPOKéMON will come rolling down off\fthe mountains en masse to the\nfoothills below.",
+        "GOLEM is known for rolling down from\nmountains. To prevent them from rolling\ninto the homes of people downhill,\fgrooves have been dug into the sides of\nmountains to serve as guideways for\ndiverting this POKéMON’s course.",
+        "It is said to live in volcanic craters\non mountain peaks. Once a year, it sheds\nits hide and grows larger. The shed hide\ncrumbles and returns to the soil.",
+        "It is enclosed in a hard shell that is as\nrugged as slabs of rock. It sheds skin\nonce a year to grow larger.",
+        "Its boulder-like body is extremely hard.\nIt can easily withstand dynamite blasts\nwithout taking damage.",
+        "It sheds its hide once a year.\nIts boulderlike body is so tough,\neven dynamite can’t harm it.",
+        "It tumbles down mountains, leaving\ngrooves from peak to base.\nStay clear of these grooves.",
+        "Even dynamite can’t harm its hard,\nboulderlike body. It sheds its hide\njust once a year.",
+        "It sheds its skin once a year.\nThe discarded shell immediately\nhardens and crumbles away.",
+        "It is capable of blowing itself up.\nIt uses this explosive force to\njump from mountain to mountain.",
+        "Even dynamite can’t harm its hard,\nboulderlike body. It sheds its hide\njust once a year.",
+        "Even dynamite can’t harm its hard,\nboulderlike body. It sheds its hide\njust once a year.",
+        "Even dynamite can’t harm its hard,\nboulder-like body. It sheds its hide\njust once a year.",
+        "Even dynamite can’t harm its hard,\nboulder-like body. It sheds its hide\njust once a year.",
+        "It tumbles down mountains, leaving grooves\nfrom peak to base. Stay clear of these grooves.",
+        "Even dynamite can’t harm its hard, boulder-like\nbody. It sheds its hide just once a year.",
+        "Golem live up on mountains. If there is a large earthquake,\nthese Pokémon will come rolling down off the mountains\nen masse to the foothills below.",
+        "Golem is known for rolling down from mountains. To prevent\nthem from rolling into the homes of people downhill, grooves\nhave been dug into the sides of mountains to serve as\nguideways for diverting this Pokémon’s course.",
+        "Its body can survive dynamite blasts without\na single scratch, but it hates rain and humidity.",
+        "Once a year, this Pokémon molts, and its shed\nshell returns to the soil. This process creates\nenriched soil, so farmers collect the shells.",
+        "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss.",
+        "It detonates its own body. The power from\nthat explosion can propel it up steep mountain\npaths with amazing speed.",
+        "Once it sheds its skin, its body turns tender\nand whitish. Its hide hardens when it’s\nexposed to air.",
+        "Once it sheds its skin, its body turns tender\nand whitish. Its hide hardens when it’s\nexposed to air.",
+        "The rocklike shell is shed each year. The cast-off shell then\ncrumbles, reverting to a mass of soil, which can be spread across\nfields to promote crop growth."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "name": "Golem",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "weight": 300.0
+}

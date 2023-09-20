@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 4,
+    "height": 1.4,
+    "name": "Probopass",
+    "types": [
+        "Rock",
+        "Steel"
+    ],
+    "weight": 340.0
+}

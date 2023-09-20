@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Golbit",
+    "types": [
+        "Boden",
+        "Geist"
+    ],
+    "weight": 92.0
+}

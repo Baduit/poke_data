@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Lileep",
+    "types": [
+        "Roca",
+        "Planta"
+    ],
+    "weight": 23.8
+}

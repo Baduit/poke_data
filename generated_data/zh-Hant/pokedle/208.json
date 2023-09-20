@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 2,
+    "height": 9.2,
+    "name": "大鋼蛇",
+    "types": [
+        "鋼",
+        "地面"
+    ],
+    "weight": 400.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 7,
+    "height": 1.8,
+    "name": "Tarenbulle",
+    "types": [
+        "Eau",
+        "Insecte"
+    ],
+    "weight": 82.0
+}

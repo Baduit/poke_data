@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "À force de rêver de pouvoir voler,\nsa structure cellulaire a évolué\net il s’est vu pousser des ailes.",
+        "À force de rêver de pouvoir voler,\nsa structure cellulaire a évolué\net il s’est vu pousser des ailes.",
+        "Une fois enragé, plus rien ne peut arrêter Drattak.\nIl détruit tout ce qu’il voit en utilisant ses griffes ou\nen crachant des flammes.",
+        "Ses colères sont dévastatrices. Il s’envole et brûle\ntout sur son passage.",
+        "Drattak a ce physique grâce à son désir de pouvoir s’envoler.\nOn dit que cette puissante envie a déclenché une soudaine\nmutation moléculaire de ce Pokémon, faisant surgir de\nsplendides ailes.",
+        "En évoluant en Drattak, ce Pokémon réalise un rêve\nd’enfance, celui d’avoir des ailes. Pour exprimer sa joie,\nil vole et plane dans les cieux en crachant des flammes.",
+        "Quand il est pris de colère, il perd toute mesure\net détruit ce qui l’entoure. Tant qu’il lui reste une\nonce d’énergie, il continue de tout dévaster.",
+        "Il fend l’air et virevolte dans le ciel grâce à ses\nailes fraîchement formées. De bonheur, il crache\ndu feu et dévaste toutes les cultures au sol.",
+        "Maintenant qu’il peut enfin voler, il passe tout\nson temps à parcourir le ciel et ne redescend\nque quand il tombe d’épuisement.",
+        "Après avoir prié jour et nuit de tout son cœur,\nson souhait a enfin été exaucé : ses cellules\nont muté pour donner naissance à des ailes !",
+        "Ce Pokémon rare a tellement souhaité\nvoler qu’il s’est vu pousser des ailes\npendant son évolution.",
+        "Heureux de pouvoir voler dans le ciel, il est\nsouvent de bonne humeur, mais il devient\nincontrôlable lorsqu’on le met en colère."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "name": "Drattak",
+    "types": [
+        "Dragon",
+        "Vol"
+    ],
+    "weight": 102.6
+}

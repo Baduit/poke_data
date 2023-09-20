@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Pidove",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 2.1
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Der von ihm verströmte Duft verzückt jeden, der ihn\nriecht. Je nachdem, was es frisst, ändert sich sein Duft.",
+        "In der Vergangenheit hatten vornehme Damen, anstatt\nParfüm zu benutzen, immer ein Parfi dabei, das ihren\nLieblingsduft verströmte.",
+        "Der von ihm verströmte Duft verzückt jeden, der ihn riecht.\nJe nachdem, was es frisst, ändert sich sein Duft.",
+        "In der Vergangenheit hatten vornehme Damen, anstatt Parfüm\nzu benutzen, immer ein Parfi dabei, das ihren Lieblingsduft\nverströmte.",
+        "Dieses Pokémon erzeugt Gerüche mithilfe einer\nDrüse in seinem Körper. Je nach Futter kann es\nunterschiedliche Düfte produzieren.",
+        "Von seinem Körper geht ein süßer Duft aus, der\neinfach jeden bezaubert. Bei den vornehmen\nDamen des Adels war es besonders beliebt."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+    "name": "Parfi",
+    "types": [
+        "Fee"
+    ],
+    "weight": 0.5
+}

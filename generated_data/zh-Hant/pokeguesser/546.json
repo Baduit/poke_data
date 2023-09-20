@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "找到夥伴後就會黏過去。\n黏得太多的話，\n有時候看上去就像積雨雲。",
+        "使用木棉球吐出的棉花\n製作而成的枕頭和被褥\n是又輕又透氣的高級商品。",
+        "會撒出棉花保護自己。\n如果淋到雨，棉花就會受潮變重，\n讓牠的身體動彈不得。",
+        "遭到襲擊時，會噴出身上的\n棉花當成替身。噴出的棉花\n很快就會長回來。",
+        "會噴出棉花保護身體。\n有時會被颱風吹到\n地球的另一邊。",
+        "將木棉球和白蓬蓬的棉花\n混合後編織出的布料極其精緻，\n因此常被高級品牌選用。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "name": "木棉球",
+    "types": [
+        "草",
+        "妖精"
+    ],
+    "weight": 0.6
+}

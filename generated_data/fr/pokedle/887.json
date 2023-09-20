@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 8,
+    "height": 3.0,
+    "name": "Lanssorien",
+    "types": [
+        "Dragon",
+        "Spectre"
+    ],
+    "weight": 50.0
+}

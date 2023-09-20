@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "會像揮動鎚子般揮下自己\n大大的手臂，趕走要襲擊\n雪笠怪的火紅不倒翁群體。",
+        "會引發暴風雪的寶可夢。\n只要牠搖動巨大的身體，\n周圍立刻會變得一片雪白。"
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "name": "暴雪王",
+    "types": [
+        "草",
+        "冰"
+    ],
+    "weight": 135.5
+}

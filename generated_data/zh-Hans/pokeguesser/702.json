@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "潜入民居，从插座里偷电。\n电费很奇怪的时候，\n就是这家伙的杰作。",
+        "上面的胡子是探索周边的感应器。\n下面长出的胡子是释放电的器官。",
+        "用胡子来感知伙伴发出\n的电波。它们通过这种方式\n告诉彼此哪里有食物和电。",
+        "由于发电的能力弱，\n会从插座或其他的\n电气宝可梦那里偷电。"
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "name": "咚咚鼠",
+    "types": [
+        "电",
+        "妖精"
+    ],
+    "weight": 2.2
+}

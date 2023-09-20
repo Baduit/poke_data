@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 3,
+    "height": 0.9,
+    "name": "갱도라",
+    "types": [
+        "강철",
+        "바위"
+    ],
+    "weight": 120.0
+}

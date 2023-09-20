@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Lorsqu’il gratte l’excroissance sur son ventre\npour produire de l’électricité, on peut entendre\nun son similaire à celui d’une guitare.",
+        "Impatient et bagarreur, ce Pokémon avale\nde grandes gorgées d’eau croupie pour\nen absorber toute la toxicité."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "name": "Salarsen",
+    "types": [
+        "Électrik",
+        "Poison"
+    ],
+    "weight": 40.0
+}

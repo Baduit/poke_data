@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Sus incisivos, de fuerza y dureza extraordinarias,\nle permiten mordisquear incluso las bayas más\nduras. Es un Pokémon muy común en Galar.",
+        "Se obceca tanto en acumular bayas en la cola\nque no se da ni cuenta de cuando tiene\ndemasiadas y se le acaban cayendo."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "name": "Greedent",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

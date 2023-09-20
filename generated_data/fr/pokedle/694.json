@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 6,
+    "height": 0.5,
+    "name": "Galvaran",
+    "types": [
+        "Électrik",
+        "Normal"
+    ],
+    "weight": 6.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Con el fin de revitalizarse, inhala por la nariz la\nenergía negativa que desprenden tanto personas\ncomo Pokémon cuando están descontentos.",
+        "Se infiltra en las casas para hurtar a sus anchas y,\npor si fuera poco, nutrirse de la energía negativa\nque liberan sus contrariados habitantes."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+    "name": "Impidimp",
+    "types": [
+        "Siniestro",
+        "Hada"
+    ],
+    "weight": 5.5
+}

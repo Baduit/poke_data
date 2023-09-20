@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "DUSKULL can pass through any wall no\nmatter how thick it may be.\nOnce this POKéMON chooses a target,\fit will doggedly pursue the intended\nvictim until the break of dawn.",
+        "DUSKULL wanders lost among the deep\ndarkness of midnight. There is an oft-\ntold admonishment given to misbehaving\fchildren that this POKéMON will spirit\naway bad children who earn scoldings\nfrom their mothers.",
+        "A glare from its single scarlet eye makes\neven burly grown-ups freeze in utter fear.\nIt is a nocturnal POKéMON that roams\nabout under the cloak of darkness.",
+        "Making itself invisible, it silently sneaks\nup to prey. It has the ability to slip\nthrough thick walls.",
+        "Making itself invisible, it silently sneaks\nup to prey. It has the ability to slip\nthrough thick walls.",
+        "It doggedly pursues its prey\nwherever it goes. However, the\nchase is abandoned at sunrise.",
+        "It doggedly pursues its prey\nwherever it goes. However, the\nchase is abandoned at sunrise.",
+        "It loves the crying of children. It\nstartles bad kids by passing\nthrough walls and making them cry.",
+        "If it finds bad children who won’t\nlisten to their parents, it will\nspirit them away--or so it’s said.",
+        "If it finds bad children who won’t\nlisten to their parents, it will\nspirit them away--or so it’s said.",
+        "It loves the crying of children. It\nstartles bad kids by passing\nthrough walls and making them cry.",
+        "It loves the crying of children. It\nstartles bad kids by passing\nthrough walls and making them cry.",
+        "It loves the crying of children. It\nstartles bad kids by passing\nthrough walls and making them cry.",
+        "It loves the crying of children. It\nstartles bad kids by passing\nthrough walls and making them cry.",
+        "It doggedly pursues its prey wherever it goes.\nHowever, the chase is abandoned at sunrise.",
+        "If it finds bad children who won’t listen to their\nparents, it will spirit them away--or so it’s said.",
+        "Duskull can pass through any wall no matter how thick it may\nbe. Once this Pokémon chooses a target, it will doggedly\npursue the intended victim until the break of dawn.",
+        "Duskull wanders lost among the deep darkness of midnight.\nThere is an oft-told admonishment given to misbehaving\nchildren that this Pokémon will spirit away bad children who\nearn scoldings from their mothers.",
+        "If it finds bad children who won’t listen to their\nparents, it will spirit them away—or so it’s said.",
+        "Making itself invisible, it silently sneaks up to\nprey. It has the ability to slip through thick walls.",
+        "I've heard that the children of Hisui all begin to behave once\nthey've been told the story of how this Pokémon roams about\nbefore the witching hour to spirit away misbehaving children."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "name": "Duskull",
+    "types": [
+        "Ghost"
+    ],
+    "weight": 15.0
+}

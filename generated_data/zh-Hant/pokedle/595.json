@@ -1,0 +1,11 @@
+{
+    "color": "黃色",
+    "generation": 5,
+    "height": 0.1,
+    "name": "電電蟲",
+    "types": [
+        "蟲",
+        "電"
+    ],
+    "weight": 0.6
+}

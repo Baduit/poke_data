@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Ein prähistorisches Pokémon, das zur Urzeit im\nWasser lebte. Es schwimmt, indem es seine\nzehn Tentakel bewegt.",
+        "Es wurde aus einem Fossil reanimiert. Es nutzt\ndie Luftkammern in seiner Schale, um ab- und\naufzutauchen.",
+        "Amonitas ist ein Pokémon, das lange Zeit ausgestorben war,\naber von den Menschen aus Fossilien reproduziert wurde.\nWenn es von einem Feind angegriffen wird, zieht es sich in\nsein hartes Gehäuse zurück.",
+        "Amonitas ist ein Pokémon, das lange Zeit ausgestorben war,\naber durch die Menschen aus Fossilien reproduziert wurde.\nWenn es von einem Feind angegriffen wird, zieht es sich in\nsein hartes Gehäuse zurück.",
+        "Es lebte im urzeitlichen Meer. Bissspuren auf\nseinen Fossilien deuten darauf hin, dass es\ndamals von Aeropteryx gejagt wurde.",
+        "Es konnte durch Fossilien seines Gehäuses\nneu belebt werden, die an Orten gefunden\nwurden, an denen sich früher das Meer befand.",
+        "Es wurde aus einem Fossil zurückverwandelt.\nIn der Urzeit schwamm es durch geschicktes\nBewegen seiner zehn Tentakel durch das Meer.",
+        "Es wurde aus einem Fossil zurückverwandelt.\nIn der Urzeit schwamm es durch geschicktes\nBewegen seiner zehn Tentakel durch das Meer.",
+        "Diese Pokémon entwickeln sich allmählich zu\neinem Problem, da einige wiederbelebte\nExemplare fliehen oder freigelassen werden.",
+        "Ein einst ausgestorbenes Urzeit-Pokémon. Wenn\nes mit seinen zehn Tentakeln paddelnd durch das\nWasser gleitet, meint man, es würde schweben."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "name": "Amonitas",
+    "types": [
+        "Gestein",
+        "Wasser"
+    ],
+    "weight": 7.5
+}

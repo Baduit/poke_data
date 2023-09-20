@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "雪雲の　中で　生まれた。\n氷の　結晶で　できた　鎖で\n獲物を　捕まえる。",
+        "氷の　結晶で　できた\n鎖を使い　獲物を　絡め取り\nマイナス１００度に　凍らせる。",
+        "雪雲の　中で　生まれた。\n氷の　結晶で　できた　鎖で\n獲物を　捕まえる。",
+        "氷の　結晶で　できた\n鎖を使い　獲物を　絡め取り\nマイナス１００度に　凍らせる。",
+        "氷で　作った　鎖を　操って\n出会った　ものを　凍らせ\nどこかへ　連れ去る。",
+        "暑くなると　水蒸気に　変わる。\n夏場に　姿を　見ることは\nほとんどない。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+    "name": "フリージオ",
+    "types": [
+        "こおり"
+    ],
+    "weight": 148.0
+}

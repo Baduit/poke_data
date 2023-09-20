@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Au repos, rien ne le distingue d’un\nvulgaire caillou. Malheur à ceux qui\nlui marchent dessus par mégarde!",
+        "Au repos, rien ne le distingue d’un\nvulgaire caillou. Malheur à ceux qui\nlui marchent dessus par mégarde!",
+        "Il vit dans les plaines ou les montagnes.\nOn le confond souvent avec un petit caillou.",
+        "Son corps se fond dans la roche. Les Pokémon\nde cette espèce se bousculent au cours d’épreuves\nde force.",
+        "Lorsqu’un Racaillou prend de l’âge, ses bords s’ébrèchent\net s’usent, ce qui lui donne une apparence plus ronde.\nCependant, le cœur de ce Pokémon reste dur, rocailleux\net rugueux.",
+        "Pour dormir profondément, Racaillou s’enterre à moitié\ndans le sol. Il ne se réveille pas, même si des randonneurs\nlui marchent dessus. Au petit matin, ce Pokémon roule en\ncontrebas en quête de nourriture.",
+        "Il est rond comme une balle, mais aussi très\ndur et lourd. Mieux vaut ne pas le lancer sur\nquelqu’un comme si c’était une boule de neige.",
+        "On en trouve en masse sur le bas-côté des\nroutes. Un universitaire qui s’ennuyait en a\ndénombré une centaine sur la même route.",
+        "Les aspérités de Racaillou s’adoucissent au fil\ndes années, tout comme sa personnalité.\nIl devient tout lisse, tout rond, et tout calme.",
+        "Il grimpe les côtes escarpées à mains nues.\nC’est en le voyant à l’œuvre que des humains\nse sont mis à l’escalade de bloc.",
+        "On en trouve près des sentiers de montagne.\nSi vous marchez dessus par inadvertance,\nils s’énervent et attaquent.",
+        "On en trouve près des sentiers de montagne.\nSi vous marchez dessus par inadvertance,\nils s’énervent et attaquent."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "name": "Racaillou",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 20.0
+}

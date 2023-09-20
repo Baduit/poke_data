@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "反复使出头锤的头盖骨变得又硬又厚。\n但脑子比起头盖龙有所缩减。",
+        "曾经有过复原进化后的\n战槌龙逃之夭夭，\n用头锤破坏高层建筑的记录。",
+        "过去的人们曾在挖出化石后，\n用比钢铁还硬的头盖骨做成头盔。",
+        "擅长头锤的古代宝可梦。\n因为大脑真的很小，\n所以也有说法它是因愚笨而灭亡的。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "name": "战槌龙",
+    "types": [
+        "岩石"
+    ],
+    "weight": 102.5
+}

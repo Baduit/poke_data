@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 1,
+    "height": 1.8,
+    "name": "Aerodactyl",
+    "types": [
+        "Roca",
+        "Volador"
+    ],
+    "weight": 59.0
+}

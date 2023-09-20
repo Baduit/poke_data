@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Stellen sie sich Seite an Seite, kann kein Gegner\nhindurchbrechen. So schützen sie auch ihre Jungen.",
+        "Jeder Frontalangriff wird abgeschmettert. Dieses\nfriedliche Pokémon ernährt sich von Gras und Beeren.",
+        "Stellen sie sich Seite an Seite, kann kein Gegner\nhindurchbrechen. So schützen sie auch ihre Jungen.",
+        "Jeder Frontalangriff wird abgeschmettert. Dieses friedliche\nPokémon ernährt sich von Gras und Beeren.",
+        "Alle möglichen Angriffe von vorn kann es\nabwehren, aber von hinten ist es schutzlos.",
+        "Es lebte in denselben Gebieten wie Rameidon.\nManche Fossilienfunde legen nahe, dass sie sich\nerbitterte Kämpfe geliefert haben.",
+        "Als man Fossilien noch nicht zurückverwandeln\nkonnte, war man der Ansicht, sein großer, harter\nGesichtsknochen sei sein Rücken.",
+        "Dieses Pokémon lebte vor etwa 100 Millionen\nJahren. Sein unglaublich robustes Gesicht ist\nhärter als Stahl."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "name": "Bollterus",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 149.5
+}

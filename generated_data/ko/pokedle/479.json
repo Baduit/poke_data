@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 4,
+    "height": 0.3,
+    "name": "로토무",
+    "types": [
+        "전기",
+        "고스트"
+    ],
+    "weight": 0.3
+}

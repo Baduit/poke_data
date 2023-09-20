@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 2,
+    "height": 0.9,
+    "name": "信使鸟",
+    "types": [
+        "冰",
+        "飞行"
+    ],
+    "weight": 16.0
+}

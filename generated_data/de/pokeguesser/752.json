@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es verteilt mit seiner Wasserblase Kopfstöße.\nKleine Pokémon werden dabei hineingezogen\nund ertrinken.",
+        "Es ist fürsorglicher, als es aussieht. Findet es\neinen kleinen, schwachen Artgenossen, gewährt\nes ihm Einlass in seine Wasserblase.",
+        "Es verlässt das Wasser nur sehr selten. Wenn es\nsatt ist, bewahrt es erledigte Beute in der\nWasserblase auf seinem Kopf auf.",
+        "Dinge, die ihm wichtig sind, pflegt es in seiner\nWasserblase aufzubewahren. Dazu gehört auch\nsein Trainer, wenn dieser nicht aufpasst.",
+        "Mit seinen Beinen verschießt es Wasserblasen,\num Beute darin einzuschließen und zu ertränken.\nDann verspeist es sie in aller Ruhe.",
+        "Es lässt Araqua in der Wasserblase um seinen\nKopf Platz nehmen und kümmert sich um es,\nindem es ihm Futterreste überlässt."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+    "name": "Aranestro",
+    "types": [
+        "Wasser",
+        "Käfer"
+    ],
+    "weight": 82.0
+}

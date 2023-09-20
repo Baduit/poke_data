@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Masquerain",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 3.6
+}

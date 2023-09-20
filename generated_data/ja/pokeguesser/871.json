@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "棘の　先から　電気を　放つ。\n鋭い　歯で　岩に　ついた\n海藻を　こそいで　食べる。",
+        "棘の　１本　１本に　電気を\n蓄える。　折れた　棘でも\n３時間は　放電を　続けるぞ。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "name": "バチンウニ",
+    "types": [
+        "でんき"
+    ],
+    "weight": 1.0
+}

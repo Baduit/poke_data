@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Aus seinen Hufen verströmt es eisige Kälte.\nDieses ungestüme Pokémon nimmt sich alles,\nwas es will, mit roher Gewalt.",
+        "Das Gesicht dieses außergewöhnlich starken\nPokémon wird von einer Maske aus Eis bedeckt,\ndie hundertmal härter als Diamant ist."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "name": "Polaross",
+    "types": [
+        "Eis"
+    ],
+    "weight": 800.0
+}

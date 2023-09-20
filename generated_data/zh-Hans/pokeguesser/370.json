@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "变成只有独自１只的爱心鱼\n无精打采地，尽是空虚。\n就在那时被大嘴鸥叼走了。",
+        "在情侣中人气很高，\n因此被放养在蜜月客人\n住宿的酒店泳池里。",
+        "如果拥有它的心形鳞片，\n就能交往到恋人。也曾有个时期\n因为这个谣传而遭到滥捕。",
+        "温暖海域的珊瑚礁是它的栖息地。\n特别喜欢在太阳珊瑚的枝条间睡觉。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "name": "爱心鱼",
+    "types": [
+        "水"
+    ],
+    "weight": 8.7
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "On dit que des groupes entiers de\nStalgamin vivent en harmonie\nsous des feuilles gigantesques.",
+        "On dit que des groupes entiers de\nStalgamin vivent en harmonie\nsous des feuilles gigantesques.",
+        "On dit que des groupes entiers de Stalgamin vivent\nen harmonie sous des feuilles gigantesques.",
+        "Selon un vieux dicton des régions enneigées :\n« Stalgamin dans la maison, richesse à l’horizon ».",
+        "Les Stalgamin vivent dans les régions enneigées.\nPendant les saisons sans neige, comme le printemps\net l’été, ces Pokémon se retirent pour vivre dans\nles cavernes, au milieu des stalactites et des stalagmites.",
+        "Stalgamin survit en se nourrissant uniquement de neige\net d’eau. De vieilles légendes racontent que les maisons\nvisitées par ce Pokémon sont assurées d’être prospères\npendant plusieurs générations.",
+        "De nombreux spécimens de ce Pokémon vivent\ndans la région d’Alola. On dit que les maisons\nabritant un Stalgamin seront prospères.",
+        "Il ne peut voir le jour que dans les plus froides\ncontrées. Il s’accommode parfaitement de\ntempératures atteignant les -100 °C.",
+        "Il se nourrit principalement de neige et de glace.\nLe climat chaud d’Alola le contraint à vivre dans\ndes lieux bien spécifiques.",
+        "Il semblerait que toute personne aisée ayant\ngrandi dans les régions enneigées se rappelle\navoir joué avec un Stalgamin étant enfant.",
+        "Quand ce Pokémon apparaît la nuit, il provoque\nde fortes chutes de neige.\nIl se nourrit de glace et de neige.",
+        "Il ne peut vivre que dans les plus froides contrées.\nIl s’accommode parfaitement de températures\natteignant les - 100 °C."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "name": "Stalgamin",
+    "types": [
+        "Glace"
+    ],
+    "weight": 16.8
+}

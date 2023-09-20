@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Di piccole dimensioni, un tempo era del tutto innocuo.\nÈ diventato più aggressivo brandendo un osso\ncome arma.",
+        "L’osso che impugna è la sua arma. Lo scaglia come\nun boomerang per mettere KO i suoi avversari.",
+        "Marowak si evolve da Cubone dopo aver superato il lutto\nper la perdita della madre ed essersi fatto forte. Questo\nPokémon dall’animo forgiato e temprato non si fa prendere\nfacilmente dallo sconforto.",
+        "Marowak si evolve da Cubone dopo aver superato il lutto\nper la perdita della madre ed essersi fatto forte. Questo\nPokémon dall’animo forgiato e temprato non si fa prendere\nfacilmente dallo sconforto.",
+        "Prima era timido e pauroso, ma dopo\nl’evoluzione è diventato aggressivo, come\ndimostra l’osso che brandisce.",
+        "Scaglia il suo osso come un boomerang per\nabbattere i Mandibuzz, suoi antichi predatori,\ne vendicarsi.",
+        "Scaglia il suo osso per abbattere i Mandibuzz.\nSi dice che in questo modo voglia vendicare\nla morte di sua madre.",
+        "Comunica con i propri simili sbattendo\nritmicamente il suo osso. Sono stati contati\ncirca 50 ritmi diversi.",
+        "Questo Pokémon era piccolo e debole, ma\nsi è fatto aggressivo e ha imparato a usare\nabilmente il suo osso nella lotta.",
+        "Questo Pokémon era piccolo e debole, ma\nsi è fatto aggressivo e ha imparato a usare\nabilmente il suo osso nella lotta.",
+        "Si è evoluto dopo essersi temprato e aver\nsuperato il lutto. Usa l’osso come un’arma\ne lotta valorosamente contro i nemici.",
+        "Evolvendosi è diventato tutt’uno con il teschio\ndella madre che prima indossava e ha acquisito\nun temperamento violento."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "name": "Marowak",
+    "types": [
+        "Terra"
+    ],
+    "weight": 45.0
+}

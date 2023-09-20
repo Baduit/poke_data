@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ha la pelle così dura che un lottatore di sumo\npotrebbe calpestarlo senza fargli male. L’elettricità\ngli fa il solletico.",
+        "Attende al varco le prede, sepolto nel fango in riva\nal mare. Se lo sfiorano, le paralizza con una scarica\nelettrica.",
+        "Ha la pelle così dura che un lottatore di sumo potrebbe\ncalpestarlo senza fargli male. L’elettricità gli fa il solletico.",
+        "Attende al varco le prede, sepolto nel fango in riva al mare.\nSe lo sfiorano, le paralizza con una scarica elettrica.",
+        "Abita i fondali che emergono durante la bassa\nmarea. Ha sviluppato un organo che produce\nelettricità grazie a un batterio che vive nel fango.",
+        "Per qualche strano motivo accenna sempre\nun sorriso quando rilascia una forte scarica\nelettrica dai motivi gialli sul suo corpo."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "name": "Stunfisk",
+    "types": [
+        "Terra",
+        "Elettro"
+    ],
+    "weight": 11.0
+}

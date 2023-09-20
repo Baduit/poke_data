@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es hüpft gerne wie ein Ball herum. Je mehr\nMeerwasser es trinkt, desto höher kann es springen.",
+        "Es nimmt täglich 1 t an Nahrung auf und lässt verspielt\nWasserfontänen aus seinem Atemloch aufschießen.",
+        "Wailmers Nasenlöcher liegen über seinen Augen. Dieses\nverspielte Pokémon erschreckt gern Menschen, indem\nes das Meerwasser, das es in seinem Körper speichert,\nmit aller Kraft herausprustet.",
+        "Wailmer kann Wasser in seinem Körper speichern,\num sich in einen Ball zu verwandeln und herumzuhüpfen.\nWenn es die Wassermenge steigert, kann dieses Pokémon\nnoch höher hüpfen.",
+        "Wailmer liebt es, Menschen zu erschrecken.\nEs trinkt so viel Meerwasser, dass es sich in\neinen Ball verwandeln und herumhüpfen kann.",
+        "Es prustet Meerwasser aus den über seinen\nAugen liegenden Nasenlöchern hinaus.\nAußerdem frisst es täglich eine Tonne Lusardin.",
+        "Es schwimmt mit offenem Maul und nimmt mit\ndem Wasser sein Futter auf. Überschüssiges\nWasser stößt es durch seine Nasenlöcher aus.",
+        "Als Überbleibsel ihres einstigen Lebens an Land\ndeutet man den Umstand, dass Wailmer ab und\nan auch heute noch Strände aufsuchen.",
+        "Es prustet Meerwasser aus den Nasenlöchern,\ndie über seinen Augen liegen. Außerdem frisst\nes täglich eine Tonne Lusardin.",
+        "Verschluckt es eine große Menge Meerwasser,\nwird sein Körper elastisch wie ein Ball. Es frisst\ntäglich eine Tonne Nahrung."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "name": "Wailmer",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 130.0
+}

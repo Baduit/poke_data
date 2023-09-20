@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "花蜜和花粉是牠的食物。\n擁有感知氣場的力量，\n能分辨出要綻放的花。",
+        "擁有像花一般氣場的人，\n頭上會有許多萌虻聚集過來哦。",
+        "喜歡吃花蜜和花粉。\n經常在花圃裡為了爭奪食物\n而和巴大蝶發生小衝突。",
+        "能夠感知生物的氣場。\n擅長透過氣場預先判斷\n敵人的行動並玩弄對方。",
+        "花粉和花蜜是萌虻的最愛。\n為了採集幼棉棉的花粉，\n萌虻會在牠們附近飛來飛去。",
+        "從敵人散發出的氣場\n來判斷對方下一步的行動。\n能輕盈地躲開攻擊並進行反擊。"
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "name": "萌虻",
+    "types": [
+        "蟲",
+        "妖精"
+    ],
+    "weight": 0.2
+}

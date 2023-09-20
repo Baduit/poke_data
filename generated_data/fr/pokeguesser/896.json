@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Violent au point de s’emparer de tout ce qu’il\ndésire par la force, ce Pokémon est capable\nde libérer un puissant air glacial de ses sabots.",
+        "Ce Pokémon à la force hors du commun porte\nun masque composé de glace cent fois plus\nsolide que le diamant."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "name": "Blizzeval",
+    "types": [
+        "Glace"
+    ],
+    "weight": 800.0
+}

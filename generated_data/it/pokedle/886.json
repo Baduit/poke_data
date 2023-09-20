@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 8,
+    "height": 1.4,
+    "name": "Drakloak",
+    "types": [
+        "Drago",
+        "Spettro"
+    ],
+    "weight": 11.0
+}

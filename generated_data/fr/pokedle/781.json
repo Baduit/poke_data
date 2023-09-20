@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 7,
+    "height": 3.9,
+    "name": "Sinistrail",
+    "types": [
+        "Spectre",
+        "Plante"
+    ],
+    "weight": 210.0
+}

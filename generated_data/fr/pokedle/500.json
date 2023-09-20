@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 5,
+    "height": 1.6,
+    "name": "Roitiflam",
+    "types": [
+        "Feu",
+        "Combat"
+    ],
+    "weight": 150.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Tiene una piel extraordinaria, fina y húmeda, que deja\nentrever las vísceras que tiene dispuestas en espiral.",
+        "La dirección de la espiral en el vientre cambia según el\nárea. Prefiere nadar a correr.",
+        "Poliwag tiene una piel muy fina. Tanto que es posible entrever\na través de la misma las vísceras en espiral que tiene. La piel,\naunque fina, tiene la ventaja de ser flexible y hacer rebotar\nhasta los colmillos más afilados.",
+        "Poliwag tiene una piel muy fina. Tanto que es posible entrever\na través de la misma las vísceras en espiral que tiene. La piel,\naunque fina, tiene la ventaja de ser flexible y hacer rebotar\nhasta los colmillos más afilados.",
+        "La espiral de su vientre no es otra cosa que sus\nvísceras. Cuando estas se tornan de color\nblanco, significa que Poliwag está enfermo.",
+        "No se le da nada bien andar, por lo que se\nrecomienda a los Entrenadores que le hagan\npracticar un poco cada día.",
+        "A pesar del peligro, le gusta salir a tierra firme.\nComo es un poco torpe al caminar, regresa al\nagua rápidamente cuando se acerca un enemigo.",
+        "Un fan que se precie de serlo sabrá identificar\na primera vista la espiral de su vientre, cuya\norientación varía según su región de origen.",
+        "La dirección de la espiral en su vientre varía en\nfunción de la región donde nace. Se mueve con\nmás facilidad en el agua que en tierra firme.",
+        "La dirección de la espiral en su vientre varía en\nfunción de la región donde nace. Se mueve con\nmás facilidad en el agua que en tierra firme.",
+        "Es más ágil en el agua que en la tierra. La espiral\nde su vientre no es más que parte de sus vísceras\nque se ven a través de la piel.",
+        "En ríos de aguas bravas, usa sus gruesos labios\na modo de ventosa para adherirse a las rocas."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "name": "Poliwag",
+    "types": [
+        "Agua"
+    ],
+    "weight": 12.4
+}

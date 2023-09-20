@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "This Pokémon appears in legends.\nIt sends flames into the air from its\ntail, burning up everything around it.",
+        "When Reshiram’s tail flares, the\nheat energy moves the atmosphere\nand changes the world’s weather.",
+        "This legendary Pokémon can scorch\nthe world with fire. It helps those\nwho want to build a world of truth.",
+        "This legendary Pokémon can scorch\nthe world with fire. It helps those\nwho want to build a world of truth.",
+        "This legendary Pokémon can scorch the world with\nfire. It helps those who want to build a world\nof truth.",
+        "When Reshiram’s tail flares, the heat energy moves\nthe atmosphere and changes the world’s weather.",
+        "This legendary Pokémon can scorch the world with\nfire. It helps those who want to build a world\nof truth.",
+        "When Reshiram’s tail flares, the heat energy moves\nthe atmosphere and changes the world’s weather.",
+        "Flames spew from its tail as it flies through the\nsky like a jet airplane. It’s said that this Pokémon\nwill scorch the world.",
+        "According to myth, if people ignore truth and\nlet themselves become consumed by greed,\nReshiram will arrive to burn their kingdoms down."
+    ],
+    "height": 3.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "name": "Reshiram",
+    "types": [
+        "Dragon",
+        "Fire"
+    ],
+    "weight": 330.0
+}

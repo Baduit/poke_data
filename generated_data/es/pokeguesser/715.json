@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Surca el cielo nocturno cuando ni siquiera la luna brilla\ny ataca a presas incautas. Es imbatible en combates\nque tienen lugar a oscuras.",
+        "Las ondas ultrasónicas que emite por las orejas\npueden hacer añicos incluso rocas enormes.\nAprovecha la oscuridad para desplegar su ataque.",
+        "Surca el cielo nocturno cuando ni siquiera la luna brilla y ataca\na presas incautas. Es imbatible en combates que tienen lugar a\noscuras.",
+        "Las ondas ultrasónicas que emite por las orejas pueden hacer\nañicos incluso rocas enormes. Aprovecha la oscuridad para\ndesplegar su ataque.",
+        "Es de carácter violento, pero si se le da su\nalimento favorito, una fruta madura, su actitud\ncambia totalmente y se muestra muy dócil.",
+        "De temperamento violento, ataca a todo el que\nse cruce en su camino con unas ondas\nultrasónicas capaces de partir rocas.",
+        "Posee un carácter violento y cruel, por lo que no\nmuestra reparos en aprovechar la oscuridad para\natacar a enemigos indefensos.",
+        "Vuela en la oscuridad atormentando al enemigo\ncon ondas ultrasónicas capaces de partir rocas\nantes de rematarlo con sus afilados colmillos."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "name": "Noivern",
+    "types": [
+        "Volador",
+        "Dragón"
+    ],
+    "weight": 85.0
+}

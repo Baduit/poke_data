@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "总是孜孜不倦地收集情报，\n所以头脑相当地聪明，\n但力量方面就差了一些。",
+        "经常出现在田地里的宝可梦。\n会通过长在身体上的毛\n来感应周围发生的事。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
+    "name": "索侦虫",
+    "types": [
+        "虫"
+    ],
+    "weight": 8.0
+}

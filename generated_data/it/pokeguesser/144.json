@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Un Pokémon uccello leggendario. Riesce a creare\nbufere di neve congelando l’umidità dell’aria.",
+        "Uccello leggendario, si dice appaia per atterrire chi\nsi smarrisce sui ghiacciai.",
+        "Articuno è un Pokémon uccello leggendario, perfettamente\na suo agio tra i ghiacci. Quando batte le ali, l’aria circostante\ndiventa gelida. Per questo motivo, quando nevica, si dice\nche sia passato di lì.",
+        "Articuno è un Pokémon uccello leggendario, perfettamente\na suo agio tra i ghiacci. Quando batte le ali, l’aria circostante\ndiventa gelida. Per questo motivo, quando nevica, si dice\nche sia passato di lì.",
+        "Questo Pokémon alato leggendario congela\nl’umidità contenuta nell’aria invernale e fa\ncadere la neve.",
+        "Questo Pokémon alato leggendario congela\nl’umidità contenuta nell’aria invernale e fa\ncadere la neve.",
+        "Si dice che le sue splendide ali azzurre siano\ncomposte di ghiaccio. Vola fra le montagne\ninnevate facendo ondeggiare la sua lunga coda.",
+        "È in grado di controllare il ghiaccio a suo\npiacimento. Si dice che viva sulle montagne\ninnevate nelle aree coperte da permafrost."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "name": "Articuno",
+    "types": [
+        "Ghiaccio",
+        "Volante"
+    ],
+    "weight": 55.4
+}

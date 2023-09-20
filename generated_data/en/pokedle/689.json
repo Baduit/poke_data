@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 6,
+    "height": 1.3,
+    "name": "Barbaracle",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "weight": 96.0
+}

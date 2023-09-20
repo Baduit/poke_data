@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Percibe su entorno con su sentido del tacto, residente\nen su cabeza y cola. Su carácter es violento por\nnaturaleza.",
+        "Inocula un poderoso veneno al morder. Hasta sus\nenemigos acérrimos, los Pokémon pájaro, se quedan\ninmóviles.",
+        "Percibe su entorno con su sentido del tacto, residente en su\ncabeza y cola. Su carácter es violento por naturaleza.",
+        "Inocula un poderoso veneno al morder. Hasta sus enemigos\nacérrimos, los Pokémon pájaro, se quedan inmóviles.",
+        "Aunque se trata de una especie emparentada\ncon los Sizzlipede, si se encuentran ejemplares\nde ambas, entablarán una lucha encarnizada.",
+        "Sus colmillos contienen un veneno letal. Si\nencuentra una presa que parece comestible, se\nabalanza sobre ella sin pensárselo dos veces."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "name": "Venipede",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 5.3
+}

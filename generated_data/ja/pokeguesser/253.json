@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "発達した　太ももの　筋肉が\n驚異的な　瞬発力と\n跳躍力を　生み出すぞ。",
+        "密林に　生息する。\n枝から　枝へ　飛び移りながら\n移動して　獲物に　接近する。",
+        "体から　生えた　葉っぱは　森の　中で\n敵から　姿を　隠す　ときに　便利。\n密林に　暮らす　木登りの　名手。",
+        "枝から　枝へ　身軽に　飛び回る。\nどんなに　素早い　ポケモンも　森の　中で\nジュプトルを　捕まえる　ことは　不可能だ。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+    "name": "ジュプトル",
+    "types": [
+        "くさ"
+    ],
+    "weight": 21.6
+}

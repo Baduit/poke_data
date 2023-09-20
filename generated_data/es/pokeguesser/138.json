@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Pokémon prehistórico que vivió en el océano\nprimordial. Para nadar se valía de sus 10 tentáculos.",
+        "Resucitado de un fósil, este Pokémon usa el aire de\nsu concha para sumergirse y emerger.",
+        "Omanyte es uno de esos Pokémon ancestrales que se\nextinguieron hace muchísimo tiempo y que la gente ha\nrecuperado a partir de fósiles. Si un enemigo le ataca, se\nesconderá dentro de la dura concha que tiene.",
+        "Omanyte es uno de esos Pokémon ancestrales que se\nextinguieron hace muchísimo tiempo y que la gente ha\nrecuperado a partir de fósiles. Si un enemigo le ataca, se\nesconderá dentro de la dura concha que tiene.",
+        "Pokémon prehistórico que vivía en el océano.\nLas marcas de mordeduras en sus fósiles\nindican que solía ser presa de los Archeops.",
+        "Este Pokémon ha sido regenerado a partir de\nFósiles Hélix hallados en estratos que\ncorresponden al lecho de océanos prehistóricos.",
+        "Este antiguo Pokémon fue regenerado a partir\nde un fósil. Solía nadar en antiguos mares\nmoviendo con destreza sus 10 tentáculos.",
+        "Este antiguo Pokémon fue regenerado a partir\nde un fósil. Solía nadar en antiguos mares\nmoviendo con destreza sus 10 tentáculos.",
+        "Varios ejemplares han escapado o bien han sido\nliberados tras su restauración, lo que comienza a\nsuscitar una serie de problemas.",
+        "Un Pokémon de la era prehistórica, ahora\nextinto. Solía nadar moviendo sus diez tentáculos\npara desplazarse por el agua como si flotara."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "name": "Omanyte",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 7.5
+}

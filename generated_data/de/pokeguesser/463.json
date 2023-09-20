@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es umklammert Dinge mit seiner dehnbaren Zunge.\nKommt man ihm zu nahe, wird man eingespeichelt.",
+        "Ihr Speichel enthält eine ätzende Substanz, die bei\nKontakt mit der Haut anhaltende Taubheit erzeugt.",
+        "Es umklammert Dinge mit seiner dehnbaren Zunge.\nKommt man ihm zu nahe, wird man eingespeichelt.",
+        "Ihr Speichel enthält eine ätzende Substanz, die bei Kontakt\nmit der Haut anhaltende Taubheit erzeugt.",
+        "Es gibt Wettbewerbe dazu, welches Schlurplek\nseine Zunge am weitesten herausstrecken kann.\nDer Rekord liegt bei 25 m.",
+        "Es kann mit seiner Zunge geschickter umgehen\nals mit seinen Armen und Beinen. Selbst winzige\nBöhnchen hebt es mit ihrer Hilfe problemlos auf.",
+        "Seine sonderbare Zunge kann sich bis auf ein\nVielfaches seiner Körpergröße ausdehnen.\nNiemand weiß, wie das möglich ist.",
+        "Mit seiner Zunge kann es alles tun und ist damit\nso geschickt wie Menschen mit ihren Händen.\nDiese verwendet Schlurplek nur sehr unbeholfen."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "name": "Schlurplek",
+    "types": [
+        "Normal"
+    ],
+    "weight": 140.0
+}

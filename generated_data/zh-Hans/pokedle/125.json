@@ -1,0 +1,10 @@
+{
+    "color": "黄色",
+    "generation": 1,
+    "height": 1.1,
+    "name": "电击兽",
+    "types": [
+        "电"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 6,
+    "height": 1.3,
+    "name": "Barbaracle",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 96.0
+}

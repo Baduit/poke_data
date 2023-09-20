@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si nutre di qualsiasi cosa, pertanto vive anche in fiumi\ne laghi inquinati. È un Pokémon di scarso interesse.",
+        "Il Pokémon più sciatto. Vive in grandi gruppi nei\nletti dei fiumi ricchi di piante acquatiche.",
+        "Le pinne di Feebas sono logore e sbrindellate fin dalla\nnascita. A causa di questo suo aspetto disordinato,\nil Pokémon è solitamente ignorato. È in grado di vivere\nin mare e nei fiumi.",
+        "Sebbene abbia il corpo logoro, Feebas è molto tenace\ne resistente, potendo così vivere in ogni luogo. Tuttavia,\nquesto Pokémon è anche lento e poco sveglio, il che\nlo rende una preda facile.",
+        "Non è molto popolare per via del suo misero\naspetto, ma è molto resistente e in grado di\nvivere anche in acque inquinate.",
+        "È un Pokémon poco popolare per via del suo\nmisero aspetto. Tuttavia, la sua prodigiosa\nvitalità ha attirato l’interesse dei ricercatori.",
+        "Per via del suo misero aspetto, nessuno lo\ncattura e nessun predatore lo trova appetitoso.\nPer questo continua a proliferare.",
+        "Molti non lo degnano di uno sguardo per via del\nsuo misero aspetto. Tuttavia, alcuni collezionisti\ncatturano solo i Feebas.",
+        "È un Pokémon poco popolare per via del suo\nmisero aspetto. Tuttavia, la sua prodigiosa\nvitalità ha attirato l’interesse dei ricercatori.",
+        "È un Pokémon dall’aspetto brutto e misero.\nTuttavia, è molto resistente e può sopravvivere\nanche in pochissima acqua."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "name": "Feebas",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 7.4
+}

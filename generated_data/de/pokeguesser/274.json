@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Der Ton seiner Grasflöte beunruhigt die,\ndie ihn hören. Es lebt tief in den Wäldern.",
+        "Lebt tief im Wald. Es baut sich eine Flöte aus den\nBlättern seines Kopfes. Ihr Ton verbreitet Schrecken.",
+        "Blanas lebt in dichten Wäldern. Manchmal wagt es sich aus\ndem Wald heraus, um Menschen zu erschrecken. Dieses\nPokémon mag es überhaupt nicht, wenn man seine lange\nNase zwickt.",
+        "Dieses Pokémon reißt das Blatt auf seinem Kopf heraus und\nbenutzt es als Flöte. Diese Geräusche jagen den Menschen,\ndie sich im Wald verirrt haben, Angst ein.",
+        "Es lebt tief im Wald. Aus dem Blatt auf seinem\nKopf kann es sich eine Flöte bauen, deren Klang\nUnruhe verbreitet.",
+        "Sie leben in Löchern, die sie in große Bäume\ngebohrt haben. Der Ton ihrer Grasflöten erfüllt\nZuhörer mit Unruhe."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "name": "Blanas",
+    "types": [
+        "Pflanze",
+        "Unlicht"
+    ],
+    "weight": 28.0
+}

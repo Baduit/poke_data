@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Ils communiquent entre eux en changeant\nleur sens de rotation. Plus ils sont en\ncolère, plus ils tournent vite.",
+        "Il attaque en lançant ses mini-rouages\nà grande vitesse. Il est en fâcheuse\nposture s’ils ne reviennent pas.",
+        "Ils communiquent entre eux en changeant leur sens\nde rotation. Plus ils sont en colère, plus ils tournent\nvite.",
+        "Le plus grand des rouages projette le plus petit\npour attaquer. Ce dernier risque de dépérir s’il ne\nrevient pas.",
+        "Ils communiquent entre eux en changeant leur sens\nde rotation. Plus ils sont en colère, plus ils tournent vite.",
+        "Le plus grand des rouages projette le plus petit pour attaquer.\nCe dernier risque de dépérir s’il ne revient pas.",
+        "Quand le combat devient sérieux, la partie\nextérieure du grand rouage s’aligne parfaitement\navec le petit pour accélérer leur rotation.",
+        "Ce Pokémon symbolisant la technologie\nindustrielle est souvent utilisé dans le logo\ndes entreprises de Galar."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+    "name": "Clic",
+    "types": [
+        "Acier"
+    ],
+    "weight": 51.0
+}

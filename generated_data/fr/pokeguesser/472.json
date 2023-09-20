@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le plus petit courant d’air peut lui\ndonner assez d’élan pour faire le\ntour du monde sans un coup d’aile.",
+        "Le plus petit courant d’air peut lui\ndonner assez d’élan pour faire le\ntour du monde sans un coup d’aile.",
+        "Il guette sa proie, pendu à une branche la tête en bas,\net s’en saisit à la première occasion.",
+        "Il vole sans un bruit, et capture ses proies avec sa\nqueue pour leur infliger une morsure critique.",
+        "Il guette sa proie, pendu à une branche la tête en bas,\net s’en saisit à la première occasion.",
+        "Il vole sans un bruit, et capture ses proies avec sa queue\npour leur infliger une morsure critique."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "name": "Scorvol",
+    "types": [
+        "Sol",
+        "Vol"
+    ],
+    "weight": 42.5
+}

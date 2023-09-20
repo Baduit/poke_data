@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Das faulste Pokémon der Welt. Es bewegt sich nur,\nwenn alles Essbare in Reichweite verputzt ist.",
+        "Es ist das faulste Pokémon der Welt. Doch kann es\nüberaus kräftige Angriffe fahren, wenn es die\nkomplette angestaute Energie auf einmal einsetzt.",
+        "Letarking verbringt den Tag damit, herumzuliegen und nichts\nzu tun. Es ernährt sich von Gras, das in seiner Reichweite\nwächst. Hat es alles aufgefressen, so sucht es sich widerwillig\nein anderes Plätzchen.",
+        "Wo dieses Letarking lebt, hinterlässt es Kreise von 1 m Radius\nauf den Wiesen. Es frisst nämlich all das Gras, das in seiner\nReichweite wächst. Dabei liegt es bäuchlings auf dem Boden."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "name": "Letarking",
+    "types": [
+        "Normal"
+    ],
+    "weight": 130.5
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Plus le Rosélia est en bonne santé\net plus son parfum est agréable et\nrelaxant pour son entourage.",
+        "Plus le Rosélia est en bonne santé\net plus son parfum est agréable et\nrelaxant pour son entourage.",
+        "Chacune de ses mains sécrète un poison différent.\nPlus un Rosélia est en bonne santé, plus ses parfums\nsont puissants.",
+        "Les Rosélia arrosés avec une eau de source riche\nen nutriments prendraient des couleurs uniques.",
+        "Rosélia utilise ses épines pointues comme projectiles\nsi on tente de cueillir les fleurs sur ses bras. Le parfum de ce\nPokémon apporte sérénité et plénitude à ceux qui le sentent.",
+        "En de très rares occasions, on dit qu’un Rosélia peut\napparaître en arborant des fleurs aux couleurs inhabituelles.\nLes épines sur la tête de ce Pokémon contiennent un\ndangereux poison.",
+        "Ses fleurs dégagent un parfum relaxant.\nPlus cet arôme est fort, meilleure est la santé\nde Rosélia.",
+        "Ses mains sécrètent chacune un poison différent\ndont il se sert pour attaquer. Plus le parfum\nde Rosélia est intense, plus sa santé est bonne."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "name": "Rosélia",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 2.0
+}

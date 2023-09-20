@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Von einem harten Schutzpanzer umgeben. Es greift\nseine Gegner an, indem es mit Karacho wie ein Rad\nin sie hineinrollt.",
+        "An sich ist es harmlos. Bringt man es jedoch\nin Bedrängnis, setzt es sich mit blitzschnellen\nRollattacken zur Wehr.",
+        "Von einem harten Schutzpanzer umgeben. Es greift seine\nGegner an, indem es mit Karacho wie ein Rad in sie hineinrollt.",
+        "An sich ist es harmlos. Bringt man es jedoch in Bedrängnis,\nsetzt es sich mit blitzschnellen Rollattacken zur Wehr.",
+        "Rollum dreht sich mit hoher Geschwindigkeit\nund rammt seine Gegner. Dabei erreicht es\nGeschwindigkeiten von bis zu 100 km/h.",
+        "Es schützt sich mit seinem harten Panzer und den\nGiftspitzen, um ungestört genügend Energie für\nseine Entwicklung zu sammeln."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "name": "Rollum",
+    "types": [
+        "Käfer",
+        "Gift"
+    ],
+    "weight": 58.5
+}

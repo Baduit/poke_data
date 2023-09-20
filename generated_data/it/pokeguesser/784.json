@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Intimorisce gli avversari con il rumore prodotto\ndalla vibrazione delle scaglie che ha sulla coda.\nSentendolo, i nemici più deboli si danno alla fuga.",
+        "Le sue squame robuste sono molto versatili.\nUn tempo venivano utilizzate sia come armi,\nsia per costruire oggetti d’uso quotidiano.",
+        "Quando cattura una preda, lancia un forte urlo.\nSentendolo, i suoi simili in ogni luogo esultano\nfacendo echeggiare un rumore metallico.",
+        "Lotta con audacia agitando i pugni ricoperti da\nsquame d’acciaio. I montanti sono il suo forte.",
+        "Quando si imbatte in un nemico, fa risuonare\nle squame della coda per spaventarlo. Lotta solo\ncontro chi non si lascia intimorire.",
+        "In antiche rovine sono stati rinvenuti dipinti\nraffiguranti guerrieri con armature fatte\ndi squame di Kommo-o."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+    "name": "Kommo-o",
+    "types": [
+        "Drago",
+        "Lotta"
+    ],
+    "weight": 78.2
+}

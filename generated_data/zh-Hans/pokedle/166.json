@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 2,
+    "height": 1.4,
+    "name": "安瓢虫",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 35.6
+}

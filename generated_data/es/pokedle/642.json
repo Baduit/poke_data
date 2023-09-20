@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Thundurus",
+    "types": [
+        "Eléctrico",
+        "Volador"
+    ],
+    "weight": 61.0
+}

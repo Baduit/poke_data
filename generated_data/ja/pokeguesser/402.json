@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "鳴くときは　ナイフのような　腕を\n胸の　前で　交差させる。\n即興で　メロディを　作る。",
+        "感情を　メロディで　表す。\nメロディの　法則性を\n学者たちが　研究している。",
+        "鳴くときは　ナイフのような　腕を\n胸の　前で　交差させる。\n即興で　メロディを　作る。",
+        "感情を　メロディで　表す。\nメロディの　法則性を\n学者たちが　研究している。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "name": "コロトック",
+    "types": [
+        "むし"
+    ],
+    "weight": 25.5
+}

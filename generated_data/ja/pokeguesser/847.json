@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "槍のように　尖った　顎は\n鋼の　硬さ。　その　身は\n驚くほど　美味しいらしい。",
+        "尾びれを　回転させ　一気に\n突撃。　１００ノットを　超える\n速度で　獲物を　つらぬくぞ。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "name": "カマスジョー",
+    "types": [
+        "みず"
+    ],
+    "weight": 30.0
+}

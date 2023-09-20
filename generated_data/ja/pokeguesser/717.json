@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "翼と　尾羽を　広げて　赤く　輝くとき\n生き物の　命を　吸い取る\n伝説の　ポケモン。",
+        "寿命が　つきるとき　あらゆる\n生き物の　命を　吸いつくし\n繭の　姿に　戻るという。",
+        "翼と　尾羽を　広げて　赤く　輝くとき\n生き物の　命を　吸い取る\n伝説の　ポケモン。",
+        "寿命が　つきるとき　あらゆる\n生き物の　命を　吸いつくし\n繭の　姿に　戻るという。"
+    ],
+    "height": 5.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "name": "イベルタル",
+    "types": [
+        "あく",
+        "ひこう"
+    ],
+    "weight": 203.0
+}

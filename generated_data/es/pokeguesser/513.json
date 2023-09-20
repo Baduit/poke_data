@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Pokémon muy inteligente que tiene la costumbre de\ntostar las bayas antes de comérselas. Ayuda mucho\na los humanos.",
+        "Vive en cuevas volcánicas. El interior de su mata de\npelo arde, llegando a alcanzar hasta 300 °C.",
+        "Pokémon muy inteligente que tiene la costumbre de tostar las\nbayas antes de comérselas. Ayuda mucho a los humanos.",
+        "Vive en cuevas volcánicas. El interior de su mata de pelo\narde, llegando a alcanzar hasta 300 °C."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "name": "Pansear",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 11.0
+}

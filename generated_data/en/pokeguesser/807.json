@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It electrifies its claws and tears its opponents\napart with them. Even if they dodge its attack,\nthey’ll be electrocuted by the flying sparks.",
+        "It approaches its enemies at the speed of\nlightning, then tears them limb from limb with\nits sharp claws.",
+        "It runs as fast as lightning strikes, shredding its\nopponents with its high-voltage claws.",
+        "Electricity sparks from the pads on its limbs.\nWherever Zeraora runs, lightning flashes and\nthunder echoes."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "Zeraora",
+    "types": [
+        "Electric"
+    ],
+    "weight": 44.5
+}

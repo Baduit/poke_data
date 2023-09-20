@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 5,
+    "height": 0.8,
+    "name": "Mygavolt",
+    "types": [
+        "Insecte",
+        "Électrik"
+    ],
+    "weight": 14.3
+}

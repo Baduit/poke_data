@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "It lures prey close by dancing and\nwaving its arm caps, which resemble\nPoké Balls, in a swaying motion.",
+        "They show off their Poké Ball caps to\nlure prey, but very few Pokémon are\nfooled by this.",
+        "It moves the caps on both arms\nand does a dance to lure prey.\nIt prefers damp places.",
+        "It moves the caps on both arms\nand does a dance to lure prey.\nIt prefers damp places.",
+        "They show off their Poké Ball caps to lure prey,\nbut very few Pokémon are fooled by this.",
+        "It lures prey close by dancing and waving its\narm caps, which resemble Poké Balls, in a\nswaying motion.",
+        "They show off their Poké Ball caps to lure prey,\nbut very few Pokémon are fooled by this.",
+        "It lures prey close by dancing and waving its\narm caps, which resemble Poké Balls, in a\nswaying motion.",
+        "This Pokémon puffs poisonous spores at its foes.\nIf the spores aren’t washed off quickly, they’ll\ngrow into mushrooms wherever they land.",
+        "Amoonguss generally doesn’t move much. It\ntends to stand still near Poké Balls that have\nbeen dropped on the ground."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "name": "Amoonguss",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 10.5
+}

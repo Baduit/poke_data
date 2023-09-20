@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il est fort malgré son aspect ramassé.\nIl n’a aucun mal à porter un humain\nadulte sur son dos.",
+        "Il est fort malgré son aspect ramassé.\nIl n’a aucun mal à porter un humain\nadulte sur son dos.",
+        "Il se cogne sur celui ou celle qu’il apprécie. Il est\ncependant si fort qu’il fait souvent mal.",
+        "Il est fort malgré son aspect ramassé. Il n’a aucun mal\nà porter un humain adulte sur son dos.",
+        "Pour faire son nid, Phanpy creuse un trou au bord d’une\nrivière. Il délimite la zone autour de son nid avec sa trompe\npour prévenir les autres que ce territoire est le sien.",
+        "Phanpy utilise sa petite trompe pour se doucher.\nQuand plusieurs d’entre eux se réunissent, ils s’arrosent\njoyeusement. On peut souvent voir ces Pokémon se sécher\nau bord de l’eau."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "name": "Phanpy",
+    "types": [
+        "Sol"
+    ],
+    "weight": 33.5
+}

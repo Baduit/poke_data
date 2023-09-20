@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 7,
+    "height": 1.2,
+    "name": "Écaïd",
+    "types": [
+        "Dragon",
+        "Combat"
+    ],
+    "weight": 47.0
+}

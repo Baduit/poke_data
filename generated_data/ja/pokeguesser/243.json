@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "雨雲を　背負っているので\nどんなときでも　雷を　出せる。\n雷とともに　落ちてきたという。",
+        "体内で　渦巻く　力を\n電撃として　出しながら　大地を\n駆け巡る　荒々しい　ポケモン。",
+        "雷の　スピードを　宿した　ポケモン。\nその　遠ぼえは　雷が　落ちた　ときの\nように　空気を　震わせ　大地を　揺るがす。",
+        "雷の　スピードを　宿した　ポケモン。\nその　遠ぼえは　雷が　落ちた　ときの\nように　空気を　震わせ　大地を　揺るがす。"
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "name": "ライコウ",
+    "types": [
+        "でんき"
+    ],
+    "weight": 178.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "È costantemente tormentato dal mal di testa che,\nquando si fa particolarmente intenso, gli conferisce\nstrani poteri.",
+        "Ha poteri soprannaturali ma non ricorda di averli\nusati. Per questo sembra sempre perplesso.",
+        "Psyduck usa poteri misteriosi, che scatenano onde cerebrali\nrilevabili apparentemente soltanto su persone addormentate.\nQuesta scoperta ha causato reazioni contrastanti tra gli\nstudiosi.",
+        "Quando usa i suoi misteriosi poteri, Psyduck se ne dimentica\nsubito. Apparentemente non riesce a ricordarsene perché entra\nin uno stato innaturale molto simile a un sonno profondo.",
+        "A volte i suoi poteri psicocinetici si attivano\nin modo indipendente dalla sua volontà e gli\ncausano mal di testa così forti da farlo gemere.",
+        "È costantemente tormentato dal mal di testa.\nPiù si acuiscono, maggiore è la sua capacità\ndi usare poteri psicocinetici.",
+        "Usare i suoi poteri psicocinetici gli causa dei\ngran mal di testa, perciò passa il tempo\ncercando di fare e pensare il meno possibile.",
+        "Gli scienziati hanno scoperto che quando ha\nmal di testa la sua attività cerebrale aumenta\ndi dieci volte rispetto al solito.",
+        "Ha sempre un forte mal di testa.\nNon è chiaro se utilizzi volontariamente\ni suoi poteri psicocinetici.",
+        "Ha sempre un forte mal di testa.\nNon è chiaro se utilizzi volontariamente\ni suoi poteri psicocinetici.",
+        "È costantemente tormentato dal mal di testa,\nma se lascia esplodere il suo misterioso potere\npare che trovi temporaneamente sollievo.",
+        "Più è stressato, più il suo mal di testa si fa\nintenso. Con i suoi incredibili poteri psicocinetici\ntravolge chiunque nelle vicinanze."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "name": "Psyduck",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 19.6
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Racaillou",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 20.0
+}

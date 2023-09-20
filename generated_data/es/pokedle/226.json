@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 2,
+    "height": 2.1,
+    "name": "Mantine",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 220.0
+}

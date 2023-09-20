@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 7,
+    "height": 0.2,
+    "name": "Ribombee",
+    "types": [
+        "Bicho",
+        "Hada"
+    ],
+    "weight": 0.5
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Tiene una larga cola que le propulsa por el agua con\nmucha potencia. A pesar de ser pequeño, tiene mucha\nfuerza.",
+        "La aleta de su cabeza detecta las corrientes de agua\ny los peligros. Tiene fuerza para levantar rocas.",
+        "La aleta que tiene Mudkip en la cabeza actúa de radar y es\nmuy sensible. Puede captar movimientos que se produzcan en\nel agua y en el aire, y todo lo que ocurra a su alrededor, sin\nnecesidad de abrir los ojos.",
+        "En el agua, Mudkip usa las branquias que tiene en los\nmofletes para respirar. Cuando tiene que enfrentarse a una\nsituación delicada en combate, desata una fuerza asombrosa\ncon la que puede destruir rocas incluso mayores que él."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "name": "Mudkip",
+    "types": [
+        "Agua"
+    ],
+    "weight": 7.6
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Le sue orecchie sono antenne capaci di sondare\nlo stato di salute degli altri o capire quando un\nuovo si schiuderà.",
+        "Quando tocca qualcuno con le antenne delle\norecchie, ne percepisce lo stato fisico e psicologico\ndal battito cardiaco.",
+        "Le sue orecchie sono antenne capaci di sondare lo stato\ndi salute degli altri o capire quando un uovo si schiuderà.",
+        "Quando tocca qualcuno con le antenne delle orecchie, ne\npercepisce lo stato fisico e psicologico dal battito cardiaco.",
+        "Possiede un udito eccellente, grazie al quale\nriesce a cogliere anche il suono di un sasso\nche rotola a 2 km di distanza.",
+        "Questo Pokémon dal cuore tenero è in grado di\npercepire le condizioni fisiche e mentali\ndi chi tocca con le antenne."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "name": "Audino",
+    "types": [
+        "Normale"
+    ],
+    "weight": 31.0
+}

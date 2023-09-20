@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "みずを　あっしゅくして　しゅりけんを\nつくりだす。こうそくかいてんさせて\nとばすと　きんぞくも　まっぷたつ。",
+        "にんじゃのように　しんしゅつきぼつ。\nすばやい　うごきで　ほんろうしつつ\nみずの　しゅりけんで　きりさく。",
+        "みずを　あっしゅくして　しゅりけんを\nつくりだす。こうそくかいてんさせて\nとばすと　きんぞくも　まっぷたつ。",
+        "にんじゃのように　しんしゅつきぼつ。\nすばやい　うごきで　ほんろうしつつ\nみずの　しゅりけんで　きりさく。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "name": "ゲッコウガ",
+    "types": [
+        "みず",
+        "あく"
+    ],
+    "weight": 40.0
+}

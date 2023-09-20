@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "拥有能够穿越时光的力量。\n在许多时代都留下了\n将它视为森林之神的记录。",
+        "从未来穿越时光而来。\n能够治愈伤痛，\n也会把自己的力量分给草木。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "name": "时拉比",
+    "types": [
+        "超能力",
+        "草"
+    ],
+    "weight": 5.0
+}

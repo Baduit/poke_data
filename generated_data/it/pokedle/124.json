@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 1,
+    "height": 1.4,
+    "name": "Jynx",
+    "types": [
+        "Ghiaccio",
+        "Psico"
+    ],
+    "weight": 40.6
+}

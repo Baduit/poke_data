@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Araqua",
+    "types": [
+        "Wasser",
+        "Käfer"
+    ],
+    "weight": 4.0
+}

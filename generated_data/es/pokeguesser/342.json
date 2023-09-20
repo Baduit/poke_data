@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Este malandrín usa sus pinzas para atosigar y expulsar\na los otros Pokémon que viven en su estanque.",
+        "De naturaleza violenta. Si un Pokémon se aventura\nen su territorio, lo agarra con sus tenazas y lo arroja\npor los aires.",
+        "Crawdaunt es de una naturaleza extremadamente violenta que\nle lleva a desafiar a otros seres vivos. Hay formas de vida que\nse niegan a vivir en los estanques donde habitan estos\nPokémon, y los dejan medio vacíos.",
+        "Crawdaunt muda el caparazón regularmente y, en cuanto lo\nhace, se le queda la piel tersa y suave. Mientras el nuevo\ncaparazón se endurece, permanece escondido en su\nmadriguera para que no le ataquen.",
+        "Su carácter agresivo le incita a pelear siempre\nque puede, pero si se le rompe una pinza se\namedrenta y acobarda hasta que se le regenera.",
+        "Pierde las pinzas fácilmente. Al contrario que las\nde Crabrawler o Clauncher, su carne apesta a\nlodo y tiene un sabor desagradable.",
+        "Esta violenta criatura agita de forma salvaje las\ngigantes pinzas que tiene. Dicen que es muy\ndifícil criarlo.",
+        "Le encanta pelear, debido a su naturaleza. Si\nalguien se acerca a su madriguera, le propinará\nuna paliza sin ningún tipo de miramiento."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "name": "Crawdaunt",
+    "types": [
+        "Agua",
+        "Siniestro"
+    ],
+    "weight": 32.8
+}

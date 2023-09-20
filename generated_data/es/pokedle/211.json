@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 2,
+    "height": 0.5,
+    "name": "Qwilfish",
+    "types": [
+        "Agua",
+        "Veneno"
+    ],
+    "weight": 3.9
+}

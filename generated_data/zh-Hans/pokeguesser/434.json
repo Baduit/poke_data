@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "瞄准对手的脸，从屁股\n喷出奇臭无比的液体。\n液体能喷到５米开外。",
+        "要是它翘起尾巴把屁股对准了你，\n请一定要小心。因为这表示它将要\n喷出足以让人窒息的臭液。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "name": "臭鼬噗",
+    "types": [
+        "毒",
+        "恶"
+    ],
+    "weight": 19.2
+}

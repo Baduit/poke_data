@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Drattak",
+    "types": [
+        "Dragon",
+        "Vol"
+    ],
+    "weight": 102.6
+}

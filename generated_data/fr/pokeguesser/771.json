@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il vit en bord de mer, ou en eaux peu profondes.\nSes organes peuvent sortir de son corps pour\nsaisir de la nourriture ou frapper l’ennemi.",
+        "On en rencontre beaucoup sur les plages.\nLe mucus gluant qui entoure son corps est idéal\npour soulager les coups de soleil.",
+        "Lancer à la mer les Concombaffe venus\ns’échouer sur le rivage était une habitude qui\ns’est depuis muée en une véritable tradition.",
+        "Tout son corps est recouvert d’un mucus gluant.\nVeillez à ne pas glisser dessus : il en profiterait\npour vous mettre une grosse claque !",
+        "Il vit dans les eaux chaudes des hauts-fonds.\nS’il croise un ennemi, il l’attaque en lui crachant\nses organes internes au visage.",
+        "Le fluide visqueux qui le recouvre garde sa peau\nbien hydratée, ce qui lui permet de vivre plusieurs\njours sur la terre ferme sans se dessécher."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "name": "Concombaffe",
+    "types": [
+        "Eau"
+    ],
+    "weight": 1.2
+}

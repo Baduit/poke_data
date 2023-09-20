@@ -1,0 +1,11 @@
+{
+    "color": "Pink",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Corsola",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "weight": 5.0
+}

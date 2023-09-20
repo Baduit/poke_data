@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se protege de los ataques con la muda de su piel\nmientras reparte patadas. Cuanto mayor es su cresta,\nmás se le respeta.",
+        "El líder del grupo es aquel cuya cresta es mayor.\nEs capaz de romper bloques de cemento con sus\npotentes patadas.",
+        "Se protege de los ataques con la muda de su piel mientras\nreparte patadas. Cuanto mayor es su cresta, más se le\nrespeta.",
+        "El líder del grupo es aquel cuya cresta es mayor. Es capaz\nde romper bloques de cemento con sus potentes patadas.",
+        "A pesar de su apariencia chulesca, se preocupa\nmucho por los miembros de su familia, el resto\ndel grupo y su territorio.",
+        "Provoca a su rival escupiéndole. No se aventura\nfuera de su propio territorio, donde pasa toda la\nvida.",
+        "Las patadas que propina con aparente desgana\nposeen una fuerza capaz de destrozar incluso los\npilares de hormigón que llevan los Conkeldurr.",
+        "A pesar de su carácter agresivo, se muestra muy\nprotector con sus allegados y su territorio."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "name": "Scrafty",
+    "types": [
+        "Siniestro",
+        "Lucha"
+    ],
+    "weight": 30.0
+}

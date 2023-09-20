@@ -1,0 +1,38 @@
+{
+    "descriptions": [
+        "Feared and loathed\nby many, it is\nbelieved to bring\fmisfortune to all\nthose who see it\nat night.",
+        "It is said that\nwhen chased, it\nlures its attacker\fonto dark mountain\ntrails where the\nfoe will get lost.",
+        "It hides any shiny\nobject it finds in\na secret location.\fMURKROW and\nMEOWTH loot one\nanother's stashes.",
+        "MURKROW was feared and loathed as the\nalleged bearer of ill fortune.\nThis POKéMON shows strong interest in\fanything that sparkles or glitters.\nIt will even try to steal rings from\nwomen.",
+        "MURKROW was feared and loathed as the\nalleged bearer of ill fortune.\nThis POKéMON shows strong interest in\fanything that sparkles or glitters.\nIt will even try to steal rings from\nwomen.",
+        "MURKROW were feared as the alleged\nbearers of ill fortune. It shows strong\ninterest in anything that sparkles. It will\neven try to steal rings from women.",
+        "It is said that when chased, it lures its\nattacker onto dark mountain trails where\nthe foe will get lost.",
+        "Feared and loathed by many, it is\nbelieved to bring misfortune to all those\nwho see it at night.",
+        "It is believed that seeing this\nPokémon at night will bring\nabout ominous occurrences.",
+        "It appears near travelers to lure\nthem into deep forests. It is said\nto carry misfortune.",
+        "If spotted, it will lure an unwary\nperson into chasing it, then lose\nthe pursuer on mountain trails.",
+        "Feared and loathed by many,\nit is believed to bring misfortune to\nall those who see it at night.",
+        "It is said that when chased, it\nlures its attacker onto dark mountain\ntrails where the foe will get lost.",
+        "If spotted, it will lure an unwary\nperson into chasing it, then lose\nthe pursuer on mountain trails.",
+        "If spotted, it will lure an unwary\nperson into chasing it, then lose\nthe pursuer on mountain trails.",
+        "If spotted, it will lure an unwary\nperson into chasing it then lose\nthe pursuer on mountain trails.",
+        "If spotted, it will lure an unwary\nperson into chasing it then lose\nthe pursuer on mountain trails.",
+        "It hides any shiny object it finds in a secret\nlocation. Murkrow and Meowth loot one\nanother’s stashes.",
+        "Feared and loathed by many, it is believed to bring\nmisfortune to all those who see it at night.",
+        "Murkrow was feared and loathed as the alleged bearer of ill\nfortune. This Pokémon shows strong interest in anything that\nsparkles or glitters. It will even try to steal rings from women.",
+        "Murkrow was feared and loathed as the alleged bearer of ill\nfortune. This Pokémon shows strong interest in anything that\nsparkles or glitters. It will even try to steal rings from women.",
+        "They awaken at dusk and take wing in the\ntwilight, leading to the expression,\n“Get home before the Murkrow fly.”",
+        "Seen as a symbol of bad luck, it’s generally\ndisliked. Yet it gives presents—objects that\nsparkle or shine—to Trainers it’s close to.",
+        "It has a weakness for shiny things. It’s been\nknown to sneak into the nests of Gabite—noted\ncollectors of jewels—in search of treasure.",
+        "It searches for shiny things for its boss.\nMurkrow’s presence is said to be unlucky, so\nmany people detest it.",
+        "Widely shunned as a bearer of ill fortune. Upon crossing paths\nwith this creature, I've been told one must chant ”Workrum,\nWorkrum—bad luck, don't come” as a protective incantation."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "name": "Murkrow",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "weight": 2.1
+}

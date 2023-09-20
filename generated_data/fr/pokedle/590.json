@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 5,
+    "height": 0.2,
+    "name": "Trompignon",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 1.0
+}

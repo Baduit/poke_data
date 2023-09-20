@@ -1,0 +1,11 @@
+{
+    "color": "Black",
+    "generation": 4,
+    "height": 4.5,
+    "name": "Giratina",
+    "types": [
+        "Ghost",
+        "Dragon"
+    ],
+    "weight": 750.0
+}

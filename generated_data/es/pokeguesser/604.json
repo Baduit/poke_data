@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Pega la ventosa de su boca en su presa y la\nelectrocuta con sus colmillos.",
+        "Sale del mar con la fuerza de sus brazos y ataca a sus\npresas en la costa. Luego se las lleva de vuelta al mar.",
+        "Pega la ventosa de su boca en su presa y la electrocuta con\nsus colmillos.",
+        "Sale del mar con la fuerza de sus brazos y ataca a sus presas\nen la costa. Luego se las lleva de vuelta al mar."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "name": "Eelektross",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 80.5
+}

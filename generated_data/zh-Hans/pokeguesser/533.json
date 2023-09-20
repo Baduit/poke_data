@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "与其他的伙伴还有豪力\n一起比拼肌肉。输掉的\n那一方会暂时躲起来。",
+        "能够灵巧地操纵工字钢。\n虽然对拆除得心应手，\n但却不太擅长组装。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "name": "铁骨土人",
+    "types": [
+        "格斗"
+    ],
+    "weight": 40.0
+}

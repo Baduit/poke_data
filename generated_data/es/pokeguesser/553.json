@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Un Pokémon bastante violento. Ataca todo lo que se\nmueva delante de él con sus mortíferas mandíbulas.",
+        "Jamás deja escapar a su presa. Sus mandíbulas son\ncapaces de destrozar la carrocería de un coche.",
+        "Un Pokémon bastante violento. Ataca todo lo que se mueva\ndelante de él con sus mortíferas mandíbulas.",
+        "Jamás deja escapar a su presa. Sus mandíbulas son capaces\nde destrozar la carrocería de un coche.",
+        "Su vista es tan perspicaz que puede divisar\npresas de pequeño tamaño a 50 km de\ndistancia, incluso en plena tormenta de arena.",
+        "En cuanto le hinca el diente a su presa con sus\npotentes mandíbulas, comienza a retorcerle el\ncuerpo hasta despedazarla.",
+        "Al avistar una presa incluso a 50 km, repta\nhacia ella por la arena como si nadara y se\nabalanza para despedazarla con sus fauces.",
+        "Se oculta en las tormentas de arena provocadas\npor Flygon y espera pacientemente al acecho\nde su presa.",
+        "Se lo conoce como el Terror de las Arenas. Con\nsus fuertes mandíbulas es capaz de destrozar a\nmordiscos una plancha de hierro fácilmente.",
+        "Es de naturaleza violenta, pero también tiene\nla paciencia necesaria para esperar a su presa\noculto en la arena durante varios días."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "name": "Krookodile",
+    "types": [
+        "Tierra",
+        "Siniestro"
+    ],
+    "weight": 96.3
+}

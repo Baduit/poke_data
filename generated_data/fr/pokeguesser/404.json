@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Le courant qui circule à la pointe\nde ses griffes est capable de faire\nperdre connaissance à ses proies.",
+        "Le courant qui circule à la pointe\nde ses griffes est capable de faire\nperdre connaissance à ses proies.",
+        "L’électricité libérée par ses griffes peut assommer\nl’ennemi. Il vit en petits groupes.",
+        "Le courant qui circule à la pointe de ses griffes est\ncapable de faire perdre connaissance à ses proies.",
+        "L’électricité libérée par ses griffes peut assommer l’ennemi.\nIl vit en petits groupes.",
+        "Le courant qui circule à la pointe de ses griffes est capable\nde faire perdre connaissance à ses proies.",
+        "En reliant sa queue à celles de ses congénères,\nil peut recevoir leur énergie électrique et lancer\ndes décharges encore plus puissantes.",
+        "Quand il croise un ennemi, il se prépare\nau combat en sortant ses griffes dont les coups\nont une puissance qui atteint un million de volts."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "name": "Luxio",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 30.5
+}

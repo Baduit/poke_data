@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "过去被敬畏为森林之神的宝可梦。\n有着读取对手想法并\n抢先一步行动的能力。",
+        "在森林深处静静地生活。\n据说当它扇动大大的团扇，\n就会刮起冬日寒风。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "name": "狡猾天狗",
+    "types": [
+        "草",
+        "恶"
+    ],
+    "weight": 59.6
+}

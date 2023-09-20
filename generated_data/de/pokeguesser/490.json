@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es wird mit einer wundersamen Kraft geboren,\ndie eine Bindung zu jedem anderen Pokémon\nmöglich macht.",
+        "Es besitzt die wundersame Fähigkeit, das Herz\neines jeden anderen Pokémon anzurühren.",
+        "Es wird mit einer wundersamen Kraft geboren, die eine\nBindung zu jedem anderen Pokémon möglich macht.",
+        "Es besitzt die wundersame Fähigkeit, das Herz eines jeden\nanderen Pokémon anzurühren."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "name": "Manaphy",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 1.4
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.9,
+    "name": "Terrakion",
+    "types": [
+        "Roca",
+        "Lucha"
+    ],
+    "weight": 260.0
+}

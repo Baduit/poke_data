@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Simiabraz",
+    "types": [
+        "Feu",
+        "Combat"
+    ],
+    "weight": 55.0
+}

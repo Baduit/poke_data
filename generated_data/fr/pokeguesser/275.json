@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "D’un coup de sa feuille éventail, il\ngénère des bourrasques de 30 m/s\ncapables de souffler une maison.",
+        "D’un coup de sa feuille éventail, il\ngénère des bourrasques de 30 m/s\ncapables de souffler une maison.",
+        "Ce Pokémon est le gardien des forêts. Il peut lire\nles pensées de ses ennemis et agir en conséquence.",
+        "D’un coup de sa feuille éventail, il génère des\nbourrasques de 30 m/s capables de souffler une\nmaison.",
+        "Tengalice est un mystérieux Pokémon vivant dans les cimes\nd’immenses arbres, vieux de plus de mille ans. Il peut créer\nde formidables tempêtes grâce à ses éventails.",
+        "Les grands éventails de Tengalice peuvent déclencher\ndes bourrasques de vent allant jusqu’à 30 m/s. Le vent\ndéchaîné peut tout envoyer balader. Ce Pokémon a choisi\nde vivre tranquillement dans la forêt.",
+        "Ce gardien des forêts inspirait la crainte.\nIl peut lire les pensées de ses ennemis et agir\nen conséquence.",
+        "Il vit caché au fond des forêts.\nOn raconte qu’il fait souffler la bise\nlorsqu’il agite ses grands éventails."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "name": "Tengalice",
+    "types": [
+        "Plante",
+        "Ténèbres"
+    ],
+    "weight": 59.6
+}

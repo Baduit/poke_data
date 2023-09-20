@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Lorsqu’il est poursuivi par un Pokémon Oiseau,\nil projette une poudre noire qui paralyse tous ceux\nqu’elle touche.",
+        "La poudre qui recouvre son corps l’aide à réguler\nsa température. Il peut s’adapter à tous les climats.",
+        "Lorsqu’il est poursuivi par un Pokémon Oiseau, il projette\nune poudre noire qui paralyse tous ceux qu’elle touche.",
+        "La poudre qui recouvre son corps l’aide à réguler\nsa température. Il peut s’adapter à tous les climats."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "name": "Lépidonille",
+    "types": [
+        "Insecte"
+    ],
+    "weight": 2.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ses pattes élastiques s’allongent, ce\nqui ne manque jamais de surprendre\nau premier combat.",
+        "Ses pattes élastiques s’allongent, ce\nqui ne manque jamais de surprendre\nau premier combat.",
+        "Kicklee peut rétracter et allonger ses jambes à sa\nguise. La formidable allonge dont il dispose lui donne\nsouvent l’avantage en plein combat.",
+        "S’il commence à donner des séries de coups de pied,\nses jambes grandissent et il gagne en allonge.",
+        "Les jambes de Kicklee peuvent se contracter et s’étirer\nà volonté. Grâce à ces jambes à ressort, il terrasse ses\nennemis en les rouant de coups de pied. Après les combats,\nil masse ses jambes pour éviter de sentir la fatigue.",
+        "Les jambes de Kicklee peuvent se contracter et s’étirer\nà volonté. Grâce à ces jambes à ressort, il terrasse ses\nennemis en les rouant de coups de pied. Après les combats,\nil masse ses jambes pour éviter de sentir la fatigue.",
+        "Ses pieds deviennent durs comme le diamant\nquand il donne des coups, pulvérisant ainsi\nses adversaires.",
+        "Ses pieds deviennent durs comme le diamant\nquand il donne des coups, pulvérisant ainsi\nses adversaires.",
+        "Il possède un fantastique sens de l’équilibre,\net peut donner des rafales de coups de pied\ndans toutes les positions.",
+        "Kicklee peut rétracter et étendre ses jambes\nà sa guise. La formidable allonge dont il dispose\nlui permet de frapper des adversaires éloignés."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "name": "Kicklee",
+    "types": [
+        "Combat"
+    ],
+    "weight": 49.8
+}

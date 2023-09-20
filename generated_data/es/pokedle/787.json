@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 7,
+    "height": 1.9,
+    "name": "Tapu Bulu",
+    "types": [
+        "Planta",
+        "Hada"
+    ],
+    "weight": 45.5
+}

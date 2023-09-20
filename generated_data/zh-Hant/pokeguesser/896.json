@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "會從蹄子釋放出強烈的寒氣。\n性情暴躁，只要是自己想要\n的東西，就會強行去搶奪。",
+        "擁有十分驚人的怪力。\n遮住臉部的冰面罩比\n鑽石還要堅硬１００倍。"
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "name": "雪暴馬",
+    "types": [
+        "冰"
+    ],
+    "weight": 800.0
+}

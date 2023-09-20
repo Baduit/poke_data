@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Son corps est prisonnier d’une armure\ndure comme l’acier, mais il vole à plus\nde 300 km/h.",
+        "Son corps est prisonnier d’une armure\ndure comme l’acier, mais il vole à plus\nde 300 km/h.",
+        "Comme il fait son nid dans les ronces, ses petits\ns’endurcissent à force d’être sans cesse éraflés.",
+        "Son corps est prisonnier d’une armure dure comme\nl’acier, mais il vole à plus de 300 km/h.",
+        "Airmure est entièrement recouvert d’une armure très dure.\nCe Pokémon peut voler à plus de 300 km/h. Il peut mettre\nses ennemis en pièces grâce à ses ailes tranchantes comme\ndes sabres.",
+        "Les ailes d’acier d’Airmure s’abîment et se cabossent à force\nde se battre. Une fois par an, les ailes endommagées\nrepoussent complètement, rendant à leurs bords tranchants\nleur état d’origine.",
+        "Ce Pokémon perd ses plumes fines et acérées\ndurant sa croissance. Jadis, les guerriers s’en\nservaient pour fabriquer des lames.",
+        "Son plumage d’acier, bien que très résistant,\nest sujet à la rouille. C’est pourquoi ce Pokémon\npréférera rester au nid les jours de pluie.",
+        "Les couteaux fabriqués à partir des plumes\nde ce Pokémon sont appréciés des plus grands\nchefs cuisiniers pour leur tranchant acéré.",
+        "Il peut paraître lourd, avec son armure d’acier,\nmais il est en fait capable de voler à une vitesse\nde 300 km/h.",
+        "Ses plumes sont plus tranchantes que des lames.\nIl se dispute violemment son territoire avec\nles Corvaillus.",
+        "Ce Pokémon orne souvent les blasons,\ncar les plumes qu’il perd sont utilisées\npour forger des épées."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "name": "Airmure",
+    "types": [
+        "Acier",
+        "Vol"
+    ],
+    "weight": 50.5
+}

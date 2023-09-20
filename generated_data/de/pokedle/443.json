@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 4,
+    "height": 0.7,
+    "name": "Kaumalat",
+    "types": [
+        "Drache",
+        "Boden"
+    ],
+    "weight": 20.5
+}

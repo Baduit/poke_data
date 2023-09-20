@@ -1,0 +1,11 @@
+{
+    "color": "綠色",
+    "generation": 1,
+    "height": 1.0,
+    "name": "妙蛙草",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 13.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Se alimenta de huevos robados en nidos. Clava sus\nafiladas garras en los puntos débiles de sus rivales.",
+        "Sus ocultas garras son muy afiladas. Si le atacan,\nextiende sus garras y asusta al enemigo.",
+        "Sneasel trepa por los árboles agarrándose a la corteza con las\ngarras curvas que tiene. Este Pokémon busca nidos\ndesprovistos de vigilancia paterna para robar los huevos y\ncomérselos.",
+        "Sneasel trepa por los árboles agarrándose a la corteza con las\ngarras curvas que tiene. Este Pokémon busca nidos\ndesprovistos de vigilancia paterna para robar los huevos y\ncomérselos.",
+        "Es un Pokémon de naturaleza astuta y fiera.\nSe cuela en los nidos de otros Pokémon cuando\nno están y roba sus huevos.",
+        "Abre un pequeño agujero en los huevos con sus\ngarras y sorbe el interior. Los Criapokémon lo\ndetestan e intentan tomar medidas contra él.",
+        "Colabora con los suyos para saquear nidos de\nPokémon pájaro, aunque luego se disputan\nfieramente quién se come los huevos.",
+        "Acecha a sus presas en la oscuridad nocturna.\nEn ocasiones, ataca a algún Sandshrew y acaba\npartiéndose las garras contra su dura piel.",
+        "Sus patas ocultan garras sumamente afiladas,\nque extiende de repente para intimidar al\nenemigo en caso de amenaza.",
+        "Es un Pokémon de naturaleza astuta y fiera. Se\ncuela en los nidos de otros Pokémon cuando no\nestán y roba sus huevos."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "name": "Sneasel",
+    "types": [
+        "Siniestro",
+        "Hielo"
+    ],
+    "weight": 28.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 6,
+    "height": 2.7,
+    "name": "冰雪巨龙",
+    "types": [
+        "岩石",
+        "冰"
+    ],
+    "weight": 225.0
+}

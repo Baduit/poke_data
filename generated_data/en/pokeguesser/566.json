@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Said to be an ancestor of bird Pokémon,\nthey were unable to fly and moved about\nby hopping from one branch to another.",
+        "Revived from a fossil, this Pokémon\nis thought to be the ancestor of all\nbird Pokémon.",
+        "It was revived from an ancient fossil.\nNot able to fly, it lived in treetops and\nhopped from one branch to another.",
+        "It was revived from an ancient fossil.\nNot able to fly, it lived in treetops and\nhopped from one branch to another.",
+        "Revived from a fossil, this Pokémon is thought to\nbe the ancestor of all bird Pokémon.",
+        "Said to be an ancestor of bird Pokémon, they were\nunable to fly and moved about by hopping from one\nbranch to another.",
+        "Revived from a fossil, this Pokémon is thought to\nbe the ancestor of all bird Pokémon.",
+        "Said to be an ancestor of bird Pokémon, they were\nunable to fly and moved about by hopping from one\nbranch to another.",
+        "It is the ancestor of all bird Pokémon. Archen\nitself could not actually fly but moved by\nhopping from treetop to treetop.",
+        "To all appearances flightless, it was able to\nglide down from tall treetops to snag its prey.",
+        "Once thought to be the ancestor of all bird\nPokémon, some of the latest research suggests\nthat may not be the case.",
+        "Restored from a fossil, this ancient bird\nPokémon has wings but can’t yet fly.",
+        "This Pokémon was successfully restored from a\nfossil. As research suggested, Archen is unable\nto fly. But it’s very good at jumping.",
+        "Archen is said to be the ancestor of bird\nPokémon. It lived in treetops, eating berries\nand bug Pokémon."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "name": "Archen",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "weight": 9.5
+}

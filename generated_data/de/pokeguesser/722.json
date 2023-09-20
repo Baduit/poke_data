@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ein wachsames und nachtaktives Pokémon.\nTagsüber sammelt es per Photosynthese\nKräfte, um fit für die Nacht zu sein.",
+        "Nachdem es sich seinem Feind lautlos\nim Gleitflug genähert hat, wird dieser mit\nheftigen Tritten völlig überrascht.",
+        "Es schleudert messerscharfe Federn auf seine\nGegner. Aber auch seine Tritte sind nicht zu\nunterschätzen, denn es hat sehr kräftige Beine.",
+        "An engen, dunklen Orten fühlt es sich wohl.\nManchmal zweckentfremdet es die Brusttasche\noder den Beutel seines Trainers als Nest.",
+        "Während es durch die Lüfte fliegt, schleudert es\nscharfe Federn auf seine Ziele. Wenn Gegner ihm\nzu nahe kommen, greift es mit heftigen Tritten an.",
+        "Tagsüber sammelt es per Photosynthese Kräfte,\num nachts lautlos durch die Lüfte zu fliegen und\nnach Beute zu suchen."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "name": "Bauz",
+    "types": [
+        "Pflanze",
+        "Flug"
+    ],
+    "weight": 1.5
+}

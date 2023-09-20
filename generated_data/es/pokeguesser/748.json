@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se arrastra por el lecho marino con sus doce\nextremidades. Deja siempre una estela de\nrestos de Corsola por donde pasa.",
+        "Los afectados por su veneno sufren dolores\nintensos durante tres días y tres noches.\nAunque sobrevivan, las secuelas permanecerán.",
+        "Ataca a su enemigo lanzándole unas espinas\nextremadamente venenosas. Si este se acerca,\nlo acribilla con las garras de sus extremidades.",
+        "Sus doce extremidades forman una cúpula que\nprotege el interior. Este es todo un remanso de\npaz, ya que no se ve afectado por las mareas.",
+        "Para resistir las bajas temperaturas de las aguas\nde Galar, forma una cúpula con las patas y\ncalienta el interior con el calor de su cuerpo.",
+        "La bolsa de veneno en el interior de su cuerpo\ncontiene toxinas tan potentes que provocarían\ntres días de dolores intensos hasta a un Wailord."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "name": "Toxapex",
+    "types": [
+        "Veneno",
+        "Agua"
+    ],
+    "weight": 14.5
+}

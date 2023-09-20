@@ -1,0 +1,11 @@
+{
+    "color": "Pink",
+    "generation": 1,
+    "height": 0.5,
+    "name": "Jigglypuff",
+    "types": [
+        "Normal",
+        "Fairy"
+    ],
+    "weight": 5.5
+}

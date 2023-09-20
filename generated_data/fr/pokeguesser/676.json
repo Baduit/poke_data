@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Si son abondante fourrure gagne à être toilettée,\nce n’est pas qu’une question de style. En effet, cela\nlui permet également de se mouvoir plus librement.",
+        "Il y a fort longtemps dans la région de Kalos,\nce Pokémon fut le gardien des rois et des reines.",
+        "Si son abondante fourrure gagne à être toilettée, ce n’est pas\nqu’une question de style. En effet, cela lui permet également\nde se mouvoir plus librement.",
+        "Il y a fort longtemps dans la région de Kalos, ce Pokémon fut\nle gardien des rois et des reines.",
+        "Il fut un temps où la noblesse organisait\ndes concours pour déterminer quel Couafarel\narborait la plus belle coupe.",
+        "Sa fourrure pousse indéfiniment, mais il refuse\nde se faire couper la toison par une personne\nen qui il n’a pas confiance."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+    "name": "Couafarel",
+    "types": [
+        "Normal"
+    ],
+    "weight": 28.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 5,
+    "height": 3.0,
+    "name": "큐레무",
+    "types": [
+        "드래곤",
+        "얼음"
+    ],
+    "weight": 325.0
+}

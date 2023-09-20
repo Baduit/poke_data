@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Il possède une puissance vocale remarquable.\nOn appelle Blocage sa technique qui consiste\nà intimider l’ennemi avec son cri guttural.",
+        "Il a évolué après avoir enchaîné de nombreux\ncombats. Le cri qu’il pousse lorsqu’il fait un « X »\navec ses bras ébranle n’importe quel ennemi."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "name": "Ixon",
+    "types": [
+        "Ténèbres",
+        "Normal"
+    ],
+    "weight": 46.0
+}

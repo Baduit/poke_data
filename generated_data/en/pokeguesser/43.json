@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        "During the day,\nit keeps its face\nburied in the\fground. At night,\nit wanders around\nsowing its seeds.",
+        "During the day,\nit keeps its face\nburied in the\fground. At night,\nit wanders around\nsowing its seeds.",
+        "It may be mistaken\nfor a clump of\nweeds. If you try\fto yank it out of\nthe ground, it\nshrieks horribly.",
+        "Awakened by moon­\nlight, it roams \nactively at night.\fIn the day, it\nstays quietly\nunderground.",
+        "If exposed to\nmoonlight, it\nstarts to move.\fIt roams far and\nwide at night to\nscatter its seeds.",
+        "During the day, it\nstays in the cold\nunderground to\favoid the sun.\nIt grows by bath­\ning in moonlight.",
+        "During the daytime, ODDISH buries\nitself in soil to absorb nutrients from \nthe ground using its entire body.\fThe more fertile the soil, the glossier\nits leaves become.",
+        "ODDISH searches for fertile, nutrient-\nrich soil, then plants itself.\nDuring the daytime, while it is planted,\fthis POKéMON’s feet are thought to\nchange shape and become similar to\nthe roots of trees.",
+        "This POKéMON grows by absorbing moonlight.\nDuring the daytime, it buries itself in the\nground, leaving only its leaves exposed to\navoid detection by its enemies.",
+        "Its scientific name is “Oddium Wanderus.”\nAt night, it is said to walk nearly 1,000\nfeet on its two roots.",
+        "During the day, it keeps its face buried\nin the ground. At night, it wanders around\nsowing its seeds.",
+        "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night.",
+        "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night.",
+        "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night.",
+        "Awakened by moonlight, it roams\nactively at night. In the day, it stays\nquietly underground.",
+        "If exposed to moonlight, it\nstarts to move. It roams far and\nwide at night to scatter its seeds.",
+        "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night.",
+        "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night.",
+        "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night.",
+        "It often plants its root feet in the\nground during the day and sows\nseeds as it walks about at night.",
+        "During the day, it stays in the cold underground\nto avoid the sun. It grows by bathing in moonlight.",
+        "Its scientific name is “Oddium Wanderus.” At night,\nit is said to walk nearly 1,000 feet on its two roots.",
+        "During the daytime, Oddish buries itself in soil to absorb\nnutrients from the ground using its entire body.\nThe more fertile the soil, the glossier its leaves become.",
+        "Oddish searches for fertile, nutrient-rich soil, then plants itself.\nDuring the daytime, while it is planted, this Pokémon’s feet\nare thought to change shape and become similar to the roots\nof trees.",
+        "It may be mistaken for a clump of weeds.\nIf you try to yank it out of the ground,\nit shrieks horribly.",
+        "It may be mistaken for a clump of weeds.\nIf you try to yank it out of the ground,\nit shrieks horribly.",
+        "If exposed to moonlight, it starts to move.\nIt roams far and wide at night to scatter its seeds.",
+        "During the day, it stays in the cold underground\nto avoid the sun. It grows by bathing in moonlight."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "name": "Oddish",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 5.4
+}

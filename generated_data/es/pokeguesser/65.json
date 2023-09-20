@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Sus neuronas se multiplican continuamente durante su\nvida. Por eso, siempre lo recuerda todo.",
+        "Su cerebro puede ganar al de un ordenador de alta\ngama. Tiene un coeficiente intelectual de 5000.",
+        "El cerebro de Alakazam nunca deja de crecer y por eso al\ncuello le cuesta sostener el peso de la cabeza. Este Pokémon\nusa sus poderes psicoquinéticos para mantener en alto la\ncabeza.",
+        "El cerebro de Alakazam siempre está creciendo y el número\nde neuronas no deja de aumentar. Este Pokémon tiene un\ncociente intelectual de 5000. Tiene archivado en su memoria\ntodo lo que ha ocurrido en el mundo.",
+        "Su coeficiente intelectual ronda los 5000. Los\npoderes telequinéticos que rezuma causan\njaquecas a cualquiera que se acerque.",
+        "Las neuronas de su cerebro se multiplican sin\ndescanso hasta el día de su muerte. Cuanto más\nviejo es Alakazam, más grande es su cabeza.",
+        "Las cucharas que lleva las creó él mismo con\nsus poderes psíquicos. Son únicas en el mundo\nentero.",
+        "Quien se granjea su favor recibe como presente\nuna cuchara. Al parecer, todo cuanto se coma\ncon ella tendrá un sabor exquisito.",
+        "Este Pokémon lo recuerda todo y nunca olvida\nlo que aprende, de ahí que sea tan inteligente.",
+        "Este Pokémon lo recuerda todo y nunca olvida\nlo que aprende, de ahí que sea tan inteligente.",
+        "Posee una capacidad intelectual fuera de lo\ncomún que le permite recordar todo lo sucedido\ndesde el instante de su nacimiento.",
+        "Posee unos poderes psíquicos extraordinarios\ncon los que, según se dice, creó las cucharas\nque lleva en las manos."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "name": "Alakazam",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 48.0
+}

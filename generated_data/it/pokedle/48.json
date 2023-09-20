@@ -1,0 +1,11 @@
+{
+    "color": "Viola",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Venonat",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 30.0
+}

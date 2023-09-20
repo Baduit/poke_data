@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Mit seinen scharfen Zähnen schnappt es nach\nallem. Es lebte ursprünglich nicht in Alola und\nwurde aus einer anderen Region eingeführt.",
+        "Die Futtersuche treibt es unaufhörlich umher,\ndoch sobald die Sonne untergeht, wird es von\nMüdigkeit überfallen und schläft sofort ein.",
+        "Sein Magen füllt beinahe das gesamte Innere\nseines länglichen Körpers aus. Die bei diesem\nVielfraß anfallenden Futterkosten sind enorm.",
+        "Es ist zwar ein Allesfresser, bevorzugt aber\nfrische oder lebendige Nahrung. Auf der Suche\nnach Beute marschiert es die Straßen entlang."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "name": "Mangunior",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

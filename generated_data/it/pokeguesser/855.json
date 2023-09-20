@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Prende dimora in una teiera antica. Quelle\nin circolazione sono quasi tutte contraffatte,\nma a volte ne trova una autentica.",
+        "Se trova una tazza di tè abbandonata, ci versa\ndentro un po’ del suo corpo per far nascere\nun Polteageist."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+    "name": "Polteageist",
+    "types": [
+        "Spettro"
+    ],
+    "weight": 0.4
+}

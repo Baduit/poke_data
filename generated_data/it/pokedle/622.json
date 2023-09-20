@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Golett",
+    "types": [
+        "Terra",
+        "Spettro"
+    ],
+    "weight": 92.0
+}

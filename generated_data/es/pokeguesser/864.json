@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Su energía espiritual ha aumentado hasta hacerlo\ndesprenderse de su base caliza. Protege el alma\ndel núcleo con su cuerpo espectral.",
+        "Conviene tener cuidado con el cuerpo espectral\nque recubre su alma, pues quien lo toque podría\nacabar inerte como una piedra."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+    "name": "Cursola",
+    "types": [
+        "Fantasma"
+    ],
+    "weight": 0.4
+}

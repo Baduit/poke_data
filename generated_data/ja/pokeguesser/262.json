@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "優れた　トレーナーの　命令には\n絶対に　服従。大昔に\n群れで　行動していた　名残り。",
+        "１０匹　程度の　群れを　作って\n一糸乱れぬ　チームワークで\n獲物を　追いつめて　しとめるのだ。",
+        "どう猛な　うなり声を　あげながら　姿勢を\n低く　している　ときは　攻撃の　前触れ。\n鋭く　とがった　キバで　がぶりと　かみつく。",
+        "グループで　行動していた　野生の　血が\n残っているので　優れた　トレーナー　だけを\nリーダーと　認めて　命令に　従う。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "name": "グラエナ",
+    "types": [
+        "あく"
+    ],
+    "weight": 37.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 5,
+    "height": 0.4,
+    "name": "마디네",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 5.3
+}

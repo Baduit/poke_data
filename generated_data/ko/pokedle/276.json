@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 3,
+    "height": 0.3,
+    "name": "테일로",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 2.3
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il mange chaque jour son poids en\nfeuilles. Il utilise l’aiguillon sur sa\ntête pour repousser l’ennemi.",
+        "Il mange chaque jour son poids en\nfeuilles. Il utilise l’aiguillon sur sa\ntête pour repousser l’ennemi.",
+        "On trouve souvent ce Pokémon dans les forêts et\nles hautes herbes. L’aiguillon de 5 cm sur sa tête\ncontient un venin très toxique.",
+        "Son aiguillon empoisonné est très dangereux.\nSon corps est coloré afin de repousser ses ennemis.",
+        "L’odorat d’Aspicot est extrêmement développé. Il lui suffit de\nrenifler ses feuilles préférées avec son gros appendice nasal\npour les reconnaître entre mille.",
+        "L’odorat d’Aspicot est extrêmement développé. Il lui suffit de\nrenifler ses feuilles préférées avec son gros appendice nasal\npour les reconnaître entre mille.",
+        "L’aiguillon sur son front est très pointu.\nIl se cache dans les bois et les hautes herbes,\noù il se gave de feuilles.",
+        "L’aiguillon sur son front est très pointu.\nIl se cache dans les bois et les hautes herbes,\noù il se gave de feuilles."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "name": "Aspicot",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 3.2
+}

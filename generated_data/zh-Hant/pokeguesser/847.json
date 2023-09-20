@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "像長矛一樣尖銳的下巴\n擁有鋼鐵般的硬度。\n據說牠的肉好吃得驚人。",
+        "會旋轉著自己的尾鰭\n一口氣突擊。能夠以超過\n１００節的速度貫穿獵物。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "name": "戽斗尖梭",
+    "types": [
+        "水"
+    ],
+    "weight": 30.0
+}

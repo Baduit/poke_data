@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Bevor es abhebt, nimmt es am Boden Anlauf.\nEs ist schlau genug, seine Beute zusammen\nmit Artgenossen zu jagen.",
+        "Zu Fuß ist es schneller als in der Luft. Es muss\nein Tempo von 40 km/h erreichen, bevor es sich\nin die Lüfte aufschwingt.",
+        "Bevor es abhebt, nimmt es am Boden Anlauf. Es ist schlau\ngenug, seine Beute zusammen mit Artgenossen zu jagen.",
+        "Zu Fuß ist es schneller als in der Luft. Es muss ein Tempo\nvon 40 km/h erreichen, bevor es sich in die Lüfte aufschwingt.",
+        "Es kann anscheinend auch fliegen, bewegt sich\naber überwiegend mit einer durchschnittlichen\nGeschwindigkeit von 40 km/h am Boden fort.",
+        "Es jagt in Gruppen. Sobald es die Beute in die\nEnge getrieben hat, stürzt sich ein Artgenosse\naus der Luft auf sie.",
+        "Aufgrund seines feinen Gefieders glückt die\nZurückverwandlung dieses urzeitlichen Pokémon\nnur Experten mit langjähriger Erfahrung.",
+        "Es gilt als Urahn aller Vogel-Pokémon. Da die\nMuskeln an seinen Flügeln noch zu schwach\nsind, kann es nur mit Anlauf fliegen.",
+        "Um abheben zu können, muss es circa 4 km\nAnlauf nehmen und dabei eine Geschwindigkeit\nvon 40 km/h erreichen.",
+        "Es konnte zwar auch fliegen, schien aber sehr viel\ngeschickter darin zu sein, am Boden Jagd auf\nBeute zu machen."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "name": "Aeropteryx",
+    "types": [
+        "Gestein",
+        "Flug"
+    ],
+    "weight": 32.0
+}

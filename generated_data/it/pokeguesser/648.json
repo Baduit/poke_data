@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Canta una melodia che ha il potere di portare la\ngioia o la tristezza nel cuore dei Pokémon che\nl’ascoltano.",
+        "Controlla a suo piacimento le emozioni di coloro\nche ascoltano i suoi singolari vocalizzi.",
+        "Canta una melodia che ha il potere di portare la gioia o\nla tristezza nel cuore dei Pokémon che l’ascoltano.",
+        "Controlla a suo piacimento le emozioni di coloro che ascoltano\ni suoi singolari vocalizzi."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "name": "Meloetta",
+    "types": [
+        "Normale",
+        "Psico"
+    ],
+    "weight": 6.5
+}

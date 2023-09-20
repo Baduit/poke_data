@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "每天夜里都在遗迹中徘徊。\n据说它拿着的面具\n是它还是人类时的脸。",
+        "古代人的灵魂变成了宝可梦。\n为了寻找认得自己长相的人\n而在遗迹里徘徊。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png",
+    "name": "哭哭面具",
+    "types": [
+        "幽灵"
+    ],
+    "weight": 1.5
+}

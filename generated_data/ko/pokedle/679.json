@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 6,
+    "height": 0.8,
+    "name": "단칼빙",
+    "types": [
+        "강철",
+        "고스트"
+    ],
+    "weight": 2.0
+}

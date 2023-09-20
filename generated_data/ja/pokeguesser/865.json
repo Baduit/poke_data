@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "歴戦を　生き抜いた　ものが\nこの姿に　進化する。　ネギが\n枯れるとき　戦場を　去る。",
+        "硬いネギの　葉で　攻撃を\nいなし　鋭い　茎で　反撃。\nネギは　武具であり　食材。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "name": "ネギガナイト",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 117.0
+}

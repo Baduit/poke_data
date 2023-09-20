@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 6,
+    "height": 0.5,
+    "name": "Opermine",
+    "types": [
+        "Roche",
+        "Eau"
+    ],
+    "weight": 31.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "会在暴风雨袭来时出现在\n海面上。如果遇到快龙，\n便会开始激烈的争斗。",
+        "身上掉下的鳞片闪耀着\n高雅而有深度的光泽，\n甚至会被拿去进献给王族。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "name": "刺龙王",
+    "types": [
+        "水",
+        "龙"
+    ],
+    "weight": 152.0
+}

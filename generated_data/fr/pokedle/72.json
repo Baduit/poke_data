@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 1,
+    "height": 0.9,
+    "name": "Tentacool",
+    "types": [
+        "Eau",
+        "Poison"
+    ],
+    "weight": 45.5
+}

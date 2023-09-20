@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 7,
+    "height": 0.5,
+    "name": "Sandygast",
+    "types": [
+        "Ghost",
+        "Ground"
+    ],
+    "weight": 70.0
+}

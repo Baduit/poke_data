@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Poiché sa usare qualsiasi mossa, molti scienziati\nritengono che Mew sia l’antenato di tutti i Pokémon.",
+        "Pare che il suo DNA contenga i codici genetici di tutti\ni Pokémon; per questo può usare qualsiasi tecnica.",
+        "Si dice che Mew possegga il patrimonio genetico di tutti\ni Pokémon. È in grado di rendersi invisibile, quando vuole,\nin modo da non farsi notare nemmeno da vicino.",
+        "Si dice che Mew possegga il patrimonio genetico di tutti\ni Pokémon. È in grado di rendersi invisibile, quando vuole,\nin modo da non farsi notare nemmeno da vicino.",
+        "Osservando al microscopio la pelle di Mew\nsi può constatare che è ricoperta da una fitta\npeluria, corta e fine.",
+        "Osservando al microscopio la pelle di Mew\nsi può constatare che è ricoperta da una fitta\npeluria, corta e fine."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "name": "Mew",
+    "types": [
+        "Psico"
+    ],
+    "weight": 4.0
+}

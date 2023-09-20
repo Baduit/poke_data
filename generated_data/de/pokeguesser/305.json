@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ist verrückt nach Eisenerz. Bei Revierkämpfen\nstoßen Stollrak einander mit ihren Stahlkörpern.",
+        "Gelegentlich demonstriert es seine Kraft, indem es\nmit der Größe der Funken angibt, die entstehen,\nwenn es seinen stählernen Körper in Felsen rammt.",
+        "Stollrak temperiert seinen Körper, indem es ausgesprochen\nnahrhaftes Quellwasser trinkt, bis es völlig aufgebläht ist.\nDieses Pokémon baut sein Nest in der Nähe von Quellen,\naus denen köstliches Wasser sprudelt.",
+        "Stollrak ernährt sich von Eisen, das in Steinen und Wasser\nenthalten ist. Es baut sein Nest in Bergen, in denen Eisenerz\nabgebaut wird. Es gerät dabei häufig mit Bergarbeitern\nin Konflikt.",
+        "Stollrak leben in Bergen, die reich an Quellwasser\nund Eisenerz sind, weshalb sie oft mit Menschen\nin Konflikt gerieten.",
+        "Bei Revierkämpfen prallen sie mit ihren Körpern\ngegeneinander. Betrachtet man die Stahlpanzer\ngenauer, entdeckt man Kratzer und Dellen."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "name": "Stollrak",
+    "types": [
+        "Stahl",
+        "Gestein"
+    ],
+    "weight": 120.0
+}

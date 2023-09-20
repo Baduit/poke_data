@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Rabigator",
+    "types": [
+        "Boden",
+        "Unlicht"
+    ],
+    "weight": 96.3
+}

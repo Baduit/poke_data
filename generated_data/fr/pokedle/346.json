@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Vacilys",
+    "types": [
+        "Roche",
+        "Plante"
+    ],
+    "weight": 60.4
+}

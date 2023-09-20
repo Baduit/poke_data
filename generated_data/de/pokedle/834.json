@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 8,
+    "height": 1.0,
+    "name": "Kamalm",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 115.5
+}

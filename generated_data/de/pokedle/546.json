@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Waumboll",
+    "types": [
+        "Pflanze",
+        "Fee"
+    ],
+    "weight": 0.6
+}

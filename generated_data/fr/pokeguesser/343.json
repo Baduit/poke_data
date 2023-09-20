@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il se déplace en tournoyant sur\nson pied. Ce Pokémon rare fut\ndécouvert dans de vieilles ruines.",
+        "Il se déplace en tournoyant sur\nson pied. Ce Pokémon rare fut\ndécouvert dans de vieilles ruines.",
+        "Il se déplace en tournoyant sur son pied. Même mis\nsur la tête, il peut continuer à tourner.",
+        "Il se déplace en tournoyant sur son pied. Ce Pokémon\nrare fut découvert dans de vieilles ruines.",
+        "Balbuto se déplace en pivotant sur son unique pied.\nDes peintures rupestres montrant ce Pokémon vivant\navec les hommes furent découvertes dans des ruines\ntrès anciennes.",
+        "Dès qu’il repère ses congénères, Balbuto les rejoint et\nils se mettent tous à crier en chœur. Ce Pokémon arrive\nà dormir en restant adroitement en équilibre.",
+        "Des esquisses de Pokémon ressemblant à des\nBalbuto ont été retrouvées dans des grottes\njadis habitées par des hommes préhistoriques.",
+        "Quand il aperçoit des congénères, il les rejoint\nen émettant des sons stridents. On en a trouvé\nbeaucoup dans de très vieux cimetières.",
+        "Il se déplace en tournoyant sur son pied.\nOn le voit parfois faire de même sur la tête.",
+        "Ce Pokémon découvert dans des ruines anciennes\ntourne sur lui-même pour se déplacer. Il se tient\ntoujours sur un pied, même quand il dort."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+    "name": "Balbuto",
+    "types": [
+        "Sol",
+        "Psy"
+    ],
+    "weight": 21.5
+}

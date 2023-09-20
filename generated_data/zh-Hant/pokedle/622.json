@@ -1,0 +1,11 @@
+{
+    "color": "綠色",
+    "generation": 5,
+    "height": 1.0,
+    "name": "泥偶小人",
+    "types": [
+        "地面",
+        "幽靈"
+    ],
+    "weight": 92.0
+}

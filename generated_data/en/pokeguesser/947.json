@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+        "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+    "name": "Brambleghast",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "weight": 6.0
+}

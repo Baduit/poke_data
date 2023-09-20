@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 5,
+    "height": 0.7,
+    "name": "Tirtouga",
+    "types": [
+        "Acqua",
+        "Roccia"
+    ],
+    "weight": 16.5
+}

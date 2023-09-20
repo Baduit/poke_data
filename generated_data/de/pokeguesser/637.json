@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Schüttelt sich glühenden Staub aus seinen\nsechs Flügeln und verwandelt das Umfeld in\nein einziges Meer aus Flammen.",
+        "Es heißt, als das Land einst unter einer düsteren\nWolke aus Vulkanasche lag, übernahm es die Rolle\nder Sonne.",
+        "Schüttelt sich glühenden Staub aus seinen sechs Flügeln und\nverwandelt das Umfeld in ein einziges Meer aus Flammen.",
+        "Es heißt, als das Land einst unter einer düsteren Wolke aus\nVulkanasche lag, übernahm es die Rolle der Sonne.",
+        "Während es umherfliegt, verteilt es glühenden\nFlügelstaub. Einst wurde es von den Menschen\ngefürchtet und als „Zorn der Sonne“ bezeichnet.",
+        "Alten Legenden zufolge wurde es aus einem\nlodernden Kokon geboren, um von Kälte\nbedrohte Menschen und Pokémon zu retten.",
+        "Einige sagen, es verstreue glühenden Flügelstaub,\num Brände auszulösen. Andere meinen, es rette\ndadurch jene, die unter Kälte leiden.",
+        "Ramoth wurde aus einem lodernden Kokon\ngeboren. In antiken Wandmalereien ist es als\nFeuergottheit abgebildet."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "name": "Ramoth",
+    "types": [
+        "Käfer",
+        "Feuer"
+    ],
+    "weight": 46.0
+}

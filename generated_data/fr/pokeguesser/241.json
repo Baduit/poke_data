@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "On raconte que les enfants élevés\nau lait d’Écrémeuh deviennent des\nadultes braves et robustes.",
+        "On raconte que les enfants élevés\nau lait d’Écrémeuh deviennent des\nadultes braves et robustes.",
+        "Si elle vient d’avoir un petit, son lait est bien plus\nnutritif que d’habitude.",
+        "Son lait est très nutritif. C’est une boisson parfaite\npour les malades et les personnes âgées.",
+        "Écrémeuh produit plus de 20 l de lait par jour.\nSon lait sucré fait le bonheur des petits et des grands.\nLes gens qui ne boivent pas de lait en font du yaourt.",
+        "Écrémeuh produit plus de 20 l de lait par jour.\nSon lait sucré fait le bonheur des petits et des grands.\nLes gens qui ne boivent pas de lait en font du yaourt.",
+        "Son lait est aussi nutritif qu’hypercalorique.\nÀ consommer avec modération, sous peine de\nfinir avec une silhouette « Écrémeuh-esque ».",
+        "Ce Pokémon est surtout élevé pour son lait,\nbien que sa stature imposante en fasse un\nPokémon de combat tout à fait respectable.",
+        "Les 20 litres de lait qu’il produit chaque jour\ngagneront en saveur et en caractère s’il vit\ndans un pâturage de bonne qualité.",
+        "Son lait est délicieux et très nutritif, mais il ne\nfaut pas en abuser pour éviter d’éventuels\npetits problèmes de digestion.",
+        "Grâce à son lait très nutritif, Écrémeuh contribue\ndepuis longtemps au bien-être des humains\net des Pokémon.",
+        "Sa santé décline si on ne le trait pas tous les jours.\nLe goût de son lait varie selon la saison."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+    "name": "Écrémeuh",
+    "types": [
+        "Normal"
+    ],
+    "weight": 75.5
+}

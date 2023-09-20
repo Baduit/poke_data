@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 1,
+    "height": 1.4,
+    "name": "Golem",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "weight": 300.0
+}

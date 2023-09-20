@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 5,
+    "height": 0.1,
+    "name": "파쪼옥",
+    "types": [
+        "벌레",
+        "전기"
+    ],
+    "weight": 0.6
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 2,
+    "height": 0.8,
+    "name": "Volcaropod",
+    "types": [
+        "Feu",
+        "Roche"
+    ],
+    "weight": 55.0
+}

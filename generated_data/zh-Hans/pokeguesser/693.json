@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "压缩吸入的水，然后射出去。\n那威力连很厚的铁板都能\n打穿一个洞。",
+        "右臂非常紧实饱满。\n掉落下来的钳子作为食材\n被销往海外。",
+        "通过巨大钳子的触角\n感知猎物的位置，\n然后对其发射水炮弹。",
+        "右臂是能够喷射\n海水炮弹的大炮。\n威力大到足以击沉油轮。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "name": "钢炮臂虾",
+    "types": [
+        "水"
+    ],
+    "weight": 35.3
+}

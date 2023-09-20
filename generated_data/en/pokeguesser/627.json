@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        "They crush berries with their talons. They bravely\nstand up to any opponent, no matter how strong\nit is.",
+        "They crush berries with their talons.\nThey bravely stand up to any opponent,\nno matter how strong it is.",
+        "They will challenge anything, even strong\nopponents, without fear. Their frequent\nfights help them become stronger.",
+        "It stands up to massive opponents, not\nout of courage, but out of recklessness.\nBut that is how it gets stronger.",
+        "It stands up to massive opponents, not\nout of courage, but out of recklessness.\nBut that is how it gets stronger.",
+        "They crush berries with their talons. They bravely\nstand up to any opponent, no matter how strong\nit is.",
+        "They will challenge anything, even strong\nopponents, without fear. Their frequent fights help\nthem become stronger.",
+        "They will challenge anything, even strong\nopponents, without fear. Their frequent fights help\nthem become stronger.",
+        "They pick fights indiscriminately. They grow\nstronger and more powerful each time they\nfaint or are injured.",
+        "With its sharp claws, this Pokémon pierces its\nprey, and then it pecks at them. Although it also\nconsumes berries, it’s a carnivore at heart.",
+        "With its powerful legs and sturdy claws, it can\ncrack even the hard shells of Shellder and pluck\nout their insides.",
+        "Known as a natural-born warrior, soon after its\nhatching, it will challenge its parent to a fight in\norder to gain their acceptance.",
+        "If it spies a strong Pokémon, Rufflet can’t resist\nchallenging it to a battle. But if Rufflet loses,\nit starts bawling.",
+        "A combative Pokémon, it’s ready to pick a fight\nwith anyone. It has talons that can crush\nhard berries.",
+        "Its chick-like looks belie its hotheadedness. It challenges its\nparents at every opportunity, desperate to prove its strength."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+    "name": "Rufflet",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 10.5
+}

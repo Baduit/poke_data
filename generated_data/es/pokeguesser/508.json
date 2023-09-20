@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Socorre a humanos perdidos en montañas azotadas\npor ventiscas. Su largo pelaje le protege del frío.",
+        "Un humano podría pasar una noche gélida en las\nmontañas sin pasar frío si se tapara con su largo y\ntupido pelaje.",
+        "Socorre a humanos perdidos en montañas azotadas por\nventiscas. Su largo pelaje le protege del frío.",
+        "Un humano podría pasar una noche gélida en las montañas\nsin pasar frío si se tapara con su largo y tupido pelaje.",
+        "A su inteligencia y carácter afable se suma su\nvalentía. Presta una ayuda inestimable a los\nequipos de rescate.",
+        "Debido a su inteligencia y a lo manso que se\nmuestra al tratar con personas, algunos padres\nconfían en él incluso para proteger a sus hijos.",
+        "El largo y cálido pelaje le permite soportar sin\nningún problema el frío, pero resulta un poco\nasfixiante en Alola.",
+        "Posee un largo y tupido pelaje. En las regiones\nfrías no había antaño una casa que no tuviese\nun Stoutland.",
+        "Parece ser que le gusta vivir con personas. En tan\nsolo tres días ya le coge cariño a cualquiera que\nlo haya atrapado en estado salvaje.",
+        "Sus impresionantes bigotes son su orgullo. Entre\nlos de su especie se establece una jerarquía\nsegún su longitud."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png",
+    "name": "Stoutland",
+    "types": [
+        "Normal"
+    ],
+    "weight": 61.0
+}

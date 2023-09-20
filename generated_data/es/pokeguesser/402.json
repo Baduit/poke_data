@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Cuando llora, cruza sus brazos con forma de cuchillo.\nPuede improvisar melodías.",
+        "Los científicos tratan de estudiar sus melodías, que\nson reflejo de sus emociones.",
+        "Cuando llora, cruza sus brazos con forma de cuchillo. Puede\nimprovisar melodías.",
+        "Los científicos tratan de estudiar sus melodías, que son\nreflejo de sus emociones."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "name": "Kricketune",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 25.5
+}

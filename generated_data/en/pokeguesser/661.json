@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "These friendly Pokémon send signals\nto one another with beautiful chirps\nand tail-feather movements.",
+        "Despite the beauty of its lilting voice, it’s\nmerciless to intruders that enter its territory.",
+        "These friendly Pokémon send signals\nto one another with beautiful chirps\nand tail-feather movements.",
+        "Despite the beauty of its lilting voice, it’s\nmerciless to intruders that enter its territory.",
+        "This amiable Pokémon is easy to train.\nBut when battle is joined, it shows its\nferocious side.",
+        "When it’s excited, its temperature can double,\nspiking hormone production in its body.",
+        "While it’s an amiable Pokémon, if you touch it\nunexpectedly, it will heat up its body in an\ninstant, and you’ll be burned.",
+        "Its body is always warm. Trainers who live in\ncold areas apparently sleep with it in their bed.",
+        "Its melodious cries are actually warnings.\nFletchling will mercilessly peck at anything\nthat enters its territory.",
+        "When this Pokémon gets excited, its body\ntemperature increases sharply. If you touch a\nFletchling with bare hands, you might get burned."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+    "name": "Fletchling",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 1.7
+}

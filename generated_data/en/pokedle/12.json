@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 1,
+    "height": 1.1,
+    "name": "Butterfree",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 32.0
+}

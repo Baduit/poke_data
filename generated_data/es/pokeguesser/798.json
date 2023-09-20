@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Este Ultraente surgió de un Ultraumbral. Se dice\nque no es muy agresivo, pero su afilado cuerpo\nes un arma realmente peligrosa.",
+        "Varios testigos han observado como este\nUltraente cortaba en dos una enorme torre de\nacero como si fuera mantequilla.",
+        "El cuerpo de este Ultraente es fino como el\npapel y tan cortante como una espada recién\nafilada.",
+        "Para los seres de este mundo resulta extraño\ny peligroso, pero en el mundo del que procede\nes una criatura muy común."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "name": "Kartana",
+    "types": [
+        "Planta",
+        "Acero"
+    ],
+    "weight": 0.1
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Aunque su cuerpo es extremadamente delgado, es\nmuy rápido a la hora de capturar sus presas.",
+        "Tiene cara de persona. Por el aspecto que tiene se ha\ncomentado que podría ser algún tipo de mandrágora\nlegendaria.",
+        "Bellsprout tiene un cuerpo delgado y flexible que le permite\ninclinarse y balancearse para esquivar los ataques. Este\nPokémon escupe por la boca un fluido corrosivo capaz de\nhacer que se derrita hasta el hierro.",
+        "Bellsprout tiene un cuerpo delgado y flexible que le permite\ninclinarse y balancearse para esquivar los ataques. Este\nPokémon escupe por la boca un fluido corrosivo capaz de\nhacer que se derrita hasta el hierro.",
+        "Prefiere lugares cálidos y húmedos. Atrapa\npequeños Pokémon insectos con sus lianas para\ndevorarlos.",
+        "Prefiere lugares cálidos y húmedos. Atrapa\npequeños Pokémon insectos con sus lianas para\ndevorarlos."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "name": "Bellsprout",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Dwebble",
+    "types": [
+        "Coleottero",
+        "Roccia"
+    ],
+    "weight": 14.5
+}

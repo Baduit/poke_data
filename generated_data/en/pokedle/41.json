@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 1,
+    "height": 0.8,
+    "name": "Zubat",
+    "types": [
+        "Poison",
+        "Flying"
+    ],
+    "weight": 7.5
+}

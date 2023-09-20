@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Ses crocs lacèrent des feuilles\nd’acier. Il nage à 120 km/h. On\nl’appelle “tyran des mers”.",
+        "Ses crocs lacèrent des feuilles\nd’acier. Il nage à 120 km/h. On\nl’appelle “tyran des mers”.",
+        "Ses crocs lacèrent des feuilles d’acier. Il nage à\n120 km/h. On l’appelle « tyran des mers ».",
+        "Ce petit voyou fend les mers en se propulsant à\n120 km/h grâce à son postérieur.",
+        "Surnommé le « tyran des mers », Sharpedo est craint\nde par le monde. Ses crocs menaçants repoussent\nlorsqu’ils se brisent. Un seul de ces Pokémon peut\ndétruire un pétrolier gros porteur.",
+        "Sharpedo peut nager à plus de 120 km/h en propulsant de\nl’eau de mer par l’arrière de son corps. Ce Pokémon a un\npoint faible : il ne peut pas parcourir de longues distances.",
+        "Sa vitesse de pointe atteint les 120 km/h et\nses dents acérées viennent même à bout de\nl’acier. On le surnomme le « tyran des mers ».",
+        "Ce Pokémon a un bien triste passé : il était\nen effet impitoyablement chassé pour son\naileron, fort apprécié des gourmets.",
+        "On fabrique des accessoires à partir de ses\ndents, car elles ont la réputation de protéger\nleurs porteurs des accidents en mer.",
+        "Ce Pokémon extrêmement sensible à l’odeur\ndu sang se déplace en évacuant par son orifice\npostérieur l’eau de mer qu’il avale.",
+        "Dès qu’il détecte l’odeur d’une proie, il fonce\nsur elle à une vitesse de 120 km/h en propulsant\nde l’eau de mer par son postérieur.",
+        "Surnommé le « tyran des mers », ce Pokémon\nattaque sans exception tous les navires\nqui osent s’aventurer sur son territoire."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "name": "Sharpedo",
+    "types": [
+        "Eau",
+        "Ténèbres"
+    ],
+    "weight": 88.8
+}

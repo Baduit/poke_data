@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Mit seinen großen Ohren schaufelt es sich einen Bau.\nEs kann die ganze Nacht ohne Pause durchschaufeln.",
+        "Es besitzt schaufelähnliche Ohren, die durch ständiges\nGraben so kräftig werden, dass sie auch dicke Wurzeln\ndurchtrennen können.",
+        "Mit seinen großen Ohren schaufelt es sich einen Bau.\nEs kann die ganze Nacht ohne Pause durchschaufeln.",
+        "Es besitzt schaufelähnliche Ohren, die durch ständiges Graben\nso kräftig werden, dass sie auch dicke Wurzeln durchtrennen\nkönnen.",
+        "Mit den Ohren schaufelt es Löcher. Es braucht nur\neine Nacht, um einen 10 m tiefen Bau zu graben.",
+        "Es ist permanent in Alarmbereitschaft. Sobald es\ndie Flügel eines Krarmors rascheln hört, gräbt es\nein Loch und verschwindet im Boden."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+    "name": "Scoppel",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.0
+}

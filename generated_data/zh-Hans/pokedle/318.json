@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 3,
+    "height": 0.8,
+    "name": "利牙鱼",
+    "types": [
+        "水",
+        "恶"
+    ],
+    "weight": 20.8
+}

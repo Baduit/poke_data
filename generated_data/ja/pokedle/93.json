@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 1,
+    "height": 1.6,
+    "name": "ゴースト",
+    "types": [
+        "ゴースト",
+        "どく"
+    ],
+    "weight": 0.1
+}

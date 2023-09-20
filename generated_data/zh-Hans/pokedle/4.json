@@ -1,0 +1,10 @@
+{
+    "color": "红色",
+    "generation": 1,
+    "height": 0.6,
+    "name": "小火龙",
+    "types": [
+        "火"
+    ],
+    "weight": 8.5
+}

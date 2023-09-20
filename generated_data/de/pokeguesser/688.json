@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Bithora bewohnen jeweils zu zweit einen Felsen.\nEntzweien sie sich im Streit, sucht sich eines\nder beiden einen neuen Felsen als Unterkunft.",
+        "Sie bewegen sich fort, indem sie durch Strecken beider\nExtremitäten ihren Felsen anheben. Sie ernähren\nsich von Seetang, der an die Küste gespült wurde.",
+        "Bithora bewohnen jeweils zu zweit einen Felsen. Entzweien sie\nsich im Streit, sucht sich eines der beiden einen neuen Felsen\nals Unterkunft.",
+        "Sie bewegen sich fort, indem sie durch Strecken beider\nExtremitäten ihren Felsen anheben. Sie ernähren sich\nvon Seetang, der an die Küste gespült wurde.",
+        "Zwei Exemplare hängen sich an einen passenden\nFelsen in Küstennähe, um dort zu leben. Bei Flut\nsammeln sie gemeinsam Nahrung.",
+        "Wenn die beiden Exemplare sich nicht gut\nverstehen, werden sie in Angriff und Verteidigung\nnachlässig und ihre Überlebenschancen sinken."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "name": "Bithora",
+    "types": [
+        "Gestein",
+        "Wasser"
+    ],
+    "weight": 31.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "１秒間に　キックを　１０発\n繰り出す　足技の　持ち主。\n鋭い　鳴き声で　威嚇する。",
+        "戦いに　なると　体内の　炎が\n激しく　燃え上がる。\nキックは　破壊力　抜群だ。",
+        "野山を　走り回って　足腰を　鍛える。\nスピードと　パワーを　兼ね備えた　足は\n１秒間に　１０発の　キックを　繰り出す。",
+        "クチバシから　吐きだす　灼熱の　炎と\n破壊力　抜群の　キックで　戦う。\n鳴き声が　大きいので　とても　やかましい。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "name": "ワカシャモ",
+    "types": [
+        "ほのお",
+        "かくとう"
+    ],
+    "weight": 19.5
+}

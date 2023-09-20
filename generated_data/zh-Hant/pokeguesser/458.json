@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "性情毫不怕生，很容易親近人。\n與小球飛魚互動的行程\n是非常受歡迎的海灘活動。",
+        "很親近人類，會主動靠近\n人類的船隻。背上的花紋\n依地域而有所不同。",
+        "也許是因為海水溫度偏低，\n伽勒爾地區的小球飛魚\n動作似乎有點遲緩。",
+        "混在鐵炮魚的大群裡游泳。\n受到敵人襲擊的時候，\n會和鐵炮魚們並肩作戰。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "name": "小球飛魚",
+    "types": [
+        "水",
+        "飛行"
+    ],
+    "weight": 65.0
+}

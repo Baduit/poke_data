@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Sa queue produit de l’électricité.\nIl dissimule son corps dans un nuage\nélectrique et plane dans le ciel d’Unys.",
+        "Un Pokémon mythique.\nIl possède dans sa queue un énorme\ngénérateur qui produit de l’électricité.",
+        "Un Pokémon légendaire assez puissant pour foudroyer\nle monde entier. Il soutient ceux qui suivent leur Idéal.",
+        "Sa queue produit de l’électricité. Il dissimule son\ncorps dans un nuage électrique et plane dans le ciel\nd’Unys.",
+        "Un Pokémon légendaire assez puissant pour foudroyer\nle monde entier. Il soutient ceux qui suivent leur Idéal.",
+        "Sa queue produit de l’électricité. Il dissimule son corps\ndans un nuage électrique et plane dans le ciel d’Unys.",
+        "Lorsque sa queue se met à tourner comme\nun réacteur, il produit des éclairs qui transpercent\ntout autour de lui.",
+        "Selon la légende, lorsque les gens perdent tout\nsens de ce qui est juste, Zekrom réduit le pays\nentier en cendres avec de terribles éclairs."
+    ],
+    "height": 2.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "name": "Zekrom",
+    "types": [
+        "Dragon",
+        "Électrik"
+    ],
+    "weight": 345.0
+}

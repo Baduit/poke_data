@@ -1,0 +1,11 @@
+{
+    "color": "藍色",
+    "generation": 3,
+    "height": 1.5,
+    "name": "暴飛龍",
+    "types": [
+        "龍",
+        "飛行"
+    ],
+    "weight": 102.6
+}

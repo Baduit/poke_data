@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Siempre apunta al norte con su nariz imantada. Con\nella reviste su cuerpo de objetos metálicos para\nprotegerse.",
+        "Siempre está con el pico magnético orientado hacia\nel norte. Quienes viajan toman a Nosepass como\nreferencia.",
+        "Nosepass siempre está con la nariz magnética que tiene\norientada hacia el norte. Si se encuentra con otro ejemplar\nde su especie, no puede mirarle de frente porque sus polos\nmagnéticos se repelen.",
+        "De Nosepass se llegó a decir que era totalmente estático;\nsiempre con su nariz magnética orientada hacia el norte.\nSin embargo, tras recientes estudios se ha visto que sí se\nmueve en realidad, apenas un centímetro al año.",
+        "Los Nosepass tienen una nariz brújula infalible,\npor lo que los Entrenadores viajeros suelen\nllevar uno consigo.",
+        "Atraen a sus presas usando su potente fuerza\nmagnética. En algunos casos también atraen\nmetales para proteger sus cuerpos.",
+        "Solo se desplaza un centímetro al año, pero, si\nse siente amenazado, gira sobre sí mismo y se\nhunde bajo tierra en un abrir y cerrar de ojos.",
+        "Su potente fuerza magnética le permite atraer a\nsus presas sin necesidad de moverse, aunque a\nveces también atrae a sus enemigos naturales."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "name": "Nosepass",
+    "types": [
+        "Roca"
+    ],
+    "weight": 97.0
+}

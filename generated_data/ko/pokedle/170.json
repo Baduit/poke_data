@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 2,
+    "height": 0.5,
+    "name": "초라기",
+    "types": [
+        "물",
+        "전기"
+    ],
+    "weight": 12.0
+}

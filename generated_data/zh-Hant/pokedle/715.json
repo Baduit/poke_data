@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 6,
+    "height": 1.5,
+    "name": "音波龍",
+    "types": [
+        "飛行",
+        "龍"
+    ],
+    "weight": 85.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Nimmt es in einem heißen Kampf Schaden, wird es\nhart wie Stein und fällt in eine Trance, um seinen\nVerstand zu schärfen.",
+        "Erhitzt das Innere seines Körpers auf 1 400 °C\nund erlangt so die Kraft, um mit der Faust\nLaster zu zerstören.",
+        "Nimmt es in einem heißen Kampf Schaden, wird es hart wie\nStein und fällt in eine Trance, um seinen Verstand zu schärfen.",
+        "Erhitzt das Innere seines Körpers auf 1 400 °C und erlangt so\ndie Kraft, um mit der Faust Laster zu zerstören.",
+        "Dieses Pokémon ist ausgesprochen energisch. Ein\neinziger Hieb mit seinen gewaltigen Armen macht\nselbst Lastwagen dem Erdboden gleich.",
+        "Je heißer das Feuer in ihm brennt, desto mehr\nKraft steht ihm zur Verfügung. Seine innere\nTemperatur erreicht mitunter mehr als 1 400 ºC."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "name": "Flampivian",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 92.9
+}

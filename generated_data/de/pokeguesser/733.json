@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Erhitzt vor jedem Kampf seinen Schnabel auf\nüber 100 °C. Dadurch erleiden Gepiesackte\nschwere Verbrennungen.",
+        "Lässt körpereigene Gase in seinem Schnabel\nexplodieren, um Samen zu verschießen.\nSelbst große Felsen kann es damit zerstören.",
+        "Sie kommunizieren miteinander, indem sie ihre\nSchnäbel gegeneinanderschlagen. Stärke und\nAnzahl der Schläge übermitteln ihre Gefühle.",
+        "Tukanon-Pärchen sind für ihr harmonisches\nZusammenleben bekannt. Daher werden sie oft\nals Glücksbringer zu Hochzeiten mitgebracht."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "name": "Tukanon",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 26.0
+}

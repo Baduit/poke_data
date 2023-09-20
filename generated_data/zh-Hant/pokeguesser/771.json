@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "棲息在沙灘等淺海地區。\n會從身體裡彈出體內器官，\n藉此捕捉食物或是與敵人戰鬥。",
+        "在沙灘隨處可見。\n包裹著身體的黏糊糊液體\n對日曬後的護膚非常有用。",
+        "扔拳海參的文化\n最早是始於將被沖上海岸的\n拳海參扔回海裡的習俗。",
+        "全身因體液而滑溜溜的。\n如果不小心踩到牠就會跌倒，\n然後被生氣的牠痛打。",
+        "棲息在溫暖的淺灘。\n遇到敵人時，會從嘴裡\n吐出內臟來攻擊對方。",
+        "覆蓋著皮膚的黏液\n具有出眾的保濕效果，\n即使在陸地上待好幾天也不會乾掉。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "name": "拳海參",
+    "types": [
+        "水"
+    ],
+    "weight": 1.2
+}

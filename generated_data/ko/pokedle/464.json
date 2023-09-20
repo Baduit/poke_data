@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 4,
+    "height": 2.4,
+    "name": "거대코뿌리",
+    "types": [
+        "땅",
+        "바위"
+    ],
+    "weight": 282.8
+}

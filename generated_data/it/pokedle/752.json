@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 7,
+    "height": 1.8,
+    "name": "Araquanid",
+    "types": [
+        "Acqua",
+        "Coleottero"
+    ],
+    "weight": 82.0
+}

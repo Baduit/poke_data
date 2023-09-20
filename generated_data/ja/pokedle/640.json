@@ -1,0 +1,11 @@
+{
+    "color": "緑色",
+    "generation": 5,
+    "height": 2.0,
+    "name": "ビリジオン",
+    "types": [
+        "くさ",
+        "かくとう"
+    ],
+    "weight": 200.0
+}

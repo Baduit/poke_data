@@ -1,0 +1,11 @@
+{
+    "color": "みどりいろ",
+    "generation": 5,
+    "height": 0.5,
+    "name": "クルマユ",
+    "types": [
+        "むし",
+        "くさ"
+    ],
+    "weight": 7.3
+}

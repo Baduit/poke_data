@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Beedrill",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 29.5
+}

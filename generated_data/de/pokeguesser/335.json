@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Seit Generationen ist es mit Vipitis verfeindet.\nSeine scharfen Klauen sind seine stärksten Waffen.",
+        "Vipitis’ Geruch lässt ihm alle Haare zu Berge stehen.\nMit seinen scharfen Klauen kratzt es seine Feinde.",
+        "Die Erinnerungen an den Kampf mit seinem Erzrivalen Vipitis\nhaben sich in jede Zelle von Sengos Körper eingebrannt.\nDieses Pokémon weicht feindlichen Angriffen unheimlich\nraffiniert und geschickt aus.",
+        "Sengo bewegt sich normalerweise auf allen Vieren. Wenn es\naber wütend wird, stellt es sich auf seine Hinterbeine und\nfährt die Klauen an seinen Vorderbeinen aus. Dieses Pokémon\nist seit Generationen ein erbitterter Rivale von Vipitis."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+    "name": "Sengo",
+    "types": [
+        "Normal"
+    ],
+    "weight": 40.3
+}

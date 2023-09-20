@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Une ancienne figurine d’argile qui \ns’est animée suite à son exposition\nà un rayon de lumière étrange.",
+        "Une ancienne figurine d’argile qui \ns’est animée suite à son exposition\nà un rayon de lumière étrange.",
+        "Une ancienne figurine d’argile qui s’est animée suite à\nson exposition à un rayon de lumière étrange.",
+        "Une figurine d’argile fabriquée par une civilisation\nvieille de 20 000 ans et amenée à la vie.",
+        "On raconte que les Kaorine sont des poupées de boue créées\npar les premiers hommes et qu’elles furent amenées à la vie\naprès une exposition à un mystérieux rayon.\nCe Pokémon se déplace en lévitant.",
+        "Kaorine est un mystérieux Pokémon apparu sous la forme\nd’une statue en argile fabriquée par une civilisation vieille\nde plus de 20 000 ans. Ce Pokémon envoie des rayons\navec ses mains.",
+        "Il fond au moindre contact avec l’eau et doit\ndonc entourer son corps d’énergie psychique\npour se protéger les jours de pluie.",
+        "Il aurait été fabriqué par une civilisation\nancienne, sur le modèle d’un objet mystérieux\ntombé du ciel. Ses bras peuvent tirer des lasers.",
+        "Ce Pokémon mystérieux serait né d’une figurine\nd’argile vieille de près de 20 000 ans.",
+        "Ce Pokémon aurait été créé à partir d’une poupée\nd’argile confectionnée par une ancienne\ncivilisation. Il se déplace en lévitant."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "name": "Kaorine",
+    "types": [
+        "Sol",
+        "Psy"
+    ],
+    "weight": 108.0
+}

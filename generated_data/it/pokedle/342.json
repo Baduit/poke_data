@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 3,
+    "height": 1.1,
+    "name": "Crawdaunt",
+    "types": [
+        "Acqua",
+        "Buio"
+    ],
+    "weight": 32.8
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il se muscle en bousculant ses\nsemblables lors de mêlées. Il\nraffole des fruits sucrés.",
+        "Il se muscle en bousculant ses\nsemblables lors de mêlées. Il\nraffole des fruits sucrés.",
+        "Okéoké adore se déplacer en groupe.\nIls se réunissent souvent pour dormir la nuit dans les\ncavernes.",
+        "Il se muscle en bousculant ses semblables lors de\nmêlées. Il raffole des fruits sucrés.",
+        "Okéoké a toujours un grand sourire qui illumine son visage.\nOn peut savoir s’il est en colère en regardant sa queue.\nLorsqu’il est furieux, sa queue remue en frappant le sol.",
+        "Les Okéoké se rassemblent quand la nuit est claire pour jouer\nà se presser les uns contre les autres. En se poussant,\nces Pokémon améliorent leur endurance et s’entraînent à\nrenvoyer de puissantes contre-attaques.",
+        "Il fait toutes ses activités en groupe.\nL’une d’elles consiste à se bousculer mutuellement\nafin de s’endurcir.",
+        "Ces Pokémon adorent se déplacer en groupe.\nIls se blottissent les uns contre les autres\ndans des cavernes pour dormir."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "name": "Okéoké",
+    "types": [
+        "Psy"
+    ],
+    "weight": 14.0
+}

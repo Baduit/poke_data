@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Cuando recibe el ataque de un Pokémon pájaro,\nexpulsa unas escamas negras que provocan parálisis\nsi se entra en contacto con ellas.",
+        "Gracias al polvo de escamas que lo recubre y regula\nsu temperatura, puede vivir en cualquier región, sin\nimportar las características del terreno o el clima.",
+        "Cuando recibe el ataque de un Pokémon pájaro, expulsa unas\nescamas negras que provocan parálisis si se entra en contacto\ncon ellas.",
+        "Gracias al polvo de escamas que lo recubre y regula su\ntemperatura, puede vivir en cualquier región, sin importar\nlas características del terreno o el clima."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "name": "Scatterbug",
+    "types": [
+        "Bicho"
+    ],
+    "weight": 2.5
+}

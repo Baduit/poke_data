@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Skiploom",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es kreist am Himmel, bis es seine Beute findet.\nNach erfolgtem Angriff trägt es sie mühelos zu\nseinem Nest.",
+        "Es überblickt das Areal aus der Luft und stürzt sich auf\nein geschwächtes Opfer. Trägt gern Knochenschmuck.",
+        "Es kreist am Himmel, bis es seine Beute findet. Nach erfolgtem\nAngriff trägt es sie mühelos zu seinem Nest.",
+        "Es überblickt das Areal aus der Luft und stürzt sich auf ein\ngeschwächtes Opfer. Trägt gern Knochenschmuck.",
+        "Trägt gern Knochenschmuck, um Männchen zu\ngefallen. Niemand hat bisher aber jemals ein\nmännliches Grypheldis gesehen.",
+        "Es überblickt das Areal aus der Luft und stürzt\nsich auf geschwächte Pokémon. Tragosso ist\nseine bevorzugte Beute.",
+        "Nachdem es seine Beute verspeist hat, baut es\naus deren Knochen mit viel Geschick sein Nest.\nDie meisten davon stammen von Tragosso.",
+        "Für Skallyk geht es pausenlos auf Futtersuche.\nTrifft es auf ein geschwächtes Pokémon, bringt\nes dieses sogar bis zu seinem Nest.",
+        "Grypheldis sind ziemliche Grobiane. Begegnet\nihnen ein verirrtes Skallyk, kümmern sie sich aber\nliebevoll um es, bis es das Nest verlassen kann.",
+        "Es schmückt sich mit Knochen. Man kann wohl\nTrends beobachten, was für Knochenformen bei\nihnen gerade besonders angesagt sind."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "name": "Grypheldis",
+    "types": [
+        "Unlicht",
+        "Flug"
+    ],
+    "weight": 39.5
+}

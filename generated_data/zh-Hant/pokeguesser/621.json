@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "臉上的紅色皮膚比岩石\n還要堅硬。在狹窄的洞窟中，\n會用臉朝著敵人發動突襲。",
+        "會入侵地鼠或三地鼠\n挖掘的隧道，靜靜地\n等待著獵物經過。",
+        "居住在地洞裡。如果\n身體受涼就會無法動彈，\n因此一定會做日光浴。",
+        "性情凶暴且狡猾。會搶奪\n其他寶可夢挖好的巢穴，\n來當作是自己的窩。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "name": "赤面龍",
+    "types": [
+        "龍"
+    ],
+    "weight": 139.0
+}

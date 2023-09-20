@@ -1,0 +1,11 @@
+{
+    "color": "褐色",
+    "generation": 7,
+    "height": 0.3,
+    "name": "小陨星",
+    "types": [
+        "岩石",
+        "飞行"
+    ],
+    "weight": 40.0
+}

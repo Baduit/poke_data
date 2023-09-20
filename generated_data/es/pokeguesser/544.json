@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Lo protege un duro caparazón. Gira como una rueda y\nrealiza brutales placajes contra sus enemigos.",
+        "Normalmente no se mueve, pero se pone a rodar\nfrenéticamente y contraataca con placajes si lo atacan.",
+        "Lo protege un duro caparazón. Gira como una rueda y realiza\nbrutales placajes contra sus enemigos.",
+        "Normalmente no se mueve, pero se pone a rodar\nfrenéticamente y contraataca con placajes si lo atacan.",
+        "Gira a gran velocidad y carga contra sus rivales.\nPuede alcanzar los 100 km/h.",
+        "Se defiende con su duro caparazón y sus\npúas venenosas mientras acumula la energía\nnecesaria para evolucionar."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "name": "Whirlipede",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 58.5
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Le foglie che crescono sulle sue braccia tagliano\nanche grandi alberi. Nel suo habitat, è imbattibile.",
+        "Percorre agile e veloce la giungla abbattendo le prede\ncon le affilate foglie che ha sugli arti anteriori.",
+        "Le foglie che crescono sul corpo di Sceptile hanno margini\ntaglienti. Questo Pokémon è agilissimo, infatti salta da\nun ramo all’altro e piomba sui nemici sorprendendoli dall’alto.",
+        "Sulla schiena di Sceptile crescono alcuni semi che si dice\nsiano ricchi di nutrienti per gli alberi. Questo Pokémon\ncoltiva amorevolmente le sue piante nella foresta."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+    "name": "Sceptile",
+    "types": [
+        "Erba"
+    ],
+    "weight": 52.2
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.9,
+    "name": "Terrakium",
+    "types": [
+        "Roche",
+        "Combat"
+    ],
+    "weight": 260.0
+}

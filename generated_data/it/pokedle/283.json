@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Surskit",
+    "types": [
+        "Coleottero",
+        "Acqua"
+    ],
+    "weight": 1.7
+}

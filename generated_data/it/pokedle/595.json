@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 5,
+    "height": 0.1,
+    "name": "Joltik",
+    "types": [
+        "Coleottero",
+        "Elettro"
+    ],
+    "weight": 0.6
+}

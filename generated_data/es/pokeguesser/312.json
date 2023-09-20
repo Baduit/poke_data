@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "La electricidad de Minun y Plusle es buena para la\ncirculación y para desentumecer músculos.",
+        "Le gusta animar a sus amigos. Si pierden, su cuerpo\nsuelta cada vez más chispas.",
+        "Minun se preocupa más por alentar a sus compañeros de\nequipo que por su propia seguridad. Para animar a los\nmiembros de su grupo, crea un cortocircuito en su interior\ny libera un chisporroteo espectacular.",
+        "Minun empieza a echar chispas cuando está animando a su\ncompañero en pleno combate. Si su compañero está en\npeligro, el chisporroteo aumenta su intensidad por momentos."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "name": "Minun",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 4.2
+}

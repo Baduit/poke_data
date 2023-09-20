@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "一心一意地等着，\n直到爱吃的萌虻落入巢中。\n实在是有耐心的宝可梦。",
+        "有些渔夫会用其坚韧的丝，\n编织制作成可以捕捉鱼宝可梦的网。",
+        "由它吐丝制成的巢穴非常坚固。\n即便放上１０公斤重的岩石\n也不会破掉。",
+        "牙齿上的毒并不强烈，\n但用来削弱那些挂在网上\n无法动弹的猎物是绰绰有余了。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "name": "圆丝蛛",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 8.5
+}

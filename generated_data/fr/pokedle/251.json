@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Celebi",
+    "types": [
+        "Psy",
+        "Plante"
+    ],
+    "weight": 5.0
+}

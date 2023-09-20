@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Der arglose, doch unbarmherzige Schutzpatron\nvon Akala. Seine Energie zieht es aus dem\nlieblichen Duft von Blumen.",
+        "Beim Umherflattern verstreut es geheimnisvoll\nleuchtenden Flügelstaub. Es heißt, wer diesen\nabbekomme, sei sofort wieder voller Energie.",
+        "Es verteilt leuchtenden Flügelstaub, der die\nWunden von Menschen und Pokémon heilt.\nAuf Akala wird es als Schutzpatron verehrt.",
+        "Obwohl man es Schutzpatron nennt, verkörpert\nsein zugleich unschuldiges und grausames\nGemüt das zwiegespaltene Wesen der Natur."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "Kapu-Fala",
+    "types": [
+        "Psycho",
+        "Fee"
+    ],
+    "weight": 18.6
+}

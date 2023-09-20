@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Sono buoni d’animo e lottano di rado, così molti\ndi loro sono facili prede: sono stati decimati.",
+        "La sua intelligenza gli permette di comprendere il\nlinguaggio degli umani, che ama trasportare sul suo\ndorso.",
+        "L’uomo ha portato Lapras alla sua quasi totale estinzione.\nSi dice che la sera lo si senta cantare malinconico per\nrichiamare i suoi pochi simili ancora in vita.",
+        "L’uomo ha portato Lapras alla sua quasi totale estinzione.\nSi dice che la sera lo si senta cantare malinconico per\nrichiamare i suoi pochi simili ancora in vita.",
+        "È talmente intelligente da comprendere\nil linguaggio degli esseri umani. Quando è di\nbuon umore, canta con la sua bellissima voce.",
+        "Le misure adottate per proteggerlo ne hanno\nscongiurato il pericolo di estinzione, ma ha finito\nper moltiplicarsi in modo eccessivo.",
+        "Ama trasportare persone sul suo dorso.\nAd Alola, viaggiare in groppa a Lapras è un\nmodo molto popolare di spostarsi sull’acqua.",
+        "Fin troppo protetto, ha finito per moltiplicarsi\nin modo eccessivo e questo ha causato una\ndiminuzione dei Pokémon acquatici nei mari.",
+        "Possiede un animo gentile e capisce il linguaggio\ndegli esseri umani. Trasporta le persone per\nmare sul suo dorso.",
+        "Possiede un animo gentile e capisce il linguaggio\ndegli esseri umani. Trasporta le persone per\nmare sul suo dorso.",
+        "È un Pokémon intelligente e dall’animo gentile.\nSolca i mari facendo riecheggiare il suo canto\ndolce e melodioso.",
+        "Resiste molto bene al freddo e si trova\na suo agio anche nei mari ghiacciati.\nLa sua pelle è liscia e fresca."
+    ],
+    "height": 2.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "name": "Lapras",
+    "types": [
+        "Acqua",
+        "Ghiaccio"
+    ],
+    "weight": 220.0
+}

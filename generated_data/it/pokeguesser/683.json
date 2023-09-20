@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "È in grado di emanare profumi di diversi tipi. Durante\nla lotta, mette in difficoltà i nemici emettendo odori\nsgradevoli.",
+        "Emette un profumo intensissimo. Se un Allenatore non\nè un assoluto estimatore di quel particolare aroma,\navrà grosse difficoltà anche solo a stargli vicino.",
+        "È in grado di emanare profumi di diversi tipi. Durante la lotta,\nmette in difficoltà i nemici emettendo odori sgradevoli.",
+        "Emette un profumo intensissimo. Se un Allenatore non è un\nassoluto estimatore di quel particolare aroma, avrà grosse\ndifficoltà anche solo a stargli vicino.",
+        "Il suo pelo emette un profumo così intenso\nda compromettere irrimediabilmente l’olfatto\ndel suo Allenatore.",
+        "Può produrre un tanfo così tremendo da far\npassare ai nemici la voglia di lottare, e un\nprofumo così buono da incoraggiare gli alleati."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+    "name": "Aromatisse",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 15.5
+}

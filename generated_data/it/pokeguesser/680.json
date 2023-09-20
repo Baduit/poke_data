@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sdoppiatesi con l’evoluzione, le due parti comunicano\ntelepaticamente per lanciarsi in un attacco coordinato.",
+        "I fendenti vorticosi e velocissimi delle due spade\npossono mettere in ginocchio anche gli spadaccini\npiù esperti.",
+        "Sdoppiatesi con l’evoluzione, le due parti comunicano\ntelepaticamente per lanciarsi in un attacco coordinato.",
+        "I fendenti vorticosi e velocissimi delle due spade possono\nmettere in ginocchio anche gli spadaccini più esperti.",
+        "Si è duplicato con l’evoluzione. Minaccia\nl’avversario con il suono metallico che\nproduce sfregando le sue due lame.",
+        "Le due spade abbattono la preda alternando\nmosse di attacco e di difesa a un ritmo\nvertiginoso."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "name": "Doublade",
+    "types": [
+        "Acciaio",
+        "Spettro"
+    ],
+    "weight": 4.5
+}

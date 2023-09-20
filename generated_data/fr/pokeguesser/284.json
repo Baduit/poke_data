@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Des motifs en forme d’yeux ornent\nses antennes. Ses 4 ailes l’aident\nà voler dans toutes les directions.",
+        "Des motifs en forme d’yeux ornent\nses antennes. Ses 4 ailes l’aident\nà voler dans toutes les directions.",
+        "Des motifs en forme d’yeux ornent ses antennes.\nSes quatre ailes l’aident à voler dans toutes les\ndirections.",
+        "Ses quatre ailes permettent à ce Pokémon de voler\ndans toutes les directions.",
+        "Maskadra intimide ses ennemis grâce aux motifs en forme\nde regard sur ses antennes. En battant des ailes,\nce Pokémon peut voler librement dans toutes les directions,\nmême latéralement ou à reculons.",
+        "Les antennes de Maskadra ont la forme de grands yeux\nqui lancent un regard malfaisant. Si ces « yeux » sont tristes,\ncela signifie qu’un déluge se prépare.",
+        "Ses antennes semblables à des yeux servent\nà intimider ses ennemis, et ses quatre ailes lui\npermettent de voler dans toutes les directions.",
+        "Ses ailes et ses antennes tolèrent mal l’humidité.\nEn cas de pluie, ce Pokémon se réfugie là où\nle soleil brille pour y faire sécher son corps.",
+        "Ses protubérances en forme d’yeux servent\nà intimider ses ennemis. Si cela ne marche pas,\nil utilise ses quatre ailes pour s’enfuir.",
+        "Ses antennes en forme d’ailes absorbent\nfacilement l’humidité. Par temps de pluie,\nil attend patiemment au creux d’un arbre."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "name": "Maskadra",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 3.6
+}

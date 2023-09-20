@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Même amoché, son corps se régénère\ntant que le noyau rouge est intact.\nLe noyau s’illumine à minuit.",
+        "Même amoché, son corps se régénère\ntant que le noyau rouge est intact.\nLe noyau s’illumine à minuit.",
+        "Même si son corps est détruit, il peut se régénérer\naussi longtemps que son cœur est en bon état.",
+        "On peut voir des Stari en grand nombre près des\ncôtes. La nuit, le centre de son corps clignote\nd’une lumière rouge.",
+        "Au centre de Stari se trouve un organe rouge et brillant appelé\nle cœur. À la fin de l’été, sur les plages, les cœurs de ces\nPokémon brillent comme les étoiles dans le ciel.",
+        "Stari communique apparemment avec les étoiles dans\nle ciel en faisant clignoter son cœur rouge. Si des parties\nde son corps sont cassées, ce Pokémon les régénère.",
+        "Ce Pokémon vit en grand nombre au fond de\nla mer. À la nuit tombée, son cœur émet une\nétrange lumière rouge.",
+        "Même s’il se fait manger des bras par un\nLuminéon, il peut les régénérer tant que son\ncœur rouge est intact, aussi ne s’en fait-il pas.",
+        "Si l’on en croit une légende populaire, il serait\nné d’une pluie de poussière d’étoiles tombée\ndans la mer.",
+        "Étant capable de se régénérer en une demi-\njournée seulement, il ne craint aucune blessure.",
+        "Même découpé en mille morceaux, il peut\nrégénérer les parties de son corps tant que\nsa partie centrale reste indemne.",
+        "Même découpé en mille morceaux, il peut\nrégénérer les parties de son corps tant que\nsa partie centrale reste indemne.",
+        "Lorsqu’on se rend en bord de mer à la fin\nde l’été, on peut voir des groupes de Stari\nclignoter à un rythme régulier.",
+        "Il ne se soucie guère des Pokémon poissons\nqui viennent le grignoter, car même si son corps\nest déchiqueté, il se régénère aussitôt."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "name": "Stari",
+    "types": [
+        "Eau"
+    ],
+    "weight": 34.5
+}

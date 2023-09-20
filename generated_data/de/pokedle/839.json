@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 8,
+    "height": 2.8,
+    "name": "Montecarbo",
+    "types": [
+        "Gestein",
+        "Feuer"
+    ],
+    "weight": 310.5
+}

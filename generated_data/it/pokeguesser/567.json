@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Spicca il volo prendendo la rincorsa da terra.\nCollabora con i suoi simili per catturare le prede.",
+        "È più versato nella corsa che nel volo. Si lancia in\naria a una velocità di 40 km/h sbattendo le ali.",
+        "Spicca il volo prendendo la rincorsa da terra. Collabora\ncon i suoi simili per catturare le prede.",
+        "È più versato nella corsa che nel volo. Si lancia in aria a una\nvelocità di 40 km/h sbattendo le ali.",
+        "Nonostante sapesse volare, si spostava\nprincipalmente via terra a una velocità media\ndi 40 km/h.",
+        "Cacciava in gruppo: alcuni Pokémon\nintrappolavano la preda e i loro compagni\nla assalivano.",
+        "È un Pokémon antico dal piumaggio molto fitto.\nSolo i più esperti riescono a rigenerarlo con\nsuccesso.",
+        "Si ritiene che sia l’antenato dei Pokémon alati.\nHa i muscoli delle ali non ancora sviluppati\ne per volare deve prendere la rincorsa.",
+        "Prende la rincorsa per volare, percorrendo\ncirca 4 km a una velocità di 40 km/h.",
+        "Si sa che questo Pokémon era in grado di volare,\nma pare che fosse molto più abile nel cacciare\nle prede a terra."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "name": "Archeops",
+    "types": [
+        "Roccia",
+        "Volante"
+    ],
+    "weight": 32.0
+}

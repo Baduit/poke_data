@@ -1,0 +1,11 @@
+{
+    "color": "紅色",
+    "generation": 5,
+    "height": 0.4,
+    "name": "百足蜈蚣",
+    "types": [
+        "蟲",
+        "毒"
+    ],
+    "weight": 5.3
+}

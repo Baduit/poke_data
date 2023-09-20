@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 3,
+    "height": 0.4,
+    "name": "青绵鸟",
+    "types": [
+        "一般",
+        "飞行"
+    ],
+    "weight": 1.2
+}

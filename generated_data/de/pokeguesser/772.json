@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Seine schwere Maske unterdrückt seine wahre\nMacht. In ihm schlummern nämlich besondere\nKräfte.",
+        "Ein künstliches Pokémon. Da die Gefahr besteht,\ndass es alles kurz und klein schlagen könnte,\nmuss es eine Kontrollmaske tragen.",
+        "Dieses für einen bestimmten Zweck als Waffe\nkreierte Pokémon geriet bei einem Experiment\naußer Kontrolle und wurde deshalb stillgelegt.",
+        "Da die Gefahr besteht, dass es sonst alles kurz\nund klein schlägt, muss es eine Kontrollmaske\ntragen, die seine wahre Macht unterdrückt.",
+        "Gerüchte besagen, es sei in der Galar-Region\nmithilfe von gestohlenen, streng geheimen\nDokumenten komplett neu erschaffen worden.",
+        "Typ:Null ist eine künstliche Nachbildung eines\nPokémon aus einer alten Sage. Die Maske dient\ndazu, seine Kräfte unter Kontrolle zu halten."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
+    "name": "Typ:Null",
+    "types": [
+        "Normal"
+    ],
+    "weight": 120.5
+}

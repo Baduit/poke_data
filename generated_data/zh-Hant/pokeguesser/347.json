@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "從化石復原而來的太古羽蟲\n就算放進海裡也不會有活力，\n因為現在的水質和當年是不同的。",
+        "是古代的蟲寶可夢的一種。\n會用８片翅膀游動，\n速度出乎意料地快。",
+        "從化石復原而來的寶可夢。\n曾經生活在大約１億年前的\n大海，用２隻爪子捕捉獵物。",
+        "會像船槳般划動８片\n翅膀在水中快速游動。\n是蟲寶可夢祖先的一種。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+    "name": "太古羽蟲",
+    "types": [
+        "岩石",
+        "蟲"
+    ],
+    "weight": 12.5
+}

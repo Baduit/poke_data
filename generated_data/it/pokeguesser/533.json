@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ha un corpo pieno di muscoli e manovra con abilità\nla sua trave d’acciaio, con cui può abbattere una\ncasa intera.",
+        "Il suo corpo muscolosissimo resisterebbe senza\nbattere ciglio all’assalto di un lottatore di wrestling.",
+        "Ha un corpo pieno di muscoli e manovra con abilità la sua\ntrave d’acciaio, con cui può abbattere una casa intera.",
+        "Il suo corpo muscolosissimo resisterebbe senza battere\nciglio all’assalto di un lottatore di wrestling.",
+        "Sfoggia i suoi muscoli facendo a gara con i suoi\nsimili e con Machoke. Chi perde sparisce dalla\ncircolazione per un po’.",
+        "Manovra con abilità la sua trave d’acciaio.\nÈ particolarmente esperto nelle demolizioni,\nmentre costruire non è il suo forte."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "name": "Gurdurr",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 40.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Bianco",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Rufflet",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 10.5
+}

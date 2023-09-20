@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Concealing itself in lightning clouds,\nit flies throughout the Unova region.\nIt creates electricity in its tail.",
+        "This Pokémon appears in legends.\nIn its tail, it has a giant generator\nthat creates electricity.",
+        "This legendary Pokémon can scorch\nthe world with lightning. It assists\nthose who want to build an ideal world.",
+        "This legendary Pokémon can scorch\nthe world with lightning. It assists\nthose who want to build an ideal world.",
+        "This legendary Pokémon can scorch the world with\nlightning. It assists those who want to build an\nideal world.",
+        "Concealing itself in lightning clouds, it flies\nthroughout the Unova region. It creates electricity\nin its tail.",
+        "This legendary Pokémon can scorch the world with\nlightning. It assists those who want to build an\nideal world.",
+        "Concealing itself in lightning clouds, it flies\nthroughout the Unova region. It creates electricity\nin its tail.",
+        "When the interior part of its tail spins like a\nmotor, Zekrom can generate many bolts of\nlightning to blast its surroundings.",
+        "Mythology tells us that if people lose the\nrighteousness in their hearts, their kingdoms\nwill be razed by Zekrom’s lightning."
+    ],
+    "height": 2.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "name": "Zekrom",
+    "types": [
+        "Dragon",
+        "Electric"
+    ],
+    "weight": 345.0
+}

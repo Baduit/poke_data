@@ -1,0 +1,11 @@
+{
+    "color": "綠色",
+    "generation": 7,
+    "height": 0.5,
+    "name": "蟲電寶",
+    "types": [
+        "蟲",
+        "電"
+    ],
+    "weight": 10.5
+}

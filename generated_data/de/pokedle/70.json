@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Ultrigaria",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 6.4
+}

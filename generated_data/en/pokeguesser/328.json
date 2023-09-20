@@ -1,0 +1,35 @@
+{
+    "descriptions": [
+        "TRAPINCH’s nest is a sloped, bowl-like\npit dug in sand. This POKéMON patiently\nwaits for prey to tumble down the pit.\fIts giant jaws have enough strength\nto crush even boulders.",
+        "TRAPINCH is a patient hunter. It digs\nan inescapable pit in a desert and waits\nfor its prey to come tumbling down.\fThis POKéMON can go a whole week\nwithout access to any water.",
+        "Its big jaws crunch through boulders.\nBecause its head is so big, it has a hard\ntime getting back upright if it tips over\nonto its back.",
+        "It lives in arid deserts. It makes a\nsloping pit trap in sand where it\npatiently awaits prey.",
+        "It lives in arid deserts. It makes a\nsloping pit trap in sand where it\npatiently awaits prey.",
+        "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down.",
+        "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down.",
+        "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down.",
+        "Its nest is a sloped, bowl-like pit\nin the desert. Once something has\nfallen in, there is no escape.",
+        "Its nest is a sloped, bowl-like pit\nin the desert. Once something has\nfallen in, there is no escape.",
+        "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down.",
+        "It makes a conical pit in desert\nsand and lies in wait at the bottom\nfor prey to come tumbling down.",
+        "It makes an inescapable conical pit\nand lies in wait at the bottom\nfor prey to come tumbling down.",
+        "It makes an inescapable conical pit\nand lies in wait at the bottom\nfor prey to come tumbling down.",
+        "It lives in arid deserts. It makes a sloping pit trap in\nsand where it patiently awaits prey.",
+        "It makes an inescapable conical pit and lies in wait\nat the bottom for prey to come tumbling down.",
+        "Trapinch’s nest is a sloped, bowl-like pit dug in sand.\nThis Pokémon patiently waits for prey to tumble down the pit.\nIts giant jaws have enough strength to crush even boulders.",
+        "Trapinch is a patient hunter. It digs an inescapable pit in a\ndesert and waits for its prey to come tumbling down. This\nPokémon can go a whole week without access to any water.",
+        "It can live for a week without eating a thing.\nIt waits patiently at the bottom of its nest for\nprey to appear.",
+        "As it digs through the sand, its giant jaws\ncrush any rocks that obstruct its path. It builds\na funnel-shaped nest.",
+        "Its jaws are strong enough to crush rocks but\nso heavy that it can’t get up if it flips over.\nSandile seize those moments as their chance.",
+        "It builds nests that double as traps, lying in\nwait for its prey to get caught. When night falls,\nit digs itself a spot beneath the sand to sleep.",
+        "Its nest is a sloped, bowl-like pit in the desert.\nOnce something has fallen in, there is no escape.",
+        "It makes an inescapable conical pit and lies in\nwait at the bottom for prey to come\ntumbling down."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "name": "Trapinch",
+    "types": [
+        "Ground"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Hanno un pelo così morbido che se due di loro\nsi abbracciano non vogliono più separarsi.",
+        "Il suo corpo è morbido e gommoso. Se si arrabbia,\naspira aria e si gonfia enormemente.",
+        "Wigglytuff è dotato di occhi grandi come dischi, resi lucidi\nda un sottile strato lacrimale in superficie. Se gli va della\npolvere negli occhi, questa è lavata via subito.",
+        "Wigglytuff è molto elastico. Se respira profondamente, questo\nPokémon riesce a gonfiarsi praticamente all’infinito. Una volta\ngonfio, Wigglytuff rimbalza leggero come un pallone.",
+        "Al cambio di stagione perde il suo morbido\nmanto, che può essere raccolto e filato per\nrealizzare prodotti di lusso.",
+        "Respira profondamente per gonfiarsi più\nche può. Fa a gara con altri Wigglytuff a chi\nsi gonfia di più.",
+        "È molto amato per l’elasticità del suo corpo\ne la morbidezza della sua pelliccia. Dormire\nabbracciati a questo Pokémon è molto piacevole.",
+        "Se si arrabbia, aspira quanta più aria possibile\ne si gonfia enormemente, fino ad aumentare la\nsua taglia anche di 20 volte.",
+        "Il suo corpo è estremamente elastico e può\ngonfiarsi fino a dimensioni impressionanti.",
+        "Il suo corpo è estremamente elastico e può\ngonfiarsi fino a dimensioni impressionanti.",
+        "Più aria inala, più il suo corpo si gonfia.\nSe è di cattivo umore, si gonfia per intimidire\nl’avversario.",
+        "Va molto fiero del suo manto soffice. Il ricciolo\nsulla fronte, in particolare, suscita una sensazione\nsublime al tatto."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "name": "Wigglytuff",
+    "types": [
+        "Normale",
+        "Folletto"
+    ],
+    "weight": 12.0
+}

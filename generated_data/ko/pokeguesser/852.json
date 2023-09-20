@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "먹이를 찾아 지상으로 올라온다.\n호기심이 왕성해서 눈에 들어오는 것은\n일단 촉수로 때리고 본다.",
+        "세 살 아이 정도의 지능을 가졌다.\n촉수는 잘 끊어지지만\n재생되기 때문에 신경 쓰지 않는다."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "name": "때때무노",
+    "types": [
+        "격투"
+    ],
+    "weight": 4.0
+}

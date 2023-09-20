@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Démétéros",
+    "types": [
+        "Sol",
+        "Vol"
+    ],
+    "weight": 68.0
+}

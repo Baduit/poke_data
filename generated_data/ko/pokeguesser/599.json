@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "두 개의 몸을 맞물려\n회전시켜서 살아가기 위한\n에너지를 만들고 있다.",
+        "두 개의 몸은 그 조합 방법이\n정해져 있다. 다른 몸과는\n맞물리지 않고 떨어져 버린다.",
+        "두 개의 몸을 맞물려\n회전시켜서 살아가기 위한\n에너지를 만들고 있다.",
+        "두 개의 몸은 그 조합 방법이\n정해져 있다. 다른 몸과는\n맞물리지 않고 떨어져 버린다.",
+        "2개의 몸은 쌍둥이보다도\n가깝다. 다른 몸과 있으면\n제대로 맞물리지 못한다.",
+        "먼 옛날에 기어르를 본\n사람이 톱니바퀴의 구조를\n고안했다고 전해진다."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "name": "기어르",
+    "types": [
+        "강철"
+    ],
+    "weight": 21.0
+}

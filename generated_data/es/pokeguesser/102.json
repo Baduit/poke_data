@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Estos seis huevos se comunican por telepatía. Si se\nseparan, se pueden reunir rápidamente.",
+        "Aunque los huevos que lo constituyen parecen de\nverdad, se ha visto que son como semillas.",
+        "Este Pokémon está compuesto de seis huevos que forman\nuna tupida piña que va girando. Cuando se empiezan a\nresquebrajar las cáscaras, no hay duda de que Exeggcute\nestá a punto de evolucionar.",
+        "Este Pokémon está compuesto de seis huevos que forman\nuna tupida piña que va girando. Cuando se empiezan a\nresquebrajar las cáscaras, no hay duda de que Exeggcute\nestá a punto de evolucionar.",
+        "Los seis huevos que componen a Exeggcute se\ncomunican por medio de la telepatía. Se dice que\ncontiene genes de plantas y de otras especies.",
+        "Este Pokémon está formado por seis huevos.\nSe defiende con sus poderes psíquicos de los\nfrecuentes ataques de Crabrawler.",
+        "Seis criaturas en una. Si Exeggcute pierde alguno\nde los huevos que lo componen, este volverá a\ncrecer a la mañana siguiente.",
+        "Pese a tener el mismo tamaño, los Exeggcute de\nAlola son más pesados que los de otras\nregiones, ya que su interior es más denso.",
+        "Las cabezas se atraen unas a otras y giran entre\nsí. Debe tener seis para equilibrarse.",
+        "Las cabezas se atraen unas a otras y giran entre\nsí. Debe tener seis para equilibrarse.",
+        "Pese a su aspecto de mera piña de huevos, se\ntrata de un Pokémon. Al parecer, sus cabezas\nse comunican entre sí por telepatía.",
+        "Necesita contar con la totalidad de sus seis\nmiembros para mantener la calma. Si desaparece\nuno siquiera, le entran ganas de salir huyendo."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "name": "Exeggcute",
+    "types": [
+        "Planta",
+        "Psíquico"
+    ],
+    "weight": 2.5
+}

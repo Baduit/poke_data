@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "從鳥嘴裡噴出火花擊向獵物。\n會把捉到的獵物烤過之後再享用。",
+        "擁有半徑達數公里的地盤，\n並且不允許其他火箭雀進入。",
+        "會向草叢撒出火花，\n然後趁蟲寶可夢被火焰嚇到\n從草叢跳出來時大口吞食。",
+        "剛起飛時的速度\n在所有的鳥寶可夢之中\n是數一數二的。",
+        "會朝著獵物的巢穴中噴射火花，\n再用銳利的爪子解決掉\n受驚嚇而跑出來的獵物。",
+        "地盤意識很強，且性情好戰。\n火箭雀彼此之間也會為了\n爭奪覓食的地方而戰鬥。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "name": "火箭雀",
+    "types": [
+        "火",
+        "飛行"
+    ],
+    "weight": 16.0
+}

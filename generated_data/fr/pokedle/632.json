@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Fermite",
+    "types": [
+        "Insecte",
+        "Acier"
+    ],
+    "weight": 33.0
+}

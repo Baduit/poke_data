@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "L’électricité que produit un seul Iguolta en agitant\nsa collerette suffit à alimenter un immeuble entier.",
+        "Il augmente sa puissance motrice en stimulant les\nmuscles de ses pattes avec des décharges\nélectriques. Il peut ainsi parcourir 100 m en 5 s.",
+        "L’électricité que produit un seul Iguolta en agitant\nsa collerette suffit à alimenter un immeuble entier.",
+        "Il augmente sa puissance motrice en stimulant les muscles\nde ses pattes avec des décharges électriques. Il peut ainsi\nparcourir 100 m en 5 s.",
+        "Il était révéré dans un royaume des sables\naujourd’hui disparu. Il est arrivé à Galar\ndans une cargaison de pierres précieuses.",
+        "Lorsqu’il déploie sa collerette pour emmagasiner\nla lumière du soleil, il génère à lui seul assez\nd’électricité pour alimenter une grande ville."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "name": "Iguolta",
+    "types": [
+        "Électrik",
+        "Normal"
+    ],
+    "weight": 21.0
+}

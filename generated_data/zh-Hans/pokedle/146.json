@@ -1,0 +1,11 @@
+{
+    "color": "黄色",
+    "generation": 1,
+    "height": 2.0,
+    "name": "火焰鸟",
+    "types": [
+        "火",
+        "飞行"
+    ],
+    "weight": 60.0
+}

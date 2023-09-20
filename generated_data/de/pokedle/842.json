@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 8,
+    "height": 0.4,
+    "name": "Schlapfel",
+    "types": [
+        "Pflanze",
+        "Drache"
+    ],
+    "weight": 13.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Krookodile",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "weight": 96.3
+}

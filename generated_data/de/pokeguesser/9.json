@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es begräbt seine Gegner mit seinem enormen\nKörpergewicht. Wenn es in einer aussichtslosen\nLage steckt, zieht es sich in seinen Panzer zurück.",
+        "Ein mächtiges und schnelles Pokémon, das auf\ndem Rücken zwei Hochdruckwasserwerfer trägt.",
+        "Turtok besitzt Wasserdüsen, die aus seinem\nPanzer herausragen. Diese sind sehr präzise.\nEs kann Wassergeschosse so genau verschießen,\ndass es damit aus fast 50 m leere Dosen trifft.",
+        "Turtok besitzt Wasserdüsen, die aus seinem\nPanzer herausragen. Diese sind sehr präzise.\nEs kann Wassergeschosse so genau verschießen,\ndass es damit aus fast 50 m leere Dosen trifft.",
+        "Nachdem es einen Gegner anvisiert hat, greift\nes mit einem Wasserstrahl an, dessen Druck\nhöher ist als der eines Feuerwehrschlauchs.",
+        "Nachdem es einen Gegner anvisiert hat, greift\nes mit einem Wasserstrahl an, dessen Druck\nhöher ist als der eines Feuerwehrschlauchs.",
+        "Es begräbt seine Gegner mit seinem enormen\nKörpergewicht. Wenn es in einer aussichtslosen\nLage steckt, zieht es sich in seinen Panzer zurück.",
+        "Die Wassersalven, die es mit den Wasserdüsen\nin seinem Panzer abfeuert, durchdringen sogar\ndicke Stahlwände."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "name": "Turtok",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 85.5
+}

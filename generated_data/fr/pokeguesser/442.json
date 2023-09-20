@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Son mauvais comportement lui a valu\nd’être enchaîné à une Clé de Voûte\npar un mystérieux sortilège.",
+        "Son mauvais comportement lui a valu\nd’être enchaîné à une Clé de Voûte\npar un mystérieux sortilège.",
+        "Un Pokémon composé de 108 esprits. Il provient\nd’une fissure dans une clé de voûte étrange.",
+        "Il fut emprisonné dans la fissure d’une clé de voûte\nétrange en guise de punition il y a 500 ans.",
+        "Un Pokémon composé de 108 esprits. Il provient d’une fissure\ndans une clé de voûte étrange.",
+        "Il fut emprisonné dans la fissure d’une clé de voûte étrange\nen guise de punition il y a 500 ans.",
+        "Ce Pokémon est né de la fusion de 108 âmes,\nmais on raconte que certaines d’entre elles\nseraient de nature maléfique.",
+        "Pour punir son comportement déplorable,\nun voyageur a utilisé un mystérieux sortilège\npour l’enchaîner à une Clé de Voûte."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "name": "Spiritomb",
+    "types": [
+        "Spectre",
+        "Ténèbres"
+    ],
+    "weight": 108.0
+}

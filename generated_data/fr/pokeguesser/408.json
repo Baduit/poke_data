@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il vivait dans la jungle il y a\n100 millions d’années. Il abat\nun arbre d’un coup de tête.",
+        "Il vivait dans la jungle il y a\n100 millions d’années. Il abat\nun arbre d’un coup de tête.",
+        "On l’a ressuscité à partir d’un fossile de fer en forme\nde balle. Il abat ses proies à coups de tête.",
+        "Il vivait dans la jungle il y a 100 millions d’années.\nIl peut abattre un arbre d’un coup de tête.",
+        "On l’a ressuscité à partir d’un fossile de fer en forme de balle.\nIl abat ses proies à coups de tête.",
+        "Il vivait dans la jungle il y a 100 millions d’années.\nIl peut abattre un arbre d’un coup de tête.",
+        "Il peuplait les jungles il y a 100 millions\nd’années et se débarrassait de son grand rival,\nPtéra, en lui donnant des coups de tête.",
+        "Auprès des fossiles de Kranidos, il n’est pas\nrare de trouver des arbres pétrifiés\ncomplètement broyés.",
+        "Un Pokémon préhistorique doté d’un crâne très\nsolide, mais d’un cerveau très peu performant.",
+        "Son crâne extrêmement solide est sa principale\ncaractéristique. Il s’en servait pour faire tomber\ndes arbres les Baies dont il se nourrissait."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "name": "Kranidos",
+    "types": [
+        "Roche"
+    ],
+    "weight": 31.5
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es trägt den Schädel seiner verstorbenen Mutter auf\nseinem Kopf. Fühlt es sich einsam, soll es laut weinen.",
+        "Es trägt immer den Schädel seiner verstorbenen\nMutter. Darum weiß niemand, wie sein Gesicht\naussieht.",
+        "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist.\nWenn es im Vollmond das Ebenbild seiner Mutter erblickt,\nmuss es weinen. Die Flecken auf dem Totenkopf, den es trägt,\nstammen von vergossenen Tränen.",
+        "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist.\nWenn es im Vollmond das Ebenbild seiner Mutter erblickt,\nmuss es weinen. Die Flecken auf dem Totenkopf, den es trägt,\nstammen von vergossenen Tränen.",
+        "Denkt es an seine verstorbene Mutter, weint es\nlaut. Hört dies ein Grypheldis, nutzt dieses die\nGelegenheit, um es aus der Luft anzugreifen.",
+        "Der Schädel auf seinem Kopf gehörte seiner\nverstorbenen Mutter. Überwindet es diesen\nVerlust, setzt angeblich die Entwicklung ein.",
+        "Nachts weint es laut, weil es seine verstorbene\nMutter vermisst. Dadurch wird jedoch sein\nnatürlicher Feind Grypheldis auf es aufmerksam.",
+        "Da es den Schädel seiner Mutter auf dem Kopf\nträgt, weiß man nicht, wie sein Gesicht aussieht.\nBekannt ist nur, dass es ständig weint.",
+        "Es trägt den Schädel seiner Mutter als Maske.\nSein Weinen hallt darin wider und wird zu einer\ntraurigen Melodie.",
+        "Es trägt den Schädel seiner Mutter als Maske.\nSein Weinen hallt darin wider und wird zu einer\ntraurigen Melodie.",
+        "Denkt Tragosso an seine verstorbene Mutter,\nso weint es. Sein Schluchzen hallt dabei in dem\nSchädel auf seinem Kopf klagend wider.",
+        "Es trägt den Schädel seiner verstorbenen Mutter.\nManchmal weint Tragosso, während es träumt,\ndoch jede vergossene Träne macht es stärker."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "name": "Tragosso",
+    "types": [
+        "Boden"
+    ],
+    "weight": 6.5
+}

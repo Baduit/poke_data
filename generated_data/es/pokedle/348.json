@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Armaldo",
+    "types": [
+        "Roca",
+        "Bicho"
+    ],
+    "weight": 68.2
+}

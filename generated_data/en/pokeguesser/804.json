@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "It stores hundreds of liters of poisonous liquid\ninside its body. It is one of the organisms known\nas UBs.",
+        "One kind of Ultra Beast, it fires a glowing,\nvenomous liquid from its needles. This liquid\nis also immensely adhesive."
+    ],
+    "height": 3.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "name": "Naganadel",
+    "types": [
+        "Poison",
+        "Dragon"
+    ],
+    "weight": 150.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es ist eine Art Vorfahre der Pokémon. Mit seinen\nerweiterten Scheren geht es zwischen den Felsen\nam Meeresgrund auf Beutefang.",
+        "Ein Vorfahre der Pokémon, der aus einem Fossil neu\nbelebt wurde. Es lebte im Meer und jagte mit Klauen.",
+        "Anorith wurde aus einem prähistorischen Fossil erzeugt. Dieses\nprimitive Pokémon lebte einst in warmen Gewässern. Es klemmt\nseine Beute fest zwischen seine beiden riesigen Klauen ein.",
+        "Anorith soll ein Pokémon-Vorgänger sein, es hat acht Flügel\nan seinem Körper. Dieses Pokémon schwamm im Urmeer,\nindem es seine acht Flügel schwang.",
+        "Wenn man es aus einem Fossil wiederherstellt\nund ins Meer entlässt, geht es ihm dort nicht\ngut, da die Wasserqualität sich verändert hat.",
+        "Dieses urzeitliche Käfer-Pokémon konnte mit\nseinen acht Flügeln ungewöhnlich schnell\nschwimmen.",
+        "Es wurde aus einem Fossil wiederbelebt. Vor circa\n100 Millionen Jahren war es im Meer zu Hause,\nwo es mit seinen beiden Klauen auf Jagd ging.",
+        "Anorith schwimmt sehr schnell, indem es seine\nacht Flügel wie die Ruder eines Bootes bewegt.\nEs ist einer der Vorfahren von Käfer-Pokémon."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+    "name": "Anorith",
+    "types": [
+        "Gestein",
+        "Käfer"
+    ],
+    "weight": 12.5
+}

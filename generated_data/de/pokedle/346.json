@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Wielie",
+    "types": [
+        "Gestein",
+        "Pflanze"
+    ],
+    "weight": 60.4
+}

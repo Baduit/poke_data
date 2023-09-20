@@ -1,0 +1,11 @@
+{
+    "color": "あおいろ",
+    "generation": 1,
+    "height": 1.3,
+    "name": "ニドクイン",
+    "types": [
+        "どく",
+        "じめん"
+    ],
+    "weight": 60.0
+}

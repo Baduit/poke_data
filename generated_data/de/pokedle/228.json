@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Hunduster",
+    "types": [
+        "Unlicht",
+        "Feuer"
+    ],
+    "weight": 10.8
+}

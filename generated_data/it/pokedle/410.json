@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Shieldon",
+    "types": [
+        "Roccia",
+        "Acciaio"
+    ],
+    "weight": 57.0
+}

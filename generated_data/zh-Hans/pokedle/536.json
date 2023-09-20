@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 5,
+    "height": 0.8,
+    "name": "蓝蟾蜍",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 17.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 1,
+    "height": 1.6,
+    "name": "고우스트",
+    "types": [
+        "고스트",
+        "독"
+    ],
+    "weight": 0.1
+}

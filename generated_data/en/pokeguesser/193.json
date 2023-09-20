@@ -1,0 +1,34 @@
+{
+    "descriptions": [
+        "If it flaps its\nwings really fast,\nit can generate\fshock waves that\nwill shatter win­\ndows in the area.",
+        "Its large eyes can\nscan 360 degrees.\nIt looks in all\fdirections to seek\nout insects as its\nprey.",
+        "It can see in all\ndirections without\nmoving its big\feyes, helping it\nspot attackers and\nfood right away.",
+        "YANMA is capable of seeing 360 degrees\nwithout having to move its eyes.\nIt is a great flier that is adept at\fmaking sudden stops and turning midair.\nThis POKéMON uses its flying ability to\nquickly chase down targeted prey.",
+        "YANMA is capable of seeing 360 degrees\nwithout having to move its eyes.\nIt is a great flier that is adept at\fmaking sudden stops and turning midair.\nThis POKéMON uses its flying ability to\nquickly chase down targeted prey.",
+        "It can see 360 degrees without moving\nits eyes. It is a great flier capable of\nmaking sudden stops and turning midair to\nquickly chase down targeted prey.",
+        "Its large eyes can scan 360 degrees.\nIt looks in all directions to seek out\ninsects as its prey.",
+        "If it flaps its wings really fast, it can\ngenerate shock waves that will shatter\nwindows in the area.",
+        "Its eyes can see 360 degrees\nwithout moving its head. It won’t\nmiss prey--even those behind it.",
+        "Its eyes can see 360 degrees\nwithout moving its head. It won’t\nmiss prey--even those behind it.",
+        "It can hover in one spot by\nflapping its wings at high speed. It\nflits about to guard its territory.",
+        "If it flaps its wings really fast,\nit can generate shock waves that\nwill shatter windows in the area.",
+        "Its large eyes can scan 360 degrees.\nIt looks in all directions to seek\nout insects as its prey.",
+        "It can hover in one spot by\nflapping its wings at high speed. It\nflits about to guard its territory.",
+        "It can hover in one spot by\nflapping its wings at high speed. It\nflits about to guard its territory.",
+        "By flapping its wings at high speed,\nit can fly freely through the air.\nEven sudden stops are no problem.",
+        "By flapping its wings at high speed,\nit can fly freely through the air.\nEven sudden stops are no problem.",
+        "Its eyes can see 360 degrees without moving its\nhead. It won’t miss prey--even those behind it.",
+        "If it flaps its wings really fast, it can generate shock\nwaves that will shatter windows in the area.",
+        "Yanma is capable of seeing 360 degrees without having to\nmove its eyes. It is a great flier that is adept at making sudden\nstops and turning midair. This Pokémon uses its flying ability to\nquickly chase down targeted prey.",
+        "Yanma is capable of seeing 360 degrees without having to\nmove its eyes. It is a great flier that is adept at making sudden\nstops and turning midair. This Pokémon uses its flying ability\nto quickly chase down targeted prey.",
+        "Its frail wings are so thin that one can see clear through them.\nHowever, during flight these wings exhibit the power to churn\nair with force enough to launch a house skyward."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
+    "name": "Yanma",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 38.0
+}

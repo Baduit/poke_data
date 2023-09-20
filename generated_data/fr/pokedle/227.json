@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 2,
+    "height": 1.7,
+    "name": "Airmure",
+    "types": [
+        "Acier",
+        "Vol"
+    ],
+    "weight": 50.5
+}

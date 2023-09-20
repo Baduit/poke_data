@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "葉っぱが　大好物。\nムックルに　襲われたときは\nお尻の　トゲで　撃退する。",
+        "森や　草むらに　生息。\n敵に　襲われた　ときは　お尻の\n毒の　トゲで　対抗する。",
+        "お尻の　トゲで　木の　皮を　はがして\n染み出した　樹液を　食料に　する。\n吸盤の　足は　ガラスでも　滑らない。",
+        "エサにしようと　捕まえにきた　オオスバメに\nお尻の　トゲを　向けて　抵抗する。\n染み出した　毒で　相手を　弱らせるぞ。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "name": "ケムッソ",
+    "types": [
+        "むし"
+    ],
+    "weight": 3.6
+}

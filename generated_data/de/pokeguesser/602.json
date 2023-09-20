@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Allein erzeugt es nur wenig Strom, doch tritt es\ngeschlossen im Schwarm auf, gleicht seine Kraft\nder eines Blitzes.",
+        "Alleine erzeugen sie nur geringe Mengen an\nElektrizität, aber im Schwarm können sie\nmächtige Stromsalven abfeuern.",
+        "Allein erzeugt es nur wenig Strom, doch tritt es geschlossen\nim Schwarm auf, gleicht seine Kraft der eines Blitzes.",
+        "Alleine erzeugen sie nur geringe Mengen an Elektrizität,\naber im Schwarm können sie mächtige Stromsalven abfeuern."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "name": "Zapplardin",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 0.3
+}

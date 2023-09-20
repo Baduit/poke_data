@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 6,
+    "height": 2.5,
+    "name": "怪颚龙",
+    "types": [
+        "岩石",
+        "龙"
+    ],
+    "weight": 270.0
+}

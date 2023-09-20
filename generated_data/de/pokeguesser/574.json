@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Die schleifenförmigen Fühler erhöhen seine\nPsycho-Kräfte. Es scheint stets irgendetwas\nanzustarren.",
+        "Beobachtet andere Pokémon und Trainer mit\ndurchdringendem Blick, als könne es etwas\nerkennen, das keiner sonst sieht.",
+        "Die schleifenförmigen Fühler erhöhen seine Psycho-Kräfte.\nEs scheint stets irgendetwas anzustarren.",
+        "Beobachtet andere Pokémon und Trainer mit durchdringendem\nBlick, als könne es etwas erkennen, das keiner sonst sieht.",
+        "Es ist zwar noch ein Baby, aber es weiß sich mit\nden Psycho-Kräften, die seinen schleifenförmigen\nFühlern innewohnen, durchaus zu wehren.",
+        "Manchmal stößt es Rufe aus, obwohl niemand da\nist. Man vermutet, dass es sich mit irgendetwas\nunterhält, das für niemanden sonst sichtbar ist."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "name": "Mollimorba",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 5.8
+}

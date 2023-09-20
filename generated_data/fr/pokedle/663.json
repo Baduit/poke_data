@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 6,
+    "height": 1.2,
+    "name": "Flambusard",
+    "types": [
+        "Feu",
+        "Vol"
+    ],
+    "weight": 24.5
+}

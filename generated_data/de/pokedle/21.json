@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Habitak",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 2.0
+}

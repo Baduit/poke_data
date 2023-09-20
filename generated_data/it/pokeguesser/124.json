@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Camminando ancheggia in modo seducente.\nLa gente può essere indotta a seguire la sua danza.",
+        "Parla usando un linguaggio simile a quello umano.\nSono in corso studi per riuscire a interpretarlo.",
+        "Jynx avanza oscillando e ancheggiando ritmicamente come\nin una specie di danza tesa ad ammaliare il nemico.\nChi vede questo Pokémon è costretto a iniziare la stessa\ndanza senza pensare a cosa sta facendo.",
+        "Jynx avanza oscillando e ancheggiando ritmicamente come\nin una specie di danza tesa ad ammaliare il nemico.\nChi vede questo Pokémon è costretto a iniziare la stessa\ndanza senza pensare a cosa sta facendo.",
+        "Cammina ancheggiando a un ritmo tutto suo.\nI movimenti dei Jynx della regione di Alola sono\nparticolarmente affascinanti.",
+        "Emette strani versi che ricordano il linguaggio\numano. Alcuni compositori scrivono melodie\nappositamente per farle cantare ai Jynx.",
+        "Si muove in modo leggiadro, come se\ndanzasse seguendo un ritmo tutto suo.\nCammina ancheggiando.",
+        "Si muove in modo leggiadro, come se\ndanzasse seguendo un ritmo tutto suo.\nCammina ancheggiando.",
+        "In una certa zona di Galar, Jynx era temuto\ne venerato dagli abitanti, che lo chiamavano\n“Regina dei ghiacci”.",
+        "La maggior parte dei Jynx di Galar hanno\nuna voce talmente incantevole e delicata\nda avere addirittura dei fan."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "name": "Jynx",
+    "types": [
+        "Ghiaccio",
+        "Psico"
+    ],
+    "weight": 40.6
+}

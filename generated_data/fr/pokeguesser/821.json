@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Ce Pokémon brave affronte même les adversaires\nles plus redoutables. Il devient plus fort à mesure\nqu’il subit les contre-attaques.",
+        "Son petit corps lui permet de se jouer d’ennemis\nbien plus grands que lui en volant à toute vitesse\npour les piquer où ils sont vulnérables."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+    "name": "Minisange",
+    "types": [
+        "Vol"
+    ],
+    "weight": 1.8
+}

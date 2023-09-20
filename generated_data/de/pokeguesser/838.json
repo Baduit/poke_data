@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Es produziert Steinkohle in seinem Körper.\nDie von ihm abfallende Kohle wurde früher in\nder Galar-Region fürs tägliche Leben genutzt.",
+        "Es dreht seine Füße mit hoher Geschwindigkeit\nund kann sich dadurch bis zu 30 km/h schnell\nbewegen. Es speit 1 000 ºC heiße Flammen."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "name": "Wagong",
+    "types": [
+        "Gestein",
+        "Feuer"
+    ],
+    "weight": 78.0
+}

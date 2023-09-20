@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Parasect è controllato da un fungo ancora più\ngrosso del suo corpo. Diffonde spore velenose.",
+        "Più cresce il fungo che ha sul dorso, più forti\ndiventano le spore che sparge.",
+        "I Parasect agiscono in gruppo e sono noti per la loro abilità\ndi infestare gli alberi traendo nutrimento da tronchi e radici.\nQuando muore un albero infestato, ne cercano subito un altro.",
+        "I Parasect agiscono in gruppo e sono noti per la loro abilità\ndi infestare gli alberi traendo nutrimento da tronchi e radici.\nQuando muore un albero infestato, ne cercano subito un altro.",
+        "Parasect è controllato dal grande fungo che ha\nsul dorso. Spesso si contende il territorio con\ngli Shiinotic.",
+        "Sparge spore velenose dal fungo che ha\nsul dorso. Se raccolte e fatte bollire, queste\nspore possono essere usate come farmaco.",
+        "La parte essenziale di questo Pokémon,\npraticamente morto, è costituita dal fungo sulla\nsua schiena. Se si stacca, non può più muoversi.",
+        "Dalle sue spore velenose si possono ricavare\ndei farmaci. Tuttavia, sembra che quelli prodotti\nad Alola non siano di buona qualità.",
+        "Il fungo sulla schiena assorbe l’energia\ndell’organismo ospite, su cui ha anche\npieno controllo.",
+        "Il fungo sulla schiena assorbe l’energia\ndell’organismo ospite, su cui ha anche\npieno controllo."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "name": "Parasect",
+    "types": [
+        "Coleottero",
+        "Erba"
+    ],
+    "weight": 29.5
+}

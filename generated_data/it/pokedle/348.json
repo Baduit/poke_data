@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Armaldo",
+    "types": [
+        "Roccia",
+        "Coleottero"
+    ],
+    "weight": 68.2
+}

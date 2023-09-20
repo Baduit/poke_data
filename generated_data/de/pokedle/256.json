@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Jungglut",
+    "types": [
+        "Feuer",
+        "Kampf"
+    ],
+    "weight": 19.5
+}

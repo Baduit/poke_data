@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Se oculta en cavernas oscuras. De tanto comer gemas,\nsus ojos son piedras preciosas.",
+        "Hace su guarida en cuevas oscuras. Usa sus afiladas\ngarras para desenterrar las gemas que se come.",
+        "Los Sableye hacen una vida muy tranquila en cavernas, pero\nson muy temidos. Se dice que, cuando los ojos les brillan de\nmanera siniestra, están robándole el alma a alguien.",
+        "Sableye cava en el suelo para buscar con las afiladas garras\nque tiene rocas para comer. Las sustancias que hay en las\nrocas que ingiere se solidifican y se le quedan en la piel.",
+        "Le gustan mucho las joyas, por lo que suele\nmerodear cerca de los Carbink. Sin embargo, los\nGabite siempre se le suelen adelantar.",
+        "Se dice que, cuando las gemas de los ojos\nde estos Pokémon brillan de manera siniestra,\nestán robándole el alma a alguien.",
+        "Horada la tierra con sus duras garras y extrae\ngemas que luego desmenuza con sus gruesos\ncolmillos. Los Carbink son su manjar predilecto.",
+        "Algunos de los elementos de las gemas con las\nque se alimenta emergen en su piel creando\npatrones variopintos.",
+        "Se dice que, cuando las gemas de los ojos de\nestos Pokémon tan temidos brillan de manera\nsiniestra, están robándole el alma a alguien.",
+        "Se alimenta de gemas. En la oscuridad, los ojos\nle brillan con el destello de las piedras preciosas."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "name": "Sableye",
+    "types": [
+        "Siniestro",
+        "Fantasma"
+    ],
+    "weight": 11.0
+}

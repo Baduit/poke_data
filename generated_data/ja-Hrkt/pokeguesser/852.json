@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "えさを　もとめ　ちじょうに　あがる。\nこうきしんおうせいで　めにしたものは\nとりあえず　しょくしゅで　なぐる。",
+        "３さいじ　くらいの　かしこさ。\nしょくしゅは　よくちぎれるが\nさいせいするので　きにしない。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "name": "タタッコ",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 4.0
+}

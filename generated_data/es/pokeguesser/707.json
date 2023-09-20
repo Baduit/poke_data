@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Tiene el hábito de coleccionar llaves. Cuando un\nenemigo lo ataca, las hace tintinear como método\nde intimidación.",
+        "Como no se separa de las llaves que le gustan bajo\nningún concepto, la gente le encomienda las llaves\nde cajas fuertes para prevenir posibles robos.",
+        "Tiene el hábito de coleccionar llaves. Cuando un enemigo lo\nataca, las hace tintinear como método de intimidación.",
+        "Como no se separa de las llaves que le gustan bajo ningún\nconcepto, la gente le encomienda las llaves de cajas fuertes\npara prevenir posibles robos.",
+        "Tiene el hábito de coleccionar llaves. Su carácter\ntranquilo no impide que le guste colarse en\ncasas ajenas a robar llaves.",
+        "Introduce el apéndice de su cabeza por los\nresquicios de los metales para absorber los\niones. Por alguna razón, adora las llaves.",
+        "Su afán por coleccionar llaves es un misterio y\nse alegra mucho si le regalan una, pero si esta\nno es una llave maestra, se le tuerce la cara.",
+        "Hace tiempo solía vivir en minas, pero tras la\ndisminución de los minerales que le servían de\nalimento, se trasladó a poblaciones humanas.",
+        "Un Pokémon coleccionista de llaves. Si alguien le\nconfía una muy importante, la protegerá como si\nle fuese la vida en ello.",
+        "Según parece, absorbe iones metálicos por el\napéndice de la cabeza para adoptar una forma\nsimilar a la de sus amadas llaves."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "name": "Klefki",
+    "types": [
+        "Acero",
+        "Hada"
+    ],
+    "weight": 3.0
+}

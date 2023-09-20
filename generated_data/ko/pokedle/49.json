@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 1,
+    "height": 1.5,
+    "name": "도나리",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 12.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "坚硬的鳞片覆盖着\n强壮的身体。据说它的\n鳞片会自己长出新的。",
+        "坚硬的鳞片覆盖着\n强壮的身体。据说它的\n鳞片会自己长出新的。",
+        "比起进攻更擅长防守。\n会用铠甲般的鳞片保护\n孩子免受任何攻击的伤害。",
+        "把孩子放在背上刺与刺的\n空隙里来哄它们。在这时\n绝对不会释放毒素。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "name": "尼多后",
+    "types": [
+        "毒",
+        "地面"
+    ],
+    "weight": 60.0
+}

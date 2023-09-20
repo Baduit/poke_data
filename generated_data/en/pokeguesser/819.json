@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Found throughout the Galar region, this Pokémon\nbecomes uneasy if its cheeks are ever completely\nempty of berries.",
+        "It eats berries nonstop—a habit that has made\nit more resilient than it looks. It’ll show up on\nfarms, searching for yet more berries."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "name": "Skwovet",
+    "types": [
+        "Normal"
+    ],
+    "weight": 2.5
+}

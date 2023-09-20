@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 4,
+    "height": 0.7,
+    "name": "Gible",
+    "types": [
+        "Dragon",
+        "Ground"
+    ],
+    "weight": 20.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Si sa température monte, il se dissipe\nen vapeur d’eau et disparaît. Quand\nelle diminue, il redevient de glace.",
+        "Né d’un nuage neigeux, il attrape ses\nproies à l’aide de sa chaîne faite\nde cristaux de givre.",
+        "Né d’un nuage neigeux, il attrape ses proies à l’aide\nde sa chaîne faite de cristaux de givre.",
+        "Il attrape ses proies à l’aide de sa chaîne faite de\ncristaux de givre et les gèle à près de -100 °C.",
+        "Né d’un nuage neigeux, il attrape ses proies à l’aide\nde sa chaîne faite de cristaux de givre.",
+        "Il attrape ses proies à l’aide de sa chaîne faite de cristaux\nde givre et les gèle à près de -100 °C.",
+        "Il gèle ceux qu’il croise à l’aide de ses chaînes\nfaites de givre, puis les emmène vers un lieu\ninconnu.",
+        "Lorsqu’il fait trop chaud, il s’évapore, ce qui\nexplique pourquoi on ne le voit presque pas\nen été."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+    "name": "Hexagel",
+    "types": [
+        "Glace"
+    ],
+    "weight": 148.0
+}

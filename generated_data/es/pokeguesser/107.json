@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Los potentes golpes de sus brazos pueden pulverizar\nel hormigón. Descansa tras luchar tres minutos.",
+        "Dicen que tiene el alma de un boxeador profesional.\nDa puñetazos a la velocidad del rayo.",
+        "Dicen que Hitmonchan tiene el mismo ímpetu que un boxeador\nentrenándose para un campeonato mundial. Este Pokémon\ntiene un espíritu indomable que nunca se doblega ante la\nadversidad.",
+        "Dicen que Hitmonchan tiene el mismo ímpetu que un boxeador\nentrenándose para un campeonato mundial. Este Pokémon\ntiene un espíritu indomable que nunca se doblega ante la\nadversidad.",
+        "Sus puñetazos, semejantes a una taladradora,\npueden perforar un muro de hormigón como si\nnada.",
+        "Sus puñetazos, semejantes a una taladradora,\npueden perforar un muro de hormigón como si\nnada.",
+        "Sus puñetazos cortan el aire. Son tan veloces que\nel mínimo roce podría causar una quemadura.",
+        "Sus puñetazos son capaces incluso de cortar el\naire, aunque parece necesitar un descanso tras\nestar luchando durante 3 min."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "name": "Hitmonchan",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 50.2
+}

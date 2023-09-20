@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es wehrt Angriffe mit seiner alten Haut ab\nund kontert mit Tritten. Sein Ego entspricht\nder Größe seines Kamms.",
+        "Wählt seinen Anführer über die Größe des Kamms\nauf dem Kopf. Ein Tritt von ihm reicht,\num Betonblöcke zu zertrümmern.",
+        "Es wehrt Angriffe mit seiner alten Haut ab und kontert mit\nTritten. Sein Ego entspricht der Größe seines Kamms.",
+        "Wählt seinen Anführer über die Größe des Kamms auf dem\nKopf. Ein Tritt von ihm reicht, um Betonblöcke zu zertrümmern.",
+        "Diesem ungestümen Pokémon liegen Freunde,\nFamilie und Revier sehr am Herzen.",
+        "Es provoziert Gegner, indem es sie anspuckt.\nJedes Exemplar besitzt sein eigenes Revier,\ndas es niemals verlässt.",
+        "Selbst seine halbherzigen Tritte sind stark\ngenug, um die Betonpfeiler eines Meistagrif\nzu zertrümmern.",
+        "Es gibt sich gerne wild, aber seine Familie, seine\nKameraden und sein Revier liegen ihm sehr am\nHerzen."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "name": "Irokex",
+    "types": [
+        "Unlicht",
+        "Kampf"
+    ],
+    "weight": 30.0
+}

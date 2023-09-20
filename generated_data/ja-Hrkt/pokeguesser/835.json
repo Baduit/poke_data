@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "はしる　ときに　しっぽの　ねもとから\nでんきを　うみだす。　ガラルでは\nぼくようけん　として　にんき。",
+        "おやつに　つられて　ひとの　しごとを\nてつだう　くいしんぼう。　パチパチと\nでんきを　まとって　ひたはしる。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "name": "ワンパチ",
+    "types": [
+        "でんき"
+    ],
+    "weight": 13.5
+}

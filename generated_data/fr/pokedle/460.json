@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 4,
+    "height": 2.2,
+    "name": "Blizzaroi",
+    "types": [
+        "Plante",
+        "Glace"
+    ],
+    "weight": 135.5
+}

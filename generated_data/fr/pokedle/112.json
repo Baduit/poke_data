@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 1,
+    "height": 1.9,
+    "name": "Rhinoféros",
+    "types": [
+        "Sol",
+        "Roche"
+    ],
+    "weight": 120.0
+}

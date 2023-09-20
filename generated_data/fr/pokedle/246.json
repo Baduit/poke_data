@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Embrylex",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 72.0
+}

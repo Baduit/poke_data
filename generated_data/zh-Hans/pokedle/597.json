@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 5,
+    "height": 0.6,
+    "name": "种子铁球",
+    "types": [
+        "草",
+        "钢"
+    ],
+    "weight": 18.8
+}

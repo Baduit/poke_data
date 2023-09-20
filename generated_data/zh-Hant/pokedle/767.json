@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 7,
+    "height": 0.5,
+    "name": "膽小蟲",
+    "types": [
+        "蟲",
+        "水"
+    ],
+    "weight": 12.0
+}

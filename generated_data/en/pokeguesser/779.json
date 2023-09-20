@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "When it unleashes its psychic power from the\nprotuberance on its head, the grating sound\nof grinding teeth echoes through the area.",
+        "It stuns its prey with psychokinesis and then\ngrinds them to mush with its strong teeth.\nEven Shellder’s shell is no match for it.",
+        "It burrows beneath the sand, radiating\npsychic power from the protuberance on its\nhead. It waits for prey as it surveys the area.",
+        "Its skin is thick enough to fend off Mareanie’s\nspikes. With its robust teeth, Bruxish crunches\nup the spikes and eats them."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "name": "Bruxish",
+    "types": [
+        "Water",
+        "Psychic"
+    ],
+    "weight": 19.0
+}

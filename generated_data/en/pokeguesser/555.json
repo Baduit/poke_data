@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Its internal fire burns at 2,500° F,\nmaking enough power that it can\ndestroy a dump truck with one punch.",
+        "When weakened in battle, it transforms\ninto a stone statue. Then it sharpens\nits mind and fights on mentally.",
+        "When one is injured in a fierce battle,\nit hardens into a stone-like form.\nThen it meditates and sharpens its mind.",
+        "When one is injured in a fierce battle,\nit hardens into a stone-like form.\nThen it meditates and sharpens its mind.",
+        "When one is injured in a fierce battle, it hardens\ninto a stone-like form. Then it meditates and\nsharpens its mind.",
+        "Its internal fire burns at 2,500 degrees Fahrenheit,\nmaking enough power that it can destroy a dump\ntruck with one punch.",
+        "When one is injured in a fierce battle, it hardens\ninto a stone-like form. Then it meditates and\nsharpens its mind.",
+        "Its internal fire burns at 2,500 degrees Fahrenheit,\nmaking enough power that it can destroy a dump\ntruck with one punch.",
+        "The thick arms of this hot-blooded Pokémon\ncan deliver punches capable of obliterating a\ndump truck.",
+        "This Pokémon’s power level rises along with the\ntemperature of its fire, which can reach 2,500\ndegrees Fahrenheit."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "name": "Darmanitan",
+    "types": [
+        "Fire"
+    ],
+    "weight": 92.9
+}

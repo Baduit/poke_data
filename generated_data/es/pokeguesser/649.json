@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Pokémon de tipo Bicho de la antigüedad, modificado\npor el Equipo Plasma. El cañón de su lomo ha sido\nmejorado.",
+        "Un Pokémon de hace 300 millones de años y alterado\npor el Equipo Plasma, quienes le han equipado con un\ncañón en el lomo.",
+        "Pokémon de tipo Bicho de la antigüedad, modificado por\nel Equipo Plasma. El cañón de su lomo ha sido mejorado.",
+        "Un Pokémon de hace 300 millones de años y alterado por el\nEquipo Plasma, quienes le han equipado con un cañón en el\nlomo."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "name": "Genesect",
+    "types": [
+        "Bicho",
+        "Acero"
+    ],
+    "weight": 82.5
+}

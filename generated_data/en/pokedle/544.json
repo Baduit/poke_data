@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Whirlipede",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 58.5
+}

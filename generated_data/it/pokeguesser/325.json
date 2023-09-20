@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Rimbalza costantemente usando la coda come una\nmolla. Il movimento sollecita il cuore e lo fa battere.",
+        "Deve saltellare continuamente per far battere il suo\ncuore. Porta una perla di Clamperl sul capo.",
+        "Spoink rimbalza come una molla sulla coda. Il colpo ricevuto\ndal rimbalzo gli fa battere il cuore. Di conseguenza, non può\nmai smettere di saltellare, altrimenti il suo cuore smette\ndi battere.",
+        "Sulla sommità del capo Spoink porta una perla che serve per\namplificare i suoi poteri psicocinetici. Per questo motivo è\nsempre in cerca di una perla più grande."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "name": "Spoink",
+    "types": [
+        "Psico"
+    ],
+    "weight": 30.6
+}

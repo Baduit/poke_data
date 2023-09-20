@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 1,
+    "height": 0.3,
+    "name": "코일",
+    "types": [
+        "전기",
+        "강철"
+    ],
+    "weight": 6.0
+}

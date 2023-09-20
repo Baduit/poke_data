@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Die Temperatur seines Odems liegt bei -50 °C.\nEs erzeugt Eiskristalle und lässt es in seiner\nUmgebung schneien.",
+        "Ein Eiszapfen, der durch die Energie der aufgehenden\nSonne zum Pokémon wurde. Nachts deckt es sich mit\nSchnee zu.",
+        "Die Temperatur seines Odems liegt bei -50 °C. Es erzeugt\nEiskristalle und lässt es in seiner Umgebung schneien.",
+        "Ein Eiszapfen, der durch die Energie der aufgehenden Sonne\nzum Pokémon wurde. Nachts deckt es sich mit Schnee zu.",
+        "Dieses Pokémon ist aus einem Eiszapfen\nentstanden. Mit seinem kalten Odem erzeugt\nes Eiskristalle und lässt es schneien.",
+        "Wenn man es umarmt, fühlt es sich angenehm\nund kühl an. In heißen Regionen hat man daher\ngern ein Exemplar im Haus.",
+        "Die Temperatur seines Atems liegt bei -50 °C.\nWenn es sich an warmen Orten aufhält, wird es\nnach und nach kleiner.",
+        "Es entstand aus dem Wunsch eines Eiszapfens,\nder in der Morgensonne nicht schmelzen wollte.\nNachts schläft es tief vergraben im Schnee.",
+        "Gelatini kann nicht an warmen Orten leben. Es\nerzeugt Schnee, indem es kalte Luft ausatmet,\nund vergräbt sich dann darin, um zu schlafen.",
+        "Es entstand angeblich aus einem Eiszapfen und\nspeit -50 ºC kalte Luft aus, um die Umgebung\nauf seine Wohlfühltemperatur abzukühlen."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "name": "Gelatini",
+    "types": [
+        "Eis"
+    ],
+    "weight": 5.7
+}

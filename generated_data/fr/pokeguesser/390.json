@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il est très agile. Il fait toujours\nattention d’éteindre la flamme de\nsa queue avant de se coucher.",
+        "Il est très agile. Il fait toujours\nattention d’éteindre la flamme de\nsa queue avant de se coucher.",
+        "La flamme de sa queue est alimentée par un gaz de\nson estomac. Même la pluie ne saurait l’éteindre.",
+        "La flamme de son postérieur brûle grâce à un gaz\nde son estomac. Elle faiblit quand il ne va pas bien.",
+        "La flamme de sa queue est alimentée par un gaz de\nson estomac. Même la pluie ne saurait l’éteindre.",
+        "La flamme de son postérieur brûle grâce à un gaz de son\nestomac. Elle faiblit quand il ne va pas bien."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+    "name": "Ouisticram",
+    "types": [
+        "Feu"
+    ],
+    "weight": 6.2
+}

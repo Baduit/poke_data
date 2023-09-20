@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 2,
+    "height": 1.0,
+    "name": "Coxy",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 10.8
+}

@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 1,
+    "height": 1.0,
+    "name": "뿔카노",
+    "types": [
+        "땅",
+        "바위"
+    ],
+    "weight": 115.0
+}

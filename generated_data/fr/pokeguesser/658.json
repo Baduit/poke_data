@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il transforme des jets d’eau sous pression\nen redoutables shuriken. Une fois lancés, ils tournent\nsi vite qu’ils peuvent même couper le métal.",
+        "Aussi insaisissable qu’un ninja, il se joue de\nses ennemis grâce à sa célérité, et les tranche\nde ses Sheauriken.",
+        "Il transforme des jets d’eau sous pression en redoutables\nshuriken. Une fois lancés, ils tournent si vite qu’ils peuvent\nmême couper le métal.",
+        "Aussi insaisissable qu’un ninja, il se joue de ses ennemis\ngrâce à sa célérité, et les tranche de ses Sheauriken."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "name": "Amphinobi",
+    "types": [
+        "Eau",
+        "Ténèbres"
+    ],
+    "weight": 40.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "頭痛になるほどの　サイコパワーを\n周囲に　放って　ほかの\n生物を　遠ざけているのだ。",
+        "別名は　森の　魔女。\n騒ぎたてると　触手のツメで\n引き裂かれるかも　しれないぞ。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "name": "ブリムオン",
+    "types": [
+        "エスパー",
+        "フェアリー"
+    ],
+    "weight": 5.1
+}

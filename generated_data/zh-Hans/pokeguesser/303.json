@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "狡黠而又恐怖的宝可梦。\n用可爱的举止让人麻痹大意，\n然后出其不意地用大颚一口吞下。",
+        "拥有２张嘴。\n因为头部后面的大颚里没有味觉，\n所以那里用来吃不喜欢的东西。",
+        "会用温顺的长相让对手大意，\n然后再用大颚一口咬住对手。\n咬住后就绝不会松口。",
+        "大嘴娃能用自己那由钢角\n变化而成的巨大颚部\n将对手一口紧紧咬住。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "name": "大嘴娃",
+    "types": [
+        "钢",
+        "妖精"
+    ],
+    "weight": 11.5
+}

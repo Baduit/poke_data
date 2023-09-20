@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 4,
+    "height": 0.8,
+    "name": "Skorupi",
+    "types": [
+        "Veneno",
+        "Bicho"
+    ],
+    "weight": 12.0
+}

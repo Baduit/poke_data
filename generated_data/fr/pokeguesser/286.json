@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ses petits bras s’étendent quand il\ndonne un coup de poing. Son talent\négale celui d’un boxeur pro.",
+        "Ses petits bras s’étendent quand il\ndonne un coup de poing. Son talent\négale celui d’un boxeur pro.",
+        "Ses petits bras s’étendent quand il donne un coup\nde poing. Son talent égale celui d’un boxeur pro.",
+        "Il frappe de toutes ses forces ses ennemis étourdis\npar ses spores empoisonnées.",
+        "Chapignon se rapproche de son ennemi en se servant de\nson jeu de jambes, puis donne des coups de poing avec\nses bras élastiques. La technique de combat de ce Pokémon\nest digne des meilleurs boxeurs.",
+        "Les graines autour de la queue de Chapignon sont des spores\ntoxiques. Elles sont totalement immangeables. Une simple\nbouchée d’une graine de ce Pokémon peut causer\nde grandes douleurs à l’estomac."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "name": "Chapignon",
+    "types": [
+        "Plante",
+        "Combat"
+    ],
+    "weight": 39.2
+}

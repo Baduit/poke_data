@@ -1,0 +1,11 @@
+{
+    "color": "茶色",
+    "generation": 1,
+    "height": 0.5,
+    "name": "カブト",
+    "types": [
+        "いわ",
+        "みず"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 5,
+    "height": 0.7,
+    "name": "Elfun",
+    "types": [
+        "Pflanze",
+        "Fee"
+    ],
+    "weight": 6.6
+}

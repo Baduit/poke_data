@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 2,
+    "height": 0.8,
+    "name": "Cotovol",
+    "types": [
+        "Plante",
+        "Vol"
+    ],
+    "weight": 3.0
+}

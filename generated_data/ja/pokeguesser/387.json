@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "太陽の　光を　浴びて\n全身で　光合成を　する。\n甲羅は　土が　硬くなったもの。",
+        "全身で　光合成を　して\n酸素を　作る。のどが　渇くと\n頭の　葉っぱが　しおれてしまう。",
+        "太陽の　光を　浴びて\n全身で　光合成を　する。\n甲羅は　土が　硬くなったもの。",
+        "全身で　光合成を　して\n酸素を　作る。のどが　渇くと\n頭の　葉っぱが　しおれてしまう。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+    "name": "ナエトル",
+    "types": [
+        "くさ"
+    ],
+    "weight": 10.2
+}

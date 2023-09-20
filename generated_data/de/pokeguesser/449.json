@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es lebt in ausgetrockneten Gebieten. Statt zu\nschwitzen, sondert sein Körper Sand ab.",
+        "Es bedeckt sich mit Sand, um sich vor Keimen\nzu schützen. Es mag es gar nicht, wenn es nass wird.",
+        "Es lebt in ausgetrockneten Gebieten. Statt zu schwitzen,\nsondert sein Körper Sand ab.",
+        "Es bedeckt sich mit Sand, um sich vor Keimen zu schützen.\nEs mag es gar nicht, wenn es nass wird.",
+        "Es bewegt sich mit geöffnetem Maul und\nverschluckt seine Beute mit jeder Menge Sand,\nden es durch seine Nasenlöcher wieder ausstößt.",
+        "Es ist hauptsächlich tagsüber aktiv. Die Nächte in\nder Wüste sind kalt, deswegen vergräbt es sich\nzum Schlafen tief im Sand."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "name": "Hippopotas",
+    "types": [
+        "Boden"
+    ],
+    "weight": 49.5
+}

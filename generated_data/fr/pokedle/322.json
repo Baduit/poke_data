@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Chamallot",
+    "types": [
+        "Feu",
+        "Sol"
+    ],
+    "weight": 24.0
+}

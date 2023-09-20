@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Se le due teste si arrabbiano allo stesso tempo,\nscatena una bufera dalle corna, coprendo di neve\ni dintorni.",
+        "Ingoia enormi quantità d’acqua che trasforma in\nnuvole di neve. Quando si arrabbia scatena una\nterribile bufera.",
+        "Se le due teste si arrabbiano allo stesso tempo, scatena\nuna bufera dalle corna, coprendo di neve i dintorni.",
+        "Ingoia enormi quantità d’acqua che trasforma in nuvole\ndi neve. Quando si arrabbia scatena una terribile bufera.",
+        "Ha un cervello in ognuna delle due teste.\nQuando queste riescono a mettersi d’accordo,\nattacca il nemico scatenando una bufera.",
+        "Sopravvive senza problemi anche se perde una\ndelle due teste. All’interno del corpo genera\nnuvole di neve.",
+        "Produce tempeste di neve dalle due bocche.\nÈ amato da Sciatori e Snowboarder perché\npuò creare la neve ovunque.",
+        "È nato da due Vanillish parzialmente squagliatisi\nal sole, che in una fredda notte si sono uniti\ne ricongelati.",
+        "Quando è furibondo, scatena una tormenta\ndi neve che congela sia alleati che nemici.",
+        "La sua temperatura corporea si aggira intorno\nai -6 ºC. Si dice che sia nato dall’unione di due\nVanillish."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "name": "Vanilluxe",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 57.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Su habilidad le permite dar diez patadas por segundo.\nLanza potentes gritos para intimidar.",
+        "Al pelear, el fuego de su interior se intensifica. Es\ncapaz de propinar unas patadas demoledoras.",
+        "Combusken fortalece las piernas corriendo por llanos y\nmontañas. Este Pokémon tiene en las extremidades inferiores\ntanto fuerza como velocidad. Puede dar hasta diez patadas\npor segundo.",
+        "Combusken lucha haciendo uso de las abrasadoras llamas\nque expulsa por el pico y de unas patadas fulminantes.\nEste Pokémon emite un sonido muy fuerte y molesto."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "name": "Combusken",
+    "types": [
+        "Fuego",
+        "Lucha"
+    ],
+    "weight": 19.5
+}

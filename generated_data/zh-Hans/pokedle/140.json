@@ -1,0 +1,11 @@
+{
+    "color": "褐色",
+    "generation": 1,
+    "height": 0.5,
+    "name": "化石盔",
+    "types": [
+        "岩石",
+        "水"
+    ],
+    "weight": 11.5
+}

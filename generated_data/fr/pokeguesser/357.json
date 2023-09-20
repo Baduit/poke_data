@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "À force de toujours manger le même\nfruit succulent, il en pousse à la\nbase de son cou.",
+        "À force de toujours manger le même\nfruit succulent, il en pousse à la\nbase de son cou.",
+        "Ses grandes feuilles lui servent à voler.\nIl distribue les fruits qui pendent à son cou aux\nenfants, qui s’en régalent.",
+        "Les succulents fruits de son cou poussent deux fois\nl’an et font le régal des enfants des tropiques.",
+        "Les enfants adorent les fruits autour du cou de Tropius.\nApparemment, son penchant pour les fruits l’a conduit\nà en faire pousser sur son propre corps. Il les aime tant\nqu’il en mange sans arrêt.",
+        "Les enfants des tropiques mangent les fruits qui poussent\nautour du cou de Tropius pour leur goûter. Ce Pokémon\npeut voler en agitant les feuilles situées sur son dos,\ncomme s’il s’agissait d’ailes.",
+        "Les fruits qui poussent sur le cou des Tropius\nd’Alola sont si doux qu’ils surclassent ceux\ndes autres régions.",
+        "Dans les régions où il fait chaud, on trouve des\nfermes dédiées à l’élevage de ce Pokémon, très\napprécié pour les fruits poussant sur son cou."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "name": "Tropius",
+    "types": [
+        "Plante",
+        "Vol"
+    ],
+    "weight": 100.0
+}

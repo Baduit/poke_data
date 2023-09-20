@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "生活在陆地上，曾为了\n寻找猎物而出发去海里狩猎。\n锐利的爪子是它最大的武器。",
+        "从海里变成了在陆地生活。\n据了解，是一部分虫宝可梦的祖先。",
+        "进化之后登上了陆地。\n下半身得到了强化，\n尾巴的攻击破坏力极强。",
+        "栖息在陆地，但也擅长游泳。\n会潜入大海寻找猎物，\n用锋利的爪子给予致命一击。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "name": "太古盔甲",
+    "types": [
+        "岩石",
+        "虫"
+    ],
+    "weight": 68.2
+}

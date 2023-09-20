@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sus cortos brazos se expanden cuando da puñetazos.\nTiene una técnica pugilística muy depurada.",
+        "Esparce esporas venenosas muy nocivas y asesta\npuñetazos de gran intensidad a sus enemigos.",
+        "Breloom se acerca al enemigo realizando un juego de piernas\nágil y enérgico. Y, a continuación, le da unos puñetazos con\nlos brazos elásticos que tiene. Las técnicas de lucha que usa\ndejan en ridículo al boxeador más profesional.",
+        "Las semillas que Breloom tiene prendidas de la cola están\nformadas por sólidas esporas tóxicas. Comérselas puede\nresultar fatal. Hasta el más mínimo bocado puede hacerte\npolvo el estómago."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "name": "Breloom",
+    "types": [
+        "Planta",
+        "Lucha"
+    ],
+    "weight": 39.2
+}

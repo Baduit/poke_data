@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Dieses Pokémon trägt ein wunderschönes Fell.\nEs ist obendrein schnell und sehr wendig.",
+        "Sein bezauberndes Bellen klingt majestätisch. Jeder,\nder es vernimmt, muss sich automatisch verbeugen.",
+        "Arkani ist sehr schnell. Es kann an einem Tag fast 10 000 km\nzurücklegen. Das Feuer, das im Innern dieses Pokémon lodert,\ndient ihm als Energiequelle.",
+        "Arkani ist sehr schnell. Es kann an einem Tag fast 10 000 km\nzurücklegen. Das Feuer, das im Innern dieses Pokémon lodert,\ndient ihm als Energiequelle.",
+        "Ein anmutiges Pokémon, das Kraft und Stolz\nausstrahlt. Bereits in alten Legenden aus dem\nweit entfernten Osten wurde von ihm berichtet.",
+        "Mithilfe der Energie, die das in ihm lodernde\nFeuer erzeugt, eilt es über Berg und Tal. Viele\nLegenden ranken sich um dieses Pokémon.",
+        "Der Legende nach soll es vor langer Zeit an der\nSeite eines Kriegshelden gekämpft und so an\nder Eroberung eines Landes mitgewirkt haben.",
+        "Es ranken sich so viele Mythen um Arkani, dass\nes gemeinhin als legendär gilt. In Wirklichkeit \nkommt es jedoch sehr häufig vor.",
+        "Weit entfernt im Osten gilt Arkani als legendär.\nWenn es rennt, zieht es mit seinen leichtfüßigen\nBewegungen so manche in seinen Bann.",
+        "Weit entfernt im Osten gilt Arkani als legendär.\nWenn es rennt, zieht es mit seinen leichtfüßigen\nBewegungen so manche in seinen Bann.",
+        "Viele Trainer sind davon fasziniert, dass dieses\nPokémon innerhalb eines Tages 10 000 km\nzurücklegen kann.",
+        "Dieses Pokémon verzaubert die Menschen seit\nUrzeiten mit seiner Schönheit. Obendrein ist es\nschnell und sehr wendig."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "name": "Arkani",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 155.0
+}

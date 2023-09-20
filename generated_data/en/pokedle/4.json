@@ -1,0 +1,10 @@
+{
+    "color": "Red",
+    "generation": 1,
+    "height": 0.6,
+    "name": "Charmander",
+    "types": [
+        "Fire"
+    ],
+    "weight": 8.5
+}

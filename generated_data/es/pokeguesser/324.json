@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Trabaja sin descanso en minas en desuso localizando\ny extrayendo carbón.",
+        "Quema carbón en su caparazón para obtener energía.\nSi le atacan, echa un denso humo negro.",
+        "Torkoal va cavando por las montañas en busca de carbón.\nCuando lo encuentra, rellena los huecos que tiene dentro del\ncaparazón y lo quema. Si le atacan, este Pokémon echa un\nhumo negro que le permite la retirada.",
+        "Torkoal genera energía quemando carbón. A medida que se\nextingue el fuego, se va debilitando. Antes de entrar en\ncombate, quema más carbón de lo habitual.",
+        "La fuente de su energía es el carbón. Torkoal\nsuele vivir en montañas donde yacen grandes\ncantidades de esta roca mineral.",
+        "Si se extingue el fuego que arde en el interior de\nsu caparazón, puede perecer. Si se cría en casa,\nno hay día que no queme algo accidentalmente.",
+        "El humo que expulsa por el dorso es indicativo\nde su estado de salud. Si las fumarolas brotan\ncon fuerza, significa que está en plena forma.",
+        "Genera su energía quemando carbón y, una vez\nque lo ha consumido por completo, ya no puede\nmoverse.",
+        "Quema carbón en su caparazón para obtener\nenergía. Si se ve amenazado, despide un hollín\nnegro.",
+        "Se junta con numerosos congéneres para\nestablecer su morada en minas abandonadas,\ndonde se afanan en localizar y extraer carbón."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "name": "Torkoal",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 80.4
+}

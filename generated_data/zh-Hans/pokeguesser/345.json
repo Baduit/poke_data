@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "曾生活在古代温暖的海里。\n伪装成海草，埋伏着等待猎物，\n等对方靠近的时候一口吞下。",
+        "用强力的吸盘扒在岩石上，\n因此无论怎样的惊涛骇浪\n也不会被冲走。",
+        "从化石复原而来的宝可梦。\n曾经生活在大约１亿年\n以前温暖的大海里。",
+        "会吸附在海底岩石上，\n用花瓣一样的触手\n缠住接近自己的猎物。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+    "name": "触手百合",
+    "types": [
+        "岩石",
+        "草"
+    ],
+    "weight": 23.8
+}

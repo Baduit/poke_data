@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Ses membres palmés et son corps\nparfaitement adapté font de lui\nun nageur exceptionnel.",
+        "Ses membres palmés et son corps\nparfaitement adapté font de lui\nun nageur exceptionnel.",
+        "Il apparaît dans les étendues d’eau au crépuscule.\nSi son front brille, il se sert de sa télékinésie.",
+        "Ses pattes arrière palmées font de ce Pokémon\nun excellent nageur. On peut souvent le voir nager\nélégamment dans les lacs.",
+        "Les pattes avant et arrière palmées et le corps aérodynamique\nd’Akwakwak lui donnent une vitesse effrayante. Ce Pokémon\nest bien plus rapide que les plus grands champions de\nnatation.",
+        "Akwakwak est le Pokémon qui nage le plus vite.\nIl nage sans se fatiguer, même lorsque la mer est agitée.\nIl sauve parfois des gens coincés dans les navires bloqués\nen haute mer.",
+        "Certains prétendaient que tenir la gemme rouge\nde son front donnait des pouvoirs psychiques,\naussi a-t-il été braconné à certaines époques.",
+        "Il nage à travers les lacs pour attraper des\nPokémon poissons, puis il remonte sur la rive\npour les déguster tranquillement.",
+        "Même les Pokémon poissons les plus rapides\nne peuvent pas lui échapper. Il les capture\navec facilité en les immobilisant.",
+        "Ce professionnel de la natation dispose d’une\nlongue queue souple qui lui permet de nager\nsans interruption pendant deux jours.",
+        "Ses membres longs et fins se terminent par\ndes nageoires qui lui permettent de nager\nélégamment.",
+        "Ses membres longs et fins se terminent par\ndes nageoires qui lui permettent de nager\nélégamment.",
+        "Vivant dans les rivières au cours tranquille,\nil se sert de ses longs membres pour nager\navec élégance.",
+        "D’après de vieilles légendes, ce Pokémon\nentraînait au fond de l’eau tous ceux\nqui osaient souiller sa rivière."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "name": "Akwakwak",
+    "types": [
+        "Eau"
+    ],
+    "weight": 76.6
+}

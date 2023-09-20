@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 5,
+    "height": 0.8,
+    "name": "두까비",
+    "types": [
+        "물",
+        "땅"
+    ],
+    "weight": 17.0
+}

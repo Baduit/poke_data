@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Ein äußerst grausames Pokémon. Es greift jeden,\nder ihm unter die Augen kommt, mit seinen\nscharfen Reißzähnen an.",
+        "Hat es seine Beute erblickt, gibt es kein Entrinnen\nmehr. Sein mächtiger Kiefer knackt selbst Karosserien.",
+        "Ein äußerst grausames Pokémon. Es greift jeden, der ihm\nunter die Augen kommt, mit seinen scharfen Reißzähnen an.",
+        "Hat es seine Beute erblickt, gibt es kein Entrinnen mehr.\nSein mächtiger Kiefer knackt selbst Karosserien.",
+        "Seine Augen sind so außergewöhnlich, dass es\nsogar in einem Sandsturm kleinste Beute aus\n50 km Entfernung entdecken kann.",
+        "Wenn es mit seinem mächtigen Kiefer zubeißt,\nzerteilt es seine Beute mit einer Drehung seines\nKörpers.",
+        "Entdeckt es Beute in bis zu 50 km Entfernung,\nbewegt es sich schwimmend durch die Wüste,\nbis es hervorspringt und nach ihr schnappt.",
+        "Es legt sich inmitten eines Sandsturms, der von\nLibelldra entfacht wurde, auf die Lauer und\nwartet dort geduldig auf seine Beute.",
+        "Es wird auch als „Tyrann der Wüste“ bezeichnet.\nMit seinem mächtigen Kiefer durchbeißt es selbst\ndicke Eisenplatten mit Leichtigkeit.",
+        "Rabigator ist zwar aggressiv, doch wenn es bei\nder Jagd nach Beute auf der Lauer liegt, kann es\nauch mehrere Tage geduldig im Sand ausharren."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "name": "Rabigator",
+    "types": [
+        "Boden",
+        "Unlicht"
+    ],
+    "weight": 96.3
+}

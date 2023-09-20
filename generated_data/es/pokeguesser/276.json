@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es un Pokémon valiente que no teme a los rivales\nfuertes. Vuela en busca de climas templados.",
+        "No le gustan las bajas temperaturas. En las estaciones\nfrías se recorre casi 300 km al día en busca de zonas\ncálidas.",
+        "Taillow se mantiene firme ante sus rivales, sean lo fuertes que\nsean. Este valiente Pokémon seguirá mostrándose desafiante,\naunque pierda en combate. Además, si se enfada, se pondrá a\ngritar con energía.",
+        "Taillow es pequeño, está recién salido del nido. Por eso, se\nsiente solo con frecuencia y se pone a piar. Este Pokémon\nse alimenta de los Wurmple que hay por el bosque."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+    "name": "Taillow",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 2.3
+}

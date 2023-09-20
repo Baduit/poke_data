@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "擅长运用自己的脚来踢。\n用脚踩住已被打倒的对手，\n大笑着炫耀自己的胜利。",
+        "作为腿部优美的宝可梦为人所知，\n成为了美容沙龙等广告的吉祥物。",
+        "优美的脚踢招式的行家。\n就连搏击冠军也能用\n一招脚踢将对方击倒。",
+        "是具有攻击性的宝可梦，\n也是脚踢的高手。\n每次踢起对手时都会高声大笑。",
+        "让人畏惧的宝可梦。\n拥有苗条的双腿和残忍的心，\n会毫不留情地狠踩敌人。",
+        "用又尖又硬的脚尖施展脚踢，\n朝对手的身体和心灵\n留下无法磨灭的创伤。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "name": "甜冷美后",
+    "types": [
+        "草"
+    ],
+    "weight": 21.4
+}

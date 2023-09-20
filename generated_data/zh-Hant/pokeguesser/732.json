@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "把吃掉的樹果的種子儲藏在鳥嘴裡。\n遇到敵人或獵物時，\n就一口氣發射出去。",
+        "揚起鳥嘴，以各種聲音鳴叫。\n因為相當吵鬧，\n所以被周圍的居民們嫌棄。",
+        "只要噘起鳥嘴的前端，\n就能自在地發出\n１００種以上的叫聲。",
+        "會將吃掉的樹果種子從口中\n發射出去。散落在大地上的種子\n將孕育出新的草木。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "name": "喇叭啄鳥",
+    "types": [
+        "一般",
+        "飛行"
+    ],
+    "weight": 14.8
+}

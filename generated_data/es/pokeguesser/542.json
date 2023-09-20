@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Si se encuentra con un Pokémon joven, segrega por la\nboca hilos pegadizos con los que le teje una prenda\nde ropa.",
+        "Calienta sus huevos con el calor desprendido por el\nhumus. Hace mantillas con las hojas para Sewaddle.",
+        "Si se encuentra con un Pokémon joven, segrega por la boca\nhilos pegadizos con los que le teje una prenda de ropa.",
+        "Calienta sus huevos con el calor desprendido por el humus.\nHace mantillas con las hojas para Sewaddle."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+    "name": "Leavanny",
+    "types": [
+        "Bicho",
+        "Planta"
+    ],
+    "weight": 20.5
+}

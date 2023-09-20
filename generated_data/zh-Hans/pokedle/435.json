@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 4,
+    "height": 1.0,
+    "name": "坦克臭鼬",
+    "types": [
+        "毒",
+        "恶"
+    ],
+    "weight": 38.0
+}

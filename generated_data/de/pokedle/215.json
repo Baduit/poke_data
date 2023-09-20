@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 2,
+    "height": 0.9,
+    "name": "Sniebel",
+    "types": [
+        "Unlicht",
+        "Eis"
+    ],
+    "weight": 28.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 3,
+    "height": 1.9,
+    "name": "Camérupt",
+    "types": [
+        "Feu",
+        "Sol"
+    ],
+    "weight": 220.0
+}

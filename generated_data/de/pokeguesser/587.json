@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Lebt in den Wipfeln der Waldbäume. Während es\ndurch die Lüfte gleitet, entlädt es Strom aus seinen\nFluglappen.",
+        "Im Flug entlädt es Strom, den es mit seinen\nBackentaschen erzeugt und in seinen Fluglappen\ngespeichert hat.",
+        "Lebt in den Wipfeln der Waldbäume. Während es durch die\nLüfte gleitet, entlädt es Strom aus seinen Fluglappen.",
+        "Im Flug entlädt es Strom, den es mit seinen Backentaschen\nerzeugt und in seinen Fluglappen gespeichert hat.",
+        "Es gleitet mit seinen Fluglappen, die einem Cape\nähneln, durch die Luft. Es entlädt ständig Strom,\nder Freund und Feind Stromschläge verpasst.",
+        "Mit Strom röstet es Beeren und Käfer-Pokémon,\nbevor es sie frisst. Es lebt hauptsächlich in\nBaumhöhlen, die von Peppeck gemeißelt wurden.",
+        "Es speichert Strom, um damit durch die Lüfte\nzu segeln. Ein nächtliches Blitzgewitter stellt\nsich manchmal als ein Schwarm Emolga heraus.",
+        "Vogel-Pokémon halten sich von ihm fern, da es\nim Flug Strom entlädt. Frei von Konkurrenz kann\nes seine Beute so für sich allein beanspruchen.",
+        "Emolga fliegt anmutig durch die Lüfte und\nentlädt dabei Strom. Es ist zwar niedlich,\nkann aber auch für viel Ärger sorgen.",
+        "Emolga liebt süße Beeren. Manchmal hortet es\nso viel Futter in seinen Backentaschen, dass es\nnicht mehr richtig fliegen kann."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "name": "Emolga",
+    "types": [
+        "Elektro",
+        "Flug"
+    ],
+    "weight": 5.0
+}

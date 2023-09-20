@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Strawickl",
+    "types": [
+        "Käfer",
+        "Pflanze"
+    ],
+    "weight": 2.5
+}

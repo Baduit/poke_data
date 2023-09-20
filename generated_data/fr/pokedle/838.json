@@ -1,0 +1,11 @@
+{
+    "color": "Noir",
+    "generation": 8,
+    "height": 1.1,
+    "name": "Wagomine",
+    "types": [
+        "Roche",
+        "Feu"
+    ],
+    "weight": 78.0
+}

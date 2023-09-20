@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es un Pokémon muy peligroso por su fuerza\ndescomunal. Normalmente, se desaconseja\npenetrar en su hábitat.",
+        "Expresa su afecto abrazando a sus amigos,\naunque más de un Entrenador ha terminado con\nla espalda hecha polvo debido a esto.",
+        "Agita violentamente los brazos como amenaza.\nQuien presencie este gesto debe huir en el acto\nsi aprecia su vida.",
+        "Está orgulloso de su fuerza bruta. Son muchos\nlos que lo consideran el Pokémon más peligroso\nde Alola.",
+        "Expresa su afecto abrazando a quien considera\nsu amigo. Una costumbre peligrosa, ya que su\nfuerza puede romperle los huesos a cualquiera.",
+        "Después de abatir a su presa con movimientos\nque harían palidecer a un luchador profesional,\nla carga en brazos y se la lleva a su madriguera."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "name": "Bewear",
+    "types": [
+        "Normal",
+        "Lucha"
+    ],
+    "weight": 135.0
+}

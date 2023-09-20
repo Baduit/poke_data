@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es ernährt sich von Eiern, die es aus Nestern stiehlt.\nBeute greift es mit seinen scharfen Krallen an.",
+        "In seinen Pfoten stecken scharfe Krallen. Es fährt sie\nblitzschnell aus, um die Gegner zu überraschen.",
+        "Sniebel klettert an Bäumen hoch, indem es seine\nhakenförmigen Krallen in die Rinde schlägt. Dieses\nPokémon sucht nach unbewachten Nestern und\nstiehlt die Eier. Davon ernährt es sich.",
+        "Sniebel klettert an Bäumen hoch, indem es seine\nhakenförmigen Krallen in die Rinde schlägt. Dieses\nPokémon sucht nach unbewachten Nestern und\nstiehlt die Eier. Davon ernährt es sich.",
+        "Dieses Pokémon hat ein durchtriebenes,\ngrausames Wesen. Es sucht nach unbewachten\nNestern und stiehlt die Eier.",
+        "Es rammt seine Krallen in Eier und schlürft\nihren Inhalt aus. Pokémon-Züchter können es\naus diesem Grund nicht ausstehen.",
+        "Sie bilden ein Team, um gemeinsam Eier aus den\nNestern von Vogel-Pokémon zu klauen. Dann\nstreiten sie sich darüber, wer sie fressen darf.",
+        "Es lauert seiner Beute im Dunkeln auf. Wenn es\nSandan mit seinen Krallen angreift, brechen\ndiese manchmal an dessen robuster Haut ab.",
+        "In seinen Pfoten stecken scharfe Krallen. Es fährt\nsie blitzschnell aus, um Gegner zu überraschen.",
+        "Dieses durchtriebene und gewissenlose Pokémon\nbeobachtet Nester, bis die Eltern ausgeflogen\nsind, und stiehlt dann deren Eier."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "name": "Sniebel",
+    "types": [
+        "Unlicht",
+        "Eis"
+    ],
+    "weight": 28.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 3,
+    "height": 1.9,
+    "name": "Blaziken",
+    "types": [
+        "Fuego",
+        "Lucha"
+    ],
+    "weight": 52.0
+}

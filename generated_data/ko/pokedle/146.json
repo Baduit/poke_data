@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 1,
+    "height": 2.0,
+    "name": "파이어",
+    "types": [
+        "불꽃",
+        "비행"
+    ],
+    "weight": 60.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "不管遇到什麼都習慣先咬再說。\n據說如果咬起來味道不錯，\n牠就會牢牢記住那種氣味。",
+        "因為眼睛看不見，\n所以會又撞又咬，\n來判斷四周的狀況。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "name": "單首龍",
+    "types": [
+        "惡",
+        "龍"
+    ],
+    "weight": 17.3
+}

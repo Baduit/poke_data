@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 1,
+    "height": 1.0,
+    "name": "毛球",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 30.0
+}

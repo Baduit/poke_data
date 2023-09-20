@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il ne se sent à l’aise que dans un\nmilieu propre et repousse la\npoussière avec ses ailes.",
+        "Il ne se sent à l’aise que dans un\nmilieu propre et repousse la\npoussière avec ses ailes.",
+        "Son jeu préféré : se poser sur la tête des gens et\nse faire passer pour un joli chapeau.",
+        "Il toilette constamment ses ailes duveteuses. Il se\ndépêche de se laver à la moindre salissure pour que\nses ailes restent le plus blanc possible.",
+        "Tylton est doté d’ailes légères et duveteuses comme\ndes nuages cotonneux. Ce Pokémon n’est pas très sauvage.\nIl lui arrive d’atterrir sur la tête des gens et d’y rester,\ncomme un chapeau ouaté.",
+        "Tylton adore nettoyer. S’il repère quelque chose de sale,\nil l’essuie et le polit avec ses ailes cotonneuses. Lorsque\nses ailes se salissent, ce Pokémon trouve un cours d’eau\net se lave.",
+        "Ses ailes ressemblant à du coton contiennent de\nl’air, ce qui leur confère une texture duveteuse.\nElles nécessitent un entretien minutieux.",
+        "Ses ailes en forme de nuage le dissimulent\naux yeux des ennemis. On raconte qu’elles sont\ndevenues blanches après plusieurs générations."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "name": "Tylton",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 1.2
+}

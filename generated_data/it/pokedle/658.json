@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 6,
+    "height": 1.5,
+    "name": "Greninja",
+    "types": [
+        "Acqua",
+        "Buio"
+    ],
+    "weight": 40.0
+}

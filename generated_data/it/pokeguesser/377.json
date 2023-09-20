@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "È formato interamente da rocce. Se si staccano\nnella lotta, ne cerca altre per sostituirle.",
+        "I tipi di roccia che compongono il suo corpo possono\ntrovarsi in tutti gli strati geologici del mondo.",
+        "Molto tempo fa Regirock era stato imprigionato dagli esseri\numani. Se subisce danni in lotta, cerca nuove rocce adatte\nper riparare le rotture.",
+        "Il corpo di Regirock è formato interamente da pietre.\nDa un recente studio è emerso che ogni pietra proviene\nda un luogo diverso.",
+        "Le varie parti del suo corpo sono costituite da\nrocce. Nel caso in cui si sgretoli, può ricomporre\nil suo organismo con nuove pietre.",
+        "Il suo corpo roccioso è stato analizzato usando\nle più moderne tecnologie, ma non si è trovata\ntraccia di organi come cervello o cuore."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "name": "Regirock",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 230.0
+}

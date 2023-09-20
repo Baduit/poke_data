@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si affila le zanne in perenne crescita rosicchiando\ncose dure. Riesce a frantumare persino i muri.",
+        "Attraversa i fiumi con le zampe posteriori palmate.\nPerlustra vaste aree cercando cibo.",
+        "Le potenti zanne di Raticate crescono in continuazione.\nPer ridurne la crescita rode rocce e tronchi. Spesso si vedono\ni segni delle sue zanne anche sui muri delle case.",
+        "Le potenti zanne di Raticate crescono in continuazione.\nPer ridurne la crescita rode rocce e tronchi. Spesso si vedono\ni segni delle sue zanne anche sui muri delle case.",
+        "Abile nuotatore, attraversa fiumi e a volte\npersino il mare grazie alle minuscole membrane\ntra le dita delle zampe posteriori.",
+        "È molto più feroce di quanto non sembri.\nSe si allunga una mano verso di lui, potrebbe\nstaccarla con un morso.",
+        "Si dice che sia sfuggito ai nemici nuotando da\nun’isola all’altra grazie alle minuscole membrane\ntra le dita delle zampe posteriori.",
+        "Usa i baffi per mantenersi in equilibrio.\nSe qualcuno li sfiora, si arrabbia e morde anche\nquelli a cui è molto affezionato.",
+        "Dispone di zampe posteriori palmate che\ngli permettono di nuotare nei fiumi in cerca\ndi prede.",
+        "Dispone di zampe posteriori palmate che\ngli permettono di nuotare nei fiumi in cerca\ndi prede."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "name": "Raticate",
+    "types": [
+        "Normale"
+    ],
+    "weight": 18.5
+}

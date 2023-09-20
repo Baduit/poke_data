@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 7,
+    "height": 1.3,
+    "name": "Colossand",
+    "types": [
+        "Geist",
+        "Boden"
+    ],
+    "weight": 250.0
+}

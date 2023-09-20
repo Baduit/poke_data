@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Esconde algunos trucos bajo la manga: puede\ndisparar agua por los dedos o planear con las\nmembranas de su espalda.",
+        "Dispara chorros de agua por la punta de los\ndedos a 3 mach de velocidad. Con su membrana\nnictitante puede ver los puntos débiles del rival."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "name": "Inteleon",
+    "types": [
+        "Agua"
+    ],
+    "weight": 45.2
+}

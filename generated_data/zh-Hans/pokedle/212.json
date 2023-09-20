@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 2,
+    "height": 1.8,
+    "name": "巨钳螳螂",
+    "types": [
+        "虫",
+        "钢"
+    ],
+    "weight": 118.0
+}

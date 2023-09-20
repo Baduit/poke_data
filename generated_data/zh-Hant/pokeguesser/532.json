@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "喜歡幫忙做建築的工作。\n因為下雨而停工時，\n會亂揮木材大鬧一番。",
+        "如果搬運小匠可以搬起\n自己體重３倍左右的木材，\n就代表牠進化的日子要到了。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "name": "搬運小匠",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 12.5
+}

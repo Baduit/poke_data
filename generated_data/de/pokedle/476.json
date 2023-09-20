@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 4,
+    "height": 1.4,
+    "name": "Voluminas",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 340.0
+}

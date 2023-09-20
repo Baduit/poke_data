@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Déflaisan",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 29.0
+}

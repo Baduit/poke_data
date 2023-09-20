@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "クルマユの　住む　森は　草木が\nよく　育つ。クルマユが　落ち葉を\n栄養分に　変えているのだ。",
+        "葉っぱで　体を　包みこんで\n寒さを　防ぐ。手近な　落ち葉を\n食べながら　森を　移動する。",
+        "クルマユの　住む　森は　草木が\nよく　育つ。クルマユが　落ち葉を\n栄養分に　変えているのだ。",
+        "葉っぱで　体を　包みこんで\n寒さを　防ぐ。手近な　落ち葉を\n食べながら　森を　移動する。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+    "name": "クルマユ",
+    "types": [
+        "むし",
+        "くさ"
+    ],
+    "weight": 7.3
+}

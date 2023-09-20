@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "큰 나무를 뽑아서 빙빙 휘두른다.\n초목을 무성하게 만들어\n그 에너지를 흡수한다.",
+        "울라울라의 수호신으로 게으름뱅이다.\n초목을 조종해 적을 묶어서\n움직임을 멈추게 하고 뿔로 단번에 받는다.",
+        "수호신으로 불리지만\n적이라고 간주한 자는 철저하게\n때려 부수는 격렬함을 갖고 있다.",
+        "꼬리로 소리를 내어 위치를 알림으로써\n불필요한 싸움을 피한다. 초목을\n조종하는 울라울라의 수호신."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "name": "카푸브루루",
+    "types": [
+        "풀",
+        "페어리"
+    ],
+    "weight": 45.5
+}

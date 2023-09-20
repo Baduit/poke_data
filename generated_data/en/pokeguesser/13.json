@@ -1,0 +1,38 @@
+{
+    "descriptions": [
+        "Often found in\nforests, eating\nleaves.\fIt has a sharp\nvenomous stinger\non its head.",
+        "Often found in\nforests, eating\nleaves.\fIt has a sharp\nvenomous stinger\non its head.",
+        "Beware of the\nsharp stinger on\nits head. It\fhides in grass\nand bushes where\nit eats leaves.",
+        "Its poison stinger\nis very powerful.\nIts bright-colored\fbody is intended\nto warn off its\nenemies.",
+        "It attacks using a\ntwo-inch poison\nbarb on its head.\fIt can usually be\nfound under the\nleaves it eats.",
+        "The barb on top of\nits head secretes\na strong poison.\fIt uses this toxic\nbarb to protect\nitself.",
+        "WEEDLE has an extremely acute sense\nof smell.\nIt is capable of distinguishing its\ffavorite kinds of leaves from those it\ndislikes just by sniffing with its big\nred proboscis (nose).",
+        "WEEDLE has an extremely acute sense\nof smell.\nIt is capable of distinguishing its\ffavorite kinds of leaves from those it\ndislikes just by sniffing with its big\nred proboscis (nose).",
+        "A WEEDLE has an extremely acute sense\nof smell. It distinguishes its favorite\nkinds of leaves from those it dislikes by\nsniffing with its big red proboscis (nose).",
+        "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two\ninches on top of its head.",
+        "Often found in forests, eating leaves.\nIt has a sharp stinger on its head that\ninjects poison.",
+        "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head.",
+        "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head.",
+        "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head.",
+        "Its poison stinger is very powerful.\nIts bright-colored body is intended\nto warn off its enemies.",
+        "It attacks using a two-inch poison\nbarb on its head. It can usually be\nfound under the leaves it eats.",
+        "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head.",
+        "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head.",
+        "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head.",
+        "It eats its weight in leaves every\nday. It fends off attackers with\nthe needle on its head.",
+        "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head.",
+        "Its poison stinger is very powerful.\nIts bright-colored body is intended to\nwarn off its enemies.",
+        "Weedle has an extremely acute sense of smell. It is capable of\ndistinguishing its favorite kinds of leaves from those it dislikes\njust by sniffing with its big red proboscis (nose).",
+        "Weedle has an extremely acute sense of smell. It is capable\nof distinguishing its favorite kinds of leaves from those it\ndislikes just by sniffing with its big red proboscis (nose).",
+        "Beware of the sharp stinger on its head. It hides\nin grass and bushes where it eats leaves.",
+        "Beware of the sharp stinger on its head. It hides\nin grass and bushes where it eats leaves."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "name": "Weedle",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 3.2
+}

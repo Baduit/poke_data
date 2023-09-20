@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 6,
+    "height": 0.3,
+    "name": "Strassie",
+    "types": [
+        "Roche",
+        "Fée"
+    ],
+    "weight": 5.7
+}

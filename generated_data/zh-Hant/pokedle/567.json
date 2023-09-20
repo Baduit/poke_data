@@ -1,0 +1,11 @@
+{
+    "color": "黃色",
+    "generation": 5,
+    "height": 1.4,
+    "name": "始祖大鳥",
+    "types": [
+        "岩石",
+        "飛行"
+    ],
+    "weight": 32.0
+}

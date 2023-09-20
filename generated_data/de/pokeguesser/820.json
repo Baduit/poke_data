@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Es hortet in seinem Schweif Beeren. Versucht es,\nzu viele unterzubringen, fallen sie heraus. Da es\njedoch nicht allzu clever ist, bemerkt es das nicht.",
+        "Diesem Pokémon begegnet man häufig in Galar.\nEs ist sehr stolz auf seine Zähne, mit denen es\njede noch so harte Beerenschale knacken kann."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "name": "Schlaraffel",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

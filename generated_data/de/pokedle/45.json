@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 1,
+    "height": 1.2,
+    "name": "Giflor",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 18.6
+}

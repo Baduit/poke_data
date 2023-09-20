@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Archeops",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "weight": 32.0
+}

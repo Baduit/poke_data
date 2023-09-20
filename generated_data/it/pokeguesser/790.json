@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Resta completamente immobile, come se fosse\nmorto, ma al tatto si percepisce un lieve tepore.\nNell’antichità era chiamato “Bozzolo di stella”.",
+        "Nel nucleo nero all’interno del suo duro\nesoscheletro continua ad accumularsi qualcosa.\nSi dice che provenga da un altro mondo.",
+        "Un antico re di Alola gli diede il nome di\n“Bozzolo di stella” e costruì un altare\nper venerarlo.",
+        "Continua a crescere assorbendo la luce.\nIl suo esoscheletro dorato è incredibilmente\nduro.",
+        "Il suo esoscheletro è più duro di qualunque\ncosa che gli esseri umani conoscano.\nCresce assorbendo la luce delle stelle.",
+        "Aspira con forza il pulviscolo dell’atmosfera\ne produce alacremente l’energia necessaria\nalla propria evoluzione nel suo nucleo."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "name": "Cosmoem",
+    "types": [
+        "Psico"
+    ],
+    "weight": 999.9
+}

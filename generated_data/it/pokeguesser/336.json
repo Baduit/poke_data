@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Respinge gli attacchi dell’agile Zangoose con la\ncoda affilatissima, che secerne un micidiale veleno.",
+        "Affila di continuo la lama della sua coda sulle rocce\nper renderla taglientissima. È un acerrimo nemico di\nZangoose.",
+        "Da generazioni Seviper è in lotta contro Zangoose,\nsuo nemico dichiarato. Le cicatrici sul suo corpo sono prove\ndi scontri efferati. Questo Pokémon attacca usando la coda\na forma di spada.",
+        "La coda a forma di spada di Seviper ha una duplice funzione:\nlacera il nemico e gli inietta un potente veleno.\nIl Pokémon non dimentica mai le lotte con il suo secolare\nnemico, Zangoose."
+    ],
+    "height": 2.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "name": "Seviper",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 52.5
+}

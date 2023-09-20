@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Grazie alle nubi di pioggia che ha con sé lancia\nfulmini a volontà. Pare che sia arrivato con un lampo.",
+        "Pokémon violento che accumula energia nel corpo\ne poi corre all’impazzata, scaricando elettricità.",
+        "Raikou rappresenta la velocità del fulmine. Il suo ruggito crea\nterrificanti onde d’urto nell’aria e scuote il suolo come se\nfosse percosso dalla furia di un fulmine durante il temporale.",
+        "Raikou rappresenta la velocità del fulmine. Il suo ruggito crea\nterrificanti onde d’urto nell’aria e scuote il suolo come se\nfosse percosso dalla furia di un fulmine durante il temporale."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "name": "Raikou",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 178.0
+}

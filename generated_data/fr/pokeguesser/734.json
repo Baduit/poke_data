@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Avec ses crocs acérés, il ne peut s’empêcher\nde mordre tout ce qui bouge. Il fut introduit à\nAlola il y a longtemps, depuis une autre région.",
+        "Il furète du matin au soir en quête de nourriture.\nLa nuit, exténué, il tombe comme une brique\net s’endort sur place.",
+        "Son estomac occupe la plus grande partie de\nson long corps. Le Dresseur de ce gros mangeur\ndoit prévoir un budget nourriture conséquent.",
+        "Il mange de tout, mais aime particulièrement\nles proies fraîches, voire encore vives. Il erre\nsur les routes à leur recherche."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "name": "Manglouton",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

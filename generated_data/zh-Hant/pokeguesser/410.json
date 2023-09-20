@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "大量的化石被發現，\n但幾乎所有化石\n臉的部位都沒有任何損傷或缺失。",
+        "多虧那張結實的臉，\n牠的敵人應該不多。\n棲息在太古時代的叢林裡。",
+        "草食性的溫馴寶可夢。\n會用結實的臉部皮膚挖掘地面，\n連樹根之類的東西也會吃。",
+        "雖然在遠古時代的地層中\n發現了牠的化石，但至今未曾\n發現臉部以外的部分。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "name": "盾甲龍",
+    "types": [
+        "岩石",
+        "鋼"
+    ],
+    "weight": 57.0
+}

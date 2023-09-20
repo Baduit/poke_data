@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Peppeck",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 1.2
+}

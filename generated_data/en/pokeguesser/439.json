@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "It habitually mimics foes. Once\nmimicked, the foe cannot take its\neyes off this Pokémon.",
+        "It likes places where people\ngather. It mimics foes to confuse\nthem, then makes its getaway.",
+        "It mimics the expressions and\nmotions of those it sees to\nunderstand the feelings of others.",
+        "In an attempt to confuse its enemy,\nit mimics the enemy’s movements. Then\nit wastes no time in making itself scarce!",
+        "In an attempt to confuse its enemy,\nit mimics the enemy’s movements. Then\nit wastes no time in making itself scarce!",
+        "It mimics the expressions and\nmotions of those it sees to\nunderstand the feelings of others.",
+        "It mimics the expressions and\nmotions of those it sees to\nunderstand the feelings of others.",
+        "It mimics the expressions and\nmotions of those it sees to\nunderstand the feelings of others.",
+        "It mimics the expressions and\nmotions of those it sees to\nunderstand the feelings of others.",
+        "In an attempt to confuse its enemy, it mimics the\nenemy’s movements. Then it wastes no time in\nmaking itself scarce!",
+        "It habitually mimics foes. Once mimicked, the foe\ncannot take its eyes off this Pokémon.",
+        "In an attempt to confuse its enemy, it mimics the\nenemy’s movements. Then it wastes no time in\nmaking itself scarce!",
+        "It habitually mimics foes. Once mimicked, the foe\ncannot take its eyes off this Pokémon.",
+        "It does its absolute best to mimic the\nmovements and expressions of its opponents,\nbut it’s still not very good at it.",
+        "When this gifted mimic surprises an opponent,\nMime Jr. feels so happy that it ends up\nforgetting it was imitating something.",
+        "It mimics everyone it sees, but it puts extra\neffort into copying the graceful dance steps\nof Mr. Rime as practice.",
+        "It looks for a Mr. Rime that’s a good dancer\nand carefully copies the Mr. Rime’s steps\nlike an apprentice.",
+        "Known to turn up in bustling marketplaces now and again.\nIt mimics people much as a child would, then watches how they\nreact, eyes sparkling."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+    "name": "Mime Jr.",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "weight": 13.0
+}

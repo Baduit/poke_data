@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es heißt, es habe Jahrtausende lang im ewigen Eis\ngeschlummert. Selbst Magma schmilzt es nicht.",
+        "Sein Körper besteht aus Eis aus der Eiszeit.\nEs kontrolliert gefrorene Luft, die -200 °C kalt ist.",
+        "Regices tiefgefrorener Körper entstand während der Eiszeit.\nEs kann nicht einmal durch Feuer geschmolzen werden.\nDieses Pokémon kontrolliert eisige Luft von -200 °C.",
+        "Regice umhüllt sich selbst mit kalter Luft von -200 °C.\nAlles und jeder, der sich diesem Pokémon nähert, friert\nsofort ein. Sein eisiger Körper ist so kalt, dass nicht einmal\nMagma es schmelzen könnte.",
+        "Regice kontrolliert bis zu -200 ºC kalte Luft,\nmit der es alles und jeden in seiner Nähe im\nHandumdrehen gefrieren lässt.",
+        "Sein gesamter Körper besteht aus Eis. Man sagt,\nes wurde während der Eiszeit unter einer dicken\nEisschicht geboren."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "name": "Regice",
+    "types": [
+        "Eis"
+    ],
+    "weight": 175.0
+}

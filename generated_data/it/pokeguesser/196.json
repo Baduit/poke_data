@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Mentre predice la prossima mossa del nemico,\nla coda biforcuta gli inizia a tremare.",
+        "Grazie al pelo sensibile, percepisce pure gli\nspostamenti d’aria. Sa leggere nel pensiero e\nprevedere il tempo.",
+        "Espeon è estremamente leale nei confronti di qualsiasi\nAllenatore considerato all’altezza. Si dice che questo\nPokémon abbia sviluppato capacità precognitive per\nproteggere il proprio Allenatore.",
+        "Espeon è estremamente leale nei confronti di qualsiasi\nAllenatore considerato all’altezza. Si dice che questo\nPokémon abbia sviluppato capacità precognitive per\nproteggere il proprio Allenatore.",
+        "Riesce a prevedere in un istante le mosse\ndei nemici analizzando le correnti d’aria\ngrazie al suo pelo corto e fine.",
+        "Lotta emettendo poteri psichici dalla sfera\nche ha sulla fronte, che diventa più scura\nman mano che le sue energie diminuiscono.",
+        "Inizialmente non aveva particolari abilità,\nma in seguito ha sviluppato delle capacità\npremonitrici per difendersi.",
+        "Accumula poteri psichici esponendo alla luce\nsolare la sfera che ha sulla fronte.\nLe lotte notturne non sono il suo forte.",
+        "Analizza le correnti d’aria per predire le\ncondizioni atmosferiche o la prossima\nmossa del nemico.",
+        "Lotta emettendo poteri psichici dalla sfera\nche ha sulla fronte, che diventa più scura\nman mano che le sue energie diminuiscono."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "name": "Espeon",
+    "types": [
+        "Psico"
+    ],
+    "weight": 26.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "じょうしきの　つうようしない\nこのよの　うらがわにあると　いわれる\nやぶれたせかいに　せいそくする。",
+        "あばれもの　ゆえ　おいだされたが\nやぶれたせかいと　いわれる　ばしょで\nしずかに　もとのせかいを　みていた。",
+        "じょうしきの　つうようしない\nこのよの　うらがわにあると　いわれる\nやぶれたせかいに　せいそくする。",
+        "あばれもの　ゆえ　おいだされたが\nやぶれたせかいと　いわれる　ばしょで\nしずかに　もとのせかいを　みていた。"
+    ],
+    "height": 4.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "name": "ギラティナ",
+    "types": [
+        "ゴースト",
+        "ドラゴン"
+    ],
+    "weight": 750.0
+}

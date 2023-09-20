@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Magnéti",
+    "types": [
+        "Électrik",
+        "Acier"
+    ],
+    "weight": 6.0
+}

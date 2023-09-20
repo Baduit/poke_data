@@ -1,0 +1,11 @@
+{
+    "color": "Pink",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Hoppip",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "weight": 0.5
+}

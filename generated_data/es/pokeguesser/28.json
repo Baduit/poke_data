@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Si cava a gran velocidad, puede que se le caigan las\ngarras y púas. Vuelven a crecerle en un día.",
+        "Ante el peligro, se acurruca en un espinoso ovillo.\nDe esta forma puede rodar para atacar o escapar.",
+        "Sandslash está recubierto de duras púas que son partes\nendurecidas de la piel. Suele mudarlas una vez al año; debajo\nde las viejas púas crecen unas nuevas que las sustituyen.",
+        "Sandslash puede enroscarse y convertirse en una bola de\nlargas púas. En combate, este Pokémon hace retroceder a\nsus rivales clavándoselas. Acto seguido, aprovecha para\necharse sobre ellos y atacarlos con sus afiladas garras.",
+        "No suele inquietarse por el hecho de que sus\nafiladas garras y púas se rompan con facilidad,\nya que estas vuelven a crecer al día siguiente.",
+        "Trepa a los árboles con sus garras. Cuando\navista una presa, se convierte en una bola de\npúas y se deja caer sobre ella.",
+        "Sus garras y púas se caen con frecuencia y\npueden recogerse para elaborar aperos de\nlabranza.",
+        "Sus gruesas garras le permiten escalar árboles\ncon gran agilidad. De hecho, no es extraño ver\nejemplares durmiendo entre el follaje.",
+        "Utiliza hábilmente las garras en combate, por\nlo que suelen rompérsele. Aun así, solo tardan\nun día en volverle a crecer.",
+        "Utiliza hábilmente las garras en combate, por\nlo que suelen rompérsele. Aun así, solo tardan\nun día en volverle a crecer.",
+        "Cuanto más seco es el terreno en el que habita,\nmás duras y lisas se vuelven las púas que le\nrecubren la espalda.",
+        "Trepa a los árboles con sus afiladas garras y deja\ncaer bayas para los Sandshrew que esperan\ndebajo."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "name": "Sandslash",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 29.5
+}

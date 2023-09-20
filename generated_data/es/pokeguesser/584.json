@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si sus dos cabezas se irritan al mismo tiempo, genera\nuna ventisca desde su cuerno cubriendo su entorno\ncon nieve.",
+        "Absorben grandes cantidades de agua y la\ntransforman en ventisca en su cuerpo, expulsándola\ncuando se enojan.",
+        "Si sus dos cabezas se irritan al mismo tiempo, genera una\nventisca desde su cuerno cubriendo su entorno con nieve.",
+        "Absorben grandes cantidades de agua y la transforman en\nventisca en su cuerpo, expulsándola cuando se enojan.",
+        "Las dos cabezas tienen su propio cerebro.\nCuando se ponen de acuerdo, generan una\nventisca con la que atacan a su enemigo.",
+        "Pueden sobrevivir sin grandes problemas aun\nperdiendo una de las cabezas. Crean ventiscas\nen el interior de su cuerpo.",
+        "Expulsa ventiscas por ambas bocas y, como\npuede crear nieve en cualquier lugar, es famoso\nentre quienes practican esquí o snowboard.",
+        "Su nacimiento se produce cuando dos Vanillish\nse derriten por la mañana, se mezclan y, durante\nla gélida noche, se congelan juntos.",
+        "Cuando su rabia alcanza el punto máximo,\ngenera una ventisca que congela tanto a amigos\ncomo a enemigos.",
+        "Su temperatura corporal ronda los -6 °C. Se dice\nque nace de la fusión de dos Vanillish."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "name": "Vanilluxe",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 57.5
+}

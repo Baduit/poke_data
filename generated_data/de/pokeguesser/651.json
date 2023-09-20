@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Der Panzer, der seinen Körper umgibt, bietet ihm\nSchutz vor Angreifern und straft direkte Angriffe\npostwendend mit spitzen Stacheln ab.",
+        "Sie stärken ihre Beinmuskeln, indem sie sich\ngegenseitig anrempeln. Sie sind sehr freundlich\nund würden niemals einen Streit anfangen.",
+        "Der Panzer, der seinen Körper umgibt, bietet ihm Schutz vor\nAngreifern und straft direkte Angriffe postwendend mit spitzen\nStacheln ab.",
+        "Sie stärken ihre Beinmuskeln, indem sie sich gegenseitig\nanrempeln. Sie sind sehr freundlich und würden niemals\neinen Streit anfangen."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "name": "Igastarnish",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 29.0
+}

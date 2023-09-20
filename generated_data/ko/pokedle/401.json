@@ -1,0 +1,10 @@
+{
+    "color": "빨강",
+    "generation": 4,
+    "height": 0.3,
+    "name": "귀뚤뚜기",
+    "types": [
+        "벌레"
+    ],
+    "weight": 2.2
+}

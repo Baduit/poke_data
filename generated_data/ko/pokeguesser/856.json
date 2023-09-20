@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "머리의 돌기로 생물의\n기분을 감지한다. 온화한\n자에게만 마음을 연다.",
+        "인적이 드문 곳을 좋아한다.\n강한 감정이 느껴지면\n쏜살같이 도망쳐버린다."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "name": "몸지브림",
+    "types": [
+        "에스퍼"
+    ],
+    "weight": 3.4
+}

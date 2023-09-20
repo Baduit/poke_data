@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Lucario",
+    "types": [
+        "Lucha",
+        "Acero"
+    ],
+    "weight": 54.0
+}

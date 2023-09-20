@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Poiché le sue ali non sono ancora ben sviluppate,\ndeve saltellare. Sembra fissare sempre qualcosa.",
+        "Di solito cerca il cibo per terra, ma in rare occasioni\npuò saltare sui rami e beccare i germogli.",
+        "Natu non riesce a volare a causa delle ali non ancora\ntotalmente sviluppate. Se lo si guarda negli occhi,\nricambia lo sguardo, ma al primo movimento scappa via\nper mettersi al sicuro.",
+        "Natu ha una spiccata attitudine al salto. È in grado di\nraggiungere con un balzo rami più alti di un adulto,\ne si ciba dei germogli di cui va ghiotto.",
+        "Non sa ancora volare, ma spiccando salti\neccezionali riesce a raggiungere anche i rami\npiù alti per cibarsi dei germogli che vi crescono.",
+        "Sembra osservare ciò che lo circonda con\nsguardo inquisitore. Se si accenna appena ad\navvicinarsi, scappa via saltellando.",
+        "È molto bravo ad arrampicarsi sui tronchi degli\nalberi per mangiare i germogli appena spuntati.",
+        "Poiché le sue ali non sono ancora ben sviluppate,\nè costretto ad andarsene in giro saltellando.\nSembra sempre intento a fissare qualcosa."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "name": "Natu",
+    "types": [
+        "Psico",
+        "Volante"
+    ],
+    "weight": 2.0
+}

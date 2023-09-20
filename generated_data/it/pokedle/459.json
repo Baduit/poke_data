@@ -1,0 +1,11 @@
+{
+    "color": "Bianco",
+    "generation": 4,
+    "height": 1.0,
+    "name": "Snover",
+    "types": [
+        "Erba",
+        "Ghiaccio"
+    ],
+    "weight": 50.5
+}

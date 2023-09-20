@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "BRELOOM closes in on its foe with light\nand sprightly footwork, then throws\npunches with its stretchy arms.\fThis POKéMON’s fighting technique puts\nboxers to shame.",
+        "The seeds ringing BRELOOM’s tail are\nmade of hardened toxic spores. It is\nhorrible to eat the seeds.\fJust taking a bite of this POKéMON’s\nseed will cause your stomach to rumble.",
+        "It scatters spores from holes in the cap\non its head. It loves warm and humid\nclimates. It feeds on trees and plants in\nfields and forests.",
+        "The seeds on its tail are made of toxic\nspores. It knocks out foes with quick,\nvirtually invisible punches.",
+        "The seeds on its tail are made of toxic\nspores. It knocks out foes with quick,\nvirtually invisible punches.",
+        "Its short arms stretch when it\nthrows punches. Its technique is\nequal to that of pro boxers.",
+        "Its short arms stretch when it\nthrows punches. Its technique is\nequal to that of pro boxers.",
+        "Its short arms stretch when it\nthrows punches. Its technique is\nequal to that of pro boxers.",
+        "It scatters poisonous spores and\nthrows powerful punches while its\nfoe is hampered by inhaled spores.",
+        "It scatters poisonous spores and\nthrows powerful punches while its\nfoe is hampered by inhaled spores.",
+        "Its short arms stretch when it\nthrows punches. Its technique is\nequal to that of pro boxers.",
+        "Its short arms stretch when it\nthrows punches. Its technique is\nequal to that of pro boxers.",
+        "Its short arms stretch when it\nthrows punches. Its technique is\nequal to that of pro boxers.",
+        "Its short arms stretch when it\nthrows punches. Its technique is\nequal to that of pro boxers.",
+        "Its short arms stretch when it throws punches. Its\ntechnique is equal to that of pro boxers.",
+        "It scatters poisonous spores and throws powerful\npunches while its foe is hampered by\ninhaled spores.",
+        "Breloom closes in on its foe with light and sprightly footwork,\nthen throws punches with its stretchy arms. This Pokémon’s\nfighting technique puts boxers to shame.",
+        "The seeds ringing Breloom’s tail are made of hardened toxic\nspores. It is horrible to eat the seeds. Just taking a bite of this\nPokémon’s seed will cause your stomach to rumble."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "name": "Breloom",
+    "types": [
+        "Grass",
+        "Fighting"
+    ],
+    "weight": 39.2
+}

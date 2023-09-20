@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es kann die Stimmung seines Trainers an der kleinsten\nVeränderung dessen Griffes um seine Hörner ablesen\nund galoppiert sofort los, wenn dieser es wünscht.",
+        "Sie leben im Gebirge. Der Herdenanführer wird durch\nein Kräftemessen gewählt, bei dem die Anwärter ihre\nHörner gegeneinander rammen.",
+        "Es kann die Stimmung seines Trainers an der kleinsten\nVeränderung dessen Griffes um seine Hörner ablesen\nund galoppiert sofort los, wenn dieser es wünscht.",
+        "Sie leben im Gebirge. Der Herdenanführer wird durch ein\nKräftemessen gewählt, bei dem die Anwärter ihre Hörner\ngegeneinander rammen."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "name": "Chevrumm",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 91.0
+}

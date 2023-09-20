@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Erano un tempo spettri che riposavano in antiche\ntombe. Conservano la memoria della loro vita mortale.",
+        "La maschera che indossa è il volto che aveva quando\nera un umano. A volte si mette a piangere mentre\nla guarda.",
+        "Erano un tempo spettri che riposavano in antiche tombe.\nConservano la memoria della loro vita mortale.",
+        "La maschera che indossa è il volto che aveva quando era un\numano. A volte si mette a piangere mentre la guarda.",
+        "Si aggira tra i ruderi ogni notte. Si dice che\nla maschera che indossa sia il volto che\naveva quando era umano.",
+        "Spirito di un uomo dell’antichità divenuto\nPokémon. Vaga tra le rovine in cerca di qualcuno\nche riconosca il suo volto."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png",
+    "name": "Yamask",
+    "types": [
+        "Spettro"
+    ],
+    "weight": 1.5
+}

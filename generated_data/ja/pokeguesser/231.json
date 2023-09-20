@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "愛情表現で　鼻を　ぶつけてくるが\n力が　あるので\n気をつけないと　吹っ飛ばされる。",
+        "体は　小さいが　力持ち。\n大人の　人を　軽々と\n背中に　乗せて　歩いてしまう。",
+        "川の　畔に　縦穴を　掘って　暮らす。\nすみかの　近くに　鼻の　印を　つけて\n自分の　場所だと　仲間に　教えているよ。",
+        "長い　鼻を　使って　水浴びを　する。\n仲間が　集まってくると　水を　掛け合う。\nずぶぬれの　体を　水辺で　乾かすよ。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "name": "ゴマゾウ",
+    "types": [
+        "じめん"
+    ],
+    "weight": 33.5
+}

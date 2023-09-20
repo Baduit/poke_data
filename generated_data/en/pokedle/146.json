@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Moltres",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "weight": 60.0
+}

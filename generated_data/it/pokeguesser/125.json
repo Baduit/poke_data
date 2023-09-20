@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "La corrente elettrica attraversa la superficie del\nsuo corpo che al buio riluce di un blu perlato.",
+        "Ama nutrirsi di elettricità ad alta tensione. È possibile\ntrovarlo vicino a grandi centrali elettriche.",
+        "All’arrivo di un temporale questi Pokémon si raggruppano\ne a gara scalano le vette più alte sperando di riuscire\na prendere qualche fulmine. Alcune città usano\ngli Electabuzz al posto dei parafulmini.",
+        "All’arrivo di un temporale questi Pokémon si raggruppano\ne a gara scalano le vette più alte sperando di riuscire\na prendere qualche fulmine. Alcune città usano\ngli Electabuzz al posto dei parafulmini.",
+        "Una buona metà dei blackout improvvisi sono\ncausati da Electabuzz che si riversano nelle\ncentrali per nutrirsi di elettricità.",
+        "La quantità di elettricità che libera dal suo\ncorpo è nettamente superiore a quella che\nassorbe come nutrimento.",
+        "Tutto il suo corpo è pervaso di elettricità.\nFa roteare vorticosamente le braccia prima di\nsferrare un pugno per caricarlo il più possibile.",
+        "Spesso gli si dà la colpa dei blackout, ma in\nrealtà in genere le vere responsabili sono le\ncompagnie elettriche.",
+        "Quando si verifica un grosso blackout,\nsignifica che questo Pokémon si è intrufolato\nin una centrale per cibarsi di elettricità.",
+        "Quando si verifica un grosso blackout,\nsignifica che questo Pokémon si è intrufolato\nin una centrale per cibarsi di elettricità.",
+        "Molte centrali elettriche utilizzano Pokémon\ndi tipo Terra per difendersi dagli Electabuzz\na caccia di elettricità.",
+        "All’arrivo di un temporale questi Pokémon si\nraggruppano intorno agli alberi alti, aspettando\nimmobili che cada un fulmine."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "name": "Electabuzz",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 3,
+    "height": 1.5,
+    "name": "아말도",
+    "types": [
+        "바위",
+        "벌레"
+    ],
+    "weight": 68.2
+}

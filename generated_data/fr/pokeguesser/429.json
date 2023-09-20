@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Pareil à une incantation magique,\nson cri n’est que très rarement\nsource de joie.",
+        "Pareil à une incantation magique,\nson cri n’est que très rarement\nsource de joie.",
+        "Il psalmodie des incantations. Ce sont souvent\ndes malédictions, mais certaines apportent la joie.",
+        "Un Pokémon insaisissable qui tourmente ses ennemis\navec son cri semblable à une incantation.",
+        "Il psalmodie des incantations. Ce sont souvent\ndes malédictions, mais certaines apportent la joie.",
+        "Un Pokémon insaisissable qui tourmente ses ennemis avec\nson cri semblable à une incantation.",
+        "Un Pokémon aux pouvoirs terrifiants : il sort de\nnulle part en maugréant des incantations et en\nlançant des malédictions.",
+        "Comme Magirêve aurait le pouvoir de réaliser\nles souhaits des amoureux, certaines personnes\nse lancent désespérément à sa poursuite.",
+        "Redouté pour ses sortilèges et ses malédictions,\nce Pokémon peut néanmoins faire preuve de\nbienveillance, si l’envie lui en prend.",
+        "Il susurre des malédictions pour tourmenter\nses ennemis et leur infliger de terribles\nmigraines ou des hallucinations terrifiantes."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "name": "Magirêve",
+    "types": [
+        "Spectre"
+    ],
+    "weight": 4.4
+}

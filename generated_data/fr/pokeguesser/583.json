@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Un Pokémon qui vit dans les montagnes\nenneigées. Il a émigré au sud durant\nl’ère glaciaire, il y a bien longtemps.",
+        "Il se cache de ses ennemis en\némettant une myriade de petites\nparticules de glace.",
+        "Il pétrifie ses ennemis en refroidissant l’air ambiant\net en le changeant en une myriade de petites\nparticules de glace.",
+        "Un Pokémon qui vit dans les montagnes enneigées.\nIl a émigré au sud durant l’ère glaciaire, il y a bien\nlongtemps.",
+        "Il pétrifie ses ennemis en refroidissant l’air ambiant et en le\nchangeant en une myriade de petites particules de glace.",
+        "Un Pokémon qui vit dans les montagnes enneigées.\nIl a émigré au sud durant l’ère glaciaire, il y a bien\nlongtemps.",
+        "Son corps fond les jours de canicule. Il suffit\nheureusement de le congeler pour qu’il reprenne\nforme, mais il restera un tantinet flagada.",
+        "Déjà présent à l’ère glaciaire, ce Pokémon peut\ncontrôler les particules de glace pour geler ses\nennemis, qu’il éclate ensuite d’un coup de boule.",
+        "Il souffle des particules de glace pour geler\nses ennemis. Les Sorboul d’Alola sont plus\npetits que la moyenne.",
+        "Ce robuste Pokémon a survécu à l’ère glaciaire.\nIl est extrêmement populaire dans les régions\nchaudes.",
+        "Il boit de l’eau pure pour gonfler son corps\nde glace. On le voit rarement les jours ensoleillés.",
+        "Bien qu’il gèle ses ennemis en soufflant de l’air\nà - 100 °C, sa gentillesse l’empêche de leur ôter\nla vie."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "name": "Sorboul",
+    "types": [
+        "Glace"
+    ],
+    "weight": 41.0
+}

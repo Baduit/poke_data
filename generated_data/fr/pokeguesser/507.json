@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Les poils qui entourent son corps\ncomme un manteau sont extrêmement\ndurs et amortissent les coups.",
+        "Il obéit fidèlement aux consignes.\nIl assiste les Dresseurs depuis\ntrès longtemps.",
+        "Un Pokémon très loyal qui aide aussi bien les\nDresseurs que les autres Pokémon qu’il rencontre.",
+        "Les poils qui entourent son corps comme un manteau\nsont extrêmement durs et amortissent les coups.",
+        "Un Pokémon très loyal qui aide aussi bien les Dresseurs\nque les autres Pokémon qu’il rencontre.",
+        "Les poils qui entourent son corps comme un manteau sont\nextrêmement durs et amortissent les coups.",
+        "Son poil long et très dur, pousse à une vitesse\nahurissante, et son toilettage coûte un bras.\nUne plaie à élever.",
+        "Il est entièrement dévoué aux ordres de\nson maître. En revanche, il n’obéira jamais à\nquelqu’un qu’il considère comme inférieur à lui.",
+        "Son pelage sombre devient si robuste au fil\ndu temps que même des crocs ou des griffes\npeinent à passer au travers.",
+        "Cela fait si longtemps que ce Pokémon vit\nen harmonie avec les humains qu’il apparaît\nmême sur des peintures rupestres antiques.",
+        "Ce Pokémon est très intelligent et affectueux.\nUne théorie avance qu’il aurait été le premier\nà devenir le partenaire d’un être humain.",
+        "Les poils sombres qui recouvrent son dos sont\nsi épais et si souples qu’ils peuvent même\nrepousser des crocs acérés."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "name": "Ponchien",
+    "types": [
+        "Normal"
+    ],
+    "weight": 14.7
+}

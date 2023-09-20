@@ -1,0 +1,11 @@
+{
+    "color": "黄色",
+    "generation": 1,
+    "height": 0.6,
+    "name": "コクーン",
+    "types": [
+        "むし",
+        "どく"
+    ],
+    "weight": 10.0
+}

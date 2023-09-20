@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Seine Krallen geben Elektrizität ab, die stark\ngenug ist, jemanden bewusstlos zu machen.",
+        "Durch die Spitzen seiner scharfen Krallen strömt\nElektrizität. Selbst kleine Kratzer verursachen\nOhnmacht.",
+        "Seine Krallen geben Elektrizität ab, die stark genug ist,\njemanden bewusstlos zu machen.",
+        "Durch die Spitzen seiner scharfen Krallen strömt Elektrizität.\nSelbst kleine Kratzer verursachen Ohnmacht.",
+        "Verbindet es seinen Schweif mit dem eines\nArtgenossen, absorbiert es einen Teil von dessen\nElektrizität und teilt stärkere Stromschläge aus.",
+        "Sieht es Gegner, macht es sich kampfbereit,\nindem es die Krallen an den Pfoten ausfährt,\nwelche eine Million Volt austeilen können."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "name": "Luxio",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 30.5
+}

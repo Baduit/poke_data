@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 4,
+    "height": 2.2,
+    "name": "Torterra",
+    "types": [
+        "Grass",
+        "Ground"
+    ],
+    "weight": 310.0
+}

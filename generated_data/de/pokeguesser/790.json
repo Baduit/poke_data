@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es ist völlig reglos, als wäre es tot. Berührt man\nes, fühlt es sich jedoch leicht warm an. Vor\nlanger Zeit wurde es „Sternenkokon“ genannt.",
+        "Unter seiner harten Schale häuft sich\nunaufhörlich etwas in seinem schwarzen Kern\nan. Es soll aus einer anderen Welt stammen.",
+        "Ein vor Urzeiten über Alola herrschender König\nnannte es „Sternenkokon“ und erbaute ihm zu\nEhren ein Podium.",
+        "Es nimmt Licht in sich auf und wächst so immer\nweiter. Seine goldene Schale ist überraschend\nhart.",
+        "Es wird von einer Schale umhüllt, deren Härte\nMenschen vor ein Rätsel stellt. Es wächst, indem\nes in Sternenlicht badet.",
+        "Es zieht mit unglaublicher Wucht Staub aus der\nLuft und produziert damit in seinem Kern fleißig\nEnergie für seine Entwicklung."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "name": "Cosmovum",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 999.9
+}

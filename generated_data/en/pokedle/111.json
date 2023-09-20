@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Rhyhorn",
+    "types": [
+        "Ground",
+        "Rock"
+    ],
+    "weight": 115.0
+}

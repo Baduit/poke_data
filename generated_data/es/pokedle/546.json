@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Cottonee",
+    "types": [
+        "Planta",
+        "Hada"
+    ],
+    "weight": 0.6
+}

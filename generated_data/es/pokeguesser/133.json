@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Un extraño Pokémon que se adapta a los entornos\nmás hostiles gracias a sus diferentes evoluciones.",
+        "Su irregular estructura genética encierra el secreto de\nsu capacidad para adoptar evoluciones de lo más\ndiversas.",
+        "La configuración genética de Eevee le permite mutar y\nadaptarse enseguida a cualquier medio en el que viva.\nLa evolución de este Pokémon suele ser posible gracias a\nlas radiaciones emitidas por varias piedras.",
+        "La configuración genética de Eevee le permite mutar y\nadaptarse enseguida a cualquier medio en el que viva.\nLa evolución de este Pokémon suele ser posible gracias a\nlas radiaciones emitidas por varias piedras.",
+        "Su irregular estructura genética encierra el\nsecreto de su capacidad para adoptar\nevoluciones de lo más diversas.",
+        "Según las últimas investigaciones, Eevee es\ncapaz de evolucionar a ocho especies de\nPokémon distintas.",
+        "Todavía no se ha esclarecido el motivo por el\nque es el único Pokémon que presenta un\ncódigo genético inestable.",
+        "Su genética es muy sensible a la influencia del\nentorno, hasta el punto de que su rostro puede\nllegar a parecerse al de su Entrenador.",
+        "Puede evolucionar a varias especies distintas.\nSu código genético es la clave para descifrar el\nmisterio de dicha evolución.",
+        "Puede evolucionar a varias especies distintas.\nSu código genético es la clave para descifrar el\nmisterio de dicha evolución.",
+        "Es capaz de alterar la composición de su cuerpo\npara adaptarse al entorno.",
+        "Su irregular estructura genética alberga el secreto\nde la capacidad que posee este Pokémon tan\nespecial para adoptar evoluciones muy variadas."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "name": "Eevee",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Violet",
+    "generation": 1,
+    "height": 1.5,
+    "name": "Aéromite",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 12.5
+}

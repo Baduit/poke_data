@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 1,
+    "height": 1.5,
+    "name": "Cloyster",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "weight": 132.5
+}

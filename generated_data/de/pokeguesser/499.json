@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Je mehr es frisst, desto stärker werden\ndie Flammen in seinem Magen.\nDies führt zu rapiden Energieschüben.",
+        "Lodert das Feuer in ihm auf, bewegt es sich\ngeschmeidiger und schneller. Bei Gefahr\nlässt es ordentlich Dampf ab.",
+        "Je mehr es frisst, desto stärker werden die Flammen in\nseinem Magen. Dies führt zu rapiden Energieschüben.",
+        "Lodert das Feuer in ihm auf, bewegt es sich geschmeidiger\nund schneller. Bei Gefahr lässt es ordentlich Dampf ab."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "name": "Ferkokel",
+    "types": [
+        "Feuer",
+        "Kampf"
+    ],
+    "weight": 55.5
+}

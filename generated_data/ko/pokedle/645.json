@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 5,
+    "height": 1.5,
+    "name": "랜드로스",
+    "types": [
+        "땅",
+        "비행"
+    ],
+    "weight": 68.0
+}

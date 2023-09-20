@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Un Pokémon raro che si adatta agli ambienti più\ndifficili assumendo diverse forme nell’evoluzione.",
+        "È un Pokémon molto particolare. Dotato di un corredo\ngenetico instabile, serba in sé le più varie possibilità\nevolutive.",
+        "Eevee è dotato di un instabile corredo genetico che muta\nin base all’habitat naturale in cui è integrato. Le radiazioni\ndi diverse pietre scatenano l’evoluzione di questo Pokémon.",
+        "Eevee è dotato di un instabile corredo genetico che muta\nin base all’habitat naturale in cui è integrato. Le radiazioni\ndi diverse pietre scatenano l’evoluzione di questo Pokémon.",
+        "Dotato di un corredo genetico instabile,\nserba in sé varie possibilità evolutive.",
+        "Secondo le ultime ricerche, può evolversi in ben\notto specie diverse.",
+        "Non si conosce ancora il motivo per cui Eevee\nsia l’unico Pokémon a possedere un corredo\ngenetico così instabile.",
+        "Possiede un corredo genetico molto suscettibile\nall’influenza dell’ambiente in cui vive. Può anche\nfinire per assomigliare al suo Allenatore.",
+        "Eevee può evolversi in diverse specie.\nIl suo corredo genetico è la chiave per fare luce\nsul mistero dell’evoluzione.",
+        "Eevee può evolversi in diverse specie.\nIl suo corredo genetico è la chiave per fare luce\nsul mistero dell’evoluzione.",
+        "Ha la capacità di alterare la propria struttura\ncorporea per adattarsi all’ambiente circostante.",
+        "È un Pokémon molto particolare. Dotato di un\ncorredo genetico instabile, serba in sé le più\nvarie possibilità evolutive."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "name": "Eevee",
+    "types": [
+        "Normale"
+    ],
+    "weight": 6.5
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "体内の　発光物質で\n目玉や　体を　光らせ\n襲ってきた　敵を　ひるませる。",
+        "ほほ袋に　ためた　木の実の　タネを\n飛ばして　攻撃。\n敵を　発見すると　尻尾を　立てる。",
+        "体内の　発光物質で\n目玉や　体を　光らせ\n襲ってきた　敵を　ひるませる。",
+        "ほほ袋に　ためた　木の実の　タネを\n飛ばして　攻撃。\n敵を　発見すると　尻尾を　立てる。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "name": "ミルホッグ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 27.0
+}

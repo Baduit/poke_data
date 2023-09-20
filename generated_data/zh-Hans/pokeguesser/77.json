@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在用力跳跃之后，会\n用蹄子和脚上的肌肉\n来缓解着地时的撞击。",
+        "在用力跳跃之后，会\n用蹄子和脚上的肌肉\n来缓解着地时的撞击。",
+        "刚出生的时候不擅长奔跑，\n但随着和伙伴们不断地赛跑，\n会逐渐锻炼出强健的脚力。",
+        "得到了小火马认可的人，\n在触摸它燃烧着的鬃毛时\n不会觉得烫手，真是不可思议。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "name": "小火马",
+    "types": [
+        "火"
+    ],
+    "weight": 30.0
+}

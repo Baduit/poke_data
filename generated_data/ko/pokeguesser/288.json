@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "심장 박동이 빨라 전신의\n피가 끓어오르고 있기 때문에\n1초도 가만히 있지 못한다.",
+        "몸을 움직이지 않으면\n스트레스가 너무 쌓여서\n상태가 나빠져 버린다.",
+        "항상 날뛰고 싶어서 근질근질해 한다.\n1분도 앉아 있지를 못한다.\n움직이지 않으면 스트레스가 쌓인다.",
+        "가만히 있질 못하는 포켓몬이다.\n자려고 해도 몸의 피가 끓어올라서\n숲 속을 뛰어다니지 않으면 가라앉지 않는다."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "name": "발바로",
+    "types": [
+        "노말"
+    ],
+    "weight": 46.5
+}

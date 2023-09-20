@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "No hay dos Spinda que tengan idénticos pelajes.\nSu tambaleo al bailar confunde a los rivales.",
+        "La probabilidad de que dos Spinda con dibujos\nidénticos en su pelaje se encuentren es casi\ninexistente.",
+        "Dicen que no hay dos Spinda que tengan los mismos dibujos\nen el pelaje. Este Pokémon tiene una forma de andar\ninestable, va tambaleándose. Da la sensación de ir bailando.",
+        "No hay dos Spinda con los mismos dibujos en el pelaje. Este\nPokémon se mueve de forma muy curiosa. Da la impresión\nde estar mareado. Se tambalea y puede llegar a causar\nconfusión a su enemigo.",
+        "Aunque Spinda pretende avanzar en línea recta,\nno puede evitar andar tambaleándose.",
+        "Cada Spinda tiene dibujos diferentes en su\npelaje. Dicen que algunos estudiosos disfrutan\nanalizando los distintos patrones.",
+        "Se mueve tambaleándose de un lado para otro\ny termina mareado si camina durante un largo\nperíodo.",
+        "Los dibujos en el pelaje de cada Spinda son\ndiferentes. Esquiva de forma asombrosa los\nataques de los rivales gracias a sus tambaleos."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "name": "Spinda",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.0
+}

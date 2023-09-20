@@ -1,0 +1,10 @@
+{
+    "color": "빨강",
+    "generation": 1,
+    "height": 0.9,
+    "name": "부스터",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 25.0
+}

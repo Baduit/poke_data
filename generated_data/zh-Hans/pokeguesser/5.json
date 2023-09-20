@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在与强敌战斗的过程中，\n如果情绪变得兴奋起来，\n有时会喷出青白色的烈火。",
+        "在与强敌战斗的过程中，\n如果情绪变得兴奋起来，\n有时会喷出青白色的烈火。",
+        "挥动燃烧着火焰的尾巴，\n用锋利的爪子撕裂对手。\n性格十分粗暴。",
+        "如果它在战斗中亢奋起来，\n就会喷出灼热的火焰，\n把周围的东西烧得一干二净。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "name": "火恐龙",
+    "types": [
+        "火"
+    ],
+    "weight": 19.0
+}

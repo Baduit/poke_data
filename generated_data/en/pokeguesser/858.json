@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "It emits psychic power strong enough to cause\nheadaches as a deterrent to the approach\nof others.",
+        "If you’re too loud around it, you risk being torn\napart by the claws on its tentacle. This Pokémon\nis also known as the Forest Witch."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "name": "Hatterene",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "weight": 5.1
+}

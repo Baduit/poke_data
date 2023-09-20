@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 2,
+    "height": 1.7,
+    "name": "Panzaeron",
+    "types": [
+        "Stahl",
+        "Flug"
+    ],
+    "weight": 50.5
+}

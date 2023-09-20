@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Einst war es der Wächter einer Stadt aus uralten\nZeiten. Wer sich in sein Revier wagt, lernt seine\nPsycho-Kräfte kennen.",
+        "Vor langer Zeit war es der Wächter einer Stadt.\nEs fliegt auf der Suche nach Eindringlingen immer\ndieselbe Route ab.",
+        "Einst war es der Wächter einer Stadt aus uralten Zeiten. Wer\nsich in sein Revier wagt, lernt seine Psycho-Kräfte kennen.",
+        "Vor langer Zeit war es der Wächter einer Stadt. Es fliegt auf\nder Suche nach Eindringlingen immer dieselbe Route ab.",
+        "Es fliegt mithilfe seiner Psycho-Kräfte. Einige\nsagen, es war einst der Wächter einer Stadt aus\nuralten Zeiten. Andere sagen, es war sein Bote.",
+        "In den Wüsten, in denen man Symvolara fliegen\nsieht, wurden Ruinen gefunden, die man für die\nÜberreste einer Stadt aus uralten Zeiten hält."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "name": "Symvolara",
+    "types": [
+        "Psycho",
+        "Flug"
+    ],
+    "weight": 14.0
+}

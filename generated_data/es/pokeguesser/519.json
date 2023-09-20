@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es un Pokémon muy despistado. Aunque reciba\nórdenes de su Entrenador, se le olvidan, y se queda\nesperando.",
+        "Vive en la ciudad, pues se lleva muy bien con la gente.\nLe encantan los parques y las plazas, donde se reúne\ncon otros.",
+        "Es un Pokémon muy despistado. Aunque reciba órdenes de\nsu Entrenador, se le olvidan, y se queda esperando.",
+        "Vive en la ciudad, pues se lleva muy bien con la gente. Le\nencantan los parques y las plazas, donde se reúne con otros.",
+        "Aparece en lugares habitados por humanos.\nConviene tener cuidado al darles de comer, ya\nque esto podría atraer a cientos de ejemplares.",
+        "Es muy olvidadizo y no demasiado avispado,\npero muchos Entrenadores le tienen simpatía\npor su carácter afable y sincero."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "name": "Pidove",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 2.1
+}

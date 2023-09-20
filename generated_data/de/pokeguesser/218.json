@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es hält sich ständig bei Vulkanen auf und ist\nstets kriechend auf der Suche nach warmen\nAufenthaltsorten.",
+        "Sein Körper besteht aus Magma. Bleibt es nicht\nständig in Bewegung, kühlt es aus und verhärtet sich.",
+        "Durch Schneckmags Kreislaufsystem fließt Magma.\nWenn dieses Pokémon erkältet ist, kühlt das Magma\naus und erhärtet. Sein Körper wird spröde und es\nbrechen Stücke heraus, sodass es kleiner wird.",
+        "Schneckmag hat kein Blut in seinem Körper. Stattdessen fließt\nglühend heißes Magma in diesem Pokémon, das seine Organe\nmit lebenswichtigen Nährstoffen und Sauerstoff versorgt."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+    "name": "Schneckmag",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 35.0
+}

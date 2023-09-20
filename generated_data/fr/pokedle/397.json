@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 4,
+    "height": 0.6,
+    "name": "Étourvol",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 15.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 1,
+    "height": 1.2,
+    "name": "霸王花",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 18.6
+}

@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Rilascia una potente aria gelida dagli zoccoli.\nÈ impetuoso e prende con la forza tutto ciò\nche vuole.",
+        "È dotato di una forza incommensurabile.\nLa maschera di ghiaccio che gli ricopre il muso\nè cento volte più dura del diamante."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "name": "Glastrier",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 800.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Gaulet",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 10.5
+}

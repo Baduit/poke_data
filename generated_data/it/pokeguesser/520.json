@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Si dice che nel cuore della foresta in cui vive Tranquill\nsi trovi un paese che non conosce conflitti.",
+        "Dovunque si trovi, è sempre in grado di ritrovare il\nsuo nido. Allo stesso modo, non perde mai di vista\nil suo Allenatore.",
+        "Si dice che nel cuore della foresta in cui vive Tranquill si trovi\nun paese che non conosce conflitti.",
+        "Dovunque si trovi, è sempre in grado di ritrovare il suo nido.\nAllo stesso modo, non perde mai di vista il suo Allenatore.",
+        "È abbastanza veloce nel volo. Per quanto lontano\nsi spinga, riesce sempre a ritrovare il proprio\nnido e il proprio Allenatore.",
+        "Pokémon intelligente, dotato di una memoria\ndi ferro. Sembra che molti fattorini lo scelgano\ncome compagno."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "name": "Tranquill",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 15.0
+}

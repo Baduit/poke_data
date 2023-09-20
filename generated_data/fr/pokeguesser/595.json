@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Les Statitik qui vivent en ville ont\nappris à aspirer le courant depuis\nles prises électriques des maisons.",
+        "Il s’accroche aux Pokémon plus grands\net aspire leur électricité statique.\nIl la stocke dans ses poches-accus.",
+        "Ne produisant pas lui-même d’électricité, il s’accroche\naux Pokémon plus grands et aspire leur électricité\nstatique.",
+        "Il s’accroche aux Pokémon plus grands et aspire\nleur électricité statique. Il la stocke dans ses\npoches-accus.",
+        "Ne produisant pas lui-même d’électricité, il s’accroche\naux Pokémon plus grands et aspire leur électricité statique.",
+        "Il s’accroche aux Pokémon plus grands et aspire leur\nélectricité statique. Il la stocke dans ses poches-accus.",
+        "Il s’accroche au corps des autres Pokémon pour\nabsorber leur électricité statique. Il est incapable\nd’en produire tout seul.",
+        "Il s’accroche aux autres Pokémon pour aspirer\nleur électricité statique. On en trouve souvent\ncollés au postérieur de Voltoutou."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "name": "Statitik",
+    "types": [
+        "Insecte",
+        "Électrik"
+    ],
+    "weight": 0.6
+}

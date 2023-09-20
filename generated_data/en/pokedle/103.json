@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Exeggutor",
+    "types": [
+        "Grass",
+        "Psychic"
+    ],
+    "weight": 120.0
+}

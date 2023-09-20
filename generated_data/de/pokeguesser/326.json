@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Mit schwarzen Perlen verstärkt es seine Psycho-Kräfte.\nMit einem Tanz kontrolliert es seine Gegner.",
+        "Mit schwarzen Perlen verstärkt es seine Psycho-Kräfte.\nMit einem Tanz kontrolliert es seine Gegner.",
+        "Groink benutzt die schwarzen Perlen an seinem Körper dazu,\ndie psychischen Kraftwellen zu verstärken. Wenn es diese\nspezielle Fähigkeit nutzt, wird sein schnaubender Atem\nschwerfällig.",
+        "Groink benutzt die schwarzen Perlen an seinem Körper,\num seine fantastischen Kräfte nutzen zu können. Dabei\ntanzt es sonderbar. Die schwarzen Perlen dieses Pokémon\nsind wahre Kunstwerke und ebenso wertvoll."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "name": "Groink",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 71.5
+}

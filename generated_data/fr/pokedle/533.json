@@ -1,0 +1,10 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Ouvrifier",
+    "types": [
+        "Combat"
+    ],
+    "weight": 40.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 4,
+    "height": 1.4,
+    "name": "Tarinorme",
+    "types": [
+        "Roche",
+        "Acier"
+    ],
+    "weight": 340.0
+}

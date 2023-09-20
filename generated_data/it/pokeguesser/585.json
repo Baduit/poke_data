@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il suo corpo muta non solo a seconda della stagione\nma in misura minore anche al cambiare di temperatura\ne umidità.",
+        "Al cambio di stagione, muta la pelliccia e l’odore. È un\nPokémon che annuncia il passaggio delle stagioni.",
+        "Il suo corpo muta non solo a seconda della stagione ma in\nmisura minore anche al cambiare di temperatura e umidità.",
+        "Al cambio di stagione, muta la pelliccia e l’odore. È un\nPokémon che annuncia il passaggio delle stagioni."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "name": "Deerling",
+    "types": [
+        "Normale",
+        "Erba"
+    ],
+    "weight": 19.5
+}

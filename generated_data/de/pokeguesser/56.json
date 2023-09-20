@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Da es grundlos angreift und nicht zwischen Freund\noder Feind unterscheidet, ist es sehr gefährlich.",
+        "Es lebt mit anderen in Baumkronen. Wird eines von\nihnen wütend, werden alle anderen auch wütend.",
+        "Wenn Menki sich schüttelt und schwer durch die Nase atmet,\ndann ist es wütend. Da es blitzartig in Raserei gerät, ist es\nunmöglich, seinem Zorn zu entkommen.",
+        "Wenn Menki sich schüttelt und schwer durch die Nase atmet,\ndann ist es wütend. Da es blitzartig in Raserei gerät, ist es\nunmöglich, seinem Zorn zu entkommen.",
+        "Es rastet häufig völlig unvermittelt aus. Danach\nfindet es sich oft mutterseelenallein wieder.\nDas macht es schließlich noch wütender.",
+        "Es ärgert sich, bis es vor Erschöpfung eindöst.\nDoch selbst im Traum findet es keine Ruhe, also\nwacht es wieder auf und wird noch wütender.",
+        "Selbst Kleinigkeiten regen es sofort auf. Da es\nStress aber nicht in sich hineinfrisst, erfreut es\nsich eines langen Lebens.",
+        "Wird es wütend, färbt das auch auf seine\nKameraden ab. In einer Schar von Menki kehrt\ndaher niemals Ruhe ein.",
+        "Es ist sehr agil und lebt auf Bäumen. Aufgrund\nseiner hitzköpfigen Natur wird es schnell wütend,\nwas dazu führt, dass es alles und jeden angreift.",
+        "Es ist sehr agil und lebt auf Bäumen. Aufgrund\nseiner hitzköpfigen Natur wird es schnell wütend,\nwas dazu führt, dass es alles und jeden angreift."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "name": "Menki",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 28.0
+}

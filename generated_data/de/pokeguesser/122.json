@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Seine Fingerspitzen sondern etwas ab, das die Luft\nzu einer schützenden Wand werden lässt.",
+        "Es ist geschickt darin, Menschen zu beeinflussen.\nMan sagt, es könne dünne Wände aus Luft nur durch\nMimen entstehen lassen.",
+        "Pantimos ist ein Meister der Pantomime. Seine Gesten und\nBewegungen machen den Zuschauer glauben, dass etwas\nUnsichtbares tatsächlich existiert. Wenn ein Objekt für real\ngehalten wird, beginnt es, wirklich zu existieren.",
+        "Pantimos ist ein Meister der Pantomime. Seine Gesten und\nBewegungen machen den Zuschauer glauben, dass etwas\nUnsichtbares tatsächlich existiert. Wenn ein Objekt für real\ngehalten wird, beginnt es, wirklich zu existieren.",
+        "Sein Können als Pantomime ist verblüffend. Vor\nlauter Bewunderung merkt man gar nicht, wie\nplötzlich eine echte Wand vor einem erscheint.",
+        "Durch Pantomime lässt es unsichtbare Wände\nentstehen. Wer davon nicht beeindruckt ist,\nwird mit einem Duplexhieb bestraft.",
+        "Pantimos ist begabt im Mienenspiel und trainiert\ndieses jederzeit. Es kann andere dazu verleiten,\nDinge zu sehen, die gar nicht existieren.",
+        "Pantimos ist begabt im Mienenspiel und trainiert\ndieses jederzeit. Es kann andere dazu verleiten,\nDinge zu sehen, die gar nicht existieren.",
+        "Viele Forscher glauben, seine Hände hätten nur\ndeshalb so eine beachtliche Größe angenommen,\ndamit es Pantomime praktizieren kann.",
+        "Es ist für die Pantomime geboren. Zur Abwehr\nunterschiedlichster Angriffe erzeugt es mit einem\nKraftfeld aus seinen Fingerspitzen Schutzwände."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "name": "Pantimos",
+    "types": [
+        "Psycho",
+        "Fee"
+    ],
+    "weight": 54.5
+}

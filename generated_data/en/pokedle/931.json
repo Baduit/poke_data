@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 9,
+    "height": 0.6,
+    "name": "Squawkabilly",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 2.4
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Heatmor è il loro acerrimo nemico, e quando\nvogliono cacciarlo dalla tana si dividono i compiti\ne partono all’attacco!",
+        "È protetto da un’armatura d’acciaio. Si riunisce in\ngruppi per respingere gli attacchi di Heatmor, il suo\npredatore.",
+        "Heatmor è il loro acerrimo nemico, e quando vogliono\ncacciarlo dalla tana si dividono i compiti e partono all’attacco!",
+        "È protetto da un’armatura d’acciaio. Si riunisce in gruppi per\nrespingere gli attacchi di Heatmor, il suo predatore.",
+        "Depone le Uova nei recessi più interni del suo\nnido. Se un Heatmor lo attacca, si difende\nmordendolo con le grandi mandibole.",
+        "Le grandi mandibole possono frantumare anche\nla roccia. Lotta con la colonia per proteggere\nle sue Uova da Sandaconda."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "name": "Durant",
+    "types": [
+        "Coleottero",
+        "Acciaio"
+    ],
+    "weight": 33.0
+}

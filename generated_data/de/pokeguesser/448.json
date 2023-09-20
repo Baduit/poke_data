@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es nimmt die Aura seines Gegners wahr. So kann es\ndessen Gedanken und Bewegungen erkennen.",
+        "Kann aus 1 km Entfernung die Gefühle anderer Wesen\nerfassen, indem es die Wellen liest, die sie aussenden.",
+        "Es nimmt die Aura seines Gegners wahr. So kann es dessen\nGedanken und Bewegungen erkennen.",
+        "Kann aus 1 km Entfernung die Gefühle anderer Wesen\nerfassen, indem es die Wellen liest, die sie aussenden.",
+        "Es kann Auren nicht nur wahrnehmen, sondern\nauch manipulieren. Diese Fähigkeit nutzt es\nbeim Kämpfen.",
+        "Es kann aus 1 km Entfernung die Art und auch\ndie Gefühle von Lebewesen erfassen. Es jagt\nim Rudel und manipuliert die Aura der Beute.",
+        "Unter starker Konzentration kann es rätselhafte\nWellen von sich geben, die man Aura nennt.\nDamit kann es sogar große Felsen pulverisieren.",
+        "Es kann über die Auren anderer deren Gefühle\nwahrnehmen. Da es dabei auch Dinge erfährt,\ndie es lieber nicht wüsste, ist es oft gestresst.",
+        "Es jagt seine Beute, indem es eine Kraft\nmanipuliert, die Aura genannt wird. Dadurch\nkann es sogar große Felsen pulverisieren.",
+        "Es kann die Gedanken von Menschen lesen.\nDeshalb lässt es sich nur auf Trainer ein, die\nihr Herz auf dem rechten Fleck haben."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "name": "Lucario",
+    "types": [
+        "Kampf",
+        "Stahl"
+    ],
+    "weight": 54.0
+}

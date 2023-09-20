@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 4,
+    "height": 0.4,
+    "name": "Stunky",
+    "types": [
+        "Poison",
+        "Dark"
+    ],
+    "weight": 19.2
+}

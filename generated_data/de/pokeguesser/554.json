@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Früher nutzte man die heißen Ausscheidungen\nvon Flampion, um sich den Körper zu wärmen.",
+        "Zum Schlafen zieht es Arme und Beine ein und\nsenkt seine innere Körpertemperatur auf 600 °C,\num sich zu entspannen.",
+        "Früher nutzte man die heißen Ausscheidungen von Flampion,\num sich den Körper zu wärmen.",
+        "Zum Schlafen zieht es Arme und Beine ein und senkt seine\ninnere Körpertemperatur auf 600 °C, um sich zu entspannen.",
+        "Das Feuer in seinem Inneren ist die Quelle seiner\nKraft. Wird die Flamme zu klein, schläft es auf\nder Stelle ein.",
+        "Während es schläft, lässt es sich nicht mal mit\nGewalt umstoßen. Aus diesem Grund ist es ein\nbeliebtes Motiv für Glücksbringer."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "name": "Flampion",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 37.5
+}

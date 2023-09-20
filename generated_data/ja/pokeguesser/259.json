@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ぬかるんだ　足場でも　しっかり\n歩ける　丈夫な　足腰。\n泥に　体を　埋めて　眠る。",
+        "ドロドロに　ぬかるんだ　足場で\n生活する　うちに　鍛えられ\n強靭な　足腰に　なった。",
+        "地上でも　生活できる　ように　体の\n表面を　薄い　粘膜が　包んでいる。\n潮の　引いた　海岸で　泥遊びを　する。",
+        "水中を　泳ぐより　泥の　中を\n進む　ほうが　断然　速く　移動できる。\n足腰が　発達して　２本足で　歩く。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "name": "ヌマクロー",
+    "types": [
+        "みず",
+        "じめん"
+    ],
+    "weight": 28.0
+}

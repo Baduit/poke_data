@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Capace di vivere dentro o fuori dall’acqua. Sulla\nterraferma suda per mantenere il suo corpo unto.",
+        "Ha arti inferiori molto sviluppati. Può vivere anche\nsulla terraferma, ma preferisce l’acqua.",
+        "La superficie del corpo di Poliwhirl è sempre umida e unta\ndi fluido oleoso. Grazie a questa pellicola viscida, nella lotta\nriesce a sfuggire agilmente alle grinfie del nemico.",
+        "La superficie del corpo di Poliwhirl è sempre umida e unta\ndi fluido oleoso. Grazie a questa pellicola viscida, nella lotta\nriesce a sfuggire agilmente alle grinfie del nemico.",
+        "Può vivere anche sulla terraferma, ma preferisce\nstare in acqua, dove ha meno nemici naturali.",
+        "Cammina lentamente sulla terraferma in cerca\ndi Pokémon di tipo Coleottero di cui cibarsi.\nMangia solo in acqua, dove si sente più al sicuro.",
+        "Si è adattato anche alla terraferma, ma passa\nla maggior parte del tempo in acqua, dove trova\nmolti Pokémon acquatici di cui cibarsi.",
+        "Se la sua pelle si secca, perde vitalità, quindi\nè importante assicurarsi che sia costantemente\nidratato.",
+        "Quando si sente in pericolo usa la spirale\nche ha sulla pancia per addormentare\ngli avversari, poi si dà alla fuga.",
+        "Quando si sente in pericolo usa la spirale\nche ha sulla pancia per addormentare\ngli avversari, poi si dà alla fuga.",
+        "Chi fissa a lungo il disegno spiraliforme sul ventre\nsi assopisce, tant’è che Poliwhirl lo utilizza al\nposto della ninnananna per far dormire i piccoli.",
+        "Secerne un sudore viscido simile a muco,\ngrazie al quale riesce a fuggire sgusciando\nvia dalla presa dei nemici."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "name": "Poliwhirl",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 20.0
+}

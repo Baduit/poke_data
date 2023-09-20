@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es lebt in seichten Stellen warmer Meere.\nBei Ebbe sucht es im Sand nach Beute.",
+        "Es fängt Beute mit seinen acht Tentakeln. Ehe es sie\nverspeist, löst es sie mit einer starken Säure auf.",
+        "Wielie sucht den Meeresboden nach Beute ab. Dieses\nPokémon fährt seinen baumstammartigen Nacken aus\nund fängt mit seinen acht Tentakeln Beute.",
+        "Wielies Körper dient ihm als Anker und schützt es davor,\nin die stürmische See gespült zu werden. Dieses Pokémon\nsondert eine starke Verdauungsflüssigkeit aus seinen\nTentakeln ab.",
+        "Es lebte für gewöhnlich an seichten Stellen im\nMeer. Bei Ebbe kam es an Land, um nach Beute\nzu suchen.",
+        "Ein fleischfressendes Pokémon aus dem Urmeer.\nMit seinen acht Tentakeln fing es Beute und\nlöste sie in Verdauungssaft auf, bevor es sie aß.",
+        "Durch die kurzen Beine läuft Wielie nur langsam,\ndoch um ferne Beute zu fangen, kann es Hals und\nTentakel auf die dreifache Länge ausstrecken.",
+        "Sobald es mit seinen Tentakeln Beute erfasst hat,\nlöst es diese mit seiner Verdauungsflüssigkeit auf\nund absorbiert ihre Nährstoffe."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "name": "Wielie",
+    "types": [
+        "Gestein",
+        "Pflanze"
+    ],
+    "weight": 60.4
+}

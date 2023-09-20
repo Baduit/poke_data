@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Cattura il nemico infilzandolo con gli enormi artigli\nretrattili. È rivestito di una robusta corazza.",
+        "Ha un corpo molto resistente, protetto da un duro\nguscio. Infilza le prede con gli artigli per poi cibarsene.",
+        "La dura corazza di Armaldo protegge da ogni tipo di attacco.\nI suoi due enormi artigli sono in grado di estendersi\ne contrarsi. Inoltre sono dotati di una potenza tale\nda spaccare una lastra d’acciaio.",
+        "Armaldo è una specie di Pokémon estinta già in tempi antichi.\nSi dice che camminasse sugli arti inferiori per affrontare meglio\nil tipo di vita che conduceva sulla terraferma.",
+        "Viveva sulla terraferma e si tuffava in mare\nper cacciare le prede. La sua arma migliore\nerano gli artigli affilati.",
+        "Originariamente viveva in mare, ma poi si spostò\nsulla terraferma. Si è scoperto che è l’antenato\ndi alcuni Pokémon Coleottero.",
+        "Dopo l’evoluzione, è salito sulla terraferma.\nLa parte inferiore del corpo si è rafforzata,\nrendendo i colpi della sua coda devastanti.",
+        "Vive sulla terraferma, ma è un abile nuotatore.\nSi tuffa in mare alla ricerca di prede, che abbatte\ncon i suoi artigli affilati."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "name": "Armaldo",
+    "types": [
+        "Roccia",
+        "Coleottero"
+    ],
+    "weight": 68.2
+}

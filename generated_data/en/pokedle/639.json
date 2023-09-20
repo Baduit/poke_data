@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 5,
+    "height": 1.9,
+    "name": "Terrakion",
+    "types": [
+        "Rock",
+        "Fighting"
+    ],
+    "weight": 260.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Dicen que este Pokémon legendario simboliza la tierra.\nTras batirse en duelo con Kyogre se echó a dormir.",
+        "Dicen que aumentó la superficie terrestre evaporando\nel agua. Fue un enemigo acérrimo de Kyogre.",
+        "A Groudon siempre se le ha descrito como el Pokémon que\nexpandió los continentes. Varias leyendas cuentan que libró\ncombates contra Kyogre en repetidas ocasiones para tener\nel control de la energía de la naturaleza.",
+        "Groudon se sirve de la energía de la naturaleza para realizar su\nRegresión Primigenia y recobrar su apariencia primitiva. Con tal\npoder, puede crear magma para expandir los continentes."
+    ],
+    "height": 3.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "name": "Groudon",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 950.0
+}

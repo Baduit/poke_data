@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es ist so feige, dass es wild mit seinen vielen\nFüßen herumschlägt und verzweifelt davonläuft.\nNach seiner Flucht glänzt der Boden herrlich.",
+        "Es mag verschiedene Habitate, vom Strand bis\nhin zum Meeresgrund. Unterwegs frisst es gern\nFaules und ist eine natürliche Reinigungskraft.",
+        "Es hebt alles auf, was es finden kann. Manchmal\nbefinden sich darunter auch Münzen, weshalb\nes oft von Kramurx und Mauzi gejagt wird.",
+        "Dieses Pokémon ist ein wahrer Drückeberger.\nSobald sich ihm etwas nähert, strampelt es flink\nmit seinen Beinchen und nimmt Reißaus.",
+        "Sie sind natürliche Reinigungskräfte und fressen\nalles, inklusive vergammeltem Essen und Müll.\nIn der Nähe ihrer Nester ist es immer sauber.",
+        "Sie schließen sich zu Schwärmen zusammen und\nhalten stets Ausschau nach Gefahr. Sichten sie\neinen Feind, nehmen sie in alle Winde Reißaus."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+    "name": "Reißlaus",
+    "types": [
+        "Käfer",
+        "Wasser"
+    ],
+    "weight": 12.0
+}

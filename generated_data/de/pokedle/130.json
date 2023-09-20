@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 6.5,
+    "name": "Garados",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 235.0
+}

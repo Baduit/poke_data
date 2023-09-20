@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 8,
+    "height": 3.0,
+    "name": "Scolocendre",
+    "types": [
+        "Feu",
+        "Insecte"
+    ],
+    "weight": 120.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Sein Nachwuchs wächst in seinem Beutel heran.\nNur wenn es sicher ist, darf das Junge aus dem Beutel.",
+        "Fühlt es sich sicher, dann verlässt das Junge\nden Beutel. Die Mutter behält es ständig im Auge.",
+        "Wenn du auf ein junges, spielendes Kangama stößt,\nsolltest du es nicht stören oder versuchen, es einzufangen.\nDie Mutter dieses Baby-Pokémon ist bestimmt in Reichweite\nund könnte sehr wütend auf dich werden.",
+        "Wenn du auf ein junges, spielendes Kangama stößt,\nsolltest du es nicht stören oder versuchen, es einzufangen.\nDie Mutter dieses Baby-Pokémon ist bestimmt in Reichweite\nund könnte sehr wütend auf dich werden.",
+        "Die Mutterliebe des ausgewachsenen Kangama\nist tief. Es wäre sogar bereit, sein eigenes Leben\nzu opfern, um sein Junges zu beschützen.",
+        "Das Junge verlässt den Beutel der Mutter im\nAlter von drei Jahren. Dies ist der einzige Zeit-\npunkt, zu dem man die Mutter laut weinen hört.",
+        "Sein Junges beschützt es in seinem Beutel.\nWer dieses verwundet, den erwarten Kangamas\nGroll und eine rücksichtslose Tracht Prügel.",
+        "Wer ein Kangama-Junges sieht, das zum Spielen\nden Beutel verlassen hat, sollte sich ihm nicht\nnähern. Seine Mutter behält es stets im Auge.",
+        "Es zieht sein Junges in seiner Bauchtasche auf.\nUm es zu schützen, nimmt es mit jedem Gegner\nden Kampf auf.",
+        "Es zieht sein Junges in seiner Bauchtasche auf.\nUm es zu schützen, nimmt es mit jedem Gegner\nden Kampf auf.",
+        "Obwohl es sein Junges im Beutel trägt, bewegt\nsich dieses Pokémon äußerst leichtfüßig. Gegner\nschreckt Kangama mit blitzschnellen Schlägen ab.",
+        "Es liegen Berichte vor, laut denen Kangama ohne\neigenen Nachwuchs stattdessen Menschenkinder\nin Not aufgezogen haben."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "name": "Kangama",
+    "types": [
+        "Normal"
+    ],
+    "weight": 80.0
+}

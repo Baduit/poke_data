@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "La force de ses pattes et de ses mâchoires\nle rendait presque invincible, mais à trop chasser\nses proies, celles-ci ont disparu, et lui avec.",
+        "Ses pattes robustes lui permettent de courir\nà plus de 60 km/h, mais en revanche, il ne peut\nrespirer que sous l’eau."
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "name": "Hydragon",
+    "types": [
+        "Eau",
+        "Dragon"
+    ],
+    "weight": 215.0
+}

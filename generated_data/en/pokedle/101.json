@@ -1,0 +1,10 @@
+{
+    "color": "Red",
+    "generation": 1,
+    "height": 1.2,
+    "name": "Electrode",
+    "types": [
+        "Electric"
+    ],
+    "weight": 66.6
+}

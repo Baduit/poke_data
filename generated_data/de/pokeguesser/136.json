@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "In seinem Körper befindet sich eine Flamme.\nSeine Körpertemperatur liegt vor dem Kampf\nbei 900 °C.",
+        "In seinem Körper hat es eine Flammentasche.\nWenn es tief eingeatmet hat, kann es Flammen\nvon bis zu 1 700 °C spucken.",
+        "Flamaras flauschiges Fell dient einem besonderen Zweck.\nEs gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß\nwird. Die Körpertemperatur dieses Pokémon kann bis auf\n900 °C ansteigen.",
+        "Flamaras flauschiges Fell dient einem besonderen Zweck.\nEs gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß\nwird. Die Körpertemperatur dieses Pokémon kann bis auf\n900 °C ansteigen.",
+        "Hat es Beeren oder Pokémon erbeutet, speit es\nso lange Feuer, bis beides gut durchgebraten\nist. Danach beißt es beherzt zu.",
+        "Seine Körpertemperatur beträgt im Durchschnitt\n700 bis 800 °C. In einem Flammensack im\nKörper erzeugt es ein Feuer von 1 700 °C.",
+        "Wenn es tief einatmet, bereitet es gerade einen\nAngriff vor. Es kann bis zu 1 700 °C heiße\nFlammen speien.",
+        "Ist Flamara aufgeregt, fängt der Flammensack\nin seinem Körper Feuer, wodurch seine\nKörpertemperatur auf bis zu 900 °C steigt.",
+        "In seinem Körper befindet sich ein Flammensack.\nDort wandelt es Luft in 1 700 ºC heiße Flammen\num, die es über den Mund ausspeit.",
+        "In seinem Körper befindet sich ein Flammensack.\nDort wandelt es Luft in 1 700 ºC heiße Flammen\num, die es über den Mund ausspeit.",
+        "Wenn die Flamme in seinem Körper heiß genug\nbrennt, kann seine Körpertemperatur bis zu\n900 ºC erreichen.",
+        "Ein Teil der von ihm eingeatmeten Luft wird\nin einem Flammensack in seinem Körper\ngespeichert und dort auf 1 700 ºC erhitzt."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "name": "Flamara",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 25.0
+}

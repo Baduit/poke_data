@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sie leben in großen Kolonien und verbinden\nihre Schweife in Freundschaft.",
+        "Wenn es hungrig ist, knackt es Nüsse mit seinen\nbeiden Schweifen. Nur selten verwendet es die Arme.",
+        "Sie leben in großen Kolonien und verbinden ihre Schweife\nin Freundschaft.",
+        "Wenn es hungrig ist, knackt es Nüsse mit seinen\nbeiden Schweifen. Nur selten verwendet es die Arme.",
+        "Sie streiten sich mit Gruppen von Quartermak\num die bequemsten Bäume. Etwa die Hälfte\ndieser Revierkämpfe gewinnen sie.",
+        "Es benutzt seine zwei Schweife für alles, was es\ntut. Wenn es jemanden mit ihnen umarmt, ist das\nein Beweis seiner Zuneigung."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "name": "Ambidiffel",
+    "types": [
+        "Normal"
+    ],
+    "weight": 20.3
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il fait miroiter ses énormes griffes acérées\navant d’attaquer. Elles sont assez puissantes\npour fendre en deux l’air comme la mer.",
+        "Il utilise ses six pattes pour se battre.\nHabitant des grottes sous-marines, il passe\nson temps plongé dans un silence méditatif.",
+        "La carapace qui recouvre son corps est aussi\ndure que le diamant. Il ne recule devant rien\npour gagner.",
+        "Ses griffes rétractiles sont sa plus grande arme.\nIl se fait parfois accompagner d’une suite\nde Sovkipou.",
+        "Il ne recule devant rien pour gagner. Il profite de\nl’inattention de son adversaire pour lui administrer\nun coup décisif de ses petites griffes antérieures.",
+        "Il vit dans des trous ou des épaves au fond\nde l’océan. Il se bat souvent contre Krakos,\net le perdant sert de repas au gagnant."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "name": "Sarmuraï",
+    "types": [
+        "Insecte",
+        "Eau"
+    ],
+    "weight": 108.0
+}

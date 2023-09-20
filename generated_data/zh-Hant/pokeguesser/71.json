@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "會用花蜜的香氣引誘獵物。\n據說被牠吞進了嘴裡的東西\n只要１天就會溶解到連骨頭都不剩。",
+        "會用花蜜的香氣引誘獵物。\n據說被牠吞進了嘴裡的東西\n只要１天就會溶解到連骨頭都不剩。"
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "name": "大食花",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 15.5
+}

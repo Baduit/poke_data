@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ihre Reviere erstrecken sich über ganze Gebirge.\nStolloss, die mit Narben übersät sind, sollte man\nbesser meiden.",
+        "Auf der Suche nach Eisen, seiner Nahrung, gräbt es\nmit seinen Stahlhörnern sogar Tunnel durch Felsen.",
+        "Stolloss nennt einen ganzen Berg sein Territorium. Gnadenlos\nschlägt es jeden in die Flucht, der sein Reich betritt. Dieses\nPokémon behält sein Territorium jederzeit im Auge.",
+        "Stolloss geht sehr behutsam mit der Umwelt um. Wenn der\nBerg von Stolloss von einem Erdrutsch oder einem Feuer\nverwüstet wurde, schleppt es Erde in das Gebiet,\npflanzt Bäume und richtet sein Territorium wieder her.",
+        "Mit seinen spitzen Hörnern, die selbst massive\nEisenplatten durchbohren können, rammt es seine\nGegner und macht ihnen so den Garaus.",
+        "Einst gab es einen König, der einen Helm in Form\nvon Stolloss’ Kopf trug, in der Hoffnung, sich\ndadurch dessen Stärke aneignen zu können."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+    "name": "Stolloss",
+    "types": [
+        "Stahl",
+        "Gestein"
+    ],
+    "weight": 360.0
+}

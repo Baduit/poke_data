@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "It has a compassionate personality, but if it is\nangered, it completely destroys its surroundings\nwith its intense breath.",
+        "This Pokémon is friendly to people and loves\nchildren most of all. It comes from deep in the\nmountains to play with children it likes in town.",
+        "If a child it has made friends with is bullied,\nDrampa will find the bully’s house and burn it to\nthe ground.",
+        "It appears in towns and plays with the children.\nDrampa will protect kids when they’re in danger,\nso their moms don’t have to worry.",
+        "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
+        "Drampa is a kind and friendly Pokémon—up until\nit’s angered. When that happens, it stirs up a\ngale and flattens everything around."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "name": "Drampa",
+    "types": [
+        "Normal",
+        "Dragon"
+    ],
+    "weight": 185.0
+}

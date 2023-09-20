@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 8,
+    "height": 1.8,
+    "name": "Duralugon",
+    "types": [
+        "Acier",
+        "Dragon"
+    ],
+    "weight": 40.0
+}

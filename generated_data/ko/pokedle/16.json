@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 0.3,
+    "name": "구구",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 1.8
+}

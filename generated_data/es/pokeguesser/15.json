@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Tiene 3 aguijones venenosos en sus patas y cola.\nSuelen pinchar a sus enemigos repetidas veces.",
+        "Puede aparecer en enjambres volando a gran\nvelocidad. Suele usar el venenoso aguijón inferior\npara atacar.",
+        "Los Beedrill defienden su territorio a toda costa. No es\nconveniente acercarse a su colmena, por seguridad. Si se\nles molesta, todo un enjambre atacará ferozmente.",
+        "Los Beedrill defienden su territorio a toda costa. No es\nconveniente acercarse a su colmena, por seguridad. Si se\nles molesta, todo un enjambre atacará ferozmente.",
+        "Tiene tres aguijones venenosos, dos en las patas\nanteriores y uno en la parte baja del abdomen,\ncon los que ataca a sus enemigos una y otra vez.",
+        "Tiene tres aguijones venenosos, dos en las patas\nanteriores y uno en la parte baja del abdomen,\ncon los que ataca a sus enemigos una y otra vez."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "name": "Beedrill",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 29.5
+}

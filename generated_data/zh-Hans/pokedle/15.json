@@ -1,0 +1,11 @@
+{
+    "color": "黄色",
+    "generation": 1,
+    "height": 1.0,
+    "name": "大针蜂",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 29.5
+}

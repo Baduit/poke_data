@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Transporta alimentos en su cola enrollada. Le gusta\ncompartir su comida con los montañistas perdidos.",
+        "Lleva siempre comida consigo. Si se encuentra con\nmontañeros que vagan perdidos, la comparte.",
+        "Delibird usa la cola a modo de saco para llevar su alimento.\nEn una ocasión, un famoso escalador consiguió alcanzar la\ncima más alta del mundo gracias a que uno de estos Pokémon\ncompartió sus alimentos con él.",
+        "Delibird usa la cola a modo de saco para llevar su alimento.\nEn una ocasión, un famoso escalador consiguió alcanzar la\ncima más alta del mundo gracias a que uno de estos Pokémon\ncompartió sus alimentos con él.",
+        "Este Pokémon es originario de tierras frías,\npero los Delibird de Alola se han adaptado\nsin problemas al entorno cálido de la región.",
+        "Tiene la costumbre de compartir su comida con\ntodo el mundo, ya sea humano o Pokémon, por lo\nque está constantemente en busca de alimento.",
+        "Si ve a alguien en apuros, comparte su alimento\ncon él. Aunque, al ser omnívoro, podría ser que\ncompartiera algún que otro Pokémon insecto.",
+        "Usa la cola para transportar su alimento. El\nejemplar que posea la cola de mayor tamaño se\nconvertirá en el líder de la bandada.",
+        "Transporta comida durante todo el día. Según\ndicen, muchos desaparecidos han sobrevivido\ngracias a ella.",
+        "Tiene la costumbre de compartir su comida con\ntodo el mundo, sea humano o Pokémon, por lo\nque está constantemente en busca de alimento."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "name": "Delibird",
+    "types": [
+        "Hielo",
+        "Volador"
+    ],
+    "weight": 16.0
+}

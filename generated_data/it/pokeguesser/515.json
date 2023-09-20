@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "L’acqua contenuta nel suo ciuffo è ricca di nutrienti\ne la usa per annaffiare le piante con la coda.",
+        "L’acqua accumulata nel ciuffo è ricca di nutrimento\ne fa crescere rigogliose le piante che ne vengono\nannaffiate.",
+        "L’acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa\nper annaffiare le piante con la coda.",
+        "L’acqua accumulata nel ciuffo è ricca di nutrimento e fa\ncrescere rigogliose le piante che ne vengono annaffiate."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "name": "Panpour",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 13.5
+}

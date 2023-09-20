@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "우수한 트레이너의 명령에는\n절대복종한다. 먼 옛날\n무리를 지어 행동했던 영향이다.",
+        "10마리 정도의 무리를 이루어\n한 치의 흐트러짐 없는 팀워크로\n먹이를 쫓아 꼼짝 못하게 한다.",
+        "사납게 으르렁거리는 소리를 내며 자세를\n낮추고 있는 것은 공격의 전조이다.\n날카롭고 뾰족한 이빨로 덥석 문다.",
+        "그룹으로 행동하던 야생의 피가\n남아 있어서 우수한 트레이너만을\n리더로서 인정하고 명령을 따른다."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "name": "그라에나",
+    "types": [
+        "악"
+    ],
+    "weight": 37.0
+}

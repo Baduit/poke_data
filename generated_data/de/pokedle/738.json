@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 7,
+    "height": 1.5,
+    "name": "Donarion",
+    "types": [
+        "Käfer",
+        "Elektro"
+    ],
+    "weight": 45.0
+}

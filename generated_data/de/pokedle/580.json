@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Piccolente",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 5.5
+}

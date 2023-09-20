@@ -1,0 +1,11 @@
+{
+    "color": "검정",
+    "generation": 8,
+    "height": 2.8,
+    "name": "석탄산",
+    "types": [
+        "바위",
+        "불꽃"
+    ],
+    "weight": 310.5
+}

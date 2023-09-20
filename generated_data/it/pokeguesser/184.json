@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le lunghe orecchie sono ottimi sensori. Distingue\ni movimenti di esseri viventi sui fondali fluviali.",
+        "Le bolle disegnate sulla pancia gli permettono di\nmimetizzarsi quando si trova in acqua.",
+        "Le lunghe orecchie di Azumarill sono sensori indispensabili.\nConcentrandosi sull’udito, è in grado di identificare che tipo\ndi prede ci siano nelle vicinanze, anche in torrenti rapidi\ne impetuosi.",
+        "Azumarill riesce a creare bolle d’aria in grado di aiutare\nun Pokémon che sta per affogare. Quando ne vede uno,\nAzumarill gli manda una bolla per aiutarlo a respirare.",
+        "Passa la maggior parte della giornata in acqua.\nSe è bel tempo galleggia in superficie per\nprendere il sole.",
+        "Crea delle bolle d’aria con cui avvolge\ndolcemente gli Azurill che giocano nel fiume."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "name": "Azumarill",
+    "types": [
+        "Acqua",
+        "Folletto"
+    ],
+    "weight": 28.5
+}

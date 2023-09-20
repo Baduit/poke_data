@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
+        "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    "name": "Houndstone",
+    "types": [
+        "Ghost"
+    ],
+    "weight": 15.0
+}

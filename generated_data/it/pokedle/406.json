@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 4,
+    "height": 0.2,
+    "name": "Budew",
+    "types": [
+        "Erba",
+        "Veleno"
+    ],
+    "weight": 1.2
+}

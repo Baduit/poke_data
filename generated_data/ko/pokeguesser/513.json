@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "지능이 높고 나무열매는\n구운 뒤 먹는 습성이 있다.\n사람 도와주기를 좋아한다.",
+        "화산 동굴에서 산다.\n머리의 송아리 속이 불타고 있어\n300도나 되는 높은 온도가 된다.",
+        "지능이 높고 나무열매는\n구운 뒤 먹는 습성이 있다.\n사람 도와주기를 좋아한다.",
+        "화산 동굴에서 산다.\n머리의 송아리 속이 불타고 있어\n300도나 되는 높은 온도가 된다."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "name": "바오프",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 11.0
+}

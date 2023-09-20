@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dieses Pokémon wurde als Wächter des Waldes\ngefürchtet. Es kann die Gedanken des Gegners\nlesen und präventiv handeln.",
+        "Seine großen Fächer erzeugen Böen, die eine\nGeschwindigkeit von 30 m/s erreichen können.",
+        "Tengulist ist ein geheimnisvolles Pokémon, das angeblich\nauf hohen Bäumen lebt, die Tausende von Jahren alt sind.\nMit den Blätterfächern an seinen Händen kann es heftige\nStürme erzeugen.",
+        "Tengulists große Fächer erzeugen Böen, die eine\nGeschwindigkeit von 30 m/s erreichen können und\nalles und jeden hinwegfegen können. Dieses Pokémon\nlebt still und zurückgezogen in den Tiefen der Wälder.",
+        "Dieses Pokémon wurde als „Wächter des Waldes“\ngefürchtet. Es kann die Gedanken des Gegners\nlesen und präventiv handeln.",
+        "Es lebt in den einsamen Tiefen der Wälder. Man\nsagt, wenn es seine großen Fächer schwingt,\njagen eisige Windböen über das Land."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "name": "Tengulist",
+    "types": [
+        "Pflanze",
+        "Unlicht"
+    ],
+    "weight": 59.6
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "髪の毛を　全身に　巻きつけると\n筋力が　アップ。　カイリキーを\nねじ伏せる　パワーを　発揮する。",
+        "髪の毛は　筋肉繊維の　ように\n働き　ほどけると　触手の\n動きで　相手を　絡めとる。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+    "name": "オーロンゲ",
+    "types": [
+        "あく",
+        "フェアリー"
+    ],
+    "weight": 61.0
+}

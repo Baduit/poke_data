@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 5,
+    "height": 0.3,
+    "name": "돌살이",
+    "types": [
+        "벌레",
+        "바위"
+    ],
+    "weight": 14.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "黃色",
+    "generation": 1,
+    "height": 0.6,
+    "name": "鐵殼蛹",
+    "types": [
+        "蟲",
+        "毒"
+    ],
+    "weight": 10.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Pesta i piedi sul terreno per accumulare energia.\nCon uno dei suoi schiaffi può far prendere il volo\na un camion di 10 t.",
+        "Ama confrontarsi con Pokémon grossi. Con uno dei\nsuoi schiaffi, può far prendere il volo a un camion.",
+        "Hariyama sferra potenti schiaffi a braccia tese in ogni\noccasione. Un colpo delle sue violente mani aperte\nè in grado di spaccare in due un palo della luce.",
+        "Il robusto corpo di Hariyama può apparire grasso, ma in realtà\nè formato da una muscolatura tonica. Se contrae e tende ogni\nsingolo muscolo, il suo corpo diventa duro come la roccia.",
+        "È famoso per la sua incredibile forza.\nIn età avanzata, smette di lottare e inizia\nad allenare i Makuhita.",
+        "Con uno dei suoi potentissimi schiaffi può\nscaraventare lontano un camion.\nAdora le gare di forza.",
+        "Adora le gare di forza, ma dà anche molta\nimportanza alla gentilezza e alle buone maniere.\nPer questo ringrazia l’avversario dopo la lotta.",
+        "Gli Hariyama non hanno bisogno di essere\ngrandi e grossi per essere forti. Quelli piccoli\nsono agili ed efficaci nell’eseguire le mosse."
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "name": "Hariyama",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 253.8
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 1,
+    "height": 1.4,
+    "name": "Doduo",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 39.2
+}

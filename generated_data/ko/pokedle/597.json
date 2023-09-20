@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 5,
+    "height": 0.6,
+    "name": "철시드",
+    "types": [
+        "풀",
+        "강철"
+    ],
+    "weight": 18.8
+}

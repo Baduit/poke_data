@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Si appende ai rami con fili di seta. Aspetta l’evoluzione\nbevendo l’acqua piovana che si posa sulla seta.",
+        "Beve la rugiada che si posa sulla seta e aspetta\nl’evoluzione. Il suo bozzolo duro respinge gli attacchi.",
+        "Silcoon si lega ai rami degli alberi grazie ad alcuni fili di seta\nche gli impediscono di cadere. In tale posizione aspetta\npazientemente l’evoluzione. Sbircia fuori dal proprio bozzolo\ndi seta attraverso piccoli fori.",
+        "In passato si pensava che Silcoon resistesse alla fame senza\ningerire nulla fino all’evoluzione. Tuttavia, ora si presume che\nil Pokémon plachi la sua sete bevendo l’acqua piovana che\nsi posa sul suo bozzolo."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+    "name": "Silcoon",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 10.0
+}

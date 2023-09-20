@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Occorre fare attenzione a tutte le sue tre teste,\naltrimenti si rischia d’essere colpiti duramente.",
+        "Pokémon raro e bizzarro. Le sue tre teste\nrappresentano rispettivamente la gioia, la tristezza\ne la rabbia.",
+        "Se le tre teste di Dodrio guardano in tre direzioni diverse,\nsignifica che il Pokémon è vigile. In questo stato il Pokémon\nnon va avvicinato, poiché potrebbe decidere di attaccare.",
+        "Pare che Dodrio non abbia soltanto tre teste, ma anche altri\norgani triplici: ha infatti anche tre cuori e sei polmoni che\ngli consentono di percorrere grandi distanze senza sosta.",
+        "Un Doduo si evolve in Dodrio quando una\ndelle due teste si divide. Lo si vede sfrecciare\nper le praterie a 60 km/h.",
+        "Un Doduo si evolve in Dodrio quando una\ndelle due teste si divide. Lo si vede sfrecciare\nper le praterie a 60 km/h."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "name": "Dodrio",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 85.2
+}

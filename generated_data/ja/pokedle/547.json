@@ -1,0 +1,11 @@
+{
+    "color": "緑色",
+    "generation": 5,
+    "height": 0.7,
+    "name": "エルフーン",
+    "types": [
+        "くさ",
+        "フェアリー"
+    ],
+    "weight": 6.6
+}

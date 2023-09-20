@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Laternecto",
+    "types": [
+        "Geist",
+        "Feuer"
+    ],
+    "weight": 13.0
+}

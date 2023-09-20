@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Desde antaño se adora a este Pokémon para que\npropicie lluvias abundantes. A veces se esconde bajo\ntierra.",
+        "Antaño se creía que rezándole se conjuraba la lluvia\ny se propiciaban las buenas cosechas.",
+        "Desde antaño se adora a este Pokémon para que propicie\nlluvias abundantes. A veces se esconde bajo tierra.",
+        "Antaño se creía que rezándole se conjuraba la lluvia y se\npropiciaban las buenas cosechas.",
+        "Antaño se lo consideraba una deidad que traía\nlas lluvias. Cuando se enfada, emite un sonido\nlúgubre que recuerda al tañido de una campana.",
+        "Basándose en los motivos de su cuerpo, muchos\neruditos creen que este Pokémon no es originario\nde Galar."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "name": "Bronzong",
+    "types": [
+        "Acero",
+        "Psíquico"
+    ],
+    "weight": 187.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 5,
+    "height": 2.0,
+    "name": "Viridium",
+    "types": [
+        "Plante",
+        "Combat"
+    ],
+    "weight": 200.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Hace frente a Zangoose con su agilidad y su afilada\ncola, que está cargada con un veneno letal.",
+        "Le une una relación de enemistad con Zangoose.\nSe lima con las rocas su cola en forma de espada\npara tenerla afilada.",
+        "Seviper lleva años de gran enemistad con Zangoose. Las\ncicatrices que tiene por todo el cuerpo dan buena muestra de\nlos encarnizados combates en los que se han enfrentado.\nSeviper ataca usando su cola con forma de espada.",
+        "Seviper tiene una cola que parece una espada y le sirve para\ndar un sablazo al enemigo y para envenenarlo. Este Pokémon\nse mantiene firme en la enemistad que siente hacia Zangoose."
+    ],
+    "height": 2.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "name": "Seviper",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 52.5
+}

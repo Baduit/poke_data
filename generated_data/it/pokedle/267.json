@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Beautifly",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 28.4
+}

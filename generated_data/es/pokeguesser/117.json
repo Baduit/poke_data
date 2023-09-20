@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Las afiladas púas que le recubren el cuerpo se le\nerizan y pueden causar el debilitamiento con solo\ntocarlo.",
+        "Puede nadar hacia atrás moviendo rápidamente las\naletas pectorales y la robusta cola que tiene.",
+        "Seadra se echa a dormir tras abrirse un hueco entre las ramas\nde los corales. Los pescadores de coral suelen pincharse con\nlas púas venenosas de estos Pokémon si no los ven.",
+        "Seadra gira sobre sí mismo y crea unos remolinos lo\nsuficientemente fuertes como para engullir barcos de pesca.\nEste Pokémon aprovecha las corrientes que crea para debilitar\na su presa y tragársela de una vez.",
+        "Tocar sus aletas dorsales causa entumecimiento.\nMientras duerme se agarra al coral con la cola\npara que no se lo lleve la corriente.",
+        "Tocar sus aletas dorsales causa entumecimiento.\nMientras duerme se agarra al coral con la cola\npara que no se lo lleve la corriente.",
+        "En esta especie, es el macho quien se ocupa de\nla prole. Durante la época de cría, el veneno de\nlas púas de su espalda se vuelve más potente.",
+        "Su estrecho morro posee tal fuerza de succión\nque es capaz de aspirar presas de mayor tamaño\ny engullirlas enteras."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "name": "Seadra",
+    "types": [
+        "Agua"
+    ],
+    "weight": 25.0
+}

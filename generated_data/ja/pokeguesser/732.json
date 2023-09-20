@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "クチバシに　喰った　きのみの　タネを\n溜め込む。　敵や　獲物に\n出会うと　一気に　発射する。",
+        "クチバシを　反り返らせ　色んな\n音で　鳴く。　かなり　うるさいので\n周りの　御宅には　嫌われるぞ。",
+        "クチバシの　先端を　反り返らせ\n１００　以上の　鳴き声を\n自由に　鳴きわけることが　できる。",
+        "食べた　きのみのタネを　口から\n発射。　タネは大地に　散らばり\n新たな　草木が　生まれるのだ。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "name": "ケララッパ",
+    "types": [
+        "ノーマル",
+        "ひこう"
+    ],
+    "weight": 14.8
+}

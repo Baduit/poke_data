@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Sewaddle",
+    "types": [
+        "Bicho",
+        "Planta"
+    ],
+    "weight": 2.5
+}

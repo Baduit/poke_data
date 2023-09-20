@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 6,
+    "height": 1.2,
+    "name": "Vivillon",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 17.0
+}

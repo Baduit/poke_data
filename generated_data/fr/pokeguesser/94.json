@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Si vous croisez un regard\ninquiétant qui perce la nuit,\nc’est sûrement un Ectoplasma.",
+        "Si vous croisez un regard\ninquiétant qui perce la nuit,\nc’est sûrement un Ectoplasma.",
+        "On dit que lorsqu’Ectoplasma se cache dans l’ombre,\nla température alentour chute de 5 °C.",
+        "Il se cache dans l’ombre des passants et vole leur\nchaleur. Ses victimes ressentent alors un frisson.",
+        "Parfois, pendant les nuits noires, une ombre projetée par\nun réverbère peut tout à coup vous dépasser. Il s’agit d’un\nEctoplasma qui court, en se faisant passer pour l’ombre\nde quelqu’un d’autre.",
+        "Parfois, pendant les nuits noires, une ombre projetée par\nun réverbère peut tout à coup vous dépasser. Il s’agit d’un\nEctoplasma qui court, en se faisant passer pour l’ombre\nde quelqu’un d’autre.",
+        "Si vous frissonnez soudainement, c’est qu’un\nEctoplasma en veut à votre vie. Vous ne pouvez\ny échapper. Abandonnez toute espérance.",
+        "S’il attente à la vie des humains, c’est parce\nqu’ils deviendront des Ectoplasma après la mort\net qu’il veut les entraîner avec lui.",
+        "Les enfants du monde entier redoutent\nla menace de l’Ectoplasma qui viendra les\nchercher s’ils ne sont pas sages.",
+        "Même chez soi, on n’est pas à l’abri.\nEctoplasma attend, tapi dans un recoin sombre,\npour mieux bondir sur ses proies...",
+        "Si vous êtes pris de frissons soudains, c’est qu’un\nEctoplasma rôde dans les parages. Il pourrait\npeut-être même vous lancer une malédiction.",
+        "Si vous êtes pris de frissons soudains, c’est qu’un\nEctoplasma rôde dans les parages. Il pourrait\npeut-être même vous lancer une malédiction.",
+        "Un soir de pleine lune, si une ombre se met\nà bouger et éclate de rire, c’est sûrement\nl’œuvre d’un Ectoplasma.",
+        "On dit qu’Ectoplasma surgit parfois des ténèbres\npour prendre la vie des personnes égarées\nen montagne."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "name": "Ectoplasma",
+    "types": [
+        "Spectre",
+        "Poison"
+    ],
+    "weight": 40.5
+}

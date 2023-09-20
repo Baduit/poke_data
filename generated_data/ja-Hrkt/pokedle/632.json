@@ -1,0 +1,11 @@
+{
+    "color": "はいいろ",
+    "generation": 5,
+    "height": 0.3,
+    "name": "アイアント",
+    "types": [
+        "むし",
+        "はがね"
+    ],
+    "weight": 33.0
+}

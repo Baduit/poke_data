@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 7,
+    "height": 1.5,
+    "name": "Lucanon",
+    "types": [
+        "Insecte",
+        "Électrik"
+    ],
+    "weight": 45.0
+}

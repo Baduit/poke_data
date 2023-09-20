@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 7,
+    "height": 5.5,
+    "name": "Muramura",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 820.0
+}

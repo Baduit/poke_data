@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Il vit toujours dans sa pomme. S’il croise\nun Pokémon oiseau, son prédateur naturel, il se\nfait passer pour un simple fruit pour se protéger.",
+        "À la naissance, il s’installe dans une pomme\net grandit en se nourrissant de sa chair.\nSon évolution dépend de la saveur du fruit."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "name": "Verpom",
+    "types": [
+        "Plante",
+        "Dragon"
+    ],
+    "weight": 0.5
+}

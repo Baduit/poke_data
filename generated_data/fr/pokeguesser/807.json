@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Il déchiquette son adversaire avec ses griffes\nchargées d’électricité. Même si sa cible évite\nl’attaque, elle reçoit un coup de jus.",
+        "Il prend l’ennemi par surprise en attaquant\nplus vite que l’éclair, et le débite en morceaux\navec ses griffes acérées.",
+        "Il fonce sur ses ennemis à la vitesse de l’éclair\net les déchiquette à l’aide de ses griffes chargées\nà haute tension.",
+        "Il envoie des décharges électriques avec\nles coussinets de ses pattes. Quand il court,\non peut voir des éclairs et entendre la foudre."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "Zeraora",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 44.5
+}

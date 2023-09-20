@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es ahmt seinen Gegner nach. Während dieser noch\nverblüfft dreinsieht, macht es sich aus dem Staub.",
+        "Es ahmt seinen Gegner nach. Der kann den Blick\ndanach nicht von ihm abwenden.",
+        "Es ahmt seinen Gegner nach. Während dieser noch verblüfft\ndreinsieht, macht es sich aus dem Staub.",
+        "Es ahmt seinen Gegner nach. Der kann den Blick danach nicht\nvon ihm abwenden.",
+        "Ahmt die Bewegungen und Gesichtsausdrücke\nanderer so gut es kann nach. Leider lassen\nseine Fähigkeiten noch zu wünschen übrig.",
+        "Andere nachzuahmen ist sein Steckenpferd.\nKann es sie damit verblüffen, freut es sich so\nsehr, dass es sogar das Imitieren vergisst.",
+        "Dieses Pokémon ahmt alles nach, was es sieht. Es\nübt, indem es fleißig die herrlichen Tanzschritte\nvon Pantifrost imitiert.",
+        "Es folgt dem talentierten Tänzer Pantifrost wie\nein Schüler und imitiert seine Schritte."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+    "name": "Pantimimi",
+    "types": [
+        "Psycho",
+        "Fee"
+    ],
+    "weight": 13.0
+}

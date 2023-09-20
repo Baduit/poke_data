@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Une Ultra-Chimère venue de l’Ultra-Brèche.\nElle ne semble pas agressive, bien que son\ncorps tout entier soit une arme tranchante.",
+        "Une espèce d’Ultra-Chimère. On l’aurait aperçue\ncoupant un pylône métallique en deux d’un seul\ntranchant.",
+        "Le corps de cette Ultra-Chimère semble fin\ncomme du papier, mais il est aussi tranchant\nqu’un sabre affûté.",
+        "Cette créature venue d’ailleurs est dangereuse\ndans notre monde, mais il semblerait qu’elle soit\ntrès commune dans le sien."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "name": "Katagami",
+    "types": [
+        "Plante",
+        "Acier"
+    ],
+    "weight": 0.1
+}

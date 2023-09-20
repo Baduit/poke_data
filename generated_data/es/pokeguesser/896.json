@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Libera un potente vaho gélido por las pezuñas.\nUn ser violento que no duda en tomar a la fuerza\ntodo cuanto desea.",
+        "Cuenta con una fuerza física sobrecogedora.\nLa máscara de hielo que le cubre el rostro es\ncien veces más dura que el diamante."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "name": "Glastrier",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 800.0
+}

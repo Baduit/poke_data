@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Tranquill",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 15.0
+}

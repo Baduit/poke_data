@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Araqua",
+    "types": [
+        "Eau",
+        "Insecte"
+    ],
+    "weight": 4.0
+}

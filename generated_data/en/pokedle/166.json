@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 2,
+    "height": 1.4,
+    "name": "Ledian",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 35.6
+}

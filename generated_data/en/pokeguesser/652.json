@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Its Tackle is forceful enough to flip a 50-ton tank.\nIt shields its allies from danger with its own body.",
+        "When it takes a defensive posture with its fists\nguarding its face, it could withstand a bomb blast.",
+        "Its Tackle is forceful enough to flip a 50-ton tank.\nIt shields its allies from danger with its own body.",
+        "When it takes a defensive posture with its fists\nguarding its face, it could withstand a bomb blast."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "name": "Chesnaught",
+    "types": [
+        "Grass",
+        "Fighting"
+    ],
+    "weight": 90.0
+}

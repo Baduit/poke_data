@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Seine Gehirnzellen vervielfachen sich sein ganzes\nLeben lang. Daher kann es sich immer an alles\nerinnern.",
+        "Das Gehirn dieses Pokémon ist leistungsfähiger als\nein Computer. Sein IQ soll bei etwa 5 000 liegen.",
+        "Simsalas Gehirn hört nicht auf zu wachsen, sodass sein Kopf\nzu schwer für seine Nackenmuskulatur wird. Dieses Pokémon\nhält seinen Kopf mit psychokinetischer Energie aufrecht.",
+        "Simsalas Hirn wächst stetig weiter und seine Gehirnzellen\nwerden unendlich vervielfacht. Durch sein verblüffendes Gehirn\nerreicht dieses Pokémon einen IQ von 5 000. Es erinnert sich\nan alles, was in der Welt passiert ist.",
+        "Es hat einen IQ von 5 000. Seine Psycho-Kräfte\nsind so stark ausgeprägt, dass man Kopfweh\nbekommt, wenn man nur neben ihm steht.",
+        "Seine Gehirnzellen vervielfachen sich sein\nganzes Leben lang. Je älter ein Simsala ist,\ndesto größer ist demzufolge auch sein Kopf.",
+        "Die beiden Löffel hat es mithilfe seiner Psycho-\nKräfte selbst erschaffen. Jeder von ihnen ist\nweltweit einzigartig.",
+        "Wenn es volles Vertrauen in jemanden hat,\nüberlässt es ihm einen Löffel. Mit diesem wird\nangeblich alles zu einer Köstlichkeit.",
+        "Es hat ein perfektes Gedächtnis und vergisst\nnichts. Das macht es zu einem sehr schlauen\nPokémon.",
+        "Es hat ein perfektes Gedächtnis und vergisst\nnichts. Das macht es zu einem sehr schlauen\nPokémon.",
+        "Es verfügt über extrem hohe Intelligenz und soll\nsich an alles erinnern können, was zwischen seiner\nGeburt und seinem Tod passiert.",
+        "Simsala verfügt über extrem starke Psycho-Kräfte.\nMit ihnen soll es die Löffel erschaffen haben,\ndie es in seinen Händen hält."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "name": "Simsala",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 48.0
+}

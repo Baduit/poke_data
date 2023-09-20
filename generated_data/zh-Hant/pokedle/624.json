@@ -1,0 +1,11 @@
+{
+    "color": "紅色",
+    "generation": 5,
+    "height": 0.5,
+    "name": "駒刀小兵",
+    "types": [
+        "惡",
+        "鋼"
+    ],
+    "weight": 10.2
+}

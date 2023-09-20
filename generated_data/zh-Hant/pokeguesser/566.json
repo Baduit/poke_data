@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "是所有鳥寶可夢的祖先。\n始祖小鳥本身還不會飛，\n而是在樹上跳著移動。",
+        "似乎不會飛行，\n但聽說會從高高的樹上\n滑翔捕捉獵物。",
+        "一直以來被認為是所有\n鳥寶可夢的祖先，但最近也有\n研究指出事實並非如此。",
+        "從化石復原而來。\n有翅膀，但還不會飛。\n是古代的鳥寶可夢。",
+        "從化石成功復原的寶可夢。\n正如研究所指出的，雖然\n牠不會飛，但卻擅於跳躍。",
+        "被稱作是鳥寶可夢的祖先。\n棲息在樹上，以樹果和\n蟲寶可夢為食。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "name": "始祖小鳥",
+    "types": [
+        "岩石",
+        "飛行"
+    ],
+    "weight": 9.5
+}

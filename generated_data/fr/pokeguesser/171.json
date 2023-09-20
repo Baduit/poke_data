@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "La lumière de Lanturn surgit des\nprofondeurs. On le surnomme\n“étoile des profondeurs”.",
+        "La lumière de Lanturn surgit des\nprofondeurs. On le surnomme\n“étoile des profondeurs”.",
+        "La lumière de Lanturn surgit des profondeurs.\nOn le surnomme « étoile des profondeurs ».",
+        "Il aveugle sa proie avec une lumière intense, puis\nl’avale d’un seul trait une fois immobilisée.",
+        "On surnomme Lanturn « l’étoile des profondeurs » à cause de\nson antenne lumineuse. Ce Pokémon produit de la lumière\nen provoquant une réaction chimique entre des bactéries\net les fluides corporels de son antenne.",
+        "On sait que Lanturn émet de la lumière. Si on regarde\nattentivement la mer de nuit à partir d’un bateau, on peut voir\nla lumière générée par ce Pokémon éclairer les profondeurs.\nCela donne à la mer l’apparence d’un ciel étoilé.",
+        "Lorsqu’on regarde au fond de la mer au milieu\nde la nuit et que l’on croit apercevoir le reflet\ndes étoiles, c’est probablement un Lanturn.",
+        "Il dégage une vive lumière pour éblouir ses\nproies, puis les achève d’un choc électrique\nbien senti.",
+        "Les bactéries nichées dans l’antenne de Lanturn\némettent une lumière vive quand elles aspirent\nses fluides corporels.",
+        "Ce Pokémon des abysses immobilise ses proies\nen les aveuglant grâce à la lumière de son\nantenne, puis les gobe toutes crues.",
+        "Sa lumière est si intense qu’on peut la voir\nà la surface de l’eau alors qu’il se trouve\nà 5 000 mètres de profondeur.",
+        "Il dégage une vive lumière pour éblouir ses proies,\npuis leur inflige un choc électrique bien senti."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "name": "Lanturn",
+    "types": [
+        "Eau",
+        "Électrik"
+    ],
+    "weight": 22.5
+}

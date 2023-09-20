@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Intrappola le prede con gli arti, che sono costituiti\nda liane. Se ne perde uno, non si turba affatto.",
+        "Nella stagione calda, le sue liane crescono al punto\nda coprirgli gli occhi.",
+        "Intrappola le prede con gli arti, che sono costituiti da liane.\nSe ne perde uno, non si turba affatto.",
+        "Nella stagione calda, le sue liane crescono al punto da\ncoprirgli gli occhi.",
+        "Può estendere le braccia a piacimento.\nIn seguito a recenti ricerche si è scoperto\nche sono in realtà fasci di liane.",
+        "Più il territorio in cui vive è caldo, più le sue liane\ncrescono velocemente. Quando si allungano\ntroppo, le taglia per accorciarle."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "name": "Tangrowth",
+    "types": [
+        "Erba"
+    ],
+    "weight": 128.6
+}

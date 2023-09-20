@@ -1,0 +1,11 @@
+{
+    "color": "Weiß",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Hutsassa",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 10.5
+}

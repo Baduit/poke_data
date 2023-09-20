@@ -1,0 +1,11 @@
+{
+    "color": "Violet",
+    "generation": 1,
+    "height": 1.6,
+    "name": "Spectrum",
+    "types": [
+        "Spectre",
+        "Poison"
+    ],
+    "weight": 0.1
+}

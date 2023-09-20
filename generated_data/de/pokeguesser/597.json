@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Fühlt es sich bedroht, wehrt es sich, indem es\neine großzügige Salve Dornen abfeuert.",
+        "Hakt sich an der Decke von Höhlen fest und saugt\ndie Mineralien aus dem Gestein. Bei Gefahr feuert es\nDornen ab.",
+        "Fühlt es sich bedroht, wehrt es sich, indem es eine großzügige\nSalve Dornen abfeuert.",
+        "Hakt sich an der Decke von Höhlen fest und saugt die\nMineralien aus dem Gestein. Bei Gefahr feuert es Dornen ab.",
+        "Es schützt sich, indem es Dornen verschießt. Ein\nKastadur muss jahrelang trainieren, um präzise\nzielen zu können.",
+        "Es fühlt sich in moosbewachsenen Höhlen wohl.\nDie im Moos enthaltenen Enzyme lassen seine\nStacheln besonders groß und kräftig werden."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "name": "Kastadur",
+    "types": [
+        "Pflanze",
+        "Stahl"
+    ],
+    "weight": 18.8
+}

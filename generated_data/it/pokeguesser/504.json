@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Immagazzina cibo nelle guance e monta la guardia\nper molti giorni di seguito. Usa la coda per fare\nsegnali ai compagni.",
+        "Sono molto guardinghi e almeno uno del branco è\nsempre di guardia. Non vedono però il nemico se li\nattacca da dietro.",
+        "Immagazzina cibo nelle guance e monta la guardia per molti\ngiorni di seguito. Usa la coda per fare segnali ai compagni.",
+        "Sono molto guardinghi e almeno uno del branco è sempre\ndi guardia. Non vedono però il nemico se li attacca da dietro."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+    "name": "Patrat",
+    "types": [
+        "Normale"
+    ],
+    "weight": 11.6
+}

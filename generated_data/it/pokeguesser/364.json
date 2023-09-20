@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Per memorizzare un nuovo oggetto, ha bisogno di\ntoccarlo con il naso, dove risiede la sua sensibilità.",
+        "Fa roteare sul naso qualsiasi cosa abbia forma sferica,\nPoké Ball e Spheal inclusi.",
+        "Sealeo è solito giocare con qualsiasi cosa veda per la prima\nvolta, tenendola in equilibrio sulla punta del naso.\nTalvolta, si diverte a far rotolare sul proprio naso\nanche Spheal.",
+        "Sealeo gioca spesso tenendo in equilibrio oggetti sulla punta\ndel naso e facendoli rotolare. Riesce così anche ad annusarli\ne provarne la consistenza per capire se sono di suo\ngradimento o meno.",
+        "Vive su banchi di ghiaccio alla deriva. Individua\nle prede fiutandone l’odore mentre nuota.",
+        "È solito giocare facendo ruotare sulla punta\ndel naso qualsiasi cosa rotonda gli capiti a tiro,\ncompresi Spheal e Poké Ball."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+    "name": "Sealeo",
+    "types": [
+        "Ghiaccio",
+        "Acqua"
+    ],
+    "weight": 87.6
+}

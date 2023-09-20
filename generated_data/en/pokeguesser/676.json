@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Trimming its fluffy fur not only makes\nit more elegant but also increases the\nswiftness of its movements.",
+        "Historically, in the Kalos region, these Pokémon\nwere the designated guardians of the king.",
+        "Trimming its fluffy fur not only makes\nit more elegant but also increases the\nswiftness of its movements.",
+        "Historically, in the Kalos region, these Pokémon\nwere the designated guardians of the king.",
+        "There was an era when aristocrats would\ncompete to see who could trim their Furfrou’s\nfur into the most exquisite style.",
+        "Left alone, its fur will grow longer and longer,\nbut it will only allow someone it trusts to cut it."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+    "name": "Furfrou",
+    "types": [
+        "Normal"
+    ],
+    "weight": 28.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Masquerain",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 3.6
+}

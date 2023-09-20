@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Eines der Lebewesen, die Ultrabestien genannt\nwerden. In seinem Körper bewahrt es Hunderte\nLiter giftiger Flüssigkeit auf.",
+        "Diese Ultrabestie verschießt aus ihren\nGiftstacheln ein leuchtendes, dickflüssiges Gift."
+    ],
+    "height": 3.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "name": "Agoyon",
+    "types": [
+        "Gift",
+        "Drache"
+    ],
+    "weight": 150.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Schwimmt es schnell genug, kann es über die Wellen\nspringen und bis zu 100 m durch die Lüfte gleiten.",
+        "Zieht elegant durch die Meere und ignoriert dabei\nRemoraid, die an seinen Flossen haften.",
+        "An schönen Tagen sieht man Schwärme von Mantax elegant\nüber die Wellen des Ozeans springen. Durch Remoraid, die\nan ihm haften und es begleiten, fühlt sich dieses Pokémon\nnicht belästigt.",
+        "An schönen Tagen sieht man Scharen von Mantax elegant über\ndie Wellen des Ozeans springen. Durch Remoraid, die an ihm\nhaften und es begleiten, fühlt sich dieses Pokémon nicht\nbelästigt.",
+        "Postkarten und Poster, auf denen Mantax\nelegant über die Wellen springt, sind beliebte\nMitbringsel aus Alola.",
+        "Es gibt viele Menschen, die mit dem Surfen\nangefangen haben, weil sie die wunderschön\ndahinschwimmenden Mantax so bewundern.",
+        "Schwimmt es schnell genug, kann es über die\nWellen springen und bis zu 100 m durch die\nLüfte gleiten.",
+        "Es schwimmt erhaben durch die Meere und\nduldet dabei etwaige Remoraid, die sich in der\nHoffnung auf Futterreste an es heften."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "name": "Mantax",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 220.0
+}

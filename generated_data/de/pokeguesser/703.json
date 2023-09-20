@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Dieses Pokémon entstand aus Druck und Hitze\nin den tiefsten Erdschichten. Mithilfe des Steines\nin seinem Kopf feuert es Energiestrahlen ab.",
+        "Nach seiner Geburt brachte es hunderte Millionen von\nJahren tief unter der Erde schlafend zu. Es tritt\ngelegentlich bei Höhlengrabungen zutage.",
+        "Dieses Pokémon entstand aus Druck und Hitze in den tiefsten\nErdschichten. Mithilfe des Steines in seinem Kopf feuert es\nEnergiestrahlen ab.",
+        "Nach seiner Geburt brachte es hunderte Millionen von\nJahren tief unter der Erde schlafend zu. Es tritt gelegentlich\nbei Höhlengrabungen zutage.",
+        "Druck und Hitze tiefster Erdschichten erzeugten\ndieses Pokémon. Seine funkelnden Körperstellen\nsondern Strahlen ab, mit denen es sich schützt.",
+        "Der Edelstein, der in seinem Körper steckt,\nist zwar recht gewöhnlich, aber da er schön\nfunkelt, ist das Pokémon trotzdem sehr beliebt.",
+        "Tief unter der Erde gibt es angeblich ein\nKönigreich aus Diamanten, in dem Rocara\nzusammen mit ihrer Königin leben.",
+        "Um zu verhindern, dass die Edelsteine an ihrem\nKörper den Glanz verlieren, polieren sich Rocara\ngegenseitig mit ihren flauschigen Bärten.",
+        "Es feuert hochenergetische Strahlen aus den\nEdelsteinen ab, mit denen sein Körper besetzt\nist, und erledigt so angreifende Gegner.",
+        "Es heißt, irgendwo auf der Welt gäbe es eine\nGesteinsader aus schlafenden Rocara. Dort soll\nman auch ihre Königin antreffen können."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+    "name": "Rocara",
+    "types": [
+        "Gestein",
+        "Fee"
+    ],
+    "weight": 5.7
+}

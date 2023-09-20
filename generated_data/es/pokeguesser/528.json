@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Cuando emite ondas ultrasónicas, que incluso pueden\nreventar el cemento, agita su cola con vehemencia.",
+        "Todos rebosan de alborozo cuando perciben las ondas\nultrasónicas emitidas por el macho para cortejar a la\nhembra.",
+        "Cuando emite ondas ultrasónicas, que incluso pueden\nreventar el cemento, agita su cola con vehemencia.",
+        "Todos rebosan de alborozo cuando perciben las ondas\nultrasónicas emitidas por el macho para cortejar a la hembra.",
+        "Tras emitir sus potentísimas ondas, queda tan\nexhausto que es incapaz de volar durante un\ntiempo.",
+        "En algunas regiones se venera a este Pokémon,\nya que consideran la forma de su nariz como un\nsímbolo de felicidad."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png",
+    "name": "Swoobat",
+    "types": [
+        "Psíquico",
+        "Volador"
+    ],
+    "weight": 10.5
+}

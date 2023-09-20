@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "小時候會和夥伴們群居在一起，\n當成長到能自己捕捉獵物之後，\n就會被趕出群體獨立生活。",
+        "血氣方剛且好奇心旺盛。\n當牠生氣或是開始戰鬥時，\n短短的鬃毛就會變熱。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+    "name": "小獅獅",
+    "types": [
+        "火",
+        "一般"
+    ],
+    "weight": 13.5
+}

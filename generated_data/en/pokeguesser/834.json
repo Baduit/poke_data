@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "With jaws that can shear through steel rods,\nthis highly aggressive Pokémon chomps down\non its unfortunate prey.",
+        "This Pokémon rapidly extends its retractable neck\nto sink its sharp fangs into distant enemies and\ntake them down."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "name": "Drednaw",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "weight": 115.5
+}

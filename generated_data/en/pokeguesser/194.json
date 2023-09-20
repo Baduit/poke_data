@@ -1,0 +1,35 @@
+{
+    "descriptions": [
+        "This POKéMON lives\nin cold water. It\nwill leave the\fwater to search\nfor food when it\ngets cold outside.",
+        "When it walks a­\nround on the\nground, it coats\fits body with a\nslimy, poisonous\nfilm.",
+        "A mucous\nmembrane covers\nits body. Touching\fit barehanded will\ncause a shooting\npain.",
+        "WOOPER usually lives in water.\nHowever, it occasionally comes out onto\nland in search of food.\fOn land, it coats its body with a gooey,\ntoxic film.",
+        "WOOPER usually lives in water.\nHowever, it occasionally comes out onto\nland in search of food.\fOn land, it coats its body with a gooey,\ntoxic film.",
+        "WOOPER usually live in water but come\nout onto land seeking food occasionally.\nOn land, they coat their bodies with a\ngooey, toxic film.",
+        "When it walks around on the ground,\nit coats its body with a slimy, poisonous\nfilm.",
+        "This POKéMON lives in cold water. It will\nleave the water to search for food when\nit gets cold outside.",
+        "It lives in cold water, half\nburying itself in mud at the\nbottom to sleep.",
+        "When the temperature cools in the\nevening, they emerge from water\nto seek food along the shore.",
+        "When walking on land, it covers its\nbody with a poisonous film that\nkeeps its skin from dehydrating.",
+        "This Pokémon lives in cold water.\nIt will leave the water to search\nfor food when it gets cold outside.",
+        "When it walks around on the\nground, it coats its body with a\nslimy, poisonous film.",
+        "When walking on land, it covers its\nbody with a poisonous film that\nkeeps its skin from dehydrating.",
+        "When walking on land, it covers its\nbody with a poisonous film that\nkeeps its skin from dehydrating.",
+        "When walking on land, it covers its\nbody with a poisonous film that\nkeeps its skin from dehydrating.",
+        "When walking on land, it covers its\nbody with a poisonous film that\nkeeps its skin from dehydrating.",
+        "This Pokémon lives in cold water. It will leave the\nwater to search for food when it gets cold outside.",
+        "When the temperature cools in the evening,\nthey emerge from water to seek food along\nthe shore.",
+        "Wooper usually lives in water. However, it occasionally comes\nout onto land in search of food. On land, it coats its body with\na gooey, toxic film.",
+        "Wooper usually lives in water. However, it occasionally comes\nout onto land in search of food. On land, it coats its body with\na gooey, toxic film.",
+        "This Pokémon lives in cold water. It will leave the\nwater to search for food when it gets cold outside.",
+        "When walking on land, it covers its body with a\npoisonous film that keeps its skin from dehydrating."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "name": "Wooper",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "weight": 8.5
+}

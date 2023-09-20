@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "An klaren Tagen erzeugt Folipurba saubere Luft,\nindem es Photosynthese betreibt.",
+        "Genau wie eine Pflanze führt es die Photosynthese\naus. Deshalb ist es ständig von reiner Luft umgeben.",
+        "An klaren Tagen erzeugt Folipurba saubere Luft, indem es\nPhotosynthese betreibt.",
+        "Genau wie eine Pflanze führt es die Photosynthese aus.\nDeshalb ist es ständig von reiner Luft umgeben.",
+        "Seine Zellstruktur ähnelt jener von Pflanzen.\nDurch Photosynthese kann es ohne\nNahrungsaufnahme Energie gewinnen.",
+        "Junge Folipurba riechen stark nach frischem\nGras, ältere hingegen verströmen den Geruch\nvon herabgefallenem Laub.",
+        "Folipurba kämpft nicht gerne, aber sollten sich\nseine Kameraden in Gefahr befinden, verwendet\nes seinen blattartigen Schweif wie eine Klinge.",
+        "Mittels Photosynthese versorgt es sich mit\nNährstoffen. Es lebt abgeschieden in dichten,\nvon glitzernden Bächen durchzogenen Wäldern.",
+        "Die Bewohner Galars mögen den eigentümlichen\nGeruch, den seine Blätter verströmen. Als Parfüm\nist er sehr beliebt.",
+        "Sein Schweif ist scharf wie eine Klinge. Es ist stolz\ndarauf, dass es damit selbst einen großen Baum\nsauber zweiteilen kann."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "name": "Folipurba",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 25.5
+}

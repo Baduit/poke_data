@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Wormadam",
+    "types": [
+        "Bicho",
+        "Planta"
+    ],
+    "weight": 6.5
+}

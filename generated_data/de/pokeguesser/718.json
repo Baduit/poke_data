@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Wenn das Ökosystem der Kalos-Region kippt,\nerscheint dieses Pokémon und offenbart seine\ngeheimen Kräfte.",
+        "Es wird gemutmaßt, dass es von seiner Höhle aus\nall jene beobachtet, die dem Ökosystem Schaden\nzufügen.",
+        "Wenn das Ökosystem der Kalos-Region kippt, erscheint dieses\nPokémon und offenbart seine geheimen Kräfte.",
+        "Es wird gemutmaßt, dass es von seiner Höhle aus all jene\nbeobachtet, die dem Ökosystem Schaden zufügen.",
+        "Diese Form vereint 50 % der Zellen in sich.\nWer diesem Pokémon Widerstand leistet,\nwird ohne Gnade ausgelöscht.",
+        "Man nimmt an, dass es das Ökosystem\nbeobachtet und über geheime Kräfte verfügt.",
+        "In dieser Form vereint Zygarde 50 % seiner\nZellen in sich. Seine Aufgabe besteht darin,\ndas Ökosystem zu überwachen.",
+        "Im Kampf gegen all jene, die das Ökosystem in\nGefahr bringen, nimmt es angeblich eine noch\nmächtigere Form an."
+    ],
+    "height": 5.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "name": "Zygarde",
+    "types": [
+        "Drache",
+        "Boden"
+    ],
+    "weight": 305.0
+}

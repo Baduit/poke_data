@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Preferisce le terre aride. Rilascia acqua dagli occhi\nper regolare il livello dei suoi fluidi corporei.",
+        "Ama i luoghi aridi. Quando regola l’umidità del\ncorpo sembra che pianga.",
+        "Preferisce le terre aride. Rilascia acqua dagli occhi per\nregolare il livello dei suoi fluidi corporei.",
+        "Ama i luoghi aridi. Quando regola l’umidità del corpo sembra\nche pianga.",
+        "Non ama l’acqua e preferisce vivere in ambienti\naridi. Data la mancanza di vegetazione in questi\nluoghi, individuarlo è molto facile.",
+        "Espelle dagli occhi l’umidità corporea in eccesso.\nSi tratta di un fenomeno fisiologico simile alla\nsudorazione.",
+        "Espelle l’umidità dagli occhi dando l’impressione\nche stia piangendo. I nemici che assistono a\nquesto fenomeno abbassano la guardia.",
+        "Se il suo corpo è troppo umido, la sua vita è\nin pericolo. Per questo espelle dagli occhi\nl’umidità corporea come se fosse sudore.",
+        "Dagli occhi espelle sudore e lacrime.\nIl primo ha un gusto lievemente salato,\nle seconde sono leggermente amare.",
+        "Vive in ambienti aridi e pietrosi. Quando sono\nsecche, le sue sfere verdi emettono un fioco\nbagliore."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "name": "Bonsly",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 15.0
+}

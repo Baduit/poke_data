@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 1,
+    "height": 0.7,
+    "name": "Bellsprout",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 6,
+    "height": 0.9,
+    "name": "Banshitrouye",
+    "types": [
+        "Spectre",
+        "Plante"
+    ],
+    "weight": 12.5
+}

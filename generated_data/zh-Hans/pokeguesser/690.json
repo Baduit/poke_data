@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "同碎藻混杂在一起，为了不被\n大型宝可梦袭击，一直一动不动的。\n以腐烂的海藻为主要食物。",
+        "因为不擅长游泳，\n所以会缠住碎藻。在阿罗拉地区，\n经常能在破破舵轮旁边发现它。",
+        "与碎藻混杂在一起漂浮于海中。\n会瞄准来吃海藻的宝可梦，\n了结它的性命并美餐一顿。",
+        "看上去很像腐烂的海藻，\n因此会藏身于漂在海里的\n碎藻中，骗过敌人的眼睛。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "name": "垃垃藻",
+    "types": [
+        "毒",
+        "水"
+    ],
+    "weight": 7.3
+}

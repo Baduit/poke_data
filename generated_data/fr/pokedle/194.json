@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Axoloto",
+    "types": [
+        "Eau",
+        "Sol"
+    ],
+    "weight": 8.5
+}

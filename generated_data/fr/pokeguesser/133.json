@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Son ADN particulier lui permet de\ns’adapter très rapidement à son\nenvironnement.",
+        "Son ADN particulier lui permet de\ns’adapter très rapidement à son\nenvironnement.",
+        "Un Pokémon rare qui s’adapte aux environnements\nhostiles en variant ses formes évolutives.",
+        "L’ADN de ce Pokémon très particulier recèle de\nnombreuses possibilités d’évolution.",
+        "Évoli a une structure génétique instable qui se transforme\nen fonction de l’environnement dans lequel il vit.\nCe Pokémon peut évoluer grâce aux radiations de\ndiverses pierres.",
+        "Évoli a une structure génétique instable qui se transforme\nen fonction de l’environnement dans lequel il vit.\nCe Pokémon peut évoluer grâce aux radiations de\ndiverses pierres.",
+        "Son ADN est instable et possède de\nnombreuses possibilités d’évolution.",
+        "D’après les dernières recherches, il semble que\nce Pokémon soit capable d’évoluer en huit\nespèces différentes.",
+        "À ce jour, nul ne sait pourquoi Évoli est le seul\nPokémon dont l’ADN est instable.",
+        "L’ADN d’Évoli est sujet aux influences de\nson environnement. Sa tête finit même par\nressembler à celle de son Dresseur.",
+        "Il peut évoluer de diverses façons. Son ADN est\nla clé pour percer le secret de l’évolution.",
+        "Il peut évoluer de diverses façons. Son ADN est\nla clé pour percer le secret de l’évolution.",
+        "Il a la capacité de changer la composition de\nson corps pour s’adapter à son environnement.",
+        "L’ADN de ce Pokémon très particulier recèle\nde nombreuses possibilités d’évolution."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "name": "Évoli",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.5
+}

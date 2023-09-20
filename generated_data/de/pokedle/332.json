@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 1.3,
+    "name": "Noktuska",
+    "types": [
+        "Pflanze",
+        "Unlicht"
+    ],
+    "weight": 77.4
+}

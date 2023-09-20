@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Si planta su única extremidad inferior en la tierra\ny se expone a abundante luz solar, sus pétalos\ncobran un color vivo.",
+        "Muchos los crían tras quedar prendados de lo\nadorables que resultan cuando cantan dando\nvueltas empujados por la brisa."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
+    "name": "Gossifleur",
+    "types": [
+        "Planta"
+    ],
+    "weight": 2.2
+}

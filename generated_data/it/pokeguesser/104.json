@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Indossa il teschio della madre morta come un casco.\nQuando si sente solo lancia urla strazianti.",
+        "Indossa sempre il teschio della mamma scomparsa:\nnessuno l’ha mai potuto vedere in faccia.",
+        "Cubone si strugge per la madre che non rivedrà mai più.\nPiange alla luna piena che somiglia molto alla madre.\nLe macchie sul teschio che indossa sono dovute alle\nlacrime copiose.",
+        "Cubone si strugge per la madre che non rivedrà mai più.\nPiange alla luna piena che somiglia molto alla madre.\nLe macchie sul teschio che indossa sono dovute alle\nlacrime copiose.",
+        "Piange disperatamente pensando alla madre\nmorta. Quando i Mandibuzz lo sentono,\nsi lanciano in picchiata per attaccarlo.",
+        "Il teschio che porta in testa apparteneva alla\nmadre morta. Si evolve dopo aver superato\nil lutto per la sua perdita.",
+        "Di notte piange disperatamente pensando alla\nmadre morta. I suoi lamenti attirano i Mandibuzz,\nsuoi predatori naturali.",
+        "Poiché indossa sempre il teschio della madre,\nnon si sa che viso o che espressione abbia,\nma è evidente che piange continuamente.",
+        "Indossa il teschio di sua madre come elmo.\nIl suo verso riecheggia all’interno del teschio\nproducendo una triste melodia.",
+        "Indossa il teschio di sua madre come elmo.\nIl suo verso riecheggia all’interno del teschio\nproducendo una triste melodia.",
+        "Quando piange pensando alla madre defunta,\ni suoi lamenti riecheggiano tristemente all’interno\ndel teschio che ha in testa.",
+        "Indossa il teschio della madre defunta. A volte\ncapita che pianga vedendola in sogno, ma a ogni\nlacrima versata diventa più forte."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "name": "Cubone",
+    "types": [
+        "Terra"
+    ],
+    "weight": 6.5
+}

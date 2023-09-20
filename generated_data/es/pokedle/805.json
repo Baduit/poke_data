@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 7,
+    "height": 5.5,
+    "name": "Stakataka",
+    "types": [
+        "Roca",
+        "Acero"
+    ],
+    "weight": 820.0
+}

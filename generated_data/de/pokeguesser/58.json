@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es ist sehr freundlich und bleibt den Menschen\ntreu. Durch Bellen und Beißen versucht es,\nGegner zu verscheuchen.",
+        "Es ist von Natur aus tapfer und vertrauenswürdig.\nEs scheut nicht vor starken Gegnern zurück.",
+        "Fukano hat einen ausgezeichneten Geruchssinn. Wenn\ndieses Pokémon einmal einen Geruch wahrgenommen hat,\nvergisst es ihn nicht mehr. Es benutzt diese Fähigkeit dazu,\ndie Gefühlslage von Lebewesen auszuloten.",
+        "Fukano hat einen ausgezeichneten Geruchssinn. Wenn\ndieses Pokémon einmal einen Geruch wahrgenommen hat,\nvergisst es ihn nicht mehr. Es benutzt diese Fähigkeit dazu,\ndie Gefühlslage von Lebewesen zu erkennen.",
+        "Es ist klug und loyal. Sein Revier verteidigt es\njedoch mit lautem Bellen gegen Fremde und\nEindringlinge.",
+        "Es mag zwar niedlich aussehen, doch nähert\nman sich dem Fukano eines fremden Trainers,\nbellt es laut und schnappt nach einem.",
+        "Hat es sich erst einmal an Menschen gewöhnt,\nwird es sehr zutraulich. In der Wildnis liefert es\nsich jedoch heftige Revierkämpfe mit Wuffels.",
+        "Von alters her lebt es Seite an Seite mit den\nMenschen. In Ausgrabungsstätten steinzeitlicher\nRuinen wurden Überreste von Fukano gefunden.",
+        "Es ist von Natur aus sehr zutraulich. Doch wenn\njemand in sein Revier eindringt, wird dieser wild\nangebellt.",
+        "Es ist von Natur aus sehr zutraulich. Doch wenn\njemand in sein Revier eindringt, wird dieser wild\nangebellt.",
+        "Es ist von Natur aus tapfer und vertrauenswürdig\nund scheut auch vor Gegnern nicht zurück, die\ngrößer und stärker sind als es selbst.",
+        "Es ist sehr loyal und bellt jeden Gegner furchtlos\nan, um seinen Trainer vor Schaden zu bewahren."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "name": "Fukano",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 19.0
+}

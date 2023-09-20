@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 8,
+    "height": 3.0,
+    "name": "Dragapult",
+    "types": [
+        "Dragón",
+        "Fantasma"
+    ],
+    "weight": 50.0
+}

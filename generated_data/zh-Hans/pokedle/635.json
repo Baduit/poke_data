@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 5,
+    "height": 1.8,
+    "name": "三首恶龙",
+    "types": [
+        "恶",
+        "龙"
+    ],
+    "weight": 160.0
+}

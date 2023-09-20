@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 1.6,
+    "name": "Emboar",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "weight": 150.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Paralizza la preda con il veleno e la porta nella sua\ndimora a 8000 m in fondo al mare.",
+        "Paralizza la preda con i suoi tentacoli a forma di velo\ne poi la trascina a 8000 m sotto il livello del mare.",
+        "Paralizza la preda con il veleno e la porta nella sua dimora\na 8000 m in fondo al mare.",
+        "Paralizza la preda con i suoi tentacoli a forma di velo e poi\nla trascina a 8000 m sotto il livello del mare.",
+        "Con i suoi tentacoli a forma di velo avvolge\nla sua preda mentre nuota e la trascina con sé\nsul fondo del mare.",
+        "I suoi tentacoli a forma di velo sono ricoperti\nda invisibili pungiglioni velenosi con i quali\nparalizza il nemico per poi annegarlo.",
+        "Agguanta la preda con i suoi tentacoli a forma di\nvelo e poi la trascina a 8.000 m sotto il livello\ndel mare.",
+        "La leggenda narra che i Frillish siano in realtà gli\nabitanti di un’antica città sommersa che si sono\ntrasformati in Pokémon."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "name": "Frillish",
+    "types": [
+        "Acqua",
+        "Spettro"
+    ],
+    "weight": 33.0
+}

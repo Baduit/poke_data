@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Corre quasi scivolando sulle superfici. Confonde il\nnemico con i rapidi movimenti, per poi attaccarlo\ncon una frustata.",
+        "Se si sporca, le sue foglie non possono più effettuare\nla fotosintesi, perciò si tiene sempre molto pulito.",
+        "Corre quasi scivolando sulle superfici. Confonde il nemico\ncon i rapidi movimenti, per poi attaccarlo con una frustata.",
+        "Se si sporca, le sue foglie non possono più effettuare la\nfotosintesi, perciò si tiene sempre molto pulito."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png",
+    "name": "Servine",
+    "types": [
+        "Erba"
+    ],
+    "weight": 16.0
+}

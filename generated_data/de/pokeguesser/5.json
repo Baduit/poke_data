@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es schlägt im Kampf mit seinem Schwanz nach\nseinen Gegnern. Anschließend zerfetzt es\ndie Gegner mit seinen scharfen Klauen.",
+        "Wenn Glutexo mit seinem Schwanz schwingt,\nsteigt die Temperatur ins Unermessliche.",
+        "Gnadenlos besiegt Glutexo seine Gegner mit seinen\nscharfen Klauen. Wenn es auf starke Gegner trifft,\nwird es wütend und die Flamme auf seiner Schweifspitze\nflackert in einem bläulichen Ton.",
+        "Glutexo attackiert seine Feinde mit aller Gewalt und unter\nEinsatz seiner scharfen Krallen. Trifft es auf starke Gegner,\nwird es wütend und die Flamme auf seiner Schweifspitze\nflackert in einem bläulichen Ton.",
+        "Kämpft es länger gegen starke Gegner, so gerät\nes in Aufregung und spuckt manchmal gleißend\nhelle, bläuliche Flammen.",
+        "Kämpft es länger gegen starke Gegner, so gerät\nes in Aufregung und spuckt manchmal gleißend\nhelle, bläuliche Flammen.",
+        "Es ist brutal veranlagt. Im Kampf schlägt es mit\nseinem brennenden Schweif um sich und schlitzt\nGegner mit seinen scharfen Klauen auf.",
+        "Steigert es sich in einen Kampf hinein, spuckt es\nFlammen, die alles in seiner Umgebung\nniederbrennen."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "name": "Glutexo",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 19.0
+}

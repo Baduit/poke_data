@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Azota al enemigo con sus tres tentáculos y después\ndispara púas hasta que no deja ni rastro del rival.",
+        "Se pega al techo de cuevas y lanza púas de metal a\ntodo el que pase por debajo de donde se encuentre.",
+        "Azota al enemigo con sus tres tentáculos y después dispara\npúas hasta que no deja ni rastro del rival.",
+        "Se pega al techo de cuevas y lanza púas de metal a todo el\nque pase por debajo de donde se encuentre.",
+        "Raya el lecho rocoso con las púas para luego\nabsorber nutrientes con el extremo de los\ntentáculos.",
+        "Sus púas son más duras que el acero. Se aferra\ny desplaza por paredes rocosas usando las que\ntiene en los tentáculos como ganchos."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "name": "Ferrothorn",
+    "types": [
+        "Planta",
+        "Acero"
+    ],
+    "weight": 110.0
+}

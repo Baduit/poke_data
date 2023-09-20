@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Paraliza a sus presas con veneno y las lleva a su\nmorada, que se encuentra a 8000 m en el fondo del\nmar.",
+        "Rodea a sus presas con sus tentáculos, las entumece\ny las arrastra a 8000 m de profundidad hasta que las\nahoga.",
+        "Paraliza a sus presas con veneno y las lleva a su morada, que\nse encuentra a 8000 m en el fondo del mar.",
+        "Rodea a sus presas con sus tentáculos, las entumece y las\narrastra a 8000 m de profundidad hasta que las ahoga.",
+        "Hace uso de sus extremidades en forma de velo\npara atrapar a su presa cuando está nadando y\narrastrarla al fondo del mar.",
+        "Paraliza y ahoga a sus enemigos con sus\ntentáculos en forma de velo, cubiertos de\nmultitud de púas venenosas imperceptibles.",
+        "Atenaza a las presas con sus tentáculos en forma\nde velo y las sumerge a 8000 m de profundidad.",
+        "Cuenta la leyenda que los Frillish son en realidad\nlos habitantes de una antigua ciudad sumergida\nconvertidos en Pokémon."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "name": "Frillish",
+    "types": [
+        "Agua",
+        "Fantasma"
+    ],
+    "weight": 33.0
+}

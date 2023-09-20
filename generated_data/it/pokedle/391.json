@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Monferno",
+    "types": [
+        "Fuoco",
+        "Lotta"
+    ],
+    "weight": 22.0
+}

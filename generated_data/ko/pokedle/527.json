@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 5,
+    "height": 0.4,
+    "name": "또르박쥐",
+    "types": [
+        "에스퍼",
+        "비행"
+    ],
+    "weight": 2.1
+}

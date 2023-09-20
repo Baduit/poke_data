@@ -1,0 +1,11 @@
+{
+    "color": "藍色",
+    "generation": 8,
+    "height": 0.8,
+    "name": "古月鳥",
+    "types": [
+        "飛行",
+        "水"
+    ],
+    "weight": 18.0
+}

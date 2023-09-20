@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 7,
+    "height": 0.2,
+    "name": "Morelull",
+    "types": [
+        "Planta",
+        "Hada"
+    ],
+    "weight": 1.5
+}

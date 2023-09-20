@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 0.7,
+    "name": "Galapaflos",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 16.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 7,
+    "height": 0.6,
+    "name": "Trompeck",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 14.8
+}

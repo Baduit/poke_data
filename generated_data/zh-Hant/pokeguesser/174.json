@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "很喜歡唱歌，但唱得不怎麼樣。\n如果好好地稱讚牠，\n就會越唱越好哦。",
+        "蹦蹦蹦地彈跳著移動。\n因大量運動而流汗時，\n會發出微甜的體味。",
+        "為了讓歌喉變好，\n牠一直努力練習唱歌，\n就連在睡夢中也不斷歌唱。",
+        "放著不管的話，牠就會一直\n練習唱歌。要記得讓牠休息，\n不然是會弄壞嗓子的。",
+        "很喜歡唱歌。\n像是棉花糖的身體會\n散發出微甜的氣味喔。",
+        "會用柔軟的身體一彈一跳地\n四處移動。體溫上升時，\n身體就會變成深粉紅色。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+    "name": "寶寶丁",
+    "types": [
+        "一般",
+        "妖精"
+    ],
+    "weight": 1.0
+}

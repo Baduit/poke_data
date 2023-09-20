@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 1,
+    "height": 6.5,
+    "name": "Gyarados",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "weight": 235.0
+}

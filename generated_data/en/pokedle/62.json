@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 1,
+    "height": 1.3,
+    "name": "Poliwrath",
+    "types": [
+        "Water",
+        "Fighting"
+    ],
+    "weight": 54.0
+}

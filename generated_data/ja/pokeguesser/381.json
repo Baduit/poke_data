@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "高い　知能を　持つ　ポケモン。\n腕を　折りたたんで　飛べば\nジェット機を　追い越す　スピードだ。",
+        "高い　知能を　持ち\n人間の　言葉を　理解する。\n争いを　嫌う　優しい　ポケモンだ。",
+        "見た　ものや　考えた　イメージを　相手に\n映像として　見せる　能力を　持つ。\n人間の　言葉を　理解することが　できる。",
+        "優しい　心の　持ち主にしか　なつかない。\n腕を　折り畳むと　空気抵抗が　減って\nジェット機　よりも　速く　空を　飛べるぞ。"
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+    "name": "ラティオス",
+    "types": [
+        "ドラゴン",
+        "エスパー"
+    ],
+    "weight": 60.0
+}

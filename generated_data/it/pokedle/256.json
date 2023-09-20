@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Combusken",
+    "types": [
+        "Fuoco",
+        "Lotta"
+    ],
+    "weight": 19.5
+}

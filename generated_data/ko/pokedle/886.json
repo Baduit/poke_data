@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 8,
+    "height": 1.4,
+    "name": "드래런치",
+    "types": [
+        "드래곤",
+        "고스트"
+    ],
+    "weight": 11.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 2,
+    "height": 0.5,
+    "name": "Spinarak",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 8.5
+}

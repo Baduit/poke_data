@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "A Pokémon formed by the spirits\nof people and Pokémon. It loves\ndamp, humid seasons.",
+        "It tugs on the hands of children\nto steal them away. However, it\ngets pulled around instead.",
+        "Because of the way it floats\naimlessly, an old folktale calls it a\n“Signpost for Wandering Spirits.”",
+        "It is whispered that any child who\nmistakes DRIFLOON for a balloon and\nholds on to it could wind up missing.",
+        "It is whispered that any child who\nmistakes DRIFLOON for a balloon and\nholds on to it could wind up missing.",
+        "Because of the way it floats\naimlessly, an old folktale calls it a\n“Signpost for Wandering Spirits.”",
+        "Because of the way it floats\naimlessly, an old folktale calls it a\n“Signpost for Wandering Spirits.”",
+        "These Pokémon are called the\n“Signpost for Wandering Spirits.”\nChildren holding them sometimes vanish.",
+        "These Pokémon are called the\n“Signpost for Wandering Spirits.”\nChildren holding them sometimes vanish.",
+        "A Pokémon formed by the spirits of people and\nPokémon. It loves damp, humid seasons.",
+        "These Pokémon are called the “Signpost for\nWandering Spirits.” Children holding them\nsometimes vanish.",
+        "A Pokémon formed by the spirits of people and Pokémon.\nIt loves damp, humid seasons.",
+        "These Pokémon are called the “Signpost for\nWandering Spirits.” Children holding them\nsometimes vanish.",
+        "Stories go that it grabs the hands of small\nchildren and drags them away to the afterlife.\nIt dislikes heavy children.",
+        "If for some reason its body bursts, its soul spills\nout with a screaming sound.",
+        "Its round body is stuffed with souls and\nexpands each time it leads someone away.",
+        "Wandering souls gathered together to form this\nPokémon. When trying to make friends with\nchildren, Drifloon grabs them by the hand.",
+        "Perhaps seeking company, it approaches children.\nHowever, it often quickly runs away again when\nthe children play too roughly with it.",
+        "The gathering of many souls gave rise to this\nPokémon. During humid seasons, they seem to\nappear in abundance.",
+        "Said to lure away young children and carry them off to the\nafterlife. Some whisper that Drifloon are formed of reincarnated\nhuman souls, but these rumors are as yet unconfirmed."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "name": "Drifloon",
+    "types": [
+        "Ghost",
+        "Flying"
+    ],
+    "weight": 1.2
+}

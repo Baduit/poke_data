@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Imita los sonidos de sus rivales, haciéndoles creer que\nson amigos e impidiendo que le ataquen.",
+        "Puede imitar el lenguaje humano. Si se juntan\nvarios, todos aprenden las mismas palabras.",
+        "Imita los sonidos de sus rivales, haciéndoles creer que son\namigos e impidiendo que le ataquen.",
+        "Puede imitar el lenguaje humano. Si se juntan varios, todos\naprenden las mismas palabras."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+    "name": "Chatot",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 1.9
+}

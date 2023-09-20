@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Venusaur",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 100.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "On suppose qu’il est lié au cycle\nlunaire, car il ne sort que les\nsoirs de pleine lune.",
+        "On suppose qu’il est lié au cycle\nlunaire, car il ne sort que les\nsoirs de pleine lune.",
+        "On suppose qu’il est lié au cycle lunaire, car il ne sort\nque les soirs de pleine lune.",
+        "Il a été découvert dans le cratère d’une météorite\nil y a 40 ans. Son simple regard endort ses ennemis.",
+        "Séléroc fut découvert à côté d’un cratère de météorite.\nDu coup, certaines personnes pensent que ce Pokémon\nvient de l’espace. Cependant, rien ne peut prouver\ncette théorie pour le moment.",
+        "Séléroc ne s’active que pendant la période de pleine lune.\nIl ne marche pas, mais se déplace en lévitant. Les yeux\nrouges et intimidants de ce Pokémon pétrifient ses ennemis\nde terreur.",
+        "Sa force est liée au cycle lunaire.\nIl est surtout actif les soirs de pleine lune.",
+        "Il a été découvert dans le cratère d’une météorite\nil y a 40 ans. Un simple regard de sa part\nendort ses ennemis."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "name": "Séléroc",
+    "types": [
+        "Roche",
+        "Psy"
+    ],
+    "weight": 168.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "如果有人打牠的頭，\n牠會縮進殼裡來躲避，\n但會留下一小截尾巴在外面。",
+        "如果有人打牠的頭，\n牠會縮進殼裡來躲避，\n但會留下一小截尾巴在外面。",
+        "被視為長壽的象徵。\n如果卡咪龜的殼上長著苔蘚，\n那就代表牠已經活了非常久。",
+        "會靈巧地擺動自己\n毛茸茸的耳朵和尾巴，\n藉此在水中保持平衡。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "name": "卡咪龜",
+    "types": [
+        "水"
+    ],
+    "weight": 22.5
+}

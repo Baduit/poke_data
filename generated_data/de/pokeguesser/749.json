@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Der ganze Schlamm an seinen Füßen sorgt für\ndie nötige Bodenhaftung, die es für seinen\nkraftvollen Lauf braucht.",
+        "Ein stures und eigensinniges Pokémon. Verbringt\ndie Tage damit, Erde zu fressen und Schlamm\ndaraus zu machen, mit dem es dann spielt.",
+        "Es spielt liebend gern im Schlamm. Kann es sich\nnicht täglich darin suhlen, hört es vor lauter\nStress nicht mehr auf Befehle seines Trainers.",
+        "Es ist ziemlich stark. Selbst wenn es mit dem\n50-fachen seines Gewichts beladen wird,\nscheint ihm das nichts auszumachen.",
+        "Es ist kräftig genug, um problemlos das 50-fache\nseines Gewichts tragen zu können. Im Umgang\nmit Schlamm ist es sehr geschickt.",
+        "Es frisst Erde und verwandelt sie in Schlamm, den\nes an seine Hufe schmiert. Damit kann es selbst\nunwegsames Gelände ohne Rutschen überqueren."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "name": "Pampuli",
+    "types": [
+        "Boden"
+    ],
+    "weight": 110.0
+}

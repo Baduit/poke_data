@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Dewpider",
+    "types": [
+        "Agua",
+        "Bicho"
+    ],
+    "weight": 4.0
+}

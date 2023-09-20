@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es liebt schöne Ufer. Da seine Zellstruktur\nWassermolekülen ähnlich ist, kann es mit\nWasser verschmelzen.",
+        "Es hat sich so entwickelt, dass es im Wasser\nleben kann. Im Wasser selbst wird es unsichtbar.",
+        "Aquana hat eine spontane Mutation durchgemacht und ihm\nsind Flossen und Kiemen gewachsen. Dadurch kann es unter\nWasser leben. Dieses Pokémon kann Wasser nach Belieben\nmanipulieren.",
+        "Aquana hat eine spontane Mutation durchlaufen. Ihm sind\nFlossen und Kiemen gewachsen. Dadurch kann es unter\nWasser leben. Dieses Pokémon kann Wasser nach Belieben\nmanipulieren.",
+        "Seine Zellstruktur ist der von Wassermolekülen\nähnlich. Es lebt in der Nähe von Ufern, daher\nwird es oft mit einer Meerjungfrau verwechselt.",
+        "Es wird eins mit dem Wasser und somit\nunsichtbar. So wartet es heimlich, still und leise\nauf Fisch-Pokémon, die es sich als Beute fängt.",
+        "Es lebt meist an klaren Gewässern. Wittert es\neinen feindlichen Angriff, verschwindet es ins\nWasser und macht sich unsichtbar.",
+        "Mit seinen Flossen nimmt es die Feuchtigkeit in\nseiner Umgebung wahr. Vibrieren diese, beginnt\nes in den nächsten Stunden zu regnen.",
+        "Seine Zellstruktur ähnelt der molekularen\nZusammensetzung von Wasser. Daher wird es\nim Wasser unsichtbar.",
+        "Seine Zellstruktur ähnelt der molekularen\nZusammensetzung von Wasser. Daher wird es\nim Wasser unsichtbar.",
+        "Wenn seine Flossen beginnen zu vibrieren,\nist das ein sicheres Zeichen dafür, dass in den\nnächsten Stunden Regen aufziehen wird.",
+        "Seine Zellstruktur ähnelt der molekularen\nZusammensetzung von Wasser, weshalb es sich\nin Gewässern unsichtbar machen kann."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "name": "Aquana",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 29.0
+}

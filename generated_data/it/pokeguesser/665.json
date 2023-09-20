@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Vive nascosto nella boscaglia. Se attaccato, minaccia\ni nemici rizzando il pelo.",
+        "Il becco dei Pokémon uccello non può neppure scalfire\nil suo durissimo corpo. Si difende spargendo scaglie.",
+        "Vive nascosto nella boscaglia. Se attaccato, minaccia i nemici\nrizzando il pelo.",
+        "Il becco dei Pokémon uccello non può neppure scalfire il suo\ndurissimo corpo. Si difende spargendo scaglie."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+    "name": "Spewpa",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 8.4
+}

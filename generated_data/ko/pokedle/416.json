@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 4,
+    "height": 1.2,
+    "name": "비퀸",
+    "types": [
+        "벌레",
+        "비행"
+    ],
+    "weight": 38.5
+}

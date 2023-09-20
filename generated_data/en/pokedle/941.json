@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 9,
+    "height": 1.4,
+    "name": "Kilowattrel",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "weight": 38.6
+}

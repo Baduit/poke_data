@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Amonita",
+    "types": [
+        "Roche",
+        "Eau"
+    ],
+    "weight": 7.5
+}

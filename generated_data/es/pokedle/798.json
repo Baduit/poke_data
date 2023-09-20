@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Kartana",
+    "types": [
+        "Planta",
+        "Acero"
+    ],
+    "weight": 0.1
+}

@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "一旦被敌人袭击，\n便会关上壳盖保护自己。\n不过盖盖虫能打得开。",
+        "有着会对电能产生反应\n的奇异体质。不知为何，\n和盖盖虫待在一起就会进化。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "name": "小嘴蜗",
+    "types": [
+        "虫"
+    ],
+    "weight": 7.7
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 4,
+    "height": 2.2,
+    "name": "Torterra",
+    "types": [
+        "Plante",
+        "Sol"
+    ],
+    "weight": 310.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 1,
+    "height": 1.1,
+    "name": "Papilusion",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 32.0
+}

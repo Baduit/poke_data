@@ -1,0 +1,11 @@
+{
+    "color": "Violet",
+    "generation": 1,
+    "height": 1.5,
+    "name": "Ectoplasma",
+    "types": [
+        "Spectre",
+        "Poison"
+    ],
+    "weight": 40.5
+}

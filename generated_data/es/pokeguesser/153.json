@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Emana un aroma picante de su cuello. El aroma actúa\ncomo estimulante para recuperar salud.",
+        "Su cuello desprende un dulce aroma que anima a\nquien lo huele.",
+        "Bayleef tiene un collar de hojas alrededor del cuello y un\nbrote de un árbol en cada una de ellas. La fragancia que\ndesprenden estos brotes anima a la gente.",
+        "Bayleef tiene un collar de hojas alrededor del cuello y un\nbrote de un árbol en cada una de ellas. La fragancia que\ndesprenden estos brotes anima a la gente."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+    "name": "Bayleef",
+    "types": [
+        "Planta"
+    ],
+    "weight": 15.8
+}

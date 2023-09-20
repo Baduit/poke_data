@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "When BURMY evolved, its cloak\nbecame a part of this Pokémon’s\nbody. The cloak is never shed.",
+        "Its appearance changes depending\non where it evolved. The materials\non hand become a part of its body.",
+        "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+        "It is said that a WORMADAM that\nevolves on a cold day will have a\nthicker cloak.",
+        "It is said that a WORMADAM that\nevolves on a cold day will have a\nthicker cloak.",
+        "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+        "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+        "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+        "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+        "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
+        "When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed.",
+        "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
+        "When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+    "name": "Wormadam",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "weight": 6.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 4,
+    "height": 1.9,
+    "name": "Garchomp",
+    "types": [
+        "Dragon",
+        "Ground"
+    ],
+    "weight": 95.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "喜歡不衛生的地方。\n在阿羅拉經常可以看見牠\n被臭泥追著到處跑的樣子。",
+        "吃垃圾吃到肚子鼓鼓之後，\n便會從嘴裡噴出毒瓦斯來。\n不小心聞到的話就得立即進醫院。",
+        "呼吸時會有毒氣漏出，\n聞到這個味道的臭臭泥會\n流著口水跑過來。",
+        "像打嗝一樣吐出的氣體\n一旦被小孩子吸進去，\n就會造成生命危險。",
+        "喜歡不衛生的地方。\n如果不及時清理家裡的垃圾，\n破破袋就會過來居住。",
+        "誕生自塞滿垃圾的垃圾袋裡。\n牠嘴裡噴出的毒氣\n是伽勒爾雙彈瓦斯的最愛。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "name": "破破袋",
+    "types": [
+        "毒"
+    ],
+    "weight": 31.0
+}

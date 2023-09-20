@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Pokémon ancien, ramené à la vie après la découverte\nd’une partie de son corps conservée dans la glace\npendant 100 millions d’années.",
+        "Ce Pokémon placide vivait dans des contrées\nau climat froid, loin de la menace d’un violent\nprédateur comme Rexillius.",
+        "Pokémon ancien, ramené à la vie après la découverte\nd’une partie de son corps conservée dans la glace\npendant 100 millions d’années.",
+        "Ce Pokémon placide vivait dans des contrées au climat froid,\nloin de la menace d’un violent prédateur comme Rexillius.",
+        "Amagara vivait jadis dans les terres glacées.\nOn dit que lorsqu’il pousse un cri, une aurore\nboréale nimbe le ciel nocturne.",
+        "Il a été reconstitué, mais son corps n’est pas\nadapté aux températures actuelles, ce qui\naffecte probablement son espérance de vie.",
+        "Ce Pokémon a été ressuscité à partir d’un fossile.\nJadis, il vivait en meute dans des terres froides,\noù peu de ses prédateurs résidaient.",
+        "Un Pokémon ancien qui s’est éteint. On trouve\nparfois des spécimens conservés dans la glace."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "name": "Amagara",
+    "types": [
+        "Roche",
+        "Glace"
+    ],
+    "weight": 25.2
+}

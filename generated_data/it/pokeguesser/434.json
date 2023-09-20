@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Emette un fluido puzzolente dal posteriore. Il tanfo\nsi sparge per 2 km e tiene lontani i Pokémon.",
+        "Si protegge spruzzando un fluido puzzolente dal\nposteriore. Il tanfo permane per 24 ore.",
+        "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge\nper 2 km e tiene lontani i Pokémon.",
+        "Si protegge spruzzando un fluido puzzolente dal posteriore.\nIl tanfo permane per 24 ore.",
+        "Spruzza un fluido puzzolente dal posteriore\nmirando al muso dell’avversario. Lo spruzzo\npuò arrivare fino 5 m di distanza.",
+        "Se mostra il posteriore alzando la coda, bisogna\nfare attenzione: sta per spruzzare un fluido così\nmaleodorante da far perdere i sensi."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "name": "Stunky",
+    "types": [
+        "Veleno",
+        "Buio"
+    ],
+    "weight": 19.2
+}

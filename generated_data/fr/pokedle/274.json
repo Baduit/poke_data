@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Pifeuil",
+    "types": [
+        "Plante",
+        "Ténèbres"
+    ],
+    "weight": 28.0
+}

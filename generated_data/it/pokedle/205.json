@@ -1,0 +1,11 @@
+{
+    "color": "Viola",
+    "generation": 2,
+    "height": 1.2,
+    "name": "Forretress",
+    "types": [
+        "Coleottero",
+        "Acciaio"
+    ],
+    "weight": 125.8
+}

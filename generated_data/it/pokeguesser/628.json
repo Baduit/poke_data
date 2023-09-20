@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "È l’intrepido guerriero del cielo. Per difendere i suoi\nsimili, lotta fino all’ultimo senza badare alle ferite.",
+        "Incurante del pericolo, lotta per difendere i compagni.\nPuò sollevare in volo anche una pesante automobile.",
+        "È l’intrepido guerriero del cielo. Per difendere i suoi simili,\nlotta fino all’ultimo senza badare alle ferite.",
+        "Incurante del pericolo, lotta per difendere i compagni.\nPuò sollevare in volo anche una pesante automobile.",
+        "Pokémon intrepido che non teme nemmeno\nla morte. Venerato nell’antica Alola, era noto\ncome “l’eroe del cielo”.",
+        "Il loro habitat era un tempo minacciato\ndagli uomini, ma i Braviary lottarono uniti\nper difenderlo.",
+        "Gli esemplari con più cicatrici sul volto sono\nconsiderati i più valorosi. Quelli con cicatrici\nsul dorso, al contrario, sono derisi dal gruppo.",
+        "Noto come “l’eroe del cielo”, è un Pokémon fiero\ne coraggioso che non scappa mai di fronte\nal pericolo, neanche quando è ferito.",
+        "È un Pokémon intrepido e orgoglioso.\nAppare spesso come motivo araldico per via\ndel suo eroismo.",
+        "A causa del suo carattere irruente e violento\nha perso il posto di corriere a Galar, che gli è\nstato rubato da Corviknight."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
+    "name": "Braviary",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 41.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 1,
+    "height": 8.8,
+    "name": "Onix",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 210.0
+}

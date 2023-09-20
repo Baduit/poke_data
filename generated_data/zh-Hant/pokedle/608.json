@@ -1,0 +1,11 @@
+{
+    "color": "黑色",
+    "generation": 5,
+    "height": 0.6,
+    "name": "燈火幽靈",
+    "types": [
+        "幽靈",
+        "火"
+    ],
+    "weight": 13.0
+}

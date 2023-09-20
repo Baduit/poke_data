@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Teje su telaraña con hilo fino pero resistente. Espera\npacientemente a que caiga su presa.",
+        "Mantiene la misma postura en su telaraña durante días,\nesperando a que se acerque una presa inocente.",
+        "La tela que teje Spinarak puede considerarse como su\nsegundo sistema nervioso. Dicen que puede adivinar qué tipo\nde presa ha caído en su red con solo observar las leves\nvibraciones de los hilos de la tela.",
+        "La tela que teje Spinarak puede considerarse como su\nsegundo sistema nervioso. Dicen que puede adivinar qué tipo\nde presa ha caído en su red con solo observar las leves\nvibraciones de los hilos de la tela.",
+        "Espera con determinación hasta que un Cutiefly\ncae en su telaraña, pues es su comida favorita.\nEs un Pokémon extremadamente paciente.",
+        "Algunos pescadores confeccionan redes para\npescar Pokémon pez con la robusta telaraña\nque produce Spinarak.",
+        "Segrega un hilo de increíble resistencia con el\nque teje su tela, capaz de soportar el peso de\nuna roca de 10 kg sin romperse.",
+        "El veneno de sus colmillos no es demasiado\ntóxico, pero basta para mantener inmovilizadas\na las presas que caen en sus redes."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "name": "Spinarak",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 8.5
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Sus sesos y corazón son diminutos; es casi todo\nestómago. Sus jugos gástricos disuelven lo que sea.",
+        "Es capaz de digerir cualquier cosa. Para hacer la\ndigestión, se ayuda de un fluido y un gas capaces\nde corroerlo todo.",
+        "Casi la totalidad del cuerpo de Gulpin está compuesto por el\nestómago. Por eso, puede tragarse todo lo que tenga su\ntamaño. En el interior del estómago tiene un fluido capaz de\ncorroerlo todo.",
+        "La mayor parte del cuerpo de Gulpin está ocupado por su\nestómago. En comparación, el corazón y el cerebro son muy\npequeños. Este Pokémon tiene enzimas especiales en el\nestómago capaces de corroerlo todo."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "name": "Gulpin",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 10.3
+}

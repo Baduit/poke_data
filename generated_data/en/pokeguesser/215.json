@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        "Its paws conceal\nsharp claws. If\nattacked, it sud­\fdenly extends the\nclaws and startles\nits enemy.",
+        "Vicious in nature,\nit drives PIDGEY\nfrom their nests\fand feasts on the\neggs that are left\nbehind.",
+        "This cunning\nPOKéMON hides\nunder the cover\fof darkness,\nwaiting to attack\nits prey.",
+        "SNEASEL scales trees by punching its\nhooked claws into the bark.\nThis POKéMON seeks out unguarded\fnests and steals eggs for food while\nthe parents are away.",
+        "SNEASEL scales trees by punching its\nhooked claws into the bark.\nThis POKéMON seeks out unguarded\fnests and steals eggs for food while\nthe parents are away.",
+        "A SNEASEL scales trees by punching its\nhooked claws into the bark. It seeks out\nunguarded nests and steals eggs for food\nwhile the parents are away.",
+        "Vicious in nature, it drives PIDGEY from\ntheir nests and feasts on the eggs that\nare left behind.",
+        "Its paws conceal sharp claws.\nIf attacked, it suddenly extends the\nclaws and startles its enemy.",
+        "It feeds on eggs stolen from\nnests. Its sharply hooked claws\nrip vulnerable spots on prey.",
+        "It is extremely vicious and will not\nstop attacking until its foe is\nincapable of moving.",
+        "A smart and sneaky Pokémon. A pair\nmay work together to steal eggs by\nhaving one lure the parents away.",
+        "Its paws conceal sharp claws. If\nattacked, it suddenly extends the\nclaws and startles its enemy.",
+        "Vicious in nature, it drives PIDGEY\nfrom their nests and scavenges any\nleftovers it can find.",
+        "A smart and sneaky Pokémon. A pair\nmay work together to steal eggs by\nhaving one lure the parents away.",
+        "A smart and sneaky Pokémon. A pair\nmay work together to steal eggs by\nhaving one lure the parents away.",
+        "A smart and sneaky Pokémon,\nit makes its opponents flinch by suddenly\nshowing the claws hidden in its paws.",
+        "A smart and sneaky Pokémon,\nit makes its opponents flinch by suddenly\nshowing the claws hidden in its paws.",
+        "It feeds on eggs stolen from nests. Its sharply\nhooked claws rip vulnerable spots on prey.",
+        "Its paws conceal sharp claws. If attacked,\nit suddenly extends the claws and startles\nits enemy.",
+        "Sneasel scales trees by punching its hooked claws into the\nbark. This Pokémon seeks out unguarded nests and steals\neggs for food while the parents are away.",
+        "Sneasel scales trees by punching its hooked claws into the\nbark. This Pokémon seeks out unguarded nests and steals\neggs for food while the parents are away.",
+        "It has a cunning yet savage disposition.\nIt waits for parents to leave their nests,\nand then it sneaks in to steal their eggs.",
+        "It uses its claws to poke holes in eggs so it can\nslurp out the insides. Breeders consider it a\nscourge and will drive it away or eradicate it.",
+        "They will cooperate to steal eggs from the nests\nof bird Pokémon, but fights break out to\ndetermine which one gets to eat the eggs.",
+        "It blends into the dark of night to ambush its\nprey. Sneasel will attack Sandshrew, but its\nhard skin can cause Sneasel’s claws to snap off.",
+        "Its paws conceal sharp claws. If attacked, it\nsuddenly extends the claws and startles\nits enemy.",
+        "It has a cunning yet savage disposition.\nIt waits for parents to leave their nests,\nand then it sneaks in to steal their eggs.",
+        "Its sturdy, curved claws are ideal for traversing precipitous cliffs.\nFrom the tips of these claws drips a venom that infiltrates the\nnerves of any prey caught in Sneasel's grasp."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "name": "Sneasel",
+    "types": [
+        "Dark",
+        "Ice"
+    ],
+    "weight": 28.0
+}

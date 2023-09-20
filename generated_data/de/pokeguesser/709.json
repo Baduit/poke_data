@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Die Bäume des Waldes folgen ihm blind.\nMenschen, die dem Wald Schaden zufügen,\nhält es bis an ihr Lebensende darin gefangen.",
+        "Es nutzt seine Wurzeln als Nervensystem und\nkontrolliert so andere Bäume. Es ist nett zu den\nPokémon, die in ihm leben.",
+        "Die Bäume des Waldes folgen ihm blind. Menschen, die dem\nWald Schaden zufügen, hält es bis an ihr Lebensende darin\ngefangen.",
+        "Es nutzt seine Wurzeln als Nervensystem und kontrolliert so\nandere Bäume. Es ist nett zu den Pokémon, die in ihm leben.",
+        "Menschen, die dem Wald Schaden zufügen,\nsoll es angeblich auffressen. Es ist nett zu\nallen Lebewesen, die im Wald leben.",
+        "Es nutzt seine Wurzeln als Nervensystem und\nkontrolliert so andere Bäume. Wer einen Baum im\nWald eines Trombork fällt, wird tödlich verflucht.",
+        "Ein gefürchtetes Waldungeheuer. Holzfäller\nbetreten den Wald daher nur in Begleitung von\nFeuer-Pokémon, die Trombork verabscheut.",
+        "Die Wurzeln, die aus seinen Beinen gewachsen\nsind, kontrollieren nahe gelegene Bäume. Es\ngreift alle an, die dem Wald Schaden zufügen.",
+        "Es wird dafür gefürchtet, Menschen zu fressen,\ndie Bäume im Wald fällen. Zu den Pokémon,\ndie den Wald bewohnen, ist es aber stets nett.",
+        "Es streckt die dünnen Wurzeln an seinen Beinen\naus, um sich so mit den Bäumen im Wald zu\nverbinden und sie nach Belieben zu kontrollieren."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "name": "Trombork",
+    "types": [
+        "Geist",
+        "Pflanze"
+    ],
+    "weight": 71.0
+}

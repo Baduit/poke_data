@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Kapilz",
+    "types": [
+        "Pflanze",
+        "Kampf"
+    ],
+    "weight": 39.2
+}

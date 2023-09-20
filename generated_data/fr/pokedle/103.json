@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Noadkoko",
+    "types": [
+        "Plante",
+        "Psy"
+    ],
+    "weight": 120.0
+}

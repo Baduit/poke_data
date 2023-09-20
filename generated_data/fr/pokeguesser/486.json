@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "On dit qu’il a créé des Pokémon\nà son image à partir de glace,\nde roche et de magma.",
+        "On dit qu’il a créé des Pokémon\nà son image à partir de glace,\nde roche et de magma.",
+        "On dit qu’il a créé des Pokémon à son image à partir\nde glace, de roche et de magma.",
+        "Une légende tenace veut que ce Pokémon ait traîné\nles continents en les attachant à des cordes.",
+        "On dit qu’il a créé des Pokémon à son image à partir de glace,\nde roche et de magma.",
+        "Une légende tenace veut que ce Pokémon ait traîné\nles continents en les attachant à des cordes.",
+        "Plusieurs légendes à travers le monde\nracontent que Regigigas aurait créé\ndes Pokémon à son image.",
+        "On raconte qu’après avoir créé des Pokémon\navec différentes matières, il aurait placé\nles continents à leur position actuelle."
+    ],
+    "height": 3.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "name": "Regigigas",
+    "types": [
+        "Normal"
+    ],
+    "weight": 420.0
+}

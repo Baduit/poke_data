@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Dorme 18 ore al giorno. Anche da addormentato\nutilizza una serie di poteri extrasensoriali.",
+        "Avverte gli attacchi imminenti e si teletrasporta in\nsalvo prima che l’attacco lo possa colpire.",
+        "Abra dorme per 18 ore al giorno, ma riesce a captare\nla presenza dei nemici anche durante il sonno. In questo\ncaso il Pokémon si teletrasporta immediatamente al sicuro.",
+        "Abra ha bisogno di 18 ore di sonno al giorno. In caso\ncontrario perde le sue abilità telecinetiche. Se attaccato,\nAbra fugge usando Teletrasporto mentre dorme.",
+        "Dorme 18 ore al giorno. Anche nel sonno,\nsi teletrasporta sugli alberi, coglie le bacche\ne le mangia.",
+        "Può teletrasportarsi al sicuro anche mentre\ndorme, ma quando si sveglia non capisce dove\nsi trova e viene preso dall’agitazione.",
+        "Può usare i suoi poteri psichici anche mentre\ndorme. Per questo è difficile capire se è sveglio\noppure no.",
+        "Grazie alla sua capacità di leggere nel pensiero,\nprevede il pericolo e si teletrasporta lontano.\nPer catturarlo bisogna svuotare la mente.",
+        "Dorme 18 ore al giorno. Se percepisce\nun pericolo, riesce a teletrasportarsi anche\nsenza svegliarsi.",
+        "Dorme 18 ore al giorno. Se percepisce\nun pericolo, riesce a teletrasportarsi anche\nsenza svegliarsi.",
+        "Il contenuto dei suoi sogni influisce sui suoi\npoteri psichici, che può utilizzare anche\nmentre dorme.",
+        "È in grado di teletrasportarsi mentre dorme.\nSi dice che più profondo sia il suo sonno, più\npossa spostarsi lontano."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "name": "Abra",
+    "types": [
+        "Psico"
+    ],
+    "weight": 19.5
+}

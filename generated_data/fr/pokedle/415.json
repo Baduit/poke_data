@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 4,
+    "height": 0.3,
+    "name": "Apitrini",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 5.5
+}

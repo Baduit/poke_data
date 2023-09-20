@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Se lo si scopre, questo Pokémon fugge all’indietro\nscavando furiosamente nel terreno con la coda.",
+        "Scava nel terreno con la coda creando una tana\nsimile a un labirinto. Sa spiccare brevissimi voli.",
+        "Dunsparce ha un trapano al posto della coda, che usa per\nscavare a ritroso nel terreno. È noto per la complessa forma\ndelle tane che crea sottoterra in profondità.",
+        "Dunsparce ha un trapano al posto della coda, che usa per\nscavare a ritroso nel terreno. È noto per la complessa forma\ndelle tane che crea sottoterra in profondità.",
+        "Si sposta scavando nel terreno.\nI Dunsparce e i Diglett condividono di buon\ngrado i tunnel che scavano.",
+        "Appena scorge un essere umano fugge\nscavando con la coda. Incontrarne uno è\nun vero e proprio colpo di fortuna.",
+        "Secondo alcuni studiosi, le sue piccole ali sono\nla prova che in un lontano passato questo\nPokémon fosse in grado di volare.",
+        "Costruisce tane simili a labirinti, ma poiché\nriesce a capire dove si trova in base all’odore\ndel terreno non si smarrisce mai."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "name": "Dunsparce",
+    "types": [
+        "Normale"
+    ],
+    "weight": 14.0
+}

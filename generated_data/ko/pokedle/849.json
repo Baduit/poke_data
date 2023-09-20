@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 8,
+    "height": 1.6,
+    "name": "스트린더",
+    "types": [
+        "전기",
+        "독"
+    ],
+    "weight": 40.0
+}

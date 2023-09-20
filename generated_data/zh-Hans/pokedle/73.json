@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 1,
+    "height": 1.6,
+    "name": "毒刺水母",
+    "types": [
+        "水",
+        "毒"
+    ],
+    "weight": 55.0
+}

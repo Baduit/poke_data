@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Das Pokémon besteht aus zwei Tanhel. Es bekommt\nselbst dann keinen Kratzer, wenn ein Jet es streift.",
+        "Es besteht aus zwei Tanhel. Dank der Vereinigung\nihrer beiden Hirne verfügen sie über gesteigerte\nPsycho-Kräfte.",
+        "Wenn zwei Tanhel miteinander verschmelzen, entsteht\ndaraus Metang. Die Gehirne der Tanhel werden mit einem\nmagnetischen Nervensystem verbunden. Dadurch erzeugt\nes starke psychokinetische Energie.",
+        "Wenn zwei Tanhel miteinander verschmelzen, entsteht\ndaraus Metang. Die Gehirne der Tanhel werden mit einem\nmagnetischen Nervensystem verbunden. Es schlägt seine\nArme nach hinten, um sich schnell bewegen zu können.",
+        "Zwei Tanhel haben sich vereinigt und so ihre\nPsycho-Kräfte verdoppelt. Ihre Denkfähigkeit\nbleibt dabei aber unverändert.",
+        "Es liebt Mineralien, die Magnetfelder erzeugen.\nKein Wunder, dass es Nasgnet mit 100 km/h\nhinterherjagt.",
+        "Durch seine zwei Gehirne kann es sehr starke\nPsycho-Kräfte freisetzen, mit denen es seine\nBeute bewegungsunfähig macht.",
+        "Es fliegt schnell durch die Luft. Wenn es Beute\nentdeckt, packt es sie mit seinen scharfen\nKlauen und lässt sie nicht mehr los.",
+        "Durch Magnetismus verschmolzen zwei Tanhel\nmiteinander. Da es nun zwei Gehirne besitzt,\nhaben sich seine Psycho-Kräfte verdoppelt.",
+        "Mithilfe von Magnetismus kann Metang fliegen.\nAuf der Jagd nach Beute manövriert es so mit\nhoher Geschwindigkeit durch schroffes Gebirge."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "name": "Metang",
+    "types": [
+        "Stahl",
+        "Psycho"
+    ],
+    "weight": 202.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 6,
+    "height": 1.5,
+    "name": "Trevenant",
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "weight": 71.0
+}

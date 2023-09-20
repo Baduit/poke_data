@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Crustle",
+    "types": [
+        "Bicho",
+        "Roca"
+    ],
+    "weight": 200.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "赤色",
+    "generation": 6,
+    "height": 1.2,
+    "name": "ファイアロー",
+    "types": [
+        "ほのお",
+        "ひこう"
+    ],
+    "weight": 24.5
+}

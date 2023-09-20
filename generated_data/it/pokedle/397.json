@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 4,
+    "height": 0.6,
+    "name": "Staravia",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 15.5
+}

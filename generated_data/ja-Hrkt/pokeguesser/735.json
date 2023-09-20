@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "えものの　こんせきを　みつけると\nねばりづよく　そのばに　はりこむが\nひぐれには　うつらうつら　している。",
+        "コラッタや　ラッタが　こうぶつなのに\nちゅうこうせいのため　であえない。\nにんたいづよさが　じまんの　ポケモン。",
+        "もともと　アローラには　いなかったが\nむかし　コラッタが　たいりょうに\nはっせいしたときに　つれてこられた。",
+        "とても　がまんづよい　せいしつだが\nこうぶつの　コラッタを　みつけると\nわれを　わすれて　とびかかるぞ。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+    "name": "デカグース",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 14.2
+}

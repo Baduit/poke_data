@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "등껍질은 깨어지기 쉬우며\n가끔 체내를 순환하고 있는\n고열의 불꽃을 뿜어낸다.",
+        "몸이 항상 일렁이고 있으며\n용암처럼 뜨겁다.\n때때로 껍데기에서 불티가 샌다.",
+        "껍질은 피부가 식어 굳어진 것이다.\n만지기만 해도 산산이 부서져 버린다.\n마그마에 들어가면 원래 크기로 돌아온다.",
+        "체온이 약 1만 도나 돼서 빗방울이\n몸에 닿으면 수증기가 자욱하게 피어나\n주변이 깊은 안개에 둘러싸인다고 한다."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+    "name": "마그카르고",
+    "types": [
+        "불꽃",
+        "바위"
+    ],
+    "weight": 55.0
+}

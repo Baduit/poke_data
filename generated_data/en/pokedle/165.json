@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 2,
+    "height": 1.0,
+    "name": "Ledyba",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 10.8
+}

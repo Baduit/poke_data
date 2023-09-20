@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 8,
+    "height": 0.4,
+    "name": "Orbeetle",
+    "types": [
+        "Bug",
+        "Psychic"
+    ],
+    "weight": 40.8
+}

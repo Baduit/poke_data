@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Lairon",
+    "types": [
+        "Acciaio",
+        "Roccia"
+    ],
+    "weight": 120.0
+}

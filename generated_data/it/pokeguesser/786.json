@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Protettore di Akala, è un Pokémon innocente e\nspietato al tempo stesso. Il profumo soave\ndei fiori è la fonte della sua energia.",
+        "Svolazza nel cielo spargendo nuvole di scaglie\ndal misterioso luccichio che fanno tornare\nimmediatamente il buon umore a chi le tocca.",
+        "È il Pokémon protettore di Akala.\nSparge luccicanti nuvole di scaglie che\ncurano le ferite di esseri umani e Pokémon.",
+        "È considerato il protettore di Akala e\nrappresenta l’incarnazione della natura. Ha\nun’indole innocente e spietata al tempo stesso."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "Tapu Lele",
+    "types": [
+        "Psico",
+        "Folletto"
+    ],
+    "weight": 18.6
+}

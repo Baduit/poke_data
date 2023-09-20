@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "要是把牠帶到安靜的地方，\n就能聽見牠的尾巴燃燒時\n發出的微小聲音。",
+        "要是把牠帶到安靜的地方，\n就能聽見牠的尾巴燃燒時\n發出的微小聲音。",
+        "天生喜歡熱熱的東西。\n據說當牠被雨淋濕的時候，\n尾巴的末端會冒出煙來。",
+        "從出生時開始尾巴上\n就有火焰在燃燒。\n火焰熄滅時，生命也會結束。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "name": "小火龍",
+    "types": [
+        "火"
+    ],
+    "weight": 8.5
+}

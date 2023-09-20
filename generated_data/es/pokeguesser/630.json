@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Vuela en círculos. Cuando avista una presa, la ataca y\nla transporta a su nido con suma facilidad.",
+        "Otea la superficie desde el cielo y ataca a Pokémon\ndebilitados. Tiene por costumbre hacerse adornos\ncon huesos.",
+        "Vuela en círculos. Cuando avista una presa, la ataca y la\ntransporta a su nido con suma facilidad.",
+        "Otea la superficie desde el cielo y ataca a Pokémon\ndebilitados. Tiene por costumbre hacerse adornos con\nhuesos.",
+        "Se dice que los huesos con los que se engalana\nle sirven para cortejar al otro sexo, aunque\nnunca se ha avistado ningún Mandibuzz macho.",
+        "Revolotea por el cielo en busca de un Pokémon\ndébil al que convertir en su presa. Tiene una\nparticular debilidad por los Cubone.",
+        "Utiliza con pericia los huesos de las presas que\ndevora para así construir un nido. La mayoría de\nlos huesos pertenecen a los Cubone.",
+        "Busca sin cesar comida para alimentar a\nVullaby. Atrapa al instante a cualquier Pokémon\ndebilitado que aviste y lo lleva al nido.",
+        "A pesar de su carácter violento, si avista un\nVullaby perdido, lo acoge en su nido y lo cuida\ncon esmero hasta que está listo para partir.",
+        "Se engalana con los huesos que va recogiendo.\nAl parecer, la elección no es casual, sino que\nobedece a los dictados de la moda."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "name": "Mandibuzz",
+    "types": [
+        "Siniestro",
+        "Volador"
+    ],
+    "weight": 39.5
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Según los rumores, en lo más profundo del bosque\ndonde mora Tranquill, hay un mundo pacífico y exento\nde luchas.",
+        "Puede regresar sin problema alguno a su nido desde\ncualquier lugar del globo y jamás se separa de quien\nlo entrena.",
+        "Según los rumores, en lo más profundo del bosque donde\nmora Tranquill, hay un mundo pacífico y exento de luchas.",
+        "Puede regresar sin problema alguno a su nido desde cualquier\nlugar del globo y jamás se separa de quien lo entrena.",
+        "Posee una velocidad de vuelo nada desdeñable.\nPor más que se aleje, siempre recuerda el camino\nde regreso a su nido o hasta su Entrenador.",
+        "Posee una mente ágil y muy buena memoria.\nTal vez por eso muchos repartidores lo eligen\ncomo compañero."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "name": "Tranquill",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 15.0
+}

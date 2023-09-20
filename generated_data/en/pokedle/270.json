@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Lotad",
+    "types": [
+        "Water",
+        "Grass"
+    ],
+    "weight": 2.6
+}

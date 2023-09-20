@@ -1,0 +1,10 @@
+{
+    "color": "Rojo",
+    "generation": 1,
+    "height": 0.9,
+    "name": "Magikarp",
+    "types": [
+        "Agua"
+    ],
+    "weight": 10.0
+}

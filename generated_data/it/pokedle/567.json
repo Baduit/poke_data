@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Archeops",
+    "types": [
+        "Roccia",
+        "Volante"
+    ],
+    "weight": 32.0
+}

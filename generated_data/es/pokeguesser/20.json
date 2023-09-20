@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Lima sus colmillos royendo objetos duros. Con ellos\npuede destruir incluso paredes de hormigón.",
+        "Con las membranas de las patas traseras, puede\natravesar ríos. Busca su alimento en zonas extensas.",
+        "A Raticate le crecen los incisivos firmes y fuertes.\nPara mantenerlos afilados roe troncos y rocas, e incluso\nlas paredes de las casas.",
+        "A Raticate le crecen los incisivos firmes y fuertes.\nPara mantenerlos afilados roe troncos y rocas, e incluso\nlas paredes de las casas.",
+        "Es un excelente nadador. Gracias a las\npequeñas membranas de sus patas traseras\npuede cruzar ríos y, en ocasiones, hasta mares.",
+        "No hay que dejarse engañar por su aspecto,\npues es más feroz de lo que parece. Si alguien\nintenta tocarlo, puede llevarse un mordisco.",
+        "Las pequeñas membranas que tiene en las\npatas traseras le permiten nadar entre las islas\nde Alola y escapar así de sus depredadores.",
+        "Mantiene el equilibrio gracias a sus bigotes.\nAunque le coja confianza a alguien, uno puede\nllevarse un mordisco si intenta tocarlo.",
+        "Gracias a las pequeñas membranas de las patas\ntraseras, puede nadar por los ríos para capturar\npresas.",
+        "Gracias a las pequeñas membranas de las patas\ntraseras, puede nadar por los ríos para capturar\npresas."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "name": "Raticate",
+    "types": [
+        "Normal"
+    ],
+    "weight": 18.5
+}

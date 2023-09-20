@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Ses queues jumelles sont si agiles\net efficaces qu’il ne se sert que\ntrès rarement de ses bras.",
+        "Ses queues jumelles sont si agiles\net efficaces qu’il ne se sert que\ntrès rarement de ses bras.",
+        "Ils vivent en grandes colonies et relient leurs\nqueues pour former un anneau en signe d’amitié.",
+        "Il se nourrit de noix qu’il épluche avec ses deux\nqueues habiles. Il utilise de moins en moins ses bras.",
+        "Ils vivent en grandes colonies et relient leurs queues\npour former un anneau en signe d’amitié.",
+        "Il se nourrit de noix qu’il épluche avec ses deux queues\nhabiles. Il utilise de moins en moins ses bras.",
+        "Il se dispute constamment les arbres les plus\nconfortables avec Quartermac et remporte\nla victoire la moitié du temps.",
+        "Il utilise toujours ses deux queues pour faire\nla moindre tâche. Il s’en sert aussi pour enlacer\nles gens qu’il affectionne tout particulièrement."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "name": "Capidextre",
+    "types": [
+        "Normal"
+    ],
+    "weight": 20.3
+}

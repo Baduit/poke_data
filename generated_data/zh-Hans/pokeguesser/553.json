@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "拥有特殊的双眼，\n即使在沙暴中也能发现\n前方５０公里处的小猎物。",
+        "用强力的颚咬住后，\n就这么拼命扭转身体，\n将猎物切断。",
+        "如果发现前方５０公里处的猎物，\n就会像游泳一样在沙漠里移动，\n扑过去咬住。",
+        "把身体藏在沙漠蜻蜓引起的沙暴中，\n静静地等待着猎物的到来。",
+        "被称为沙之恶霸。\n就连厚厚的铁板也能\n用强力的颚轻松咬断。",
+        "虽然凶暴，但也有擅长忍耐的一面。\n为了捕获猎物，可以在\n沙子里静静等上好几天。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "name": "流氓鳄",
+    "types": [
+        "地面",
+        "恶"
+    ],
+    "weight": 96.3
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "雖然能透過凍結四周來捕捉獵物，\n但由於嘴長在頭頂上，\n所以吃起東西來不太方便。",
+        "面部的皮膚無論受到什麼攻擊\n都不會受傷，但由於呼吸起來\n不方便而滅絕了。"
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+    "name": "鰓魚海獸",
+    "types": [
+        "水",
+        "冰"
+    ],
+    "weight": 175.0
+}

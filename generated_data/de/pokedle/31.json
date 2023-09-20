@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 1.3,
+    "name": "Nidoqueen",
+    "types": [
+        "Gift",
+        "Boden"
+    ],
+    "weight": 60.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 7,
+    "height": 0.5,
+    "name": "Reißlaus",
+    "types": [
+        "Käfer",
+        "Wasser"
+    ],
+    "weight": 12.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 1,
+    "height": 1.6,
+    "name": "독파리",
+    "types": [
+        "물",
+        "독"
+    ],
+    "weight": 55.0
+}

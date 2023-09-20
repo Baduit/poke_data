@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Quando incontra Karrablast si crea della corrente\nelettrica che stimola entrambi i Pokémon causandone\nl’evoluzione.",
+        "Se riceve una scarica elettrica assieme a Karrablast,\nsi evolve. Il motivo non è chiaro.",
+        "Quando incontra Karrablast si crea della corrente elettrica\nche stimola entrambi i Pokémon causandone l’evoluzione.",
+        "Se riceve una scarica elettrica assieme a Karrablast, si evolve.\nIl motivo non è chiaro.",
+        "Quando viene attaccato, si rinchiude nella\nconchiglia sigillando la visiera per proteggersi.\nSolo Karrablast riesce a superare queste difese.",
+        "Il suo corpo reagisce misteriosamente all’energia\nelettrica. Pare che si evolva se si trova in\npresenza di Karrablast."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "name": "Shelmet",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 7.7
+}

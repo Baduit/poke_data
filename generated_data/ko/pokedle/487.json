@@ -1,0 +1,11 @@
+{
+    "color": "검정",
+    "generation": 4,
+    "height": 4.5,
+    "name": "기라티나",
+    "types": [
+        "고스트",
+        "드래곤"
+    ],
+    "weight": 750.0
+}

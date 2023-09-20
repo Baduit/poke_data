@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Wenn dieses Pokémon einen Strahl glühenden\nFeuers speit, leuchtet seine Schwanzspitze auf.",
+        "Dieses Pokémon kann mit seinen Flügeln\neine Höhe von bis zu 1 400 m erreichen.\nEs spuckt sehr heißes Feuer.",
+        "Glurak fliegt durch die Lüfte, um starke Gegner aufzuspüren.\nSein heißer Feueratem bringt alles zum Schmelzen. Aber es\nrichtet seinen Feueratem nie auf schwächere Gegner.",
+        "Glurak fliegt durch die Lüfte, um starke Gegner aufzuspüren.\nSein heißer Feueratem bringt alles zum Schmelzen. Aber es\nrichtet seinen Feueratem nie gegen schwächere Gegner.",
+        "Wenn es einen Strahl glühenden Feuers speit,\nlodert die rote Flamme an seiner Schwanzspitze\nnoch intensiver.",
+        "Wenn es einen Strahl glühenden Feuers speit,\nlodert die rote Flamme an seiner Schwanzspitze\nnoch intensiver.",
+        "Dieses Pokémon kann mit seinem Feueratem\nFelsen schmelzen. Es verursacht ab und zu\nWaldbrände.",
+        "Dieses Pokémon kann mit seinen Flügeln eine\nHöhe von bis zu 1 400 m erreichen. Es spuckt\nsehr heißes Feuer."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "name": "Glurak",
+    "types": [
+        "Feuer",
+        "Flug"
+    ],
+    "weight": 90.5
+}

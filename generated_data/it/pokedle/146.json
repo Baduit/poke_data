@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Moltres",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 60.0
+}

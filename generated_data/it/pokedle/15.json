@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Beedrill",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 29.5
+}

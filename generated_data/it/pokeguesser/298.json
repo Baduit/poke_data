@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Pokémon che vive nell’acqua. Si muove rapidamente\nsulla terraferma saltellando sulla grossa coda.",
+        "Si scaglia contro avversari più forti di lui agitando la\ngrande coda in cui conserva le sostanze di cui si nutre.",
+        "Azurill fa roteare la propria coda come un lazo, poi la scaglia\nlontano. Nel momento del lancio prende il volo anche\nil suo corpo. Grazie a questa tecnica unica, uno di questi\nPokémon è riuscito a lanciarsi a 10 m di distanza.",
+        "Azurill è dotato di una coda lunga ed elastica. Inoltre, è ricca\ndi sostanze nutritive indispensabili per la sua sopravvivenza.\nSpesso lo si vede saltellare e giocare sulla coda gommosa\ne molleggiata.",
+        "Nella sfera all’estremità della coda, che rimbalza\ncome una palla, sono conservate le sostanze\nnutritive necessarie per la crescita del Pokémon.",
+        "È un Pokémon docile, ma se si arrabbia attacca\nagitando la grossa palla che ha sulla coda."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "name": "Azurill",
+    "types": [
+        "Normale",
+        "Folletto"
+    ],
+    "weight": 2.0
+}

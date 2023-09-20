@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Magnetilo",
+    "types": [
+        "Elektro",
+        "Stahl"
+    ],
+    "weight": 6.0
+}

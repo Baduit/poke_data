@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Sumpex",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 81.9
+}

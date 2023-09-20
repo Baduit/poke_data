@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "性情兇暴，會對靠近自己的對手\n噴出毒液。不知為何就只跟\n破破舵輪關係非常親密。",
+        "混在海藻裡等待獵物上門。\n會噴出連金屬都能溶解的毒液，\n給獵物致命一擊。",
+        "會用能夠腐蝕金屬的毒液\n將闖入自己地盤的油輪\n化為碎屑，沉入大海。",
+        "透過讓頭頂類似帽子的部分\n浮出海面吸收陽光，\n就能夠製造龍之能量。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "name": "毒藻龍",
+    "types": [
+        "毒",
+        "龍"
+    ],
+    "weight": 81.5
+}

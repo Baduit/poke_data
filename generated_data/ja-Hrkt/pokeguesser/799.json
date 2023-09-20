@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "やまを　くらい　けずり　ビルを\nのみこむ　すがたが　ほうこく　された。\nウルトラビーストの　いっしゅ。",
+        "きけんせいぶつ　ビーストの　いっしゅ。\nつねに　なにかを　くらっているようだが\nなぜか　フンは　みはっけん。",
+        "このせかいでは　いしつで　きけんだが\nほんらい　すんでいる　せかいでは\nふつうに　みかける　せいぶつらしい。",
+        "ＵＢと　よばれる　みちの　せいめい。\nつねに　はらを　すかせているのか\nずっと　なにかを　くらっている。"
+    ],
+    "height": 5.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "name": "アクジキング",
+    "types": [
+        "あく",
+        "ドラゴン"
+    ],
+    "weight": 888.0
+}

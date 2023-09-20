@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 5,
+    "height": 0.1,
+    "name": "Joltik",
+    "types": [
+        "Bug",
+        "Electric"
+    ],
+    "weight": 0.6
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Son corps glissant est difficile à\nattraper. On dit qu’il a été créé\ndans de la boue solidifiée.",
+        "Son corps glissant est difficile à\nattraper. On dit qu’il a été créé\ndans de la boue solidifiée.",
+        "Il enduit son corps d’une substance visqueuse pour\nglisser et se libérer quand on l’agrippe.",
+        "Ses barbillons font un excellent radar qui lui permet\nde repérer ses proies, même en eau trouble.",
+        "Les vibrisses sensibles de Barloche agissent comme\nun système radar sophistiqué. Ce Pokémon se cache\ndans la boue, laissant dépasser ses vibrisses, et attend\nque sa proie passe à proximité.",
+        "Le corps de Barloche est couvert d’un voile visqueux.\nLorsqu’un ennemi l’attrape, ce Pokémon peut se glisser\nhors de son étreinte. Il s’affaiblit quand la pellicule\nvisqueuse de son corps s’assèche.",
+        "Il se sert de ses barbillons comme d’un radar\nultra-sophistiqué. Ils lui permettent de détecter\nses proies même dans l’eau boueuse.",
+        "Son corps tout visqueux le rend impossible à\nattraper. Il existe des concours d’adresse dont\nle but est d’attraper des Barloche à mains nues.",
+        "Son corps est tout visqueux, ce qui lui permet\nde glisser entre les serres des Pokémon oiseaux\nafin de s’échapper.",
+        "Ses barbillons sont des organes sensoriels :\nils peuvent détecter le goût et les odeurs,\ncomme le font la langue et le nez des humains.",
+        "Son corps glissant est difficile à attraper.\nDans une certaine région, on raconte qu’il est né\nà partir de boue solidifiée.",
+        "Il sonde les bords boueux des rivières\navec ses barbillons.\nUn film fin et visqueux protège tout son corps."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "name": "Barloche",
+    "types": [
+        "Eau",
+        "Sol"
+    ],
+    "weight": 1.9
+}

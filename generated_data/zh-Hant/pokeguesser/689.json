@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "７隻龜腳腳組成了１隻\n龜足巨鎧的身體。\n由頭部對手腳發號施令。",
+        "用手掌上的眼珠來觀察\n前後左右的狀況。遇上危機時\n手腳會自己動起來打倒對手。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
+    "name": "龜足巨鎧",
+    "types": [
+        "岩石",
+        "水"
+    ],
+    "weight": 96.0
+}

@@ -1,0 +1,29 @@
+{
+    "descriptions": [
+        "It wraps things with its extensible\ntongue. Getting too close to it\nwill leave you soaked with drool.",
+        "It wraps things with its extensible\ntongue. Getting too close to it\nwill leave you soaked with drool.",
+        "The long tongue is always soggy\nwith slobber. The saliva contains\na solvent that causes numbness.",
+        "Its saliva can decompose anything.\nIt wraps its long tongue around things\nto coat them with its sticky saliva.",
+        "It has space in its throat to store\nsaliva. It can also roll up its tongue\nand store it in the same spot.",
+        "The long tongue is always soggy\nwith slobber. The saliva contains\na solvent that causes numbness.",
+        "The long tongue is always soggy\nwith slobber. The saliva contains\na solvent that causes numbness.",
+        "Their saliva contains lots of components\nthat can dissolve anything. The numbness\ncaused by their lick does not dissipate.",
+        "Their saliva contains lots of components\nthat can dissolve anything. The numbness\ncaused by their lick does not dissipate.",
+        "It wraps things with its extensible tongue. Getting\ntoo close to it will leave you soaked with drool.",
+        "Their saliva contains lots of components that can\ndissolve anything. The numbness caused by their\nlick does not dissipate.",
+        "It wraps things with its extensible tongue. Getting\ntoo close to it will leave you soaked with drool.",
+        "Their saliva contains lots of components that can\ndissolve anything. The numbness caused by their\nlick does not dissipate.",
+        "A contest is under way to determine which one\ncan stick its tongue out the farthest. The\ncurrent record is...more than 82 feet.",
+        "It uses its tongue much more skillfully than its\nhands or its feet. It can deftly pick up a\nsingle small bean with its tongue.",
+        "Lickilicky’s strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky’s tongue can stretch so far.",
+        "Lickilicky can do just about anything with its\ntongue, which is as dexterous as the human hand.\nIn contrast, Lickilicky’s use of its fingers is clumsy.",
+        "Its tongue can extend and contract freely, and it is capable of\nreaching lengths over 10 times Lickilicky's height. Beware of the\nsaliva, as it contains corrosive elements."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "name": "Lickilicky",
+    "types": [
+        "Normal"
+    ],
+    "weight": 140.0
+}

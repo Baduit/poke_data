@@ -1,0 +1,11 @@
+{
+    "color": "褐色",
+    "generation": 5,
+    "height": 0.7,
+    "name": "黑眼鳄",
+    "types": [
+        "地面",
+        "恶"
+    ],
+    "weight": 15.2
+}

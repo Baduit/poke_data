@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Unfezant",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 29.0
+}

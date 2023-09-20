@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 9,
+    "height": 0.7,
+    "name": "Glimmet",
+    "types": [
+        "Rock",
+        "Poison"
+    ],
+    "weight": 8.0
+}

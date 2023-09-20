@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Nincada",
+    "types": [
+        "Bug",
+        "Ground"
+    ],
+    "weight": 5.5
+}

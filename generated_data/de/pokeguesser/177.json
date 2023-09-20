@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Da seine Flügel nicht voll ausgebildet sind,\nbewegt es sich hüpfend. Es starrt immer etwas an.",
+        "Gewöhnlich sucht es am Boden nach Futter,\naber manchmal springt es auch auf Äste,\num dort zu suchen.",
+        "Natu kann nicht fliegen, da seine Flügel noch nicht\nausgewachsen sind. Wenn du diesem Pokémon in die Augen\nschaust, starrt es dich konzentriert an. Wenn du dich aber\nbewegst, hüpft es weg, um sich in Sicherheit zu bringen.",
+        "Natu kann hervorragend springen. Dieses Pokémon schlägt\nmit den Flügeln und springt auf Äste, die höher liegen,\nals ein Erwachsener groß ist, um an die neuen Triebe eines\nBaumes zu kommen.",
+        "Natu kann noch nicht fliegen, aber hervorragend\nspringen. So erreicht es selbst hoch liegende\nÄste, an deren Knospen es dann pickt.",
+        "Sein durchdringender Blick scheint einen stets\nzu beobachten. Kommt man ihm auch nur ein\nbisschen näher, ergreift es hüpfend die Flucht.",
+        "Es ist ein hervorragender Kletterer. Besonders\ngern steigt es auf Bäume und frisst die jungen\nTriebe ab.",
+        "Da seine Flügel nicht voll ausgebildet sind,\nbewegt es sich hüpfend fort. Seinen Blick hat\nes stets starr auf ein Ziel gerichtet."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "name": "Natu",
+    "types": [
+        "Psycho",
+        "Flug"
+    ],
+    "weight": 2.0
+}

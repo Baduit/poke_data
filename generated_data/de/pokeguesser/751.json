@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Die Futtersuche treibt es an Land. Eine\nWasserblase versorgt es mit Atemluft und\nschützt zugleich seinen weichen Kopf.",
+        "Wenn es Beute oder Feinde erspäht hat, lässt\nes die Wasserblase auf seinem Kopf platzen\nund bespritzt sein Gegenüber mit Wasser.",
+        "Stehen sich zwei Araqua im Weg, vergleichen sie\ndie Wasserblasen auf ihrem Kopf. Das mit der\nkleineren Blase macht dann dem anderen Platz.",
+        "Es kann nur Sauerstoff einatmen, der in Wasser\ngelöst ist. Deshalb hüllt es seinen Kopf immer in\neine Wasserblase, wenn es an Land geht.",
+        "Mit dem Hinterleib füllt es eine Wasserblase auf\nund hüllt seinen Kopf darin ein. Trifft es andere\nAraqua, vergleichen sie ihre Wasserblasengröße.",
+        "Es verlässt das Wasser nur selten. Wenn es auf\nFuttersuche an Land kommt, hüllt es seinen Kopf\nin eine Wasserblase."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "name": "Araqua",
+    "types": [
+        "Wasser",
+        "Käfer"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ha il corpo ricoperto da una candida pelliccia bianca.\nPiù fa freddo, più questo Pokémon è attivo.",
+        "Il suo corpo affusolato ha poco attrito nell’acqua.\nLe basse temperature lo rendono vivace.",
+        "Dewgong adora riposare su una gelida lastra di ghiaccio.\nIn passato i marinai confondevano il profilo di questo\nPokémon addormentato sulla superficie gelata con una sirena.",
+        "Dewgong adora riposare su una gelida lastra di ghiaccio.\nIn passato i marinai confondevano il profilo di questo\nPokémon addormentato sulla superficie gelata con una sirena.",
+        "Nuota nel mare alla velocità di 8 nodi alla\nricerca dei Pokémon di cui si nutre.\nÈ particolarmente ghiotto di Wishiwashi.",
+        "Dopo mangiato prende il sole sulla spiaggia\nper far aumentare la sua temperatura corporea\ne favorire la digestione.",
+        "Il suo corpo è bianco come la neve. Non soffre\nil freddo e nuota senza problemi anche in acque\ngelide.",
+        "Il suo corpo è bianco come la neve. Non soffre\nil freddo e nuota senza problemi anche in acque\ngelide."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "Dewgong",
+    "types": [
+        "Acqua",
+        "Ghiaccio"
+    ],
+    "weight": 120.0
+}

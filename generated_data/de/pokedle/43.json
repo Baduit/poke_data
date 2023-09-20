@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 0.5,
+    "name": "Myrapla",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 5.4
+}

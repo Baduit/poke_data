@@ -1,0 +1,31 @@
+{
+    "descriptions": [
+        "Additional software was installed\nto make it a better Pokémon.\nIt began acting oddly, however.",
+        "Additional software was installed\nto make it a better Pokémon.\nIt began acting oddly, however.",
+        "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned.",
+        "Its programming was modified to enable\nit to travel through alien dimensions.\nSeems there might have been an error...",
+        "Its programming was modified to enable\nit to travel through alien dimensions.\nSeems there might have been an error...",
+        "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned.",
+        "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned.",
+        "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned.",
+        "Its programming was modified to\nenable work in alien dimensions.\nIt did not work as planned.",
+        "Additional software was installed to make it a better\nPokémon. It began acting oddly, however.",
+        "Its programming was modified to enable it to travel\nthrough alien dimensions. Seems there might have\nbeen an error...",
+        "Additional software was installed to make it a better\nPokémon. It began acting oddly, however.",
+        "Its programming was modified to enable it to travel\nthrough alien dimensions. Seems there might have\nbeen an error...",
+        "In order to create a more advanced Pokémon, an\nadditional program was installed, but apparently\nit contained a defect that makes it move oddly.",
+        "Its program was modified to facilitate\nextra-dimensional activities, but that led to\nnoticeably strange behavior.",
+        "Its behavior is noticeably unstable, which is\napparently due to the incompetence of the\nengineer who updated its programming.",
+        "A faulty update was added to its programming.\nIts behavior is noticeably strange, so the\nexperiment may have been a failure.",
+        "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z’s behavior.",
+        "Some say an additional program made this\nPokémon evolve, but even academics can’t agree\non whether Porygon-Z is really an evolution.",
+        "A curious item induced this evolution. The Pokémon's offensive\ncapabilities have greatly increased, but the strangeness of its\nbehavior has magnified in equal measure. This worries me."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "name": "Porygon-Z",
+    "types": [
+        "Normal"
+    ],
+    "weight": 34.0
+}

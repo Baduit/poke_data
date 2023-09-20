@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 1,
+    "height": 1.5,
+    "name": "Venomoth",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 12.5
+}

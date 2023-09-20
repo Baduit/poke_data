@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It is born asleep, and it dies asleep. All its\nmovements are apparently no more than the\nresults of it tossing and turning in its dreams.",
+        "The log it holds was given to it by its parents at\nbirth. It has also been known to cling to the arm\nof a friendly Trainer.",
+        "It stays asleep from the moment it’s born.\nWhen it falls into a deep sleep, it stops\nmoving altogether.",
+        "It remains asleep from birth to death as a result\nof the sedative properties of the leaves that\nform its diet."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "name": "Komala",
+    "types": [
+        "Normal"
+    ],
+    "weight": 19.9
+}

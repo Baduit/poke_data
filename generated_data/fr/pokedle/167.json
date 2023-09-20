@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 2,
+    "height": 0.5,
+    "name": "Mimigal",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 8.5
+}

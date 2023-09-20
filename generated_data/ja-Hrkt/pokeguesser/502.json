@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ながれるような　たちさばきで\n２まいの　ホタチを　あつかう　わざは\nきびしい　しゅぎょうで　みにつける。",
+        "きびしい　しゅぎょうの　すえ\nフタチマルごとに　ことなる　かたの\nホタチさばきを　しゅうとく　する。",
+        "ながれるような　たちさばきで\n２まいの　ホタチを　あつかう　わざは\nきびしい　しゅぎょうで　みにつける。",
+        "きびしい　しゅぎょうの　すえ\nフタチマルごとに　ことなる　かたの\nホタチさばきを　しゅうとく　する。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+    "name": "フタチマル",
+    "types": [
+        "みず"
+    ],
+    "weight": 24.5
+}

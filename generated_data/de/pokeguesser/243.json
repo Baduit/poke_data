@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Die Regenwolken, die es trägt, ermöglichen es ihm,\nGewitter zu erzeugen. Es strotzt vor Blitzen.",
+        "Dieses aggressive Pokémon speichert Energie\nin seinem Körper und entlädt sie, wenn es über\ndas Land streift.",
+        "Raikou ist so schnell wie der Blitz. Das Gebrüll dieses\nPokémon sendet Schockwellen aus, die wie Donnerschläge\ndurch die Luft beben und den Boden erschüttern.",
+        "Raikou ist so schnell wie der Blitz. Das Gebrüll dieses\nPokémon sendet Schockwellen aus, die wie Donnerschläge\ndurch die Luft beben und den Boden erschüttern."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "name": "Raikou",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 178.0
+}

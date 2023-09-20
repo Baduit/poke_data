@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ein künstlich produziertes Pokémon, welches das\nErgebnis von Forschungen ist. Es ist simpel aufgebaut.",
+        "Porygon besteht komplett aus Computerdaten.\nEs kann sich frei in virtuellen Welten bewegen.",
+        "Porygon ist in der Lage, sich in Daten zurückzuverwandeln\nund in den Cyberspace zu gelangen. Dieses Pokémon ist\nkopiergeschützt, sodass es durch Kopieren nicht vervielfältigt\nwerden kann.",
+        "Porygon ist in der Lage, sich in Daten zurückzuverwandeln\nund in den Cyberspace zu gelangen. Dieses Pokémon ist\nkopiergeschützt, sodass es durch Kopieren nicht vervielfältigt\nwerden kann.",
+        "Dieses Pokémon wurde vor 20 Jahren künstlich\nerschaffen. Damals stellte es das Nonplusultra\nder technischen Möglichkeiten dar.",
+        "Es kann seinen Körper in Daten umwandeln\nund somit nach Belieben den virtuellen Raum\nbetreten und verlassen.",
+        "Dieses Pokémon wurde vor etwa 20 Jahren\nkünstlich erschaffen. Ein Großteil der damals\nverwendeten Technik ist heute längst überholt.",
+        "Es wurde vor 20 Jahren von Wissenschaftlern\nerschaffen, die vom Erforschen des Weltraums\nträumten. Ihr Traum hat sich bisher nicht erfüllt.",
+        "Porygon ist das einzige Pokémon, von dem man\nsich erhofft, dass es ins Weltall fliegen kann.\nBislang ist dies aber keinem Exemplar gelungen.",
+        "Porygon ist das einzige Pokémon, von dem man\nsich erhofft, dass es ins Weltall fliegen kann.\nBislang ist dies aber keinem Exemplar gelungen.",
+        "Es ist weltweit das erste künstliche Pokémon,\ndas dank neuester Technologien mittels\nComputerprogrammen erschaffen wurde.",
+        "In den letzten Jahren nahm es im Cyberspace\nbei der Suche nach verdächtigen Daten eine\naktive Rolle ein."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "name": "Porygon",
+    "types": [
+        "Normal"
+    ],
+    "weight": 36.5
+}

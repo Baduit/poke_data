@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 1,
+    "height": 0.6,
+    "name": "Kakuna",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 10.0
+}

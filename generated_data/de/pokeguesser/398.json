@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Die Muskeln in seinen Flügeln und Beinen sind stark.\nEs kann im Flug sogar ein anderes Pokémon tragen.",
+        "Wird Staravia zu Staraptor, verlässt es die Gruppe\nund lebt allein. Seine Spannweite ist gigantisch.",
+        "Die Muskeln in seinen Flügeln und Beinen sind stark.\nEs kann im Flug sogar ein anderes Pokémon tragen.",
+        "Wird Staravia zu Staraptor, verlässt es die Gruppe\nund lebt allein. Seine Spannweite ist gigantisch."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "name": "Staraptor",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 24.9
+}

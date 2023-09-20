@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Amoonguss",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 10.5
+}

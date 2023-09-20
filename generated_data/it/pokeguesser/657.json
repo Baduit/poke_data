@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Lancia dei sassi racchiusi in bolle di schiuma.\nÈ talmente preciso da riuscire a colpire una lattina\nvuota a 30 m di distanza.",
+        "Grazie alla sua straordinaria agilità, è in grado di\nscalare una torre alta più di 600 m in meno\ndi un minuto.",
+        "Lancia dei sassi racchiusi in bolle di schiuma. È talmente\npreciso da riuscire a colpire una lattina vuota a 30 m\ndi distanza.",
+        "Grazie alla sua straordinaria agilità, è in grado di scalare una\ntorre alta più di 600 m in meno di un minuto."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "name": "Frogadier",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 10.9
+}

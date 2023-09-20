@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 5,
+    "height": 1.4,
+    "name": "암팰리스",
+    "types": [
+        "벌레",
+        "바위"
+    ],
+    "weight": 200.0
+}

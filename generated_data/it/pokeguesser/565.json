@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Vive nel mare e sulla terraferma. Ha una forza tale\nda sfondare con un solo colpo il fondo di una nave\ncisterna.",
+        "Un singolo colpo dei suoi arti anteriori può bastare\na far perdere i sensi alla preda e romperne ossa e\ncorazza.",
+        "Vive nel mare e sulla terraferma. Ha una forza tale da sfondare\ncon un solo colpo il fondo di una nave cisterna.",
+        "Un singolo colpo dei suoi arti anteriori può bastare a far\nperdere i sensi alla preda e romperne ossa e corazza.",
+        "Per rafforzare il proprio carapace, mangiava le\nprede intere, frantumandone corazza e ossa.",
+        "Questo Pokémon è a suo agio sia in mare che\nsulla terraferma. Cattura le prede a terra e\nle trascina in mare per finirle.",
+        "Con le sue mascelle terribilmente potenti poteva\nfrantumare le dure corazze degli Omastar e\ndegli Omanyte per mangiarseli senza problemi.",
+        "Per rafforzare il suo carapace mangiava le\nprede intere senza scartare nulla, nemmeno\nle ossa e i gusci.",
+        "Consuma le sue prede senza lasciare nemmeno\nossa e gusci, favorendo così la formazione di\nun carapace duro e spesso.",
+        "Quando va in cerca di prede sale anche sulla\nterraferma, nonostante i suoi movimenti siano\npiù impacciati rispetto a quando è in acqua."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+    "name": "Carracosta",
+    "types": [
+        "Acqua",
+        "Roccia"
+    ],
+    "weight": 81.0
+}

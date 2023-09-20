@@ -1,0 +1,10 @@
+{
+    "color": "Rot",
+    "generation": 2,
+    "height": 0.7,
+    "name": "Schneckmag",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 35.0
+}

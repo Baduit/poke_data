@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Brutalanda",
+    "types": [
+        "Drache",
+        "Flug"
+    ],
+    "weight": 102.6
+}

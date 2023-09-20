@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es eignet sich durch strenges Training elegant\nineinander übergehende Attacken mit seinen\nzwei Muscheln an.",
+        "Jedes Zwottronin eignet sich über strenges Training\neinen völlig eigenen Muschelkampfstil an.",
+        "Es eignet sich durch strenges Training elegant ineinander\nübergehende Attacken mit seinen zwei Muscheln an.",
+        "Jedes Zwottronin eignet sich über strenges Training einen\nvöllig eigenen Muschelkampfstil an."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+    "name": "Zwottronin",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 24.5
+}

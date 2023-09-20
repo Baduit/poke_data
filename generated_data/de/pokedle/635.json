@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 1.8,
+    "name": "Trikephalo",
+    "types": [
+        "Unlicht",
+        "Drache"
+    ],
+    "weight": 160.0
+}

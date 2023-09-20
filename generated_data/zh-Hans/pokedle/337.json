@@ -1,0 +1,11 @@
+{
+    "color": "黄色",
+    "generation": 3,
+    "height": 1.0,
+    "name": "月石",
+    "types": [
+        "岩石",
+        "超能力"
+    ],
+    "weight": 168.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 1,
+    "height": 1.9,
+    "name": "Rhydon",
+    "types": [
+        "Tierra",
+        "Roca"
+    ],
+    "weight": 120.0
+}

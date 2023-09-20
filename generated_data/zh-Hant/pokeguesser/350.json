@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "也被稱為最美的寶可夢，\n一直以來帶給了藝術家無數靈感。",
+        "棲息在清澈的湖底。\n在發生戰爭時出現，\n治癒人們的心。",
+        "被稱為最美的寶可夢。\n但就喜歡醜醜魚而培育牠的\n訓練家看來卻未必如此。",
+        "棲息在大湖的湖底。\n據說只要看見牠美麗的身影，\n心中的污穢就會得到淨化。",
+        "也被稱為是最美的寶可夢。\n一直以來為無數的\n藝術家提供了靈感。",
+        "據說目睹了美納斯美麗\n身姿的人，心中一切的\n憤恨都能得到撫慰。"
+    ],
+    "height": 6.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "name": "美納斯",
+    "types": [
+        "水"
+    ],
+    "weight": 162.0
+}

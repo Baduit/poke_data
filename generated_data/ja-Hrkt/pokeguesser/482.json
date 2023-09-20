@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "いしのかみ　と　よばれている。\nみずうみの　そこで　ねむりつづけ\nせかいの　バランスを　とっている。",
+        "ユクシー　エムリット　アグノムは\nおなじ　タマゴから　うまれた\nポケモンと　かんがえられている。",
+        "いしのかみ　と　よばれている。\nみずうみの　そこで　ねむりつづけ\nせかいの　バランスを　とっている。",
+        "ユクシー　エムリット　アグノムは\nおなじ　タマゴから　うまれた\nポケモンと　かんがえられている。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+    "name": "アグノム",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 0.3
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 4,
+    "height": 0.3,
+    "name": "Étourmi",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 2.0
+}

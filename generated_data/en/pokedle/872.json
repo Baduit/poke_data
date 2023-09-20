@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 8,
+    "height": 0.3,
+    "name": "Snom",
+    "types": [
+        "Ice",
+        "Bug"
+    ],
+    "weight": 3.8
+}

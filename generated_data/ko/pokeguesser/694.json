@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "사막에서 생활한다. 태양의\n빛을 쬐고 발전하면\n먹이를 먹지 않아도 괜찮다.",
+        "머리의 양측 주름에는\n태양의 빛을 쐬면\n발전하는 세포가 있다.",
+        "사막에서 생활한다. 태양의\n빛을 쬐고 발전하면\n먹이를 먹지 않아도 괜찮다.",
+        "머리의 양측 주름에는\n태양의 빛을 쐬면\n발전하는 세포가 있다.",
+        "머리에 있는 주름을 펼쳐서\n태양의 빛으로 발전하면 파워풀한\n전기 기술을 쓸 수 있게 된다.",
+        "태양광 발전 구조를 가졌다.\n발전을 방해하면\n스트레스를 받아서 약해진다."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "name": "목도리키텔",
+    "types": [
+        "전기",
+        "노말"
+    ],
+    "weight": 6.0
+}

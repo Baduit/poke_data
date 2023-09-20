@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "终其一生都在苹果里度过。\n遇到天敌鸟宝可梦时，\n会装成苹果保护自己。",
+        "一出生就躲进了苹果中。\n一边吃果肉一边成长。\n进化方向因苹果的味道而定。"
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "name": "啃果虫",
+    "types": [
+        "草",
+        "龙"
+    ],
+    "weight": 0.5
+}

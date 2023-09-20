@@ -1,0 +1,11 @@
+{
+    "color": "Weiß",
+    "generation": 5,
+    "height": 0.2,
+    "name": "Tarnpignon",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 1.0
+}

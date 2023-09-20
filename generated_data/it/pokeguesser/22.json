@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Con le sue enormi e magnifiche ali, è in grado di\nvolare senza mai atterrare per riposarsi.",
+        "Le sue ampie ali robuste gli permettono di volare\ntutto il giorno. Combatte usando il becco aguzzo.",
+        "Fearow è caratterizzato da un collo e un becco molto lunghi,\ndalla forma ottimale per la cattura della preda a terra o\nin acqua. Muove agilmente il becco lungo e affusolato\nper stanare la preda.",
+        "Fearow è caratterizzato da un collo e un becco molto lunghi,\ndalla forma ottimale per la cattura della preda a terra o\nin acqua. Muove agilmente il becco lungo e affusolato\nper stanare la preda.",
+        "Ha una notevole resistenza fisica e può volare\nper un giorno intero trasportando oggetti\npesanti.",
+        "Sembra che questo Pokémon sia raffigurato\nin pitture rupestri antichissime.",
+        "Chi attraversa il suo territorio portando con sé\ndel cibo corre il rischio di vederselo strappare\nvia in men che non si dica.",
+        "Ad Alola si ciba di Pokémon acquatici.\nSpesso lo si vede volteggiare sul mare in\ncerca di prede.",
+        "Questo Pokémon molto antico vola in alto\nnel cielo al minimo accenno di pericolo.",
+        "Questo Pokémon molto antico vola in alto\nnel cielo al minimo accenno di pericolo."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "name": "Fearow",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 38.0
+}

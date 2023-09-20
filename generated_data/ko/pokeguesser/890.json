@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "가슴의 코어가 가라르지방의\n대지에서 솟아나는 에너지를\n흡수해서 활동한다.",
+        "2만 년 전에 떨어진 운석\n안에 있었다. 다이맥스의\n수수께끼와 관련이 있는 듯하다."
+    ],
+    "height": 20.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "name": "무한다이노",
+    "types": [
+        "독",
+        "드래곤"
+    ],
+    "weight": 950.0
+}

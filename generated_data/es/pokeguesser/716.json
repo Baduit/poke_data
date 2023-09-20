@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Según las leyendas, puede compartir el secreto de la\nvida eterna. Ha despertado tras dormir durante mil\naños bajo la apariencia de un árbol.",
+        "Cuando los cuernos de su cabeza brillan en siete\ncolores, se dice que comparte el don de la vida\neterna.",
+        "Según las leyendas, puede compartir el secreto de la vida\neterna. Ha despertado tras dormir durante mil años bajo la\napariencia de un árbol.",
+        "Cuando los cuernos de su cabeza brillan en siete colores, se\ndice que comparte el don de la vida eterna."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+    "name": "Xerneas",
+    "types": [
+        "Hada"
+    ],
+    "weight": 215.0
+}

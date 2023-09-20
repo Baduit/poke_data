@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Météno",
+    "types": [
+        "Roche",
+        "Vol"
+    ],
+    "weight": 40.0
+}

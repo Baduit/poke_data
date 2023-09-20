@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 6,
+    "height": 0.3,
+    "name": "Fletchling",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 1.7
+}

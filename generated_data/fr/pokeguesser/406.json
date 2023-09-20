@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il est sensible aux variations de\ntempérature et on dit qu’il fleurit\nquand il sent la chaleur du soleil.",
+        "Il est sensible aux variations de\ntempérature et on dit qu’il fleurit\nquand il sent la chaleur du soleil.",
+        "Son bourgeon s’ouvre une fois gorgé de soleil et\nlibère du pollen. Il vit près des sources d’eau pure.",
+        "En hiver, son bourgeon se referme pour résister au\nfroid. Il s’ouvre au printemps et libère du pollen.",
+        "Son bourgeon s’ouvre une fois gorgé de soleil et libère\ndu pollen. Il vit près des sources d’eau pure.",
+        "En hiver, son bourgeon se referme pour résister au froid.\nIl s’ouvre au printemps et libère du pollen.",
+        "Plus l’eau dont il se nourrit est pure, plus le niveau\nde toxicité du pollen qu’il répand est élevé.",
+        "Il est sensible aux variations de température.\nQuand son bourgeon commence à s’ouvrir,\nl’arrivée du printemps est imminente."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "name": "Rozbouton",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 1.2
+}

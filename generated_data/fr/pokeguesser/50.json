@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Un Pokémon qui vit sous terre.\nHabitué aux souterrains, il fuit la\nlumière du jour.",
+        "Un Pokémon qui vit sous terre.\nHabitué aux souterrains, il fuit la\nlumière du jour.",
+        "Il vit à 1 m sous la terre et se nourrit de racines.\nIl apparaît rarement à la surface.",
+        "Son épiderme est très fin. S’il est exposé au soleil,\nson sang se réchauffe, ce qui l’affaiblit.",
+        "Les Taupiqueur sont élevés dans la plupart des fermes.\nEn effet, lorsque ce Pokémon creuse quelque part, le sol\nest comme labouré, prêt à recevoir les semences.\nOn peut alors y planter de délicieux légumes.",
+        "Les Taupiqueur sont élevés dans la plupart des fermes.\nEn effet, lorsque ce Pokémon creuse quelque part, le sol\nest comme labouré, prêt à recevoir les semences.\nOn peut alors y planter de délicieux légumes.",
+        "Il mange les racines souterraines des arbres,\net cause beaucoup de soucis aux fermiers\nqui cultivent certains légumes.",
+        "Ce Pokémon laboure le sol et le fertilise avec\nses déjections. Pour cette raison, beaucoup\nd’agriculteurs l’élèvent avec soin.",
+        "Il se déplace en creusant des tunnels.\nIl déteste la lumière et n’apparaît à la\nsurface qu’une fois le soleil couché.",
+        "Pour encourager les Taupiqueur à labourer leurs\nchamps, les agriculteurs les bordent d’arbres\nappréciés de ces Pokémon.",
+        "Il aime les lieux sombres. Il passe la majeure\npartie de son temps sous terre mais il remonte\nsouvent dans les cavernes.",
+        "Il aime les lieux sombres. Il passe la majeure\npartie de son temps sous terre mais il remonte\nsouvent dans les cavernes.",
+        "Si un Taupiqueur creuse un tunnel sous un champ,\nil retourne la terre et améliore les récoltes.",
+        "Ce Pokémon creuse sous terre à faible profondeur.\nLa terre qu’il laisse dans son sillage le rend facile\nà repérer."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "name": "Taupiqueur",
+    "types": [
+        "Sol"
+    ],
+    "weight": 0.8
+}

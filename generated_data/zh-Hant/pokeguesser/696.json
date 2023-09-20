@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "大顎有著非常驚人的破壞力。\n也有一種說法是，即使將牠復原，\n也無法重現牠原本的樣子。",
+        "愛撒嬌又任性。有時候\n即使寶寶暴龍只是想鬧著玩，\n對手也會受到重創。",
+        "復活的古代寶可夢。\n性情粗暴又任性。\n能用大顎咬碎任何東西。",
+        "任性且愛撒嬌。\n即使牠只是鬧著玩，\n也會讓訓練家受到重傷。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "name": "寶寶暴龍",
+    "types": [
+        "岩石",
+        "龍"
+    ],
+    "weight": 26.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Nato in ambienti sotterranei a elevati livelli di pressione\ne temperatura, emette energia dalla pietra che ha\nsulla testa.",
+        "Dopo la nascita, dorme nelle viscere della terra per\nmilioni di anni. A volte se ne trova qualche esemplare\nscavando nelle caverne.",
+        "Nato in ambienti sotterranei a elevati livelli di pressione e\ntemperatura, emette energia dalla pietra che ha sulla testa.",
+        "Dopo la nascita, dorme nelle viscere della terra per milioni\ndi anni. A volte se ne trova qualche esemplare scavando\nnelle caverne.",
+        "Questo Pokémon nasce sottoterra in condizioni\ndi pressione e temperatura estreme. Si difende\nemettendo raggi dalle gemme.",
+        "Pur non essendo particolarmente raro, è molto\napprezzato per le scintillanti pietre preziose\ndi cui è cosparso il suo corpo.",
+        "Corre voce che nelle profondità della terra\nci sia un regno fatto di pietre preziose dove\nvivono i Carbink assieme alla loro regina.",
+        "Per evitare che le pietre preziose che adornano\nil loro corpo perdano lucentezza, i Carbink se le\nlucidano a vicenda con i morbidi baffi.",
+        "Le gemme incastonate nel suo corpo\nemettono potenti raggi energetici con cui\nspazza via i nemici che lo attaccano.",
+        "Si dice che da qualche parte nel mondo c’è\nuna miniera in cui i Carbink dormono assieme\nalla loro regina."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+    "name": "Carbink",
+    "types": [
+        "Roccia",
+        "Folletto"
+    ],
+    "weight": 5.7
+}

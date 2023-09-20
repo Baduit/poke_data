@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "매우 가벼운 몸을 가졌다.\n바람에 날아가지 않도록 단단히\n지면을 밟아 지탱하고 있다.",
+        "바람에 날려 떠다닌다.\n산과 들에 통통코가 모여들면\n봄이 찾아온다고 전해진다.",
+        "바람을 타고 둥둥 떠다니는 포켓몬이다.\n강풍의 기척을 느끼면 동료끼리\n잎사귀를 휘감아 날아가지 않도록 준비한다.",
+        "바람을 타고 둥둥 떠다니는 포켓몬이다.\n강풍의 기척을 느끼면 동료끼리\n잎사귀를 휘감아 날아가지 않도록 준비한다."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "name": "통통코",
+    "types": [
+        "풀",
+        "비행"
+    ],
+    "weight": 0.5
+}

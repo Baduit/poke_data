@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Pendant le combat, son bec chauffe et dépasse\nallègrement les 100 °C. Ses adversaires\nrepartent généralement avec de graves brûlures.",
+        "Il fait exploser ses gaz digestifs pour propulser\nles pépins qu’il a dans le bec, avec une force\ncapable de réduire en miettes de gros rochers.",
+        "Ils communiquent entre eux en se frappant\nmutuellement sur le bec. La force et la cadence\ndes coups en disent long sur leur état d’esprit.",
+        "Les couples de Bazoucan sont réputés pour leur\nharmonie. On en amène souvent aux mariages\npour porter bonheur aux jeunes époux."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "name": "Bazoucan",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 26.0
+}

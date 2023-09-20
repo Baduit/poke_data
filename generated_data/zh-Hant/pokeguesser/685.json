@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "能從人們身上的氣味裡\n嗅出他們的身心狀態。\n在醫療領域的實際應用備受矚目。",
+        "因為體毛裡富含空氣，\n所以摸起來十分柔軟，\n重量也比看起來要輕。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "name": "胖甜妮",
+    "types": [
+        "妖精"
+    ],
+    "weight": 5.0
+}

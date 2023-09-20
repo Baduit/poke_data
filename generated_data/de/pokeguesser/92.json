@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es hat einen gasförmigen Körper. Es kann jeden\nGegner mit Giftgas einnebeln und dadurch ersticken.",
+        "Eingehüllt in seinen gasförmigen, Gift enthaltenden\nKörper würde jeder in Ohnmacht fallen.",
+        "Nebulak hat einen gasförmigen Körper. Wenn es starkem Wind\nausgesetzt wird, kann es davongeweht werden. Scharen dieser\nPokémon sammeln sich unter Dachrinnen, um sich vor dem\ngefährlichen Wind zu schützen.",
+        "Nebulak hat einen gasförmigen Körper. Wenn es starkem Wind\nausgesetzt wird, kann es davongeweht werden. Scharen dieser\nPokémon sammeln sich unter Dachrinnen, um sich vor dem\ngefährlichen Wind zu schützen.",
+        "Flackert in einem verlassenen alten Gebäude\nplötzlich ein rätselhaftes Licht auf, hält sich\ndort ein Nebulak versteckt.",
+        "Dass sich ein Nebulak in der Nähe aufhält,\nerkennt man hauptsächlich an einem süßlichen\nDuft. Sehen kann man es fast gar nicht.",
+        "Es heißt, dieses Pokémon sei aus einem tiefen\nGroll entstanden, der Gasen innewohnte, die auf\nFriedhöfen ausgeströmt waren.",
+        "Es besteht zu 95 % aus Giftgas. Die restlichen\n5 % bestehen aus Seelen von Opfern giftiger\nGase.",
+        "Es heißt, es erscheine in alten, verlassenen\nGebäuden. Sein Körper hat keine feste Form\nund erinnert an Gas.",
+        "Es heißt, es erscheine in alten, verlassenen\nGebäuden. Sein Körper hat keine feste Form\nund erinnert an Gas.",
+        "Es ist aus Gasen entstanden. Wird jemand in\nseinen gasförmigen, giftigen Körper gehüllt,\nso fällt er in Ohnmacht.",
+        "Aufgrund seines an Gas erinnernden Körpers\nkommt es an jeden Ort. Es kann jedoch vom\nWind davongeweht werden."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "name": "Nebulak",
+    "types": [
+        "Geist",
+        "Gift"
+    ],
+    "weight": 0.1
+}

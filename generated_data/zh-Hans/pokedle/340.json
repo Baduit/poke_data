@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 3,
+    "height": 0.9,
+    "name": "鲶鱼王",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 23.6
+}

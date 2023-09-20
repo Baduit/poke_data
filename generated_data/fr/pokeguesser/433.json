@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Quand il sautille, l’orbe qu’il a\ndans la bouche s’agite et tinte\ncomme une cloche.",
+        "Quand il sautille, l’orbe qu’il a\ndans la bouche s’agite et tinte\ncomme une cloche.",
+        "Il produit un bruit de sonnerie à chaque bond.\nIl assourdit l’ennemi avec ses cris à haute fréquence.",
+        "Quand il sautille, l’orbe qu’il a dans la bouche s’agite\net tinte comme une cloche.",
+        "Il produit un bruit de sonnerie à chaque bond. Il assourdit\nl’ennemi avec ses cris à haute fréquence.",
+        "Quand il sautille, l’orbe qu’il a dans la bouche s’agite et tinte\ncomme une cloche."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+    "name": "Korillon",
+    "types": [
+        "Psy"
+    ],
+    "weight": 0.6
+}

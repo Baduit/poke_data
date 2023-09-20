@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Quando tre o più Politoed si trovano insieme, iniziano\na cantare ad alta voce producendo un gran frastuono.",
+        "Se i Poliwag o i Poliwhirl odono il suo verso\nrimbombante si radunano anche da enormi distanze.",
+        "Il pennacchio arricciato sul capo di Politoed simboleggia\nil suo stato di re. Si dice che più lungo e più arricciato è\nil pennacchio, maggiore sia il rispetto che questo Pokémon\nriceve dai suoi pari.",
+        "Il pennacchio arricciato sul capo di Politoed simboleggia\nil suo stato di re. Si dice che più lungo e più arricciato è\nil pennacchio, maggiore sia il rispetto che questo Pokémon\nriceve dai suoi pari.",
+        "Nelle notti di luna si radunano in grandi gruppi\ne cantano in coro. Il loro verso gracchiante\nnon è proprio bello, ma ha un certo fascino.",
+        "È il re dei Poliwag e dei Poliwhirl. Il suo verso\ntonante fa fuggire atterriti gli avversari.",
+        "Nonostante emetta un verso chiassoso,\nun compositore si è ispirato alle sue grida\nper scrivere delle splendide ballate.",
+        "Più lungo e arricciato è il pennacchio sul capo\ndi un Politoed, maggiore è il numero di Poliwag\ne Poliwhirl che obbediranno ai suoi ordini.",
+        "Appare di notte sulle sponde degli stagni.\nSegnala il proprio territorio gracidando\na squarciagola.",
+        "Il gracidio del maschio è più forte.\nI Politoed con un verso basso e minaccioso\nsono molto apprezzati dalle femmine."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "name": "Politoed",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 33.9
+}

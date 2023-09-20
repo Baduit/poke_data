@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "原本棲息在臭氧層，\n身體的外殼變重後，\n就會向著地面落下。",
+        "若受到強烈的衝擊，外殼就會剝落。\n是奈米粒子突變而誕生的寶可夢。",
+        "棲息在臭氧層，被更強大的\n寶可夢當成了食物。\n在逃跑的過程中落到了地上。",
+        "外殼非常堅固，\n但墜落到地上時的衝擊\n會讓牠碎成細屑。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "name": "小隕星",
+    "types": [
+        "岩石",
+        "飛行"
+    ],
+    "weight": 40.0
+}

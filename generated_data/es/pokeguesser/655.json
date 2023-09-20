@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Fija la mirada en la llama que arde en la punta de su\nbastón para concentrarse y prever sucesos que\ntienen lugar en el futuro.",
+        "Sus poderes psíquicos le permiten controlar vórtices\nde fuego a 3000 °C que envuelven y calcinan a sus\nenemigos.",
+        "Fija la mirada en la llama que arde en la punta de su bastón\npara concentrarse y prever sucesos que tienen lugar en el\nfuturo.",
+        "Sus poderes psíquicos le permiten controlar vórtices de fuego\na 3000 °C que envuelven y calcinan a sus enemigos."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+    "name": "Delphox",
+    "types": [
+        "Fuego",
+        "Psíquico"
+    ],
+    "weight": 39.0
+}

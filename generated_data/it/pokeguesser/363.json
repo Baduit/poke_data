@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Non sa ancora nuotare molto bene e si muove più\nvelocemente rotolando. Quando è felice batte le\npinne.",
+        "Ha il corpo ricoperto di una morbida pelliccia, che\ngli permette di rotolare sul ghiaccio senza avvertire\nil freddo.",
+        "Spheal si muove molto più velocemente rotolando che non\ncamminando. Quando si raggruppano per mangiare, questi\nPokémon sbattono le zampette per dimostrare la loro gioia.\nI loro pasti sono molto rumorosi.",
+        "Spheal si muove sempre rotolando sul corpo a pallone.\nNella stagione del disgelo lo si vede rotolare da una lastra\ndi ghiaccio all’altra per attraversare il mare.",
+        "Il suo corpo, avvolto in uno spesso strato\nlipidico, è perfettamente rotondo. Si sposta\npiù velocemente rotolando che camminando.",
+        "Fluttua tra le onde ispezionando il mare.\nQuando individua una preda, avverte i Walrein\ndel suo gruppo."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "name": "Spheal",
+    "types": [
+        "Ghiaccio",
+        "Acqua"
+    ],
+    "weight": 39.5
+}

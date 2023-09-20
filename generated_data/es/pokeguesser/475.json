@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Puede presentir los movimientos de sus rivales y por\neso ataca siempre antes que ellos.",
+        "Lucha con las espadas que salen de sus codos.\nEs un maestro de la cortesía y la esgrima.",
+        "Puede presentir los movimientos de sus rivales y por eso\nataca siempre antes que ellos.",
+        "Lucha con las espadas que salen de sus codos. Es un\nmaestro de la cortesía y la esgrima.",
+        "Este Pokémon es considerado todo un justiciero.\nSolo utiliza las espadas que le salen de los codos\nsi tiene una causa que defender.",
+        "Es capaz de percibir al instante cuando alguien\nestá en un aprieto y corre raudo a su lado para\nprestarle ayuda."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "name": "Gallade",
+    "types": [
+        "Psíquico",
+        "Lucha"
+    ],
+    "weight": 52.0
+}

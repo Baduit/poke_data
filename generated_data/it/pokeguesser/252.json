@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Riesce a scalare rapidamente anche pareti verticali.\nRileva l’umidità attraverso la coda per prevedere il\ntempo dell’indomani.",
+        "Le piante dei suoi piedi sono piene di uncini che gli\npermettono di camminare su muri e soffitti.",
+        "Treecko è dotato di piccoli uncini sulla pianta delle zampe,\nche gli consentono di camminare su pareti verticali. Attacca\nfrustando i suoi nemici con la coda grossa e forte.",
+        "Treecko ha classe, è calmo e posato: non si lascia mai\nprendere dal panico. Quando affronta un nemico più grande\ndi lui, lo fissa dritto negli occhi senza la minima esitazione."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "name": "Treecko",
+    "types": [
+        "Erba"
+    ],
+    "weight": 5.0
+}

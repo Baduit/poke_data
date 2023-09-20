@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es fesselt die Gegner mit seinen großen,\nrunden Augen und versetzt sie in Schlaf,\nindem es eine beruhigende Melodie singt.",
+        "Wenn es Gesang einsetzt, steigt seine Ausdauer\nund seine Zuhörer werden in Tiefschlaf versetzt.",
+        "Pummeluffs Stimmbänder können die Tonlage seiner Stimme\nbeliebig variieren. Dieses Pokémon benutzt diese Fähigkeit,\num seine Gegner mit monotonem Gesang in Tiefschlaf zu\nversetzen.",
+        "Während dieses Pokémon singt, holt es niemals Luft.\nIm Kampf gegen einen Gegner, der nicht so leicht in Schlaf\nzu versetzen ist, kann Pummeluff nicht atmen. Leider gefährdet\nes sich dadurch selbst.",
+        "Es kann tief einatmen und seinen Bauch mit Luft\nfüllen, um ein sonderbares Lied anzustimmen.\nWer dieses hört, schläft auf der Stelle ein.",
+        "Sein Stimmumfang übersteigt zwölf Oktaven.\nWie gut ein Pummeluff singen kann, hängt\njedoch davon ab, wie fleißig es übt.",
+        "In der Bettenabteilung von Kaufhäusern erhält\nman auch CDs mit Pummeluffs wundersam\neinlullendem Gesang.",
+        "Sein Gesang unterscheidet sich je nach der\nRegion, in der es lebt. Mancherorts erinnert er\nmehr an Geschrei.",
+        "Es betört Gegner mit seinen Kulleraugen und\nsingt ihnen dann ein mysteriöses, wohlklingendes\nLied vor, das sie in den Schlaf lullt.",
+        "Es betört Gegner mit seinen Kulleraugen und\nsingt ihnen dann ein mysteriöses, wohlklingendes\nLied vor, das sie in den Schlaf lullt.",
+        "Sein Lungenvolumen übersteigt das der meisten\nanderen Pokémon. Es singt so lange Schlaflieder,\nbis seine Gegner eingenickt sind.",
+        "Es kann die Tonlage seiner Stimme beliebig\nvariieren, um eine mysteriöse Melodie zu singen,\ndie jeden in Schlaf versetzt, der sie hört."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "name": "Pummeluff",
+    "types": [
+        "Normal",
+        "Fee"
+    ],
+    "weight": 5.5
+}

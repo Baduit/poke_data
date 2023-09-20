@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Percepisce i disastri naturali imminenti e si mostra\nsolo per avvertire la gente del pericolo.",
+        "Appare quando avverte un imminente disastro\nnaturale. Ciò ha fatto credere che portasse sfortuna.",
+        "Ogni volta che compare Absol, segue un disastro come\nun terremoto o un maremoto. Per questo motivo è noto\ncome il Pokémon dei disastri.",
+        "Absol ha l’abilità di predire le catastrofi naturali. Vive negli\nambienti montani più aspri e inospitali. Soltanto raramente\nsi allontana dalle montagne per avventurarsi a valle.",
+        "In un antico passato dominato dalle superstizioni\nera odiato perché ritenuto latore di disastri.\nQuesto l’ha costretto a rifugiarsi sulle montagne.",
+        "Si dice che sia latore di disgrazie. In realtà\nha un carattere molto gentile e avvisa gli esseri\numani di disastri naturali imminenti.",
+        "Nonostante l’aspetto inquietante, è un Pokémon\nbenevolo che protegge i campi e avvisa gli\nesseri umani di calamità naturali imminenti.",
+        "Gli anziani lo detestano chiamandolo “il Pokémon\ndei disastri”, ma la sua capacità di predire i\ncataclismi desta sempre più interesse.",
+        "Corre veloce come il vento attraverso colline\ne campi. Il suo corno ricurvo è in grado di\nprevedere con precisione le calamità naturali.",
+        "A causa della sua capacità di percepire i disastri\nè stato considerato erroneamente un Pokémon\nportatore di disgrazie."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "name": "Absol",
+    "types": [
+        "Buio"
+    ],
+    "weight": 47.0
+}

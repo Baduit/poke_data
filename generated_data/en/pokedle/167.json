@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 2,
+    "height": 0.5,
+    "name": "Spinarak",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 8.5
+}

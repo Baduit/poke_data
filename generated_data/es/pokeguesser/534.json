@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Se cree que Conkeldurr enseñó a los humanos\nla técnica para elaborar cemento hace más de\n2000 años.",
+        "En vez de hacer uso de la fuerza bruta, blande\ncolumnas de hormigón con la energía centrífuga\nde sus movimientos.",
+        "Se cree que Conkeldurr enseñó a los humanos la técnica para\nelaborar cemento hace más de 2000 años.",
+        "En vez de hacer uso de la fuerza bruta, blande columnas de\nhormigón con la energía centrífuga de sus movimientos.",
+        "El hormigón que preparan los Conkeldurr es\nmucho más duro y resistente que el ordinario,\naunque la composición sea la misma.",
+        "Cuando decide ponerse en serio, suelta sus\npilares de hormigón y se abalanza sobre el rival\ncon solo un puño como arma."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "name": "Conkeldurr",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 87.0
+}

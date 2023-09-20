@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "When it flies to this land from across the sea, the bitter winter\ncomes to an end. According to legend, this Pokémon's love\ngives rise to the budding of fresh life across Hisui."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+    "name": "Enamorus",
+    "types": [
+        "Fairy",
+        "Flying"
+    ],
+    "weight": 48.0
+}

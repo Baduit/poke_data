@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Schmerbe",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 1.9
+}

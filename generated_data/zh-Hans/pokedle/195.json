@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 2,
+    "height": 1.4,
+    "name": "沼王",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 75.0
+}

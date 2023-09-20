@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "They form groups of roughly 20 individuals.\nTheir mutual bond is remarkable—they will never\nlet down a comrade.",
+        "They battle with hard berries for weapons.\nTheir techniques are passed from the boss to\nthe group, generation upon generation.",
+        "They use their saliva to stick leaves to their\nshoulders. You can tell what troop they belong\nto from the position of the leaves.",
+        "Berries are its weapons as well as the staple of\nits diet. The one that can throw a berry the\nfarthest is the boss of the troop.",
+        "Displaying amazing teamwork, they follow the\norders of their boss as they all help out in the\nsearch for their favorite berries.",
+        "Passimian live in groups of about 20, with\neach member performing an assigned role.\nThrough cooperation, the group survives."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
+    "name": "Passimian",
+    "types": [
+        "Fighting"
+    ],
+    "weight": 82.8
+}

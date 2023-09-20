@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il confectionne de petites boules de pollen\nde diverses natures, certaines lui servant de\nrepas, d’autres à attaquer l’ennemi.",
+        "Certaines boules de pollen de Rubombelle sont\ntrès utiles d’un point de vue nutritif. Vendues\nen complément alimentaire, elles font un carton.",
+        "Il déteste la pluie car elle mouille le pollen.\nQuand la météo se dégrade, il se cache alors\ndans le creux d’un arbre et attend sans bouger.",
+        "Il peut prévoir le temps qu’il va faire grâce\nà l’humidité et à la direction du vent. Il ne pointe\nle bout de ses ailes que par beau temps.",
+        "Il mélange du nectar et du pollen pour créer\ndes boules qui ont divers effets, selon\nles quantités et les ingrédients utilisés.",
+        "Il a horreur d’être trempé par la pluie.\nOn ne le voit que très rarement à Galar,\nrégion connue pour son temps couvert."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+    "name": "Rubombelle",
+    "types": [
+        "Insecte",
+        "Fée"
+    ],
+    "weight": 0.5
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+        "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "name": "Varoom",
+    "types": [
+        "Steel",
+        "Poison"
+    ],
+    "weight": 35.0
+}

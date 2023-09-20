@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Obalie",
+    "types": [
+        "Glace",
+        "Eau"
+    ],
+    "weight": 39.5
+}

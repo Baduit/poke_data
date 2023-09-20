@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 7,
+    "height": 1.3,
+    "name": "Palossand",
+    "types": [
+        "Spettro",
+        "Terra"
+    ],
+    "weight": 250.0
+}

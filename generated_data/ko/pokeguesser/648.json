@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "메로엣타가 연주하는 선율에는\n주위 포켓몬을 기쁘게 하거나\n슬프게 할 정도의 힘이 있다.",
+        "특수한 발성법으로 노래하는\n멜로디는 노래를 들은 자의\n감정을 자유자재로 조종한다.",
+        "메로엣타가 연주하는 선율에는\n주위 포켓몬을 기쁘게 하거나\n슬프게 할 정도의 힘이 있다.",
+        "특수한 발성법으로 노래하는\n멜로디는 노래를 들은 자의\n감정을 자유자재로 조종한다."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "name": "메로엣타",
+    "types": [
+        "노말",
+        "에스퍼"
+    ],
+    "weight": 6.5
+}

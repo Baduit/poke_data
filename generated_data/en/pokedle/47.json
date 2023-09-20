@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Parasect",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "weight": 29.5
+}

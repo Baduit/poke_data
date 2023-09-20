@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 0.4,
+    "name": "Venipede",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 5.3
+}

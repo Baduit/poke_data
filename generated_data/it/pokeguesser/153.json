@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Dal suo collo si propaga un profumo vivace. Esso\nstimola il recupero della salute.",
+        "Le foglie attorno al suo collo emanano un aroma\nspeziato dall’effetto energizzante.",
+        "Il collo di Bayleef è agghindato da foglie, dentro cui\nè presente il piccolo germoglio di un albero. L’aroma emanato\nda questo germoglio ha un effetto energizzante sull’uomo.",
+        "Il collo di Bayleef è agghindato da foglie, dentro cui\nè presente il piccolo germoglio di un albero. L’aroma emanato\nda questo germoglio ha un effetto energizzante sull’uomo."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+    "name": "Bayleef",
+    "types": [
+        "Erba"
+    ],
+    "weight": 15.8
+}

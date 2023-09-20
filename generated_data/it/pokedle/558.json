@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Crustle",
+    "types": [
+        "Coleottero",
+        "Roccia"
+    ],
+    "weight": 200.0
+}

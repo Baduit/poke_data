@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "La morsure de Kokiyas a fait de lui\nun génie dont l’intelligence rivalise\navec celle d’un prix Nobel.",
+        "La morsure de Kokiyas a fait de lui\nun génie dont l’intelligence rivalise\navec celle d’un prix Nobel.",
+        "D’une grande intelligence, il sait rester calme, même\nen situation stressante.",
+        "Une fois sa tête mordue, des toxines ont envahi\nRamoloss et lui ont conféré des pouvoirs immenses.",
+        "Tous les jours, Roigada entreprend des recherches pour\nrésoudre les mystères du monde. Cependant, ce Pokémon\noublie tout ce qu’il a appris si le Kokiyas qui se trouve\nsur sa tête s’en va.",
+        "Tous les jours, Roigada entreprend des recherches pour\nrésoudre les mystères du monde. Cependant, ce Pokémon\noublie tout ce qu’il a appris si le Kokiyas qui se trouve\nsur sa tête s’en va.",
+        "Les toxines injectées dans son corps quand\nil s’est fait mordre ont fait de lui un génie.\nSes pouvoirs psy ont été grandement amplifiés.",
+        "Il est tellement intelligent qu’il existe un\nproverbe dans certaines régions qui dit :\n« Si tu ne sais pas, demande au Roigada. »",
+        "Il trouve tout le temps des idées formidables\nqui pourraient changer le monde, mais il les\noublie dans la foulée.",
+        "On l’appelle « le Grand Sage des mers ».\nSes fréquents concours d’intelligence avec\nGouroutan se terminent souvent par une égalité.",
+        "Les toxines du Kokiyas ont imprégné le cerveau\ndu Ramoloss, réveillant en lui une intelligence\ninsoupçonnée, comme par miracle.",
+        "Il est capable de résoudre tous les problèmes\nqu’on lui présente, mais personne ne parvient\nà comprendre ce qu’il dit."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "name": "Roigada",
+    "types": [
+        "Eau",
+        "Psy"
+    ],
+    "weight": 79.5
+}

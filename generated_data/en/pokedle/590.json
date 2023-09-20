@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 5,
+    "height": 0.2,
+    "name": "Foongus",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 1.0
+}

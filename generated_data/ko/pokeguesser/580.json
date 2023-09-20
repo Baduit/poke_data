@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "상대에게 공격당하면 전신의\n깃털에서 물보라를 내뿜는다.\n물안개에 숨어들어 도망친다.",
+        "나는 것보다 헤엄치는 것이 특기로\n수중에 잠수해서는 제일 좋아하는\n물이끼를 기쁘게 먹는다.",
+        "상대에게 공격당하면 전신의\n깃털에서 물보라를 내뿜는다.\n물안개에 숨어들어 도망친다.",
+        "나는 것보다 헤엄치는 것이 특기로\n수중에 잠수해서는 제일 좋아하는\n물이끼를 기쁘게 먹는다."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+    "name": "꼬지보리",
+    "types": [
+        "물",
+        "비행"
+    ],
+    "weight": 5.5
+}

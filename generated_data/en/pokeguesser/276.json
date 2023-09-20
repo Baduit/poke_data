@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "TAILLOW courageously stands its\nground against foes, however strong\nthey may be.\fThis gutsy POKéMON will remain defiant\neven after a loss. On the other hand,\nit cries loudly if it becomes hungry.",
+        "TAILLOW is young - it has only just\nleft its nest. As a result, it sometimes\nbecomes lonesome and cries at night.\fThis POKéMON feeds on WURMPLE that\nlive in forests.",
+        "Although it is small, it is very courageous.\nIt will take on a larger SKARMORY on an\nequal footing. However, its will weakens if\nit becomes hungry.",
+        "It dislikes cold seasons. They migrate to\nother lands in search of warmth, flying\nover 180 miles a day.",
+        "It dislikes cold seasons. They migrate to\nother lands in search of warmth, flying\nover 180 miles a day.",
+        "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates.",
+        "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates.",
+        "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates.",
+        "When it gets cold, they migrate,\nflying over 180 miles a day.\nIt hunts for tasty prey.",
+        "When it gets cold, they migrate,\nflying over 180 miles a day.\nIt hunts for tasty prey.",
+        "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates.",
+        "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates.",
+        "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates.",
+        "It has a gutsy spirit that makes\nit bravely take on tough foes. It\nflies in search of warm climates.",
+        "It has a gutsy spirit that makes it bravely take on\ntough foes. It flies in search of warm climates.",
+        "It dislikes cold seasons. They migrate to other\nlands in search of warmth, flying over 180 miles\na day.",
+        "Taillow courageously stands its ground against foes, however\nstrong they may be. This gutsy Pokémon will remain defiant\neven after a loss. On the other hand, it cries loudly if it\nbecomes hungry.",
+        "Taillow is young—it has only just left its nest. As a result,\nit sometimes becomes lonesome and cries at night.\nThis Pokémon feeds on Wurmple that live in forests."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+    "name": "Taillow",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 2.3
+}

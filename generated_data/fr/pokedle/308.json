@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 3,
+    "height": 1.3,
+    "name": "Charmina",
+    "types": [
+        "Combat",
+        "Psy"
+    ],
+    "weight": 31.5
+}

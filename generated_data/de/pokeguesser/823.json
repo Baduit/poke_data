@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Niemand wagt es, ihm den Himmel über Galar\nstreitig zu machen. Sein schwarz glänzendes,\nstählernes Äußeres schüchtert jeden Gegner ein.",
+        "Aufgrund seiner unübertroffenen Flugfertigkeiten\nund seiner hohen Intelligenz ist es in der\nGalar-Region als Flugtaxi im Einsatz."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "name": "Krarmor",
+    "types": [
+        "Flug",
+        "Stahl"
+    ],
+    "weight": 75.0
+}

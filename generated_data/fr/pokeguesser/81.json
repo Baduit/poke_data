@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Plus la rotation de ses extrémités\nest rapide, plus la force du champ\nmagnétique qu’il génère est grande.",
+        "Plus la rotation de ses extrémités\nest rapide, plus la force du champ\nmagnétique qu’il génère est grande.",
+        "Les parties sur les côtés de son corps génèrent\nune énergie lui permettant de léviter.",
+        "Il reste constamment en sustentation pour se\ndéplacer. Ce Pokémon peut envoyer de l’électricité\npar les aimants situés sur ses côtés.",
+        "Magnéti s’attache aux lignes à haute tension pour se charger\nen électricité. Si une maison a une panne de courant, il est\nconseillé de vérifier les fusibles car on trouve parfois ces\nPokémon amassés sur la boîte à fusibles.",
+        "Magnéti flotte dans les airs en émettant des ondes\nélectromagnétiques par les aimants sur ses côtés.\nCes ondes annulent les effets de la gravité. Ce Pokémon\nne peut plus voler si son stock d’électricité est épuisé.",
+        "Les Magnéti se rassemblent aux endroits où\nil y a beaucoup d’électricité, et s’agglutinent\npar exemple autour des pylônes électriques.",
+        "Il lévite en émettant des ondes électro-\nmagnétiques. Si on le touche quand il s’alimente\nen énergie, on risque un choc électrique.",
+        "Ce Pokémon causant des coupures de courant,\ncertaines centrales l’éloignent en diffusant\ndes ondes qu’il déteste.",
+        "De nos jours, les câbles électriques sont\nenterrés, aussi les Magnéti attaquent-ils\nde plus en plus les centrales électriques.",
+        "Sa nature défie les lois de la gravité.\nIl flotte grâce à un champ électromagnétique.",
+        "Sa nature défie les lois de la gravité.\nIl flotte grâce à un champ électromagnétique.",
+        "Il lui arrive d’être à court d’électricité\net de tomber au sol, mais il suffit de\nlui donner une batterie pour le ranimer.",
+        "Il se nourrit d’électricité et flotte dans les airs\nen libérant des ondes électromagnétiques avec\nles aimants situés de part et d’autre de son corps."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "name": "Magnéti",
+    "types": [
+        "Électrik",
+        "Acier"
+    ],
+    "weight": 6.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Espera a sus presas colgado de una rama bocabajo.\nCuando llega su oportunidad, se lanza en picado.",
+        "Vuela sin hacer nada de ruido. Con su larga cola\ncaptura a sus presas y las muerde con sus colmillos.",
+        "Espera a sus presas colgado de una rama bocabajo. Cuando\nllega su oportunidad, se lanza en picado.",
+        "Vuela sin hacer nada de ruido. Con su larga cola captura a\nsus presas y las muerde con sus colmillos."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "name": "Gliscor",
+    "types": [
+        "Tierra",
+        "Volador"
+    ],
+    "weight": 42.5
+}

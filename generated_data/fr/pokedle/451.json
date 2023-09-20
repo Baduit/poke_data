@@ -1,0 +1,11 @@
+{
+    "color": "Violet",
+    "generation": 4,
+    "height": 0.8,
+    "name": "Rapion",
+    "types": [
+        "Poison",
+        "Insecte"
+    ],
+    "weight": 12.0
+}

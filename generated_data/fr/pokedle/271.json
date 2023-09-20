@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Lombre",
+    "types": [
+        "Eau",
+        "Plante"
+    ],
+    "weight": 32.5
+}

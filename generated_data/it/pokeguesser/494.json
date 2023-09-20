@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Pokémon che porta la vittoria. Si dice che l’Allenatore\nche ha con sé Victini possa vincere qualsiasi lotta.",
+        "Può condividere l’energia infinita che emana,\ndonando un potere immenso a chi la riceve.",
+        "Pokémon che porta la vittoria. Si dice che l’Allenatore che\nha con sé Victini possa vincere qualsiasi lotta.",
+        "Può condividere l’energia infinita che emana, donando un\npotere immenso a chi la riceve."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "name": "Victini",
+    "types": [
+        "Psico",
+        "Fuoco"
+    ],
+    "weight": 4.0
+}

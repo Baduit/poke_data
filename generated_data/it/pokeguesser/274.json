@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il fischio del suo flauto di foglia mette a disagio chi\nlo sente. Vive nelle foreste più fitte.",
+        "Vive nelle foreste più fitte. Con la foglia che ha in\ntesta, crea un flauto dal suono inquietante.",
+        "Nuzleaf vive in foreste molto fitte. A volte si avventura fuori\ndalla foresta per spaventare le persone. Questo Pokémon\nsi irrita molto se qualcuno tenta di pizzicargli il lungo naso.",
+        "Nuzleaf crea una sorta di flauto con la foglia che ha sul capo.\nIl suono di questo flauto fa crescere la paura e l’incertezza\nnel cuore di coloro che si sono persi nella foresta.",
+        "Vive nelle foreste più fitte. Con la foglia che ha\nin testa, crea un flauto dal suono inquietante.",
+        "Vive in buchi scavati in grandi alberi. Il suono\ndel suo flauto di foglia inquieta chi lo ascolta."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "name": "Nuzleaf",
+    "types": [
+        "Erba",
+        "Buio"
+    ],
+    "weight": 28.0
+}

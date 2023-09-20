@@ -1,0 +1,11 @@
+{
+    "color": "黃色",
+    "generation": 4,
+    "height": 1.2,
+    "name": "蜂女王",
+    "types": [
+        "蟲",
+        "飛行"
+    ],
+    "weight": 38.5
+}

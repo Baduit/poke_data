@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "被稱為傳說中的英雄。\n能夠吸收金屬，將之\n轉化為武器來戰鬥。",
+        "這隻寶可夢被認為是沉睡已久的\n藏瑪然特的姐姐，也有人\n認為牠們之間是勁敵關係。"
+    ],
+    "height": 2.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "name": "蒼響",
+    "types": [
+        "妖精"
+    ],
+    "weight": 110.0
+}

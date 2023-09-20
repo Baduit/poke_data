@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 6,
+    "height": 1.0,
+    "name": "Heliolisk",
+    "types": [
+        "Electric",
+        "Normal"
+    ],
+    "weight": 21.0
+}

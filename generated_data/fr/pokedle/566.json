@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Arkéapti",
+    "types": [
+        "Roche",
+        "Vol"
+    ],
+    "weight": 9.5
+}

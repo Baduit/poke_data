@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Nuota alla velocità di 5 nodi. Se avverte il pericolo,\ncontrattacca con il suo corno aguzzo.",
+        "Le pinne su dorso, petto e coda ondulano con grazia\nin acqua. Per questo lo chiamano “danzatore d’acqua”.",
+        "Goldeen è un Pokémon molto elegante dai movimenti\naggraziati. Tuttavia, è necessario stare attenti poiché\npotrebbe attaccare violentemente con il suo corno.",
+        "Goldeen ama nuotare libero in fiumi e laghetti. Se messo\nin acquario, questo Pokémon riesce a fuggire spaccando\nanche il vetro più spesso con un colpo secco del suo corno.",
+        "Quando la temperatura comincia ad alzarsi,\nforma un banco con i suoi simili e inizia a risalire\ni fiumi, annunciando così l’inizio della primavera.",
+        "Molti Allenatori dai gusti raffinati allenano solo\ni Goldeen, affascinati dal loro lungo corno\ne dalle bellissime pinne.",
+        "È famoso per le sue splendide pinne caudali.\nSembra che competa con i suoi simili per\nstabilire chi ha il corno più spesso e affilato.",
+        "Quando nuota, le sue pinne fluttuano dolcemente\ncome un vestito da ballo. Da questo deriva il suo\nsoprannome “principessa delle acque”.",
+        "Nel periodo in cui i Goldeen depongono\nle Uova, se ne possono vedere a banchi\nmentre risalgono fiumi e cascate.",
+        "Nel periodo in cui i Goldeen depongono\nle Uova, se ne possono vedere a banchi\nmentre risalgono fiumi e cascate.",
+        "Le pinne su dorso, petto e coda ondeggiano\ncon grazia. Perciò viene chiamato “danzatore\nd’acqua”.",
+        "Le pinne dorsali e pettorali sono sviluppate\ncome potenti muscoli. Può raggiungere\nla velocità di 5 nodi."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "name": "Goldeen",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 15.0
+}

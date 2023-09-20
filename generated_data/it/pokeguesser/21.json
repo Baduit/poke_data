@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Molto geloso del suo territorio, svolazza in giro\na gran velocità battendo le ali continuamente.",
+        "Mangia insetti nell’erba alta. Per restare in aria deve\nsbattere le corte ali molto velocemente.",
+        "Spearow emette un grido molto acuto, percepibile anche\na 1 km di distanza. Quando questo grido riecheggia\nnei dintorni, questo Pokémon intende avvertire i suoi simili\ndi un pericolo imminente.",
+        "Spearow emette un grido molto acuto, percepibile anche\na 1 km di distanza. Quando questo grido riecheggia\nnei dintorni, questo Pokémon intende avvertire i suoi simili\ndi un pericolo imminente.",
+        "A causa delle ali troppo corte, non riesce a\nvolare bene. Scorrazza tra l’erba alta alla ricerca\ndi Pokémon Coleottero da beccare.",
+        "Ha sempre un grande appetito.\nÈ molto amato dagli agricoltori perché tiene\na bada i Pokémon di tipo Coleottero.",
+        "Temerario di natura, per difendere il proprio\nterritorio non esita a lanciarsi anche contro\navversari più grandi di lui.",
+        "A causa delle ali troppo corte, non riesce a\nvolare per lunghe distanze. Scorrazza qua e là\nalla ricerca di Pokémon Coleottero da beccare.",
+        "Incapace di raggiungere alte quote, sorvola\nil suo territorio a gran velocità per proteggerlo.",
+        "Incapace di raggiungere alte quote, sorvola\nil suo territorio a gran velocità per proteggerlo."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "name": "Spearow",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 2.0
+}

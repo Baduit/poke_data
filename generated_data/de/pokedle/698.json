@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 6,
+    "height": 1.3,
+    "name": "Amarino",
+    "types": [
+        "Gestein",
+        "Eis"
+    ],
+    "weight": 25.2
+}

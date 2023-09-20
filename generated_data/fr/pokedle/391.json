@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Chimpenfeu",
+    "types": [
+        "Feu",
+        "Combat"
+    ],
+    "weight": 22.0
+}

@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "À force de trancher des objets\nsolides, les faux de ses bras\nsont très aiguisées.",
+        "À force de trancher des objets\nsolides, les faux de ses bras\nsont très aiguisées.",
+        "Il déchiquette ses proies à l’aide de ses bras\ntranchants comme des faux. Il n’utilise ses ailes pour\nvoler que très rarement.",
+        "Il fauche les herbes avec ses lames acérées.\nIl bouge si vite qu’on ne peut le voir à l’œil nu.",
+        "Insécateur est incroyablement rapide. Sa vitesse fulgurante\naméliore l’efficacité des deux lames situées sur ses avant-bras.\nElles sont si coupantes qu’elles peuvent trancher un énorme\ntronc d’arbre en un coup.",
+        "Insécateur est incroyablement rapide. Sa vitesse fulgurante\naméliore l’efficacité des deux lames situées sur ses avant-bras.\nElles sont si coupantes qu’elles peuvent trancher un énorme\ntronc d’arbre en un coup.",
+        "Sa rapidité de ninja embrouille sa proie.\nAu moindre moment d’hésitation, il la coupe\nen deux d’un coup de tranchant.",
+        "Les jeunes Insécateur se rassemblent au fond\ndes montagnes pour s’entraîner à se battre\navec leurs lames et à se déplacer à toute allure.",
+        "Ses avant-bras en forme de faux ne lui servent\npas uniquement à se battre : il les utilise aussi\npour dépecer ses proies avant de les dévorer.",
+        "Sa vitesse incroyable lui permet de trancher\nl’air. Il jouit d’une grande popularité à Alola,\noù il est surnommé « le ninja ».",
+        "Bondissant hors de l’herbe comme un ninja,\nil lacère sa proie de ses griffes acérées.",
+        "Bondissant hors de l’herbe comme un ninja,\nil lacère sa proie de ses griffes acérées.",
+        "Ses faux deviennent plus aiguisées à mesure\nqu’il se bat. Il peut trancher un grand arbre\nd’un seul coup.",
+        "Si l’on voit un grand nombre d’arbres abattus au\nmême endroit dans une forêt, cela signifie que\nl’on se trouve sur le territoire d’un Insécateur."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "name": "Insécateur",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 56.0
+}

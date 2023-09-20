@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Crabaraque",
+    "types": [
+        "Insecte",
+        "Roche"
+    ],
+    "weight": 200.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 1,
+    "height": 1.0,
+    "name": "파라섹트",
+    "types": [
+        "벌레",
+        "풀"
+    ],
+    "weight": 29.5
+}

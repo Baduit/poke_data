@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Este Ultraente surgió de un Ultraumbral. Parece\nhaber sido avistado surcando los cielos a\nvelocidades vertiginosas.",
+        "Varios testigos afirman haber visto como este\nUltraente carbonizaba un bosque entero con el\ngas expelido por sus extremidades.",
+        "Uno de los temibles Ultraentes. Las lecturas de\nlas reacciones energéticas procedentes de sus\nenormes brazos alcanzan picos desorbitados.",
+        "Para los seres de este mundo resulta extraño\ny peligroso, pero en el mundo del que procede\nes una criatura muy común."
+    ],
+    "height": 9.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+    "name": "Celesteela",
+    "types": [
+        "Acero",
+        "Volador"
+    ],
+    "weight": 999.9
+}

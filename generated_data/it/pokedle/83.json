@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 1,
+    "height": 0.8,
+    "name": "Farfetch’d",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 15.0
+}

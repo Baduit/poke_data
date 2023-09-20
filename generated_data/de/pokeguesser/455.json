@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Sein süßlich riechender Speichel zieht Beute an,\ndie es frisst. Es braucht einen Tag, sie zu fressen.",
+        "Klammert sich an Bäume in Sümpfen. Lockt Beute mit\nseinem süßlichen Speichel an und schluckt sie dann.",
+        "Sein süßlich riechender Speichel zieht Beute an, die es frisst.\nEs braucht einen Tag, sie zu fressen.",
+        "Klammert sich an Bäume in Sümpfen. Lockt Beute mit seinem\nsüßlichen Speichel an und schluckt sie dann."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+    "name": "Venuflibis",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 27.0
+}

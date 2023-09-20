@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Seine Flügel sind noch zu klein zum Fliegen.\nKurz bevor es sich entwickelt, wirft es seine\nSchädelwindel ab.",
+        "Seine Flügel sind noch zu klein zum Fliegen. Ein von\nGrypheldis beschaffter Schädel schützt seinen Bürzel.",
+        "Seine Flügel sind noch zu klein zum Fliegen. Kurz bevor es\nsich entwickelt, wirft es seine Schädelwindel ab.",
+        "Seine Flügel sind noch zu klein zum Fliegen. Ein von\nGrypheldis beschaffter Schädel schützt seinen Bürzel.",
+        "Seinen weichen Bürzel schützt es mithilfe von\nSchädeln gefressener Beute. Ist es ein Stück\ngewachsen, muss ein größerer Schädel her.",
+        "Dieses Pokémon ist noch sehr verspielt. Seine\nFlügel sind noch zu klein zum Fliegen, es kann\nsich also nur hüpfend fortbewegen.",
+        "Seine Schädelwindel erhält es von Grypheldis.\nAuch wenn seine Flügel noch zu klein dafür sind,\nträumt es vom Fliegen und hüpft wild herum.",
+        "Durch seinen ständigen Appetit hat Skallyk\nfortlaufend Wachstumsschübe. Deshalb muss\nes seine Schädelwindel immerzu auswechseln.",
+        "Sie schützen ihren Bürzel mit einer Schädelwindel.\nUntereinander streiten sie sich um den Schädel\nmit dem höchsten Tragekomfort.",
+        "Sie werden rasend schnell größer. Wenn sie aus\nSchädelwindeln herauswachsen, werden diese\nvon jüngeren Nestgefährten getragen."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+    "name": "Skallyk",
+    "types": [
+        "Unlicht",
+        "Flug"
+    ],
+    "weight": 9.0
+}

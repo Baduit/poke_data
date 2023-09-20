@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Tras masticar e ingerir pequeñas ramas se siente\npletórico y expulsa aire caliente por sus grandes\norejas a temperaturas superiores a los 200 ºC.",
+        "Mordisquea una ramita mientras camina, como si de\nun aperitivo se tratase. Intimida a su enemigo\nexpulsando aire caliente por las orejas.",
+        "Tras masticar e ingerir pequeñas ramas se siente pletórico y\nexpulsa aire caliente por sus grandes orejas a temperaturas\nsuperiores a los 200 °C.",
+        "Mordisquea una ramita mientras camina, como si de un\naperitivo se tratase. Intimida a su enemigo expulsando aire\ncaliente por las orejas."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "name": "Fennekin",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 9.4
+}

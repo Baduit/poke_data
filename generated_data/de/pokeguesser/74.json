@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Wanderer stolpern in den Bergen häufig über dieses\nPokémon, da es wie ein Stein aussieht.",
+        "Man kann es nicht von Felsbrocken unterscheiden.\nEs rempelt andere an, um sich zu beweisen.",
+        "Je länger ein Kleinstein lebt, desto mehr wird seine raue\nOberfläche abgeschliffen, sodass es runder wird. Das Herz\ndieses Pokémon bleibt aber für immer versteinert, hart und rau.",
+        "Wenn Kleinstein tief und fest schläft, gräbt es sich selbst\nzur Hälfte im Boden ein. Selbst wenn Wanderer versehentlich\nauf Kleinstein treten, wacht es nicht auf. Am Morgen rollt es\nauf der Suche nach Nahrung den Berg herunter.",
+        "Trotz seiner griffigen, runden Form ist Kleinstein\nhart und schwer. Bewirft man sich damit wie\nmit Schneebällen, besteht Verletzungsgefahr!",
+        "Man findet sie in rauen Mengen am Straßenrand.\nEin Forscher hat in seiner Freizeit auf einer\nStraße einmal 100 Exemplare gezählt.",
+        "Mit dem Alter verliert es zunehmend seine\nKantigkeit, bis es vollkommen rund und auch\ncharakterlich immer ausgeglichener wird.",
+        "Mit den Armen erklimmt es selbst steile Hänge.\nUnter den Menschen soll diese Klettermethode\nVorbild für den Bouldersport gewesen sein.",
+        "Es hält sich gern in der Nähe von Gebirgspfaden\nauf. Tritt man versehentlich auf eins, wird es sehr\nwütend. Deshalb ist höchste Vorsicht geboten.",
+        "Es hält sich gern in der Nähe von Gebirgspfaden\nauf. Tritt man versehentlich auf eins, wird es sehr\nwütend. Deshalb ist höchste Vorsicht geboten."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "name": "Kleinstein",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 20.0
+}

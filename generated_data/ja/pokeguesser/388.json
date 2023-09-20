@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "森の　中の　水辺で　暮らす。\n昼間は　森の　外に　出て\n甲羅の　木に　光を　当てる。",
+        "きれいな　水が　わき出る　場所を\n知っていて　仲間の　ポケモンを\n背中に　乗せて　そこまで　運ぶ。",
+        "森の　中の　水辺で　暮らす。\n昼間は　森の　外に　出て\n甲羅の　木に　光を　当てる。",
+        "きれいな　水が　わき出る　場所を\n知っていて　仲間の　ポケモンを\n背中に　乗せて　そこまで　運ぶ。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+    "name": "ハヤシガメ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 97.0
+}

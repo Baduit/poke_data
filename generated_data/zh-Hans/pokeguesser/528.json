@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在发出极其强力的\n音波后会陷入疲劳，\n暂时无法飞行。",
+        "据说有些地区的人觉得\n它鼻子的形状很吉利，\n而把它当成幸福的象征来祭拜。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png",
+    "name": "心蝙蝠",
+    "types": [
+        "超能力",
+        "飞行"
+    ],
+    "weight": 10.5
+}

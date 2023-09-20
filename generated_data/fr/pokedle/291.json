@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Ninjask",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 12.0
+}

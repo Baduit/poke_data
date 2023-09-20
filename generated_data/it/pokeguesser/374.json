@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Riesce a fluttuare in aria grazie alla repulsione tra\nle proprie onde magnetiche e quelle della terra.",
+        "Comunica con i suoi simili mediante onde magnetiche.\nI gruppi di Beldum si muovono in perfetta sintonia.",
+        "Al posto del sangue, il corpo di Beldum è attraversato da\nuna potente forza magnetica. Il Pokémon comunica con\ngli altri inviando impulsi magnetici controllati.",
+        "Beldum fluttua nell’aria generando una forza magnetica\ncontraria alla naturale forza di gravità terrestre.\nQuando dorme, si ancora alle scogliere usando i suoi\nganci posteriori.",
+        "Tutte le sue cellule sono calamite.\nIl suo corpo emette onde magnetiche, tramite\nle quali comunica con i suoi simili.",
+        "Attira a sé i nemici grazie alla propria forza\nmagnetica per poi farli a pezzi con gli artigli\nposteriori.",
+        "Nel corpo di Beldum invece del sangue scorre\nuna forza magnetica. Quando non si sente bene,\nbasta dargli una calamita.",
+        "Quando si arrabbia diventa violento ed emette\nuna potente forza magnetica che danneggia\nle macchine.",
+        "Attira vigorosamente i nemici grazie alla potente\nforza magnetica generata dal didietro e li\ntrafigge con gli artigli affilati.",
+        "Nel suo corpo, le cui cellule sono composte\nda calamite, scorre forza magnetica al posto\ndel sangue."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "name": "Beldum",
+    "types": [
+        "Acciaio",
+        "Psico"
+    ],
+    "weight": 95.2
+}

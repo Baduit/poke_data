@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Aunque carezca de ojos, puede detectar obstáculos\ncon las ondas ultrasónicas que emite su boca.",
+        "No tiene ojos. Se guía por las ondas ultrasónicas que\nemite. El eco le indica por dónde tiene que ir en la\noscuridad.",
+        "Durante el día, Zubat permanece inmóvil y a oscuras. Si este\nPokémon pasara mucho tiempo expuesto al sol, correría el\npeligro de sufrir quemaduras.",
+        "Zubat evita la luz del día porque le resulta perjudicial para la\nsalud. Durante el día, permanece en cuevas o bajo los aleros\nde las casas viejas durmiendo colgado de las patas, cabeza\nabajo.",
+        "Duerme en cuevas durante el día. Como no tiene\nojos, se guía emitiendo ultrasonidos cuando\nvuela.",
+        "Si se expone al sol, puede sufrir quemaduras.\nLa vibración de las ondas ultrasónicas que emite\nvaría, curiosamente, de una colonia a otra.",
+        "Como carece de ojos y no puede ver, emite\nultrasonidos que le permiten escrutar el entorno\ny orientarse.",
+        "Su piel es tan fina que, si se expone al sol,\npuede sufrir quemaduras. Cuando hace frío,\nse junta con los suyos para entrar en calor.",
+        "Emite ultrasonidos que utiliza como sonar para\nevitar obstáculos cuando vuela.",
+        "Emite ultrasonidos que utiliza como sonar para\nevitar obstáculos cuando vuela.",
+        "Emite ondas ultrasónicas por la boca para\nescrutar el entorno, lo que le permite volar con\npericia por cuevas angostas.",
+        "Habitan en cuevas donde no llegan los rayos del\nsol. De día, se acurrucan unos junto a otros para\nentrar en calor mientras duermen."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "name": "Zubat",
+    "types": [
+        "Veneno",
+        "Volador"
+    ],
+    "weight": 7.5
+}

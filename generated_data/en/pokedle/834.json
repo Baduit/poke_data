@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 8,
+    "height": 1.0,
+    "name": "Drednaw",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "weight": 115.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "위험한 UB 중 1마리이다. 굉장한\n속도로 대지를 질주하는\n모습이 목격되었다.",
+        "UB의 일종. 이 세계의\n물건에 불결함을 느끼는 것인지\n전혀 손을 대려 하지 않는다.",
+        "다른 세계에 사는 생명체다.\n가늘고 부드러운 몸이지만,\n강한 파워를 간직하고 있는 듯하다.",
+        "이 세계와는 성질이 다르고\n위험하지만 원래 살던 세계에서는\n흔히 볼 수 있는 생물인 듯하다."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "name": "페로코체",
+    "types": [
+        "벌레",
+        "격투"
+    ],
+    "weight": 25.0
+}

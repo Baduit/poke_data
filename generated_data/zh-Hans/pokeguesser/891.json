@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "日积月累地进行艰苦锻炼，\n认真钻研招式。进化后的样子\n会根据所习得的招式不同而改变。",
+        "拉紧头上又白又长的体毛，\n就会变得斗气势高昂，\n并从丹田涌出力量。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
+    "name": "熊徒弟",
+    "types": [
+        "格斗"
+    ],
+    "weight": 12.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Con un dolce aroma dirige il volo dei Volbeat, che\ndisegnano più di 200 figure luminose nel cielo stellato.",
+        "Con il suo dolce aroma dirige il volo di Volbeat,\nche disegna figure luminose nel cielo stellato.",
+        "Illumise attrae uno sciame di Volbeat con la sua fragranza\ndolce. Una volta radunato un gruppo di Volbeat, Illumise\ndirige lo sciame luminoso, che disegna così figure\ngeometriche nel setoso cielo notturno.",
+        "Illumise dirige i voli dei Volbeat luminosi per disegnare figure\nnel cielo notturno. Pare che guadagni maggior rispetto dai\nsuoi simili componendo disegni sempre più complessi."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "name": "Illumise",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 17.7
+}

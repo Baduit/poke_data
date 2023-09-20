@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 2,
+    "height": 1.2,
+    "name": "Yanma",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 38.0
+}

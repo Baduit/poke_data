@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "It generates a powerful, freezing\nenergy inside itself, but its body became\nfrozen when the energy leaked out.",
+        "It can produce ultracold air.\nIts body is frozen.",
+        "This legendary ice Pokémon waits for\na hero to fill in the missing parts\nof its body with truth or ideals.",
+        "This legendary ice Pokémon waits for\na hero to fill in the missing parts\nof its body with truth or ideals.",
+        "This legendary ice Pokémon waits for a hero to fill\nin the missing parts of its body with truth or ideals.",
+        "It generates a powerful, freezing energy inside\nitself, but its body became frozen when the energy\nleaked out.",
+        "This legendary ice Pokémon waits for a hero to fill\nin the missing parts of its body with truth or ideals.",
+        "It generates a powerful, freezing energy inside\nitself, but its body became frozen when the energy\nleaked out.",
+        "Dwelling within it is a power even greater than\nthat of Reshiram or Zekrom, but the extreme\ncold keeps that power bound.",
+        "It appears that this Pokémon uses its powers over\nice to freeze its own body in order to stabilize its\ncellular structure."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+    "name": "Kyurem",
+    "types": [
+        "Dragon",
+        "Ice"
+    ],
+    "weight": 325.0
+}

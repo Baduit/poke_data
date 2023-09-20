@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 4,
+    "height": 1.3,
+    "name": "바리톱스",
+    "types": [
+        "바위",
+        "강철"
+    ],
+    "weight": 149.5
+}

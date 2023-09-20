@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "还不发达的翅膀，\n比起飞行，反而更多地用于\n通过摩擦产生超音波攻击敌人。",
+        "为了让翅膀成长，\n每天要吸食大量\n用消化液溶化的猎物。",
+        "振动翅膀，发出超音波。\n会把晕厥的猎物\n活埋在沙子里保存。",
+        "会振动翅膀，产生特殊的音波。\n呆在一起的训练家\n有必要准备好耳塞。",
+        "２根翅膀高速振动产生的\n超音波会引起剧烈的头痛。",
+        "为了让翅膀成长，\n每天要用消化液溶化\n并吸食大量的猎物。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "name": "超音波幼虫",
+    "types": [
+        "地面",
+        "龙"
+    ],
+    "weight": 15.3
+}

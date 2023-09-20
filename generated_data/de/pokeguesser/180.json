@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sein flauschiges Fell speichert Elektrizität.\nSeine Gummihaut schützt es vor Stromstößen.",
+        "Hat es sich mit Elektrizität aufgeladen, leuchtet sein\nSchweif und es feuert Haare ab, die sich entladen.",
+        "Die Qualität von Waatys Wolle verändert sich, sodass es mit\nnur wenig Wolle eine große statische Aufladung erzeugen\nkann. Die kahlen Stellen in seinem Fell sind gegen Elektrizität\nabgeschirmt.",
+        "Die Qualität von Waatys Wolle verändert sich, sodass es mit\nnur wenig Wolle eine große statische Aufladung erzeugen\nkann. Die kahlen Stellen in seinem Fell sind gegen Elektrizität\nabgeschirmt.",
+        "Die unbehaarten Stellen seiner gummiartigen\nHaut leiten keinen Strom weiter. Dort kann man\nes daher ohne Gefahr anfassen.",
+        "Sein flauschiges Fell speichert Elektrizität. Zu\ngroße Mengen bewirkten aber stellenweise einen\nHaarausfall, wo nun glatte Haut freiliegt."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "name": "Waaty",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 13.3
+}

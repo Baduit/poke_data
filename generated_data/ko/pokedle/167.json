@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 2,
+    "height": 0.5,
+    "name": "페이검",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 8.5
+}

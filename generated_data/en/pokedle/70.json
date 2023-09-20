@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Weepinbell",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 6.4
+}

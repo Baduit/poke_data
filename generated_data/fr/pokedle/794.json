@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 7,
+    "height": 2.4,
+    "name": "Mouscoto",
+    "types": [
+        "Insecte",
+        "Combat"
+    ],
+    "weight": 333.6
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Couverdure",
+    "types": [
+        "Insecte",
+        "Plante"
+    ],
+    "weight": 7.3
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sus garras emiten electricidad que puede debilitar a\nsus rivales. Viven en grupos pequeños.",
+        "Por las puntas de sus garras pasa una fuerte corriente\neléctrica. El mínimo roce debilita al enemigo.",
+        "Sus garras emiten electricidad que puede debilitar a sus\nrivales. Viven en grupos pequeños.",
+        "Por las puntas de sus garras pasa una fuerte corriente\neléctrica. El mínimo roce debilita al enemigo.",
+        "Al unir la cola con otro congénere, este le\ntransmite electricidad, lo que aumenta la\npotencia de sus descargas eléctricas.",
+        "Cuando encuentra a un adversario, se prepara\npara combatir sacando las garras, que emiten\nuna corriente eléctrica de un millón de voltios."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "name": "Luxio",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 30.5
+}

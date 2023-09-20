@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Pokémon violento che afferra il nemico con le chele\ne lo scaraventa fuori dal suo stagno.",
+        "È un Pokémon molto bellicoso che afferra con le\nchele chiunque osi entrare nel suo territorio per\nscaraventarlo fuori.",
+        "Crawdaunt, dalla natura estremamente violenta, sfida sempre\na una lotta gli altri esseri viventi, che per questo motivo\nabbandonano i laghi abitati da questo Pokémon, lasciandoli\ndeserti e desolati.",
+        "Crawdaunt muta regolarmente la corazza. Subito dopo la muta,\nla nuova corazza è tenera e delicata. Finché non si è indurita\ntotalmente, il Pokémon vive nascosto nella sua tana sott’acqua\nper evitare attacchi.",
+        "Ha una natura estremamente violenta e ama\nle lotte, ma quando gli cadono le chele perde\ntutto il suo coraggio finché non ricrescono.",
+        "Spesso perde le chele, ma la polpa all’interno,\na differenza delle chele dei Crabrawler e dei\nClauncher, ha uno sgradevole sapore di terra.",
+        "Pokémon violento che flagella il nemico con\nle sue chele affilate. Sembra che sia molto\ndifficile allenarlo.",
+        "Ama la lotta. Il malcapitato che si avvicina\nalla sua tana verrà brutalmente malmenato."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "name": "Crawdaunt",
+    "types": [
+        "Acqua",
+        "Buio"
+    ],
+    "weight": 32.8
+}

@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 3,
+    "height": 1.5,
+    "name": "로파파",
+    "types": [
+        "물",
+        "풀"
+    ],
+    "weight": 55.0
+}

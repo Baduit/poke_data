@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Vive en el fondo de los mares de aguas templadas.\nEmerge para cazar cuando baja la marea.",
+        "Atrapa a su presa con los ocho tentáculos que tiene y,\nantes de devorarla, la baña en ácido.",
+        "Cradily va por el fondo oceánico sin rumbo fijo en busca de\ncomida. El cuello de este Pokémon se parece al tronco de\nun árbol. Cuando quiere atrapar a su presa desprevenida, lo\nestira y usa los ocho tentáculos que tiene.",
+        "A Cradily le sirve el cuerpo de ancla y sostén en aguas\nturbulentas. Gracias a él no es arrastrado por las corrientes.\nEste Pokémon segrega un fuerte jugo digestivo a través de\nlos tentáculos.",
+        "Por lo general habitaba en las profundidades\ndel mar y salía a tierra firme en busca de presas\ncuando bajaba la marea.",
+        "Pokémon carnívoro de mares ancestrales. Con\nlos ocho tentáculos atrapa a su presa y la come\na medida que sus jugos gástricos la disuelven.",
+        "Sus cortas patas le impiden desplazarse con\nrapidez, pero puede triplicar la longitud de sus\ntentáculos y cuello para atrapar a presas lejanas.",
+        "Atrapa a sus presas con los tentáculos y\nenseguida las disuelve con sus jugos gástricos\npara absorber los nutrientes."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "name": "Cradily",
+    "types": [
+        "Roca",
+        "Planta"
+    ],
+    "weight": 60.4
+}

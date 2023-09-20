@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Su cuerpo está provisto de hojas afiladas. Cuando se\ndesgastan, las afila con cantos rodados a la orilla del\nrío.",
+        "Ataca en grupo ignorando sus heridas y hundiendo\nen su presa las cuchillas que recubren su cuerpo.",
+        "Su cuerpo está provisto de hojas afiladas. Cuando se\ndesgastan, las afila con cantos rodados a la orilla del río.",
+        "Ataca en grupo ignorando sus heridas y hundiendo en su\npresa las cuchillas que recubren su cuerpo.",
+        "Tras rebanar a sus presas, afila sus cuchillas\ncon piedras de río. Cada Pawniard tiene una\npiedra favorita.",
+        "Acata las órdenes de Bisharp a pies juntillas.\nCuando rebana a un oponente, hace sonar las\ncuchillas de sus brazos chocándolas entre sí.",
+        "Acorrala a los enemigos con las cuchillas de su\ncuerpo, que afila usando cantos rodados a la\norilla del río.",
+        "Forman grupos encabezados por un Bisharp. Se\nentrenan a diario soñando con llegar a liderar el\ngrupo algún día."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "name": "Pawniard",
+    "types": [
+        "Siniestro",
+        "Acero"
+    ],
+    "weight": 10.2
+}

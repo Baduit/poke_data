@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il se sert des poils de ses pattes\nantérieures comme de fouets. Ses coups\nultrarapides sont invisibles à l’œil nu.",
+        "Il combat à l’aide des longs poils\nde ses pattes antérieures. \nIls font aussi mal qu’un fouet.",
+        "Il se sert des poils de ses pattes antérieures comme\nde fouets. Ses coups ultrarapides sont invisibles à\nl’œil nu.",
+        "Il combat à l’aide des longs poils de ses pattes\nantérieures. Une fois lancé dans ses enchaînements,\nrien ne l’arrête.",
+        "Il se sert des poils de ses pattes antérieures comme de fouets.\nSes coups ultrarapides sont invisibles à l’œil nu.",
+        "Il combat à l’aide des longs poils de ses pattes antérieures.\nUne fois lancé dans ses enchaînements, rien ne l’arrête.",
+        "Il accule son ennemi avec une rafale d’attaques\nfulgurantes, puis concentre son énergie pour\nlui donner le coup de grâce.",
+        "Le cri lugubre de Shaofouine annonce qu’il est\nsur le point de déchaîner une pluie de coups\nsi rapides qu’ils en sont invisibles.",
+        "Lorsqu’il fait face à un adversaire vraiment\nredoutable, il coupe les poils de ses mains\navec les dents pour améliorer son agilité.",
+        "Ses coups de pied ultrarapides et invisibles\nà l’œil nu peuvent réduire un énorme rocher\nen poussière."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "name": "Shaofouine",
+    "types": [
+        "Combat"
+    ],
+    "weight": 35.5
+}

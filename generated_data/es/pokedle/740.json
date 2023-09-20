@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 7,
+    "height": 1.7,
+    "name": "Crabominable",
+    "types": [
+        "Lucha",
+        "Hielo"
+    ],
+    "weight": 180.0
+}

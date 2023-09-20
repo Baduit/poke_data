@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 4,
+    "height": 2.0,
+    "name": "글라이온",
+    "types": [
+        "땅",
+        "비행"
+    ],
+    "weight": 42.5
+}

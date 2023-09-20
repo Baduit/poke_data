@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "수풀의 그늘에 숨어 산다.\n적에게 공격당하면 몸의 털을\n뾰족하게 곤두세우며 위협한다.",
+        "단단한 몸은 새포켓몬의\n부리로도 상처 하나 입지 않는다.\n가루를 뿌려서 방어한다.",
+        "수풀의 그늘에 숨어 산다.\n적에게 공격당하면 몸의 털을\n뾰족하게 곤두세우며 위협한다.",
+        "단단한 몸은 새포켓몬의\n부리로도 상처 하나 입지 않는다.\n가루를 뿌려서 방어한다."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+    "name": "분떠도리",
+    "types": [
+        "벌레"
+    ],
+    "weight": 8.4
+}

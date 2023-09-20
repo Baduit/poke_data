@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "It fights using the scalchop on its\nstomach. In response to an attack,\nit retaliates immediately by slashing.",
+        "The scalchop on its stomach is made from\nthe same elements as claws. It detaches\nthe scalchop for use as a blade.",
+        "The scalchop on its stomach isn’t\njust used for battle--it can be used\nto break open hard berries as well.",
+        "The scalchop on its stomach isn’t\njust used for battle--it can be used\nto break open hard berries as well.",
+        "The scalchop on its stomach isn’t just used for\nbattle--it can be used to break open hard berries\nas well.",
+        "It fights using the scalchop on its stomach.\nIn response to an attack, it retaliates immediately\nby slashing.",
+        "The scalchop on its stomach isn’t just used for\nbattle—it can be used to break open hard berries\nas well.",
+        "It fights using the scalchop on its stomach.\nIn response to an attack, it retaliates immediately\nby slashing.",
+        "This Pokémon from the Unova region uses the shell on its belly\nas a weapon to cut down its foes. Thus, I've conferred upon this\nshell the name ”scalchop”."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+    "name": "Oshawott",
+    "types": [
+        "Water"
+    ],
+    "weight": 5.9
+}

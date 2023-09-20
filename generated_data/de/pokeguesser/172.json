@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sie spielen miteinander, indem sie ihre Schweifspitzen\naneinanderhalten und Funken fliegen lassen.",
+        "Es kann noch nicht mit Elektrizität umgehen.\nEs wirft Blitze, wenn es sich freut oder erstaunt ist.",
+        "An Gewittertagen oder Tagen, an denen die Luft sehr trocken\nist, kann sich Pichu leichter mit Elektrizität aufladen. Dann kann\nman das Knistern statischer Aufladung hören.",
+        "Wenn Pichu mit anderen spielt, kann es einen Kurzschluss\nmit einem seiner Artgenossen erzeugen, sodass die Funken\nsprühen. Dann beginnt es zu weinen, weil es vor den Funken\nerschrickt.",
+        "Es ist noch nicht sehr geübt im Umgang mit\nElektrizität. Lässt man es kurz aus den Augen,\nlähmt es sich schon mal versehentlich selbst.",
+        "Pichu sind sehr niedlich, aber wer mit einem\nzusammenleben will, sollte sich besser auf\nregelmäßige Stromschläge gefasst machen.",
+        "Es ist noch nicht sehr geübt im Umgang mit\nElektrizität. Wenn es erschrickt oder aufgeregt\nist, wirft es mit Blitzen um sich.",
+        "In den Backentaschen speichert es Elektrizität.\nSind diese vollständig aufgeladen, wirbelt es\nbeim Spielen voller Energie herum.",
+        "Obwohl es so klein ist, kann es genug Elektrizität\nfreisetzen, um sogar einen Erwachsenen zu\nüberwältigen. Tritt dies ein, ist es selbst erstaunt.",
+        "Tritt auch nur eine geringe Menge Elektrizität aus\nseinen kleinen Backentaschen aus, bekommt es\neinen Schlag."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "name": "Pichu",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 2.0
+}

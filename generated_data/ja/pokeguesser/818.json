@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "多彩な　機能を　隠し持つ。\n指から　水を　噴射して\n背中の　皮膜で　風に　乗る。",
+        "指先から　放つ　水鉄砲は\nマッハ３の　速さ。　瞬膜で\n急所を　見抜いて　撃ちぬくぞ。"
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "name": "インテレオン",
+    "types": [
+        "みず"
+    ],
+    "weight": 45.2
+}

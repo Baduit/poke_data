@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es erfasst warme Gefühle von Menschen\nund Pokémon mit seinen Hörnern und wärmt\nsich daran auf.",
+        "Es nimmt die Gefühle der Menschen und Pokémon\nmit großer Sorgfalt wahr. Spürt es Feindseligkeit,\nversteckt es sich.",
+        "Trasla nimmt mit den Hörnern an seinem Kopf die Gefühle\nvon Menschen wahr. Menschen bekommen dieses Pokémon\nnur selten zu Gesicht. Wenn es bemerkt, dass eine Person\ngut gelaunt ist, traut es sich näher an sie heran.",
+        "Trasla hat die Fähigkeit, die Emotionen von Menschen\nwahrzunehmen. Wenn sein Trainer gute Laune hat,\nist dieses Pokémon ebenfalls fröhlich.",
+        "Es hat ein feines Gespür für die Gefühle der\nMenschen und Pokémon. Wenn es Feindseligkeit\nwahrnimmt, versteckt es sich.",
+        "Wenn es mit seinen roten Hörnern freundliche\nGefühle von Menschen oder Pokémon erfasst,\nerwärmt sich sein ganzer Körper ein bisschen."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "name": "Trasla",
+    "types": [
+        "Psycho",
+        "Fee"
+    ],
+    "weight": 6.6
+}

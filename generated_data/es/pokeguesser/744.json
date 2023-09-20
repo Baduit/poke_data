@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Su carácter amigable lo convierte en el Pokémon\nideal para Entrenadores novatos. Sin embargo, al\ncrecer suele volverse un poco agresivo.",
+        "Acostumbran a vivir con los humanos desde la\nantigüedad. Intuyen si su Entrenador está\ntriste, en cuyo caso no se despegan de su lado.",
+        "A medida que crece, se vuelve más salvaje y\nagresivo. No son pocos los Entrenadores que\nse deshacen de él por no poder controlarlo.",
+        "Restriega las rocas que tiene en el cuello contra\nsu Entrenador como señal de afecto, pero son\ntan puntiagudas que hacen bastante daño.",
+        "Se encariña con su Entrenador rápidamente, pero\nsu tendencia a dar mordiscos hace que dedicarse\na entrenarlo sea una ardua labor.",
+        "Intimida a los rivales golpeando contra el suelo\nlas rocas que tiene en el cuello y, tan pronto\ncomo retroceden, se abalanza sobre ellos."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "name": "Rockruff",
+    "types": [
+        "Roca"
+    ],
+    "weight": 9.2
+}

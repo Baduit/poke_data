@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 1,
+    "height": 0.3,
+    "name": "小磁怪",
+    "types": [
+        "電",
+        "鋼"
+    ],
+    "weight": 6.0
+}

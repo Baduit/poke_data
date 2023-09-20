@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 0.8,
+    "name": "Mebrana",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 17.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "粉紅色",
+    "generation": 2,
+    "height": 0.6,
+    "name": "太陽珊瑚",
+    "types": [
+        "水",
+        "岩石"
+    ],
+    "weight": 5.0
+}

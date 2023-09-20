@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "某位少年的發明\n促使人們開始製造\n各種活用洛托姆的機器。",
+        "會用等離子構成的身體\n潛入各式各樣的機器裡。\n最喜歡惡作劇嚇人。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "name": "洛托姆",
+    "types": [
+        "電",
+        "幽靈"
+    ],
+    "weight": 0.3
+}

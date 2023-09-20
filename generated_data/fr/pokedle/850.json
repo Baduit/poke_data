@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 8,
+    "height": 0.7,
+    "name": "Grillepattes",
+    "types": [
+        "Feu",
+        "Insecte"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Può produrre energia elettrica aprendo il collare. Un\nsolo Pokémon di questa specie sarebbe in grado di\nilluminare un intero grattacielo.",
+        "Stimolando i suoi muscoli con l’elettricità riesce\na percorrere 100 m in 5 secondi.",
+        "Può produrre energia elettrica aprendo il collare. Un solo\nPokémon di questa specie sarebbe in grado di illuminare\nun intero grattacielo.",
+        "Stimolando i suoi muscoli con l’elettricità riesce a percorrere\n100 m in 5 secondi.",
+        "Un tempo era tenuto in grande considerazione\nin un paese desertico ormai scomparso. È giunto\na Galar in casse contenenti tesori.",
+        "L’energia prodotta da un Heliolisk quando apre\nil suo collare in un luogo soleggiato è sufficiente\na soddisfare il fabbisogno di una metropoli."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "name": "Heliolisk",
+    "types": [
+        "Elettro",
+        "Normale"
+    ],
+    "weight": 21.0
+}

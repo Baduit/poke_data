@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ces Pokémon protègent les leurs en\nprenant l’apparence de leurs ennemis.\nIls forment des groupes très soudés.",
+        "Il peut mystifier instantanément des\nfoules d’humains. Il protège son habitat\nen créant des illusions de paysages.",
+        "Il peut mystifier instantanément des foules d’humains.\nIl protège son habitat en créant des illusions de\npaysages.",
+        "Ces Pokémon protègent les leurs en prenant\nl’apparence de leurs ennemis. Ils forment des groupes\ntrès soudés.",
+        "Il peut mystifier instantanément des foules d’humains.\nIl protège son habitat en créant des illusions de paysages.",
+        "Ces Pokémon protègent les leurs en prenant l’apparence\nde leurs ennemis. Ils forment des groupes très soudés.",
+        "Il est non seulement capable de changer\nd’apparence, mais il peut également créer\ndes illusions pour hypnotiser les humains.",
+        "Les humains qui osent menacer son habitat\nfinissent par errer éternellement dans les bois,\nvictimes de ses illusions.",
+        "Doté d’un grand sens de la camaraderie,\nce Pokémon peut créer des illusions effrayantes\npour protéger son habitat et ses congénères.",
+        "Les Dresseurs en manque de compagnie\nordonnent à Zoroark de leur montrer\nune illusion pour tromper leur solitude."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "name": "Zoroark",
+    "types": [
+        "Ténèbres"
+    ],
+    "weight": 81.1
+}

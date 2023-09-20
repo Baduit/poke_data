@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Son corps est couvert d’un grand\nmanteau blanc qui, dans la neige, le\ndissimule aux yeux des prédateurs.",
+        "Son corps est couvert d’un grand\nmanteau blanc qui, dans la neige, le\ndissimule aux yeux des prédateurs.",
+        "Son corps est recouvert d’une fourrure d’un blanc pur.\nPlus il fait froid, et plus ce Pokémon est actif.",
+        "Son corps hydrodynamique glisse dans l’eau.\nPlus l’eau est froide plus il se sent à l’aise.",
+        "Lamantine adore piquer un roupillon à même la glace. Il y a\ntrès longtemps, un marin ayant aperçu ce Pokémon dormant\nsur un glacier a cru voir une sirène.",
+        "Son corps entier est aussi blanc que la neige.\nIl résiste bien au froid et peut même nager\nau milieu des icebergs.",
+        "Lamantine adore piquer un roupillon à même la glace. Il y a\ntrès longtemps, un marin ayant aperçu ce Pokémon dormant\nsur un glacier a cru voir une sirène.",
+        "Il sillonne les mers à la recherche de ses\nproies à une vitesse de 8 nœuds.\nIl raffole des Froussardine.",
+        "Après manger, il s’étale de tout son long sur\nles plages de sable fin. Le soleil le réchauffe\net facilite sa digestion.",
+        "Son corps entier est aussi blanc que la neige.\nIl résiste bien au froid et peut même nager\nau milieu des icebergs."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "name": "Lamantine",
+    "types": [
+        "Eau",
+        "Glace"
+    ],
+    "weight": 120.0
+}

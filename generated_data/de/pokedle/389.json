@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 4,
+    "height": 2.2,
+    "name": "Chelterrar",
+    "types": [
+        "Pflanze",
+        "Boden"
+    ],
+    "weight": 310.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il change d’habitat selon les saisons.\nLes gens constatent le passage des\nsaisons en regardant ses ramures.",
+        "Le feuillage qui pousse sur sa ramure\nchange au fil des saisons. Celui qui a\nla plus belle dirige le troupeau.",
+        "Il change d’habitat selon les saisons. Les gens\nconstatent le passage des saisons en regardant\nses ramures.",
+        "Il change d’habitat selon les saisons. Certains disent\nmême qu’il est celui qui apporte le printemps.",
+        "Il change d’habitat selon les saisons. Les gens constatent\nle passage des saisons en regardant ses ramures.",
+        "Il change d’habitat selon les saisons. Certains disent même\nqu’il est celui qui apporte le printemps."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+    "name": "Haydaim",
+    "types": [
+        "Normal",
+        "Plante"
+    ],
+    "weight": 92.5
+}

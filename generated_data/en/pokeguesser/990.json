@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+        "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "name": "Iron Treads",
+    "types": [
+        "Ground",
+        "Steel"
+    ],
+    "weight": 240.0
+}

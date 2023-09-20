@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ils ont fait le bonheur de générations de rois.\nLeurs pouvoirs psychiques leur permettent de\ncontrôler hommes et Pokémon.",
+        "Il peut déceler les qualités régaliennes dans les âmes\nhumaines. On raconte que celui ou celle qui obtient\nsa faveur deviendra à coup sûr roi ou reine.",
+        "Ils ont fait le bonheur de générations de rois. Leurs pouvoirs\npsychiques leur permettent de contrôler hommes et Pokémon.",
+        "Il peut déceler les qualités régaliennes dans les âmes\nhumaines. On raconte que celui ou celle qui obtient\nsa faveur deviendra à coup sûr roi ou reine.",
+        "Grâce à son corps en acier et à sa barrière\npsychique, il peut se défendre en affaiblissant\ntoutes sortes d’attaques.",
+        "Grâce à ses puissants pouvoirs spirituels,\nil a contrôlé des humains et des Pokémon\npour créer un pays conforme à ses idéaux."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "name": "Exagide",
+    "types": [
+        "Acier",
+        "Spectre"
+    ],
+    "weight": 53.0
+}

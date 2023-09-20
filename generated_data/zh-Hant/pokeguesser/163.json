@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "每天必定會按照\n固定的節奏傾斜脖子，\n過去人們會養牠來代替時鐘。",
+        "每天都會在固定的時間鳴叫。\n過去的人們非常重視牠，\n把牠當成報時的神之使者。",
+        "總是用單腳站立。\n由於換腳的速度太快，\n很難用肉眼看清換腳的瞬間。",
+        "總是在固定的時間鳴叫，\n因此也有訓練家\n拿牠來代替鐘錶帶出門。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "name": "咕咕",
+    "types": [
+        "一般",
+        "飛行"
+    ],
+    "weight": 21.2
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Levanta un Graveler para mantener sus músculos en\nforma. Domina todas las artes marciales.",
+        "Es una masa de músculos y, aunque es pequeño, tiene\nfuerza de sobra para tomar en brazos a 100 personas.",
+        "Gracias a su portentosa musculatura, Machop no se agota por\nmucho esfuerzo que haga. Este Pokémon es tan fuerte que\npuede derrotar a cien personas adultas de una sola vez.",
+        "Machop se entrena levantando Graveler a modo de pesas.\nAlgunos de estos Pokémon viajan por todo el mundo para\naprender distintos tipos de artes marciales.",
+        "Le encanta entrenar su cuerpo. Cuando observa\ncómo crecen sus músculos día tras día, se\napasiona más por su entrenamiento.",
+        "Obtiene su fuerza descomunal, con la que es\ncapaz de lanzar a 100 personas por los aires,\nmediante un levantamiento de Graveler diario.",
+        "Entrena con sus congéneres para potenciar su\nmusculatura y confianza en sí mismo y, llegado\nel momento, reta en combate a los Makuhita.",
+        "Prefiere los alimentos con gran valor nutritivo.\nLos escoge instintivamente para desarrollar de\nforma eficaz los músculos.",
+        "Es muy fuerte, a pesar de su pequeño tamaño.\nSu dominio de varias artes marciales lo convierte\nen un rival duro de pelar.",
+        "Es muy fuerte, a pesar de su pequeño tamaño.\nSu dominio de varias artes marciales lo convierte\nen un rival duro de pelar.",
+        "Es una masa de músculos y, pese a su pequeño\ntamaño, tiene fuerza de sobra para levantar en\nbrazos a 100 personas.",
+        "Siempre rebosante de energía, pasa el tiempo\nlevantando piedras para hacerse aún más fuerte."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "name": "Machop",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 19.5
+}

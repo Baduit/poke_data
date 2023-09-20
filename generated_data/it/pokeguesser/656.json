@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Dal petto e dalla schiena secerne una schiuma\nche gli permette di attutire i danni causati dagli\nattacchi nemici.",
+        "Si protegge avvolgendo il corpo in una schiuma\ndelicata. Nonostante l’aria spensierata, scruta sempre\nl’ambiente circostante con molta attenzione.",
+        "Dal petto e dalla schiena secerne una schiuma che gli\npermette di attutire i danni causati dagli attacchi nemici.",
+        "Si protegge avvolgendo il corpo in una schiuma delicata.\nNonostante l’aria spensierata, scruta sempre l’ambiente\ncircostante con molta attenzione."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "name": "Froakie",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 7.0
+}

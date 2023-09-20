@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 1,
+    "height": 1.0,
+    "name": "三合一磁怪",
+    "types": [
+        "電",
+        "鋼"
+    ],
+    "weight": 60.0
+}

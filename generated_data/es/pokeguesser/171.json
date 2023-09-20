@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "La luz de Lanturn se puede ver desde lo más\nprofundo. Se le llama la Estrella de Alta Mar.",
+        "Ciega a su presa con una luz intensa y luego se la\ntraga de un solo bocado.",
+        "A Lanturn lo llaman la Estrella del Fondo del Mar por la antena\niluminada que tiene. Este Pokémon produce luz creando una\nreacción química entre una bacteria y los fluidos corporales de\nla antena.",
+        "Todos saben que Lanturn emite luz. Si echas un ojo al mar\ndesde un barco en una noche cerrada, quizás veas su luz a\ntravés de las aguas, brillando desde lo más profundo, por\ndonde suele nadar. Con él, el mar parece un cielo estrellado.",
+        "Cuando por la noche el mar parece un cielo\nestrellado, es muy probable que se trate de\nLanturn haciendo brillar su antena.",
+        "Ciega a sus presas con una luz intensa. Si tiene\nla ocasión, les propina una buena descarga\neléctrica.",
+        "Cuando las bacterias que viven en sus antenas\nabsorben sus fluidos corporales, sufren una\nreacción que libera una luz intensa.",
+        "Vive en lo más profundo del océano. Deslumbra\na su presa con la luz de sus antenas y, mientras\nestá confusa, la engulle de un bocado.",
+        "La luz que emite es tan brillante que puede\niluminar la superficie del mar desde unos 5 km\nde profundidad.",
+        "Ciega a sus presas con una luz intensa. Si tiene la\nocasión, les propina una descarga eléctrica."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "name": "Lanturn",
+    "types": [
+        "Agua",
+        "Eléctrico"
+    ],
+    "weight": 22.5
+}

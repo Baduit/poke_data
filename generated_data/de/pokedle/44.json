@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 0.8,
+    "name": "Duflor",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 8.6
+}

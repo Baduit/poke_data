@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "È conosciuto come “l’eroe della leggenda”.\nAssorbe il metallo e lo trasforma per armarsi\ndurante la lotta.",
+        "Viene considerato una figura fraterna e allo\nstesso tempo un rivale per Zamazenta,\nun Pokémon rimasto a lungo addormentato."
+    ],
+    "height": 2.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "name": "Zacian",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 110.0
+}

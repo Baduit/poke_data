@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Maskeregen",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 3.6
+}

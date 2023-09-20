@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Funécire",
+    "types": [
+        "Spectre",
+        "Feu"
+    ],
+    "weight": 3.1
+}

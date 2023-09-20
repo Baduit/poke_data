@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 8,
+    "height": 2.0,
+    "name": "Arctovish",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "weight": 175.0
+}

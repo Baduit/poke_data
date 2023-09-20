@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Marshtomp",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 28.0
+}

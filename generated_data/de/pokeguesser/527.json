@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Wohnt in dunklen Wäldern und Höhlen. Es sendet\nUltraschallwellen mit seiner Nase aus, um die\nGegend abzutasten.",
+        "Es verheißt Glück, wenn sich ein Fleknoil an einem\nMenschen festsaugt und auf ihm einen herzförmigen\nFleck hinterlässt.",
+        "Wohnt in dunklen Wäldern und Höhlen. Es sendet\nUltraschallwellen mit seiner Nase aus, um die Gegend\nabzutasten.",
+        "Es verheißt Glück, wenn sich ein Fleknoil an einem Menschen\nfestsaugt und auf ihm einen herzförmigen Fleck hinterlässt.",
+        "Herzförmige Flecken an der Decke einer Höhle\nsind ein sicheres Zeichen dafür, dass sie von\nFleknoil behaust wird.",
+        "Es fliegt umher und sendet Ultraschallwellen aus,\num Käfer-Pokémon aufzuspüren, welche ihm als\nNahrung dienen."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "name": "Fleknoil",
+    "types": [
+        "Psycho",
+        "Flug"
+    ],
+    "weight": 2.1
+}

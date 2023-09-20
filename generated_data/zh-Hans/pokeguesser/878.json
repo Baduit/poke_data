@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "能轻松举起重达５吨的\n货物的大力士宝可梦。\n会用鼻子挖地。",
+        "擅长需要力气的工作。\n铜质的身体会因雨水而生锈，\n转变成鲜艳的绿色。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+    "name": "铜象",
+    "types": [
+        "钢"
+    ],
+    "weight": 100.0
+}

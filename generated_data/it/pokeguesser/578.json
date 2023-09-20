@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Poiché ha due cervelli separati e indipendenti, può\ncapitare che si comporti in modo del tutto incoerente.",
+        "I suoi poteri psichici sono al massimo quando le due\nparti in cui è diviso il suo cervello pensano la stessa\ncosa.",
+        "Poiché ha due cervelli separati e indipendenti, può capitare\nche si comporti in modo del tutto incoerente.",
+        "I suoi poteri psichici sono al massimo quando le due parti\nin cui è diviso il suo cervello pensano la stessa cosa.",
+        "Quando i suoi due cervelli pensano la stessa\ncosa, la sua forza psichica si propaga nel\nraggio di 1 km.",
+        "È un Pokémon piuttosto imprevedibile.\nI suoi due cervelli, separati e indipendenti,\nraramente sono sulla stessa lunghezza onda."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "name": "Duosion",
+    "types": [
+        "Psico"
+    ],
+    "weight": 8.0
+}

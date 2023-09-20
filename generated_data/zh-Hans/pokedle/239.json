@@ -1,0 +1,10 @@
+{
+    "color": "黄色",
+    "generation": 2,
+    "height": 0.6,
+    "name": "电击怪",
+    "types": [
+        "电"
+    ],
+    "weight": 23.5
+}

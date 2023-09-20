@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "황금으로 된 반짝거리는 몸.\n자신이 인간이었다는 사실을\n이제는 기억하지 못할 것이다.",
+        "가까이 다가온 인간을 삼켜서\n미라로 만든다는 소문이 있다.\n금괴를 즐겨 먹는다.",
+        "진짜 관과 착각해서\n다가온 도굴꾼을\n몸속에 가둬버린다.",
+        "가까이 다가온 인간을 삼켜서\n미라로 만든다는 소문이 있다.\n금괴를 즐겨 먹는다.",
+        "진짜 관과 착각해서\n다가온 도굴꾼을\n몸속에 가둬버린다.",
+        "오래된 묘지의 벽을 보면\n왕의 부를 드러내고자\n그려져 있는 경우가 많다."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+    "name": "데스니칸",
+    "types": [
+        "고스트"
+    ],
+    "weight": 76.5
+}

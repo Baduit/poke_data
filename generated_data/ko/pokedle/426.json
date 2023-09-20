@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 4,
+    "height": 1.2,
+    "name": "둥실라이드",
+    "types": [
+        "고스트",
+        "비행"
+    ],
+    "weight": 15.0
+}

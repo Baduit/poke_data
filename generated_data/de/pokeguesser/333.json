@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Aus irgendeinem Grund setzt es sich gerne auf den\nKopf von Menschen und tut so, als sei es ein Hut.",
+        "Ständig pflegt es seine watteartigen Flügel. Falls es\nschmutzig wird, nimmt es eine Dusche, um sich zu\nputzen.",
+        "Wablu hat leichte, flauschige Flügel, die wie Schäfchenwolken\naussehen. Dieses Pokémon hat keine Angst vor Menschen.\nEs landet auf ihren Köpfen und bleibt dort sitzen wie ein\nwattierter Hut.",
+        "Wablu liebt es, Dinge zu putzen. Wenn es etwas Schmutziges\nbemerkt, fängt es an, dieses mit seinen weichen Flügeln\nzu putzen. Wenn seine Flügel dreckig werden, sucht sich\ndieses Pokémon einen Fluss und duscht sich ab.",
+        "Seine watteartigen Flügel enthalten Luft und\nfühlen sich daher schön flauschig an. Wablu lässt\nkeine Gelegenheit aus, sie zu pflegen.",
+        "Es sieht Schäfchenwolken sehr ähnlich, weshalb\nGegner es nur schwer entdecken. Seine Flügel\nwurden wohl über Generationen hinweg weiß."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "name": "Wablu",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 1.2
+}

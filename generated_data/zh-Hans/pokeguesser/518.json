@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "在它冒出黑黑的烟雾时，\n还是不要接近它为妙，\n否则噩梦将会成真。",
+        "总是在打瞌睡做梦。\n刚睡醒的时候会闹脾气，\n所以最好别去招惹它。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "name": "梦梦蚀",
+    "types": [
+        "超能力"
+    ],
+    "weight": 60.5
+}

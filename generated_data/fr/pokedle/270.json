@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Nénupiot",
+    "types": [
+        "Eau",
+        "Plante"
+    ],
+    "weight": 2.6
+}

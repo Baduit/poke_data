@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Graveler",
+    "types": [
+        "Roccia",
+        "Terra"
+    ],
+    "weight": 105.0
+}

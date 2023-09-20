@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Le sue urla si sentono a 10 km di distanza. Emette\ndiversi suoni dalle numerose aperture del suo corpo.",
+        "In lotta emette ululati che possono veramente far\ntremare la terra alla stregua di un terremoto.",
+        "Exploud è in grado di generare terremoti con le vibrazioni\nvocali. Quando inala grandi quantità d’aria dalle numerose\naperture del corpo, significa che si sta preparando a emettere\nun grido lancinante.",
+        "Exploud comunica le sue sensazioni emettendo\ndei fischi dai canali tubolari del suo corpo.\nQuesto Pokémon alza la voce soltanto nella lotta.",
+        "Un tempo la potente voce di questo Pokémon\nveniva utilizzata come mezzo di comunicazione\ntra città distanti.",
+        "Oltre a emettere potenti urla, grazie alle\naperture del suo corpo produce suoni di tonalità\ndiverse, che usa per comunicare con i suoi simili."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+    "name": "Exploud",
+    "types": [
+        "Normale"
+    ],
+    "weight": 84.0
+}

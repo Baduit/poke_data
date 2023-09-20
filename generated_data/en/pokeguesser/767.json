@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "This Pokémon is a coward. As it desperately\ndashes off, the flailing of its many legs leaves a\nsparkling clean path in its wake.",
+        "Its habitat varies from beaches to seabeds.\nA natural scavenger, it will gleefully chow down\non anything edible, no matter how rotten.",
+        "It will pick up anything it finds on the ground.\nSometimes it finds coins, so Murkrow and\nMeowth will go after it.",
+        "An astonishingly cowardly Pokémon, Wimpod\nwill whir its legs at high speeds to run away if\nanything comes near it.",
+        "It’s nature’s cleaner—it eats anything and\neverything, including garbage and rotten things.\nThe ground near its nest is always clean.",
+        "Wimpod gather in swarms, constantly on the\nlookout for danger. They scatter the moment\nthey detect an enemy’s presence."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+    "name": "Wimpod",
+    "types": [
+        "Bug",
+        "Water"
+    ],
+    "weight": 12.0
+}

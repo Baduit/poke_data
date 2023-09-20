@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Parasect",
+    "types": [
+        "Coleottero",
+        "Erba"
+    ],
+    "weight": 29.5
+}

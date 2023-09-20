@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Dieses Pokémon ist für seine Willensstärke\nbekannt. Bläst es Körperflüssigkeit durch die\nNase, entsteht eine Blase, die als Waffe fungiert.",
+        "Es kontrolliert Wasserblasen. Um eine große\nBlase zu erschaffen, muss es unermüdlich üben.",
+        "Dank seines täglichen Trainings gelingt es ihm,\nmit seiner Nase immer größere Blasen zu\nerzeugen.",
+        "Es klettert auf seine elastischen Wasserblasen\nund nutzt sie als Trampolin. Sein Kampfstil ist\nsehr akrobatisch.",
+        "Es kann besondere, elastische Blasen erschaffen,\ndie seine Gegner verletzen, wenn sie platzen.",
+        "Es trainiert jeden Tag fleißig, um irgendwann\neine Blase zu erschaffen, welche die perfekte\nForm und Größe vorweist."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "name": "Robball",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 7.5
+}

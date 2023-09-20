@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 5,
+    "height": 0.6,
+    "name": "유토브",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 15.0
+}

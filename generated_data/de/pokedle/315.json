@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 0.3,
+    "name": "Roselia",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 2.0
+}

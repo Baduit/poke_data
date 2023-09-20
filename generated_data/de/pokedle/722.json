@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Bauz",
+    "types": [
+        "Pflanze",
+        "Flug"
+    ],
+    "weight": 1.5
+}

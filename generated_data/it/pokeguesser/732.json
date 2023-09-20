@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Conserva nel becco i semi delle bacche\nche mangia, per poi spararli contro nemici\ne prede non appena ne incontra.",
+        "Mutando la forma del becco è in grado di\nprodurre i suoni più svariati. La sua rumorosità\ngli ha conquistato la fama di incubo del vicinato.",
+        "Mutando l’estremità del becco è in grado\ndi emettere più di 100 cinguettii differenti.",
+        "Spara dal becco i semi delle bacche di cui\nsi nutre, da cui poi spuntano nuove piante."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "name": "Trumbeak",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 14.8
+}

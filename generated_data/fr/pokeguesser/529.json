@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il peut creuser à plus de 50 km/h et\nfaire la course avec une voiture roulant\nsur le terrain qu’il creuse.",
+        "Il se propulse à grande vitesse sous\nla terre en joignant ses griffes et\nen tourbillonnant sur lui-même.",
+        "Il se propulse à grande vitesse sous la terre en\njoignant ses griffes et en tourbillonnant sur lui-même.",
+        "Il tourbillonne sur lui-même pour se déplacer sous\nterre. Il peut atteindre les 50 km/h en ligne droite.",
+        "Il se propulse à grande vitesse sous la terre en joignant\nses griffes et en tourbillonnant sur lui-même.",
+        "Il tourbillonne sur lui-même pour se déplacer sous terre.\nIl peut atteindre les 50 km/h en ligne droite.",
+        "Il fonce sur ses proies en joignant ses griffes\net en tourbillonnant sur lui-même.",
+        "Les cultivateurs le détestent, car il abîme leurs\nlégumes en creusant la terre avec ses griffes."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "name": "Rototaupe",
+    "types": [
+        "Sol"
+    ],
+    "weight": 8.5
+}

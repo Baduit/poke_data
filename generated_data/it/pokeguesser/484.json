@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Si dice che viva in una dimensione parallela alla\nnostra. Appare nella mitologia.",
+        "Ha l’abilità di distorcere lo spazio. Nella mitologia\ndella regione di Sinnoh è una divinità.",
+        "Si dice che viva in una dimensione parallela alla nostra.\nAppare nella mitologia.",
+        "Ha l’abilità di distorcere lo spazio. Nella mitologia della\nregione di Sinnoh è una divinità."
+    ],
+    "height": 4.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "name": "Palkia",
+    "types": [
+        "Acqua",
+        "Drago"
+    ],
+    "weight": 336.0
+}

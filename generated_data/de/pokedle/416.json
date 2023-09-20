@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Honweisel",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 38.5
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "망보기 역은 날카롭게 울거나\n꼬리로 땅을 쳐서\n동료에게 위험을 알린다.",
+        "먼 곳까지 볼 수 있도록 꼬리를\n사용해서 선다. 상대를 발견하면\n큰 소리로 동료에게 알린다.",
+        "잠잘 때는 교대로 망을 본다.\n위험을 탐지하면 동료를 깨운다.\n무리에서 떨어지면 무서워서 자지 못한다.",
+        "잠잘 때는 교대로 망을 본다.\n위험을 탐지하면 동료를 깨운다.\n무리에서 떨어지면 무서워서 자지 못한다."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+    "name": "꼬리선",
+    "types": [
+        "노말"
+    ],
+    "weight": 6.0
+}

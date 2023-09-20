@@ -1,0 +1,11 @@
+{
+    "color": "綠色",
+    "generation": 5,
+    "height": 2.8,
+    "name": "泥偶巨人",
+    "types": [
+        "地面",
+        "幽靈"
+    ],
+    "weight": 330.0
+}

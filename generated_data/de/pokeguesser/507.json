@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Dieses äußerst treue Pokémon geht nicht nur\nseinem Trainer zur Hand, sondern hilft auch\nanderen Pokémon.",
+        "Das dunkle Fell, das es wie ein Mantel umgibt,\nist äußerst widerstandsfähig und mindert\nden Schaden durch Attacken.",
+        "Dieses äußerst treue Pokémon geht nicht nur seinem Trainer\nzur Hand, sondern hilft auch anderen Pokémon.",
+        "Das dunkle Fell, das es wie ein Mantel umgibt, ist äußerst\nwiderstandsfähig und mindert den Schaden durch Attacken.",
+        "Sein dunkles Fell ist sehr widerstandsfähig und\nwächst schnell. Dadurch sind die Kosten für\ndas Trimmen sehr hoch.",
+        "Es folgt geflissentlich den Befehlen seines\nTrainers. Auf jemanden, den es als unterlegen\nbetrachtet, hört es jedoch nicht.",
+        "Mit zunehmendem Alter wird sein dunkles Fell\nimmer widerstandsfähiger, sodass selbst Klauen\nund Fangzähne es kaum durchdringen können.",
+        "Uralte Wandmalereien sprechen dafür, dass\nTerribark schon seit langer Zeit an der Seite der\nMenschen lebt.",
+        "Es ist sehr intelligent und zutraulich. Einer Theorie\nzufolge soll Terribark das erste Pokémon gewesen\nsein, das an der Seite von Menschen gelebt hat.",
+        "Das dunkle Fell, das seinen Körper bedeckt,\nist sehr dicht und federnd. Selbst Angriffe mit\nscharfen Fangzähnen prallen davon ab."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "name": "Terribark",
+    "types": [
+        "Normal"
+    ],
+    "weight": 14.7
+}

@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 3,
+    "height": 2.0,
+    "name": "플라이곤",
+    "types": [
+        "땅",
+        "드래곤"
+    ],
+    "weight": 82.0
+}

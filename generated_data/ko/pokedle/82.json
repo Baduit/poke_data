@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 1,
+    "height": 1.0,
+    "name": "레어코일",
+    "types": [
+        "전기",
+        "강철"
+    ],
+    "weight": 60.0
+}

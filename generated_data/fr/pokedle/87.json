@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 1,
+    "height": 1.7,
+    "name": "Lamantine",
+    "types": [
+        "Eau",
+        "Glace"
+    ],
+    "weight": 120.0
+}

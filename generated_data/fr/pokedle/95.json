@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 1,
+    "height": 8.8,
+    "name": "Onix",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 210.0
+}

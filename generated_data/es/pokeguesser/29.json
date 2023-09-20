@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Aunque pequeñas, sus venenosas púas son muy\npeligrosas. Tienen un cuerno más pequeño que\nlos machos.",
+        "De pequeño tamaño y dócil, cuando se le ataca, utiliza\nel cuerno venenoso que tiene encima de la cabeza.",
+        "Nidoran♀ tiene púas que segregan un veneno muy potente.\nSe piensa que las desarrolló como protección del cuerpo tan\npequeño que tiene. Cuando se enfada, libera una horrible\nsustancia tóxica por el cuerno.",
+        "Nidoran♀ tiene púas que segregan un veneno muy potente.\nSe piensa que las desarrolló como protección del cuerpo tan\npequeño que tiene. Cuando se enfada, libera una horrible\nsustancia tóxica por el cuerno.",
+        "A este dócil Pokémon no le gusta luchar, pero\nconviene tener cuidado con su pequeño cuerno,\nya que segrega veneno.",
+        "A este dócil Pokémon no le gusta luchar, pero\nconviene tener cuidado con su pequeño cuerno,\nya que segrega veneno.",
+        "Posee un olfato más fino que los Nidoran♂. Usa\nlos bigotes para percibir la dirección del viento y\nbuscar comida a sotavento de sus depredadores.",
+        "Parte las bayas con sus duros incisivos para\ncomérselas. La punta del cuerno de las hembras\nes más redondeada que la de los machos."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "name": "Nidoran♀",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 7.0
+}

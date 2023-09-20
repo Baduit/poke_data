@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Si introduce sfacciatamente nelle tane degli altri\nPokémon rivendicandole poi come proprie.",
+        "Si stringe la vita con la coda biforcuta per apparire\npiù imponente e minaccioso.",
+        "Si introduce sfacciatamente nelle tane degli altri Pokémon\nrivendicandole poi come proprie.",
+        "Si stringe la vita con la coda biforcuta per apparire più\nimponente e minaccioso."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+    "name": "Purugly",
+    "types": [
+        "Normale"
+    ],
+    "weight": 43.8
+}

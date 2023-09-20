@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "They can live both in the ocean and on\nland. A slap from one of them is enough\nto open a hole in the bottom of a tanker.",
+        "Incredible jaw strength enables them\nto chew up steel beams and rocks\nalong with their prey.",
+        "It could knock out a foe with a slap from\none of its developed front appendages\nand chew it up, shell or bones and all.",
+        "It could knock out a foe with a slap from\none of its developed front appendages\nand chew it up, shell or bones and all.",
+        "They can live both in the ocean and on land. A slap\nfrom one of them is enough to open a hole in the\nbottom of a tanker.",
+        "It could knock out a foe with a slap from one of its\ndeveloped front appendages and chew it up, shell\nor bones and all.",
+        "They can live both in the ocean and on land. A slap\nfrom one of them is enough to open a hole in the\nbottom of a tanker.",
+        "It could knock out a foe with a slap from one of its\ndeveloped front appendages and chew it up, shell\nor bones and all.",
+        "It constructed its sturdy shell by crunching and\nswallowing the hard shells or bones of its prey.",
+        "Active both on land and in the sea, this\nPokémon drags its land-based prey into the\nwater to finish it off.",
+        "Its jaws are terrifyingly powerful. It could eat\nOmastar and Omanyte whole and not be\nbothered in the slightest by their shells.",
+        "Carracosta eats every last bit of the prey it\ncatches, even the shells and bones, to further\nstrengthen its sturdy shell.",
+        "Carracosta completely devours its prey—bones,\nshells, and all. Because of this, Carracosta’s own\nshell grows thick and sturdy.",
+        "This Pokémon emerges from the water in search\nof prey despite the fact that it moves more\nslowly on land."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+    "name": "Carracosta",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "weight": 81.0
+}

@@ -1,0 +1,36 @@
+{
+    "descriptions": [
+        "CARVANHA’s strongly developed jaws\nand its sharply pointed fangs pack the\ndestructive power to rip out boat hulls.\fMany boats have been attacked and\nsunk by this POKéMON.",
+        "If anything invades CARVANHA’s\nterritory, it will swarm and tear at the\nintruder with its pointed fangs.\fOn its own, however, this POKéMON turns\nsuddenly timid.",
+        "CARVANHA attack ships in swarms, making\nthem sink. Although it is said to be a very\nvicious POKéMON, it timidly flees as soon\nas it finds itself alone.",
+        "It lives in massive rivers that course\nthrough jungles. It swarms prey that\nenter its territory.",
+        "It lives in massive rivers that course\nthrough jungles. It swarms prey that\nenter its territory.",
+        "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls.",
+        "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls.",
+        "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls.",
+        "They form packs to attack boats\nand rip out their hulls to sink them.\nThey live in rivers in the jungle.",
+        "They form packs to attack boats\nand rip out their hulls to sink them.\nThey live in rivers in the jungle.",
+        "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls.",
+        "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls.",
+        "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls.",
+        "They swarm any foe that invades\ntheir territory. Their sharp fangs\ncan tear out boat hulls.",
+        "They form packs to attack boats and rip out their\nhulls to sink them. They live in rivers in the jungle.",
+        "It lives in massive rivers that course through\njungles. It swarms prey that enter its territory.",
+        "Carvanha’s strongly developed jaws and its sharply pointed\nfangs pack the destructive power to rip out boat hulls.\nMany boats have been attacked and sunk by this Pokémon.",
+        "If anything invades Carvanha’s territory, it will swarm and tear\nat the intruder with its pointed fangs. On its own, however, this\nPokémon turns suddenly timid.",
+        "Each school has its own territory. Any intruders\nare mercilessly attacked with fangs bared.",
+        "If they scent the faintest trace of blood, they\nrush to attack en masse. When alone, they’re\nrather cowardly.",
+        "They’re such cowards that they won’t hunt\nalone. When five or so of them get together,\nthey suddenly turn ferocious!",
+        "With its sturdy jaws and fangs, it can easily\nchomp wooden boats to splinters. It fights with\nBasculin over food.",
+        "It won’t attack while it’s alone—not even if it\nspots prey. Instead, it waits for other Carvanha to\njoin it, and then the Pokémon attack as a group.",
+        "These Pokémon have sharp fangs and powerful\njaws. Sailors avoid Carvanha dens at all costs."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "name": "Carvanha",
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "weight": 20.8
+}

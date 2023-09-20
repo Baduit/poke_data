@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Es stellt Wurfsterne aus komprimiertem Wasser\nher, die durch ihre hohe Drehgeschwindigkeit\nbeim Werfen sogar Metall durchtrennen.",
+        "Kaum hat man es erspäht, verschwindet es auch schon\nwieder. Mit der Agilität eines Ninjas verwirrt es seine\nGegner, um sie dann mit Wasser-Shuriken anzugreifen.",
+        "Es stellt Wurfsterne aus komprimiertem Wasser her, die durch\nihre hohe Drehgeschwindigkeit beim Werfen sogar Metall\ndurchtrennen.",
+        "Kaum hat man es erspäht, verschwindet es auch schon wieder.\nMit der Agilität eines Ninjas verwirrt es seine Gegner, um sie\ndann mit Wasser-Shuriken anzugreifen."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "name": "Quajutsu",
+    "types": [
+        "Wasser",
+        "Unlicht"
+    ],
+    "weight": 40.0
+}

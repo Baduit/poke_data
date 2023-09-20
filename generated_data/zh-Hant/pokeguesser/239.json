@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "常常跟來搶奪電力的\n托戈德瑪爾打架。\n結果通常是不分上下。",
+        "在家的時候，插座就相當於奶瓶。\n會啜啜地吸取電力哦。",
+        "聽到打雷的聲音就會很高興。\n如果能先把打雷的聲音錄下來，\n當牠心情低落的時候會很好用。",
+        "當角發出青白色亮光時，\n就代表充電已經完成了。\n如果去摸就會被電到麻痺。",
+        "暴風雨靠近時就會變得\n坐立難安。一聽到打雷聲，\n就會按捺不住地吵鬧起來。",
+        "還不擅長儲存電力。\n為了吸食電力，會偷偷\n潛入民宅尋找插座。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "name": "電擊怪",
+    "types": [
+        "電"
+    ],
+    "weight": 23.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Swablu",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 1.2
+}

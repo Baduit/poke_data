@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 9,
+    "height": 2.3,
+    "name": "Sandy Shocks",
+    "types": [
+        "Electric",
+        "Ground"
+    ],
+    "weight": 60.0
+}

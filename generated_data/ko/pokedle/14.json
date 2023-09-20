@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 1,
+    "height": 0.6,
+    "name": "딱충이",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 10.0
+}

@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "전설의 영웅이라고 불리는\n포켓몬. 금속을 흡수한 뒤\n무기로 변화시켜서 싸운다.",
+        "오랜 세월 잠들어 있던\n자마젠타의 형제자매 또는\n라이벌로 불리는 포켓몬이다."
+    ],
+    "height": 2.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "name": "자시안",
+    "types": [
+        "페어리"
+    ],
+    "weight": 110.0
+}

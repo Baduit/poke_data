@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "２隻龜腳腳會在海邊找一塊大小\n合適的岩石，附在上面一起生活。\n漲潮的時候會互相合作尋找食物。",
+        "如果２隻龜腳腳配合得不好，\n不但無法有效地攻擊和防禦，\n甚至沒辦法生存下去。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "name": "龜腳腳",
+    "types": [
+        "岩石",
+        "水"
+    ],
+    "weight": 31.0
+}

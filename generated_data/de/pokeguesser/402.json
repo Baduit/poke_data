@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Wenn es ruft, verschränkt es seine messerartigen\nArme vor der Brust. Es komponiert aus dem Stegreif.",
+        "Über seine Melodien teilt es seine Gefühle mit.\nWissenschaftler untersuchen das Muster der Melodien.",
+        "Wenn es ruft, verschränkt es seine messerartigen Arme vor\nder Brust. Es komponiert aus dem Stegreif.",
+        "Über seine Melodien teilt es seine Gefühle mit.\nWissenschaftler untersuchen das Muster der Melodien."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "name": "Zirpeise",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 25.5
+}

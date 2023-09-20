@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "The lower half of its body is wrapped in\na cloud of energy. It zooms through\nthe sky at 200 mph.",
+        "Tornadus expels massive energy from its\ntail, causing severe storms. Its power\nis great enough to blow houses away.",
+        "In every direction it flies,\ncreating winds so powerful,\nthey blow everything away.",
+        "In every direction it flies,\ncreating winds so powerful,\nthey blow everything away.",
+        "The lower half of its body is wrapped in a cloud of\nenergy. It zooms through the sky at 200 mph.",
+        "Tornadus expels massive energy from its tail,\ncausing severe storms. Its power is great enough\nto blow houses away.",
+        "The lower half of its body is wrapped in a cloud of\nenergy. It zooms through the sky at 200 mph.",
+        "Tornadus expels massive energy from its tail,\ncausing severe storms. Its power is great enough\nto blow houses away.",
+        "This storm-stirring Pokémon is said to cause the seasons to\nturn by whipping up the air. I suspect its humanlike form to be\na false one."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "name": "Tornadus",
+    "types": [
+        "Flying"
+    ],
+    "weight": 63.0
+}

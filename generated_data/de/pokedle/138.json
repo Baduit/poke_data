@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Amonitas",
+    "types": [
+        "Gestein",
+        "Wasser"
+    ],
+    "weight": 7.5
+}

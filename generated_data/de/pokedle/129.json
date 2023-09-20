@@ -1,0 +1,10 @@
+{
+    "color": "Rot",
+    "generation": 1,
+    "height": 0.9,
+    "name": "Karpador",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 10.0
+}

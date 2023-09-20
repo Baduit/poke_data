@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "不僅僅是讀取，\n還獲得了操控波導的能力。\n也會用於戰鬥。",
+        "能察覺到１公里外\n生物的種類和心情。\n操縱波導以群體形式狩獵。",
+        "集中精神後能放出一種\n被稱為波導的奇異波動，\n就連巨大的岩石都能粉碎。",
+        "會用波導來偵測對手的心情。\n就連不想知道的事也會知道，\n所以很容易累積壓力。",
+        "操作一種被稱為波導的力量\n來進行狩獵。這種力量就連\n巨大的岩石也能擊得粉碎。",
+        "牠能理解人類的想法，\n因此只會去親近\n內心端正的訓練家。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "name": "路卡利歐",
+    "types": [
+        "格鬥",
+        "鋼"
+    ],
+    "weight": 54.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es entwickelt sich nur einmal im Leben, wobei es\neine wundersame Perle erzeugt, die Psycho-Kräfte\nverstärkt.",
+        "Es ist durch einen harten Panzer geschützt.\nEinmal im Leben stellt es eine bezaubernde Perle her.",
+        "Perlus kräftige Schale dient nicht nur dem Schutz,\nes nutzt sie auch zum Fangen von Beute. Die Schale eines\nausgewachsenen Perlu weist viele Kerben und Kratzer auf.",
+        "Perlu wächst, während es von seiner steinharten Schale\ngeschützt wird. Wenn sein Körper zu groß für seine Schale\nwird, ist dies ein sicheres Anzeichen dafür, dass dieses\nPokémon kurz vor seiner Entwicklung steht.",
+        "Dieses fleischfressende Pokémon klemmt seine\nBeute mit seiner Schale fest und lässt sie erst\nlos, wenn sie sich nicht mehr rührt.",
+        "Seine Perle ist sehr kostbar. Es heißt, sie sei\nmindestens zehnmal so viel wert wie jene von\nMuschas."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+    "name": "Perlu",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 52.5
+}

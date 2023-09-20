@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 2,
+    "height": 1.4,
+    "name": "레디안",
+    "types": [
+        "벌레",
+        "비행"
+    ],
+    "weight": 35.6
+}

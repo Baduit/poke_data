@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "손바닥에서 나오는 수분을\n빚어서 만든 물구슬로\n두뇌 싸움을 펼친다.",
+        "머리가 좋지만 귀찮음이 많다.\n영역에 적이 다가오지 못하게\n여기저기에 함정을 만들어 놓는다."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
+    "name": "누겔레온",
+    "types": [
+        "물"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Nel corpo conserva una tasca ardente. Prima di\nlottare, la sua temperatura si innalza a 900 °C.",
+        "Nel corpo ha una tasca infuocata. Dopo aver inspirato\nprofondamente, sputa fiamme alla temperatura di\n1700 °C.",
+        "La morbida pelliccia di Flareon ha uno scopo ben preciso:\nlibera calore nell’aria in modo da abbassare la temperatura\ncorporea, che nel caso di questo Pokémon può raggiungere\nanche 900 °C.",
+        "La morbida pelliccia di Flareon ha uno scopo ben preciso:\nlibera calore nell’aria in modo da abbassare la temperatura\ncorporea, che nel caso di questo Pokémon può raggiungere\nanche 900 °C.",
+        "Arrostisce con le sue fiamme le prede che\ncattura e le bacche che raccoglie finché non\nsono ben cotte e poi le mangia.",
+        "La sua temperatura corporea media oscilla tra\ni 700 e gli 800 °C. In una sacca all’interno del\nsuo corpo ardono fiamme a 1.700 °C.",
+        "Quando inspira profondamente significa che\nsi sta preparando all’attacco. Sputa fiamme\nalla temperatura di 1.700 °C.",
+        "Quando si agita si genera del fuoco in una sacca\ninterna e la sua temperatura corporea sale fino\na raggiungere i 900 °C.",
+        "Nel corpo ha una sacca ardente con cui\ntrasforma l’aria che respira in fiamme e le emette\ndalla bocca alla temperatura di 1.700 ºC.",
+        "Nel corpo ha una sacca ardente con cui\ntrasforma l’aria che respira in fiamme e le emette\ndalla bocca alla temperatura di 1.700 ºC.",
+        "Quando immagazzina abbastanza calore,\nla sua temperatura corporea può salire fino\na 900 ºC.",
+        "Parte dell’aria che inala finisce in una sacca\ninterna, dove brucia raggiungendo una\ntemperatura di 1.700 ºC."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "name": "Flareon",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 25.0
+}

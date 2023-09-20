@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Grotichon",
+    "types": [
+        "Feu",
+        "Combat"
+    ],
+    "weight": 55.5
+}

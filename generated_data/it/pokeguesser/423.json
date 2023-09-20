@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Se minacciato da un nemico naturale rilascia un\nliquido viola e se la dà a gambe, per così dire...",
+        "Pare che in passato il suo corpo fosse protetto da\nun enorme carapace. Vive in bacini poco profondi.",
+        "Se minacciato da un nemico naturale rilascia un liquido viola\ne se la dà a gambe, per così dire...",
+        "Pare che in passato il suo corpo fosse protetto da un enorme\ncarapace. Vive in bacini poco profondi.",
+        "Ha notevoli capacità rigenerative: anche se\nviene mangiucchiato dai Pokémon acquatici\npuò tornare come prima nel giro di qualche ora.",
+        "Si nutre principalmente di plancton.\nA volte si sposta sulla terraferma per motivi\nancora sconosciuti.",
+        "In passato era protetto da un carapace di cui\nl’unica traccia rimasta è il disco duro e sottile\nsul suo dorso.",
+        "Il colore e la forma del suo corpo mutano in\nbase all’habitat e all’alimentazione. Ne vivono\ntanti sui litorali rocciosi dove il mare è calmo.",
+        "Può salire sulla terraferma in cerca di cibo.\nQuando si sposta, lascia dietro di sé una scia\ndi bava appiccicosa.",
+        "Il suo corpo molliccio è in grado di assorbire\ni colpi, rendendo questo Pokémon molto\nresistente."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "name": "Gastrodon",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 29.9
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 1,
+    "height": 1.7,
+    "name": "Sarzenia",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 15.5
+}

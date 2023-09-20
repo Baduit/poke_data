@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Adora il nettare dei fiori e riesce a localizzare i campi\nin cui si trova anche una minima quantità di polline.",
+        "Una polvere idrorepellente gli ricopre le ali,\npermettendogli di volare anche sotto la pioggia.",
+        "Butterfree è dotato di abilità molto raffinate per individuare\nil delizioso nettare dei fiori. Riesce a trovare, estrarre\ne trasportare il nettare dai fiori in boccio al nido anche\nper 10 km.",
+        "Butterfree è dotato di abilità molto raffinate per individuare\nil delizioso nettare dei fiori. Riesce a trovare, estrarre\ne trasportare il nettare dai fiori in boccio al nido anche\nper 10 km.",
+        "Osservando da vicino i suoi grandi occhi\nsi nota che in realtà sono composti da una\nmiriade di minuscoli occhietti.",
+        "Quando viene attaccato da altri Pokémon,\nsi difende sbattendo le ali e spargendo intorno\na sé polveri velenose.",
+        "Se vede dei Pokémon alati attaccare Caterpie,\nli scaccia cospargendoli con la velenosissima \npolvere che ricopre le sue ali.",
+        "È ghiotto del nettare dei fiori più belli.\nSi contende i prati in fiore con Cutiefly in furiose\nlotte per il territorio.",
+        "Possiede ali idrorepellenti ricoperte da una\npolvere velenosa. Può volare anche quando\npiove.",
+        "Possiede ali idrorepellenti ricoperte da una\npolvere velenosa. Può volare anche quando\npiove.",
+        "Sbatte le ali a gran velocità per liberare\nle sue polveri tossiche nell’aria.",
+        "Raccoglie nettare tutti i giorni e lo spalma sulla\npeluria che ricopre le sue zampe per trasportarlo\nal nido."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "name": "Butterfree",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 32.0
+}

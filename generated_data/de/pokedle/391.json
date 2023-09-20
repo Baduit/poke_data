@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Panpyro",
+    "types": [
+        "Feuer",
+        "Kampf"
+    ],
+    "weight": 22.0
+}

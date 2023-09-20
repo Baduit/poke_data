@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "마이농과 플러시의 전기는\n혈액의 흐름을 좋게 하여\n근육 결림을 푸는 효과가 있다.",
+        "동료를 응원하는 습성이 있다.\n질 것 같아지면 몸에서 내는\n스파크의 수가 점점 늘어난다.",
+        "자신보다 동료를 응원하는 것이 중요하다.\n몸에서 나오는 전기를 합선시켜\n화려한 불꽃을 내며 응원한다.",
+        "동료를 응원하는 것을 매우 좋아하는 포켓몬이다.\n동료가 질 것 같으면 몸에서 나오는\n불꽃의 수가 점점 늘어난다."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "name": "마이농",
+    "types": [
+        "전기"
+    ],
+    "weight": 4.2
+}

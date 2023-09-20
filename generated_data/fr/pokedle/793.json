@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 7,
+    "height": 1.2,
+    "name": "Zéroïd",
+    "types": [
+        "Roche",
+        "Poison"
+    ],
+    "weight": 55.5
+}

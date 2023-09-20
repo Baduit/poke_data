@@ -1,0 +1,11 @@
+{
+    "color": "褐色",
+    "generation": 1,
+    "height": 0.4,
+    "name": "小拳石",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 20.0
+}

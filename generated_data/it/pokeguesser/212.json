@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Le chele, che contengono acciaio, possono fare a\npezzi qualsiasi oggetto afferrino.",
+        "Ha un corpo duro come l’acciaio. Spaventa i nemici\ncon le chele, su cui sono disegnati degli occhi.",
+        "Il corpo di Scizor è duro come l’acciaio. Gli attacchi\npiù comuni non riescono neanche a scalfirlo. Sbatte le ali\nper regolare la propria temperatura corporea.",
+        "Il corpo di Scizor è duro come l’acciaio. Gli attacchi\npiù comuni non riescono neanche a scalfirlo. Sbatte le ali\nper regolare la propria temperatura corporea.",
+        "Quando lotta, sbatte continuamente le ali per\nregolare la temperatura corporea ed evitare che\nil suo corpo metallico si surriscaldi e fonda.",
+        "Si scaglia implacabile sul nemico, attaccandolo\ncon le sue chele dure come l’acciaio.",
+        "Il suo corpo è duro come l’acciaio. Con le pesanti\ne robuste chele schiaccia facilmente il nemico\nnon appena lo afferra.",
+        "Dopo aver stabilito che qualcuno è suo nemico,\nlo colpisce con le chele dure come l’acciaio fino\na ridurlo in polvere.",
+        "Le grandi chele costituiscono un terzo del suo\npeso corporeo. Agitandole può ridurre in polvere\nuna roccia con un colpo solo.",
+        "Nonostante il corpo esile, è dotato di capacità\noffensive spaventose. Persino i suoi muscoli sono\nformati da metallo."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "name": "Scizor",
+    "types": [
+        "Coleottero",
+        "Acciaio"
+    ],
+    "weight": 118.0
+}

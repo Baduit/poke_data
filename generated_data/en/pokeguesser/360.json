@@ -1,0 +1,31 @@
+{
+    "descriptions": [
+        "WYNAUT can always be seen with a big,\nhappy smile on its face. Look at its tail\nto determine if it is angry.\fWhen angered, this POKéMON will be\nslapping the ground with its tail.",
+        "WYNAUT gather on moonlit nights to play\nby squeezing up against each other.\nBy being squeezed, this POKéMON gains\fendurance and is trained to dole out\npowerful counterattacks.",
+        "A WYNAUT loves to eat sweet fruits.\nIt cleverly picks fruits using its earlike\narms. They gather in fruit gardens, drawn\nby the fragrance.",
+        "It tends to move in a pack with others.\nThey cluster in a tight group to sleep in\na cave.",
+        "It tends to move in a pack with others.\nThey cluster in a tight group to sleep in\na cave.",
+        "It grows strong by pushing up\nagainst others en masse.\nIt loves eating sweet fruit.",
+        "It grows strong by pushing up\nagainst others en masse.\nIt loves eating sweet fruit.",
+        "It grows strong by pushing up\nagainst others en masse.\nIt loves eating sweet fruit.",
+        "It tends to move in a pack.\nIndividuals squash against one\nanother to toughen their spirits.",
+        "It tends to move in a pack.\nIndividuals squash against one\nanother to toughen their spirits.",
+        "It grows strong by pushing up\nagainst others en masse.\nIt loves eating sweet fruit.",
+        "It grows strong by pushing up\nagainst others en masse.\nIt loves eating sweet fruit.",
+        "It grows strong by pushing up\nagainst others en masse.\nIt loves eating sweet fruit.",
+        "It grows strong by pushing up\nagainst others en masse.\nIt loves eating sweet fruit.",
+        "It tends to move in a pack with others. They cluster\nin a tight group to sleep in a cave.",
+        "It grows strong by pushing up against others en\nmasse. It loves eating sweet fruit.",
+        "Wynaut can always be seen with a big, happy smile on its face.\nLook at its tail to determine if it is angry. When angered, this\nPokémon will be slapping the ground with its tail.",
+        "Wynaut gather on moonlit nights to play by squeezing up\nagainst each other. By being squeezed, this Pokémon gains\nendurance and is trained to dole out powerful counterattacks.",
+        "It tends to move in a pack. Individuals squash\nagainst one another to toughen their spirits.",
+        "It tends to move in a pack with others.\nThey cluster in a tight group to sleep in a cave."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "name": "Wynaut",
+    "types": [
+        "Psychic"
+    ],
+    "weight": 14.0
+}

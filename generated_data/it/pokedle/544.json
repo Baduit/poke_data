@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Whirlipede",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 58.5
+}

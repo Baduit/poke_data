@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Un Pokémon che corre in lungo e in largo. Si dice\nche nasca ogni volta che si forma un nuovo vulcano.",
+        "Si dice che quando emette il suo verso, da qualche\nparte nel mondo un vulcano stia eruttando.",
+        "Entei rappresenta l’ardore del magma. Si narra che questo\nPokémon sia nato dall’eruzione di un vulcano. Emette lingue\ndi fuoco così violente da incenerire tutto ciò che lambiscono.",
+        "Entei rappresenta l’ardore del magma. Si narra che questo\nPokémon sia nato dall’eruzione di un vulcano. Emette lingue\ndi fuoco così violente da incenerire tutto ciò che lambiscono."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "name": "Entei",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 198.0
+}

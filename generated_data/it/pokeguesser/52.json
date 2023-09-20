@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "È un Pokémon attivo di notte. Se nota qualcosa\ndi luccicante, i suoi occhi cominciano a brillare.",
+        "Ama gli oggetti rotondi. Di notte vaga per le vie\nin cerca di monetine perdute.",
+        "Meowth ritira i suoi artigli affilati all’interno delle zampe\nper poter aggirarsi furtivo camuffando le tracce.\nPer qualche oscura ragione questo Pokémon è attratto\ndalle monetine che splendono alla luce.",
+        "Meowth ritira i suoi artigli affilati all’interno delle zampe\nper poter aggirarsi furtivo camuffando le tracce.\nPer qualche oscura ragione questo Pokémon è attratto\ndalle monetine che splendono alla luce.",
+        "Dorme tutto il giorno e si attiva verso\nil tramonto. Durante la notte gira per la città\nin cerca di monetine.",
+        "Ama gli oggetti luccicanti.\nSpesso se li contende con Murkrow.",
+        "Nelle discariche capita di vederlo lottare\nfuriosamente con Murkrow per gli oggetti\nluccicanti.",
+        "Adora le monetine. Basta dargliene un po’\nperché si affezioni, ma a causa del suo\ncarattere volubile non è affidabile.",
+        "Pare che sia più attivo durante la notte. Ama\ngli oggetti lucenti e rotondi, e quando ne vede\nnon può fare a meno di raccoglierli.",
+        "Pare che sia più attivo durante la notte. Ama\ngli oggetti lucenti e rotondi, e quando ne vede\nnon può fare a meno di raccoglierli.",
+        "Ama raccogliere oggetti luccicanti.\nQuando è di buon umore mostra la sua\ncollezione anche al suo Allenatore.",
+        "Si lava regolarmente il muso per tenere pulita\nla moneta sulla fronte. Non va d’accordo con\nil Meowth di Galar."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "name": "Meowth",
+    "types": [
+        "Normale"
+    ],
+    "weight": 4.2
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Abate a enemigos voladores disparando agua a presión\ncon su enorme pinza como si de una pistola se tratara.",
+        "Al explotar el gas que se halla en su interior, expulsa\nun chorro de agua cual pistola, que a bocajarro es\nincluso capaz de pulverizar rocas.",
+        "Abate a enemigos voladores disparando agua a presión con\nsu enorme pinza como si de una pistola se tratara.",
+        "Al explotar el gas que se halla en su interior, expulsa un\nchorro de agua cual pistola, que a bocajarro es incluso capaz\nde pulverizar rocas.",
+        "En alguna que otra ocasión se le cae la pinza,\ny hasta que le crece de nuevo vive aislado. La\ncarne del interior de las pinzas es deliciosa.",
+        "Para moverse, expulsa chorros de agua por su\npinza derecha. Tiene muy mal equilibrio, por lo\nque es incapaz de nadar en línea recta.",
+        "Aunque pierda una pinza en combate, volverá\na crecerle. La carne del interior de sus pinzas es\nconsiderada un auténtico manjar en Galar.",
+        "Acalla a sus enemigos con balas de agua que\ndispara haciendo explotar el gas de su pinza\nderecha."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "name": "Clauncher",
+    "types": [
+        "Agua"
+    ],
+    "weight": 8.3
+}

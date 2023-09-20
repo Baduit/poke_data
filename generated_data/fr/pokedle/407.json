@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Roserade",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 14.5
+}

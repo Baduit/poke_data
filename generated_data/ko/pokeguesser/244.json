@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "새로운 화산이 생길 때마다\n태어난다고 전해지는\n대지를 달리는 포켓몬이다.",
+        "앤테이가 울부짖으면\n세계 어딘가의 화산이\n분화한다고 전해진다.",
+        "마그마의 정열이 깃들어 있는 포켓몬이다.\n화산 분화 속에서 태어났다고 여겨지며\n모든 것을 태워버리는 불꽃을 뿜어 올린다.",
+        "마그마의 정열이 깃들어 있는 포켓몬이다.\n화산 분화 속에서 태어났다고 여겨지며\n모든 것을 태워버리는 불꽃을 뿜어 올린다."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "name": "앤테이",
+    "types": [
+        "불꽃"
+    ],
+    "weight": 198.0
+}

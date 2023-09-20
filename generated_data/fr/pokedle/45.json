@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 1,
+    "height": 1.2,
+    "name": "Rafflesia",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 18.6
+}

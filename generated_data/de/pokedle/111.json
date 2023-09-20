@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Rihorn",
+    "types": [
+        "Boden",
+        "Gestein"
+    ],
+    "weight": 115.0
+}

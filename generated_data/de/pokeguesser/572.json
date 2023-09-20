@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sie begrüßen einander, indem sie ihr Gegenüber\nmithilfe ihres Schweifs säubern.",
+        "Ein Pokémon mit Putzfimmel. Es benutzt seinen\nSchweif als Staubwedel und fegt seinen Bau,\nbis alles picobello ist.",
+        "Sie begrüßen einander, indem sie ihr Gegenüber mithilfe ihres\nSchweifs säubern.",
+        "Ein Pokémon mit Putzfimmel. Es benutzt seinen Schweif als\nStaubwedel und fegt seinen Bau, bis alles picobello ist.",
+        "Es hat einen Putzfimmel und duldet selbst das\nkleinste Staubkorn nicht. Seinen Schweif benutzt\nes als Mopp, mit dem es alles picobello putzt.",
+        "Wird sein Schweif beim Putzen seines Baus oder\nKörpers schmutzig, verbringt es einen ganzen\nTag damit, ihn mit klarem Wasser zu reinigen.",
+        "Es entfernt Schmutz mit seinem Schweif. Beim\nHausputz ist es eine große Hilfe, aber sein\nPutzfimmel kann auch anstrengend werden.",
+        "Sie begrüßen sich, indem sie sich gegenseitig mit\nihren Schweifen streicheln. Das Picochilla mit\ndem buschigeren Schweif gibt damit oft an."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "name": "Picochilla",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.8
+}

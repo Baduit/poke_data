@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Este Pokémon resulta muy precavido. Si siente peligro,\nescapa corriendo a grandes saltos.",
+        "Sus orejas son muy delicadas. Si alguien las toca con\nbrusquedad, recibirá una espléndida patada.",
+        "Este Pokémon resulta muy precavido. Si siente peligro,\nescapa corriendo a grandes saltos.",
+        "Sus orejas son muy delicadas. Si alguien las toca con\nbrusquedad, recibirá una espléndida patada.",
+        "Muda el pelo dos veces al año. Este se usa\nen la confección de unos gorros y bufandas\nque abrigan mucho.",
+        "Es cauteloso y nada amante de los combates,\npero puede propinar potentes patadas si la\nsituación lo requiere.",
+        "Está siempre atento a lo que ocurre a su\nalrededor. Si advierte peligro, se defenderá\ncon patadas de potencia devastadora.",
+        "Cuando acaba la estación más tórrida, le crece\nun nuevo pelaje muy mullido que lo prepara para\nel frío."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "name": "Lopunny",
+    "types": [
+        "Normal"
+    ],
+    "weight": 33.3
+}

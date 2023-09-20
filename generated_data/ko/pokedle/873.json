@@ -1,0 +1,11 @@
+{
+    "color": "하양",
+    "generation": 8,
+    "height": 1.3,
+    "name": "모스노우",
+    "types": [
+        "얼음",
+        "벌레"
+    ],
+    "weight": 42.0
+}

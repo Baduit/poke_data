@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 2,
+    "height": 0.8,
+    "name": "Magcargo",
+    "types": [
+        "Fire",
+        "Rock"
+    ],
+    "weight": 55.0
+}

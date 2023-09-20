@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "평소에는 느긋하게 움직이지만\n먹이를 물 때에는 눈에 보이지\n않는 엄청난 스피드를 낸다.",
+        "크고 힘센 턱으로\n한번 물면 그대로 목을 흔들어\n상대를 갈기갈기 찢는다.",
+        "큰 입을 열고 상대를 위협한다.\n강인한 뒷다리로 땅을 차고\n굉장한 스피드로 돌진해온다.",
+        "큰 입을 열고 상대를 위협한다.\n강인한 뒷다리로 땅을 차고\n굉장한 스피드로 돌진해온다."
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+    "name": "장크로다일",
+    "types": [
+        "물"
+    ],
+    "weight": 88.8
+}

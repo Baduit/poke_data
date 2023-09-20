@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在鎖定了目標之後，\n會用比消防車的水龍\n更強的力道來射出水柱。",
+        "在鎖定了目標之後，\n會用比消防車的水龍\n更強的力道來射出水柱。",
+        "會用重量驚人的身體\n壓住對手使其昏厥。\n遇到危險時會躲進殼裡。",
+        "從甲殼上的大炮裡\n放出的噴射水流\n足以貫穿厚實的鐵板。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "name": "水箭龜",
+    "types": [
+        "水"
+    ],
+    "weight": 85.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Violet",
+    "generation": 7,
+    "height": 0.2,
+    "name": "Spododo",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 1.5
+}

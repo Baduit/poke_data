@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 7,
+    "height": 1.3,
+    "name": "Palossand",
+    "types": [
+        "Fantasma",
+        "Tierra"
+    ],
+    "weight": 250.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "La sua forza e velocità sono praticamente nulle.\nSi può tranquillamente definire il più debole e patetico\nPokémon del mondo.",
+        "Anticamente era molto più forte dell’odierno\ndiscendente, che è debolissimo.",
+        "Magikarp è un patetico esempio di Pokémon capace soltanto\ndi dimenarsi e sguazzare. La natura di questo comportamento\ninutile è oggetto di studi da parte del mondo scientifico.",
+        "Nella lotta Magikarp è inutile, poiché può solo sguazzare.\nInfatti è considerato debole. In realtà si tratta di un Pokémon\nmolto robusto che sopravvive in tutte le acque, anche le più\ninquinate.",
+        "È debole e indifeso, ma è particolarmente\nprolifico. Se ne vedono talmente tanti in giro\nche vengono a noia.",
+        "Non fa che sguazzare senza cautela. Questa\nabitudine lo rende una facile preda e garantisce\nla sopravvivenza di molti altri Pokémon.",
+        "Anticamente Magikarp era piuttosto forte, ma\ncol tempo è diventato sempre più debole.",
+        "È molto resistente e può sopravvivere anche\nnelle acque più sporche. Se ne trovano nelle\nacque di tutto il mondo.",
+        "È famoso per la sua debolezza. Lo si vede\ncomunemente nuotare nel mare, nei fiumi,\nnei laghi e in qualsiasi altra pozza d’acqua.",
+        "È famoso per la sua debolezza. Lo si vede\ncomunemente nuotare nel mare, nei fiumi,\nnei laghi e in qualsiasi altra pozza d’acqua.",
+        "La sua forza e velocità sono praticamente nulle.\nSi può tranquillamente definire il più debole e\npatetico Pokémon del mondo.",
+        "Un Pokémon debole e patetico: non fa che\nlasciarsi trascinare dove lo porta la corrente."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "name": "Magikarp",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 10.0
+}

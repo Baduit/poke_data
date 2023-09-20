@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "世話を　焼かれる　ことが　大嫌い。\nトレーナーの　指示を　聞かないので\n仲良く　なるのが　難しい。",
+        "プライドが　高く　人から\n食べ物を　もらう　ことを　嫌う。\n長い　産毛が　寒さを　防ぐ。",
+        "世話を　焼かれる　ことが　大嫌い。\nトレーナーの　指示を　聞かないので\n仲良く　なるのが　難しい。",
+        "プライドが　高く　人から\n食べ物を　もらう　ことを　嫌う。\n長い　産毛が　寒さを　防ぐ。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "name": "ポッチャマ",
+    "types": [
+        "みず"
+    ],
+    "weight": 5.2
+}

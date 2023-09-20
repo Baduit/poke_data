@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Su excelente capacidad motriz y la fuerza de su\nmandíbula lo hacían antaño invencible, pero dar\ncaza a todas sus presas propició su extinción.",
+        "Exhibe con orgullo su inmensa capacidad motriz,\nque le permite superar los 60 km/h, pero solo\npuede respirar bajo el agua."
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "name": "Dracovish",
+    "types": [
+        "Agua",
+        "Dragón"
+    ],
+    "weight": 215.0
+}

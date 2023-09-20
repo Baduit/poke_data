@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "El lodo que segrega por la boca se vuelve\nimpermeable al secarse, por lo que solía usarse\ncomo capa aislante en las paredes de las casas.",
+        "Su especialidad son los ataques a base de\npatadas con lodo endurecido, con las que puede\nreducir a chatarra un camión de gran tamaño.",
+        "No se inmuta por nada. Mastica tierra y la\nmezcla con su saliva para crear un lodo singular.",
+        "Aguanta tres días y tres noches portando\ncargas de diez toneladas por caminos de\nmontaña sin un solo descanso.",
+        "Cuando el lodo que recubre sus patas se seca,\nestas se vuelven más duras que una roca. Puede\nreducir a chatarra un camión con una sola coz.",
+        "Su resistencia le permitiría recorrer Galar de\npunta a punta sin un solo descanso portando\ncargas de más de diez toneladas."
+    ],
+    "height": 2.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "name": "Mudsdale",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 920.0
+}

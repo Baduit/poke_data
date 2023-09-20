@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 2,
+    "height": 1.4,
+    "name": "Hundemon",
+    "types": [
+        "Unlicht",
+        "Feuer"
+    ],
+    "weight": 35.0
+}

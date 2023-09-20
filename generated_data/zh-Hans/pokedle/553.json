@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 5,
+    "height": 1.5,
+    "name": "流氓鳄",
+    "types": [
+        "地面",
+        "恶"
+    ],
+    "weight": 96.3
+}

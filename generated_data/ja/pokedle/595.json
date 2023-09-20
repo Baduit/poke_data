@@ -1,0 +1,11 @@
+{
+    "color": "黄色",
+    "generation": 5,
+    "height": 0.1,
+    "name": "バチュル",
+    "types": [
+        "むし",
+        "でんき"
+    ],
+    "weight": 0.6
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "是所有鸟宝可梦的祖先。\n始祖小鸟本身还不会飞，\n在树上跳着移动。",
+        "似乎不会飞行，\n但听说会从高高的树上\n滑翔捕捉猎物。",
+        "被认为是所有鸟宝可梦的祖先，\n但最近的研究里也有说法\n认为这个是错误的。",
+        "从化石复原而来。\n有翅膀，但还不会飞。\n是古代的鸟宝可梦。",
+        "从化石中成功复原。\n正如研究所说，它虽然不会飞，\n但却是擅长跳跃的宝可梦。",
+        "被称为鸟宝可梦的祖先。\n栖息在树上，以树果和\n虫宝可梦为食。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "name": "始祖小鸟",
+    "types": [
+        "岩石",
+        "飞行"
+    ],
+    "weight": 9.5
+}

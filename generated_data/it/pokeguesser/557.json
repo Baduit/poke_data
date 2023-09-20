@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Scava un buco in una pietra adatta per farne la sua\ndimora. Se si rompe, non si dà pace finché non ne\ntrova un’altra.",
+        "Quando trova una pietra della sua misura crea un\nbuco con il liquido che secerne dalla bocca e ci si\ninfila dentro.",
+        "Scava un buco in una pietra adatta per farne la sua dimora.\nSe si rompe, non si dà pace finché non ne trova un’altra.",
+        "Quando trova una pietra della sua misura crea un buco con il\nliquido che secerne dalla bocca e ci si infila dentro.",
+        "Scava un buco in una piccola pietra di suo\ngradimento per farne la sua dimora. È il nemico\nnaturale di Roggenrola e di Rolycoly.",
+        "A volte, quando non riesce a trovare una pietra\nadatta, usa come sua dimora i pori\ndi Hippowdon."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "name": "Dwebble",
+    "types": [
+        "Coleottero",
+        "Roccia"
+    ],
+    "weight": 14.5
+}

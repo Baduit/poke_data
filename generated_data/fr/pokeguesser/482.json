@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Quand il prit son envol, les hommes\nacquirent la détermination.\nLa volonté était née.",
+        "Quand il prit son envol, les hommes\nacquirent la détermination.\nLa volonté était née.",
+        "On l’appelle « être de la volonté ». Il dort au fond\nd’un lac pour maintenir l’équilibre du monde.",
+        "On raconte que Créhelf, Créfollet et Créfadet\nproviennent du même Œuf.",
+        "On l’appelle « être de la volonté ». Il dort au fond d’un lac\npour maintenir l’équilibre du monde.",
+        "On raconte que Créhelf, Créfollet et Créfadet proviennent\ndu même Œuf."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+    "name": "Créfadet",
+    "types": [
+        "Psy"
+    ],
+    "weight": 0.3
+}

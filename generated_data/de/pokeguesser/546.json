@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Wird es angegriffen, verstreut es zur Täuschung\nWatte. Es flieht, während der Gegner nach dem\nwahren Waumboll sucht.",
+        "Sind sie mit Freunden unterwegs, hängen sie eng\naufeinander wie Wolken, wohl weil sie sich in der\nGruppe sicherer fühlen.",
+        "Wird es angegriffen, verstreut es zur Täuschung Watte.\nEs flieht, während der Gegner nach dem wahren Waumboll\nsucht.",
+        "Sind sie mit Freunden unterwegs, hängen sie eng aufeinander\nwie Wolken, wohl weil sie sich in der Gruppe sicherer fühlen.",
+        "Begegnen sie Freunden, hängen sie eng\naufeinander. Wenn sich zu viele versammeln,\nsehen sie aus wie eine Gewitterwolke.",
+        "Kissen und Bettdecken, die mit Watte von\nWaumboll gefüllt sind, gelten als Artikel von\nhoher Qualität, da sie leicht und luftig sind.",
+        "Es schützt sich, indem es Watte verstreut.\nWird es Regen ausgesetzt, saugt es sich voll\nund wird zu schwer, um sich zu bewegen.",
+        "Wird es angegriffen, verstreut es zur Täuschung\nWatte, die es von seinem Körper nimmt. Die\nverbrauchte Watte wächst sofort wieder nach.",
+        "Sie schützen sich, indem sie Watte verstreuen.\nManche werden vom Wind bis ans andere Ende\nder Welt getragen.",
+        "Luxusmarken verwenden oft feine Stoffe, die aus\nMischwolle von Waumboll und Cottomi\nbestehen, für ihre Produkte."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "name": "Waumboll",
+    "types": [
+        "Pflanze",
+        "Fee"
+    ],
+    "weight": 0.6
+}

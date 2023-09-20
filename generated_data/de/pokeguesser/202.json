@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es hasst Licht und Schläge. Wird es angegriffen,\npumpt es sich auf, um einen Gegenschlag\nvorzubereiten.",
+        "Es lebt in der Dunkelheit, um seinen schwarzen\nSchweif zu verstecken. Es greift nie zuerst an.",
+        "Wenn zwei oder mehr Woingenau aufeinandertreffen,\nversuchen sie, gegenseitig ihre Geduld zu übertreffen.\nSie möchten herausfinden, welches Pokémon es am längsten\nohne Nahrung aushält. Darauf müssen Trainer achten.",
+        "Woingenau tut nichts anderes als Angriffe auszuhalten.\nVon sich aus würde es nie angreifen. Eine Attacke auf\nseinen Schweif würde es allerdings niemals dulden.\nWenn das passiert, setzt es Abgangsbund ein.",
+        "Es hasst Licht und Schocks. Wird es angegriffen,\npumpt es sich auf, um einen Gegenschlag\nvorzubereiten.",
+        "Es lebt in der Dunkelheit, um seinen schwarzen\nSchweif zu verstecken. Es greift nie zuerst an."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "name": "Woingenau",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 28.5
+}

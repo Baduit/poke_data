@@ -1,0 +1,38 @@
+{
+    "descriptions": [
+        "Very protective\nof its sprawling\nterritorial area,\fthis POKéMON will\nfiercely peck at\nany intruder.",
+        "Very protective\nof its sprawling\nterritorial area,\fthis POKéMON will\nfiercely peck at\nany intruder.",
+        "This POKéMON is\nfull of vitality.\nIt constantly\fflies around its\nlarge territory in\nsearch of prey.",
+        "It has outstanding\nvision. However\nhigh it flies, it\fis able to distin­\nguish the move­\nments of its prey.",
+        "It immobilizes its\nprey using well-\ndeveloped claws,\fthen carries the\nprey more than 60\nmiles to its nest.",
+        "It slowly flies in\na circular pat­\ntern, all the\fwhile keeping a\nsharp lookout for\nprey.",
+        "PIDGEOTTO claims a large area as its\nown territory. This POKéMON flies\naround, patrolling its living space.\fIf its territory is violated, it shows\nno mercy in thoroughly punishing the\nfoe with its sharp claws.",
+        "PIDGEOTTO claims a large area as its\nown territory. This POKéMON flies\naround, patrolling its living space.\fIf its territory is violated, it shows\nno mercy in thoroughly punishing the\nfoe with its sharp claws.",
+        "This POKéMON flies around, patrolling its\nlarge territory. If its living space is\nviolated, it shows no mercy in thoroughly\npunishing the foe with its sharp claws.",
+        "The claws on its feet are well developed.\nIt can carry prey such as an EXEGGCUTE\nto its nest over 60 miles away.",
+        "Very protective of its sprawling\nterritorial area, this POKéMON will\nfiercely peck at any intruder.",
+        "It flies over its wide territory in\nsearch of prey, downing it\nwith its highly developed claws.",
+        "It flies over its wide territory in\nsearch of prey, downing it\nwith its highly developed claws.",
+        "It flies over its wide territory in\nsearch of prey, downing it\nwith its highly developed claws.",
+        "It has outstanding vision. However\nhigh it flies, it is able to distinguish\nthe movements of its prey.",
+        "It renders its prey immobile using \nwell-developed claws, then carries the\nprey more than 60 miles to its nest.",
+        "It flies over its wide territory in\nsearch of prey, downing it\nwith its highly developed claws.",
+        "It flies over its wide territory in\nsearch of prey, downing it\nwith its highly developed claws.",
+        "It flies over its wide territory in\nsearch of prey, downing it\nwith its highly developed claws.",
+        "It flies over its wide territory in\nsearch of prey, downing it\nwith its highly developed claws.",
+        "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
+        "Very protective of its sprawling territorial area,\nthis Pokémon will fiercely peck at any intruder.",
+        "Pidgeotto claims a large area as its own territory.\nThis Pokémon flies around, patrolling its living space.\nIf its territory is violated, it shows no mercy in thoroughly\npunishing the foe with its sharp claws.",
+        "Pidgeotto claims a large area as its own territory. This\nPokémon flies around, patrolling its living space. If its territory\nis violated, it shows no mercy in thoroughly punishing the foe\nwith its sharp claws.",
+        "This Pokémon is full of vitality. It constantly flies\naround its large territory in search of prey.",
+        "This Pokémon is full of vitality. It constantly flies\naround its large territory in search of prey."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "name": "Pidgeotto",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 7,
+    "height": 2.0,
+    "name": "Golisopod",
+    "types": [
+        "Coleottero",
+        "Acqua"
+    ],
+    "weight": 108.0
+}

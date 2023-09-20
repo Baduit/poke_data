@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Duodino",
+    "types": [
+        "Unlicht",
+        "Drache"
+    ],
+    "weight": 50.0
+}

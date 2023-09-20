@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Pignite",
+    "types": [
+        "Fuoco",
+        "Lotta"
+    ],
+    "weight": 55.5
+}

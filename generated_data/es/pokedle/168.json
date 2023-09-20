@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 2,
+    "height": 1.1,
+    "name": "Ariados",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 33.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Si dice che accolga gli spiriti smarriti nel suo corpo\nflessibile per riportarli a casa.",
+        "Capta con l’antenna onde che arrivano dal mondo\ndegli spiriti, che gli ordinano di portare lì le persone.",
+        "Si dice che accolga gli spiriti smarriti nel suo corpo flessibile\nper riportarli a casa.",
+        "Capta con l’antenna onde che arrivano dal mondo degli spiriti,\nche gli ordinano di portare lì le persone.",
+        "Non si sa se abbia una volontà propria. Segue le\nonde che provengono dal mondo degli spiriti e\nvi conduce persone e Pokémon.",
+        "Divora la preda in un boccone con la bocca che\nha sulla pancia, si nutre del suo spirito e ne sputa\nfuori il corpo."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "name": "Dusknoir",
+    "types": [
+        "Spettro"
+    ],
+    "weight": 106.6
+}

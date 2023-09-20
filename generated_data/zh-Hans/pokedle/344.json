@@ -1,0 +1,11 @@
+{
+    "color": "黑色",
+    "generation": 3,
+    "height": 1.5,
+    "name": "念力土偶",
+    "types": [
+        "地面",
+        "超能力"
+    ],
+    "weight": 108.0
+}

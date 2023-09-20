@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "I Torkoal eleggono a propria dimora miniere di carbone\nabbandonate e vi scavano carbone con ardore.",
+        "Genera energia bruciando carbone all’interno della\ncorazza. Se è in pericolo, emette fuliggine scura.",
+        "Torkoal scava in montagna in cerca di carbone. Quando\nlo trova, lo usa per riempire la cavità della propria corazza\ne poi lo brucia. In caso di aggressione, emette nubi di\nfumo nero per poi battere in ritirata.",
+        "Torkoal genera energia bruciando il carbone. Si indebolisce\ncon l’affievolirsi del fuoco. In preparazione alle lotte\nil Pokémon brucia maggiori quantità di carbone.",
+        "Genera energia bruciando carbone all’interno\ndella corazza. Le montagne in cui vive sono\nricche di questo materiale.",
+        "Se il fuoco che brucia dentro la sua corazza si\nestingue, le sue energie vitali si esauriscono.\nSe tenuto in casa, dà spesso fuoco agli oggetti.",
+        "Il fumo che fuoriesce dalla sua corazza permette\ndi capire il suo stato di salute. Quando i getti\nsono vigorosi, significa che sta bene.",
+        "Genera energia bruciando carbone e quando lo\nesaurisce non riesce più a muoversi.",
+        "Genera energia bruciando carbone all’interno\ndella corazza. Se è in pericolo, emette fuliggine\nscura.",
+        "Elegge a propria dimora miniere abbandonate,\ndove cerca carbone scavando con ardore."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "name": "Torkoal",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 80.4
+}

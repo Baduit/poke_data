@@ -1,0 +1,11 @@
+{
+    "color": "青色",
+    "generation": 3,
+    "height": 0.8,
+    "name": "タマザラシ",
+    "types": [
+        "こおり",
+        "みず"
+    ],
+    "weight": 39.5
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es reibt sein Gesicht an Baumstämmen, um es zu\npolieren. Es ist leicht, es von hinten anzugreifen.",
+        "Das Fossil, aus dem es entstand, wurde aus einer\n100 Millionen Jahre alten Gesteinsschicht geborgen.",
+        "Es reibt sein Gesicht an Baumstämmen, um es zu polieren.\nEs ist leicht, es von hinten anzugreifen.",
+        "Das Fossil, aus dem es entstand, wurde aus einer\n100 Millionen Jahre alten Gesteinsschicht geborgen.",
+        "Es wurden viele Fossilien dieses Pokémon\ngefunden und nur bei sehr wenigen war\ndas Gesicht beschädigt oder fehlte ganz.",
+        "Man nimmt an, dass es dank seines\ngepanzerten Gesichts kaum Feinde hatte.\nEs lebte vor Urzeiten im Dschungel.",
+        "Ein friedliches, pflanzenfressendes Pokémon.\nMit seiner harten Gesichtshaut wühlte es im\nBoden und fraß Baumwurzeln.",
+        "Man findet zwar in uralten Erdschichten\nFossilien dieses Pokémon, aber meist handelt\nes sich dabei nur um Teile des Gesichts."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "name": "Schilterus",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 57.0
+}

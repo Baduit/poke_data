@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Vive allí donde haya comida disponible. Busca todo\nel día, sin descanso, algo comestible.",
+        "Tiene unos largos y afilados colmillos que no dejan de\ncrecer. Le resultan muy útiles para destruir cosas.",
+        "Rattata es cauto como él solo. Hasta cuando duerme mueve\nlas orejas para oír todos los ruidos. No es nada delicado a\nla hora de elegir su hábitat. Cualquier sitio es bueno para\ncavar su madriguera.",
+        "Rattata es cauto como él solo. Hasta cuando duerme mueve\nlas orejas para oír todos los ruidos. No es nada delicado a\nla hora de elegir su hábitat. Cualquier sitio es bueno para\ncavar su madriguera.",
+        "Debe cuidar regularmente sus incisivos, pues\nestos siguen creciendo hasta que muere. Si no\ntiene nada con qué afilarlos, suele roer pilares.",
+        "Su gran resistencia le permite vivir en los\nlugares más insalubres. Su población puede\ncrecer rápidamente.",
+        "Sus incisivos crecen durante toda su vida. Si\naumentan demasiado de tamaño, no puede\nalimentarse y muere de inanición.",
+        "Un Pokémon muy extendido con el que conviene\ntener cuidado ya que sus afilados incisivos son\ncapaces de roer maderas nobles sin problema.",
+        "Es propenso a hincar los incisivos en cualquier\ncosa que se le ponga por delante. Si se ve\nalguno, seguramente haya cuarenta cerca.",
+        "Es propenso a hincar los incisivos en cualquier\ncosa que se le ponga por delante. Si se ve\nalguno, seguramente haya cuarenta cerca."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "name": "Rattata",
+    "types": [
+        "Normal"
+    ],
+    "weight": 3.5
+}

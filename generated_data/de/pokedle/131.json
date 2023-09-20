@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 2.5,
+    "name": "Lapras",
+    "types": [
+        "Wasser",
+        "Eis"
+    ],
+    "weight": 220.0
+}

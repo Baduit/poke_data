@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Serra l’avversario con l’arto sinistro e gli dà il colpo\ndi grazia esalando dalla bocca un fetido gas velenoso.",
+        "Assorbe la spazzatura nel suo corpo per creare dei\nliquidi velenosi e dei gas tossici sempre nuovi.",
+        "Serra l’avversario con l’arto sinistro e gli dà il colpo di grazia\nesalando dalla bocca un fetido gas velenoso.",
+        "Assorbe la spazzatura nel suo corpo per creare dei liquidi\nvelenosi e dei gas tossici sempre nuovi.",
+        "Dall’arto destro spruzza un veleno altamente\nnocivo. Basta toccarlo per essere contaminati\nda tossine sconosciute.",
+        "Un tempo questi Pokémon erano molto diffusi\nad Alola, ma il loro numero è notevolmente\ndiminuito con l’arrivo dei Grimer.",
+        "Blocca il nemico con l’arto sinistro e\nne cosparge il corpo con un liquido\nvelenoso per immobilizzarlo.",
+        "I Garbodor che vivono ad Alola sono più robusti\ndel normale per difendersi dai Muk, i loro nemici\nnaturali.",
+        "Mangia spazzatura e la trasforma in un veleno\nla cui composizione cambia a seconda di cosa\nha ingurgitato.",
+        "Il veleno che spruzza dall’arto destro è talmente\ntossico da risultare istantaneamente letale\nper le creature già debilitate."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "name": "Garbodor",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 107.3
+}

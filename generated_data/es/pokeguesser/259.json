@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sus piernas robustas impiden que pierda el equilibrio y\ncaiga, incluso en el barro. Duerme bajo la arena.",
+        "Vive en el lodo, lo que contribuye a que sus piernas\nsean extremadamente robustas.",
+        "El cuerpo de Marshtomp está cubierto por una fina película\npegajosa gracias a la cual puede vivir en tierra. Cuando la\nmarea está baja, a este Pokémon le encanta jugar en el fango.",
+        "Marshtomp se desplaza más rápido por el lodo que por el\nagua. Los cuartos traseros de este Pokémon muestran un\ndesarrollo más que evidente, lo que le permite andar solo\nsobre las patas traseras."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "name": "Marshtomp",
+    "types": [
+        "Agua",
+        "Tierra"
+    ],
+    "weight": 28.0
+}

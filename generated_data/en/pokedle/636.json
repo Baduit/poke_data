@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 5,
+    "height": 1.1,
+    "name": "Larvesta",
+    "types": [
+        "Bug",
+        "Fire"
+    ],
+    "weight": 28.8
+}

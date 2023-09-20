@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il peut sortir de l’eau à la force de ses\nbras pour attraper des proies sur la\nrive. Il retourne à l’eau en un instant.",
+        "Il s’attache à ses proies avec sa\nbouche-ventouse et les électrocute\navec ses crocs.",
+        "Il s’attache à ses proies avec sa bouche-ventouse et\nles électrocute avec ses crocs.",
+        "Il peut sortir de l’eau à la force de ses bras pour\nattraper des proies sur la rive. Il retourne à l’eau\nen un instant.",
+        "Il s’attache à ses proies avec sa bouche-ventouse et\nles électrocute avec ses crocs.",
+        "Il peut sortir de l’eau à la force de ses bras pour attraper\ndes proies sur la rive. Il retourne à l’eau en un instant."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "name": "Ohmassacre",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 80.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Swablu",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 1.2
+}

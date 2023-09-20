@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Aron",
+    "types": [
+        "Acciaio",
+        "Roccia"
+    ],
+    "weight": 60.0
+}

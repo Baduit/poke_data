@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 4,
+    "height": 1.2,
+    "name": "자포코일",
+    "types": [
+        "전기",
+        "강철"
+    ],
+    "weight": 180.0
+}

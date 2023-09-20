@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "因怪力而為人所知，\n但上了年紀後就會放棄戰鬥，\n轉而負責訓練幕下力士。",
+        "擁有一巴掌就能把貨車\n打飛的怪力，\n最喜歡和對手比力氣。",
+        "雖然喜歡和對手比力氣，\n但心地善良且注重禮儀，\n會慰勞與自己對戰的對手。",
+        "體型壯碩的鐵掌力士未必就很強。\n也有體型雖小，但身輕如燕\n且技巧高超的鐵掌力士存在。"
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "name": "鐵掌力士",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 253.8
+}

@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Son puissant battement d’ailes\nprovoque des tempêtes de sable.\nOn l’appelle “esprit du désert”.",
+        "Son puissant battement d’ailes\nprovoque des tempêtes de sable.\nOn l’appelle “esprit du désert”.",
+        "Il se cache du regard des autres en soulevant le sable\ndu désert avec ses ailes. Une fine peau rouge protège\nses yeux du sable.",
+        "On l’appelle « esprit du désert ». Son puissant\nbattement d’ailes provoque des tempêtes de sable\nqui le dissimulent.",
+        "Libégon est surnommé « l’esprit élémentaire du désert ».\nLe battement de ses ailes soulève des nuages de sable.\nC’est pourquoi ce Pokémon est toujours entouré\nd’une tempête de sable quand il vole.",
+        "Libégon peut déclencher une tempête de sable en battant\ndes ailes. Les ailes créent une suite de notes ressemblant\nà une mélodie. Comme cette « mélodie » est le seul son\naudible, on appelle ce Pokémon l’esprit du désert.",
+        "Le bruissement de ses ailes est très mélodieux.\nLes malheureux envoûtés par ce chant se\nretrouvent prisonniers de sa tempête de sable.",
+        "Comme il est souvent caché au cœur des\ntempêtes de sable qu’il déclenche, ce Pokémon\nn’est que rarement aperçu par l’homme.",
+        "D’un battement d’ailes, il provoque des\ntempêtes qui engloutissent les Crocorible.\nIl partage ses proies avec ses congénères.",
+        "Il n’est pas rare que des gens se perdent dans\nle désert après avoir succombé au charme\ndu son mélodieux qu’il émet avec ses ailes.",
+        "Comme il est souvent caché au cœur des\ntempêtes de sable qu’il déclenche, ce Pokémon\nn’est que rarement aperçu par l’Homme.",
+        "On l’appelle « l’esprit du désert », car ses\nbattements d’ailes résonnent comme une mélodie\nentonnée par une voix douce."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "name": "Libégon",
+    "types": [
+        "Sol",
+        "Dragon"
+    ],
+    "weight": 82.0
+}

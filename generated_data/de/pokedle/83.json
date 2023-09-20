@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 0.8,
+    "name": "Porenta",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 15.0
+}

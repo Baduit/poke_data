@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sie treffen sich an stinkenden Orten, an denen der\nSchleim sich türmt. Dies merkt man am Gestank.",
+        "Sein Körper sondert eine giftige Substanz ab,\ndie bei Kontakt Pflanzen und Bäume vernichtet.",
+        "Sleimok scheidet eine widerlich stinkende Substanz aus.\nEin einziger Tropfen dieser Substanz reicht aus, um ein\nGewässer zu verseuchen.",
+        "Sleimoks Lieblingsspeise ist alles, was widerlich\nverschmutzt ist. In dreckigen Städten, in denen\nsich Menschen nichts dabei denken, wenn sie Müll\nauf die Straße werfen, lassen sich diese Pokémon\nmit Vorliebe in Scharen nieder.",
+        "Es sondert einen widerlichen Gestank ab.\nIn Fankreisen wird jedoch ausgerechnet\ndiese Eigenschaft besonders geschätzt.",
+        "Es wird immer seltener gesehen, da zunehmend\nmehr Wert auf Umweltschutz gelegt wird. Man\nvermutet, dass es irgendwann ganz ausstirbt.",
+        "Aufgrund von Futtermangel sieht man es immer\nseltener. Um es vom Aussterben zu bewahren,\nwerden nun künstliche Schlammteiche angelegt.",
+        "Da es Krankheitskeime verbreitet, hat man lange\nversucht, es auszurotten. Heute sieht man es\ndaher nur noch selten.",
+        "Sein fürchterlicher Gestank kann zur Ohnmacht\nführen. Da seine Nase so verkümmert ist, kann\nes selbst nichts mehr riechen.",
+        "Sein fürchterlicher Gestank kann zur Ohnmacht\nführen. Da seine Nase so verkümmert ist, kann\nes selbst nichts mehr riechen."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "name": "Sleimok",
+    "types": [
+        "Gift"
+    ],
+    "weight": 30.0
+}

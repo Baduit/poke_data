@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Fa a pezzi l’avversario con le unghie cariche di\nelettricità. Anche se il nemico schiva il colpo,\nriceve comunque una scarica folgorante.",
+        "Si avvicina all’avversario con la velocità di un\nfulmine e lo fa a pezzi con le unghie affilate.",
+        "Dotato di una velocità fulminea, fa a pezzi\nl’avversario con i suoi artigli carichi di elettricità\nad alta tensione.",
+        "Emette scariche elettriche dai cuscinetti delle\nzampe. Sfreccia a tutta velocità accompagnato\nda saette e rombi di tuono."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "name": "Zeraora",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 44.5
+}

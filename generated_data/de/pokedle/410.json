@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Schilterus",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 57.0
+}

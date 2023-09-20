@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 7,
+    "height": 0.5,
+    "name": "Wimpod",
+    "types": [
+        "Bicho",
+        "Agua"
+    ],
+    "weight": 12.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "L’apprentissage de sa technique de\ncombat, qui utilise élégamment ses deux\ncoupillages, est extrêmement rigoureux.",
+        "Chaque Mateloutre a sa propre technique\nd’escrime au coupillage, dont il prend\nun soin tout particulier.",
+        "L’apprentissage de sa technique de combat, qui\nutilise élégamment ses deux coupillages, est\nextrêmement rigoureux.",
+        "Chaque Mateloutre a sa propre technique d’escrime\nau coupillage, acquise grâce à un entraînement\ndrastique.",
+        "L’apprentissage de sa technique de combat, qui utilise\nélégamment ses deux coupillages, est extrêmement rigoureux.",
+        "Chaque Mateloutre a sa propre technique d’escrime\nau coupillage, acquise grâce à un entraînement drastique."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+    "name": "Mateloutre",
+    "types": [
+        "Eau"
+    ],
+    "weight": 24.5
+}

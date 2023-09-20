@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 5,
+    "height": 1.9,
+    "name": "테라키온",
+    "types": [
+        "바위",
+        "격투"
+    ],
+    "weight": 260.0
+}

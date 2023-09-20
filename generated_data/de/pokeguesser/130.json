@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "In alten Schriften wird von einem Garados berichtet,\ndas in einem Wutanfall ein Dorf zerstörte.",
+        "Ein gigantisches, sehr kraftvolles Pokémon.\nEs ist fähig, ganze Städte zu zerstören.",
+        "Wenn sich Karpador zu Garados entwickelt, durchlaufen\nseine Gehirnzellen eine strukturelle Veränderung, was wohl\nder Grund für die zügellose, gewalttätige Natur dieses\nPokémon ist.",
+        "Wenn Garados in Rage gerät, ist sein wildes Blut kaum zu\nberuhigen, bis es alles niedergebrannt hat. Aufzeichnungen\nbelegen, dass die Zerstörungswut dieses Pokémon einen\nganzen Monat anhalten kann.",
+        "Es heißt, es habe eine ganze Stadt, deren\nBewohner es verärgert hatten, über Nacht\nvollständig in Schutt und Asche gelegt.",
+        "Manche Menschen sind fest davon überzeugt,\ndass Orte, an denen ein Garados erscheint,\ndem Untergang geweiht sind.",
+        "Mit seinem Hyperstrahl legt es die Umgebung\nin Schutt und Asche. Manchmal wird es auch\nals „Gottheit der Zerstörung“ bezeichnet.",
+        "Die bei der Entwicklung freigesetzte Energie\nstimuliert seine Gehirnzellen und verleiht ihm\neine sehr zügellose, gewalttätige Natur.",
+        "Garados ist brutal und zerstörungswütig. Es hat\nAufzeichnungen zufolge in alten Zeiten ganze\nStädte in Schutt und Asche gelegt.",
+        "Garados ist brutal und zerstörungswütig. Es hat\nAufzeichnungen zufolge in alten Zeiten ganze\nStädte in Schutt und Asche gelegt.",
+        "Es ist von Natur aus sehr aggressiv.\nDer Hyperstrahl, den es aus seinem Maul\nverschießt, äschert seine Gegner ein.",
+        "Wütet ein Garados, wird es alles niederbrennen.\nDies geschieht selbst während eines Sturms."
+    ],
+    "height": 6.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "name": "Garados",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 235.0
+}

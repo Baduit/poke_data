@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Anorith",
+    "types": [
+        "Roccia",
+        "Coleottero"
+    ],
+    "weight": 12.5
+}

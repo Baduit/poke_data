@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "當尾巴的內部像馬達那樣\n旋轉起來，就能製造出\n好幾道閃電，穿透周圍的一切。",
+        "在神話的敘述裡，如果人類\n失去了正義之心，牠就會用\n狂暴的雷電毀滅他們的王國。"
+    ],
+    "height": 2.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "name": "捷克羅姆",
+    "types": [
+        "龍",
+        "電"
+    ],
+    "weight": 345.0
+}

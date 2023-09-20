@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 2,
+    "height": 0.5,
+    "name": "Lampi",
+    "types": [
+        "Wasser",
+        "Elektro"
+    ],
+    "weight": 12.0
+}

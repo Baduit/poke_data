@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Si se enfada, no hay forma de calmarlo; lo destruye\ntodo lanzando arañazos y llamas.",
+        "Si se enfada, no hay forma de que se calme. Echa a\nvolar e incendia campos y montañas desde el cielo.",
+        "Salamence surgió del profundo deseo de tener alas. Dicen\nque este fuerte deseo fue lo que causó la repentina mutación\nde las células y el crecimiento de las alas.",
+        "Al evolucionar Shelgon y convertirse por fin en Salamence, ve\ncumplido el sueño de su vida de tener alas. Para expresar su\nalegría, Salamence vuela y revolotea por el cielo al tiempo\nque lanza llamas por la boca.",
+        "Cuando se enfada, pierde el control y destruye\ntodo lo que está a su alcance. Solo se calma\ncuando se queda sin fuerzas.",
+        "Feliz de haber desarrollado al fin sus alas y de\npoder volar por el cielo, calcina con sus llamas\ntodos los campos que sobrevuela.",
+        "Ahora que por fin puede volar, surca los cielos\ncon una sonrisa en el rostro. No pisa tierra firme\na no ser que tenga que dormir o esté exhausto.",
+        "Su fuerte y firme deseo de volar provocó una\nmutación repentina de su estructura celular que\nle permitió obtener las alas que tanto ansiaba.",
+        "Un Pokémon poco común que, tras desear\ncon todas sus fuerzas poder volar, consiguió\nun cuerpo alado al evolucionar.",
+        "Feliz de ver cumplido su deseo, surca los cielos\ncon buen ánimo, pero, si se enfada, se vuelve\nviolento e incontrolable."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "name": "Salamence",
+    "types": [
+        "Dragón",
+        "Volador"
+    ],
+    "weight": 102.6
+}

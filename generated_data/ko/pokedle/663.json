@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 6,
+    "height": 1.2,
+    "name": "파이어로",
+    "types": [
+        "불꽃",
+        "비행"
+    ],
+    "weight": 24.5
+}

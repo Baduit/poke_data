@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 4,
+    "height": 1.4,
+    "name": "대코파스",
+    "types": [
+        "바위",
+        "강철"
+    ],
+    "weight": 340.0
+}

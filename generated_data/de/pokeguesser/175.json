@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Seine Schale ist voll von Freude. Es teilt sein\nGlück, wenn man es freundlich und gut behandelt.",
+        "Ein Sprichwort besagt, dass Glück dem widerfährt,\ndem es gelingt, ein schlafendes Togepi zu wecken.",
+        "Togepi nutzt die positiven Emotionen, wie Freude und\nMitgefühl, von Menschen und Pokémon als Energie. Dieses\nPokémon speichert Glücksgefühle in seiner Schale und teilt\nsie mit anderen.",
+        "Togepi benutzt die positiven Emotionen Freude und\nMitgefühl von Menschen und Pokémon als Energie.\nDieses Pokémon speichert Glücksgefühle in seiner\nSchale und teilt sie mit anderen.",
+        "Seine Schale ist voll von Freude. Es heißt,\nwenn man es freundlich und gut behandelt,\nteile es sein Glück.",
+        "Es gilt als Glücksbringer. Man sagt, seine Schale\nsei voll von purer Freude."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+    "name": "Togepi",
+    "types": [
+        "Fee"
+    ],
+    "weight": 1.5
+}

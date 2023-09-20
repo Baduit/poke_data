@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "曾经栖息在古代的大海。\n在重生为幽灵宝可梦后，\n会在昔日的住处徘徊。",
+        "虽然单独１只弱得甚至敌不过小孩，\n但会和伙伴合作一起锻炼，\n通过进化而变得更强。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "name": "多龙梅西亚",
+    "types": [
+        "龙",
+        "幽灵"
+    ],
+    "weight": 2.0
+}

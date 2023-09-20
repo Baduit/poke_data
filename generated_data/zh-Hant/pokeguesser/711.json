@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "深夜時分，牠身體裡發出\n的詭異叫聲似乎是死者\n在另一個世界裡的痛苦哭聲。",
+        "南瓜怪人會在朔月的夜裡\n去別人家門口敲門。開了門的人\n會被牠帶往另一個世界。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "name": "南瓜怪人",
+    "types": [
+        "幽靈",
+        "草"
+    ],
+    "weight": 12.5
+}

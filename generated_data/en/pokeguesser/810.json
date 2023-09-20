@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "When it uses its special stick to strike up a beat,\nthe sound waves produced carry revitalizing\nenergy to the plants and flowers in the area.",
+        "It attacks with rapid beats of its stick.\nAs it strikes with amazing speed, it gets\nmore and more pumped."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+    "name": "Grookey",
+    "types": [
+        "Grass"
+    ],
+    "weight": 5.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "銳利的牙齒可咬住任何東西。\n原本並不住在阿羅拉，\n是從其他地區被帶過來的。",
+        "不斷徘徊著尋找食物。\n到了太陽下山的時候，\n會因為精疲力盡而一頭倒下睡著。",
+        "長長的身體內部幾乎\n全被胃佔滿。因為食量很大，\n飼養牠的伙食費相當驚人。",
+        "雖然什麼都吃，但特別\n偏好活生生的新鮮食物，\n會為了尋找獵物而四處遊走。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "name": "貓鼬少",
+    "types": [
+        "一般"
+    ],
+    "weight": 6.0
+}

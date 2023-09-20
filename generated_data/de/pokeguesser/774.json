@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Eigentlich lebt es in der Ozonschicht, doch\nwenn seine Schale zu schwer wird, stürzt es\nauf die Erde.",
+        "Heftige Stöße lassen seine Schale abblättern.\nEine Mutation von Nanopartikeln brachte\ndieses Pokémon hervor.",
+        "Es lebt in der Ozonschicht und dient stärkeren\nPokémon als Nahrung. Wenn es vor ihnen flieht,\nstürzt es auf die Oberfläche des Planeten.",
+        "Seine äußere Schale ist zwar sehr robust, durch\nden Aufprall auf der Oberfläche des Planeten\nzersplittert sie allerdings."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "name": "Meteno",
+    "types": [
+        "Gestein",
+        "Flug"
+    ],
+    "weight": 40.0
+}

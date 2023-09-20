@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Carracosta",
+    "types": [
+        "Acqua",
+        "Roccia"
+    ],
+    "weight": 81.0
+}

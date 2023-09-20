@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 5,
+    "height": 2.8,
+    "name": "골루그",
+    "types": [
+        "땅",
+        "고스트"
+    ],
+    "weight": 330.0
+}

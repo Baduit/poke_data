@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 1,
+    "height": 1.7,
+    "name": "Charizard",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 90.5
+}

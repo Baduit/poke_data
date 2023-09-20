@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il paraît qu’il avale les gens\net les transforme en momies.\nIl adore manger des lingots d’or.",
+        "Il prend l’apparence d’un beau cercueil\npour punir les pilleurs de tombes.\nSon corps est recouvert d’or pur.",
+        "Il paraît qu’il avale les gens et les transforme en\nmomies. Il adore manger des lingots d’or.",
+        "Il prend l’apparence d’un beau cercueil. Les pilleurs\nde tombes imprudents finissent enfermés à l’intérieur.",
+        "Il paraît qu’il avale les gens et les transforme en momies.\nIl adore manger des lingots d’or.",
+        "Il prend l’apparence d’un beau cercueil. Les pilleurs de tombes\nimprudents finissent enfermés à l’intérieur.",
+        "Son corps en or brille de mille feux.\nOn raconte qu’il ne se souvient désormais plus\nde l’époque où il était un être humain.",
+        "On le voit souvent représenté sur les murs\ndes vieilles sépultures des rois en tant que\nsymbole de leur richesse."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+    "name": "Tutankafer",
+    "types": [
+        "Spectre"
+    ],
+    "weight": 76.5
+}

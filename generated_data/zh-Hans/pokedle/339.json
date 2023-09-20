@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 3,
+    "height": 0.4,
+    "name": "泥泥鳅",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 1.9
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 4,
+    "height": 2.5,
+    "name": "Mamoswine",
+    "types": [
+        "Hielo",
+        "Tierra"
+    ],
+    "weight": 291.0
+}

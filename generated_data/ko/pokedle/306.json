@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 3,
+    "height": 2.1,
+    "name": "보스로라",
+    "types": [
+        "강철",
+        "바위"
+    ],
+    "weight": 360.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "綠色",
+    "generation": 2,
+    "height": 1.5,
+    "name": "天然鳥",
+    "types": [
+        "超能力",
+        "飛行"
+    ],
+    "weight": 15.0
+}

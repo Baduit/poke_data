@@ -1,0 +1,10 @@
+{
+    "color": "Gris",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Glalie",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 256.5
+}

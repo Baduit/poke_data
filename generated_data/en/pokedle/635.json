@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 5,
+    "height": 1.8,
+    "name": "Hydreigon",
+    "types": [
+        "Dark",
+        "Dragon"
+    ],
+    "weight": 160.0
+}

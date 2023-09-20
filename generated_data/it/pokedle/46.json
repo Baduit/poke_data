@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Paras",
+    "types": [
+        "Coleottero",
+        "Erba"
+    ],
+    "weight": 5.4
+}

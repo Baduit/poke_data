@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Propina cabezazos con su burbuja. Los\nPokémon de menor tamaño quedan atrapados\nen su interior y perecen ahogados.",
+        "Es más atento de lo que parece. Si encuentra\na uno de los suyos débil o vulnerable, lo protege\nenvolviéndolo con su burbuja.",
+        "Pasa la mayor parte del tiempo en el agua.\nSi atrapa alguna presa sin tener hambre,\nla almacena en la burbuja de su cabeza.",
+        "Guarda en su burbuja todo lo que le es\npreciado. También intentará atrapar a su\nEntrenador si este se descuida.",
+        "Usa las patas para lanzar burbujas de agua con\nlas que atrapa y ahoga a sus presas. Luego se\ntoma su tiempo para saborearlas.",
+        "Cuida de pequeños Dewpider acogiéndolos en\nsu burbuja de agua y dejando que se alimenten\nde los restos de las presas que ha ingerido."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+    "name": "Araquanid",
+    "types": [
+        "Agua",
+        "Bicho"
+    ],
+    "weight": 82.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "El dibujo que tiene en la panza aterroriza. Los rivales\nmás débiles salen huyendo al verlo.",
+        "Para intimidar a sus enemigos, hincha el pecho y echa\naire por la boca emitiendo sonidos.",
+        "Este Pokémon es tremendamente fuerte, puede oprimir\ncualquier cosa con su cuerpo y hasta es capaz de estrujar\nun barril de acero. Una vez que Arbok se enrosca a su\nvíctima, no hay forma de escapar de su asfixiante abrazo.",
+        "Este Pokémon es tremendamente fuerte, puede oprimir\ncualquier cosa con su cuerpo y hasta es capaz de estrujar\nun barril de acero. Una vez que Arbok se enrosca a su\nvíctima, no hay forma de escapar de su asfixiante abrazo.",
+        "Recientes estudios han llegado a identificar\nhasta una veintena de patrones distintos que\npuede presentar el motivo de su cuello.",
+        "Tras confundir a su presa con el motivo de su\ncuerpo, se enrosca a su alrededor y la aferra,\na la espera de que su pulso se detenga.",
+        "Se han llegado a identificar hasta seis\nvariaciones distintas de los espeluznantes\ndibujos de su piel.",
+        "Se han llegado a identificar hasta seis\nvariaciones distintas de los espeluznantes\ndibujos de su piel."
+    ],
+    "height": 3.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "name": "Arbok",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 65.0
+}

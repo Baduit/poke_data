@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "仅凭头锤就能把汽车撞个\n粉碎。头上那团毛的体积越大，\n在族群中的地位就会越高。",
+        "会以约２０只的规模群居。\n不知为何，背叛了族群的\n爆炸头水牛脑袋上的毛会脱落。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
+    "name": "爆炸头水牛",
+    "types": [
+        "一般"
+    ],
+    "weight": 94.6
+}

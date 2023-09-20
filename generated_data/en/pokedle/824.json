@@ -1,0 +1,10 @@
+{
+    "color": "Blue",
+    "generation": 8,
+    "height": 0.4,
+    "name": "Blipbug",
+    "types": [
+        "Bug"
+    ],
+    "weight": 8.0
+}

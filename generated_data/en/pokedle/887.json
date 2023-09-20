@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 8,
+    "height": 3.0,
+    "name": "Dragapult",
+    "types": [
+        "Dragon",
+        "Ghost"
+    ],
+    "weight": 50.0
+}

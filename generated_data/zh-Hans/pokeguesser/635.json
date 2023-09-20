@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "会咬住一切会动的物体。\n有不少传说里都提到了\n三首恶龙毁灭村庄的故事。",
+        "３个头会轮流去咬敌人。\n在对方倒下之前，\n绝对不会停止攻击。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "name": "三首恶龙",
+    "types": [
+        "恶",
+        "龙"
+    ],
+    "weight": 160.0
+}

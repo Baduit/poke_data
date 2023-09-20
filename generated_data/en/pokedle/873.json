@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 8,
+    "height": 1.3,
+    "name": "Frosmoth",
+    "types": [
+        "Ice",
+        "Bug"
+    ],
+    "weight": 42.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "へいこうして　ならぶ　くうかんの\nはざまに　すむと　いわれている。\nしんわに　とうじょうする　ポケモン。",
+        "くうかんを　ゆがめる　のうりょくを\nもち　シンオウちほうの　しんわでは\nかみさまとして　えがかれている。",
+        "へいこうして　ならぶ　くうかんの\nはざまに　すむと　いわれている。\nしんわに　とうじょうする　ポケモン。",
+        "くうかんを　ゆがめる　のうりょくを\nもち　シンオウちほうの　しんわでは\nかみさまとして　えがかれている。"
+    ],
+    "height": 4.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "name": "パルキア",
+    "types": [
+        "みず",
+        "ドラゴン"
+    ],
+    "weight": 336.0
+}

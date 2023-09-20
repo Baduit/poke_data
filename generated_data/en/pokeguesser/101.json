@@ -1,0 +1,38 @@
+{
+    "descriptions": [
+        "It stores electric\nenergy under very\nhigh pressure.\fIt often explodes\nwith little or no\nprovocation.",
+        "It stores electric\nenergy under very\nhigh pressure.\fIt often explodes\nwith little or no\nprovocation.",
+        "Stores electrical\nenergy inside its\nbody. Even the\fslightest shock\ncould trigger a\nhuge explosion.",
+        "It is dangerous.\nIf it has too much\nelectricity and\fhas nothing to do,\nit amuses itself\nby exploding.",
+        "It stores an over­\nflowing amount of\nelectric energy\finside its body.\nEven a small shock\nmakes it explode.",
+        "The more energy it\ncharges up, the\nfaster it gets.\fBut this also\nmakes it more\nlikely to explode.",
+        "ELECTRODE eats electricity in the\natmosphere. On days when lightning\nstrikes, you can see this POKéMON\fexploding all over the place from\neating too much electricity.",
+        "One of ELECTRODE’s characteristics is\nits attraction to electricity.\nIt is a problematical POKéMON that\fcongregates mostly at electrical\npower plants to feed on electricity\nthat has just been generated.",
+        "They appear in great numbers at electric\npower plants. Because they feed on\nelectricity, they cause massive and\nchaotic blackouts in nearby cities.",
+        "It explodes in response to even minor\nstimuli. It is feared, with the nickname\nof “The Bomb Ball.”",
+        "It stores electric energy under very high\npressure. It often explodes with little or\nno provocation.",
+        "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity.",
+        "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity.",
+        "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity.",
+        "It is dangerous. If it has too much\nelectricity and has nothing to do,\nit amuses itself by exploding.",
+        "It stores an overflowing amount of\nelectric energy inside its body.\nEven a small shock makes it explode.",
+        "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity.",
+        "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity.",
+        "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity.",
+        "It is known to drift on winds if it\nis bloated to bursting with stored\nelectricity.",
+        "It explodes in response to even minor stimuli. It is\nfeared, with the nickname of “The Bomb Ball.”",
+        "It stores an overflowing amount of electric energy\ninside its body. Even a small shock makes\nit explode.",
+        "Electrode eats electricity in the atmosphere. On days when\nlightning strikes, you can see this Pokémon exploding all over\nthe place from eating too much electricity.",
+        "One of Electrode’s characteristics is its attraction to electricity.\nIt is a problematical Pokémon that congregates mostly at\nelectrical power plants to feed on electricity that has just\nbeen generated.",
+        "Stores electrical energy inside its body. Even the\nslightest shock could trigger a huge explosion.",
+        "Stores electrical energy inside its body. Even the\nslightest shock could trigger a huge explosion.",
+        "The tissue on the surface of its body is curiously similar in\ncomposition to an Apricorn. When irritated, this Pokémon lets\nloose an electric current equal to 20 lightning bolts."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "name": "Electrode",
+    "types": [
+        "Electric"
+    ],
+    "weight": 66.6
+}

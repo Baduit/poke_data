@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Crea bolas de pelo que crepitan con electricidad\nestática. Las almacena en agujeros de árboles.",
+        "A veces se ve a dos frotándose las bolsas de las\nmejillas para compartir electricidad almacenada.",
+        "Crea bolas de pelo que crepitan con electricidad estática.\nLas almacena en agujeros de árboles.",
+        "A veces se ve a dos frotándose las bolsas de las mejillas\npara compartir electricidad almacenada."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "name": "Pachirisu",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 3.9
+}

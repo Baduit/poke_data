@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Posee una enorme pinza que dispara bolas de agua\nque podrían atravesar incluso el casco de un petrolero.",
+        "El chorro de agua que dispara la tobera situada en la\nparte trasera de su pinza le permite avanzar a una\nvelocidad de 60 nudos.",
+        "Posee una enorme pinza que dispara bolas de agua que\npodrían atravesar incluso el casco de un petrolero.",
+        "El chorro de agua que dispara la tobera situada en la parte\ntrasera de su pinza le permite avanzar a una velocidad de\n60 nudos.",
+        "Comprime el agua que traga y la convierte en\nproyectiles de tal potencia que atraviesan\nincluso gruesas placas de metal.",
+        "La pinza de su extremidad derecha es muy\nrobusta. Cuando se les caen, se recogen para\nexportarlas como ingrediente culinario.",
+        "Las antenas de su enorme pinza le permiten\ndetectar la posición de sus presas para luego\nacribillarlas a cañonazos con bolas de agua.",
+        "Con el cañón de su brazo derecho dispara\nproyectiles de agua marina con tanta potencia\nque son capaces de hundir un petrolero."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "name": "Clawitzer",
+    "types": [
+        "Agua"
+    ],
+    "weight": 35.3
+}

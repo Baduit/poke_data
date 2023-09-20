@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "高速で　飛んで　すれ違った\n相手の　首を　一瞬で\nかみちぎる　戦い方を　好む。",
+        "６本の　脚で　大人を　抱えて\n楽々と　飛ぶ　ことが　できる。\n尻尾の　羽で　バランスを　とる。",
+        "高速で　飛んで　すれ違った\n相手の　首を　一瞬で\nかみちぎる　戦い方を　好む。",
+        "６本の　脚で　大人を　抱えて\n楽々と　飛ぶ　ことが　できる。\n尻尾の　羽で　バランスを　とる。"
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+    "name": "メガヤンマ",
+    "types": [
+        "むし",
+        "ひこう"
+    ],
+    "weight": 51.5
+}

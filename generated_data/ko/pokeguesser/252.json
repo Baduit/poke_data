@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "수직으로 된 벽도 쭉쭉\n타고 올라간다. 꼬리로 공기 중의 습도를\n감지해서 내일 날씨를 맞힌다.",
+        "발바닥의 작은 가시가\n벽이나 천장에 걸리므로\n거꾸로 매달려도 떨어지지 않는다.",
+        "다리 뒤의 작은 가시를 박아\n수직인 벽을 올라갈 수 있다.\n굵은 꼬리로 힘껏 쳐서 공격한다.",
+        "침착 냉정 어떤 일에도 동요하지 않는다.\n체격이 큰 포켓몬이 노려봐도\n한 발짝도 물러서지 않고 같이 노려본다."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "name": "나무지기",
+    "types": [
+        "풀"
+    ],
+    "weight": 5.0
+}

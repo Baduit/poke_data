@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 4,
+    "height": 1.0,
+    "name": "Mantyke",
+    "types": [
+        "Acqua",
+        "Volante"
+    ],
+    "weight": 65.0
+}

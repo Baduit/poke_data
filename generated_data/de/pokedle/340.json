@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Welsar",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 23.6
+}

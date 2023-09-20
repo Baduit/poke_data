@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Dépourvu d’yeux, il se repère dans l’espace\ngrâce aux ultrasons qu’il émet avec sa bouche.",
+        "Il se repère dans l’espace grâce\naux ultrasons émis par sa gueule.",
+        "Il se repère dans l’espace grâce\naux ultrasons émis par sa gueule.",
+        "Bien que dépourvu d’yeux, il repère les obstacles\ngrâce aux ultrasons émis par sa gueule.",
+        "Comme il ne possède pas d’yeux, il n’utilise que\nses ultrasons pour se déplacer dans les ténèbres.",
+        "Nosferapti reste calme et immobile dans un coin sombre\npendant la journée. En effet, une exposition trop longue\nà la lumière du soleil lui brûle légèrement la peau.",
+        "Nosferapti évite la lumière du soleil, car ça le rend malade.\nPendant la journée, il reste dans les cavernes ou à l’ombre\ndes vieilles maisons, où il dort, la tête à l’envers.",
+        "Il dort dans des grottes pendant la journée.\nComme il n’a pas d’yeux, il vole en se repérant\ngrâce à ses ultrasons.",
+        "S’il vole en journée, la lumière du soleil brûle\nsa peau. La fréquence de ses ultrasons est\nlégèrement différente d’un groupe à l’autre.",
+        "Sa peau est si fine que la lumière du soleil\nlui cause des brûlures. Lorsqu’il fait froid, ses\ncongénères et lui se serrent pour se réchauffer.",
+        "Il émet des ultrasons pour se diriger et\néviter les obstacles sur son trajet.",
+        "Il émet des ultrasons pour se diriger et\néviter les obstacles sur son trajet.",
+        "Il sonde les environs en émettant des ultrasons\navec sa bouche, et peut ainsi se frayer un chemin\nmême dans les grottes les plus étroites.",
+        "Ils vivent dans les grottes où la lumière du jour\nne perce jamais. Le matin, ils se blottissent les uns\ncontre les autres pour se réchauffer et dormir."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "name": "Nosferapti",
+    "types": [
+        "Poison",
+        "Vol"
+    ],
+    "weight": 7.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 2,
+    "height": 1.2,
+    "name": "Yanma",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 38.0
+}

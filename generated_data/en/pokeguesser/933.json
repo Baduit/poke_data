@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
+        "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+    "name": "Naclstack",
+    "types": [
+        "Rock"
+    ],
+    "weight": 105.0
+}

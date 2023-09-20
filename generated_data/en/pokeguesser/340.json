@@ -1,0 +1,37 @@
+{
+    "descriptions": [
+        "WHISCASH is extremely territorial.\nJust one of these POKéMON will claim a\nlarge pond as its exclusive territory.\fIf a foe approaches it, it thrashes\nabout and triggers a massive\nearthquake.",
+        "If WHISCASH goes on a wild rampage,\nit sets off a quake-like tremor with a\nradius of over three miles.\fThis POKéMON has the ability to predict\nreal earthquakes.",
+        "Mysteriously, it can foretell earthquakes.\nIn the daytime, it sleeps in mud at the\nbottom of a pond. When it awakens, it\ncontinually feeds throughout the night.",
+        "It makes its nest at the bottom of \nswamps. It will eat anything - if it is\nalive, WHISCASH will eat it.",
+        "It makes its nest at the bottom of \nswamps. It will eat anything - if it is\nalive, WHISCASH will eat it.",
+        "It is very territorial. It repels\nfoes by setting off tremors that\nextend over a three-mile radius.",
+        "As a result of causing tremors by\nthrashing about, it developed the\nability to foretell real quakes.",
+        "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors.",
+        "It claims a large swamp to itself.\nIf a foe comes near it, it sets off\ntremors by thrashing around.",
+        "It claims a large swamp to itself.\nIf a foe comes near it, it sets off\ntremors by thrashing around.",
+        "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors.",
+        "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors.",
+        "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors.",
+        "It is extremely protective of its\nterritory. If any foe approaches,\nit attacks using vicious tremors.",
+        "It claims a large swamp to itself. If a foe comes\nnear it, it sets off tremors by thrashing around.",
+        "It makes its nest at the bottom of swamps.\nIt will eat anything--if it is alive, Whiscash will eat it.",
+        "Whiscash is extremely territorial. Just one of these Pokémon\nwill claim a large pond as its exclusive territory. If a foe\napproaches it, it thrashes about and triggers a massive\nearthquake.",
+        "If Whiscash goes on a wild rampage, it sets off a quake-like\ntremor with a radius of over three miles. This Pokémon has\nthe ability to predict real earthquakes.",
+        "A glutton that devours anything that moves,\nit quietly lurks at the bottom of swamps,\nlying in wait for prey.",
+        "Sighting Whiscash leaping from the water\nis believed to herald an earthquake.",
+        "Whiscash shakes the ground at high intensities\nto intimidate its opponents. It swallows its prey\nwhole—along with mud from the swamp floor.",
+        "Its vision is not that good. It senses vibrations in\nthe water with its whiskers to determine the\nlocation of its prey.",
+        "It makes its nest at the bottom of swamps. It will\neat anything—if it is alive, Whiscash will eat it.",
+        "It claims a large swamp to itself. If a foe comes\nnear it, it sets off tremors by thrashing around.",
+        "Strikes its caudal fin against the swamp bed to shake the ground\nand startle its prey. It will then swallow the fleeing prey whole.\nPeople mistook this behavior as the cause of earthquakes."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "name": "Whiscash",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "weight": 23.6
+}

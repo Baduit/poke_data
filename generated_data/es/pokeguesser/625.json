@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Un Pokémon temible que remata a su presa una vez\nque su séquito de Pawniard la ha debilitado e\ninmovilizado.",
+        "Su séquito son los Pawniard. Acorralan a su presa con\ntodo el grupo y Bisharp propina el golpe de gracia.",
+        "Un Pokémon temible que remata a su presa una vez que su\nséquito de Pawniard la ha debilitado e inmovilizado.",
+        "Su séquito son los Pawniard. Acorralan a su presa con todo\nel grupo y Bisharp propina el golpe de gracia.",
+        "Por fuerte que sea un Bisharp, la más mínima\nmella en la hoja de su cabeza es deshonrosa\ny motivo de destitución como líder de su grupo.",
+        "Lidera un grupo de Pawniard y no muestra el\nmás mínimo sentimiento ni cuando propina el\nataque de gracia al rival.",
+        "Siempre va acompañado por un nutrido séquito\nde Pawniard, a los que no pierde nunca de vista\npara evitar posibles motines.",
+        "Libra encarnizados combates con los Fraxure por\nel control de los emplazamientos donde se hallan\nlas piedras con las que afila sus cuchillas."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "name": "Bisharp",
+    "types": [
+        "Siniestro",
+        "Acero"
+    ],
+    "weight": 70.0
+}

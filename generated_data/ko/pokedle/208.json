@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 2,
+    "height": 9.2,
+    "name": "강철톤",
+    "types": [
+        "강철",
+        "땅"
+    ],
+    "weight": 400.0
+}

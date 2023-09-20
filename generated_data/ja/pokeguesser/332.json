@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "夜になると　活動を　はじめる。\n砂漠の　暑さに　疲れ果てた\n獲物を　見つけ出し　捕らえるのだ。",
+        "砂漠の　旅人の　後ろを\n集団で　つきまとい　疲れて\n動けなく　なるのを　待つのだ。",
+        "砂漠の　日差しで　水分を　失わない\nように　昼間は　じっと　立ち尽くしている。\n気温の　下がる　夜に　活動を　始める。",
+        "真夜中　砂漠を　歩く　旅人の　後ろを\nぞろぞろと　集団で　くっついて　歩く。\n疲れて　動けなく　なるのを　待っているのだ。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "name": "ノクタス",
+    "types": [
+        "くさ",
+        "あく"
+    ],
+    "weight": 77.4
+}

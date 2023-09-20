@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Son derrière propulse un fluide\nnauséabond qui peut faire fuir les\nPokémon dans un rayon de 2 km.",
+        "Son derrière propulse un fluide\nnauséabond qui peut faire fuir les\nPokémon dans un rayon de 2 km.",
+        "Son derrière propulse un fluide nauséabond qui peut\nfaire fuir les Pokémon dans un rayon de 2 km.",
+        "Il se protège en expulsant un fluide nocif par son\nderrière. La puanteur dure 24 heures.",
+        "Son derrière propulse un fluide nauséabond qui peut faire fuir\nles Pokémon dans un rayon de 2 km.",
+        "Il se protège en expulsant un fluide nocif par son derrière.\nLa puanteur dure 24 heures.",
+        "Il propulse un liquide extrêmement nauséabond\nau visage de son adversaire depuis son derrière.\nIl peut atteindre une cible à cinq mètres.",
+        "S’il lève la queue, c’est qu’il s’apprête à projeter\nun liquide tellement nauséabond qu’il peut faire\nperdre connaissance."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "name": "Moufouette",
+    "types": [
+        "Poison",
+        "Ténèbres"
+    ],
+    "weight": 19.2
+}

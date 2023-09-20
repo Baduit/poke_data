@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Exeggutor",
+    "types": [
+        "Erba",
+        "Psico"
+    ],
+    "weight": 120.0
+}

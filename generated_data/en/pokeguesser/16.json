@@ -1,0 +1,38 @@
+{
+    "descriptions": [
+        "A common sight in\nforests and woods.\nIt flaps its\fwings at ground\nlevel to kick up\nblinding sand.",
+        "A common sight in\nforests and woods.\nIt flaps its\fwings at ground\nlevel to kick up\nblinding sand.",
+        "Very docile. If\nattacked, it will\noften kick up\fsand to protect\nitself rather\nthan fight back.",
+        "It usually hides\nin tall grass. Be­\ncause it dislikes\ffighting, it pro­\ntects itself by\nkicking up sand.",
+        "Common in grassy\nareas and forests,\nit is very docile\fand will chase off\nenemies by flap­\nping up sand.",
+        "It rapidly flaps\nits wings in the\ngrass, stirring up\fa dust cloud that\ndrives insect prey\nout into the open.",
+        "PIDGEY has an extremely sharp sense\nof direction.\nIt is capable of unerringly returning\fhome to its nest, however far it may be\nremoved from its familiar surroundings.",
+        "PIDGEY has an extremely sharp sense\nof direction.\nIt is capable of unerringly returning\fhome to its nest, however far it may be\nremoved from its familiar surroundings.",
+        "It has an extremely sharp sense of\ndirection. It can unerringly return home to\nits nest, however far it may be removed\nfrom its familiar surroundings.",
+        "Does not like to fight. It hides in\ntall grass and so on, foraging for food\nsuch as small bugs.",
+        "A common sight in forests and woods.\nIt flaps its wings at ground level to kick\nup blinding sand.",
+        "It is docile and prefers to avoid\nconflict. If disturbed, however,\nit can ferociously strike back.",
+        "It is docile and prefers to avoid\nconflict. If disturbed, however,\nit can ferociously strike back.",
+        "It is docile and prefers to avoid\nconflict. If disturbed, however,\nit can ferociously strike back.",
+        "It usually hides in tall grass.\nBecause it dislikes fighting,\nit protects itself by kicking up sand.",
+        "Common in grassy areas and forests,\nit is very docile and will chase off\nenemies by flapping up sand.",
+        "It is docile and prefers to avoid\nconflict. If disturbed, however,\nit can ferociously strike back.",
+        "It is docile and prefers to avoid\nconflict. If disturbed, however,\nit can ferociously strike back.",
+        "It is docile and prefers to avoid\nconflict. If disturbed, however,\nit can ferociously strike back.",
+        "It is docile and prefers to avoid\nconflict. If disturbed, however,\nit can ferociously strike back.",
+        "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
+        "It is docile and prefers to avoid conflict.\nIf disturbed, however, it can ferociously strike back.",
+        "Pidgey has an extremely sharp sense of direction. It is capable\nof unerringly returning home to its nest, however far it may be\nremoved from its familiar surroundings.",
+        "Pidgey has an extremely sharp sense of direction.\nIt is capable of unerringly returning home to its nest,\nhowever far it may be removed from its familiar surroundings.",
+        "Very docile. If attacked, it will often kick up\nsand to protect itself rather than fight back.",
+        "Very docile. If attacked, it will often kick up\nsand to protect itself rather than fight back."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "name": "Pidgey",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 1.8
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "粉紅色的皮膚部分\n會儲存太陽光發光。\n聽說是用來做保護色的。",
+        "用２枚尾鰭活力充沛地跳躍。\n跳出海面的那一刻，\n會被長翅鷗叼走。",
+        "粉紅色的花紋到了夜裡就會發光。\n由於很受潛水者的歡迎，\n在度假地有時會被人工馴養。",
+        "會用發光的尾鰭引誘獵物。\n白天會待在海面附近，\n到了夜裡就會向深海移動。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+    "name": "螢光魚",
+    "types": [
+        "水"
+    ],
+    "weight": 7.0
+}

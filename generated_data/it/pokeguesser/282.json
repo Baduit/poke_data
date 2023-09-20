@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Quando il suo Allenatore è in pericolo usa tutto il suo\npotere psichico per creare un piccolo buco nero.",
+        "Ha la capacità di prevedere il futuro. Le sue\npotenzialità sono esaltate quando protegge\nil suo Allenatore.",
+        "Gardevoir ha l’abilità di prevedere il futuro. Se percepisce\nun pericolo imminente per il proprio Allenatore, pare che\nscateni tutta l’energia psicocinetica di cui è capace.",
+        "Gardevoir ha il potere psicocinetico di distorcere le dimensioni\ncreando un piccolo buco nero. Questo Pokémon cerca di\nproteggere il proprio Allenatore anche a rischio della sua\nstessa vita.",
+        "Ha la capacità di prevedere il futuro. Quando\ndeve proteggere il suo Allenatore, mette in\nmostra tutta la sua potenza.",
+        "Quando il suo Allenatore è in pericolo, usa tutto\nil suo potere psichico per creare un piccolo buco\nnero."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "name": "Gardevoir",
+    "types": [
+        "Psico",
+        "Folletto"
+    ],
+    "weight": 48.4
+}

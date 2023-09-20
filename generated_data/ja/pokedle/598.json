@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 5,
+    "height": 1.0,
+    "name": "ナットレイ",
+    "types": [
+        "くさ",
+        "はがね"
+    ],
+    "weight": 110.0
+}

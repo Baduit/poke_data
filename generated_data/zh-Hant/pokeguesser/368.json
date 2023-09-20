@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "體色會隨著水溫而變化，\n阿羅拉的櫻花魚呈現著\n耀眼奪目的鮮豔色彩。",
+        "會吸取獵物的體液。\n剩下的肉會沉入海底，\n成為其他寶可夢的食物。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "name": "櫻花魚",
+    "types": [
+        "水"
+    ],
+    "weight": 22.6
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 7,
+    "height": 0.7,
+    "name": "Marshadow",
+    "types": [
+        "Combat",
+        "Spectre"
+    ],
+    "weight": 22.2
+}

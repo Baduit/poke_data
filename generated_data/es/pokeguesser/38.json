@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Tiene nueve colas y un pelaje de color dorado.\nDicen que este Pokémon llega a vivir 1000 años.",
+        "Muy inteligente y vengativo. Agarrar una de sus colas\npodría traer 1000 años de mala suerte.",
+        "Ninetales emite una siniestra luz a través de los brillantes ojos\nrojos que tiene, para conseguir controlar del todo la mente de\nsu rival. Dicen que este Pokémon llega a vivir mil años.",
+        "Cuenta la leyenda que Ninetales nació de la fusión de nueve\nhechiceros que tenían poderes sagrados. Este Pokémon es\nrealmente inteligente. Entiende el lenguaje humano.",
+        "Siempre se le ha considerado un Pokémon\nmístico. Una leyenda asegura que se originó\na partir de la unión de nueve deidades.",
+        "Se dice que este Pokémon llega a vivir mil años.\nCon sus poderes, es capaz de controlar el fuego\na voluntad y calcinar a sus presas.",
+        "Un Pokémon extraordinariamente vengativo.\nSi recibe una afrenta, su rencor puede perdurar\ndurante un milenio y trascender generaciones.",
+        "Este Pokémon es sumamente inteligente.\nControla las llamas que expele por la boca para\nhipnotizar y capturar a sus presas.",
+        "De acuerdo con una antigua leyenda, este\nPokémon es la reencarnación de nueve\ndeidades que se unieron en un solo ser.",
+        "De acuerdo con una antigua leyenda, este\nPokémon es la reencarnación de nueve\ndeidades que se unieron en un solo ser.",
+        "Cuentan que llega a vivir hasta mil años y que\ncada una de las colas posee poderes\nsobrenaturales.",
+        "Muy inteligente y vengativo. Agarrar una de sus\ncolas podría traer 1000 años de mala suerte."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "name": "Ninetales",
+    "types": [
+        "Fuego"
+    ],
+    "weight": 19.9
+}

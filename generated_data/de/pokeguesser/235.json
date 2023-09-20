@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sein Revier markiert es mit seinem pinselartigen\nSchweif. Es kennt mehr als 5 000 Markierungen.",
+        "Ist es erwachsen, lässt es sich gern von seinen\nKameraden Fußabdrücke auf den Rücken setzen.",
+        "Farbeagle markiert sein Revier mit einer Flüssigkeit,\ndie aus seiner Schweifspitze austritt. Es wurden über\n5 000 unterschiedliche Markierungen entdeckt,\ndie dieses Pokémon hinterlassen hat.",
+        "Farbeagle markiert sein Revier mit einer Flüssigkeit,\ndie aus seiner Schweifspitze austritt. Es wurden über\n5 000 unterschiedliche Markierungen entdeckt,\ndie dieses Pokémon hinterlassen hat.",
+        "Farbeagle markiert sein Revier mit einer\nFlüssigkeit, die aus seiner Schweifspitze\naustritt.",
+        "Hinterlässt allerlei Markierungen, um sein Revier\nzu kennzeichnen. Wände in Städten mit vielen\nFarbeagle sind daher ziemlich vollgeschmiert.",
+        "Der Farbton der Flüssigkeit, die aus seiner\nSchweifspitze austritt, ändert sich je nach\nGefühlslage.",
+        "Mit der Flüssigkeit, die aus seiner Schweifspitze\naustritt, hinterlässt es Markierungen. Die besten\nwerden unter Fans zu hohen Preisen gehandelt."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "name": "Farbeagle",
+    "types": [
+        "Normal"
+    ],
+    "weight": 58.0
+}

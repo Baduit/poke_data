@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 6,
+    "height": 1.6,
+    "name": "Chesnaught",
+    "types": [
+        "Planta",
+        "Lucha"
+    ],
+    "weight": 90.0
+}

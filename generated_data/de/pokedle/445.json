@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 4,
+    "height": 1.9,
+    "name": "Knakrack",
+    "types": [
+        "Drache",
+        "Boden"
+    ],
+    "weight": 95.0
+}

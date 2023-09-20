@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Si uno de los gemelos Koffing se infla, el otro se\ndesinfla. Mezclan constantemente sus venenosos\ngases.",
+        "En raras ocasiones, se produce una mutación y dos\npequeños Koffing se unen formando un Weezing.",
+        "A Weezing le encantan los gases que emanan de los\ndesperdicios que quedan en la cocina. Este Pokémon busca\ncasas sucias y descuidadas para crear su hogar. De noche,\ncuando los habitantes de la casa duermen, va a por la basura.",
+        "Weezing reduce y agranda el doble cuerpo que tiene para\nmezclar los gases tóxicos que contiene. Cuantos más gases\nmezcle, mayor será la toxicidad y el nivel de putrefacción\ndel Pokémon.",
+        "Este Pokémon se alimenta de los gases\nvenenosos, los gérmenes y el polvo que\nencuentra en la basura.",
+        "Este Pokémon se alimenta de los gases\nvenenosos, los gérmenes y el polvo que\nencuentra en la basura.",
+        "Usa sus dos cuerpos para mezclar gases. Según\nparece, en el pasado podían hallarse ejemplares\npor todos los rincones de Galar.",
+        "Posee una capacidad de succión inferior a la del\nWeezing de Galar, pero las toxinas que genera\nson más potentes."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "name": "Weezing",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 9.5
+}

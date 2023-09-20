@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Moterpel",
+    "types": [
+        "Käfer",
+        "Flug"
+    ],
+    "weight": 23.3
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "ずばぬけた　きゃくりょくと　アゴの\nちからで　こだいでは　むてきだったが\nえものを　とりつくし　ぜつめつした。",
+        "じそく６０キロを　こえる　じまんの\nきゃくりょくで　はしれるが\nすいちゅうでしか　こきゅうできない。"
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "name": "ウオノラゴン",
+    "types": [
+        "みず",
+        "ドラゴン"
+    ],
+    "weight": 215.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 1,
+    "height": 1.6,
+    "name": "Électhor",
+    "types": [
+        "Électrik",
+        "Vol"
+    ],
+    "weight": 52.6
+}

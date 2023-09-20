@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Quand il déploie sa langue de près\nde deux mètres, sa queue s’agite.\nElles seraient reliées entre elles.",
+        "Quand il déploie sa langue de près\nde deux mètres, sa queue s’agite.\nElles seraient reliées entre elles.",
+        "Sa longue langue sécrète une salive gluante qui se\ncolle à n’importe quoi. Elle est très efficace !",
+        "Sa langue fait deux fois la taille de son corps.\nIl l’utilise comme un bras pour saisir de la nourriture\nmais aussi pour attaquer.",
+        "Chaque fois qu’Excelangue découvre quelque chose\nde nouveau, il le lèche. Sa mémoire est basée sur le goût\net la texture des objets. Il n’aime pas les choses acides.",
+        "Chaque fois qu’Excelangue découvre quelque chose\nde nouveau, il le lèche. Sa mémoire est basée sur le goût\net la texture des objets. Il n’aime pas les choses acides.",
+        "Sa longue langue lui sert à goûter tout ce qui\nl’intrigue. Attention, car s’il vous lèche une partie\ndu corps, vous risquez l’infection cutanée.",
+        "Il nettoie les saletés d’un coup de langue,\nmais vu l’odeur nauséabonde qui s’en dégage,\nce n’est probablement pas très efficace.",
+        "Sa langue mesure 2 m et elle est plus agile\nque ses pattes. Son contact provoque\nla paralysie.",
+        "Sa langue mesure 2 m et elle est plus agile\nque ses pattes. Son contact provoque\nla paralysie.",
+        "Si sa salive gluante entre en contact avec la peau\net qu’on ne l’essuie pas bien, elle provoque de\nterribles démangeaisons qui ne s’arrêtent jamais.",
+        "Excelangue se nourrit essentiellement de Pokémon\nInsecte. Il lèche ses ennemis avec sa longue langue\npour les paralyser, puis les avale tout rond."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "name": "Excelangue",
+    "types": [
+        "Normal"
+    ],
+    "weight": 65.5
+}

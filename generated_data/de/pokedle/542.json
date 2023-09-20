@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Matrifol",
+    "types": [
+        "Käfer",
+        "Pflanze"
+    ],
+    "weight": 20.5
+}

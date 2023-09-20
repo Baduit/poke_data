@@ -1,0 +1,11 @@
+{
+    "color": "Pink",
+    "generation": 9,
+    "height": 1.6,
+    "name": "Flamigo",
+    "types": [
+        "Flying",
+        "Fighting"
+    ],
+    "weight": 37.0
+}

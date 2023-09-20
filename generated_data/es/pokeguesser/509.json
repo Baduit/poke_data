@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Distrae a su oponente con movimientos gráciles y\nsustrae sus pertenencias. Cuando se enfada, ataca\ncon las garras.",
+        "Hurta a los humanos por mera diversión, pero las\nvíctimas lo perdonan al ver a este Pokémon tan\nencantador.",
+        "Distrae a su oponente con movimientos gráciles y sustrae sus\npertenencias. Cuando se enfada, ataca con las garras.",
+        "Hurta a los humanos por mera diversión, pero las víctimas lo\nperdonan al ver a este Pokémon tan encantador.",
+        "Sustrae las pertenencias de las personas solo\npara verlas pasar apuros. Es un rival encarnizado\nde Nickit.",
+        "Una vez que ha logrado distraer al rival mediante\nsus gestos adorables, lo araña de improviso con\nlas garras mientras muestra un semblante risueño."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "name": "Purrloin",
+    "types": [
+        "Siniestro"
+    ],
+    "weight": 10.1
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Geodude",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 20.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "從５根角中噴出火焰\n與對手戰鬥。火焰的溫度\n最高可達３０００度。",
+        "會用火焰保護自己。\n過去的人們相信\n牠的巢在太陽上。",
+        "遠古時代的人們\n相信燃燒蟲是從\n太陽上摔下來的。",
+        "全身都相當溫暖。\n會從角的尖端噴出火\n來威嚇天敵或獵物。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "name": "燃燒蟲",
+    "types": [
+        "蟲",
+        "火"
+    ],
+    "weight": 28.8
+}

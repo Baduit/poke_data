@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 2,
+    "height": 0.5,
+    "name": "灯笼鱼",
+    "types": [
+        "水",
+        "电"
+    ],
+    "weight": 12.0
+}

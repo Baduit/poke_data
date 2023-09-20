@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 2,
+    "height": 1.7,
+    "name": "무장조",
+    "types": [
+        "강철",
+        "비행"
+    ],
+    "weight": 50.5
+}

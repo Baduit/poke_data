@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "非常不认生，很容易亲近。\n与小球飞鱼的互动巡游\n是非常受欢迎的海滩活动。",
+        "不认生，会靠近人类的船只。\n背上的花纹根据地域而有所不同。",
+        "也许是因为海水温度偏低，\n伽勒尔地区的小球飞鱼\n动作似乎有点迟缓。",
+        "混在铁炮鱼的大群里游泳。\n受到敌人袭击的时候，\n会和铁炮鱼们并肩作战。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "name": "小球飞鱼",
+    "types": [
+        "水",
+        "飞行"
+    ],
+    "weight": 65.0
+}

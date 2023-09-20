@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "毛发不生有如橡胶一样的\n皮肤不会导电，\n即便触电了也很安全。",
+        "能将电力储存在松软的毛发中。\n因为储存了太多电力，所以身上\n有些地方已经变得光秃秃的了。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "name": "茸茸羊",
+    "types": [
+        "电"
+    ],
+    "weight": 13.3
+}

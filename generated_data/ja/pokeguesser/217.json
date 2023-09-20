@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "どんな　においも　かぎわける。\n地面深くに　埋まっている\n食べ物も　残らず　見つけ出す。",
+        "大きな　体の　持ち主だが\n木登りが　上手で　木の　上で\nエサを　食べたり　寝たりする。",
+        "森の　中には　リングマが　エサ集めを　する\n大木や　小川が　あちこちに　あると　いう。\n毎日　エサを　集めて　森を　歩く。",
+        "森の　中には　リングマが　エサ集めを　する\n大木や　小川が　あちこちに　あると　いう。\n毎日　エサを　集めて　森を　歩く。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "name": "リングマ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 125.8
+}

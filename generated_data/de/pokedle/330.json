@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 2.0,
+    "name": "Libelldra",
+    "types": [
+        "Boden",
+        "Drache"
+    ],
+    "weight": 82.0
+}

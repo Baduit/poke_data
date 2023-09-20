@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Comme il peut lire les pensées de ses adversaires,\nil frappe toujours en premier.",
+        "Toujours prêt à protéger son prochain,\nil se bat férocement avec ses coudes\nen forme d’épées.",
+        "Toujours prêt à protéger son prochain,\nil se bat férocement avec ses coudes\nen forme d’épées.",
+        "Il frappe avec les grandes lames à ses coudes.\nSon talent d’escrimeur n’a d’égal que sa courtoisie.",
+        "Comme il peut lire les pensées de ses adversaires, il frappe\ntoujours en premier.",
+        "Il frappe avec les grandes lames à ses coudes. Son talent\nd’escrimeur n’a d’égal que sa courtoisie.",
+        "Ce Pokémon, que l’on surnomme « l’escrimeur »,\nne se sert de ses coudes en forme de lames\nque s’il doit défendre quelque chose.",
+        "Ses sens aiguisés lui indiquent lorsque quelqu’un\nest en danger. Il accourt alors à la rescousse."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "name": "Gallame",
+    "types": [
+        "Psy",
+        "Combat"
+    ],
+    "weight": 52.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Unfezant",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 29.0
+}

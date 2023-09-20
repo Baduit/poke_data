@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 2,
+    "height": 1.5,
+    "name": "헤라크로스",
+    "types": [
+        "벌레",
+        "격투"
+    ],
+    "weight": 54.0
+}

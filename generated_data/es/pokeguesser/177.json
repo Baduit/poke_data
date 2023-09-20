@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Va dando saltitos porque sus alas no han crecido lo\nsuficiente. Siempre está pendiente de algo.",
+        "Normalmente busca comida por el suelo. En raras\nocasiones, salta a las ramas para picotear brotes.",
+        "Natu no puede volar porque las alas no le han crecido lo\nsuficiente. Si alguien cruza la mirada con él, se la devolverá\nfijamente, aunque, si hace el mínimo movimiento, huirá dando\nsaltitos para ponerse a salvo.",
+        "Natu ha desarrollado tremendamente la habilidad de saltar.\nEste Pokémon aletea y da brinquitos por las ramas altas a las\nque no alcanza nadie para hacerse con los nuevos brotes\nde los árboles.",
+        "Aún no puede volar, pero su increíble capacidad\nde salto le permite alcanzar las ramas de los\nárboles más altos y picotear los brotes tiernos.",
+        "Con su penetrante mirada, parece estar en\nvigilancia constante. A la mínima que se le\nacercan, sale huyendo dando botes.",
+        "Trepa con gran habilidad por el tronco de los\nárboles, donde aprovecha para picotear los\nbrotes nuevos.",
+        "Se desplaza dando saltitos porque sus alas no\nhan crecido lo suficiente. Siempre está mirando\nalgo fijamente."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "name": "Natu",
+    "types": [
+        "Psíquico",
+        "Volador"
+    ],
+    "weight": 2.0
+}

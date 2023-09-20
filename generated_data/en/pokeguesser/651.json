@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "It relies on its sturdy shell to deflect predators’\nattacks. It counterattacks with its sharp quills.",
+        "They strengthen their lower bodies by\nrunning into one another. They are very\nkind and won’t start fights.",
+        "It relies on its sturdy shell to deflect predators’\nattacks. It counterattacks with its sharp quills.",
+        "They strengthen their lower bodies by\nrunning into one another. They are very\nkind and won’t start fights."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "name": "Quilladin",
+    "types": [
+        "Grass"
+    ],
+    "weight": 29.0
+}

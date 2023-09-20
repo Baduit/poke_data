@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "En temps normal, son cri est pareil\nà un murmure. Effrayé, il atteint le\nvolume d’un avion à réaction.",
+        "En temps normal, son cri est pareil\nà un murmure. Effrayé, il atteint le\nvolume d’un avion à réaction.",
+        "Il communique en murmurant, mais se met à hurler\ns’il sent le moindre danger. Il s’arrête quand on lui\nbouche les oreilles.",
+        "Il repousse ses ennemis grâce à un cri aussi puissant\nque le bruit d’un avion à réaction.",
+        "Généralement, la voix de Chuchmur est très douce, à peine\naudible, même si on tend l’oreille. Pourtant, lorsque\nce Pokémon sent l’approche du danger, il se met à crier\nsi fort qu’il peut déchirer des tympans.",
+        "Chuchmur est très timide. S’il commence à pleurer, il s’effraie\ntout seul et pleure de plus belle. Quand ce Pokémon finit\nenfin de pleurer, il s’endort, épuisé.",
+        "Le cri qu’il émet dépasse les 100 décibels et\ndonne une migraine qui dure toute la journée\nà quiconque se trouve à proximité.",
+        "Quand il se met à crier, il se surprend lui-même\net hurle de plus belle. Il continue ainsi jusqu’à\nce qu’il se fatigue et tombe de sommeil."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "name": "Chuchmur",
+    "types": [
+        "Normal"
+    ],
+    "weight": 16.3
+}

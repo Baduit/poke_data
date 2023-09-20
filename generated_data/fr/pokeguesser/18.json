@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "En battant des ailes de toutes ses\nforces, Roucarnage génère une\nrafale à en déraciner les arbres.",
+        "En battant des ailes de toutes ses\nforces, Roucarnage génère une\nrafale à en déraciner les arbres.",
+        "Il survole la surface de l’eau pour repérer une proie\net plonge en piqué pour l’attraper.",
+        "Roucarnage déploie ses ailes majestueuses pour\neffrayer ses ennemis. Il peut voler à Mach 2.",
+        "Ce Pokémon est doté d’un plumage magnifique et luisant.\nBien des Dresseurs sont captivés par la beauté fatale de\nsa huppe et décident de choisir Roucarnage comme leur\nPokémon favori.",
+        "Ce Pokémon est doté d’un plumage magnifique et luisant.\nBien des Dresseurs sont captivés par la beauté fatale de\nsa huppe et décident de choisir Roucarnage comme leur\nPokémon favori.",
+        "Ce Pokémon vole à Mach 2 quand il chasse.\nSes grandes serres sont des armes redoutables.",
+        "Ce Pokémon vole à Mach 2 quand il chasse.\nSes grandes serres sont des armes redoutables."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "name": "Roucarnage",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 39.5
+}

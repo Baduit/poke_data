@@ -1,0 +1,10 @@
+{
+    "color": "Blue",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Eelektrik",
+    "types": [
+        "Electric"
+    ],
+    "weight": 22.0
+}

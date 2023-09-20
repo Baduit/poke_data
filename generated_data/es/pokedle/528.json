@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 5,
+    "height": 0.9,
+    "name": "Swoobat",
+    "types": [
+        "Psíquico",
+        "Volador"
+    ],
+    "weight": 10.5
+}

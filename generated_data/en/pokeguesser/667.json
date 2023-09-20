@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "The stronger the opponent it faces,\nthe more heat surges from its mane\nand the more power flows through its body.",
+        "They set off on their own from their pride\nand live by themselves to become stronger.\nThese hot-blooded Pokémon are quick to fight.",
+        "The stronger the opponent it faces,\nthe more heat surges from its mane\nand the more power flows through its body.",
+        "They set off on their own from their pride\nand live by themselves to become stronger.\nThese hot-blooded Pokémon are quick to fight.",
+        "When they’re young, they live with a pride. Once\nthey’re able to hunt prey on their own, they’re\nkicked out and have to make their own way.",
+        "This hot-blooded Pokémon is filled with\ncuriosity. When it gets angry or starts\nfighting, its short mane gets hot."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+    "name": "Litleo",
+    "types": [
+        "Fire",
+        "Normal"
+    ],
+    "weight": 13.5
+}

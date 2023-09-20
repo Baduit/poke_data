@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Congela a sus enemigos con un aliento gélido de\n-50 °C. Su cuerpo está hueco.",
+        "Cuenta la leyenda que es la reencarnación de mujeres\nque sufrieron accidentes en la nieve.",
+        "Congela a sus enemigos con un aliento gélido de -50 °C. Su\ncuerpo está hueco.",
+        "Cuenta la leyenda que es la reencarnación de mujeres que\nsufrieron accidentes en la nieve.",
+        "Con su gélido aliento congela a todo Pokémon o\nhumano que le llame la atención y se lo lleva a\nsu guarida para usarlo como objeto decorativo.",
+        "Cuenta la leyenda que es la reencarnación de\nmujeres que sufrieron accidentes en la nieve.\nSiente predilección por las almas masculinas.",
+        "Congela a los hombres que se aventuran en las\ncimas nevadas y se los lleva a su guarida, pero\ntan solo a aquellos que considera apuestos.",
+        "Se dice que aparece de noche en poblaciones\ntras una intensa ventisca. Si llama a la puerta,\nno se le debe abrir bajo ningún concepto.",
+        "Nació del resentimiento de mujeres fallecidas en\nmontañas nevadas. Su manjar predilecto son las\nalmas congeladas.",
+        "Expulsa un vaho gélido a -50 °C con el que\ncongela a sus presas para luego llevarlas a su\nmorada y colocarlas como adorno."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "name": "Froslass",
+    "types": [
+        "Hielo",
+        "Fantasma"
+    ],
+    "weight": 26.6
+}

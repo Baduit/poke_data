@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Its habitat is dark forests and caves.\nIt emits ultrasonic waves from its\nnose to learn about its surroundings.",
+        "Suction from its nostrils enables it to\nstick to cave walls during sleep. It\nleaves a heart-shaped mark behind.",
+        "The heart-shaped mark left on a body\nafter a Woobat has been attached to it\nis said to bring good fortune.",
+        "The heart-shaped mark left on a body\nafter a Woobat has been attached to it\nis said to bring good fortune.",
+        "Its habitat is dark forests and caves. It emits\nultrasonic waves from its nose to learn about\nits surroundings.",
+        "The heart-shaped mark left on a body after a\nWoobat has been attached to it is said to bring\ngood fortune.",
+        "Its habitat is dark forests and caves. It emits\nultrasonic waves from its nose to learn about\nits surroundings.",
+        "The heart-shaped mark left on a body after a\nWoobat has been attached to it is said to bring\ngood fortune.",
+        "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it’s\nevidence that Woobat live there.",
+        "It emits ultrasonic waves as it flutters about,\nsearching for its prey—bug Pokémon."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "name": "Woobat",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "weight": 2.1
+}

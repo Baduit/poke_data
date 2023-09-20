@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se piensa que está muy influido por las fases lunares,\nya que solo actúa en noches de luna llena.",
+        "Descubierto hace 40 años junto a un meteorito.\nDuerme a sus enemigos con solo mirarlos.",
+        "Lunatone fue descubierto en el lugar de impacto de un\nmeteorito. Por eso, hay quien especula con la idea de que\nprocede del espacio. Con todo, hasta el día de hoy nadie ha\npodido probar esta teoría.",
+        "Lunatone entra en actividad en épocas de luna llena más o\nmenos. No camina, se desplaza flotando por el aire. Tiene\nunos ojos rojos sobrecogedores que cortan la respiración a\ntodo aquel que los ve.",
+        "Se piensa que las fases lunares tienen relación\ncon la fluctuación de su poder. Se vuelve activo\nlas noches de luna llena.",
+        "Fue descubierto hace 40 años en el lugar donde\nhabía caído un meteorito. Le basta fulminar a sus\nenemigos con la mirada para dormirlos."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "name": "Lunatone",
+    "types": [
+        "Roca",
+        "Psíquico"
+    ],
+    "weight": 168.0
+}

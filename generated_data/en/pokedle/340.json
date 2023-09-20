@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Whiscash",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "weight": 23.6
+}

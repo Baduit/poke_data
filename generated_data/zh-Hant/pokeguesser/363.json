@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "身體被厚厚的脂肪包裹著，\n圓得令人讚嘆。用翻滾的\n方式移動反而比走路還要快。",
+        "會漂浮在波浪間探查\n周圍的狀況。一旦發現獵物，\n就會通知群體的帝牙海獅。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "name": "海豹球",
+    "types": [
+        "冰",
+        "水"
+    ],
+    "weight": 39.5
+}

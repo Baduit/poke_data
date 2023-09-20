@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Genera elettricità roteando le braccia. Tuttavia,\nnon riesce a immagazzinare l’energia creata.",
+        "Quando rotea le braccia per produrre elettricità, le\nsue corna si illuminano.",
+        "Elekid immagazzina elettricità nel corpo. Se, a contatto\ncol metallo, scarica accidentalmente l’elettricità accumulata,\ninizia a far oscillare gli arti superiori con movimenti circolari\nper ricaricarsi.",
+        "Elekid immagazzina elettricità nel corpo. Se, a contatto\ncol metallo, scarica accidentalmente l’elettricità accumulata,\ninizia a far oscillare gli arti superiori con movimenti circolari\nper ricaricarsi.",
+        "Quando si trova in una casa, succhia l’energia\nelettrica attaccandosi alle prese di corrente.",
+        "Spesso si azzuffa con i Togedemaru che\nentrano in casa per rubare l’energia elettrica.\nIn genere, i loro scontri finiscono in parità.",
+        "Il rombo dei tuoni lo mette di buon umore, perciò\nè utile averne una registrazione a portata\ndi mano per quando è triste.",
+        "Quando le corna si illuminano di una luce\nbiancastra dalle sfumature blu, è carico di\nelettricità. Chi lo tocca rimane fulminato.",
+        "Quando si sta per scatenare una tempesta perde\nil controllo. Si fa prendere dall’agitazione\nse sente il rombo dei tuoni.",
+        "Non è ancora abile nell’immagazzinare elettricità.\nSi intrufola nelle abitazioni in cerca di prese\ndi corrente, che sfrutta per nutrirsi."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "name": "Elekid",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 23.5
+}

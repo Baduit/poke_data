@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es macht mit Gegnern kurzen Prozess, indem es mit\nseinen drei Schlingen auf sie eindrischt und Dornen\nauf sie abfeuert.",
+        "Es setzt sich an der Decke von Höhlen fest und wirft\nseine dornengespickten Schlingen auf vorbeigehende\nBeute ab.",
+        "Es macht mit Gegnern kurzen Prozess, indem es mit seinen\ndrei Schlingen auf sie eindrischt und Dornen auf sie abfeuert.",
+        "Es setzt sich an der Decke von Höhlen fest und wirft seine\ndornengespickten Schlingen auf vorbeigehende Beute ab.",
+        "Es kratzt mit seinen Dornen Kerben in Felswände\nund extrahiert dann mit den Dornenspitzen an\nseinen Schlingen Nährstoffe aus dem Gestein.",
+        "Seine Dornen sind härter als Stahl. Es bewegt sich\nfort, indem es seine dornengespickten Schlingen\nin Felswänden verhakt und sich vorwärtszieht."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "name": "Tentantel",
+    "types": [
+        "Pflanze",
+        "Stahl"
+    ],
+    "weight": 110.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "会在山中徘徊以寻求战斗对手。\n但如果遇到的是比自己弱小的对手，\n它就会视若无睹地离开。",
+        "在前进的道路上，\n它会遇山毁山，遇楼拆楼，\n是一种会移动的灾害型宝可梦。",
+        "拥有无论遭到任何攻击\n都能毫发无伤的身体，\n因此会不断向对手挑战。",
+        "当它带着巨大轰鸣声迈开脚步，\n就连大山都会为之崩裂，\n周围的地形也会因此改变。"
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "name": "班基拉斯",
+    "types": [
+        "岩石",
+        "恶"
+    ],
+    "weight": 202.0
+}

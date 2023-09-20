@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "The water stored inside the tuft on\nits head is full of nutrients. Plants\nthat receive its water grow large.",
+        "It does not thrive in dry environments.\nIt keeps itself damp by shooting water\nstored in its head tuft from its tail.",
+        "The water stored inside the tuft\non its head is full of nutrients.\nIt waters plants with it using its tail.",
+        "The water stored inside the tuft\non its head is full of nutrients.\nIt waters plants with it using its tail.",
+        "The water stored inside the tuft on its head is full\nof nutrients. It waters plants with it using its tail.",
+        "The water stored inside the tuft on its head is full of\nnutrients. Plants that receive its water grow large.",
+        "The water stored inside the tuft on its head is full\nof nutrients. It waters plants with it using its tail.",
+        "The water stored inside the tuft on its head is full of\nnutrients. Plants that receive its water grow large."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "name": "Panpour",
+    "types": [
+        "Water"
+    ],
+    "weight": 13.5
+}

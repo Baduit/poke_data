@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 7,
+    "height": 0.7,
+    "name": "Dartrix",
+    "types": [
+        "Planta",
+        "Volador"
+    ],
+    "weight": 16.0
+}

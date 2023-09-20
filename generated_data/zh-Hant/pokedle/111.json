@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 1,
+    "height": 1.0,
+    "name": "獨角犀牛",
+    "types": [
+        "地面",
+        "岩石"
+    ],
+    "weight": 115.0
+}

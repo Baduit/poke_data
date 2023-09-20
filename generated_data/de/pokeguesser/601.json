@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Indem es das Rad mit dem roten Zentrum mit\nhohem Tempo zum Rotieren bringt, kann es eine\nTurboladung durchführen.",
+        "Der rote Zentralbestandteil dient als Energiespeicher.\nDarin geladene Energie feuert es über seine Stacheln\nab.",
+        "Indem es das Rad mit dem roten Zentrum mit hohem Tempo\nzum Rotieren bringt, kann es eine Turboladung durchführen.",
+        "Der rote Zentralbestandteil dient als Energiespeicher.\nDarin geladene Energie feuert es über seine Stacheln ab.",
+        "Die Stachelspitzen können starke Elektrizität\nabfeuern. Im roten Zentralbestandteil sind\nUnmengen von Energie gespeichert.",
+        "Dieses Pokémon besteht aus drei schnell\nrotierenden Zahnrädern. Das neue dritte Rad\nmit den Stacheln ist unbelebt."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "name": "Klikdiklak",
+    "types": [
+        "Stahl"
+    ],
+    "weight": 81.0
+}

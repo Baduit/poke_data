@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es el caparazón de un bicho que cobró vida. Si alguien\nlo mira por la espalda, le robará el alma.",
+        "Es un Pokémon muy peculiar; aparece de repente en\nuna Poké Ball cuando Nincada evoluciona.",
+        "Shedinja tiene un cuerpo robusto que no mueve en absoluto.\nDe hecho, parece una especie de caparazón hueco. Se cree\nque, si alguien se atreviera a mirarle por la espalda lo que\ntiene en su interior, Shedinja le robaría el alma.",
+        "Shedinja es un Pokémon peculiar. Según parece, surge por\nlas buenas en una Poké Ball cuando Nincada evoluciona. Este\nraro Pokémon no se mueve nada; ni siquiera respira.",
+        "Es un Pokémon muy peculiar; aparece de repente\nen una Poké Ball cuando Nincada evoluciona.",
+        "Es un Pokémon muy peculiar: revolotea sin batir\nlas alas, no respira y su cuerpo está hueco por\ndentro."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "name": "Shedinja",
+    "types": [
+        "Bicho",
+        "Fantasma"
+    ],
+    "weight": 1.2
+}

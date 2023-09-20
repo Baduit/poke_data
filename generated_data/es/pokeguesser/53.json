@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Aunque es muy admirado por el pelo, es difícil de\nentrenar como mascota, porque es un poco travieso.",
+        "Sus ágiles músculos le permiten moverse sin hacer\nruido. Ataca al instante.",
+        "Persian tiene seis llamativos bigotes que le dan un aspecto\nferoz. Además, le sirven para detectar el movimiento del aire,\ndelator de la presencia cercana de algún Pokémon. Si se le\nagarra por los bigotes, se vuelve dócil.",
+        "Persian tiene seis llamativos bigotes que le dan un aspecto\nferoz. Además, le sirven para detectar el movimiento del aire,\ndelator de la presencia cercana de algún Pokémon. Si se le\nagarra por los bigotes, se vuelve dócil.",
+        "De temperamento violento, ataca a cualquiera\nque lo mira directamente a los ojos. Sus afiladas\ngarras infligen heridas muy profundas.",
+        "Los Persian son Pokémon extremadamente\norgullosos, en especial los de Alola.\nNo es fácil hacerse amigo de este Pokémon.",
+        "La joya que luce en la frente presenta una\ncoloración distinta a la del Persian de Alola,\naunque la composición es casi idéntica.",
+        "Un Pokémon de alto copete, objetivo primordial\nde ladrones que quieren apoderarse de la joya\nque luce en la frente.",
+        "La gema que tiene en la frente brilla por sí\nmisma. Camina con elegancia regia.",
+        "La gema que tiene en la frente brilla por sí\nmisma. Camina con elegancia regia.",
+        "Trabar amistad con este Pokémon es una ardua\ntarea debido a su enorme orgullo. Cuando algo\nno le place, saca las uñas de inmediato.",
+        "Hace gala de un porte elegante y majestuoso.\nNo congenia con los toscos Perrserker y ambos\nse profesan un mutuo desprecio."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "name": "Persian",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.0
+}

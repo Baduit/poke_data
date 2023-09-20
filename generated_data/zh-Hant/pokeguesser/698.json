@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "曾經棲息在古代的寒冷地帶。\n據說當冰雪龍發出鳴叫時，\n夜空中就會出現極光。",
+        "雖然從化石中復原成功，\n但因為現代的環境太熱了，\n被認為無法長久生存。",
+        "從化石復原成功的\n寶可夢。曾經群居在\n天敵不多的寒冷地區。",
+        "已經滅絕的古代寶可夢。\n有時候還會以冰封狀態\n被發現喔。"
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "name": "冰雪龍",
+    "types": [
+        "岩石",
+        "冰"
+    ],
+    "weight": 25.2
+}

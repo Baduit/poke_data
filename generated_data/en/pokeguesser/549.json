@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Even veteran Trainers face a challenge\nin getting its beautiful flower to bloom.\nThis Pokémon is popular with celebrities.",
+        "The fragrance of the garland on its head\nhas a relaxing effect. It withers if a\nTrainer does not take good care of it.",
+        "The fragrance of the garland on its head\nhas a relaxing effect, but taking\ncare of it is very difficult.",
+        "The fragrance of the garland on its head\nhas a relaxing effect, but taking\ncare of it is very difficult.",
+        "The fragrance of the garland on its head has a\nrelaxing effect. It withers if a Trainer does not take\ngood care of it.",
+        "Even veteran Trainers face a challenge in getting its\nbeautiful flower to bloom. This Pokémon is popular\nwith celebrities.",
+        "The fragrance of the garland on its head has a\nrelaxing effect. It withers if a Trainer does not take\ngood care of it.",
+        "Even veteran Trainers face a challenge in getting its\nbeautiful flower to bloom. This Pokémon is popular\nwith celebrities.",
+        "No matter how much time and money is spent\nraising it, its flowers are the most beautiful\nwhen they bloom in the wild.",
+        "As soon as it finds a male to be its partner,\nthe beautiful flower on its head darkens,\ndroops, and withers away.",
+        "The fragrance of its flower differs slightly\ndepending on the soil where it grew up.\nSniffing the aroma calms your heart and mind.",
+        "It’s well liked by other Pokémon because of its\nbeauty. The flower on its head needs constant\ncare, or it will soon wither and rot.",
+        "It’s believed that even first-rate gardeners have a\nhard time getting the flower on a Lilligant’s head\nto bloom.",
+        "Essential oils made from Lilligant flowers\nhave a sublime scent, but they’re also\nstaggeringly expensive.",
+        "I suspect that its well-developed legs are the result of a life\nspent on mountains covered in deep snow. The scent it exudes\nfrom its flower crown heartens those in proximity."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+    "name": "Lilligant",
+    "types": [
+        "Grass"
+    ],
+    "weight": 16.3
+}

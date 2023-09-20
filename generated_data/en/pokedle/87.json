@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 1,
+    "height": 1.7,
+    "name": "Dewgong",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "weight": 120.0
+}

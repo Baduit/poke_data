@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 4,
+    "height": 0.7,
+    "name": "Cradopaud",
+    "types": [
+        "Poison",
+        "Combat"
+    ],
+    "weight": 23.0
+}

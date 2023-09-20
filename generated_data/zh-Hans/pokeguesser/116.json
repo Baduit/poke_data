@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在感到危险时会从\n嘴里用力地喷出水\n或者特殊的墨汁。",
+        "在感到危险时会从\n嘴里用力地喷出水\n或者特殊的墨汁。",
+        "栖息在海浪平稳的海里。\n受到袭击时，会喷出漆黑墨汁\n并趁机逃跑。",
+        "会像跳舞一样在水中游动\n以制造漩涡。作为娱乐，\n会和伙伴比拼谁的漩涡更大。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "name": "墨海马",
+    "types": [
+        "水"
+    ],
+    "weight": 8.0
+}

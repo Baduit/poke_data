@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "天真无邪，残酷的阿卡拉的守护神。\n鲜花的芳香气息是它能量的来源。",
+        "四处翩翩飞舞，\n撒下闪着不可思议光芒的鳞粉。\n据说碰到的人眨眼间就会恢复活力。",
+        "会到处撒着闪闪发光的鳞粉，\n治愈人类和宝可梦的伤。\n是阿卡拉所供奉的守护神。",
+        "被称为守护神，却兼有\n天真无邪与残酷的性格，\n被誉为自然的化身。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "卡璞・蝶蝶",
+    "types": [
+        "超能力",
+        "妖精"
+    ],
+    "weight": 18.6
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Im Kampf gräbt es sich ein und attackiert den\nGegner aus einer unvorhersehbaren Richtung.",
+        "Es ist so stark, dass es sich mit Schaufler sogar durch\nsteinharten Boden bis in 100 km Tiefe gräbt.",
+        "Digdri sind Drillinge, die aus einem Körper entstanden sind.\nDaher denken alle Köpfe gleich. Sie arbeiten so gut zusammen,\ndass sie endlos graben können.",
+        "Digdri sind Drillinge, die aus einem Körper entstanden sind.\nDaher denken alle Köpfe gleich. Sie arbeiten so gut zusammen,\ndass sie endlos graben können.",
+        "Die drei arbeiten und handeln stets zusammen.\nDurch Teamwork gelingt es dem Pokémon, sich\nbis zu 100 km tief ins Erdreich zu graben.",
+        "Trotz seiner Beliebtheit bei Farmern und vielen\nanderen Menschen, hat noch niemand den unter\nder Erde versteckten Teil von Digdri gesehen.",
+        "Digdri sind Drillinge und normalerweise ein Herz\nund eine Seele. Nur ganz selten streiten sie sich,\nwelcher Kopf zuerst ans Futter darf.",
+        "Seine Köpfe sind vollkommen glatt und steinhart.\nMit Kopfnüssen gräbt es sich mühelos durch\njeden Untergrund.",
+        "Mit der vereinten Kraft von drei Digda gräbt\nes sich bis zu 100 km tief in die Erde. Berichten\nzufolge löst dies mitunter Erdbeben aus.",
+        "Mit der vereinten Kraft von drei Digda gräbt\nes sich bis zu 100 km tief in die Erde. Berichten\nzufolge löst dies mitunter Erdbeben aus.",
+        "Diese Digda-Drillinge graben sich manchmal\nbis zu 100 km tief in den Erdboden und lösen\ndadurch Erdbeben aus.",
+        "Diese kraftvollen Digda-Drillinge graben bis zu\n100 km tief. Keiner weiß, wie sie unter der Erde\naussehen."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "name": "Digdri",
+    "types": [
+        "Boden"
+    ],
+    "weight": 33.3
+}

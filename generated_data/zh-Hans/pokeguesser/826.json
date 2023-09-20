@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "以头脑聪慧而闻名。\n大大的脑子是它拥有\n出众精神力量的证明。",
+        "释放出精神力量来调查\n周围的情况。它的侦测范围\n甚至可以达到方圆１０公里。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+    "name": "以欧路普",
+    "types": [
+        "虫",
+        "超能力"
+    ],
+    "weight": 40.8
+}

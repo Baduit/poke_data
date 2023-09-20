@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Genera calore grazie ai gas combustibili\naccumulati nel suo corpo. Le parti gialle\ndel suo addome sono particolarmente calde.",
+        "Stritola le prede con il suo corpo ardente e,\nquando sono belle abbrustolite, le divora."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "name": "Sizzlipede",
+    "types": [
+        "Fuoco",
+        "Coleottero"
+    ],
+    "weight": 1.0
+}

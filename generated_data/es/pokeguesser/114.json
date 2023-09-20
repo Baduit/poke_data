@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Se camufla con la multitud de lianas que envuelven su\ncuerpo y que no dejan de crecer a lo largo de toda su\nvida.",
+        "Enreda cualquier cosa que se mueva con sus lianas. Si\nte atrapa, te hará cosquillas con su delicado balanceo.",
+        "A Tangela se le desprenden los tentáculos con facilidad en\ncuanto se los agarras. Y no solo no le duele, sino que le\nresulta muy útil para escapar rápido. Además, al día siguiente\nle crecen otros.",
+        "A Tangela se le desprenden los tentáculos con facilidad en\ncuanto se los agarras. Y no solo no le duele, sino que le\nresulta muy útil para escapar rápido. Además, al día siguiente\nle crecen otros.",
+        "Se camufla tras una gran masa de lianas azules.\nSe dice que nunca dejan de crecer.",
+        "Se camufla tras una gran masa de lianas azules.\nSe dice que nunca dejan de crecer.",
+        "Sus lianas no dejan de crecer aunque se le\ndesprendan. Aún se desconoce qué aspecto\ntiene sin ellas.",
+        "Sus lianas despiden una fragancia peculiar.\nEn cierta zona de Galar se usan como aderezo."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "name": "Tangela",
+    "types": [
+        "Planta"
+    ],
+    "weight": 35.0
+}

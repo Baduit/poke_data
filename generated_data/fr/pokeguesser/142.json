@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Un Pokémon qui arpentait le ciel\nau temps des dinosaures. Ses\ncrocs sont pareils à des scies.",
+        "Un Pokémon qui arpentait le ciel\nau temps des dinosaures. Ses\ncrocs sont pareils à des scies.",
+        "Ce Pokémon a été reconstitué à partir d’une cellule\nde dinosaure trouvée dans un morceau d’ambre.\nIl vole très haut en poussant des cris très aigus.",
+        "Ce terrible Pokémon a dominé les cieux d’une autre\népoque, terrorisant ses ennemis.",
+        "Ptéra est un Pokémon de l’ère des dinosaures. Il fut ressuscité\nà partir de cellules extraites d’un morceau d’ambre. On pense\nqu’il était le roi des cieux à l’époque préhistorique.",
+        "Ptéra est un Pokémon de l’ère des dinosaures. Il fut ressuscité\nà partir de cellules extraites d’un morceau d’ambre. On pense\nqu’il était le roi des cieux à l’époque préhistorique.",
+        "Un Pokémon de l’époque préhistorique.\nIl mangeait ses proies en les déchiquetant\navec ses crocs acérés comme des scies.",
+        "Le roi des airs à l’époque préhistorique.\nLa théorie la plus crédible est qu’il aurait été\nannihilé par la chute d’une énorme météorite.",
+        "Recréé à partir d’ADN contenu dans de l’ambre,\nil s’est avéré plus féroce que prévu et a causé\nla mort de plusieurs personnes.",
+        "L’air suffisant qu’il affichait lorsqu’il volait dans\nles cieux s’effaçait vite une fois sur terre, où il\nétait faible et peinait à se mouvoir rapidement.",
+        "Un Pokémon féroce disparu il y a longtemps.\nIl a été reconstitué à partir d’ADN fossilisé\ndans de l’ambre.",
+        "Un Pokémon féroce disparu il y a longtemps.\nIl a été reconstitué à partir d’ADN fossilisé\ndans de l’ambre.",
+        "On raconte qu’aujourd’hui encore, il est\nimpossible de restaurer à la perfection\nce Pokémon féroce de l’ère préhistorique.",
+        "Sa dentition semblable à une scie peut même\nbroyer la peau des Pokémon Acier."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "name": "Ptéra",
+    "types": [
+        "Roche",
+        "Vol"
+    ],
+    "weight": 59.0
+}

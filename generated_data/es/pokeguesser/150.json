@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Fue creado por un científico tras años de horribles\nexperimentos de ingeniería genética.",
+        "Pokémon creado por recombinación genética de Mew.\nSe dice que es el más salvaje de los Pokémon.",
+        "Mewtwo fue creado por manipulación genética. Pero, a pesar\nde que el hombre creó su cuerpo, dotar a Mewtwo de un\ncorazón compasivo quedó en el olvido.",
+        "Mewtwo fue creado por manipulación genética. Pero, a pesar\nde que el hombre creó su cuerpo, dotar a Mewtwo de un\ncorazón compasivo quedó en el olvido.",
+        "Su ADN es casi el mismo que el de Mew.\nSin embargo, su tamaño y carácter son muy\ndiferentes.",
+        "Su ADN es casi el mismo que el de Mew.\nSin embargo, su tamaño y carácter son muy\ndiferentes."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "name": "Mewtwo",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 122.0
+}

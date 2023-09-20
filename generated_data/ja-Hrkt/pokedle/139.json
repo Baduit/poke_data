@@ -1,0 +1,11 @@
+{
+    "color": "あおいろ",
+    "generation": 1,
+    "height": 1.0,
+    "name": "オムスター",
+    "types": [
+        "いわ",
+        "みず"
+    ],
+    "weight": 35.0
+}

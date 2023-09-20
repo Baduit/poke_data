@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "It is very intelligent and calm.\nBeing exposed to lots of sunlight makes\nits movements swifter.",
+        "They photosynthesize by bathing their\ntails in sunlight. When they are not\nfeeling well, their tails droop.",
+        "Being exposed to sunlight makes\nits movements swifter. It uses\nvines more adeptly than its hands.",
+        "Being exposed to sunlight makes\nits movements swifter. It uses\nvines more adeptly than its hands.",
+        "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands.",
+        "They photosynthesize by bathing their tails in\nsunlight. When they are not feeling well, their\ntails droop.",
+        "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands.",
+        "They photosynthesize by bathing their tails in\nsunlight. When they are not feeling well, their\ntails droop."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "name": "Snivy",
+    "types": [
+        "Grass"
+    ],
+    "weight": 8.1
+}

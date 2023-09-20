@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Its skin is very hard, so it is unhurt\neven if stepped on by sumo wrestlers.\nIt smiles when transmitting electricity.",
+        "It conceals itself in the mud of the\nseashore. Then it waits. When prey touch\nit, it delivers a jolt of electricity.",
+        "When its opponent can’t be paralyzed,\nit contorts itself with unexpected speed\nand flops away.",
+        "When its opponent can’t be paralyzed,\nit contorts itself with unexpected speed\nand flops away.",
+        "Its skin is very hard, so it is unhurt even if stepped\non by sumo wrestlers. It smiles when\ntransmitting electricity.",
+        "It conceals itself in the mud of the seashore.\nThen it waits. When prey touch it, it delivers a jolt\nof electricity.",
+        "Its skin is very hard, so it is unhurt even if stepped\non by sumo wrestlers. It smiles when\ntransmitting electricity.",
+        "It conceals itself in the mud of the seashore.\nThen it waits. When prey touch it, it delivers a jolt\nof electricity.",
+        "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity.",
+        "For some reason, this Pokémon smiles slightly\nwhen it emits a strong electric current from the\nyellow markings on its body."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "name": "Stunfisk",
+    "types": [
+        "Ground",
+        "Electric"
+    ],
+    "weight": 11.0
+}

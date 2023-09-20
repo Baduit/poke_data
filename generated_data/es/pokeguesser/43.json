@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Durante el día, se agazapa en el frío subsuelo huyendo\ndel sol. La luz de la luna le hace crecer mucho.",
+        "Su nombre científico es “Oddium Wanderus”. Se dice\nque de noche puede llegar a desplazarse hasta 300 m\ncon sus dos raíces.",
+        "Durante el día, Oddish se entierra en el suelo para absorber\nnutrientes valiéndose de todo el cuerpo. Cuanto más fértil sea\nel suelo, mayor brillo tendrá en las hojas.",
+        "Oddish busca los suelos fértiles y ricos en nutrientes para\nplantarse en la tierra. Durante el día, se cree que le cambia\nla forma de los pies y se le empiezan a parecer a las raíces\nde los árboles.",
+        "En ocasiones lo confunden con una mala hierba\ny, al tratar de arrancarlo, profiere unos gritos\nescalofriantes.",
+        "En ocasiones lo confunden con una mala hierba\ny, al tratar de arrancarlo, profiere unos gritos\nescalofriantes.",
+        "Se mueve al exponerse a la luz de la luna.\nMerodea por la noche para esparcir sus semillas.",
+        "Durante el día, se agazapa en el frío subsuelo\nhuyendo del sol. La luz de la luna le hace crecer."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "name": "Oddish",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 5.4
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se mueve gracias a la energía que quema dentro de su\ncuerpo, pero el origen de esta energía es incierto.",
+        "Un Pokémon creado a partir del barro gracias a la\nciencia de antaño. Lleva activo miles de años.",
+        "Se mueve gracias a la energía que quema dentro de su\ncuerpo, pero el origen de esta energía es incierto.",
+        "Un Pokémon creado a partir del barro gracias a la ciencia de\nantaño. Lleva activo miles de años.",
+        "Se mueve gracias a una misteriosa energía, pero,\nhabiendo estado activo desde la antigüedad,\ndicha energía podría agotarse tarde o temprano.",
+        "Se dice que fue creado antiguamente a partir de\narcilla para usarlo como sirviente, pero se\ndesconoce cuál es su fuente de energía.",
+        "Un antiguo Pokémon creado a partir del barro.\nSe desconoce el motivo por el que algunos\nejemplares colocan rocas grandes en hileras.",
+        "Fue creado a partir del barro para emplearlo\ncomo sirviente. Todavía acata las órdenes que\nle dio su amo hace milenios."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "name": "Golett",
+    "types": [
+        "Tierra",
+        "Fantasma"
+    ],
+    "weight": 92.0
+}

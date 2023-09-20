@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "La fierté du Prinplouf est si\ngrande qu’il lui est impossible\nde vivre en groupe.",
+        "La fierté du Prinplouf est si\ngrande qu’il lui est impossible\nde vivre en groupe.",
+        "Il vit seul, à l’écart de ses pairs. Chaque individu est\nconvaincu d’être meilleur que les autres.",
+        "C’est un Pokémon solitaire. Un seul coup de ses\npuissantes ailes peut briser un arbre en deux.",
+        "Il vit seul, à l’écart de ses pairs. Chaque individu est convaincu\nd’être meilleur que les autres.",
+        "C’est un Pokémon solitaire. Un seul coup de ses puissantes\nailes peut briser un arbre en deux."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "name": "Prinplouf",
+    "types": [
+        "Eau"
+    ],
+    "weight": 23.0
+}

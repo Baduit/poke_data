@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Respinge i nemici secernendo un liquido vischioso\nin grado di sciogliere qualunque cosa. I suoi occhi\nhanno subito una degenerazione che lo ha reso cieco.",
+        "I quattro corni di questo Pokémon sono simili a un\npotente radar e fungono da organi sensoriali al posto\ndi orecchie e naso.",
+        "Respinge i nemici secernendo un liquido vischioso in grado\ndi sciogliere qualunque cosa. I suoi occhi hanno subito una\ndegenerazione che lo ha reso cieco.",
+        "I quattro corni di questo Pokémon sono simili a un potente\nradar e fungono da organi sensoriali al posto di orecchie\ne naso.",
+        "A volte non riesce a distinguere bene le prede\ndagli amici e, se ha fame, può capitare che\ncerchi di sciogliere un alleato per mangiarselo.",
+        "Rimedia alla mancanza di denti spruzzando un\npotentissimo liquido corrosivo sulle prede per\nscioglierle e berle come un succo.",
+        "Si sposta strisciando lentamente.\nLa protuberanza a forma di spirale sul dorso\ncontiene il cervello e i suoi organi interni.",
+        "Il suo corpo è ricoperto da un liquido vischioso\nin grado di sciogliere qualsiasi cosa e per\ntoccarlo bisogna indossare guanti speciali.",
+        "È un Pokémon debole. Ha evitato l’estinzione\ngrazie al suo muco corrosivo.",
+        "Nella protuberanza che ha sulla schiena si trova\nun piccolo cervello. Pensa solo a mangiare e a\nscappare dai nemici."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "name": "Sliggoo",
+    "types": [
+        "Drago"
+    ],
+    "weight": 17.5
+}

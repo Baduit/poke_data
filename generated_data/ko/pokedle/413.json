@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 4,
+    "height": 0.5,
+    "name": "도롱마담",
+    "types": [
+        "벌레",
+        "풀"
+    ],
+    "weight": 6.5
+}

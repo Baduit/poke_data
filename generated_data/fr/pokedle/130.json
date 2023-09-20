@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 1,
+    "height": 6.5,
+    "name": "Léviator",
+    "types": [
+        "Eau",
+        "Vol"
+    ],
+    "weight": 235.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "地面を　滑るように　走る。\n素早い　動きで　敵を　まどわせ\nつるのムチで　しとめるのだ。",
+        "体が　汚れると　葉っぱで\n光合成が　できなくなるので\nいつも　清潔に　している。",
+        "地面を　滑るように　走る。\n素早い　動きで　敵を　まどわせ\nつるのムチで　しとめるのだ。",
+        "体が　汚れると　葉っぱで\n光合成が　できなくなるので\nいつも　清潔に　している。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png",
+    "name": "ジャノビー",
+    "types": [
+        "くさ"
+    ],
+    "weight": 16.0
+}

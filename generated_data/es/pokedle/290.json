@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Nincada",
+    "types": [
+        "Bicho",
+        "Tierra"
+    ],
+    "weight": 5.5
+}

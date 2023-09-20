@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Cuando acumula energía, las suaves púas de su\ncabeza se vuelven tan duras y afiladas que hasta\npueden atravesar rocas.",
+        "La robusta coraza que le recubre la cabeza y la\nespalda lo protege de tal manera que podría\nchocar contra un camión y permanecer impasible.",
+        "Cuando acumula energía, las suaves púas de su cabeza se\nvuelven tan duras y afiladas que hasta pueden atravesar\nrocas.",
+        "La robusta coraza que le recubre la cabeza y la espalda lo\nprotege de tal manera que podría chocar contra un camión y\npermanecer impasible."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+    "name": "Chespin",
+    "types": [
+        "Planta"
+    ],
+    "weight": 9.0
+}

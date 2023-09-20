@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Burmadame",
+    "types": [
+        "Käfer",
+        "Pflanze"
+    ],
+    "weight": 6.5
+}

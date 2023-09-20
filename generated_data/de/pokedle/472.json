@@ -1,0 +1,11 @@
+{
+    "color": "Violett",
+    "generation": 4,
+    "height": 2.0,
+    "name": "Skorgro",
+    "types": [
+        "Boden",
+        "Flug"
+    ],
+    "weight": 42.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Spheal",
+    "types": [
+        "Ghiaccio",
+        "Acqua"
+    ],
+    "weight": 39.5
+}

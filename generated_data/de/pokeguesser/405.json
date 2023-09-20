@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Leuchten seine Augen golden auf, kann es Beute,\ndie sich versteckt, sehen. Es kann durch Wände sehen.",
+        "Beim Aufspüren von Gefahren sind Luxtras\nhellseherische Fähigkeiten äußerst hilfreich.",
+        "Leuchten seine Augen golden auf, kann es Beute, die sich\nversteckt, sehen. Es kann durch Wände sehen.",
+        "Beim Aufspüren von Gefahren sind Luxtras hellseherische\nFähigkeiten äußerst hilfreich.",
+        "Dieses Pokémon verfügt über einen Röntgenblick.\nSo kann es im Nu Beute aufspüren, selbst wenn\nsich diese hinter dicken Wänden versteckt.",
+        "Der Einsatz seines Röntgenblicks verbraucht sehr\nviel Elektrizität. Luxtra gewinnt diese zurück,\nindem es lange schläft."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+    "name": "Luxtra",
+    "types": [
+        "Elektro"
+    ],
+    "weight": 42.0
+}

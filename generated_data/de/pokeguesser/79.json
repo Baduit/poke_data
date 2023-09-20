@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Es faulenzt am Wasser. Wenn es in den Schweif\ngebissen wird, bemerkt es das erst am nächsten Tag.",
+        "Es ist stets in Gedanken versunken und niemand\nweiß, worüber es nachdenkt. Es kann mit seiner\nRute gut angeln.",
+        "Flegmon benutzt seinen Schweif, um Beute zu fangen, indem\nes ihn an einem Flussufer ins Wasser taucht. Dieses Pokémon\nvergisst häufig, was es gerade tun wollte, und verbringt ganze\nTage damit, am Ufer herumzutrödeln.",
+        "Flegmon benutzt seinen Schweif, um Beute zu fangen, indem\nes ihn an einem Flussufer ins Wasser taucht. Dieses Pokémon\nvergisst häufig, was es gerade tun wollte, und verbringt ganze\nTage damit, am Ufer herumzutrödeln.",
+        "Seine Rute bricht sehr leicht ab. Dies kümmert\nes jedoch wenig, da es dabei keine Schmerzen\nspürt und sie sofort wieder nachwächst.",
+        "In Alola bereiten viele Familien Flegmon-Ruten\nzu, indem sie diese zuerst trocknen und dann\nin Salzwasser kochen.",
+        "Einer Legende zufolge soll Flegmons Gähnen\nRegen herbeiführen. In manchen Regionen wird\nihm deswegen gehuldigt.",
+        "Von selbst abgefallene Flegmon-Ruten scheinen\nüberall herumzuliegen. Dennoch gilt dieses\neinfache Nahrungsmittel als hochwertig.",
+        "Dieses Pokémon ist unglaublich faul und träge.\nEs faulenzt den ganzen Tag lang und schert sich\nnicht um die verstrichene Zeit.",
+        "Dieses Pokémon ist unglaublich faul und träge.\nEs faulenzt den ganzen Tag lang und schert sich\nnicht um die verstrichene Zeit.",
+        "Es ist so träge und unempfindlich, dass es keinen\nSchmerz verspürt, wenn seine Rute gegessen wird.\nEs bemerkt nicht einmal, dass sie nachwächst.",
+        "Taucht es seine Rute ins Wasser, strömt sie ein\nsüßes Aroma aus. Mit diesem Köder lockt es\nandere Pokémon an, die es dann an Land zieht."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "name": "Flegmon",
+    "types": [
+        "Wasser",
+        "Psycho"
+    ],
+    "weight": 36.0
+}

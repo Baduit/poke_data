@@ -1,0 +1,11 @@
+{
+    "color": "褐色",
+    "generation": 1,
+    "height": 1.0,
+    "name": "隆隆石",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 105.0
+}

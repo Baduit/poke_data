@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il saisit sa proie avec les pinces de\nsa queue et lui injecte un poison.\nIl peut survivre un an sans manger.",
+        "Il saisit sa proie avec les pinces de\nsa queue et lui injecte un poison.\nIl peut survivre un an sans manger.",
+        "Il saisit sa proie avec les pinces de sa queue, lui\ninjecte un poison et la retient jusqu’à ce qu’il agisse.",
+        "Il attend, en embuscade dans le sable, et empoisonne\nses proies avec les pinces de sa queue.",
+        "Il saisit sa proie avec les pinces de sa queue, lui injecte\nun poison et la retient jusqu’à ce qu’il agisse.",
+        "Il attend, en embuscade dans le sable, et empoisonne\nses proies avec les pinces de sa queue.",
+        "Il s’enfouit dans le sable et attend patiemment\nses proies. Il a des ancêtres en commun\navec Grillepattes.",
+        "Il attaque avec les pinces empoisonnées\nde sa queue. Le venin se répand alors\ndans le corps de la victime et la paralyse."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "name": "Rapion",
+    "types": [
+        "Poison",
+        "Insecte"
+    ],
+    "weight": 12.0
+}

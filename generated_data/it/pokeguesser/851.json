@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Quando genera calore, la temperatura del suo\ncorpo raggiunge gli 800 ºC. Si lancia all’attacco\nusando il corpo come una frusta.",
+        "Ha una natura aggressiva. Il suo corpo\nincandescente lo rende molto pericoloso,\ncosì come le sue lunghe zanne appuntite."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "name": "Centiskorch",
+    "types": [
+        "Fuoco",
+        "Coleottero"
+    ],
+    "weight": 120.0
+}

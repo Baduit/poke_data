@@ -1,0 +1,11 @@
+{
+    "color": "白色",
+    "generation": 5,
+    "height": 0.4,
+    "name": "電飛鼠",
+    "types": [
+        "電",
+        "飛行"
+    ],
+    "weight": 5.0
+}

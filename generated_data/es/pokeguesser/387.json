@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Realiza la fotosíntesis al bañarle los rayos de sol.\nSu concha está formada por tierra endurecida.",
+        "Realiza la fotosíntesis para obtener oxígeno. Si tiene\nsed, las hojas de la cabeza se marchitan.",
+        "Realiza la fotosíntesis al bañarle los rayos de sol. Su concha\nestá formada por tierra endurecida.",
+        "Realiza la fotosíntesis para obtener oxígeno. Si tiene sed,\nlas hojas de la cabeza se marchitan."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+    "name": "Turtwig",
+    "types": [
+        "Planta"
+    ],
+    "weight": 10.2
+}

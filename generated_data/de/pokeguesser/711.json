@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Unter unheimlichen Gesängen durchstreift es in\nNeumondnächten Städte und Dörfer. Wer dem\nunheilvollen Gesang lauscht, wird verflucht.",
+        "Mit seinen haarähnlichen Armen erfasst es seine Beute\nund stimmt angesichts deren offenkundiger Qualen\nfreudig ein Lied an.",
+        "Unter unheimlichen Gesängen durchstreift es in\nNeumondnächten Städte und Dörfer. Wer dem\nunheilvollen Gesang lauscht, wird verflucht.",
+        "Mit seinen haarähnlichen Armen erfasst es seine Beute\nund stimmt angesichts deren offenkundiger Qualen freudig\nein Lied an.",
+        "Man sagt, der unheimliche Gesang, der nachts\naus dem Körper von diesem Pokémon dringt,\nsei das Wehklagen der Toten aus dem Jenseits.",
+        "In Neumondnächten klopft Pumpdjinn an die\nEingangstüren der Häuser. Wer sie ihm öffnet,\nwird von ihm ins Jenseits entführt."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "name": "Pumpdjinn",
+    "types": [
+        "Geist",
+        "Pflanze"
+    ],
+    "weight": 12.5
+}

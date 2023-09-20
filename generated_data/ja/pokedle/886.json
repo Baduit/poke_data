@@ -1,0 +1,11 @@
+{
+    "color": "緑色",
+    "generation": 8,
+    "height": 1.4,
+    "name": "ドロンチ",
+    "types": [
+        "ドラゴン",
+        "ゴースト"
+    ],
+    "weight": 11.0
+}

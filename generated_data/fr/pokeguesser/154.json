@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Son souffle a l’incroyable capacité\nde ranimer les plantes et les fleurs\nflétries.",
+        "Son souffle a l’incroyable capacité\nde ranimer les plantes et les fleurs\nflétries.",
+        "L’arôme qui émane de ses pétales contient\nune substance qui calme les pulsions agressives.",
+        "Le souffle de Méganium a le pouvoir de redonner\nla santé aux plantes malades ou mortes.",
+        "Le parfum de la fleur de Méganium apaise et calme les esprits.\nPendant les combats, ce Pokémon émet son parfum relaxant\npour atténuer l’agressivité de l’ennemi.",
+        "Le parfum de la fleur de Méganium apaise et calme les esprits.\nPendant les combats, ce Pokémon émet son parfum relaxant\npour atténuer l’agressivité de l’ennemi."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "name": "Méganium",
+    "types": [
+        "Plante"
+    ],
+    "weight": 100.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Vive nei deserti. Scava buche nel terreno e vi si\napposta, attendendo che le prede vi caschino dentro.",
+        "Costruisce un nido a forma di imbuto dal quale non si\npuò scappare, aspettando poi che le prede cadano in\ntrappola.",
+        "La tana di Trapinch è ricavata in una ripida fossa a forma\ndi sacca scavata nella sabbia. Il Pokémon attende\npazientemente che la preda cada in trappola.\nLe sue possenti mascelle frantumano anche la pietra.",
+        "Trapinch è un paziente cacciatore. Nel deserto scava fosse\nmicidiali e attende che la preda cada in trappola. Questo\nPokémon può vivere senz’acqua anche per una settimana.",
+        "Può sopravvivere senza cibo nella sua tana\nanche per una settimana, mentre attende\npaziente che le prede cadano in trappola.",
+        "Scava una tana a forma di imbuto nella sabbia\nfrantumando le rocce che lo ostacolano\ncon le sue possenti mascelle.",
+        "Con le pesanti mascelle spacca anche le pietre.\nTuttavia, se cade all’indietro non può rialzarsi\ne Sandile ne approfitta per attaccarlo.",
+        "Costruisce una tana che fa anche da trappola e\nattende pazientemente le prede. La notte dorme\nsotto la sabbia.",
+        "Se si cade in una delle tane a forma di imbuto\nche scava nel deserto, è impossibile sfuggirne.",
+        "Costruisce una tana a forma di imbuto dalla\nquale non si può scappare, aspettando poi\nche le prede cadano in trappola."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "name": "Trapinch",
+    "types": [
+        "Terra"
+    ],
+    "weight": 15.0
+}

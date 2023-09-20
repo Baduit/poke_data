@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "철을 만들어내는 힘을 가졌다고\n추앙받았었다. 모종의 이유로\n3000년의 세월이 흘러 되살아났다.",
+        "철을 만들어내는 힘을 가졌다고\n추앙받았었다. 모종의 이유로\n3000년의 세월이 흘러 되살아났다.",
+        "수명이 다하면 몸이 녹슬고\n붕괴한다. 이윽고 작은 파편이\n멜탄으로 부활한다.",
+        "원심력으로 힘을 더해서\n날리는 묵직한 너트 펀치는\n포켓몬 중 최강이라고 전해진다."
+    ],
+    "height": 2.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png",
+    "name": "멜메탈",
+    "types": [
+        "강철"
+    ],
+    "weight": 800.0
+}

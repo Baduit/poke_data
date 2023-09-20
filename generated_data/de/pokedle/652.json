@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 6,
+    "height": 1.6,
+    "name": "Brigaron",
+    "types": [
+        "Pflanze",
+        "Kampf"
+    ],
+    "weight": 90.0
+}

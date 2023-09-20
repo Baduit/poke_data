@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Pelipper",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 28.0
+}

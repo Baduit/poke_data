@@ -1,0 +1,40 @@
+{
+    "descriptions": [
+        "It uses its\npowerful tail in\nbattle to smash,\fconstrict, then\nbreak the prey's\nbones.",
+        "It uses its\npowerful tail in\nbattle to smash,\fconstrict, then\nbreak the prey's\nbones.",
+        "Its steel-like\nhide adds to its\npowerful tackle.\fIts horns are so\nhard, they can\npierce a diamond.",
+        "It swings its big\ntail around during\nbattle. If its foe\fflinches, it will\ncharge with its\nsturdy body.",
+        "Its tail is thick\nand powerful. If\nit binds an enemy,\fit can snap the\nvictim's spine\nquite easily.",
+        "It uses its thick\narms, legs and\ntail to attack\fforcefully. Melee\ncombat is its\nspecialty.",
+        "NIDOKING’s thick tail packs enormously\ndestructive power. With one swing, it\ncan topple a metal transmission tower.\fOnce this POKéMON goes on a rampage,\nthere is no stopping it.",
+        "NIDOKING’s thick tail packs enormously\ndestructive power. With one swing, it\ncan topple a metal transmission tower.\fOnce this POKéMON goes on a rampage,\nthere is no stopping it.",
+        "A NIDOKING’s thick tail packs enormously\ndestructive power capable of toppling\na metal transmission tower. Once it goes\non a rampage, there is no stopping it.",
+        "It is recognized by its rock-hard hide\nand its extended horn. Be careful with\nthe horn as it contains venom.",
+        "It uses its powerful tail in battle to\nsmash, constrict, then break the prey’s\nbones.",
+        "One swing of its mighty tail can\nsnap a telephone pole as if it were\na matchstick.",
+        "One swing of its mighty tail can\nsnap a telephone pole as if it were\na matchstick.",
+        "One swing of its mighty tail can\nsnap a telephone pole as if it were\na matchstick.",
+        "It swings its big tail around during\nbattle. If its foe flinches, it will\ncharge with its sturdy body.",
+        "Its tail is thick and powerful. If\nit binds an enemy, it can render the\nvictim helpless quite easily.",
+        "One swing of its mighty tail can\nsnap a telephone pole as if it were\na matchstick.",
+        "One swing of its mighty tail can\nsnap a telephone pole as if it were\na matchstick.",
+        "One swing of its mighty tail can\nsnap a telephone pole as if it were\na matchstick.",
+        "One swing of its mighty tail can\nsnap a telephone pole as if it were\na matchstick.",
+        "It is recognized by its rock-hard hide and\nits extended horn. Be careful with the horn,\nas it contains venom.",
+        "One swing of its mighty tail can snap a telephone\npole as if it were a matchstick.",
+        "Nidoking’s thick tail packs enormously destructive power.\nWith one swing, it can topple a metal transmission tower.\nOnce this Pokémon goes on a rampage, there is no stopping it.",
+        "Nidoking’s thick tail packs enormously destructive power.\nWith one swing, it can topple a metal transmission tower. Once\nthis Pokémon goes on a rampage, there is no stopping it.",
+        "Its steel-like hide adds to its powerful tackle.\nIts horns are so hard, they can pierce a diamond.",
+        "Its steel-like hide adds to its powerful tackle.\nIts horns are so hard, they can pierce a diamond.",
+        "When it goes on a rampage, it’s impossible to\ncontrol. But in the presence of a Nidoqueen it’s\nlived with for a long time, Nidoking calms down.",
+        "Nidoking prides itself on its strength. It’s forceful\nand spirited in battle, making use of its thick tail\nand diamond-crushing horn."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "name": "Nidoking",
+    "types": [
+        "Poison",
+        "Ground"
+    ],
+    "weight": 62.0
+}

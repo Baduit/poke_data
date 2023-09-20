@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 7,
+    "height": 0.3,
+    "name": "메테노",
+    "types": [
+        "바위",
+        "비행"
+    ],
+    "weight": 40.0
+}

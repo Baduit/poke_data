@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Solrock",
+    "types": [
+        "Roca",
+        "Psíquico"
+    ],
+    "weight": 154.0
+}

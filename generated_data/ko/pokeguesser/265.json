@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "잎사귀를 매우 좋아한다.\n찌르꼬에게 습격당했을 때는\n엉덩이의 가시로 물리친다.",
+        "숲과 수풀에 서식한다.\n적에게 습격당했을 때는 엉덩이의\n독가시로 대항한다.",
+        "엉덩이의 가시로 나무의 껍질을 벗기고\n배어 나온 수액을 식량으로 삼는다.\n흡반이 달린 다리는 유리에서도 미끄러지지 않는다.",
+        "먹이로 삼으려고 다가온 스왈로에게\n엉덩이의 가시를 들이밀고 저항한다.\n배어 나온 독으로 상대를 약하게 만든다."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "name": "개무소",
+    "types": [
+        "벌레"
+    ],
+    "weight": 3.6
+}

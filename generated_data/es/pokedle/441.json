@@ -1,0 +1,11 @@
+{
+    "color": "Negro",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Chatot",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 1.9
+}

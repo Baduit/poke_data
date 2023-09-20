@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 1,
+    "height": 0.8,
+    "name": "Ortide",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 8.6
+}

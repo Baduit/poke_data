@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 6,
+    "height": 1.2,
+    "name": "Talonflame",
+    "types": [
+        "Fuego",
+        "Volador"
+    ],
+    "weight": 24.5
+}

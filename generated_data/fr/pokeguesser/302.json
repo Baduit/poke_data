@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "À force de manger des gemmes, les\nyeux de ce Pokémon des grottes\nobscures sont devenus des joyaux.",
+        "À force de manger des gemmes, les\nyeux de ce Pokémon des grottes\nobscures sont devenus des joyaux.",
+        "À force de manger des gemmes, les yeux de ce\nPokémon des grottes obscures sont devenus des\njoyaux.",
+        "Ce Pokémon vit dans les grottes obscures et mange\ndes gemmes qu’il déterre avec ses griffes acérées.",
+        "Les Ténéfix mènent une vie tranquille dans les cavernes.\nPourtant, ils sont craints, car on raconte que ces Pokémon\nvolent l’esprit des gens quand leurs yeux brillent\ndans l’obscurité.",
+        "Ténéfix creuse le sol avec ses griffes acérées pour trouver\ndes rochers à manger. Les substances des rochers avalés\nse cristallisent et remontent sur la peau de ce Pokémon.",
+        "Comme il adore tout ce qui brille, il traque\nsouvent les Strassie. Malheureusement, il se fait\ntout aussi souvent devancer par Carmache.",
+        "Pokémon redouté de beaucoup, car l’éclat\nde ses yeux précieux donne l’impression qu’il\ns’apprête à dérober l’âme de ceux qu’il regarde.",
+        "Il creuse le sol de ses griffes acérées pour\ntrouver des gemmes, qu’il croque comme\ns’il s’agissait de chips. Il raffole des Strassie.",
+        "Les éléments présents dans les gemmes qu’il\nmange remontent à la surface de son corps,\nformant des motifs d’une infinie variété.",
+        "Beaucoup de gens le craignent, car l’éclat\nde ses yeux précieux donne l’impression qu’il\ns’apprête à dérober l’âme de ceux qu’il regarde.",
+        "Ce Pokémon se nourrit de pierres précieuses.\nDans les ténèbres, ses yeux brillent du reflet\ndes joyaux."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "name": "Ténéfix",
+    "types": [
+        "Ténèbres",
+        "Spectre"
+    ],
+    "weight": 11.0
+}

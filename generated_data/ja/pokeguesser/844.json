@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "全身を　縮め　１００キロの\n砂を　鼻の　穴から　噴射。\n砂が　ないと　弱気に　なるぞ。",
+        "独特の　とぐろの　巻き方は\n砂袋の　砂を　より　効率\nよく　噴射　するため　なのだ。"
+    ],
+    "height": 3.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "name": "サダイジャ",
+    "types": [
+        "じめん"
+    ],
+    "weight": 65.5
+}

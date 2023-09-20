@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "只要一有东西靠近，它就会射出\n钢铁外壳的碎片进行攻击。\n这是一种无意识的条件反射。",
+        "仅在吞下猎物的瞬间，壳里面的\n身体才会出现，但至今仍未有\n人或宝可梦见过其真面目。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "name": "佛烈托斯",
+    "types": [
+        "虫",
+        "钢"
+    ],
+    "weight": 125.8
+}

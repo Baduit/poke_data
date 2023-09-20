@@ -1,0 +1,11 @@
+{
+    "color": "Marrone",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Minior",
+    "types": [
+        "Roccia",
+        "Volante"
+    ],
+    "weight": 40.0
+}

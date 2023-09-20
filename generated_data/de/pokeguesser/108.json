@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Seine Zunge ist mit klebrigem Speichel bedeckt,\nder überall haftet. Dies ist sehr nützlich.",
+        "Seine Zunge ist doppelt so lang wie sein Körper.\nEs kann sie wie einen Arm bewegen, um damit\nNahrung zu greifen oder zu attackieren.",
+        "Wenn Schlurp etwas Neues entdeckt, leckt es daran.\nEs merkt sich Gegenstände anhand der Struktur und\ndes Geschmacks. Saure Sachen schrecken es eher ab.",
+        "Wenn Schlurp etwas Neues entdeckt, leckt es daran.\nEs merkt sich Gegenstände anhand der Struktur und\ndes Geschmacks. Saure Sachen schrecken es eher ab.",
+        "Mit seiner langen Zunge leckt es an allem, um es\nzu prüfen. Lässt man eine abgeleckte Stelle\nunbehandelt, entwickelt sich ein Ausschlag.",
+        "Seine Zunge leckt jede Unreinheit sauber.\nDanach haftet allerdings ein übler Geruch daran,\nwas wiederum am Ergebnis zweifeln lässt.",
+        "Schlurps Zunge ist bis zu zwei Meter lang.\nEs kann sie geschickter bewegen als seine\nVorderbeine und andere damit paralysieren.",
+        "Schlurps Zunge ist bis zu zwei Meter lang.\nEs kann sie geschickter bewegen als seine\nVorderbeine und andere damit paralysieren.",
+        "Wäscht man sich nach der Berührung mit seinem\nklebrigen Speichel nicht, setzt bald ein starker\nJuckreiz ein, der nicht mehr zu stoppen ist.",
+        "Es ernährt sich vorwiegend von Käfer-Pokémon.\nHat es diese mit der langen Zunge abgeschleckt\nund dadurch gelähmt, verschlingt es sie im Nu."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "name": "Schlurp",
+    "types": [
+        "Normal"
+    ],
+    "weight": 65.5
+}

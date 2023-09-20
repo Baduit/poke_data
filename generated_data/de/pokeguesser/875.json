@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Es kam von einem extrem kalten Ort, indem es\nsich treiben ließ und schließlich angespült wurde.\nEs kühlt unablässig sein Gesicht mit Eis.",
+        "Es kühlt sein Gesicht ständig mit Eis, da dieses\nHitze nicht gut verträgt. Das Haar auf dem Kopf\nhängt es ins Meer und angelt sich damit Beute."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+    "name": "Kubuin",
+    "types": [
+        "Eis"
+    ],
+    "weight": 89.0
+}

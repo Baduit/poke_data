@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Mothim",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 23.3
+}

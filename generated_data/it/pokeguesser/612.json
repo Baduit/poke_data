@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ha un carattere gentile, ma non perdona chi devasta\nil suo territorio. Le sue zanne possono tagliare\nl’acciaio.",
+        "Ha forti zanne che non si spezzano neanche quando\ntrancia travi d’acciaio. È protetto da una resistente\narmatura.",
+        "Ha un carattere gentile, ma non perdona chi devasta il suo\nterritorio. Le sue zanne possono tagliare l’acciaio.",
+        "Ha forti zanne che non si spezzano neanche quando trancia\ntravi d’acciaio. È protetto da una resistente armatura.",
+        "Va fiero delle sue zanne grandi e robuste,\ne assorbe i minerali necessari a mantenerle\nin ottime condizioni leccando la terra.",
+        "È di natura mite, ma se si arrabbia sono guai.\nLe zanne, di cui va fiero, possono fare a pezzi\nanche il cemento armato."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "name": "Haxorus",
+    "types": [
+        "Drago"
+    ],
+    "weight": 105.5
+}

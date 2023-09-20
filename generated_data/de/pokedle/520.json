@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Navitaub",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 8,
+    "height": 0.4,
+    "name": "Toxel",
+    "types": [
+        "Eléctrico",
+        "Veneno"
+    ],
+    "weight": 11.0
+}

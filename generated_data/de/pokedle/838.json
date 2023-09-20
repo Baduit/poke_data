@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 8,
+    "height": 1.1,
+    "name": "Wagong",
+    "types": [
+        "Gestein",
+        "Feuer"
+    ],
+    "weight": 78.0
+}

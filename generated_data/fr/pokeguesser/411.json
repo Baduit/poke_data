@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "En groupe, ils protègent leurs\npetits en formant autour d’eux\nune impénétrable muraille.",
+        "En groupe, ils protègent leurs\npetits en formant autour d’eux\nune impénétrable muraille.",
+        "En groupe, ils protègent leurs petits en formant autour\nd’eux une impénétrable muraille.",
+        "Il résiste à toute attaque frontale. C’est un Pokémon\ndocile qui se nourrit d’herbe et de Baies.",
+        "En groupe, ils protègent leurs petits en formant autour d’eux\nune impénétrable muraille.",
+        "Il résiste à toute attaque frontale. C’est un Pokémon docile\nqui se nourrit d’herbe et de Baies.",
+        "S’il peut parer quasiment tous les assauts de\nface, il est extrêmement vulnérable aux attaques\npar-derrière.",
+        "Il vivait dans les mêmes zones que le Charkos.\nOn trouve parfois leurs fossiles embrassés pour\nl’éternité suite à un K.O. mutuel.",
+        "Jusqu’à ce qu’on reconstitue ce Pokémon avec\nsuccès, on prenait les grands os solides qui\ncouvrent son visage pour sa colonne vertébrale.",
+        "Un Pokémon éteint depuis environ 100 millions\nd’années. Sa tête incroyablement solide était\nplus dure que l’acier."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "name": "Bastiodon",
+    "types": [
+        "Roche",
+        "Acier"
+    ],
+    "weight": 149.5
+}

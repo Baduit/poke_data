@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 6,
+    "height": 0.4,
+    "name": "Pitrouille",
+    "types": [
+        "Spectre",
+        "Plante"
+    ],
+    "weight": 5.0
+}

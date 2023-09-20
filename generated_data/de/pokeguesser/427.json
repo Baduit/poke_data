@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Seine Ohren sind immer aufgerollt. Mit ihnen kann\nes selbst große Felsbrocken zertrümmern.",
+        "Nimmt es Gefahr wahr, richtet es seine Ohren auf.\nIn kalten Nächten vergräbt es den Kopf in seinem Fell.",
+        "Seine Ohren sind immer aufgerollt. Mit ihnen kann es selbst\ngroße Felsbrocken zertrümmern.",
+        "Nimmt es Gefahr wahr, richtet es seine Ohren auf.\nIn kalten Nächten vergräbt es den Kopf in seinem Fell.",
+        "Seine Gliedmaßen sind schwach, doch wenn es\nseine aufgerollten Ohren mit geballter Kraft\nhervorschnellen lässt, pulverisiert es jeden Fels.",
+        "Eines seiner Ohren ist stets aufgerollt, damit es\nim Falle eines gegnerischen Angriffs jederzeit\nzurückschlagen kann.",
+        "Sind seine beiden Ohren aufgerollt, deutet das\ndarauf hin, dass es ihm körperlich oder psychisch\nnicht gut geht und es Zuwendung braucht.",
+        "Es greift an, indem es seine Ohren aufrollt und\nmit viel Schwung wieder entrollt. Durch Training\nkann Haspiror die Kraft dieser Attacke steigern."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "name": "Haspiror",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.5
+}

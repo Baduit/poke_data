@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Trotz seines wuchtigen und massiven Körpers kann\nes fliegen. Es umrundet den Erdball in nur 16 Stunden.",
+        "Man sagt, es lebe in den Meeren. Es bringt\nSchiffbrüchige sicher an Land.",
+        "Dragoran kann die Welt innerhalb von 16 Stunden umkreisen.\nEs ist ein gutherziges Pokémon, das vermisste und sinkende\nSchiffe bei Unwetter sicher an Land zurückbringt.",
+        "Dragoran kann die Welt innerhalb von 16 Stunden umkreisen.\nEs ist ein gutherziges Pokémon, das vermisste und sinkende\nSchiffe bei Unwetter sicher an Land zurückbringt.",
+        "Einst rettete ein Dragoran einen Schiffbrüchigen\nund nahm ihn zu einem einsamen Inselparadies\nmit. Dort wohnten angeblich nur Dragoran.",
+        "Eigentlich ist es ein äußerst sanftmütiges\nPokémon, aber wenn man es verärgert,\nschlägt es alles um sich herum kurz und klein.",
+        "Es fliegt ohne Bedenken selbst über tosende\nMeere. Ein Schiffskapitän nannte es nach\ndiesem Anblick die „Inkarnation des Meeres“.",
+        "Dragoran ist ein äußerst gutherziges Pokémon,\nvon dem man sich erzählt, es habe Menschen\nund andere Pokémon vor dem Ertrinken gerettet.",
+        "Es heißt, dass Dragoran in einem entlegenen\nWinkel des Meeres zu Hause sei und fliegen\nkönne, doch das sind nur Gerüchte.",
+        "Es heißt, dass Dragoran in einem entlegenen\nWinkel des Meeres zu Hause sei und fliegen\nkönne, doch das sind nur Gerüchte.",
+        "Erspäht dieses gutherzige Pokémon ertrinkende\nMenschen oder Pokémon, so kann es gar nicht\nanders, als sie zu retten.",
+        "Dragoran wird die „Inkarnation des Meeres“\ngenannt. Sein Ebenbild ziert den Bug vieler\nSchiffe als Galionsfigur."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "name": "Dragoran",
+    "types": [
+        "Drache",
+        "Flug"
+    ],
+    "weight": 210.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 6,
+    "height": 1.0,
+    "name": "Elezard",
+    "types": [
+        "Elektro",
+        "Normal"
+    ],
+    "weight": 21.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "倒斃路邊者的怨念\n附在孩子們堆砌的沙山上\n誕生而成。",
+        "為了讓沙山的身體變大，\n會操縱把手伸進自己嘴巴者。",
+        "很喜歡頭上的鏟子。\n會和來拿回鏟子的孩子打架，\n打著打著往往會真的互毆起來。",
+        "玩沙時堆成的沙山如果沒有\n在回家時破壞掉，就有可能\n被靈魂附上而變成沙丘娃。",
+        "死者的怨念附在沙丘上，\n從而變成的寶可夢。\n很喜歡頭上的鏟子。",
+        "主要棲息在沙灘上。會操縱\n把手伸進自己嘴巴裡的對手，\n藉此讓自己的身體變得更大。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+    "name": "沙丘娃",
+    "types": [
+        "幽靈",
+        "地面"
+    ],
+    "weight": 70.0
+}

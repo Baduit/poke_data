@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Barboach",
+    "types": [
+        "Agua",
+        "Tierra"
+    ],
+    "weight": 1.9
+}

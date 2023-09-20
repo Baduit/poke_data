@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Born on a cold seafloor, it\nwill swim great distances to\nreturn to its birthplace.",
+        "Water makes up 80% of its body.\nThis Pokémon is easily affected by\nits environment.",
+        "It is born with a wondrous power\nthat lets it bond with any kind of\nPokémon.",
+        "It starts its life with a wondrous power\nthat permits it to bond with any kind\nof Pokémon.",
+        "It starts its life with a wondrous power\nthat permits it to bond with any kind\nof Pokémon.",
+        "It is born with a wondrous power\nthat lets it bond with any kind of\nPokémon.",
+        "It is born with a wondrous power\nthat lets it bond with any kind of\nPokémon.",
+        "It is born with a wondrous power\nthat lets it bond with any kind of\nPokémon.",
+        "It is born with a wondrous power\nthat lets it bond with any kind of\nPokémon.",
+        "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
+        "It starts its life with a wondrous power that permits\nit to bond with any kind of Pokémon.",
+        "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
+        "It starts its life with a wondrous power that permits\nit to bond with any kind of Pokémon.",
+        "Rumored to migrate across the oceans and visit Hisui's coastal\nwaters only rarely. Although Manaphy resembles Phione, it is\nalso quite different. The relation between the two is unclear."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "name": "Manaphy",
+    "types": [
+        "Water"
+    ],
+    "weight": 1.4
+}

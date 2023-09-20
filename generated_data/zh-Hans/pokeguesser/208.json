@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "据说当大岩蛇活到了\n１００年以上，身体的成分\n就会变得如同钻石一般。",
+        "人们认为它的身体是因为\n堆积了很多和泥土一起吞下的\n铁元素，才会发生变化的。"
+    ],
+    "height": 9.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+    "name": "大钢蛇",
+    "types": [
+        "钢",
+        "地面"
+    ],
+    "weight": 400.0
+}

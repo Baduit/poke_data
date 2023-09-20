@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 8,
+    "height": 0.2,
+    "name": "Knapfel",
+    "types": [
+        "Pflanze",
+        "Drache"
+    ],
+    "weight": 0.5
+}

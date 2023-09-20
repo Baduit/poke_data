@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Se resta ferito durante una battaglia violenta, diventa\nduro come la pietra e medita per purificare la mente.",
+        "La sua fiamma interna, alla temperatura di 1400 °C,\nsviluppa una potenza tale da distruggere un autocarro.",
+        "Se resta ferito durante una battaglia violenta, diventa duro\ncome la pietra e medita per purificare la mente.",
+        "La sua fiamma interna, alla temperatura di 1400 °C, sviluppa\nuna potenza tale da distruggere un autocarro.",
+        "Pokémon dal sangue caldo. I pugni che sferra\ncon i suoi massicci arti superiori possono\nridurre in polvere anche un autocarro.",
+        "La sua fiamma interna può raggiungere\ntemperature di oltre 1.400 ºC. Più intensamente\narde, più la potenza del Pokémon aumenta."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "name": "Darmanitan",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 92.9
+}

@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 6,
+    "height": 0.5,
+    "name": "수레기",
+    "types": [
+        "독",
+        "물"
+    ],
+    "weight": 7.3
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 1,
+    "height": 1.6,
+    "name": "Golbat",
+    "types": [
+        "Veneno",
+        "Volador"
+    ],
+    "weight": 55.0
+}

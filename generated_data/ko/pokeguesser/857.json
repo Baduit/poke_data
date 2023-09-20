@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "강한 감정을 품은 자라면\n누가 됐든 조용하게 만드는데\n그 수단이 매우 난폭하다.",
+        "머리의 술로 상대를 때려\n꼼짝 못 하게 한다. 프로복서조차\n한 방에 KO되는 파괴력이다."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
+    "name": "손지브림",
+    "types": [
+        "에스퍼"
+    ],
+    "weight": 4.8
+}

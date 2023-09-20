@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Portatore di rigogliosità e dotato di poteri\ncurativi, questo Pokémon compassionevole\nregnò su Galar in tempi antichi.",
+        "Il re delle leggende che dominò su Galar in un\nlontano passato. È in grado di calmare gli animi\ne far germogliare la vegetazione."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "name": "Calyrex",
+    "types": [
+        "Psico",
+        "Erba"
+    ],
+    "weight": 7.7
+}

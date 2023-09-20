@@ -1,0 +1,38 @@
+{
+    "descriptions": [
+        "Lives in the\nshadows of tall\ntrees where it\feats insects. It\nis attracted by\nlight at night.",
+        "Lives in the\nshadows of tall\ntrees where it\feats insects. It\nis attracted by\nlight at night.",
+        "Its large eyes act\nas radars. In a\nbright place, you\fcan see that they\nare clusters of\nmany tiny eyes.",
+        "Its eyes also\nfunction as radar\nunits. It catches\fand eats small\nbugs that hide in\ndarkness.",
+        "Poison oozes from\nall over its body.\nIt catches and\feats small bugs at\nnight that are at­\ntracted by light.",
+        "The small bugs it\neats appear only\nat night, so it\fsleeps in a hole\nin a tree until\nnight falls.",
+        "VENONAT is said to have evolved with\na coat of thin, stiff hair that covers\nits entire body for protection.\fIt possesses large eyes that never fail\nto spot even miniscule prey.",
+        "VENONAT is said to have evolved with\na coat of thin, stiff hair that covers\nits entire body for protection.\fIt possesses large eyes that never fail\nto spot even miniscule prey.",
+        "Its coat of thin, stiff hair that covers\nits entire body is said to have evolved\nfor protection. Its large eyes never fail\nto spot even miniscule prey.",
+        "Its eyes act as radar, enabling it to be\nactive in darkness. The eyes can also\nshoot powerful beams.",
+        "Lives in the shadows of tall trees where\nit eats bugs. It is attracted by light\nat night.",
+        "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light.",
+        "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light.",
+        "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light.",
+        "Its eyes also function as radar\nunits. It catches and eats small\nbugs that hide in darkness.",
+        "Poison oozes from all over its body.\nIt catches and eats small bugs at\nnight that are attracted by light.",
+        "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light.",
+        "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light.",
+        "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light.",
+        "Its big eyes are actually clusters\nof tiny eyes. At night, its kind is\ndrawn by light.",
+        "Its big eyes are actually clusters of tiny eyes.\nAt night, its kind is drawn by light.",
+        "Lives in the shadows of tall trees where it eats\nbugs. It is attracted by light at night.",
+        "Venonat is said to have evolved with a coat of thin,\nstiff hair that covers its entire body for protection.\nIt possesses large eyes that never fail to spot even\nminuscule prey.",
+        "Venonat is said to have evolved with a coat of thin, stiff hair\nthat covers its entire body for protection. It possesses large\neyes that never fail to spot even minuscule prey.",
+        "Its large eyes act as radar. In a bright place, you\ncan see that they are clusters of many tiny eyes.",
+        "Its large eyes act as radar. In a bright place, you\ncan see that they are clusters of many tiny eyes."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "name": "Venonat",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 30.0
+}

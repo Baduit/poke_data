@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Pokémon nato da un ceppo marcescente in cui\nalberga uno spirito. Vive in boschi non frequentati\ndagli esseri umani.",
+        "Secondo la leggenda, lo spirito di una persona\nsmarritasi in un bosco è entrato in un ceppo d’albero,\ndando vita a questo Pokémon.",
+        "Pokémon nato da un ceppo marcescente in cui alberga\nuno spirito. Vive in boschi non frequentati dagli esseri umani.",
+        "Secondo la leggenda, lo spirito di una persona smarritasi\nin un bosco è entrato in un ceppo d’albero, dando vita\na questo Pokémon.",
+        "Ceppo di un albero in cui alberga lo spirito\ndi un bambino smarrito nel bosco.\nIl suo verso è simile a un grido sinistro.",
+        "Secondo una credenza, dall’infusione delle foglie\nverdi che crescono sui suoi rami si produce una\nmedicina portentosa capace di curare ogni male.",
+        "Imita la voce di un bambino per spingere chi\nla sente ad addentrarsi nei boschi e smarrirsi,\nsperando così di farsi nuovi amici.",
+        "Ha preso vita quando uno spirito è entrato nel\nceppo di un albero. Dalle sue foglie verdi si\nricava un infuso che cura ogni male.",
+        "Questo Pokémon è nato quando l’anima di\nun bambino smarritosi nel bosco è entrata\nnel ceppo di un albero.",
+        "Emette un pianto simile a quello di un bambino\nper attirare gli adulti nel cuore della foresta\ne farli perdere."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "name": "Phantump",
+    "types": [
+        "Spettro",
+        "Erba"
+    ],
+    "weight": 7.0
+}

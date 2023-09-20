@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "La sua criniera di fuoco è indice della sua natura\nviolenta. Nessuno può batterlo in velocità.",
+        "Confonde il nemico con la velocità. Ha uno stile di\nlotta speciale, che prevede l’uso dei quattro arti.",
+        "La sua criniera di fuoco è indice della sua natura violenta.\nNessuno può batterlo in velocità.",
+        "Confonde il nemico con la velocità. Ha uno stile di lotta\nspeciale, che prevede l’uso dei quattro arti."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "name": "Infernape",
+    "types": [
+        "Fuoco",
+        "Lotta"
+    ],
+    "weight": 55.0
+}

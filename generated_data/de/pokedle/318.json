@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Kanivanha",
+    "types": [
+        "Wasser",
+        "Unlicht"
+    ],
+    "weight": 20.8
+}

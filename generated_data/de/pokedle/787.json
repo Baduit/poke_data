@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 7,
+    "height": 1.9,
+    "name": "Kapu-Toro",
+    "types": [
+        "Pflanze",
+        "Fee"
+    ],
+    "weight": 45.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Stollunior",
+    "types": [
+        "Stahl",
+        "Gestein"
+    ],
+    "weight": 60.0
+}

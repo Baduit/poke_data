@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "在地下的最深處誕生。\n會和血緣相近的小拳石\n還有小碎鑽互相較量硬度。",
+        "六角形的空洞是耳朵。\n會朝著聲音響起的方向走過去，\n但聲音一旦停止便會迷惘地跌倒。",
+        "六角形的洞是耳朵。\n耳朵裡面有能量核心，\n如果把手伸進去就會惹牠生氣。",
+        "在地裂的斷層中被發現。\n構成身體的成分是\n好幾百年前的泥土。",
+        "幾乎和鐵一樣堅硬，\n但要是長時間浸在水裡，\n似乎就會稍微變軟一些。",
+        "會對聲音產生反應而動起來。\n在能量核心的影響下，\n牠摸起來暖暖的。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "name": "石丸子",
+    "types": [
+        "岩石"
+    ],
+    "weight": 18.0
+}

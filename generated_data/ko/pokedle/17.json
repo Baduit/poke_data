@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 1.1,
+    "name": "피죤",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 30.0
+}

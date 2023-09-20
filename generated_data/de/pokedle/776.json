@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 7,
+    "height": 2.0,
+    "name": "Tortunator",
+    "types": [
+        "Feuer",
+        "Drache"
+    ],
+    "weight": 212.0
+}

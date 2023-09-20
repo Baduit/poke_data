@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Para aumentar su fuerza, da un pisotón en el suelo.\nPuede lanzar un camión de 10 toneladas por los aires\nde un puñetazo.",
+        "Le encanta enfrentarse a Pokémon grandes y probar\nsu fuerza. Sus brazos pueden derribar un camión.",
+        "Hariyama practica los empujones que da estirando los brazos\nallá por donde va. Este Pokémon puede partir por la mitad un\nposte de teléfono de un enérgico golpe con los brazos\nestirados y las manos abiertas.",
+        "Puede que parezca que Hariyama está grueso, pero en\nrealidad es una mole de puro músculo. Si este Pokémon hace\nfuerza y tensa la musculatura, se pone sólido como una roca.",
+        "Los Hariyama veteranos son conocidos por su\nfuerza descomunal, pero prefieren retirarse de\nla vida de combate y entrenar a los Makuhita.",
+        "Los Hariyama pueden tumbar un camión dándole\nun tortazo con la mano abierta. Les encantan\nlas pruebas de fuerza.",
+        "Adora las competiciones de fuerza, pero el\nrespeto y la cortesía hacia sus adversarios\nson muy importantes para este noble Pokémon.",
+        "No todos los Hariyama son grandotes, recios y\nfuertes. También los hay de menor tamaño pero\nmayor agilidad y precisión en los movimientos."
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "name": "Hariyama",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 253.8
+}

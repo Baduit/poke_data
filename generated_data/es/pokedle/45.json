@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 1,
+    "height": 1.2,
+    "name": "Vileplume",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 18.6
+}

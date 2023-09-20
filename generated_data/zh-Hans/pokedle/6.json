@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 1,
+    "height": 1.7,
+    "name": "喷火龙",
+    "types": [
+        "火",
+        "飞行"
+    ],
+    "weight": 90.5
+}

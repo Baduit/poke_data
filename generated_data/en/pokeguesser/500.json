@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "It can throw a fire punch by setting its\nfists on fire with its fiery chin. It cares\ndeeply about its friends.",
+        "It has mastered fast and powerful\nfighting moves. It grows a beard of fire.",
+        "A flaring beard of fire is proof\nthat it is fired up. It is adept at\nusing many different moves.",
+        "A flaring beard of fire is proof\nthat it is fired up. It is adept at\nusing many different moves.",
+        "It can throw a fire punch by setting its fists on fire\nwith its fiery chin. It cares deeply about its friends.",
+        "It has mastered fast and powerful fighting moves.\nIt grows a beard of fire.",
+        "It can throw a fire punch by setting its fists on fire\nwith its fiery chin. It cares deeply about its friends.",
+        "It has mastered fast and powerful fighting moves.\nIt grows a beard of fire."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "name": "Emboar",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "weight": 150.0
+}

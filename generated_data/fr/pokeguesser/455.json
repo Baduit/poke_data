@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il s’accroche aux arbres des\nmarais et attire ses proies avec\nsa salive à l’odeur enivrante.",
+        "Il s’accroche aux arbres des\nmarais et attire ses proies avec\nsa salive à l’odeur enivrante.",
+        "Il attire sa proie avec sa salive odorante avant de\nla croquer. Il lui faut une journée pour l’avaler.",
+        "Il s’accroche aux arbres des marais et attire ses proies\navec sa salive à l’odeur enivrante.",
+        "Il attire sa proie avec sa salive odorante avant de la croquer.\nIl lui faut une journée pour l’avaler.",
+        "Il s’accroche aux arbres des marais et attire ses proies avec\nsa salive à l’odeur enivrante."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+    "name": "Vortente",
+    "types": [
+        "Plante"
+    ],
+    "weight": 27.0
+}

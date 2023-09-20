@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Este Pokémon de dos cabezas es el resultado de una\nmutación. Cuando corre, puede alcanzar casi 100 km\npor hora.",
+        "Parece que los cerebros de sus dos cabezas se\ncomunican por telepatía.",
+        "Las dos cabezas de Doduo duermen de forma independiente,\nsiempre por turnos. Mientras una duerme, la otra hace de\ncentinela por si aparecen enemigos.",
+        "Doduo es un Pokémon bicéfalo de cerebros idénticos. Según\nun estudio científico, podría darse el extraño caso de que\nhubiera algún Doduo con cerebros distintos.",
+        "Las diminutas alas apenas le permiten volar,\npero puede correr a gran velocidad gracias a\nsus patas hiperdesarrolladas.",
+        "Las diminutas alas apenas le permiten volar,\npero puede correr a gran velocidad gracias a\nsus patas hiperdesarrolladas."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "name": "Doduo",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 39.2
+}

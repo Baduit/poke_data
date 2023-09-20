@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Come de todo, por lo que puede vivir en aguas\ncontaminadas. Nadie le presta atención.",
+        "Es el Pokémon con peor aspecto. Vive en grupos en\nlechos de ríos con abundantes plantas acuáticas.",
+        "Feebas tiene las aletas melladas y rasgadas desde que nace.\nDebido a este aspecto poco imponente, son pocos los que lo\ntienen en cuenta. Este Pokémon puede vivir tanto en agua\nsalada como dulce.",
+        "Aunque Feebas tenga el cuerpo mellado, posee una\ntremenda y constante fuerza vital que le permite vivir en\ncualquier lugar. Con todo, es un Pokémon lento y simplón;\nes fácil de atrapar.",
+        "Este Pokémon es tan resistente que puede vivir\nsin problema hasta en las aguas más sucias,\npero no es muy popular a causa de su aspecto.",
+        "Como su aspecto deja bastante que desear, no\nse le aprecia mucho. Aun así, su gran vitalidad\npuede ser muy interesante para la ciencia.",
+        "Debido a su cuerpo mellado y su feo aspecto, no\nes muy apetecible como presa ni popular entre\nlos Entrenadores y por eso está proliferando.",
+        "Debido a su aspecto tan descuidado, la mayoría\nde la gente no le presta atención. Sin embargo,\nhay personas que coleccionan solo Feebas.",
+        "Su aspecto poco agraciado hace que no sea muy\npopular, pero su gran vitalidad resulta de gran\ninterés para la ciencia.",
+        "Su apariencia deja bastante que desear, pero es\nmuy resistente y puede sobrevivir con poca agua."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "name": "Feebas",
+    "types": [
+        "Agua"
+    ],
+    "weight": 7.4
+}

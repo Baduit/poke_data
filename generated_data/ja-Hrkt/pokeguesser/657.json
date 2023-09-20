@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "あわで　つつんだ　こいしを　なげる\nわざを　つかう。３０メートル　さきの\nあきかんに　あてる　コントロール。",
+        "みがるさは　だれにも　まけない。\n６００メートルを　こえる　タワーの\nてっぺんまで　１ぷんで　のぼりきる。",
+        "あわで　つつんだ　こいしを　なげる\nわざを　つかう。３０メートル　さきの\nあきかんに　あてる　コントロール。",
+        "みがるさは　だれにも　まけない。\n６００メートルを　こえる　タワーの\nてっぺんまで　１ぷんで　のぼりきる。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "name": "ゲコガシラ",
+    "types": [
+        "みず"
+    ],
+    "weight": 10.9
+}

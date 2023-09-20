@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 4,
+    "height": 0.3,
+    "name": "Rotom",
+    "types": [
+        "Electric",
+        "Ghost"
+    ],
+    "weight": 0.3
+}

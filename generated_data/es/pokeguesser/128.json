@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Después de animarse a luchar fustigándose con sus\ntres colas, carga a toda velocidad.",
+        "Cuando va a usar Placaje, se azota repetidas veces\ncon las tres colas que tiene.",
+        "Este Pokémon no está contento a menos que esté\ncontinuamente de aquí para allá. Si no hay rival que luche\ncontra Tauros, se estampa contra árboles grandes para\ncalmarse y los embiste para echarlos abajo.",
+        "Este Pokémon no está contento a menos que esté\ncontinuamente de aquí para allá. Si no hay rival que luche\ncontra Tauros, se estampa contra árboles grandes para\ncalmarse y los embiste para echarlos abajo.",
+        "El uso de Tauros como montura se remonta a\ntiempos muy remotos. Ahora es una práctica\nmuy extendida, pero parece que surgió en Alola.",
+        "Es un Pokémon muy famoso por su naturaleza\nviolenta, aunque el Tauros de Alola parece ser\nalgo más sosegado.",
+        "Vive en manadas dominadas por el ejemplar que\nluce la cornamenta más mellada y de mayor\ntamaño y grosor.",
+        "En Alola, los Tauros muestran un carácter más\nsosegado que en otras regiones. Posiblemente,\nesto guarde relación con lo apacible del clima.",
+        "Un Pokémon violento que rebosa energía.\nCuando echa a correr, no se detiene hasta que\nchoca con algo.",
+        "Un Pokémon violento que rebosa energía.\nCuando echa a correr, no se detiene hasta que\nchoca con algo.",
+        "Conviene tener cuidado si empieza a fustigarse\ncon las colas, pues es señal de que va a cargar a\nmáxima velocidad.",
+        "Los Tauros que habitan en la región de Galar son\nde temperamento irascible y no permiten que los\nhumanos monten en su lomo."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "name": "Tauros",
+    "types": [
+        "Normal"
+    ],
+    "weight": 88.4
+}

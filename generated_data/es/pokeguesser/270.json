@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Parece una planta acuática. Hace de ferry para los\nPokémon que no saben nadar.",
+        "Va buscando agua potable para beber. Si no la\nencuentra pasado un tiempo, se le marchita la hoja\nde la cabeza.",
+        "Lotad vive en estanques y lagos, donde permanece flotando.\nSi se le marchita la ancha hoja que tiene en la cabeza, se\ndebilitará. De vez en cuando, se desplaza en busca de agua\nlimpia.",
+        "A Lotad se le atribuye el haber vivido antes en tierra. En\ncualquier caso, se cree que volvió al agua porque la hoja de\nla cabeza le creció mucho y le empezó a pesar. Ahora vive\nflotando en el agua.",
+        "Va buscando agua potable para beber. Si no la\nencuentra pasado bastante tiempo, la hoja de la\ncabeza se le marchita.",
+        "El excesivo tamaño y peso de la hoja que tiene\nen la cabeza ha propiciado que viva flotando en\nel agua."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "name": "Lotad",
+    "types": [
+        "Agua",
+        "Planta"
+    ],
+    "weight": 2.6
+}

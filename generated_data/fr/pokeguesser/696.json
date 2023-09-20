@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ramené à la vie à partir d’un fossile, ce Pokémon très\ncapricieux devient violent à la moindre contrariété.",
+        "Ses énormes mâchoires ont tant de puissance qu’elles\npeuvent compresser une voiture sans problème.\nCe Pokémon vivait il y a 100 millions d’années.",
+        "Ramené à la vie à partir d’un fossile, ce Pokémon très\ncapricieux devient violent à la moindre contrariété.",
+        "Ses énormes mâchoires ont tant de puissance qu’elles peuvent\ncompresser une voiture sans problème. Ce Pokémon vivait\nil y a 100 millions d’années.",
+        "Sa mâchoire géante est d’une puissance\nredoutable. Le Pokémon reconstitué serait\nlégèrement différent de son modèle antique.",
+        "Il est un peu égoïste et aime être le centre\nd’attention. Il arrive que ses partenaires de jeu\nfinissent avec de graves blessures.",
+        "Ce Pokémon ancien a été ranimé à partir\nd’un fossile. Égoïste et violent, il peut détruire\nn’importe quoi avec son énorme mâchoire.",
+        "Capricieux, il veut toujours être le centre\nde l’attention. Il peut gravement blesser\nson Dresseur en essayant de jouer avec lui."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "name": "Ptyranidur",
+    "types": [
+        "Roche",
+        "Dragon"
+    ],
+    "weight": 26.0
+}

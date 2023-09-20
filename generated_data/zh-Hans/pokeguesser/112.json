@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "可以只用后腿行走，智力也\n发达了许多。像盔甲一样的\n皮肤可以抵挡住岩浆。",
+        "可以只用后腿行走，智力也\n发达了许多。像盔甲一样的\n皮肤可以抵挡住岩浆。",
+        "进化后会变得仅用后脚就能站立。\n如果被它的角刺中，\n就连岩石也会被开个洞。",
+        "全身被铠甲般的皮肤保护着。\n甚至能在２０００度的熔岩里生存。"
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "name": "钻角犀兽",
+    "types": [
+        "地面",
+        "岩石"
+    ],
+    "weight": 120.0
+}

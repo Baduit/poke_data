@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 5,
+    "height": 0.8,
+    "name": "Galvantula",
+    "types": [
+        "Coleottero",
+        "Elettro"
+    ],
+    "weight": 14.3
+}

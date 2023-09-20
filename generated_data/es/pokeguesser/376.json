@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Gracias a sus cuatro cerebros, es más inteligente que\nun superordenador y analiza con precisión al enemigo.",
+        "Está formado por varios Metang. Con cuatro cerebros,\ntiene la inteligencia de un superordenador.",
+        "Metagross tiene cuatro cerebros en total que, combinados,\nson capaces de resolver cálculos complicados más rápido que\nel mejor ordenador que haya. Metagross puede flotar en el\naire si mete las patas hacia adentro.",
+        "Metagross es el resultado de la fusión de dos Metang.\nCuando caza, acorrala a su presa, sujetándola contra el suelo\ncon el cuerpo. Después, devora a la víctima indefensa con la\ngran boca del estómago.",
+        "Con sus cuatro garras y su descomunal cuerpo\naprisiona a sus presas para luego devorarlas\ncon sus dientes.",
+        "Metagross es el resultado de la fusión de dos\nMetang. Con sus cuatro cerebros funcionando\nen paralelo realiza cualquier cálculo al instante.",
+        "Se enorgullece tanto de su poder psíquico como\nde su gran fuerza. Agarra a sus presas con las\ncuatro extremidades metálicas y las inmoviliza.",
+        "Analiza al enemigo con más precisión incluso\nque un superordenador y, sin inmutarse, lo pone\ncontra las cuerdas.",
+        "Su fuerza magnética se potencia en temperaturas\nbajo cero, por lo que los Metagross que habitan\nen montañas nevadas son especialmente vivaces.",
+        "Formado a partir de la unión de dos Metang.\nEmplea su inteligencia, comparable a la de un\nsuperordenador, para derrotar a sus rivales."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "name": "Metagross",
+    "types": [
+        "Acero",
+        "Psíquico"
+    ],
+    "weight": 550.0
+}

@@ -1,0 +1,32 @@
+{
+    "descriptions": [
+        "LUNATONE was discovered at a location\nwhere a meteorite fell. As a result, some\npeople theorize that this POKéMON\fcame from space. However, no one has\nbeen able to prove this theory so far.",
+        "LUNATONE becomes active around the\ntime of the full moon. Instead of\nwalking, it moves by floating in midair.\fThe POKéMON’s intimidating red eyes\ncause all those who see it to become\ntransfixed with fear.",
+        "It becomes very active on the night of\na full moon. This POKéMON was first\ndiscovered 40 years ago at the site of\na meteor strike.",
+        "Its health ebbs and flows with the lunar\ncycle. It brims with power when exposed\nto the light of the full moon.",
+        "Its health ebbs and flows with the lunar\ncycle. It brims with power when exposed\nto the light of the full moon.",
+        "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases.",
+        "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases.",
+        "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases.",
+        "It was discovered at the site of a\nmeteor strike 40 years ago. Its\nstare can lull its foes to sleep.",
+        "It was discovered at the site of a\nmeteor strike 40 years ago. Its\nstare can lull its foes to sleep.",
+        "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases.",
+        "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases.",
+        "The phase of the moon apparently\nhas some effect on its power.\nIt’s active on the night of a full moon.",
+        "The phase of the moon apparently\nhas some effect on its power.\nIt’s active on the night of a full moon.",
+        "Because it turns active on nights of the full moon,\nit is said to have some link to the lunar phases.",
+        "It was discovered at the site of a meteor strike\n40 years ago. Its stare can lull its foes to sleep.",
+        "Lunatone was discovered at a location where a meteoroid fell.\nAs a result, some people theorize that this Pokémon came\nfrom space. However, no one has been able to prove this\ntheory so far.",
+        "Lunatone becomes active around the time of the full moon.\nInstead of walking, it moves by floating in midair.\nThe Pokémon’s intimidating red eyes cause all those who\nsee it to become transfixed with fear.",
+        "The phase of the moon apparently has some\neffect on its power. It’s active on the night of\na full moon.",
+        "It was discovered at the site of a meteor strike\n40 years ago. Its stare can lull its foes to sleep."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "name": "Lunatone",
+    "types": [
+        "Rock",
+        "Psychic"
+    ],
+    "weight": 168.0
+}

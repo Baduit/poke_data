@@ -1,0 +1,11 @@
+{
+    "color": "赤色",
+    "generation": 5,
+    "height": 1.4,
+    "name": "イワパレス",
+    "types": [
+        "むし",
+        "いわ"
+    ],
+    "weight": 200.0
+}

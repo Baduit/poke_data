@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Un coup de sa puissante queue\npeut briser un poteau téléphonique\ncomme une allumette.",
+        "Un coup de sa puissante queue\npeut briser un poteau téléphonique\ncomme une allumette.",
+        "On le reconnaît facilement grâce à sa peau dure\ncomme de la pierre ainsi qu’à sa grosse corne pleine\nde poison.",
+        "Un coup de sa puissante queue peut briser un poteau\ntéléphonique comme une allumette.",
+        "L’épaisse queue de Nidoking est d’une puissance incroyable.\nEn un seul coup, il peut renverser une tour métallique.\nLorsque ce Pokémon se déchaîne, plus rien ne peut l’arrêter.",
+        "L’épaisse queue de Nidoking est d’une puissance incroyable.\nEn un seul coup, il peut renverser une tour métallique.\nLorsque ce Pokémon se déchaîne, plus rien ne peut l’arrêter.",
+        "Ses charges sont dévastatrices grâce à sa peau\nd’acier. Sa corne perce même le diamant.",
+        "Ses charges sont dévastatrices grâce à sa peau\nd’acier. Sa corne perce même le diamant.",
+        "Lorsqu’il s’énerve, il devient incontrôlable,\nmais il retrouve son calme face à Nidoqueen,\nsa compagne de longue date.",
+        "Très fier de sa force, il se bat vigoureusement\nà l’aide de sa queue robuste et de sa corne\ncapable de briser le diamant."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "name": "Nidoking",
+    "types": [
+        "Poison",
+        "Sol"
+    ],
+    "weight": 62.0
+}

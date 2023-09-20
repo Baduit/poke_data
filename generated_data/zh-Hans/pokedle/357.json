@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 3,
+    "height": 2.0,
+    "name": "热带龙",
+    "types": [
+        "草",
+        "飞行"
+    ],
+    "weight": 100.0
+}

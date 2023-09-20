@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 5,
+    "height": 0.3,
+    "name": "두르보",
+    "types": [
+        "벌레",
+        "풀"
+    ],
+    "weight": 2.5
+}

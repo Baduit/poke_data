@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "据说，无论是多么强大的劈斩司令，\n一旦头部的刀刃有损伤，\n就会从首领的位置上引退。",
+        "率领着驹刀小兵群。\n在给对手致命一击时，\n也完全面不改色。",
+        "率领着一大群驹刀小兵。\n为了防止手下们背叛自己，\n总是睁大着眼睛监视它们。",
+        "为了抢占能找到磨刀石\n的地方，和斧牙龙展开了\n激烈的斗争。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "name": "劈斩司令",
+    "types": [
+        "恶",
+        "钢"
+    ],
+    "weight": 70.0
+}

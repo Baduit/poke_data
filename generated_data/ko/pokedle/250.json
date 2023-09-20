@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 2,
+    "height": 3.8,
+    "name": "칠색조",
+    "types": [
+        "불꽃",
+        "비행"
+    ],
+    "weight": 199.0
+}

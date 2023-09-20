@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Duerme en una dorsal marina. Si bate sus alas, puede\ncausar tormentas de 40 días.",
+        "Dicen que es el guardián de los mares. Hay rumores\nde que fue visto en una noche de tormenta.",
+        "La fuerza que tiene Lugia en las alas es devastadora; con\nnada que las bata es capaz de derribar edificios enteros.\nPor eso mismo, prefiere vivir donde no haya nadie, en lo más\nprofundo del mar.",
+        "La fuerza que tiene Lugia en las alas es devastadora; con\nnada que las bata es capaz de derribar edificios enteros.\nPor eso mismo, prefiere vivir donde no haya nadie, en lo más\nprofundo del mar."
+    ],
+    "height": 5.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "name": "Lugia",
+    "types": [
+        "Psíquico",
+        "Volador"
+    ],
+    "weight": 216.0
+}

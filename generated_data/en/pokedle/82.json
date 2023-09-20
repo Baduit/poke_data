@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Magneton",
+    "types": [
+        "Electric",
+        "Steel"
+    ],
+    "weight": 60.0
+}

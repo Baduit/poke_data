@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Bekipan",
+    "types": [
+        "Eau",
+        "Vol"
+    ],
+    "weight": 28.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il fiore sul capo si apre e si chiude con il continuo\nmutare della temperatura corporea.",
+        "Spalanca i petali per assorbire la luce solare.\nFluttua nell’aria per essere più vicino al sole.",
+        "Il fiore di Skiploom sboccia quando la temperatura sale\noltre i 18 °C. L’apertura del fiore dipende dalla temperatura.\nPer questo motivo il Pokémon è usato anche come\ntermometro.",
+        "Il fiore di Skiploom sboccia quando la temperatura sale\noltre i 18 °C. L’apertura del fiore dipende dalla temperatura.\nPer questo motivo il Pokémon è usato anche come\ntermometro."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "name": "Skiploom",
+    "types": [
+        "Erba",
+        "Volante"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es produziert verschiedene Düfte. Im Kampf verschafft\nes sich einen Vorteil, indem es einen Duft verströmt,\nder dem Gegner zuwider ist.",
+        "Sein Duft ist so stark, dass es für einen Trainer,\nder seinen Duft nicht mag, schwer ist, es an\nseiner Seite zu haben.",
+        "Es produziert verschiedene Düfte. Im Kampf verschafft es sich\neinen Vorteil, indem es einen Duft verströmt, der dem Gegner\nzuwider ist.",
+        "Sein Duft ist so stark, dass es für einen Trainer, der seinen\nDuft nicht mag, schwer ist, es an seiner Seite zu haben.",
+        "Von seinem Fell strömt ein derart intensiver\nGeruch aus, dass die Nase seines Trainers\nirgendwann unweigerlich den Geist aufgibt.",
+        "Es kann üblen Gestank verströmen, der seinen\nGegnern den Kampfeswillen raubt, oder wohlige\nDüfte erzeugen, die seinen Mitstreitern helfen."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+    "name": "Parfinesse",
+    "types": [
+        "Fee"
+    ],
+    "weight": 15.5
+}

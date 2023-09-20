@@ -1,0 +1,11 @@
+{
+    "color": "黃色",
+    "generation": 3,
+    "height": 0.8,
+    "name": "鐵面忍者",
+    "types": [
+        "蟲",
+        "飛行"
+    ],
+    "weight": 12.0
+}

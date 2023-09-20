@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Schwamm bereits vor 100 Millionen Jahren durch\ndie Meere. Ab und zu führt es die Jagd auch an Land.",
+        "Es wurde aus einem urzeitlichen Fossil reanimiert.\nEs kann in Tiefen von bis zu 1 000 m abtauchen.",
+        "Schwamm bereits vor 100 Millionen Jahren durch die Meere.\nAb und zu führt es die Jagd auch an Land.",
+        "Es wurde aus einem urzeitlichen Fossil reanimiert. Es kann in\nTiefen von bis zu 1 000 m abtauchen.",
+        "Eine Untersuchung seiner Skelettstruktur hat\nergeben, dass es in Tiefen von bis zu 1 000 m\nabtauchen kann.",
+        "Man sagt, es sei der Vorfahre der meisten\nSchildkröten-Pokémon. Es lebte vor etwa\n100 Millionen Jahren im warmen Meer.",
+        "Es wurde aus einem urzeitlichen Fossil wieder\nzum Leben erweckt. Zwar lebte es im Meer, zur\nFuttersuche ging es jedoch auch an Land.",
+        "Sein Jagdrevier erstreckte sich einst von bis\nzu 1 000 m tiefen Meeresgebieten bis zum\nFestland.",
+        "Dieser Meeresbewohner der Urzeit kann sich\naußerhalb der See nur kriechend fortbewegen,\naber für seine Beute kommt es trotzdem an Land.",
+        "Man vermutet, Galapaflos sei der Vorfahr vieler\nSchildkröten-Pokémon. Es wurde aus einem\nurzeitlichen Fossil wieder zum Leben erweckt."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "name": "Galapaflos",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 16.5
+}

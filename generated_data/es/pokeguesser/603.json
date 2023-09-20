@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Se enrolla alrededor de su presa, la paraliza con la\nelectricidad de sus marcas circulares y le asesta\nmordiscos.",
+        "Pokémon de apetito voraz. En cuanto encuentra una\npresa, la paraliza con electricidad y la engulle.",
+        "Se enrolla alrededor de su presa, la paraliza con la\nelectricidad de sus marcas circulares y le asesta mordiscos.",
+        "Pokémon de apetito voraz. En cuanto encuentra una presa, la\nparaliza con electricidad y la engulle."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "name": "Eelektrik",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 22.0
+}

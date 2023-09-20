@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Cuanto más poderoso es el enemigo al que se\nenfrenta, más calor desprende su mechón y más\nenergía recorre todo su cuerpo.",
+        "Se separa de su manada para hacerse más fuerte\ny aprender a valerse por sí mismo. Su excesiva\nfogosidad le hace saltar a la mínima.",
+        "Cuanto más poderoso es el enemigo al que se enfrenta, más\ncalor desprende su mechón y más energía recorre todo su\ncuerpo.",
+        "Se separa de su manada para hacerse más fuerte y aprender\na valerse por sí mismo. Su excesiva fogosidad le hace saltar\na la mínima.",
+        "Mientras es solo una cría vive con el resto de la\nmanada, pero en cuanto aprende a cazar se\nsepara del grupo y se independiza.",
+        "Este enérgico Pokémon es de naturaleza curiosa\ne inquieta y, tanto al comienzo de un combate\ncomo cuando se enoja, su crin prende fuego."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+    "name": "Litleo",
+    "types": [
+        "Fuego",
+        "Normal"
+    ],
+    "weight": 13.5
+}

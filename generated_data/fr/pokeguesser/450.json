@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Facilement irritable, il ouvre ses\nmâchoires au maximum pour intimider\nses adversaires.",
+        "Facilement irritable, il ouvre ses\nmâchoires au maximum pour intimider\nses adversaires.",
+        "Il exhibe sa force en ouvrant grand sa mâchoire,\net attaque en soulevant des tornades de sable.",
+        "Il emmagasine du sable qu’il expulse en tornades par\nles pores de sa peau pour attaquer.",
+        "Il exhibe sa force en ouvrant grand sa mâchoire, et attaque\nen soulevant des tornades de sable.",
+        "Il emmagasine du sable qu’il expulse en tornades par les pores\nde sa peau pour attaquer.",
+        "Il prend grand soin des Crabicoque,\ncar ils l’aident à se débarrasser des cailloux\nqui obstruent parfois les orifices de son corps.",
+        "Il entre dans une violente colère quand\non l’énerve : il expulse le sable qu’il a accumulé\npour provoquer de véritables tempêtes."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "name": "Hippodocus",
+    "types": [
+        "Sol"
+    ],
+    "weight": 300.0
+}

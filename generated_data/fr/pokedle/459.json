@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 4,
+    "height": 1.0,
+    "name": "Blizzi",
+    "types": [
+        "Plante",
+        "Glace"
+    ],
+    "weight": 50.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il est doux, mais ne pardonne pas à ceux\nqui viennent saccager son territoire.\nSes crocs peuvent découper de l’acier.",
+        "Ses crocs sont tellement puissants\nqu’ils peuvent découper l’acier sans\ns’émousser. Son armure est très solide.",
+        "Il est doux, mais ne pardonne pas à ceux qui viennent\nsaccager son territoire. Ses crocs peuvent découper\nde l’acier.",
+        "Ses crocs sont tellement puissants qu’ils peuvent\ndécouper l’acier sans s’émousser. Son armure est\ntrès solide.",
+        "Il est doux, mais ne pardonne pas à ceux qui viennent\nsaccager son territoire. Ses crocs peuvent découper de l’acier.",
+        "Ses crocs sont tellement puissants qu’ils peuvent découper\nl’acier sans s’émousser. Son armure est très solide.",
+        "Ses longs crocs robustes sont sa plus grande\nfierté. Il lèche le sol pour en absorber\nles minéraux et ainsi renforcer sa dentition.",
+        "D’un naturel doux, il est cependant redoutable\nlorsqu’il se fâche. Il est très fier de ses crocs\nqui peuvent même découper des poutres d’acier."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "name": "Tranchodon",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 105.5
+}

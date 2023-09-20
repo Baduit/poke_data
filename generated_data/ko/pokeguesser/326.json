@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "흑진주로 사이코 파워를\n강하게 하여 기묘한 스텝으로\n상대의 마음을 조종한다.",
+        "흑진주로 사이코 파워를\n증폭시킨다. 이상한 스텝으로\n상대의 마음을 조종한다.",
+        "사이코 파워의 파동을 흑진주로 강화해\n자유자재로 상대를 조종하는 포켓몬이다.\n힘을 사용할 때 콧김이 거칠어진다.",
+        "흑진주를 이용하여 이상한 힘을\n사용할 때 기묘한 스텝으로 춤을 춘다.\n흑진주는 미술품으로서의 가치를 지녔다."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "name": "피그킹",
+    "types": [
+        "에스퍼"
+    ],
+    "weight": 71.5
+}

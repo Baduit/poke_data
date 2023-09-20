@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sein Körper verströmt einen köstlichen Duft, der\nleider seinen Fressfeind Tukanon anlockt. Dem\nkommt ein aromatischer Snack höchst gelegen.",
+        "Die meisten Menschen finden den Schweiß\nvon Frubberl zu süß. Verdünnt man ihn aber\nmit Wasser, erhält man einen köstlichen Saft.",
+        "Da es einen köstlich süßen Duft verströmt, wird\nes oft von Vogel-Pokémon angegriffen. Das stört\nes jedoch nicht, weil es nicht sehr helle ist.",
+        "Droht es von einem Vogel-Pokémon verschluckt\nzu werden, lässt es zur Abwehr den Kelch auf\nseinem Kopf rotieren, was jedoch selten hilft.",
+        "Der fruchtig süße Duft, der von seinem Körper\nausgeht, lässt Vogel-Pokémon das Wasser im\nSchnabel zusammenlaufen.",
+        "Wenn es angegriffen wird, sondert es einen\nköstlich süß duftenden Angstschweiß ab, der\nleider meist nur noch weitere Feinde anlockt."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+    "name": "Frubberl",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 3.2
+}

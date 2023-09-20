@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il asperge tous ceux qui osent pénétrer sur son\nterritoire d’un poison assez corrosif pour dissoudre\nla coque d’un pétrolier.",
+        "Il paraît que les navires qui s’aventurent dans les eaux\npeuplées de Kravarech ne reviennent jamais de leur\npériple.",
+        "Il asperge tous ceux qui osent pénétrer sur son territoire\nd’un poison assez corrosif pour dissoudre la coque\nd’un pétrolier.",
+        "Il paraît que les navires qui s’aventurent dans les eaux\npeuplées de Kravarech ne reviennent jamais de leur périple.",
+        "Les étourdis qui divaguent du côté de chez lui\nse font chasser à grands jets de poison.\nCurieusement, il adore Sinistrail.",
+        "Il attend sa proie tapi au milieu des algues,\net attaque en crachant un poison si corrosif\nqu’il peut même dissoudre le métal.",
+        "Avec son poison capable de dissoudre le métal,\nil réduit à l’état d’épave les navires-citernes qui\npénètrent sur son territoire.",
+        "Il sort la crête sur sa tête à la surface de l’eau\net l’expose à la lumière du soleil pour produire\nde l’énergie draconique."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "name": "Kravarech",
+    "types": [
+        "Poison",
+        "Dragon"
+    ],
+    "weight": 81.5
+}

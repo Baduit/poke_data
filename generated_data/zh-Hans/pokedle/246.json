@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 2,
+    "height": 0.6,
+    "name": "幼基拉斯",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 72.0
+}

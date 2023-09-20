@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Comme il s’attache facilement à son Dresseur,\non le conseille souvent aux débutants, bien qu’il\nait tendance à devenir plus rebelle avec l’âge.",
+        "Ce Pokémon vit depuis toujours avec les\nhumains. Lorsque son Dresseur est triste, il\nreste à ses côtés pour le soutenir moralement.",
+        "Il devient de plus en plus sauvage et agressif en\ngrandissant. Il n’est pas rare que son Dresseur\nl’abandonne, ne sachant plus qu’en faire.",
+        "Il frotte les cailloux pointus de son cou\ncontre son Dresseur en signe d’affection.\nC’est adorable, mais douloureux.",
+        "Ce Pokémon s’attache vite à son Dresseur,\nmais a une fâcheuse tendance à le mordre,\nce qui peut compliquer son entraînement.",
+        "Il intimide ses ennemis en cognant les rochers\nautour de son cou contre le sol. Au premier\nsigne de faiblesse, il passe à l’assaut."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "name": "Rocabot",
+    "types": [
+        "Roche"
+    ],
+    "weight": 9.2
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Auf Nahrungssuche schnüffelt es am Boden entlang.\nEs entdeckt dabei manchmal auch heiße Quellen.",
+        "Wenn es etwas Vielversprechendes erschnuppert,\ndann stürzt es in Windeseile darauf zu.",
+        "Auf Nahrungssuche schnüffelt Quiekel am Boden entlang.\nSeine Lieblingsspeise ist ein Pilz, der unter verwesendem\nGras wächst. Manchmal spürt dieses Pokémon heiße\nQuellen auf.",
+        "Auf Nahrungssuche schnüffelt Quiekel am Boden entlang.\nSeine Lieblingsspeise ist ein Pilz, der unter abgestorbenem\nGras wächst. Manchmal spürt dieses Pokémon heiße Quellen\nauf.",
+        "Auf Nahrungssuche wühlt es sich mit der Nase\ndurch den Erdboden. Manchmal entdeckt es\ndabei auch heiße Quellen.",
+        "Wenn es etwas Vielversprechendes erschnuppert,\nsprintet es Hals über Kopf darauf los, ohne\nnachzudenken."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+    "name": "Quiekel",
+    "types": [
+        "Eis",
+        "Boden"
+    ],
+    "weight": 6.5
+}

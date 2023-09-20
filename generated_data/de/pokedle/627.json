@@ -1,0 +1,11 @@
+{
+    "color": "Weiß",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Geronimatz",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 10.5
+}

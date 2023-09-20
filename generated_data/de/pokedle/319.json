@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 1.8,
+    "name": "Tohaido",
+    "types": [
+        "Wasser",
+        "Unlicht"
+    ],
+    "weight": 88.8
+}

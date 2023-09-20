@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es versteckt jeden schimmernden Gegenstand.\nKramurx und Mauzi rauben sich gegenseitig die Beute.",
+        "Viele verabscheuen und hassen es, da sie glauben,\nes bringe Verderben, wenn sie ihm nachts begegnen.",
+        "Kramurx wurde als vermeintlicher Überbringer des Unheils\nverabscheut und gefürchtet. Dieses Pokémon hat ein großes\nInteresse an allem, was funkelt und glitzert. Es stiehlt auch\nRinge von Frauen.",
+        "Kramurx wurde als vermeintlicher Überbringer des Unheils\nverabscheut und gefürchtet. Dieses Pokémon hat ein großes\nInteresse an allem, was funkelt und glitzert. Es stiehlt auch\nRinge von Frauen.",
+        "Es wacht bei Dämmerung auf und fliegt durch\ndie Nacht. Daher das Sprichwort: „Flugs nach\nHaus, mein Kind, wenn Kramurx am Himmel sind!“",
+        "Es ist als Unglücksbringer verschrien, aber wenn\nes sich mit seinem Trainer gut versteht, schenkt\nes ihm allerlei funkelnde und glitzernde Objekte.",
+        "Es hat eine Schwäche für glitzernde Objekte.\nHin und wieder schleicht es sich, in Erwartung\nschillernder Schätze, ins Nest von Knarksel.",
+        "Für seinen Chef geht es auf die Jagd nach\nglitzernden Objekten. Von vielen Menschen wird\nes als Überbringer des Unheils verabscheut."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "name": "Kramurx",
+    "types": [
+        "Unlicht",
+        "Flug"
+    ],
+    "weight": 2.1
+}

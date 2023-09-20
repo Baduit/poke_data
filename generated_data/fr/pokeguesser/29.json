@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Bien qu’il rechigne à se battre, une\ngoutte du poison sécrété par ses\npiquants peut s’avérer fatale.",
+        "Bien qu’il rechigne à se battre, une\ngoutte du poison sécrété par ses\npiquants peut s’avérer fatale.",
+        "Ce Pokémon est hérissé de dards empoisonnés.\nLes femelles ont une corne plus petite.",
+        "Petit et docile, il se protège avec sa minuscule corne\nempoisonnée lorsqu’il est attaqué.",
+        "Nidoran♀ est couvert de pointes qui sécrètent un poison\npuissant. On pense que ce petit Pokémon a développé\nces pointes pour se défendre. Lorsqu’il est en colère,\nune horrible toxine sort de sa corne.",
+        "Nidoran♀ est couvert de pointes qui sécrètent un poison\npuissant. On pense que ce petit Pokémon a développé\nces pointes pour se défendre. Lorsqu’il est en colère,\nune horrible toxine sort de sa corne.",
+        "Un Pokémon paisible qui n’aime pas se battre.\nSa petite corne est empoisonnée.",
+        "Un Pokémon paisible qui n’aime pas se battre.\nSa petite corne est empoisonnée.",
+        "Son odorat est plus développé que celui du mâle.\nQuand Nidoran♀ cherche à manger, il reste dans\nle sens du vent, qu’il détecte avec ses vibrisses.",
+        "Ce Pokémon se nourrit de Baies en les ouvrant\navec ses incisives. Le bout de sa corne est plus\narrondi que celui du mâle."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "name": "Nidoran♀",
+    "types": [
+        "Poison"
+    ],
+    "weight": 7.0
+}

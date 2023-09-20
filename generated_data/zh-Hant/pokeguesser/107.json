@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "牠的拳擊就像是鑽頭！\n在牠的攻擊之下，即使是\n水泥牆也會被鑽出洞來。",
+        "牠的拳擊就像是鑽頭！\n在牠的攻擊之下，即使是\n水泥牆也會被鑽出洞來。",
+        "使出的拳擊能劈開空氣。\n出拳的速度極為迅速，\n即便只是擦過都會造成灼傷。",
+        "打出的拳擊甚至能劈開空氣。\n但連續攻擊３分鐘後，\n牠似乎就會想休息一下。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "name": "快拳郎",
+    "types": [
+        "格鬥"
+    ],
+    "weight": 50.2
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Las hojas que tiene actúan como cuchillas en\ncombate. Otra de sus armas es el corrosivo fluido\nque expulsa.",
+        "Escupe Polvo Veneno para envenenar al enemigo y,\nluego, lo liquida con Ácido.",
+        "Weepinbell tiene un gancho a modo de extremidad superior\ntrasera, que usa por la noche para colgarse de una rama y\necharse a dormir. Si se mueve mientras duerme, puede acabar\nen el suelo.",
+        "Weepinbell tiene un gancho a modo de extremidad superior\ntrasera, que usa por la noche para colgarse de una rama y\necharse a dormir. Si se mueve mientras duerme, puede acabar\nen el suelo.",
+        "Cuando tiene hambre, engulle a todo lo que\nse mueve. La pobre presa acaba disuelta en\nsus ácidos.",
+        "Cuando tiene hambre, engulle a todo lo que\nse mueve. La pobre presa acaba disuelta en\nsus ácidos."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "name": "Weepinbell",
+    "types": [
+        "Planta",
+        "Veneno"
+    ],
+    "weight": 6.4
+}

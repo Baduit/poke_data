@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se alimenta de tierra. Después de comer una gran\nmontaña, se duerme y empieza a crecer.",
+        "Nace muy profundo en el suelo y sube a la superficie,\ndonde se convierte en una larva comiéndose la tierra\nque lo rodea.",
+        "Larvitar nace bajo tierra a gran profundidad. Para subir a la\nsuperficie, este Pokémon debe comer lo que encuentra en su\ncamino para abrirse paso. Y, hasta que no está arriba, no\npuede verles la cara a sus padres.",
+        "Larvitar nace bajo tierra a gran profundidad. Para subir a la\nsuperficie, este Pokémon debe comer lo que encuentra en su\ncamino para abrirse paso. Y, hasta que no está arriba, no\npuede verles la cara a sus padres.",
+        "Nace bajo el suelo y, para reunirse con sus\nprogenitores en la superficie, asciende comiendo\ntierra. Evita la luz directa porque lo deslumbra.",
+        "Crece alimentándose de nutrientes del suelo.\nTras devorar el equivalente a una pequeña\nmontaña, se prepara para convertirse en pupa.",
+        "Nace en el subsuelo a gran profundidad. Tras\ningerir la tierra que lo rodea, emerge a la\nsuperficie y se convierte en pupa.",
+        "Se alimenta de tierra. Después de devorar el\nequivalente a una montaña, se duerme y empieza\na crecer."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "name": "Larvitar",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 72.0
+}

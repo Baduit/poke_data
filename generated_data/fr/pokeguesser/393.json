@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Malgré sa démarche maladroite et\nses pertes d’équilibre, il bombe\ntoujours fièrement le torse.",
+        "Malgré sa démarche maladroite et\nses pertes d’équilibre, il bombe\ntoujours fièrement le torse.",
+        "Ce Pokémon est difficile à entraîner car il est très\ndésobéissant et déteste qu’on lui rende service.",
+        "Il est fier et déteste accepter la nourriture qu’on\nlui offre. Son pelage épais le protège du froid.",
+        "Ce Pokémon est difficile à entraîner car il est très désobéissant\net déteste qu’on lui rende service.",
+        "Il est fier et déteste accepter la nourriture qu’on lui offre.\nSon pelage épais le protège du froid."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "name": "Tiplouf",
+    "types": [
+        "Eau"
+    ],
+    "weight": 5.2
+}

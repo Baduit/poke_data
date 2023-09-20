@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 3,
+    "height": 2.1,
+    "name": "ボスゴドラ",
+    "types": [
+        "はがね",
+        "いわ"
+    ],
+    "weight": 360.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Mit Salven komprimierten Wassers, die es wie\nPistolenkugeln aus seinen Scheren abfeuert,\nschießt es fliegende Beute ab.",
+        "Durch die Explosion körpereigener Gase feuert es wie\neine Pistole Wassersalven ab, die aus kurzer Distanz\nselbst Felsen zerschmettern.",
+        "Mit Salven komprimierten Wassers, die es wie Pistolenkugeln\naus seinen Scheren abfeuert, schießt es fliegende Beute ab.",
+        "Durch die Explosion körpereigener Gase feuert es wie eine\nPistole Wassersalven ab, die aus kurzer Distanz selbst Felsen\nzerschmettern.",
+        "Manchmal verliert es seine Scheren. Danach lebt\nes in Zurückgezogenheit, bis sie nachwachsen.\nDas Fleisch im Inneren der Scheren ist köstlich.",
+        "Das Ungleichgewicht, das entsteht, wenn es zur\nFortbewegung Wasser aus der rechten Schere\nspritzt, hindert es daran, gerade zu schwimmen.",
+        "Selbst wenn es seine Scheren im Kampf verlieren\nsollte, wachsen sie wieder nach. Das Innere seiner\nScheren ist in Galar eine beliebte Delikatesse.",
+        "Scampisto erledigt seine Feinde, indem es durch\ndie Explosion von Gasen, die es in seiner rechten\nSchere speichert, Wasser wie Projektile abfeuert."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "name": "Scampisto",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 8.3
+}

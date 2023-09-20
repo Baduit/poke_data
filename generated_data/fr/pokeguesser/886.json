@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Il vole à une vitesse de 200 km/h et se bat\naux côtés d’un Fantyrm, dont il prend soin\njusqu’à son évolution.",
+        "Il prend soin du Fantyrm sur sa tête.\nQuand ce dernier n’est plus là, il panique\net tente de le remplacer par un autre Pokémon."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "name": "Dispareptil",
+    "types": [
+        "Dragon",
+        "Spectre"
+    ],
+    "weight": 11.0
+}

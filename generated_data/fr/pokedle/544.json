@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Scobolide",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 58.5
+}

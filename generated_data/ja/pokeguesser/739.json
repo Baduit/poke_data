@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ハサミで　弱点を　ガードしつつ\n隙を　うかがい　パンチを　放つ。\n負けたほうは　泡を　ふいて　ダウン。",
+        "なぐり過ぎで　ハサミは　よく　もげるが\nすぐに　生える。　ハサミの　中味は\n少ないが　コクがあって　うまいぞ。",
+        "硬い　ハサミは　攻めも　守りも\n得意。　マケンカニ　同士の\n戦いは　ボクシングの　ようだ。",
+        "ヤシの木と　間違えて　ナッシーに\n登ることもある。　怒りを　かって\n振り落とされて　踏みつけられる。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "name": "マケンカニ",
+    "types": [
+        "かくとう"
+    ],
+    "weight": 7.0
+}

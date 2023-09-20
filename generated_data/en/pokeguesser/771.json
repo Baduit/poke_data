@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It’s covered in a slime that keeps its skin moist,\nallowing it to stay on land for days without\ndrying up.",
+        "It lives in shallow seas, such as areas near a\nbeach. It can eject its internal organs, which it\nuses to engulf its prey or battle enemies.",
+        "These Pokémon line the beaches. The sticky\nmucous that covers their bodies can be used to\nsoothe sunburned skin. How convenient!",
+        "The tradition known as Pyukumuku chucking\nstarted from the custom of throwing Pyukumuku\nback into the sea after they wash onshore.",
+        "Its entire body is covered in its own slime. If you\naccidentally step on one, you’ll slip, and it will\nget mad and smack you!",
+        "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "name": "Pyukumuku",
+    "types": [
+        "Water"
+    ],
+    "weight": 1.2
+}

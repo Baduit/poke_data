@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Dewpider",
+    "types": [
+        "Acqua",
+        "Coleottero"
+    ],
+    "weight": 4.0
+}

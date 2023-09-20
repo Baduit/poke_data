@@ -1,0 +1,10 @@
+{
+    "color": "Jaune",
+    "generation": 1,
+    "height": 1.1,
+    "name": "Élektek",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 30.0
+}

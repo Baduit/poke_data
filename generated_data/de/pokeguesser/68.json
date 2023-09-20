@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Seine markigen Arme können innerhalb von nur\nzwei Sekunden 1 000 Schläge verteilen.",
+        "Es setzt seine vier Arme ein, um die Glieder seiner\nGegner festzuhalten. Dann wirft es sie hinfort.",
+        "Machomei hat genug Kraft, um alles Mögliche zu stemmen.\nBei Tätigkeiten, die Geschick und Sorgfalt erfordern, machen\nes ihm seine Arme jedoch nicht leicht. Dieses Pokémon neigt\ndazu, zuerst zu handeln und dann zu denken.",
+        "Machomei wurde berühmt, da es alle Arten der Kampfkunst\nbeherrscht. Wenn es einen Gegner mit seinen vier Armen\nzu fassen gekriegt hat, ist der Kampf so gut wie vorbei.\nEs schleudert ihn dann nämlich weit über den Horizont hinaus.",
+        "Gegner, die sich ihm in den Weg stellen, werden\nmit einem Faustschlag, dessen Wucht 1 Million\nTonnen übersteigt, gen Horizont geschleudert.",
+        "Es kann mühelos Kipplaster hochheben. Da es\njedoch Grobmotoriker ist, sollte man ihm keine\nArbeit geben, die Fingerspitzengefühl erfordert.",
+        "Es ergreift seinen Gegner mit seinen vier Armen\nund hält ihn in einem komplizierten Würgegriff.\nMan nennt dies Machomeis Spezialgriff.",
+        "Mithilfe seiner vier Arme kann es gleichzeitig\nangreifen und verteidigen. Man sagt, es\nbeherrsche alle Arten der Kampfkunst.",
+        "Es kann mit nur einem Arm Berge versetzen.\nDie geballte Kraft seiner vier Arme lässt es\nunvorstellbare Schläge austeilen.",
+        "Es kann mit nur einem Arm Berge versetzen.\nDie geballte Kraft seiner vier Arme lässt es\nunvorstellbare Schläge austeilen.",
+        "Es verwendet seine vier Arme, um seine Gegner\nunermüdlich mit schnellen Schlägen aus allen\nWinkeln einzudecken.",
+        "Seine vier Arme reagieren schneller, als es\ndenken kann. Daher ist es in der Lage, unzählige\nSchläge reflexartig auszuführen."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "name": "Machomei",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 130.0
+}

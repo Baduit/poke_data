@@ -1,0 +1,11 @@
+{
+    "color": "紫色",
+    "generation": 4,
+    "height": 0.9,
+    "name": "海兔兽",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 29.9
+}

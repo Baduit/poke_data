@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es fügt seiner Schale schichtenweise Baumrinde\nhinzu. Die zusätzliche Belastung ist ihm gleich.",
+        "Es sieht aus wie ein Tannenzapfen. Seine Schale\nschützt es vor Vogel-Pokémon, die an ihm picken\nwollen.",
+        "Tannza hängt an Ästen und wartet auf Beute. Wenn man\ndieses Pokémon bei einer Mahlzeit stört, indem man den\nBaum, auf dem es sich befindet, schüttelt, fällt es herunter\nund explodiert ohne Vorwarnung.",
+        "Tannza hängt an Ästen und wartet auf Beute. Wenn man dieses\nPokémon bei einer Mahlzeit stört, indem man seinen Baum\nschüttelt, fällt es herunter und explodiert ohne Vorwarnung.",
+        "Es hängt an Bäumen und wartet regungslos auf\nseine Beute, Käfer-Pokémon. In Alola ernährt es\nsich bevorzugt von Wommel.",
+        "Es macht seinen Körper breiter und größer,\nindem es sich mit Speichel Baumrinde anklebt.\nÄltere Tannza sind deshalb unfassbar groß."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "name": "Tannza",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 7.2
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Stollrak",
+    "types": [
+        "Stahl",
+        "Gestein"
+    ],
+    "weight": 120.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Ferkokel",
+    "types": [
+        "Feuer",
+        "Kampf"
+    ],
+    "weight": 55.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Con i suoi incredibili poteri psichici comprime il\ncervello dei suoi nemici provocando loro fortissime\nemicranie.",
+        "Si dice che sia arrivato 50 anni fa da un deserto in\ncui sembra si sia schiantato un UFO.",
+        "Con i suoi incredibili poteri psichici comprime il cervello\ndei suoi nemici provocando loro fortissime emicranie.",
+        "Si dice che sia arrivato 50 anni fa da un deserto in cui sembra\nsi sia schiantato un UFO.",
+        "I suoi poteri psichici sono straordinari. Quando\nqualcuno dichiara di aver visto un alieno, nella\nmaggior parte dei casi si tratta di un Elgyem.",
+        "È un Pokémon dai molti misteri.\nSi dice che provenga da un UFO schiantatosi\n50 anni fa.",
+        "Quando si trova vicino a un televisore, sullo\nschermo appaiono paesaggi singolari. Si dice\nche siano vedute del luogo da cui proviene.",
+        "È stato scoperto circa 50 anni fa. Il suo cervello\nmolto sviluppato gli permette di usare\npoteri psichici."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "name": "Elgyem",
+    "types": [
+        "Psico"
+    ],
+    "weight": 9.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "空間を　ゆがめる　リングで\nあらゆる　ものを　離れた　場所へ\n飛ばしてしまう　トラブルメーカー。",
+        "気に入った　ものを　リングを　使い\n秘密の　住処へ　集めている。\nリングを　潜って　テレポートする。",
+        "真の姿は　巨大な　力を　持っている。\n財宝　欲しさに　それが　隠された　城ごと\n引き抜き　奪い去った　という　伝説が　ある。",
+        "６つの　リングと　６つの　巨大な腕で\nあらゆるものを　奪うと　いわれる。\n力を　封じられ　小さな姿に　変えられた。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
+    "name": "フーパ",
+    "types": [
+        "エスパー",
+        "ゴースト"
+    ],
+    "weight": 9.0
+}

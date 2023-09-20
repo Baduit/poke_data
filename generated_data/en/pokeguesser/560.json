@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Groups of them beat up anything\nthat enters their territory. Each can\nspit acidic liquid from its mouth.",
+        "It can smash concrete blocks with its\nkicking attacks. The one with the biggest\ncrest is the group leader.",
+        "It pulls up its shed skin to protect\nitself while it kicks. The bigger the\ncrest, the more respected it is.",
+        "It pulls up its shed skin to protect\nitself while it kicks. The bigger the\ncrest, the more respected it is.",
+        "It pulls up its shed skin to protect itself while\nit kicks. The bigger the crest, the more respected\nit is.",
+        "It can smash concrete blocks with its kicking\nattacks. The one with the biggest crest is the\ngroup leader.",
+        "It pulls up its shed skin to protect itself while\nit kicks. The bigger the crest, the more respected\nit is.",
+        "It can smash concrete blocks with its kicking\nattacks. The one with the biggest crest is the\ngroup leader.",
+        "This Pokémon may be rude, but it takes very\ngood care of its family, its friends, and its turf.",
+        "It taunts its opponents by spitting. It has a\ncertain territory that it never leaves its whole\nlife long.",
+        "As halfhearted as this Pokémon’s kicks may seem,\nthey pack enough power to shatter Conkeldurr’s\nconcrete pillars.",
+        "While mostly known for having the temperament\nof an aggressive ruffian, this Pokémon takes very\ngood care of its family, friends, and territory."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "name": "Scrafty",
+    "types": [
+        "Dark",
+        "Fighting"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Le sue antenne simili a fiocchetti emettono onde dagli\neffetti rilassanti, grazie alle quali fa cessare le lotte.",
+        "Se si affeziona particolarmente al suo Allenatore, lo\naccompagna circondandogli amorevolmente il braccio\ncon le sue antenne a forma di fiocchetto.",
+        "Le sue antenne simili a fiocchetti emettono onde dagli effetti\nrilassanti, grazie alle quali fa cessare le lotte.",
+        "Se si affeziona particolarmente al suo Allenatore, lo\naccompagna circondandogli amorevolmente il braccio\ncon le sue antenne a forma di fiocchetto.",
+        "Le sue antenne simili a fiocchetti emettono onde\nche neutralizzano l’aggressività, riuscendo così\na far abbassare la guardia alle sue prede.",
+        "Individuata una preda, agita le sue antenne\nsimili a fiocchetti per deconcentrarla e poi\nattacca approfittando della sua distrazione.",
+        "Nella lotta, parte all’attacco senza esitare\nun istante, anche quando si trova di fronte\nimponenti Pokémon di tipo Drago.",
+        "Avvolge le sue antenne simili a fiocchetti intorno\nal braccio dell’Allenatore per comprendere i suoi\nsentimenti.",
+        "Fa cessare le lotte grazie alle antenne simili\na fiocchetti, che emettono onde in grado di\nplacare le ostilità.",
+        "Una favola di Galar narra di un Sylveon di rara\nbellezza che sconfisse uno spaventoso Pokémon\ndi tipo Drago."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "name": "Sylveon",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 23.5
+}

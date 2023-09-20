@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Ein Pokémon, das in Legenden zu finden ist.\nMan sagt, als Dialga geboren wurde,\nbegann der Lauf der Zeit.",
+        "Es besitzt die Macht, die Zeit zu kontrollieren.\nIn den Mythen von Sinnoh erscheint es als Gottheit.",
+        "Ein Pokémon, das in Legenden zu finden ist. Man sagt,\nals Dialga geboren wurde, begann der Lauf der Zeit.",
+        "Es besitzt die Macht, die Zeit zu kontrollieren. In den Mythen\nvon Sinnoh erscheint es als Gottheit."
+    ],
+    "height": 5.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "name": "Dialga",
+    "types": [
+        "Stahl",
+        "Drache"
+    ],
+    "weight": 683.0
+}

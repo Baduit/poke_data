@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Omanyte",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "weight": 7.5
+}

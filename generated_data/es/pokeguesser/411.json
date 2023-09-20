@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se alineaban y creaban una barrera que ningún\nenemigo podía cruzar. Así protegían a sus crías.",
+        "Repele cualquier ataque frontal. Es muy dócil y se\nalimenta de hierba y bayas.",
+        "Se alineaban y creaban una barrera que ningún enemigo podía\ncruzar. Así protegían a sus crías.",
+        "Repele cualquier ataque frontal. Es muy dócil y se alimenta\nde hierba y bayas.",
+        "Es capaz de repeler cualquier ataque frontal,\npero se encuentra totalmente a merced de los\nataques por la retaguardia.",
+        "Compartía hábitat con Rampardos. A veces se\nhan encontrado fósiles de ambas especies\nyaciendo juntos tras una lucha encarnizada.",
+        "Hasta que no se regeneró por completo a este\nPokémon, se pensaba que los grandes y recios\nhuesos de su rostro eran su columna vertebral.",
+        "Un Pokémon con una antigüedad de unos cien\nmillones de años. Su rostro posee una dureza\nimpresionante, superior incluso a la del acero."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "name": "Bastiodon",
+    "types": [
+        "Roca",
+        "Acero"
+    ],
+    "weight": 149.5
+}

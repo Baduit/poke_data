@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "虽然人们容易被它美丽的\n毛发和身姿所迷惑，但它其实\n是一种善变而凶暴的宝可梦。",
+        "和猾大狐争抢地盘。\n能够悄无声息地\n从背后偷偷靠近猎物。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "name": "酷豹",
+    "types": [
+        "恶"
+    ],
+    "weight": 37.5
+}

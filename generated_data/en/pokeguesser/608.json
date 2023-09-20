@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "This ominous Pokémon is feared.\nThrough cities it wanders, searching\nfor the spirits of the fallen.",
+        "It arrives near the moment of death\nand steals spirit from the body.",
+        "The spirits it absorbs fuel its baleful\nfire. It hangs around hospitals waiting\nfor people to pass on.",
+        "The spirits it absorbs fuel its baleful\nfire. It hangs around hospitals waiting\nfor people to pass on.",
+        "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on.",
+        "It arrives near the moment of death and steals spirit\nfrom the body.",
+        "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on.",
+        "It arrives near the moment of death and steals spirit\nfrom the body.",
+        "This Pokémon appears just before someone\npasses away, so it’s feared as an emissary\nof death.",
+        "It lurks in cities, pretending to be a lamp.\nOnce it finds someone whose death is near,\nit will trail quietly after them."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "name": "Lampent",
+    "types": [
+        "Ghost",
+        "Fire"
+    ],
+    "weight": 13.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Si muove grazie all’energia che gli brucia dentro,\nma nessuno sa di che tipo di energia si tratti.",
+        "È stato creato dall’argilla usando antiche conoscenze\nscientifiche. È vivo da più di 1000 anni.",
+        "Si muove grazie all’energia che gli brucia dentro, ma nessuno\nsa di che tipo di energia si tratti.",
+        "È stato creato dall’argilla usando antiche conoscenze\nscientifiche. È vivo da più di 1000 anni.",
+        "È animato da un’energia misteriosa, ma essendo\nin funzione fin dall’antichità si sospetta che\npotrebbe esaurirsi presto.",
+        "Un popolo antico lo ha creato modellando\nl’argilla per farne un servitore. La fonte\ndell’energia che lo anima è sconosciuta.",
+        "È un Pokémon antico creato dall’argilla. Non si\nsa perché, ma ad alcuni esemplari piace creare\nfile interminabili di grandi rocce.",
+        "È stato creato modellando dell’argilla.\nSegue ancora gli ordini che il suo padrone\ngli ha impartito molti secoli or sono."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "name": "Golett",
+    "types": [
+        "Terra",
+        "Spettro"
+    ],
+    "weight": 92.0
+}

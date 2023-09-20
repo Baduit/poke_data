@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Sa flamme brûle en consumant\nl’énergie vitale des gens et\ndes Pokémon.",
+        "Il fait semblant de guider ses victimes\nà la lueur de sa flamme, mais c’est pour\nmieux aspirer leur énergie vitale.",
+        "Il fait semblant de guider ses victimes à la lueur de\nsa flamme, mais c’est pour mieux aspirer leur énergie\nvitale.",
+        "Sa flamme brûle en consumant l’énergie vitale\ndes gens et des Pokémon.",
+        "Il fait semblant de guider ses victimes à la lueur de sa flamme,\nmais c’est pour mieux aspirer leur énergie vitale.",
+        "Sa flamme brûle en consumant l’énergie vitale des gens\net des Pokémon.",
+        "Son corps est tiède, réchauffé par sa flamme.\nIl prend les personnes égarées par la main\net les guide vers le monde des esprits.",
+        "Plus les victimes dont il aspire l’énergie vitale\nsont jeunes, plus sa flamme grandit et luit\nlugubrement."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "name": "Funécire",
+    "types": [
+        "Spectre",
+        "Feu"
+    ],
+    "weight": 3.1
+}

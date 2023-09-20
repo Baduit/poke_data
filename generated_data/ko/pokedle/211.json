@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 2,
+    "height": 0.5,
+    "name": "침바루",
+    "types": [
+        "물",
+        "독"
+    ],
+    "weight": 3.9
+}

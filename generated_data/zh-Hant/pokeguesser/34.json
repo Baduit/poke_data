@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "會利用全身鋼鐵般的皮膚，\n使出威力強大的撞擊。\n頭上的角連鑽石也能穿透。",
+        "會利用全身鋼鐵般的皮膚，\n使出威力強大的撞擊。\n頭上的角連鑽石也能穿透。",
+        "一旦大鬧起來就無人能擋，\n但在長年相伴的尼多后面前\n則會露出溫和的表情。",
+        "以力氣為傲的寶可夢。\n會善用粗壯的尾巴和連鑽石\n也能擊碎的角，豪邁地戰鬥。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "name": "尼多王",
+    "types": [
+        "毒",
+        "地面"
+    ],
+    "weight": 62.0
+}

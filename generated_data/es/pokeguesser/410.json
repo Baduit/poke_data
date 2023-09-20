@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se abrillanta la cara frotándola contra los árboles.\nEs vulnerable a los ataques por la espalda.",
+        "Surgió de un fósil de hace 100 millones de años.\nSu protección facial es tremendamente dura.",
+        "Se abrillanta la cara frotándola contra los árboles. Es\nvulnerable a los ataques por la espalda.",
+        "Surgió de un fósil de hace 100 millones de años.\nSu protección facial es tremendamente dura.",
+        "Se han encontrado innumerables fósiles de este\nPokémon y prácticamente ninguno presenta\ndaños en la parte facial.",
+        "Debido a la extraordinaria dureza de su rostro,\nse piensa que tenía pocos enemigos. Vivía en las\njunglas prehistóricas.",
+        "Un Pokémon herbívoro de carácter afable.\nCon su dura protección facial podía desenterrar\nlas raíces de los árboles para comérselas.",
+        "Los fósiles que se han encontrado hasta ahora\nen estratos prehistóricos pertenecen solo a su\ncara."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "name": "Shieldon",
+    "types": [
+        "Roca",
+        "Acero"
+    ],
+    "weight": 57.0
+}

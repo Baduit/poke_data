@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il sauve les gens bloqués dans les\nmontagnes par des tempêtes de neige.\nSes longs poils le protègent du froid.",
+        "Il est spécialisé dans l’assistance aux\npersonnes perdues en mer ou en\nmontagne. Il est très intelligent.",
+        "Il sauve les gens bloqués dans les montagnes par\ndes tempêtes de neige. Ses longs poils le protègent\ndu froid.",
+        "Sa soyeuse fourrure à poils longs est assez chaude\npour supporter de longues nuits d’hiver en montagne.",
+        "Il sauve les gens bloqués dans les montagnes par\ndes tempêtes de neige. Ses longs poils le protègent\ndu froid.",
+        "Sa soyeuse fourrure à poils longs est assez chaude\npour supporter de longues nuits d’hiver en montagne.",
+        "Sagesse, gentillesse et bravoure sont les mots\nqui qualifient le mieux ce Pokémon, devenu\nl’inséparable partenaire des équipes de secours.",
+        "Modèle de sagesse, il ne s’en prend jamais aux\nhumains sans raison, et assume volontiers le\nrôle de nounou pour les parents occupés.",
+        "Son long pelage le protège parfaitement du froid.\nMalheureusement pour lui, cela n’est pas très\nutile à Alola.",
+        "Il possède un pelage long et épais. Jadis, dans\nles régions froides, chaque foyer en élevait un.",
+        "Il apprécierait tant la compagnie des êtres\nhumains qu’il ne faudrait pas plus de trois jours\npour apprivoiser un Mastouffe sauvage.",
+        "Sa moustache remarquable fait sa fierté,\ncar sa longueur permettrait de déterminer\nla hiérarchie au sein de l’espèce."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png",
+    "name": "Mastouffe",
+    "types": [
+        "Normal"
+    ],
+    "weight": 61.0
+}

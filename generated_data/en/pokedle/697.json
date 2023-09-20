@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 6,
+    "height": 2.5,
+    "name": "Tyrantrum",
+    "types": [
+        "Rock",
+        "Dragon"
+    ],
+    "weight": 270.0
+}

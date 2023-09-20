@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sparge scaglie che paralizzano chiunque le tocchi,\nrendendolo incapace di stare in piedi.",
+        "Le ali sono ricoperte di polvere velenosa, che libera\nnell’aria a ogni batter d’ali.",
+        "Venomoth è un Pokémon notturno, cioè attivo soltanto\ndi notte. Le sue prede favorite sono i piccoli insetti che\nsi raggruppano attorno ai lampioni attratti dalla luce nel buio.",
+        "Venomoth è un Pokémon notturno, cioè attivo soltanto\ndi notte. Le sue prede favorite sono i piccoli insetti che\nsi raggruppano attorno ai lampioni attratti dalla luce nel buio.",
+        "Se si attaccano alla pelle, le scaglie che\nricoprono le sue ali sono difficili da togliere.\nInoltre, rilasciano una sostanza velenosa.",
+        "Se si attaccano alla pelle, le scaglie che\nricoprono le sue ali sono difficili da togliere.\nInoltre, rilasciano una sostanza velenosa."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "name": "Venomoth",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 12.5
+}

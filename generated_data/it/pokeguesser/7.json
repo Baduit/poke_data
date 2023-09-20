@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Si ritira nel suo guscio e, alla prima occasione,\ncontrattacca colpendo il nemico con spruzzi d’acqua.",
+        "Attacca i nemici con potenti getti d’acqua. Se si\nsente in pericolo si ritira dentro la sua corazza.",
+        "La corazza di Squirtle non serve soltanto da protezione.\nLa particolare forma arrotondata e le scanalature\nsuperficiali lo aiutano a minimizzare l’attrito dell’acqua\nper nuotare ad alta velocità.",
+        "La corazza di Squirtle non serve soltanto da protezione.\nLa particolare forma arrotondata e le scanalature\nsuperficiali lo aiutano a minimizzare l’attrito dell’acqua\nper nuotare ad alta velocità.",
+        "Se ne sta tra i flutti e attacca le prede con\npotenti getti d’acqua. Se si sente in pericolo\nsi ritira dentro la corazza.",
+        "Se ne sta tra i flutti e attacca le prede con\npotenti getti d’acqua. Se si sente in pericolo\nsi ritira dentro la corazza.",
+        "Quando ritrae il lungo collo dentro la corazza\nsputa un vigoroso getto d’acqua.",
+        "Se si sente minacciato, ritira le zampe nel guscio\ne inizia a spruzzare acqua dalla bocca."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "name": "Squirtle",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 9.0
+}

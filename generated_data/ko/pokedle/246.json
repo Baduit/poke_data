@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 2,
+    "height": 0.6,
+    "name": "애버라스",
+    "types": [
+        "바위",
+        "땅"
+    ],
+    "weight": 72.0
+}

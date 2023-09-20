@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Colombeau",
+    "types": [
+        "Normal",
+        "Vol"
+    ],
+    "weight": 15.0
+}

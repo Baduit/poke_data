@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 5,
+    "height": 0.6,
+    "name": "Ferroseed",
+    "types": [
+        "Grass",
+        "Steel"
+    ],
+    "weight": 18.8
+}

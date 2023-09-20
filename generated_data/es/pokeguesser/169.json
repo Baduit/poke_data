@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es tan silencioso cuando vuela en la oscuridad con sus\ncuatro alas, que cuesta percibirlo cuando se acerca.",
+        "Al contar con cuatro alas, puede acechar de manera\nmás rápida y sigilosa a sus presas sin que estas lo\nperciban.",
+        "Cuando este Pokémon vuela batiendo solo las alas delanteras\no traseras, es porque lleva volando bastante tiempo. Cuando\nse cansa, Crobat alterna las alas.",
+        "Crobat se acerca hasta su posible presa usando las alas casi\nsin hacer ruido. La forma de descansar que tiene es colgarse\nde la rama de un árbol por las patas traseras.",
+        "Tiene una movilidad muy reducida en el suelo, ya\nque sus patas se transformaron en alas. La\núnica opción que le queda es arrastrarse.",
+        "Puede volar rápida y sigilosamente gracias a sus\ncuatro alas. Se abalanza sobre sus presas y les\nchupa toda la sangre antes de que se percaten.",
+        "Sus colmillos son tan afilados que su mordedura\nresulta indolora y puede chupar la sangre a sus\npresas en la oscuridad sin que se percaten.",
+        "Se alimenta de sangre fresca de humanos y\nPokémon. Debe alimentarse constantemente o,\nde lo contrario, se vuelve débil y no puede volar.",
+        "Sus patas se han convertido en alas. Se lanza\nsobre su presa en un vuelo silencioso a alta\nvelocidad y le clava los colmillos en la nuca.",
+        "Controla de forma independiente cada una de\nsus cuatro alas. Puede revolotear por cuevas\nestrechas sin aminorar la velocidad."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "name": "Crobat",
+    "types": [
+        "Veneno",
+        "Volador"
+    ],
+    "weight": 75.0
+}

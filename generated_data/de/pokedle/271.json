@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Lombrero",
+    "types": [
+        "Wasser",
+        "Pflanze"
+    ],
+    "weight": 32.5
+}

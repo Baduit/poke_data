@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Malgré sa maladresse, son énorme\ngueule lui permet de lancer des\nattaques puissantes.",
+        "Malgré sa maladresse, son énorme\ngueule lui permet de lancer des\nattaques puissantes.",
+        "Il niche dans des cavités chauffées par géothermie,\ndont il bondit pour déchiqueter tout intrus.",
+        "Il niche dans les petits trous horizontaux des murs\ndes grottes. Il bondit pour saisir sa proie.",
+        "Il niche dans des cavités chauffées par géothermie,\ndont il bondit pour déchiqueter tout intrus.",
+        "Il niche dans les petits trous horizontaux des murs des grottes.\nIl bondit pour saisir sa proie.",
+        "On le trouve dans les cavernes bien chauffées\npar géothermie. S’il a froid malgré tout, il dort en\ntas avec ses congénères pour se réchauffer.",
+        "Il attend le passage d’une proie pour bondir\nhors de son trou et la croquer. Dans son élan,\nil se casse parfois les dents.",
+        "Il saute sur tout ce qui bouge pour y planter\nses dents. Cette manie lui vaut quelques\nblessures, mais il n’en a que faire.",
+        "Il vient d’un endroit où il fait bien plus chaud\nque dans la région d’Alola. La facture de\nchauffage est donc élevée quand on vit avec lui.",
+        "Il aime les cavités étroites dans les grottes\nchauffées par géothermie. Elles le tiennent au\nchaud lorsque le blizzard souffle à l’extérieur.",
+        "Il attaque et entraîne dans son antre tout ce qui\nbouge, sans distinction. Sa gueule est immense,\nmais son estomac est relativement petit."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "name": "Griknot",
+    "types": [
+        "Dragon",
+        "Sol"
+    ],
+    "weight": 20.5
+}

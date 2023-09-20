@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "L’utilisation de ses pouvoirs\nmentaux le fatigue tellement\nqu’il dort 18 heures par jour.",
+        "L’utilisation de ses pouvoirs\nmentaux le fatigue tellement\nqu’il dort 18 heures par jour.",
+        "Il dort 18 h par jour. Il peut utiliser de nombreux\npouvoirs psy, même pendant son sommeil.",
+        "Il prévoit les attaques futures et se téléporte pour\nse mettre à l’abri et éviter le combat.",
+        "Abra dort dix-huit heures par jour. Pourtant, il peut sentir\nla présence de ses ennemis, même endormi. Dans ce genre\nde situation, ce Pokémon se téléporte en lieu sûr.",
+        "Abra doit dormir dix-huit heures par jour. S’il dort moins,\nce Pokémon ne peut plus utiliser ses pouvoirs télékinétiques.\nLorsqu’il est attaqué, Abra s’enfuit en utilisant Téléport,\nsans même se réveiller.",
+        "Il dort 18 heures par jour. Il lui arrive de se\ntéléporter dans les arbres et d’en manger\nles Baies sans même se réveiller.",
+        "Il lui arrive de se téléporter pendant son sommeil\npour se protéger, mais lorsqu’il se réveille, il se\nretrouve dans un endroit inconnu et panique.",
+        "Il utilise certains de ses pouvoirs psychiques\nmême quand il dort, aussi est-ce impossible\nde savoir s’il est éveillé ou non.",
+        "Il lit les pensées de ses adversaires et se\ntéléporte au loin avant d’être en danger. Pour\nl’attraper, il faut faire le vide dans son esprit.",
+        "Il dort 18 heures par jour. En cas de danger, il se\ntéléporte vers un lieu sûr, même s’il est assoupi.",
+        "Il dort 18 heures par jour. En cas de danger, il se\ntéléporte vers un lieu sûr, même s’il est assoupi.",
+        "Le contenu de ses rêves influe sur les pouvoirs\npsychiques qu’il utilise dans son sommeil.",
+        "Il peut se téléporter en dormant. On dit que plus\nson sommeil est profond, plus il se téléporte loin."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "name": "Abra",
+    "types": [
+        "Psy"
+    ],
+    "weight": 19.5
+}

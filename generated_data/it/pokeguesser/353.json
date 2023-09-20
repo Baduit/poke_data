@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Si dice che si nutra di rancore e invidia con il corno\nche ha sulla testa. A mezzanotte si scatena.",
+        "Si annida sotto le grondaie di case dove vive gente\nche cova sentimenti di vendetta, che lui adora.",
+        "Shuppet è attratto dai sentimenti turpi di gelosia e vendetta.\nSe qualcuno serba un forte rancore, questi Pokémon arrivano\na frotte per annidarsi sotto i cornicioni di casa sua.",
+        "Shuppet cresce alimentandosi di sentimenti turpi, come la\nvendetta e l’invidia, insiti nel cuore delle persone. Si aggira\nper le città in cerca del rancore che insudicia gli animi.",
+        "Si nutre di sentimenti turpi come rancore, invidia\ne gelosia. Per questo, alcuni sono felici che\nesista.",
+        "Un vecchio proverbio esorta a stare lontani\ndalle case in cui, al calar del sole, si annidano\ngli Shuppet."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "name": "Shuppet",
+    "types": [
+        "Spettro"
+    ],
+    "weight": 2.3
+}

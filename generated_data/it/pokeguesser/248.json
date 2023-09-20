@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Anche una sola delle sue mani può far tremare\nla terra e sbriciolare le montagne.",
+        "Se s’infuria, abbatte le montagne e seppellisce i\nfiumi. In seguito, le mappe devono essere riscritte.",
+        "Tyranitar ha una potenza tale da abbattere anche un’intera\nmontagna per crearsi la tana. Vaga tra i monti alla ricerca\ndi nuovi avversari con cui lottare.",
+        "Tyranitar ha una potenza tale da abbattere anche un’intera\nmontagna per crearsi la tana. Vaga tra i monti alla ricerca\ndi nuovi avversari con cui lottare.",
+        "Vaga tra i monti alla ricerca di avversari con\ncui lottare. Se però non li ritiene alla sua altezza,\nli ignora e se ne va.",
+        "Provoca disastri non appena si muove.\nSe sul suo cammino incontra una montagna,\nla spiana, e se trova una casa la distrugge.",
+        "Il suo corpo non è scalfito da alcun attacco,\nperciò sfida un avversario dietro l’altro senza\nesitazione.",
+        "Può camminare a passi così pesanti da far\ncrollare perfino le montagne più grosse,\ntrasformando così il paesaggio circostante."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "name": "Tyranitar",
+    "types": [
+        "Roccia",
+        "Buio"
+    ],
+    "weight": 202.0
+}

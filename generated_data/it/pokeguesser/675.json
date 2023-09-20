@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Ha un carattere focoso e attaccabrighe, ma non\nsopporta chi maltratta i più deboli. Usa la foglia che\ntiene in bocca per prevedere i movimenti dei nemici.",
+        "Quando lotta, avanza impetuosamente senza curarsi\ndei colpi nemici. Le sue braccia sono talmente forti\nche potrebbe spezzare in due un palo della luce.",
+        "Ha un carattere focoso e attaccabrighe, ma non sopporta\nchi maltratta i più deboli. Usa la foglia che tiene in bocca\nper prevedere i movimenti dei nemici.",
+        "Quando lotta, avanza impetuosamente senza curarsi dei colpi\nnemici. Le sue braccia sono talmente forti che potrebbe\nspezzare in due un palo della luce.",
+        "Va molto fiero dell’enorme forza delle sue\nbraccia. Gli Allenatori sono avvisati: la lingua\nche capisce meglio è quella dei pugni.",
+        "È un attaccabrighe, ma è anche generoso con gli\namici. Prevede i movimenti dei nemici dalle\nvibrazioni della foglia che tiene in bocca.",
+        "È aggressivo e va molto fiero della forza delle\nsue braccia. Molti Allenatori vanno matti per\nil suo carattere intrepido.",
+        "Preferisce parlare la lingua dei pugni. Si lancia\nalla carica con un impeto tale da far prendere\nil volo a un autocarro.",
+        "Ha un’indole focosa e sistema ogni diatriba con\nla forza delle braccia. Il suo spirito combattivo\narde quando lotta con Obstagoon.",
+        "Prevede i movimenti dei nemici dalle vibrazioni\ndella foglia che tiene in bocca. Con un pugno\npuò fare a pezzi un camion ribaltabile."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+    "name": "Pangoro",
+    "types": [
+        "Lotta",
+        "Buio"
+    ],
+    "weight": 136.0
+}

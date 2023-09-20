@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 0.9,
+    "name": "Fletiamo",
+    "types": [
+        "Psycho",
+        "Flug"
+    ],
+    "weight": 10.5
+}

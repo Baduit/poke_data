@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+        "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "name": "Oinkologne",
+    "types": [
+        "Normal"
+    ],
+    "weight": 120.0
+}

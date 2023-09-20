@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "La flamme de sa queue symbolise sa\nvitalité. Elle est intense quand il\nest en bonne santé.",
+        "La flamme de sa queue symbolise sa\nvitalité. Elle est intense quand il\nest en bonne santé.",
+        "La flamme sur sa queue représente l’énergie vitale\nde Salamèche. Quand il est vigoureux, elle brûle plus\nfort.",
+        "Depuis sa naissance, une petite flamme brûle au bout\nde sa queue. Si cette flamme s’éteint, la vie de ce\nPokémon s’éteindra elle aussi.",
+        "La flamme qui brûle au bout de sa queue indique l’humeur\nde ce Pokémon. Elle vacille lorsque Salamèche est content.\nEn revanche, lorsqu’il s’énerve, la flamme prend\nde l’importance et brûle plus ardemment.",
+        "La flamme qui brûle au bout de sa queue indique l’humeur\nde ce Pokémon. Elle vacille lorsque Salamèche est content.\nEn revanche, lorsqu’il s’énerve, la flamme prend\nde l’importance et brûle plus ardemment.",
+        "La flammèche au bout de sa queue émet\nun crépitement audible seulement dans\nles endroits calmes.",
+        "La flammèche au bout de sa queue émet\nun crépitement audible seulement dans\nles endroits calmes.",
+        "Il préfère ce qui est chaud.\nEn cas de pluie, de la vapeur se forme autour\nde sa queue.",
+        "Depuis sa naissance, une petite flamme brûle\nau bout de sa queue. Si cette flamme s’éteint,\nla vie de ce Pokémon s’éteindra elle aussi."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "name": "Salamèche",
+    "types": [
+        "Feu"
+    ],
+    "weight": 8.5
+}

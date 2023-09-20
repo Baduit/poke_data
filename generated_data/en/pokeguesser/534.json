@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "It is thought that Conkeldurr taught\nhumans how to make concrete more\nthan 2,000 years ago.",
+        "They use concrete pillars as walking\ncanes. They know moves that enable them\nto swing the pillars freely in battle.",
+        "Rather than rely on force,\nthey master moves that utilize the\ncentrifugal force of spinning concrete.",
+        "Rather than rely on force,\nthey master moves that utilize the\ncentrifugal force of spinning concrete.",
+        "It is thought that Conkeldurr taught humans how to\nmake concrete more than 2,000 years ago.",
+        "Rather than rely on force, they master moves that\nutilize the centrifugal force of spinning concrete.",
+        "It is thought that Conkeldurr taught humans how to\nmake concrete more than 2,000 years ago.",
+        "Rather than rely on force, they master moves that\nutilize the centrifugal force of spinning concrete.",
+        "Concrete mixed by Conkeldurr is much more\ndurable than normal concrete, even when the\ncompositions of the two materials are the same.",
+        "When going all out, this Pokémon throws aside\nits concrete pillars and leaps at opponents to\npummel them with its fists."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "name": "Conkeldurr",
+    "types": [
+        "Fighting"
+    ],
+    "weight": 87.0
+}

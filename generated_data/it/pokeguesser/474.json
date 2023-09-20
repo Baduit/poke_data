@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "È stato aggiunto un software per migliorare le\nprestazioni di questo Pokémon. Agisce in modo\nstrano.",
+        "Non sembra funzionare correttamente dopo essere\nstato riprogrammato per muoversi in dimensioni\nsconosciute.",
+        "È stato aggiunto un software per migliorare le prestazioni\ndi questo Pokémon. Agisce in modo strano.",
+        "Non sembra funzionare correttamente dopo essere stato\nriprogrammato per muoversi in dimensioni sconosciute.",
+        "A volte mostra strani comportamenti a causa\ndi un errore nel software aggiuntivo usato\nper migliorare le sue prestazioni.",
+        "Da quando è stato riprogrammato per lavorare\nin dimensioni sconosciute ha assunto\ncomportamenti visibilmente strani.",
+        "Mostra un comportamento instabile, da attribuire\nprobabilmente alla scarsa competenza di chi ha\naggiornato il suo software.",
+        "Il software aggiuntivo che gli è stato installato\naveva dei bug. I suoi comportamenti strani fanno\npensare che si tratti di un esperimento fallito.",
+        "Da quando gli è stato installato un programma\nche gli permette di viaggiare in altre dimensioni,\nmostra un comportamento instabile.",
+        "Pare che si sia evoluto in seguito all’installazione\ndi un programma, ma la comunità scientifica non\nè concorde nel definire ciò un’evoluzione."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "name": "Porygon-Z",
+    "types": [
+        "Normale"
+    ],
+    "weight": 34.0
+}

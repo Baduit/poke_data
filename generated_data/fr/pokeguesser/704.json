@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "C’est le plus faible de tous les Pokémon Dragon.\nPour éviter que son corps ne se dessèche,\nil recherche les lieux humides et ombragés.",
+        "Son corps est recouvert d’une membrane gluante,\naussi les coups des ennemis glissent sur lui sans\nlui faire le moindre mal.",
+        "C’est le plus faible de tous les Pokémon Dragon. Pour éviter\nque son corps ne se dessèche, il recherche les lieux humides\net ombragés.",
+        "Son corps est recouvert d’une membrane gluante,\naussi les coups des ennemis glissent sur lui sans\nlui faire le moindre mal.",
+        "C’est le plus faible de tous les Pokémon Dragon.\nSa peau doit rester hydratée pour respirer, c’est\npourquoi il préfère vivre tapi dans l’ombre.",
+        "Son corps est recouvert d’une membrane\ngluante protectrice, mais pleine de germes.\nLavez-vous les mains si vous le touchez !",
+        "Ses cornes lui permettent d’inspecter\nles alentours. Elles sont si sensibles que\ntout son corps se fige si on les pince.",
+        "Son corps est majoritairement composé d’eau.\nIl meurt s’il se dessèche, aussi préfère-t-il vivre\ntapi dans l’ombre.",
+        "Son corps est principalement composé d’eau.\nS’il se déshydrate, il devient tout rabougri.\nC’est le plus faible des Pokémon Dragon.",
+        "Ses cornes sont des organes sensoriels qui lui\npermettent de se cacher quand il détecte des\nennemis. C’est grâce à cela qu’il vit toujours."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "name": "Mucuscule",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 2.8
+}

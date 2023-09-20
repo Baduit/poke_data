@@ -1,0 +1,11 @@
+{
+    "color": "綠色",
+    "generation": 3,
+    "height": 2.0,
+    "name": "沙漠蜻蜓",
+    "types": [
+        "地面",
+        "龍"
+    ],
+    "weight": 82.0
+}

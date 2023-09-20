@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Commande aux autres arbres.\nIl emprisonne jusqu’à la fin de leurs jours les humains\nqui abîment la forêt.",
+        "Ses racines sont un véritable système nerveux qui lui\npermet de contrôler les arbres de la forêt. Il se montre\ntrès gentil envers les Pokémon vivant dans son écorce.",
+        "Commande aux autres arbres. Il emprisonne jusqu’à la fin\nde leurs jours les humains qui abîment la forêt.",
+        "Ses racines sont un véritable système nerveux qui lui permet\nde contrôler les arbres de la forêt. Il se montre très gentil\nenvers les Pokémon vivant dans son écorce.",
+        "On raconte que ce Pokémon mange tous ceux\nqui s’en prennent à sa forêt. Il est toutefois\ntrès gentil avec ses voisins sylvains.",
+        "Grâce à ses racines, il contrôle les arbres de\nla forêt où il a élu refuge, et maudit quiconque\na le malheur de les abattre.",
+        "Les bûcherons n’entrent pas dans les bois sans\nPokémon Feu, effrayés par cette créature\nconsidérée comme un fantôme sylvestre.",
+        "Il contrôle les arbres environnants grâce aux\nracines qui poussent au bout de ses pieds,\net attaque quiconque saccage la forêt.",
+        "Les bûcherons qui viennent couper des arbres\nen forêt ont peur d’être dévorés par Desséliande.\nIl est gentil avec les Pokémon habitant les bois.",
+        "Il étire les fines racines de ses pieds pour établir\nune connexion avec les autres arbres de la forêt\net ainsi les contrôler."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "name": "Desséliande",
+    "types": [
+        "Spectre",
+        "Plante"
+    ],
+    "weight": 71.0
+}

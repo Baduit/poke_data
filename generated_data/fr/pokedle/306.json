@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 3,
+    "height": 2.1,
+    "name": "Galeking",
+    "types": [
+        "Acier",
+        "Roche"
+    ],
+    "weight": 360.0
+}

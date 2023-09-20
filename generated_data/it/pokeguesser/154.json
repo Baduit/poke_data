@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "L’aroma che si spande dai suoi petali contiene una\nsostanza che placa gli istinti aggressivi.",
+        "Il respiro di Meganium può far riprendere l’erba e le\npiante morte che ricrescono rigogliose.",
+        "L’aroma del fiore di Meganium placa le emozioni. Nella lotta\nquesto Pokémon emana un profumo con effetto calmante\nper smorzare l’aggressività del nemico.",
+        "L’aroma del fiore di Meganium placa le emozioni. Nella lotta\nquesto Pokémon emana un profumo con effetto calmante\nper smorzare l’aggressività del nemico."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "name": "Meganium",
+    "types": [
+        "Erba"
+    ],
+    "weight": 100.5
+}

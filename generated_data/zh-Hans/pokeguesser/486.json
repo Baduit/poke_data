@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "在世上流传着的传说中，\n它曾模仿自己的样子\n创造出过宝可梦。",
+        "据说它用各种各样的材料\n制作了宝可梦后，把大陆\n移动到了现在的位置。"
+    ],
+    "height": 3.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "name": "雷吉奇卡斯",
+    "types": [
+        "一般"
+    ],
+    "weight": 420.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "傳說的鳥寶可夢。\n當牠揮舞熾熱燃燒的翅膀，\n就連夜空都會映上一片紅光。",
+        "傳說的鳥寶可夢。\n當牠揮舞熾熱燃燒的翅膀，\n就連夜空都會映上一片紅光。",
+        "每當牠拍動翅膀，羽毛就會\n閃爍出美麗的赤紅火焰。\n是傳說的鳥寶可夢之一。",
+        "相傳牠會以美麗燃燒的\n翅膀照亮山路，救助在\n山中遇險的人。"
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "name": "火焰鳥",
+    "types": [
+        "火",
+        "飛行"
+    ],
+    "weight": 60.0
+}

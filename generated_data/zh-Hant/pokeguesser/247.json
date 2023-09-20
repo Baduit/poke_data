@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "等不及進化，就會用壓縮氣體\n四處亂飛大鬧來抒解壓力，\n是種令人頭痛的寶可夢。",
+        "會到處大鬧，是種很危險的蛹。\n在彷彿岩盤一般的外殼裡，\n新的身體正在逐漸成形。",
+        "被外殼覆蓋，但能自由自在地\n跳來跳去。兼具硬度與速度，\n因此破壞力超群。",
+        "雖然是蛹卻不會呆著不動。\n在堅硬的甲殼之下\n已經長出了手腳。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "name": "沙基拉斯",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 152.0
+}

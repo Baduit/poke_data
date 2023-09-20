@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ナマケロの　怠けた　様子は\n見ている　人の　怠け心を\n存分に　刺激するのだ。",
+        "１日に　葉っぱを　３枚も\n食べれば　満足で　それ以外は\n２０時間も　眠っている。",
+        "１日　２０時間　以上　寝そべっている。\nほとんど　体を　動かさないので　葉っぱを\n３枚　食べれば　１日の　食事が　終わる。",
+        "心臓の　鼓動は　１分間に　１回。\nとにかく　じっと　寝そべっている　ポケモンで\n動く　姿を　見ることは　ほとんど　ない。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+    "name": "ナマケロ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 24.0
+}

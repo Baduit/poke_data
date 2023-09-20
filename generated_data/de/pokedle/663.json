@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 6,
+    "height": 1.2,
+    "name": "Fiaro",
+    "types": [
+        "Feuer",
+        "Flug"
+    ],
+    "weight": 24.5
+}

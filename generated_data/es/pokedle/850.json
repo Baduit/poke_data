@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 8,
+    "height": 0.7,
+    "name": "Sizzlipede",
+    "types": [
+        "Fuego",
+        "Bicho"
+    ],
+    "weight": 1.0
+}

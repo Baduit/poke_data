@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Sein Fell ist so flauschig, dass, wenn zwei\nzusammenstehen, sie nicht getrennt werden möchten.",
+        "Der Körper dieses Pokémon ist sehr elastisch.\nBei Gefahr bläht es sich zu enormer Körpergröße auf.",
+        "Knuddeluff hat handtellergroße Augen, die immer mit\nTränenflüssigkeit bedeckt sind. Gerät Staub in die Augen\ndieses Pokémon, so wird dieser sofort ausgespült.",
+        "Knuddeluffs Körper ist sehr dehnbar. Indem es tief einatmet,\nkann sich dieses Pokémon selbst aufblasen. Wenn es\naufgepumpt ist, hüpft es wie ein Luftballon umher.",
+        "Pünktlich zum Wechsel der Jahreszeiten streift\nes sein kuschelig weiches Fell ab. Der Stoff, der\nsich daraus spinnen lässt, gilt als Luxusgut.",
+        "Es kann sich größer machen, indem es Luft\neinatmet. Mit Artgenossen wetteifert es, wer\nsich am meisten aufblasen kann.",
+        "Dank seines elastischen Körpers und feinen\nFells ist es sehr beliebt. Es fühlt sich herrlich\nan, mit Knuddeluff in den Armen einzuschlafen.",
+        "Ist es verärgert, atmet es möglichst viel Luft ein\nund bläst damit sein Volumen auf das bis zu\nZwanzigfache auf.",
+        "Knuddeluff verfügt über einen sehr elastischen\nKörper. Es kann sich mit einem tiefen Atemzug\nzu schier grenzenloser Größe aufblasen.",
+        "Knuddeluff verfügt über einen sehr elastischen\nKörper. Es kann sich mit einem tiefen Atemzug\nzu schier grenzenloser Größe aufblasen.",
+        "Je mehr Luft es einatmet, desto größer wird es.\nIst es verärgert, bläst es seinen Körper enorm auf\nund schüchtert so seine Gegner ein.",
+        "Knuddeluffs weiches Fell ist sein ganzer Stolz.\nBesonders die Locke auf seiner Stirn fühlt sich\nherrlich an."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "name": "Knuddeluff",
+    "types": [
+        "Normal",
+        "Fee"
+    ],
+    "weight": 12.0
+}

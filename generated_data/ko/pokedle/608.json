@@ -1,0 +1,11 @@
+{
+    "color": "검정",
+    "generation": 5,
+    "height": 0.6,
+    "name": "램프라",
+    "types": [
+        "고스트",
+        "불꽃"
+    ],
+    "weight": 13.0
+}

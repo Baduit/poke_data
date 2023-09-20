@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 5,
+    "height": 0.7,
+    "name": "Flunschlik",
+    "types": [
+        "Boden",
+        "Elektro"
+    ],
+    "weight": 11.0
+}

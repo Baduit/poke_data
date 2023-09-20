@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 1,
+    "height": 1.6,
+    "name": "Tentacruel",
+    "types": [
+        "Agua",
+        "Veneno"
+    ],
+    "weight": 55.0
+}

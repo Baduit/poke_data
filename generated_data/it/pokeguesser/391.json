@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Controlla abilmente l’intensità delle fiamme sulla\nsua coda per tenere i nemici alla distanza ideale.",
+        "Attacca la preda lanciandosi da soffitti e pareti.\nLe fiamme sulla coda sono solo una delle sue armi.",
+        "Controlla abilmente l’intensità delle fiamme sulla sua coda\nper tenere i nemici alla distanza ideale.",
+        "Attacca la preda lanciandosi da soffitti e pareti. Le fiamme\nsulla coda sono solo una delle sue armi."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+    "name": "Monferno",
+    "types": [
+        "Fuoco",
+        "Lotta"
+    ],
+    "weight": 22.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Wablu",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 1.2
+}

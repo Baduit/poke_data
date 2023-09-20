@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Quando viene attaccato schizza acqua da tutte le\npiume del corpo. Fugge dileguandosi in una nuvola\ndi spruzzi.",
+        "È più ferrato nel nuoto che nel volo. Si immerge\nnell’acqua per mangiare i licheni marini di cui va matto.",
+        "Quando viene attaccato schizza acqua da tutte le piume\ndel corpo. Fugge dileguandosi in una nuvola di spruzzi.",
+        "È più ferrato nel nuoto che nel volo. Si immerge nell’acqua\nper mangiare i licheni marini di cui va matto."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+    "name": "Ducklett",
+    "types": [
+        "Acqua",
+        "Volante"
+    ],
+    "weight": 5.5
+}

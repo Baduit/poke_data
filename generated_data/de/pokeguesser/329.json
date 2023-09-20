@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Die Schallwellen, die es durch eine hohe\nFlügelschlagfrequenz erzeugt, verursachen\nheftige Kopfschmerzen.",
+        "Durch gewaltiges Schlagen seiner Flügel entstehen\nUltraschallwellen. Ist sein Gegner besiegt, löst es ihn\nmittels Säure auf.",
+        "Um seine Beute zu schwächen, erzeugt Vibrava\nUltraschallwellen, indem es seine Flügel vibrieren lässt.\nDie Ultraschallwellen dieses Pokémon sind so stark, dass\nsie bei Menschen Kopfschmerzen verursachen können.",
+        "Vibravas Flügel sind noch nicht ganz ausgewachsen. Für lange\nStrecken sind seine Flügel weniger geeignet. Aber es kann mit\nihnen Ultraschallwellen erzeugen, wenn es sie vibrieren lässt.",
+        "Vibravas Flügel sind zum Fliegen kaum geeignet.\nEs lässt sie vibrieren, um Ultraschallwellen\nzu erzeugen und so seine Gegner anzugreifen.",
+        "Um das Wachstum seiner Flügel zu fördern,\nschlürft es täglich große Mengen an Beute,\ndie es zuvor in Säure aufgelöst hat.",
+        "Durch die Vibration seiner Flügel erzeugt es\nUltraschallwellen. Es vergräbt bewusstlose\nBeute im Sand, um sie zu konservieren.",
+        "Es lässt seine Flügel vibrieren, um dadurch\nbizarre Schallwellen zu erzeugen. Seine Trainer\nbrauchen Ohrstöpsel.",
+        "Die Schallwellen, die es durch seine hohe\nFlügelschlagfrequenz erzeugt, verursachen\nheftige Kopfschmerzen.",
+        "Um das Wachstum seiner Flügel zu fördern,\nschlürft es täglich große Mengen an Beute,\ndie es zuvor in Magensäure aufgelöst hat."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "name": "Vibrava",
+    "types": [
+        "Boden",
+        "Drache"
+    ],
+    "weight": 15.3
+}

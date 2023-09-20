@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "テレパシーで　気持ちを　通わせる。\n光を　屈折させる　羽毛で\n体を　包み　姿を　消す。",
+        "テレパシーで　人間と　気持ちを\n通わせる。光を　屈折させる\n羽毛で　別の　姿に　変わる。",
+        "人間の　心を　敏感に　感じとる。\n敵意を　キャッチすると　全身の　羽を\n逆立てて　激しく　鳴き声で　威嚇する。",
+        "知能が　高く　人の　言葉を　理解する。\nガラスの　ような　羽毛で　体を　包み込み\n光を　屈折させて　姿を　変える。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+    "name": "ラティアス",
+    "types": [
+        "ドラゴン",
+        "エスパー"
+    ],
+    "weight": 40.0
+}

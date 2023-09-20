@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 3,
+    "height": 0.6,
+    "name": "Goélise",
+    "types": [
+        "Eau",
+        "Vol"
+    ],
+    "weight": 9.5
+}

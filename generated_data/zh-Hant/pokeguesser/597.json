@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "會發射尖刺來保護自己。\n需要反覆訓練才能將\n尖刺準確地射中目標。",
+        "偏愛長著青苔的洞窟。\n青苔中所含的酵素能使牠的\n尖刺成長得又大又結實。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "name": "種子鐵球",
+    "types": [
+        "草",
+        "鋼"
+    ],
+    "weight": 18.8
+}

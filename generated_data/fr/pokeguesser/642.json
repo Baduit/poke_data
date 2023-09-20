@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Les terres qu’il a survolées sont\nrecouvertes d’innombrables traces\ndes éclairs qu’il y a fait tomber.",
+        "Sa queue lance des décharges\nélectriques. Il vole dans le ciel\nd’Unys et fait tomber des éclairs.",
+        "Sa queue lance des décharges électriques. Il vole\ndans le ciel d’Unys et fait tomber des éclairs.",
+        "Il vole dans le ciel d’Unys et fait tomber des éclairs,\nprovoquant des incendies qui font sa mauvaise\nréputation.",
+        "Sa queue lance des décharges électriques. Il vole dans le ciel\nd’Unys et fait tomber des éclairs.",
+        "Il vole dans le ciel d’Unys et fait tomber des éclairs,\nprovoquant des incendies qui font sa mauvaise réputation."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+    "name": "Fulguris",
+    "types": [
+        "Électrik",
+        "Vol"
+    ],
+    "weight": 61.0
+}

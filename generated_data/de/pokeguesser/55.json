@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "An seinen langen, dünnen Gliedmaßen befinden\nsich Schwimmflossen. Mit diesen kann es\nanmutig durch Seen schwimmen.",
+        "Es taucht bei Sonnenuntergang am Wasser auf.\nLeuchtet seine Stirn, setzt es telekinetische Kräfte ein.",
+        "Seine Vorderbeine besitzen Schwimmhäute, um es\nperfekt ans Wasser anzupassen. Daher schwimmt es\nelegant in Flüssen.",
+        "Die mit Schwimmhäuten überzogenen Flossen an seinen\nVorder- und Hinterbeinen und der stromlinienförmige Körper\nmachen Entoron unheimlich schnell. Dieses Pokémon ist auf\njeden Fall schneller als die meisten Hochleistungsschwimmer.",
+        "Entoron ist der schnellste Schwimmer von allen Pokémon.\nEs schwimmt mit Leichtigkeit auch durch eine raue, stürmische\nSee. Manchmal rettet es Menschen, die in Seenot geraten sind\nund auf dem Meer treiben.",
+        "Besitzt man den roten Fortsatz seiner Stirn,\nerhält man angeblich telekinetische Kräfte. Einst\nwar es sehr selten, da es maßlos gejagt wurde.",
+        "Es schwimmt Küstengebiete auf der Suche nach\nFisch-Pokémon ab. Hat es eines gefangen, geht\nes ans Ufer, um es in aller Ruhe zu verschlingen.",
+        "Es bringt selbst schnelle Fisch-Pokémon zum\nStillstand und ergreift sie anschließend mit\nLeichtigkeit.",
+        "Ein exzellenter Schwimmer. Wenn es seinen\nlangen, beweglichen Schwanz geschickt\neinsetzt, kann es zwei Tage durchschwimmen.",
+        "An seinen langen, dünnen Gliedmaßen befinden\nsich Schwimmflossen. Mit diesen kann es\nanmutig durch Seen schwimmen.",
+        "Dieses Pokémon lebt in sanft fließenden Flüssen.\nMit seinen langen Gliedmaßen schwimmt es\nvoller Eleganz durch das Wasser.",
+        "Alten Legenden zufolge werden jene Menschen,\ndie es wagen, seinen Fluss zu verschmutzen,\nvon Entoron ins Wasser gezerrt und entführt."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "name": "Entoron",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 76.6
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Huscht beinahe gleitend über den Boden\nund täuscht Gegner mit agilen Manövern,\nbis es mithilfe seiner Efeurute obsiegt.",
+        "Es achtet stets auf Reinlichkeit, da es mit schmutzigen\nBlättern keine Photosynthese betreiben kann.",
+        "Huscht beinahe gleitend über den Boden und täuscht Gegner\nmit agilen Manövern, bis es mithilfe seiner Efeurute obsiegt.",
+        "Es achtet stets auf Reinlichkeit, da es mit schmutzigen Blättern\nkeine Photosynthese betreiben kann."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png",
+    "name": "Efoserp",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 16.0
+}

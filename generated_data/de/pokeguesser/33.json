@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es überwacht mit seinen riesigen Ohren die Umgebung.\nRegistriert es eine Bewegung, greift es an.",
+        "Ein aggressives Pokémon, das sehr flink angreift.\nDas Horn auf dem Kopf sondert starkes Gift ab.",
+        "Nidorino besitzt ein Horn, das sogar härter ist als ein\nDiamant. Wenn es einen Feind wahrnimmt, stellen sich\nall die Widerhaken auf seinem Rücken auf und es schlägt\nden Gegner mit aller Kraft in die Flucht.",
+        "Nidorino besitzt ein Horn, das sogar härter ist als ein\nDiamant. Wenn es einen Feind wahrnimmt, stellen sich\nall die Widerhaken auf seinem Rücken auf und es schlägt\nden Gegner mit aller Kraft in die Flucht.",
+        "Das Horn dieses Pokémon sondert im Kampf ein\nsehr starkes Gift ab, wenn es den Gegner trifft.",
+        "Das Horn dieses Pokémon sondert im Kampf ein\nsehr starkes Gift ab, wenn es den Gegner trifft.",
+        "Auf der Suche nach einem Mondstein zerstört es\nFelsen mit seinem Horn, das härter ist als ein\nDiamant.",
+        "Es ist nervös und wird schnell aggressiv. Steigt\nsein Adrenalinspiegel, erhöht sich gleichzeitig\nauch die Konzentration seines Gifts."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "name": "Nidorino",
+    "types": [
+        "Gift"
+    ],
+    "weight": 19.5
+}

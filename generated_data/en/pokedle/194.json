@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Wooper",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "weight": 8.5
+}

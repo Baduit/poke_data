@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Si serve degli arti come schiaccianoci per rompere le\nbacche. Affronta con valore anche i nemici più forti.",
+        "Sfida indiscriminatamente avversari anche più forti\ndi lui. Si irrobustisce a forza di lottare.",
+        "Si serve degli arti come schiaccianoci per rompere le bacche.\nAffronta con valore anche i nemici più forti.",
+        "Sfida indiscriminatamente avversari anche più forti di lui.\nSi irrobustisce a forza di lottare.",
+        "Si scaglia contro qualsiasi avversario.\nOgni volta che viene ferito o sconfitto,\ndiventa più forte.",
+        "Infilza le prede con i suoi artigli affilati e le\nattacca a beccate. È principalmente carnivoro,\nma può mangiare anche le bacche.",
+        "Ha arti potenti e artigli robusti con cui riesce\na frantumare anche la corazza degli Shellder\nper poterne beccare il corpo all’interno.",
+        "È considerato un lottatore nato: la prima cosa\nche fa quando viene al mondo è sfidare i genitori\nper guadagnarsi la loro approvazione.",
+        "Quando scorge un Pokémon che ha l’aria di\nessere forte, lo deve sfidare a tutti i costi. Se\nperde, piange più forte che può.",
+        "La sua stretta riduce in frantumi anche le bacche\npiù dure. È un attaccabrighe e sfida chiunque\ngli capiti a tiro."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+    "name": "Rufflet",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 10.5
+}

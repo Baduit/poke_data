@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Se cree que habitó las playas hace 300 millones de\naños. Se protege con una dura concha.",
+        "Es un Pokémon regenerado a partir de un fósil de una\ncriatura ancestral. Está protegido por un duro\ncaparazón.",
+        "Kabuto es un Pokémon regenerado a partir de un fósil,\naunque, en raras ocasiones, se han encontrado casos de\nejemplares vivos en estado salvaje. En 300 millones de\naños, este Pokémon no ha cambiado en nada.",
+        "Kabuto es un Pokémon regenerado a partir de un fósil,\naunque, en raras ocasiones, se han encontrado casos de\nejemplares vivos en estado salvaje. En 300 millones de\naños, este Pokémon no ha cambiado en nada.",
+        "Este Pokémon vivió hace 300 millones de años,\npero en cierta región se dice que han llegado a\nverse ejemplares vivos hoy en día.",
+        "Posee una dura coraza que lo protege. Este\nPokémon se ha extinguido en todo el mundo\nsalvo en una región determinada.",
+        "Este Pokémon se regeneró a partir de un fósil.\nUsaba los ojos de la espalda para explorar su\nentorno al ocultarse en el lecho marino.",
+        "Este Pokémon se regeneró a partir de un fósil.\nUsaba los ojos de la espalda para explorar su\nentorno al ocultarse en el lecho marino.",
+        "Un Pokémon casi extinto. Cada tres días, muda\nel caparazón, que se va endureciendo de forma\nprogresiva.",
+        "Se consideraba extinto, pero, al parecer, existen\ndeterminadas zonas en las que es posible hallar\nejemplares con facilidad."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "name": "Kabuto",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 11.5
+}

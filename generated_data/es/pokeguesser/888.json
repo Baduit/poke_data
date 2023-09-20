@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Este Pokémon está considerado como un héroe\nde leyenda. Absorbe el metal para transformarlo\ny emplearlo como armamento.",
+        "Hay quien lo considera una suerte de figura\nfraterna a la par que rival de Zamazenta,\nun Pokémon sumido en un profundo letargo."
+    ],
+    "height": 2.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "name": "Zacian",
+    "types": [
+        "Hada"
+    ],
+    "weight": 110.0
+}

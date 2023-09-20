@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It emits a scent that enraptures those\nwho smell it. This fragrance changes\ndepending on what it has eaten.",
+        "In the past, rather than using perfume,\nroyal ladies carried a Spritzee\nthat would waft a fragrance they liked.",
+        "It emits a scent that enraptures those\nwho smell it. This fragrance changes\ndepending on what it has eaten.",
+        "In the past, rather than using perfume,\nroyal ladies carried a Spritzee\nthat would waft a fragrance they liked.",
+        "A scent pouch within this Pokémon’s body allows\nit to create various scents. A change in its diet\nwill alter the fragrance it produces.",
+        "The scent its body gives off enraptures those\nwho smell it. Noble ladies had no shortage of\nlove for Spritzee."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+    "name": "Spritzee",
+    "types": [
+        "Fairy"
+    ],
+    "weight": 0.5
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity.",
+        "Its mane shines when it discharges\nelectricity. They use their flashing\nmanes to communicate with one another.",
+        "When thunderclouds cover the sky,\nit will appear. It can catch lightning\nwith its mane and store the electricity.",
+        "Its mane shines when it discharges\nelectricity. They use the frequency and\nrhythm of these flashes to communicate.",
+        "Its mane shines when it discharges\nelectricity. They use the frequency and\nrhythm of these flashes to communicate.",
+        "Its mane shines when it discharges electricity.\nThey use the frequency and rhythm of these flashes\nto communicate.",
+        "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity.",
+        "Its mane shines when it discharges electricity.\nThey use the frequency and rhythm of these flashes\nto communicate."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+    "name": "Blitzle",
+    "types": [
+        "Electric"
+    ],
+    "weight": 29.8
+}

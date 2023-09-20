@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Schließen sich mehrere Magnetilo zusammen,\nentsteht dieses Pokémon. Es entlädt kräftige\nHochspannungsmagnetwellen.",
+        "Dieses Pokémon erzeugt seltsame Radiowellen\nund kann die Lufttemperatur geringfügig anheben.",
+        "Magneton erzeugt ein sehr starkes Magnetfeld,\ndas Maschinen zerstören kann. Deshalb hört man\nin großen Städten oft Sirenen, die die Bürger vor\nScharen dieser Pokémon warnen sollen.",
+        "Magneton strahlt eine starke magnetische Energie ab,\ndie für elektronische Geräte und Präzisionsinstrumente\nsehr schädlich ist. In einigen Städten werden die Bewohner\ngebeten, dieses Pokémon in einem Pokéball zu halten.",
+        "Drei Magnetilo schließen sich zusammen und\nvereinigen ihre Gehirne. Das heißt aber nicht,\ndass dieses Pokémon dreimal so schlau wird.",
+        "Seine Stromstärke ist fast dreimal so hoch wie\ndie eines Magnetilos. Es erscheint vermehrt,\nwenn Flecken auf der Sonne auftauchen.",
+        "Es erzeugt seltsame Radiowellen, die Störungen\nan Präzisionsinstrumenten in seiner Umgebung\nverursachen.",
+        "Ziehen Regenwolken auf, versammeln sich\nMagneton in großer Höhe und warten darauf,\ndass der Blitz einschlägt.",
+        "Es erzeugt seltsame Radiowellen, durch welche\ndie Lufttemperatur in einem Radius von 1 km\num 2 ºC steigt.",
+        "Es erzeugt seltsame Radiowellen, durch welche\ndie Lufttemperatur in einem Radius von 1 km\num 2 ºC steigt.",
+        "Es entsteht durch den Zusammenschluss dreier\nMagnetilo und sendet starke Radiowellen aus,\num seine Umgebung zu untersuchen.",
+        "Es sondert stetig seine starken Magnetkräfte ab,\nsodass bei den meisten Computern Störungen\nauftreten, wenn es sich in deren Nähe aufhält."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "name": "Magneton",
+    "types": [
+        "Elektro",
+        "Stahl"
+    ],
+    "weight": 60.0
+}

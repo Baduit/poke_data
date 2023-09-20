@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Aturde a su presa con los aguijones venenosos\nde la cabeza. Cuando esta se debilita, la rodea\ncon sus diez extremidades y la remata.",
+        "Reptan por las profundidades marinas o junto a\nla costa. Les encantan las ramas de coral que\ncrecen en la cabeza de los Corsola.",
+        "Los artesanos intentan exterminarlo porque se\ncome las ramas de los Corsola, que ellos solo\nrecogen al desprenderse de forma natural.",
+        "Salvo la cabeza, cualquier parte del cuerpo que\nle arranquen es capaz de regenerarse en tan\nsolo una noche de descanso.",
+        "La picadura de sus aguijones provoca un\nhormigueo que no tarda en convertirse en\nuna picazón insoportable.",
+        "A diferencia de sus congéneres de Alola, los\nejemplares de Galar aún no saben lo deliciosas\nque están las ramas de Corsola."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+    "name": "Mareanie",
+    "types": [
+        "Veneno",
+        "Agua"
+    ],
+    "weight": 8.0
+}

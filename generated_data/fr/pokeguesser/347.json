@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Un ancêtre Pokémon réanimé à partir\nd’un fossile. Il vivait en mer et\nchassait avec ses pinces.",
+        "Un ancêtre Pokémon réanimé à partir\nd’un fossile. Il vivait en mer et\nchassait avec ses pinces.",
+        "C’est un Pokémon préhistorique. Caché derrière\nles rochers, il utilise ses pinces extensibles pour\nattraper ses proies.",
+        "Un ancêtre Pokémon réanimé à partir d’un fossile.\nIl vivait en mer et chassait avec ses pinces.",
+        "Anorith fut ressuscité à partir d’un fossile préhistorique.\nCe Pokémon primitif vivait à l’époque dans les eaux tropicales.\nIl attrape fermement sa proie avec ses deux grandes pinces.",
+        "On raconte qu’Anorith est l’un des ancêtres des Pokémon.\nIl nageait dans la mer originelle en faisant onduler les huit\nailes placées sur les côtés de son corps.",
+        "Ce Pokémon ranimé à partir d’un fossile\nvivait dans des eaux très pures. Il ne pourrait\ndonc pas s’acclimater aux océans actuels.",
+        "Ce Pokémon Insecte préhistorique nageait\napparemment à une vitesse surprenante\ngrâce à ses huit « ailes ».",
+        "Restauré à partir d’un fossile, ce Pokémon vivait\ndans l’océan il y a environ 100 millions d’années\net chassait ses proies avec ses deux pinces.",
+        "Ce Pokémon peut nager très vite en agitant\nses huit ailes comme des rames de bateau.\nIl fait partie des ancêtres des Pokémon Insecte."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+    "name": "Anorith",
+    "types": [
+        "Roche",
+        "Insecte"
+    ],
+    "weight": 12.5
+}

@@ -1,0 +1,30 @@
+{
+    "descriptions": [
+        "A friendly Pokémon that captures\nthe subtle flows of seawater using\nits two antennae.",
+        "Scientists discovered that the\ndistinctive patterns on its back\ndiffer by region.",
+        "People organize tours to see this\nPokémon frolic and skim the tops\nof waves with REMORAID.",
+        "When it swims close to the surface of the\nocean, people aboard ships are able to\nobserve the pattern on its back.",
+        "When it swims close to the surface of the\nocean, people aboard ships are able to\nobserve the pattern on its back.",
+        "People organize tours to see this\nPokémon frolic and skim the tops\nof waves with Remoraid.",
+        "People organize tours to see this\nPokémon frolic and skim the tops\nof waves with Remoraid.",
+        "The pattern on its back\nvaries by region. It often\nswims in a school of Remoraid.",
+        "The pattern on its back\nvaries by region. It often\nswims in a school of Remoraid.",
+        "The pattern on its back varies by region.\nIt often swims in a school of Remoraid.",
+        "When it swims close to the surface of the ocean,\npeople aboard ships are able to observe the pattern\non its back.",
+        "The pattern on its back varies by region.\nIt often swims in a school of Remoraid.",
+        "When it swims close to the surface of the ocean,\npeople aboard ships are able to observe the pattern\non its back.",
+        "It’s highly friendly and easily tamed. Tours that\ntake people swimming with Mantyke are a\nsuper-popular beach activity.",
+        "Mantyke are friendly toward people and will\napproach boats closely. The patterns on their\nbacks differ depending on their habitat.",
+        "Mantyke living in Galar seem to be somewhat\nsluggish. The colder waters of the seas in this\nregion may be the cause.",
+        "It swims along with a school of Remoraid, and\nthey’ll all fight together to repel attackers.",
+        "Though ball-like in shape, this Pokémon is a proficient swimmer.\nI have discovered that if a Mantyke spends much time with\nschools of Remoraid, it will eventually achieve evolution."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "name": "Mantyke",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "weight": 65.0
+}

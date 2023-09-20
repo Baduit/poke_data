@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Ce Pokémon créé par des\nscientifiques peut arpenter\nlibrement le cyberespace.",
+        "Ce Pokémon créé par des\nscientifiques peut arpenter\nlibrement le cyberespace.",
+        "Un Pokémon créé par l’homme après de longues\nrecherches. Il ne connaît que peu de mouvements.",
+        "Ce Pokémon est fait de programmes et d’algorithmes.\nIl peut survivre en milieu virtuel.",
+        "Porygon est capable de se décompiler et de retourner à l’état\nde programme informatique pour entrer dans le cyberespace.\nCe Pokémon est protégé contre le piratage, il est donc\nimpossible de le copier.",
+        "Porygon est capable de se décompiler et de retourner à l’état\nde programme informatique pour entrer dans le cyberespace.\nCe Pokémon est protégé contre le piratage, il est donc\nimpossible de le copier.",
+        "Un Pokémon artificiel créé il y a vingt ans\nen utilisant des méthodes à la pointe de\nla technologie de l’époque.",
+        "Il peut transformer son corps en données\nnumériques pour pénétrer dans le cyberespace.",
+        "Un Pokémon artificiel créé il y a vingt ans,\net qui est donc complètement dépassé sur\nbien des points.",
+        "Il a été conçu il y a vingt ans par des\nchercheurs qui rêvaient de conquérir l’espace.\nCe rêve n’est toujours pas devenu réalité.",
+        "Ce Pokémon est censé être le seul à pouvoir\nvoler jusque dans l’espace, mais pour l’instant,\naucun Porygon n’y est jamais parvenu.",
+        "Ce Pokémon est censé être le seul à pouvoir\nvoler jusque dans l’espace, mais pour l’instant,\naucun Porygon n’y est jamais parvenu.",
+        "C’est le premier Pokémon au monde à avoir\nété créé à partir de programmes informatiques,\ngrâce à une technologie de pointe.",
+        "Ces dernières années, il s’est rendu très utile\ndans le cyberespace, qu’il arpente pour s’assurer\nqu’il n’y a aucune donnée suspecte."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "name": "Porygon",
+    "types": [
+        "Normal"
+    ],
+    "weight": 36.5
+}

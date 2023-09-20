@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Siempre está con mucosidades colgando. Las aspira\npara hacer un movimiento, ya que son su materia prima\npara esto.",
+        "Sus mocos son su barómetro de salud. Si es buena,\nserán densos, y la fuerza de sus movimientos de tipo\nHielo aumentará.",
+        "Siempre está con mucosidades colgando. Las aspira para\nhacer un movimiento, ya que son su materia prima para esto.",
+        "Sus mocos son su barómetro de salud. Si es buena, serán\ndensos, y la fuerza de sus movimientos de tipo Hielo\naumentará.",
+        "La pegajosidad de sus mocos aumenta cuando\ndisfruta de buena salud. Si alguien no le gusta,\nlo embadurna de mocos.",
+        "Antes de ejecutar un movimiento, se sorbe los\nmocos. El frío intenso de estos constituye la base\nde sus movimientos de tipo Hielo."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "name": "Cubchoo",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 8.5
+}

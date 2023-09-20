@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "On prétend qu’il vit 10 000 ans.\nSa queue duveteuse est un\nsymbole de longévité populaire.",
+        "On prétend qu’il vit 10 000 ans.\nSa queue duveteuse est un\nsymbole de longévité populaire.",
+        "Attaqué, il cache sa tête dans sa carapace, mais\nson corps trop gros ne peut y tenir en entier.",
+        "On prétend qu’il vit 10 000 ans. Sa queue duveteuse\nest un symbole de longévité populaire.",
+        "Carabaffe a une large queue recouverte d’une épaisse\nfourrure. Elle devient de plus en plus foncée avec l’âge.\nLes éraflures sur la carapace de ce Pokémon témoignent\nde son expérience au combat.",
+        "Carabaffe a une large queue recouverte d’une épaisse\nfourrure. Elle devient de plus en plus foncée avec l’âge.\nLes éraflures sur la carapace de ce Pokémon témoignent\nde son expérience au combat.",
+        "Quand on lui tapote la tête, il se cache dans\nsa carapace, mais son corps ne peut pas y tenir\nen entier.",
+        "Quand on lui tapote la tête, il se cache dans\nsa carapace, mais son corps ne peut pas y tenir\nen entier.",
+        "Il est considéré comme un symbole de longévité.\nOn reconnaît les spécimens les plus âgés\nà la mousse qui pousse sur leur carapace.",
+        "Il se sert habilement de sa queue et de ses\noreilles touffues pour garder son équilibre\nsous l’eau."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "name": "Carabaffe",
+    "types": [
+        "Eau"
+    ],
+    "weight": 22.5
+}

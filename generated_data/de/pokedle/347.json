@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Anorith",
+    "types": [
+        "Gestein",
+        "Käfer"
+    ],
+    "weight": 12.5
+}

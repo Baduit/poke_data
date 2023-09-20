@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Le gustan las cosas brillantes. Busca tesoros en\ncuevas y se lleva el botín a su nido.",
+        "Tiende a acumular las gemas en bruto que encuentra\ncuando agranda su guarida.",
+        "Le gustan las cosas brillantes. Busca tesoros en cuevas y se\nlleva el botín a su nido.",
+        "Tiende a acumular las gemas en bruto que encuentra cuando\nagranda su guarida.",
+        "Muy ocasionalmente puede mudar la piel y\nperder las escamas. Las medicinas que las usan\ncomo ingrediente son muy reconstituyentes.",
+        "Le gustan las cosas brillantes. Pasa largas\nhoras en su cueva, admirando las gemas y los\nCarbink que ha capturado.",
+        "Se vuelve loco por las cosas brillantes y no duda\nen atacar con violencia a los Sableye que\nacechan a los Carbink.",
+        "Muda la piel a medida que crece. Las escamas\nque pierde se pueden pulverizar para utilizar\ncomo ingrediente en remedios medicinales.",
+        "Explora las más oscuras cuevas utilizando ondas\nultrasónicas que emite desde las protuberancias\na ambos lados de la cabeza.",
+        "Entierra gemas en la cueva que le sirve de nido y\nhace trizas con sus garras y colmillos a cualquier\nintruso."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "name": "Gabite",
+    "types": [
+        "Dragón",
+        "Tierra"
+    ],
+    "weight": 56.0
+}

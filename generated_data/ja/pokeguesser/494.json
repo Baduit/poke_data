@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "勝利を　もたらす　ポケモン。\nビクティニを　連れた　トレーナーは\nどんな　勝負にも　勝てるという。",
+        "ビクティニが　無限に　生み出す\nエネルギーを　分け与えてもらうと\n全身に　パワーが　あふれ出す。",
+        "勝利を　もたらす　ポケモン。\nビクティニを　連れた　トレーナーは\nどんな　勝負にも　勝てるという。",
+        "ビクティニが　無限に　生み出す\nエネルギーを　分け与えてもらうと\n全身に　パワーが　あふれ出す。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "name": "ビクティニ",
+    "types": [
+        "エスパー",
+        "ほのお"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Incendia i grumi di pelo accumulati nella pancia\ndurante la toeletta per sputare fiamme che\nplasma a suo piacimento.",
+        "Ama la solitudine e non lascia mai trapelare\nle proprie emozioni. Per guadagnarsi la sua\nfiducia occorre molto tempo.",
+        "Si chiude in se stesso se riceve attenzioni\nsoffocanti. Anche se si affeziona, preferisce\nmantenere una certa distanza.",
+        "Cambia il pelo due volte all’anno.\nAl momento della muta, il suo corpo prende\nfuoco e il pelo vecchio viene bruciato.",
+        "Si liscia il pelo con la lingua ogni volta che può.\nIncendia le palle di pelo accumulate nella pancia\nper lanciare mosse di tipo Fuoco.",
+        "Chi cerca di fargli le coccole prima di essersi\nguadagnato la sua fiducia si ritroverà addosso\ni suoi artigli affilati."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+    "name": "Litten",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 4.3
+}

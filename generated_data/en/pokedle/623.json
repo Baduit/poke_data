@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 5,
+    "height": 2.8,
+    "name": "Golurk",
+    "types": [
+        "Ground",
+        "Ghost"
+    ],
+    "weight": 330.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "È nato dal guscio vuoto di un insetto. Pare che\nchi spia nella fessura sul suo dorso perda l’anima.",
+        "Pokémon particolare, che appare misteriosamente\nin una Poké Ball dopo l’evoluzione di un Nincada.",
+        "Il corpo coriaceo di Shedinja non si muove neanche\ndi un millimetro. In realtà sembra quasi un guscio vuoto.\nSi dice che questo Pokémon rubi lo spirito di chiunque\nosi spiare dentro il suo guscio.",
+        "Shedinja è molto particolare. Pare comparire all’improvviso\nin una Poké Ball dopo l’evoluzione di Nincada. Questo strano\nPokémon è completamente immobile. Non è nemmeno\nin grado di respirare.",
+        "È un Pokémon molto particolare. Appare\nmisteriosamente in una Poké Ball dopo\nl’evoluzione di un Nincada.",
+        "Svolazza in giro senza muovere le ali.\nÈ un Pokémon strano: è vuoto all’interno\ne non respira."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "name": "Shedinja",
+    "types": [
+        "Coleottero",
+        "Spettro"
+    ],
+    "weight": 1.2
+}

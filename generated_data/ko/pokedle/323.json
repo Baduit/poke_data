@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 3,
+    "height": 1.9,
+    "name": "폭타",
+    "types": [
+        "불꽃",
+        "땅"
+    ],
+    "weight": 220.0
+}

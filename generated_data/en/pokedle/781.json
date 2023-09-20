@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 7,
+    "height": 3.9,
+    "name": "Dhelmise",
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "weight": 210.0
+}

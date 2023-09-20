@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Parasek",
+    "types": [
+        "Käfer",
+        "Pflanze"
+    ],
+    "weight": 29.5
+}

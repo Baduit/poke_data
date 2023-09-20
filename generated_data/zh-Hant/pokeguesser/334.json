@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "會一邊在天空中悠然飛翔，\n一邊哼唱出令人心醉神迷\n的美妙旋律。",
+        "性情溫柔，但一旦被激怒，\n就會用尖銳的叫聲威嚇對方，\n並且毫不留情地施加攻擊。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "name": "七夕青鳥",
+    "types": [
+        "龍",
+        "飛行"
+    ],
+    "weight": 20.6
+}

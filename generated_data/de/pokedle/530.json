@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 5,
+    "height": 0.7,
+    "name": "Stalobor",
+    "types": [
+        "Boden",
+        "Stahl"
+    ],
+    "weight": 40.4
+}

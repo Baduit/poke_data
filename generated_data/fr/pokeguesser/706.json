@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Ce Pokémon Dragon peu farouche aime faire la fête\nà son Dresseur adoré, le couvrant au passage de\nsa bave collante.",
+        "Il attaque grâce à ses cornes extensibles.\nSes coups sont aussi puissants que ceux de 100\nboxeurs professionnels réunis.",
+        "Ce Pokémon Dragon peu farouche aime faire la fête\nà son Dresseur adoré, le couvrant au passage de\nsa bave collante.",
+        "Il attaque grâce à ses cornes extensibles. Ses coups sont\naussi puissants que ceux de 100 boxeurs professionnels\nréunis.",
+        "Ce Pokémon adore la compagnie humaine.\nSi son Dresseur ne lui donne pas assez d’amour,\nil pleure à grosses larmes visqueuses.",
+        "Ceux qui l’importunent en le pensant inoffensif\npeuvent vite se retrouver du mauvais côté de\nses cornes et goûter de sa puissante queue.",
+        "Très câlin, ce Pokémon a tendance à se frotter\naux gens auxquels il s’attache avec son corps\nvisqueux. Dresseurs de Muplodocus, tenez bon.",
+        "Une épaisse couche de graisse se trouve sous\nsa peau visqueuse et lui permet d’encaisser\nles attaques ennemies.",
+        "Il arrive qu’il ne comprenne pas les ordres\nde son Dresseur et qu’il le regarde d’un air ahuri.\nCette réaction adorable l’a rendu populaire.",
+        "Il attaque à l’aide de ses longues cornes.\nSes coups sont cent fois plus puissants\nque ceux d’un champion poids lourds de boxe."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "name": "Muplodocus",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 150.5
+}

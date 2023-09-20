@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "En el interior de la calabaza reside un espíritu que ha\npermanecido atrapado en este mundo. Entra en acción\nal caer la noche.",
+        "Se dice que este Pokémon se dedica a guiar las almas\nerrantes al otro mundo para que así puedan descansar\nen paz durante toda la eternidad.",
+        "En el interior de la calabaza reside un espíritu que ha\npermanecido atrapado en este mundo. Entra en acción\nal caer la noche.",
+        "Se dice que este Pokémon se dedica a guiar las almas\nerrantes al otro mundo para que así puedan descansar en\npaz durante toda la eternidad.",
+        "Las almas errantes de este mundo se introducen\nen su cuerpo e inician así su viaje al más allá.",
+        "La luz que emite por los orificios de la calabaza\nhipnotiza a humanos y Pokémon y los deja bajo\nsu control."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "name": "Pumpkaboo",
+    "types": [
+        "Fantasma",
+        "Planta"
+    ],
+    "weight": 5.0
+}

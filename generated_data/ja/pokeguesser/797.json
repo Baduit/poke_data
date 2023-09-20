@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ウルトラホールから　現れた。\n高速で　空を　飛ぶ　姿が\n目撃　された　ウルトラビースト。",
+        "ＵＢの　一種。　２本の　腕から\nガスを　噴きだし　森を　焼き払う\n姿が　確認　されている。",
+        "危険な　ＵＢの　一種。\n巨大な　両腕から　高い\nエネルギー反応を　検出。",
+        "この世界では　異質で　危険だが\n本来　棲んでいる　世界では\n普通に　見かける　生物らしい。"
+    ],
+    "height": 9.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+    "name": "テッカグヤ",
+    "types": [
+        "はがね",
+        "ひこう"
+    ],
+    "weight": 999.9
+}

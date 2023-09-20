@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "会用连续攻击压倒对手。\n致命的一击会在缓慢蓄力后施展出来。",
+        "用奇妙的声音叫唤的话，就危险了。\n它会展开飞快的踢和劈来连续攻击。",
+        "遇到真正的强敌时，\n为了让身体更加灵便，\n会咬断自己双手的毛扔掉。",
+        "以迅雷不及掩耳的速度\n使出踢击，即使是巨大的\n岩石也能击得粉碎。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "name": "师父鼬",
+    "types": [
+        "格斗"
+    ],
+    "weight": 35.5
+}

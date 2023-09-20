@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Son corps est recouvert d’écailles\nsolides. Il donnera sa vie pour\nsecourir les petits de son terrier.",
+        "Son corps est recouvert d’écailles\nsolides. Il donnera sa vie pour\nsecourir les petits de son terrier.",
+        "Il se sert de son corps lourdement protégé pour\nempêcher les prédateurs d’accéder à son nid.",
+        "Son corps est recouvert d’écailles en forme de\npointes. Quand ce Pokémon s’énerve, ses pointes\nse dressent de façon menaçante.",
+        "Le corps de Nidoqueen est protégé par des écailles\nextrêmement dures. Il aime envoyer ses ennemis voler en leur\nfonçant dessus. Ce Pokémon utilise toute sa puissance\nlorsqu’il protège ses petits.",
+        "Le corps de Nidoqueen est protégé par des écailles\nextrêmement dures. Il aime envoyer ses ennemis voler en leur\nfonçant dessus. Ce Pokémon utilise toute sa puissance\nlorsqu’il protège ses petits.",
+        "Son corps musclé est recouvert de dures écailles.\nOn dit qu’elles peuvent repousser.",
+        "Son corps musclé est recouvert de dures écailles.\nOn dit qu’elles peuvent repousser.",
+        "Il est plus doué pour se défendre que pour\nattaquer. Grâce à son blindage d’écailles,\nil protège ses petits de toute agression.",
+        "Ce Pokémon calme les petits de son espèce\nen les plaçant entre ses épines dorsales.\nDans ce cas, elles ne libèrent pas de poison."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "name": "Nidoqueen",
+    "types": [
+        "Poison",
+        "Sol"
+    ],
+    "weight": 60.0
+}

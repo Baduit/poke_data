@@ -1,0 +1,11 @@
+{
+    "color": "Violett",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Drifzepeli",
+    "types": [
+        "Geist",
+        "Flug"
+    ],
+    "weight": 15.0
+}

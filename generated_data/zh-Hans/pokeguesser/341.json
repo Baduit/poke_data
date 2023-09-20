@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "被没有坚持培育的训练家放生了的\n个体在增加，即使在阿罗拉也变得\n时常能见到了。",
+        "对环境的适应力非常强。\n呆在浑浊臭水沟里的\n大概就是丑丑鱼和这家伙。",
+        "有着顽强生命力的宝可梦。\n不管河里的水有多脏，\n它都能适应并在那里繁衍生息。",
+        "来自于外国的宝可梦，\n现在已经回归了野生环境。\n不管多么污浊的河水都能适应。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "name": "龙虾小兵",
+    "types": [
+        "水"
+    ],
+    "weight": 11.5
+}

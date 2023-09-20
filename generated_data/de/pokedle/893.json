@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 8,
+    "height": 1.8,
+    "name": "Zarude",
+    "types": [
+        "Unlicht",
+        "Pflanze"
+    ],
+    "weight": 70.0
+}

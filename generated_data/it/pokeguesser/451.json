@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Afferra le prede con gli artigli della coda e non si\nallontana finché il veleno che inietta non agisce.",
+        "Si seppellisce nella sabbia e tende agguati alle prede,\npoi inietta loro il veleno dagli artigli della coda.",
+        "Afferra le prede con gli artigli della coda e non si allontana\nfinché il veleno che inietta non agisce.",
+        "Si seppellisce nella sabbia e tende agguati alle prede,\npoi inietta loro il veleno dagli artigli della coda.",
+        "Si nasconde nella sabbia e aspetta immobile\nla preda. Lui e Sizzlipede hanno antenati\nin comune.",
+        "Attacca la preda afferrandola con gli artigli\nvelenosi della coda, poi inietta il veleno per\nimmobilizzarla."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "name": "Skorupi",
+    "types": [
+        "Veleno",
+        "Coleottero"
+    ],
+    "weight": 12.0
+}

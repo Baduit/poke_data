@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 4,
+    "height": 0.3,
+    "name": "Combee",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 5.5
+}

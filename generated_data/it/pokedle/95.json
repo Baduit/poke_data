@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 1,
+    "height": 8.8,
+    "name": "Onix",
+    "types": [
+        "Roccia",
+        "Terra"
+    ],
+    "weight": 210.0
+}

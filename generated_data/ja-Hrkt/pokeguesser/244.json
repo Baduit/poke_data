@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "あたらしい　かざんが　できるたび\nうまれてくると　つたえられる\nだいちを　かけめぐる　ポケモン。",
+        "エンテイが　ほえると\nせかいの　どこかの　かざんが\nふんかすると　いわれている。",
+        "マグマの　じょうねつを　やどした　ポケモン。\nかざんの　ふんかから　うまれたと　かんがえられ\nすべてを　やきつくす　ほのおを　ふきあげる。",
+        "マグマの　じょうねつを　やどした　ポケモン。\nかざんの　ふんかから　うまれたと　かんがえられ\nすべてを　やきつくす　ほのおを　ふきあげる。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "name": "エンテイ",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 198.0
+}

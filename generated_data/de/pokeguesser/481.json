@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "„Das fühlende Wesen“. Es lehrt die Menschen\ndie Ideale von Trauer, Schmerz und Freude.",
+        "Es schläft auf dem Grund eines Sees. Man sagt, sein\nGeist verlasse den Körper und fliege über den See.",
+        "„Das fühlende Wesen“. Es lehrt die Menschen die Ideale von\nTrauer, Schmerz und Freude.",
+        "Es schläft auf dem Grund eines Sees. Man sagt, sein Geist\nverlasse den Körper und fliege über den See."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+    "name": "Vesprit",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 0.3
+}

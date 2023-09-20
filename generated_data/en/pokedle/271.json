@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 3,
+    "height": 1.2,
+    "name": "Lombre",
+    "types": [
+        "Water",
+        "Grass"
+    ],
+    "weight": 32.5
+}

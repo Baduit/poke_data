@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "啃果蟲吃了酸蘋果後進化\n而成。頰囊裡儲存著足以\n造成灼傷的強酸性液體。",
+        "會用蘋果皮的翅膀飛翔，\n並吐出強酸性的唾液。\n能變成蘋果的形狀。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+    "name": "蘋裹龍",
+    "types": [
+        "草",
+        "龍"
+    ],
+    "weight": 1.0
+}

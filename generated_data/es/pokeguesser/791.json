@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se cree que proviene de otro mundo. El brillo\nque emite su cuerpo es tal que puede hacer\nque la noche más profunda parezca pleno día.",
+        "Se dice que es la evolución final macho de\nCosmog. Cuando su tercer ojo se abre, parte\nhacia otro mundo.",
+        "Es capaz de crear Ultraumbrales a través de los\ncuales formas de vida y energía procedentes de\notros mundos acuden al nuestro.",
+        "Aparece en obras de la literatura antigua en las\nque se refieren a él como “la criatura que se\nnutre del sol”.",
+        "Es capaz de eliminar toda oscuridad e iluminar el\nmundo entero irradiando luz por todo el cuerpo\ncomo si de un sol se tratara.",
+        "Antiguamente era conocido como la Criatura\nque se Nutre del Sol. Emite sin cesar una energía\nluminosa."
+    ],
+    "height": 3.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+    "name": "Solgaleo",
+    "types": [
+        "Psíquico",
+        "Acero"
+    ],
+    "weight": 230.0
+}

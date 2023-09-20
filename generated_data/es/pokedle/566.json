@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Archen",
+    "types": [
+        "Roca",
+        "Volador"
+    ],
+    "weight": 9.5
+}

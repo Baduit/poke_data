@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "木の枝を　尻尾に　挿している。\n尻尾の　毛の　摩擦熱で\n枝に　火をつけて　戦う。",
+        "木の枝を　尻尾から　引き抜くとき\n摩擦で　着火。枝の　炎を　振って\n仲間に　合図を　送る。",
+        "木の枝を　尻尾に　挿している。\n尻尾の　毛の　摩擦熱で\n枝に　火をつけて　戦う。",
+        "木の枝を　尻尾から　引き抜くとき\n摩擦で　着火。枝の　炎を　振って\n仲間に　合図を　送る。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+    "name": "テールナー",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 14.5
+}

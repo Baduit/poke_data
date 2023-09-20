@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "朝著對手衝過去時，\n背上的體毛會倒豎起來。\n對聲音極度敏感。",
+        "雖然４隻腳很短，\n但因為蹄很寬而且粗糙，\n所以就算在雪地上行走也不會打滑。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "name": "長毛豬",
+    "types": [
+        "冰",
+        "地面"
+    ],
+    "weight": 55.8
+}

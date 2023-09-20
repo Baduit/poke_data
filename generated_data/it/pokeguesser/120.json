@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Anche se il corpo è lacerato, continua a rigenerarsi\nfinché il nucleo ardente centrale rimane intatto.",
+        "Se ne trovano molti in riva al mare. Di notte, il nucleo\nal centro del corpo lampeggia di una luce rossa.",
+        "Al centro del corpo di Staryu è presente un nucleo che brilla\ndi un rosso intenso. In spiaggia, a fine estate, il nucleo\ndi questi Pokémon ha l’aspetto delle stelle nel firmamento.",
+        "Pare che la notte Staryu comunichi con le stelle facendo\nbrillare il suo nucleo rosso al centro del corpo. In caso di\nperdita di qualche appendice questo Pokémon riesce a\nrigenerarla senza problemi.",
+        "Gli Staryu vivono numerosi in riva al mare.\nDi notte, il nucleo al centro del corpo brilla\ndi una strana luce rossa.",
+        "Se gli capita di venire mangiucchiato da un\nLumineon, non si preoccupa, perché finché\nil nucleo rosso rimane intatto, può rigenerarsi.",
+        "In molti luoghi è ancora diffusa la credenza\nche gli Staryu nascano da polvere di stelle\ncaduta in fondo al mare.",
+        "Le ferite non sono un problema per Staryu:\ngrazie alle sue eccellenti capacità rigenerative,\ntorna intero in mezza giornata.",
+        "Si dice che Staryu possa rigenerarsi anche dopo\nessere stato fatto a pezzetti, purché il suo centro\nsia rimasto intatto.",
+        "Si dice che Staryu possa rigenerarsi anche dopo\nessere stato fatto a pezzetti, purché il suo centro\nsia rimasto intatto.",
+        "Alla fine dell’estate, sui litorali è possibile\nosservare gruppi di Staryu che emettono luce\na un ritmo regolare.",
+        "Viene mangiucchiato dai Pokémon acquatici,\nma non ci dà peso, perché le parti danneggiate\ndel suo corpo si rigenerano subito."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "name": "Staryu",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 34.5
+}

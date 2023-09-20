@@ -1,0 +1,11 @@
+{
+    "color": "赤色",
+    "generation": 3,
+    "height": 1.1,
+    "name": "シザリガー",
+    "types": [
+        "みず",
+        "あく"
+    ],
+    "weight": 32.8
+}

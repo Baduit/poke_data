@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 8,
+    "height": 0.3,
+    "name": "Pomdrapi",
+    "types": [
+        "Plante",
+        "Dragon"
+    ],
+    "weight": 1.0
+}

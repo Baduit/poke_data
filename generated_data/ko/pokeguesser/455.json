@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "달콤한 냄새의 타액으로 먹이를\n끌어들여 큰 턱으로 꿀꺽한다.\n하루에 걸쳐 먹이를 먹는다.",
+        "늪지대에서 자라는 나무에 엉겨 붙어\n달콤한 냄새의 타액으로 먹이를\n끌어들여 한입에 먹는다.",
+        "달콤한 냄새의 타액으로 먹이를\n끌어들여 큰 턱으로 꿀꺽한다.\n하루에 걸쳐 먹이를 먹는다.",
+        "늪지대에서 자라는 나무에 엉겨 붙어\n달콤한 냄새의 타액으로 먹이를\n끌어들여 한입에 먹는다."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+    "name": "무스틈니",
+    "types": [
+        "풀"
+    ],
+    "weight": 27.0
+}

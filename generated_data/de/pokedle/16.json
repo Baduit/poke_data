@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Taubsi",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 1.8
+}

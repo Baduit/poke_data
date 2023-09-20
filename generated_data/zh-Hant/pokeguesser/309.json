@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "會透過空氣和體毛的摩擦\n來產生靜電。落雷獸奔跑時\n會發出劈哩啪啦的聲音。",
+        "會讓長長的體毛互相摩擦，\n藉此在全身儲存靜電。\n是種以速度為傲的寶可夢。",
+        "會將靜電積蓄在體毛中後放電。\n當暴風雨來臨前，\n會從全身冒出火花。",
+        "會在體毛中儲存靜電。\n在空氣乾燥的季節\n會從全身散發出火花。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "name": "落雷獸",
+    "types": [
+        "電"
+    ],
+    "weight": 15.2
+}

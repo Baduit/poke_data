@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Dieses äußerst freundliche Drachen-Pokémon\nneigt dazu, seinen geliebten Trainer zu umarmen\nund so mit einer dicken Schleimschicht zu umhüllen.",
+        "Es greift den Gegner mit ausfahrbaren Fühlern an.\nSeine Stärke ist vergleichbar mit der Durchschlagskraft\nder Faustschläge von 100 Profiboxern.",
+        "Dieses äußerst freundliche Drachen-Pokémon neigt dazu,\nseinen geliebten Trainer zu umarmen und so mit einer dicken\nSchleimschicht zu umhüllen.",
+        "Es greift den Gegner mit ausfahrbaren Fühlern an.\nSeine Stärke ist vergleichbar mit der Durchschlagskraft\nder Faustschläge von 100 Profiboxern.",
+        "Dieses äußerst freundliche Pokémon benötigt\nsehr viel Aufmerksamkeit, sonst fühlt es sich\neinsam und weint schleimige Tränen.",
+        "Wer dieses Pokémon nicht ernst nimmt,\nbekommt es mit seinen Fühlern zu tun oder\nwird von seinem Schwanz umgehauen.",
+        "Dieses freundliche Pokémon hat die Eigenart,\nmit seinem schleimigen, klebrigen Körper all jene\nzu umarmen, die es mag.",
+        "Unter seiner schleimigen Haut befindet sich eine\ndicke Speckschicht, die gegnerische Angriffe\nabfängt.",
+        "Es kommt vor, dass es die Befehle seines Trainers\nnicht versteht und nur verblüfft dreinschaut.\nDieser putzige Anblick hat es beliebt gemacht.",
+        "Es greift mit seinen ausfahrbaren Fühlern an,\nderen Durchschlagskraft hundertmal so stark wie\nder Faustschlag eines Schwergewichtsboxers ist."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "name": "Viscogon",
+    "types": [
+        "Drache"
+    ],
+    "weight": 150.5
+}

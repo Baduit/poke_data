@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es häutet sich ständig und wächst. Seine Kopfspitze\nwurde als Schatz der Schönheit ausgezeichnet.",
+        "Hält sich lieber in den sauberen Seen im Süden auf.\nSeine Korallenarme verlieren in verschmutztem Wasser\nFarbe und Form.",
+        "Wenn Corasonns Arme Sonnenlicht abbekommen, glitzern sie\nwunderschön in sieben Farben. Wenn ein Arm abbricht, wächst\nüber Nacht ein neuer nach.",
+        "Scharen von Corasonn sammeln sich im warmen Meer und\ndienen kleineren Pokémon als ideale Plätze zum Verstecken.\nWenn die Wassertemperatur sinkt, wandert dieses Pokémon\nin die südlichen Meere ab.",
+        "Auf seinem Kopf wachsen Korallenarme, die\nziemlich leicht abbrechen, allerdings innerhalb\nvon etwa drei Tagen wieder nachwachsen.",
+        "Drohen die Arme auf seinem Kopf von einem\nGarstella verschlungen zu werden, wirft es\ndiese ab und sucht das Weite.",
+        "Aufgrund des nährstoffreichen Meeres ist das\nPink der in Alola lebenden Corasonn besonders\nstrahlend und kräftig.",
+        "In Alola gibt es viele Corasonn mit kurzen\nKorallenarmen, da es dort von ihren\nFressfeinden Garstella nur so wimmelt.",
+        "Die Äste auf seinem Kopf wachsen nach, wenn\nsie abbrechen. Besonders schöne abgebrochene\nÄste gelten als Glücksbringer für Geburten.",
+        "Es lebt in warmen Meeren. Vor langer Zeit konnte\nman große Scharen dieses Pokémon auch an den\nKüsten Galars antreffen."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+    "name": "Corasonn",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 5.0
+}

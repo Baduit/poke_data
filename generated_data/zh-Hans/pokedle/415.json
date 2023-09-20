@@ -1,0 +1,11 @@
+{
+    "color": "黄色",
+    "generation": 4,
+    "height": 0.3,
+    "name": "三蜜蜂",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 5.5
+}

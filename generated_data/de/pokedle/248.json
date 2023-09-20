@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 2,
+    "height": 2.0,
+    "name": "Despotar",
+    "types": [
+        "Gestein",
+        "Unlicht"
+    ],
+    "weight": 202.0
+}

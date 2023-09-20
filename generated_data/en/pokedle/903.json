@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 8,
+    "height": 1.3,
+    "name": "Sneasler",
+    "types": [
+        "Fighting",
+        "Poison"
+    ],
+    "weight": 43.0
+}

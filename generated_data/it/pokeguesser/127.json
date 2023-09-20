@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Afferra la preda con le pinze e non la molla finché\nnon l’ha tranciata. Se non ci riesce, la scaglia via.",
+        "Quando attacca agita le lunghe corna. Nei periodi\nfreddi sta nascosto nelle foreste.",
+        "Pinsir è incredibilmente forte. Può afferrare e sollevare tra\nle chele sul capo un nemico dal peso doppio rispetto al suo.\nI suoi movimenti sono impacciati in luoghi freddi.",
+        "Pinsir è dotato di due chele enormi sul capo, dalla cui\nsuperficie sporgono aculei. Questi vengono conficcati\nnel corpo del nemico quando le chele si chiudono,\nper impedirne la fuga.",
+        "Afferra il nemico con le lunghe corna e lo trancia\nin due. È estremamente forte, ma non sopporta\nil freddo.",
+        "Con le sue corna può abbattere un grande\nalbero in un colpo solo. Nella regione di Alola,\nVikavolt è il suo più acerrimo nemico.",
+        "Si contende il territorio con i Vikavolt.\nPer qualche motivo, ad Alola i Pinsir sembrano\nandare d’accordo con gli Heracross.",
+        "È molto robusto ma non sopporta il freddo.\nAl calare della notte, si ripara sotto uno strato\ndi foglie per dormire.",
+        "Afferra la preda tra le corna, stritolandola\ncon tutte le sue forze. Vive in ambienti caldi\npoiché il freddo lo immobilizza.",
+        "Afferra la preda tra le corna, stritolandola\ncon tutte le sue forze. Vive in ambienti caldi\npoiché il freddo lo immobilizza.",
+        "I Pinsir si giudicano a vicenda in base alle corna.\nQuelli con corna grosse e imponenti hanno\npiù successo con gli esemplari dell’altro sesso.",
+        "Afferra le prede con le corna e le trancia in due,\noppure le lancia via con violenza."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "name": "Pinsir",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 55.0
+}

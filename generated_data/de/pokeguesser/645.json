@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Da an Orten, wo es sich blicken lässt, mit reicher\nErnte zu rechnen ist, nennt man es auch den\n„Herrn des Ackerbaus“.",
+        "Seine aus Wind und Donner gewonnene Energie\nsorgt für reiche Ernten, da sie den Boden mit\nNährstoffen anreichert.",
+        "Da an Orten, wo es sich blicken lässt, mit reicher Ernte zu\nrechnen ist, nennt man es auch den „Herrn des Ackerbaus“.",
+        "Seine aus Wind und Donner gewonnene Energie sorgt für\nreiche Ernten, da sie den Boden mit Nährstoffen anreichert."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "name": "Demeteros",
+    "types": [
+        "Boden",
+        "Flug"
+    ],
+    "weight": 68.0
+}

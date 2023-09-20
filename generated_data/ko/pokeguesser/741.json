@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "날개를 부딪쳐서 발화시킨다.\n화려한 스텝을 밟으면서\n격렬한 불꽃을 퍼붓는다.",
+        "다홍꿀을 빨아들인 춤추새.\n정열적인 스텝으로 적의\n몸도 마음도 불태운다.",
+        "정열적인 댄스로 적의 마음을\n사로잡아 방심하게 한 후\n타오르는 불꽃으로 태워버린다.",
+        "다홍꿀을 빨아들인 춤추새.\n트레이너가 틀린 지시를 내리면\n격렬하게 화를 내는 격정적인 성격이다."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "name": "춤추새",
+    "types": [
+        "불꽃",
+        "비행"
+    ],
+    "weight": 3.4
+}

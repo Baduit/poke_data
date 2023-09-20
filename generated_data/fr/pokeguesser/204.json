@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il ressemble à une pomme de pin.\nSa carapace le protège des Pokémon\nOiseaux qui le picorent par erreur.",
+        "Il ressemble à une pomme de pin.\nSa carapace le protège des Pokémon\nOiseaux qui le picorent par erreur.",
+        "Il renforce sa carapace en y ajoutant des écorces\nd’arbre. Il devient alors plus lourd.",
+        "Il ressemble à une pomme de pin. Sa carapace le\nprotège des Pokémon Oiseaux qui le picorent par\nerreur.",
+        "Pomdepik s’accroche à une branche d’arbre et attend\npatiemment que sa proie passe. Si ce Pokémon est dérangé\npendant qu’il mange par quelqu’un qui secoue son arbre,\nil tombe au sol et explose sans prévenir.",
+        "Pomdepik s’accroche à une branche d’arbre et attend\npatiemment que sa proie passe. Si ce Pokémon est dérangé\npendant qu’il mange par quelqu’un qui secoue son arbre,\nil tombe au sol et explose sans prévenir.",
+        "Accroché à sa branche, il attend patiemment\nses proies favorites : les Pokémon Insecte.\nLes Bombydou sont son péché mignon.",
+        "Il grandit en utilisant sa salive pour coller\nl’écorce des arbres sur son corps. Un Pomdepik\nâgé peut prendre des proportions démesurées."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "name": "Pomdepik",
+    "types": [
+        "Insecte"
+    ],
+    "weight": 7.2
+}

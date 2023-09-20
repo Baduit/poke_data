@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Nonostante la stazza, è in grado di volare.\nPuò compiere il giro del mondo in 16 ore.",
+        "Si dice che faccia la sua tana da qualche parte nel\nmare. Porta a riva le vittime di naufragi.",
+        "Dragonite è in grado di fare il giro del mondo in sole 16 ore.\nÈ un Pokémon buono e mansueto che guida fino alla\nterraferma le navi prossime al naufragio.",
+        "Dragonite è in grado di fare il giro del mondo in sole 16 ore.\nÈ un Pokémon buono e mansueto che guida fino alla\nterraferma le navi prossime al naufragio.",
+        "Si racconta che un naufrago fu soccorso da\nquesto Pokémon e portato su una meravigliosa\nisola remota abitata solo da Dragonite.",
+        "Di solito è molto calmo, ma se qualcuno o\nqualcosa lo fa infuriare, non si placa finché\nnon ha distrutto ogni cosa.",
+        "Sorvola come se niente fosse anche i mari più\nagitati. Un capitano, vedendolo all’opera, l’ha\nsoprannominato “l’incarnazione del mare”.",
+        "È un Pokémon buono e mansueto. Si racconta\nspesso di come accorra in aiuto di persone\ne Pokémon che stanno affogando.",
+        "Si racconta che questo Pokémon viva\nda qualche parte nel mare e che si sposti\nvolando, ma in realtà non si sa nulla di certo.",
+        "Si racconta che questo Pokémon viva\nda qualche parte nel mare e che si sposti\nvolando, ma in realtà non si sa nulla di certo.",
+        "È un Pokémon dal cuore gentile. Se vede persone\no Pokémon che stanno affogando, non può fare\na meno di salvarli.",
+        "Viene chiamato “Incarnazione del mare”.\nMolte navi hanno una statua di Dragonite\nsulla prua."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "name": "Dragonite",
+    "types": [
+        "Drago",
+        "Volante"
+    ],
+    "weight": 210.0
+}

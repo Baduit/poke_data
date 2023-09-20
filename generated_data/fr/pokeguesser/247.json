@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Son corps est dur comme la pierre\nsouterraine. Il file comme une\nfusée en expulsant des gaz.",
+        "Son corps est dur comme la pierre\nsouterraine. Il file comme une\nfusée en expulsant des gaz.",
+        "Son corps est dur comme la pierre souterraine.\nIl file comme une fusée en expulsant des gaz.",
+        "Sa carapace est aussi dure que la pierre et il est très\nfort. Ses coups peuvent raser une montagne.",
+        "Ymphect crée un gaz dans son corps qu’il comprime\npuissamment pour se propulser, comme un avion à réaction.\nSon corps est très solide. Il ne l’endommage pas,\nmême lorsqu’il frappe de l’acier trempé.",
+        "Ymphect crée un gaz dans son corps qu’il comprime\npuissamment pour se propulser, comme un avion à réaction.\nSon corps est très solide. Il ne l’endommage pas,\nmême lorsqu’il frappe de l’acier trempé.",
+        "Impatient d’évoluer, il évacue son stress en\nlibérant des gaz sous haute pression qui le\nfont bondir dans tous les sens. Une vraie plaie !",
+        "Cette chrysalide est très dangereuse.\nÀ l’intérieur de cette carapace solide comme\nle roc, son nouveau corps se développe.",
+        "Il peut se déplacer même s’il est coincé\ndans sa coquille. Sa robustesse et sa vitesse\nlui confèrent un terrible pouvoir de destruction.",
+        "Malgré son état de chrysalide, il ne reste pas\nimmobile. Sous sa solide carapace, ses pattes\nsortent déjà."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "name": "Ymphect",
+    "types": [
+        "Roche",
+        "Sol"
+    ],
+    "weight": 152.0
+}

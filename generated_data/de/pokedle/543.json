@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 5,
+    "height": 0.4,
+    "name": "Toxiped",
+    "types": [
+        "Käfer",
+        "Gift"
+    ],
+    "weight": 5.3
+}

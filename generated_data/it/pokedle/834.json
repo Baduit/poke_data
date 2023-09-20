@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 8,
+    "height": 1.0,
+    "name": "Drednaw",
+    "types": [
+        "Acqua",
+        "Roccia"
+    ],
+    "weight": 115.5
+}

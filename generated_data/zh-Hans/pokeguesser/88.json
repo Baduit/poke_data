@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "工厂排放的污泥废液\n是其主要的饵料。\n最近数量减少了。",
+        "污泥沐浴了来自月亮的Ｘ射线后，\n发生变化而诞生的。\n身体的细菌如果减少就会死亡。",
+        "诞生于海底的污泥。\n在干净的地方，它就会因\n体内的细菌无法增长而死去。",
+        "最近工厂流出的废水太干净，\n它都没东西可吃。\n据说马上就要灭绝了。",
+        "它由囤积的淤泥而形成。\n臭到让人无法碰触，凡是\n它走过的地方都寸草不生。",
+        "它由囤积的淤泥而形成。\n臭到让人无法碰触，凡是\n它走过的地方都寸草不生。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "name": "臭泥",
+    "types": [
+        "毒"
+    ],
+    "weight": 30.0
+}

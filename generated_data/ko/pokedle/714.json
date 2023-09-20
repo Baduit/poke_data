@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 6,
+    "height": 0.5,
+    "name": "음뱃",
+    "types": [
+        "비행",
+        "드래곤"
+    ],
+    "weight": 8.0
+}

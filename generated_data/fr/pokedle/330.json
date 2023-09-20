@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 3,
+    "height": 2.0,
+    "name": "Libégon",
+    "types": [
+        "Sol",
+        "Dragon"
+    ],
+    "weight": 82.0
+}

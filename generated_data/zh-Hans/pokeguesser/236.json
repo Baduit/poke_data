@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "永远都是精力充沛的样子。\n为了变强，就算输了一次又一次，\n也会不断地站起来迎战对手。",
+        "体型偏小却不可轻视，\n因为它只要发现合适的对手\n便会马上扑上去大打出手。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "name": "无畏小子",
+    "types": [
+        "格斗"
+    ],
+    "weight": 21.0
+}

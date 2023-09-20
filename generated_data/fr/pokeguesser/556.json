@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Avec une danse et des sons saccadés,\nil fait fuir ses prédateurs, les Pokémon\nOiseaux dévoreurs de graines de fleur.",
+        "Il vit dans les endroits secs.\nQuand il bouge son corps en rythme,\nil fait un bruit de maracas.",
+        "Avec une danse et des sons saccadés, il fait fuir\nses prédateurs, les Pokémon Oiseaux dévoreurs\nde graines de fleur.",
+        "Il vit dans les endroits secs. Quand il bouge son corps\nen rythme, il fait un bruit de maracas.",
+        "Avec une danse et des sons saccadés, il fait fuir\nses prédateurs, les Pokémon Oiseaux dévoreurs\nde graines de fleur.",
+        "Il vit dans les endroits secs. Quand il bouge son corps\nen rythme, il fait un bruit de maracas.",
+        "Il produit un bruit de maracas. Quand il danse\nà un rythme enjoué, il surprend les Pokémon\noiseaux, qui s’enfuient alors à tire-d’aile.",
+        "Il sème les graines de ses fleurs une fois par an.\nCelles-ci abondent en nutriments et représentent\nune denrée précieuse dans le désert."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "name": "Maracachi",
+    "types": [
+        "Plante"
+    ],
+    "weight": 28.0
+}

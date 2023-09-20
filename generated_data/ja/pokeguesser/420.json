@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "栄養の　詰まった　玉は\n鳥ポケモンの　大好物。\nついばまれないよう　逃げまわる。",
+        "日の光で　赤く　色づく。\n栄養分が　吸われて　小さい　玉が\nしぼむと　進化が　近い。",
+        "小さな　玉に　つまった\n栄養分を　吸い取って\n進化の　エネルギーに　するのだ。",
+        "日の光で　赤く　色づく。\n栄養分が　吸われて　小さい　玉が\nしぼむと　進化が　近い。",
+        "小さな　玉に　つまった\n栄養分を　吸い取って\n進化の　エネルギーに　するのだ。",
+        "体が　赤い　チェリンボほど\n栄養が　多く　玉の　味も\n甘くて　おいしいよ。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+    "name": "チェリンボ",
+    "types": [
+        "くさ"
+    ],
+    "weight": 3.3
+}

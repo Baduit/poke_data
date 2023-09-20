@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 7,
+    "height": 1.8,
+    "name": "깨비물거미",
+    "types": [
+        "물",
+        "벌레"
+    ],
+    "weight": 82.0
+}

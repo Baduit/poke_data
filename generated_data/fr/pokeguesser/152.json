@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il jauge la température et l’humidité\ngrâce à la feuille sur sa tête. Il\nraffole des bains de soleil.",
+        "Il jauge la température et l’humidité\ngrâce à la feuille sur sa tête. Il\nraffole des bains de soleil.",
+        "Un doux parfum émane de la feuille placée sur sa tête.\nIl est très gentil et aime dormir au soleil.",
+        "Il jauge la température et l’humidité grâce à la feuille\nsur sa tête. Il raffole des bains de soleil.",
+        "Lorsqu’il se bat, Germignon secoue sa feuille pour tenir son\nennemi à distance. Un doux parfum s’en dégage également,\napaisant les Pokémon qui se battent et créant une atmosphère\nagréable et amicale.",
+        "Lorsqu’il se bat, Germignon secoue sa feuille pour tenir son\nennemi à distance. Un doux parfum s’en dégage également,\napaisant les Pokémon qui se battent et créant une atmosphère\nagréable et amicale."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "name": "Germignon",
+    "types": [
+        "Plante"
+    ],
+    "weight": 6.4
+}

@@ -1,0 +1,34 @@
+{
+    "descriptions": [
+        "CRADILY roams around the ocean floor\nin search of food. This POKéMON freely\nextends its tree trunk-like neck and\fcaptures unwary prey using its eight\ntentacles.",
+        "CRADILY’s body serves as an anchor,\npreventing it from being washed away in\nrough seas.\fThis POKéMON secretes a strong\ndigestive fluid from its tentacles.",
+        "It drags its heavy body along the\nseafloor. It makes its nest in the shallows\nof warm seas. CRADILY can be seen on\nbeaches when the tide goes out.",
+        "It ensnares prey with its eight tentacles.\nIt then melts the prey with a strong acid\nbefore feeding.",
+        "It ensnares prey with its eight tentacles.\nIt then melts the prey with a strong acid\nbefore feeding.",
+        "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches.",
+        "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches.",
+        "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches.",
+        "It lives in warm seas. Its heavy\nbody weighs it down so it won’t\nget washed away in rough weather.",
+        "It lives in warm seas. Its heavy\nbody weighs it down so it won’t\nget washed away in rough weather.",
+        "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches.",
+        "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches.",
+        "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches.",
+        "It lives in the shallows of warm\nseas. When the tide goes out, it\ndigs up prey from beaches.",
+        "It lives in the shallows of warm seas. When the tide\ngoes out, it digs up prey from beaches.",
+        "It ensnares prey with its eight tentacles. It then\nmelts the prey with a strong acid before feeding.",
+        "Cradily roams around the ocean floor in search of food.\nThis Pokémon freely extends its tree trunk-like neck and\ncaptures unwary prey using its eight tentacles.",
+        "Cradily’s body serves as an anchor, preventing it from being\nwashed away in rough seas. This Pokémon secretes a strong\ndigestive fluid from its tentacles.",
+        "Normally, it lived on shallow sea shoals. When\nthe tide went out, this Pokémon came up on\nland to search for prey.",
+        "This carnivorous Pokémon lived in primordial\nseas. It catches prey in its eight tentacles and\ndissolves them with digestive fluid as it eats.",
+        "It has short legs and can’t walk very fast, but its\nneck and tentacles can extend to over three\ntimes their usual length to nab distant prey.",
+        "Once Cradily catches prey in its tentacles,\nit digests them whole and absorbs their nutrients."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "name": "Cradily",
+    "types": [
+        "Rock",
+        "Grass"
+    ],
+    "weight": 60.4
+}

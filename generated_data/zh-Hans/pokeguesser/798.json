@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "从究极之洞出现的究极异兽。\n本身并不打算恐吓敌人，\n但是锐利的全身就是凶器。",
+        "有人目击到了它\n一刀将巨大的铁搭切掉的样子。\n是究极异兽的一种。",
+        "从纸一样薄的身体上能感觉到\n像磨过的刀刃一般的锋利度。\n是一种究极异兽。",
+        "在这个世界是异类，很危险，\n但在它原本栖息的世界，\n好像只是寻常能见的生物。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "name": "纸御剑",
+    "types": [
+        "草",
+        "钢"
+    ],
+    "weight": 0.1
+}

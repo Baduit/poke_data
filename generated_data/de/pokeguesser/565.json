@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Es lebt im Meer und an Land. Es ist so stark,\ndass es mit einem einzigen Hieb ein Loch in\nein Schiff reißen kann.",
+        "Ein Schlag mit seinen ausgeprägten Vorderflossen\nbrachte Gegner zu Fall und brach ihre Knochen\noder Schale.",
+        "Es lebt im Meer und an Land. Es ist so stark, dass es mit\neinem einzigen Hieb ein Loch in ein Schiff reißen kann.",
+        "Ein Schlag mit seinen ausgeprägten Vorderflossen brachte\nGegner zu Fall und brach ihre Knochen oder Schale.",
+        "Um seinen harten Panzer zu erlangen, fraß es\nseine Beute im Ganzen und zerkaute deren harte\nSchale und Knochen.",
+        "Es ist sowohl im Meer als auch an Land\nunterwegs. Landlebende Beute schleift\nes ins Meer und erlegt sie dort.",
+        "Sein Kiefer wurde wegen dessen großer Kraft\ngefürchtet. Sogar Amoroso und Amonitas konnte\nes trotz ihrer Schalen problemlos verschlingen.",
+        "Um seinen harten Panzer noch weiter zu\nverstärken, fraß es seine Beute samt Schale\nund Knochen restlos auf.",
+        "Karippas verschlingt seine Beute mitsamt Schale\nund Knochen, wodurch sein Panzer besonders\ndick und widerstandsfähig wird.",
+        "Obwohl es sich außerhalb des Wassers langsamer\nfortbewegt, kommt es an Land, um nach Beute\nzu suchen."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+    "name": "Karippas",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 81.0
+}

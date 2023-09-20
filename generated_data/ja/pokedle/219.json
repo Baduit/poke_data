@@ -1,0 +1,11 @@
+{
+    "color": "赤色",
+    "generation": 2,
+    "height": 0.8,
+    "name": "マグカルゴ",
+    "types": [
+        "ほのお",
+        "いわ"
+    ],
+    "weight": 55.0
+}

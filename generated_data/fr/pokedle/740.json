@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 7,
+    "height": 1.7,
+    "name": "Crabominable",
+    "types": [
+        "Combat",
+        "Glace"
+    ],
+    "weight": 180.0
+}

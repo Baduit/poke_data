@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 2,
+    "height": 0.4,
+    "name": "Felino",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 8.5
+}

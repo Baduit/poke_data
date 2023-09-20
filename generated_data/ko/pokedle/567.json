@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 5,
+    "height": 1.4,
+    "name": "아케오스",
+    "types": [
+        "바위",
+        "비행"
+    ],
+    "weight": 32.0
+}

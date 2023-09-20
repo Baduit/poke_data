@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Da es fast sein gesamtes Leben unter der Erde\nverbracht hat, ist es nahezu blind. Es setzt daher\nals Augenersatz seine Fühler ein.",
+        "Manches Nincada lebt bis zu zehn Jahre unter der Erde\nund saugt Nährstoffe aus Baumwurzeln.",
+        "Nincada lebt viele Jahre in absoluter Dunkelheit unter der\nErde. Dieses Pokémon nimmt Nährstoffe aus Baumwurzeln\nauf. Es rührt sich nicht, da es auf seine Entwicklung wartet.",
+        "Nincada lebt unter der Erde. Es benutzt seine scharfen\nKrallen, um die Wurzeln von Bäumen freizulegen und an\nFlüssigkeit und Nährstoffe zu kommen. Dieses Pokémon\nkann grelles Sonnenlicht nicht aushalten und meidet es.",
+        "Da es fast sein gesamtes Leben unter der Erde\nverbracht hat, ist es nahezu blind. Es setzt daher\nals Augenersatz seine Fühler ein.",
+        "Manche Nincada leben mehr als zehn Jahre unter\nder Erde und saugen Nährstoffe aus den Wurzeln\nvon Bäumen."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "name": "Nincada",
+    "types": [
+        "Käfer",
+        "Boden"
+    ],
+    "weight": 5.5
+}

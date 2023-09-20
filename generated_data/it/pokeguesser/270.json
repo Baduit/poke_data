@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sembra una pianta acquatica e viene usato come\ntraghetto dai Pokémon che non sanno nuotare.",
+        "Vaga alla ricerca di acqua pulita. Se non beve per\nparecchio tempo, la foglia che ha sul capo appassisce.",
+        "Lotad vive in stagni e laghi, galleggiando a pelo d’acqua.\nS’indebolisce se muoiono le larghe foglie in superficie.\nIn rare occasioni si avventura sulla terraferma in cerca\ndi acqua pulita.",
+        "Si dice che prima Lotad vivesse sulla terraferma. Tuttavia,\nsi dice che sia tornato all’acqua perché le foglie che ha\nsulla testa erano diventate troppo grandi e pesanti.\nOra vive galleggiando a pelo d’acqua.",
+        "Vaga alla ricerca di acqua pulita. Se non beve\nper parecchio tempo, la foglia che ha sul capo\nappassisce.",
+        "La foglia che ha in testa, diventata\ntroppo grande e pesante, lo ha spinto\na vivere galleggiando a pelo d’acqua."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "name": "Lotad",
+    "types": [
+        "Acqua",
+        "Erba"
+    ],
+    "weight": 2.6
+}

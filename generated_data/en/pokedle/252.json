@@ -1,0 +1,10 @@
+{
+    "color": "Green",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Treecko",
+    "types": [
+        "Grass"
+    ],
+    "weight": 5.0
+}

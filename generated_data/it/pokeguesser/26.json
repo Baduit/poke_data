@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Se l’elettricità aumenta, i muscoli sono sollecitati\ne diventa più aggressivo del solito.",
+        "Può rilasciare scariche elettriche a 100.000 volt\ncon cui neutralizza nemici molto più grandi di lui.",
+        "Se l’elettricità accumulata nelle guance diventa eccessiva,\nRaichu la scarica piantando la coda nel terreno. Vicino al suo\nnido sono presenti spesso chiazze di erba arsa.",
+        "Raichu emana una debole carica elettrica da tutto il corpo\nrilucendo così nell’oscurità. Scarica l’elettricità piantando\nla coda nel terreno.",
+        "Le sue scariche elettriche, che raggiungono\ni 100.000 volt, potrebbero far svenire persino\nun elefante indiano.",
+        "Quando accumula elettricità, fatica a\ncontrollarsi. Perfino il suo Allenatore rischia\ndi essere attaccato, se non fa attenzione.",
+        "Diventa più aggressivo con l’accumularsi di\nenergia elettrica. Alcuni pensano che sia\nl’elettricità stessa a causargli stress.",
+        "Molti Allenatori gli preferiscono Pikachu e per\nquesto non lo si vede spesso in giro.",
+        "Quando accumula elettricità nel suo corpo,\nsi fa aggressivo. Al buio brilla di luce propria.",
+        "Quando accumula elettricità nel suo corpo,\nsi fa aggressivo. Al buio brilla di luce propria.",
+        "La sua lunga coda serve da messa a terra per\nproteggerlo dalla sua stessa alta tensione.",
+        "Quando le sacche elettriche sono scariche,\nrizza la coda per raccogliere elettricità\ndall’atmosfera."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "name": "Raichu",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Dieses Wesen ist vermutlich eine Ultrabestie.\nEs nähert sich Menschen tänzelnd, nur um dann\nplötzlich seinen Kopf explodieren zu lassen.",
+        "Eine Ultrabestie, die durch eine Ultrapforte kam.\nSie erschreckt ihre Gegner mit Explosionen\nund raubt ihnen dann ihre Lebenskraft."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "name": "Kopplosio",
+    "types": [
+        "Feuer",
+        "Geist"
+    ],
+    "weight": 13.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 9,
+    "height": 2.0,
+    "name": "Roaring Moon",
+    "types": [
+        "Dragon",
+        "Dark"
+    ],
+    "weight": 380.0
+}

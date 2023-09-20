@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Transporta a gente y a Pokémon volando, pero, como\nse deja llevar, puede acabar en cualquier sitio.",
+        "Durante el día está somnoliento, pero por la noche\nsale volando en grupo, aunque nadie sabe adónde.",
+        "Transporta a gente y a Pokémon volando, pero, como se deja\nllevar, puede acabar en cualquier sitio.",
+        "Durante el día está somnoliento, pero por la noche sale\nvolando en grupo, aunque nadie sabe adónde.",
+        "Hubo un caso de un chico que se subió a un\nDrifblim y salió de viaje. Desde entonces está\nen paradero desconocido.",
+        "Al anochecer, se reúnen en grupos y vuelan a la\nderiva. Si alguien trata de seguirlos con la\nmirada, desaparecen al instante.",
+        "Se rumorea que los Drifblim que surcan el cielo\nal ocaso llevan a todos aquellos que atrapan al\nmás allá.",
+        "El gas que alberga su interior se compone de\nalmas. Si su cuerpo se deshincha, arrastra\nconsigo tanto a personas como a Pokémon.",
+        "Se dice que está formado por almas en pena.\nAl caer la noche, flota a la deriva en silencio\nsepulcral.",
+        "Agarra a gente y a Pokémon para llevárselos a\nalgún sitio, aunque nadie sabe exactamente\nadónde."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "name": "Drifblim",
+    "types": [
+        "Fantasma",
+        "Volador"
+    ],
+    "weight": 15.0
+}

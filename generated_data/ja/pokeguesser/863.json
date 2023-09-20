@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "頭の　体毛が　硬質化して\n鉄の　ヘルメットのように　なった。\nとても　好戦的な　性質。",
+        "戦いに　明け暮れて　進化した\n結果　伸ばすと　短剣に　変わる\n物騒な　ツメを　手に入れた。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "name": "ニャイキング",
+    "types": [
+        "はがね"
+    ],
+    "weight": 28.0
+}

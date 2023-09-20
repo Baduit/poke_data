@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 2,
+    "height": 1.1,
+    "name": "Migalos",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 33.5
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Ce Pokémon a peut-être un physique\ndisgracieux, mais il est robuste et\npeut survivre dans très peu d’eau.",
+        "Ce Pokémon a peut-être un physique\ndisgracieux, mais il est robuste et\npeut survivre dans très peu d’eau.",
+        "Il peut vivre dans les fleuves et les lacs pollués car\nil mange de tout. Personne ne se soucie de lui.",
+        "Son apparence est pathétique. Il forme des bancs\ndans les rivières riches en plantes aquatiques.",
+        "Les nageoires de Barpau sont abîmées et déchirées\ndès sa naissance. Ce Pokémon est généralement ignoré\nà cause de son apparence miséreuse. Il peut vivre\ndans la mer ou en eau douce.",
+        "Même si le corps de Barpau est en lambeaux, il reste tenace\net obstiné, ce qui lui permet de survivre partout. Cependant,\nce Pokémon est très lent et un peu bête, ce qui en fait\nune proie facile.",
+        "Ce Pokémon n’a pas beaucoup d’adeptes, du\nfait de son air miteux. Il est pourtant robuste\net n’a pas peur de nager en eaux troubles.",
+        "Comme il est tout de même franchement laid,\nce Pokémon a un succès très mitigé. Sa grande\nvitalité fait néanmoins l’objet de moult études.",
+        "Son apparence peu ragoûtante repousse les\nprédateurs et dissuade les gens de le pêcher.\nSa population augmente donc rapidement.",
+        "En raison de sa laideur, la plupart des gens\ndétournent le regard quand ils le croisent.\nIl a cependant des fans qui le collectionnent.",
+        "Comme il est tout de même franchement laid,\nce Pokémon a un succès très mitigé. Sa grande\nvitalité fait néanmoins l’objet de moult études.",
+        "Ce Pokémon a peut-être un physique disgracieux,\nmais il est robuste et peut survivre dans très peu\nd’eau."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "name": "Barpau",
+    "types": [
+        "Eau"
+    ],
+    "weight": 7.4
+}

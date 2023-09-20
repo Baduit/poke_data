@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 5,
+    "height": 0.7,
+    "name": "메더",
+    "types": [
+        "땅",
+        "전기"
+    ],
+    "weight": 11.0
+}

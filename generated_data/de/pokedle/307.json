@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.6,
+    "name": "Meditie",
+    "types": [
+        "Kampf",
+        "Psycho"
+    ],
+    "weight": 11.2
+}

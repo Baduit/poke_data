@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Barboach",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 1.9
+}

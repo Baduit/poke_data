@@ -1,0 +1,11 @@
+{
+    "color": "검정",
+    "generation": 3,
+    "height": 1.5,
+    "name": "점토도리",
+    "types": [
+        "땅",
+        "에스퍼"
+    ],
+    "weight": 108.0
+}

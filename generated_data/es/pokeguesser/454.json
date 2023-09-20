@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Almacena veneno en una bolsa de la garganta. Cuando\ncroa, este se agita para lograr mayor potencia.",
+        "Sus garras segregan una toxina tan potente que un\nsimple arañazo puede ser mortal.",
+        "Almacena veneno en una bolsa de la garganta. Cuando croa,\neste se agita para lograr mayor potencia.",
+        "Sus garras segregan una toxina tan potente que un simple\narañazo puede ser mortal.",
+        "Se abalanza sobre el rival y lo destroza con sus\ngarras venenosas. Basta un rasguño para debilitar\nal adversario.",
+        "Cuando abate una presa, emite un croar de\nvictoria a pleno pulmón. Está emparentado con\nlos Seismitoad."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "name": "Toxicroak",
+    "types": [
+        "Veneno",
+        "Lucha"
+    ],
+    "weight": 44.4
+}

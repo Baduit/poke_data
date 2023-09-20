@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Les épines sur sa tête transpercent et\nempoisonnent l’ennemi. Ses dix tentacules\nse chargent ensuite du reste.",
+        "Il rampe le long des fonds marins et des plages\nde sable. Les cornes de corail des Corayon sont\nses biscuits apéritifs préférés.",
+        "Son amour des cornes de Corayon lui vaut\nl’hostilité des artisans qui les récoltent dans\nla nature pour en faire des objets.",
+        "Une nuit lui suffit à régénérer n’importe quelle\npartie de son corps, à l’exception de sa tête,\net ce, quelle que soit l’étendue des dégâts.",
+        "Ses piqûres causent un engourdissement qui\nse mue en démangeaisons si terribles qu’elles\npoussent la victime à se gratter jusqu’au sang.",
+        "Contrairement aux Vorastérie d’Alola,\nceux de Galar ne font pas grand cas\ndes cornes de Corayon."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+    "name": "Vorastérie",
+    "types": [
+        "Poison",
+        "Eau"
+    ],
+    "weight": 8.0
+}

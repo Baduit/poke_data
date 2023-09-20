@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 3,
+    "height": 0.6,
+    "name": "Méditikka",
+    "types": [
+        "Combat",
+        "Psy"
+    ],
+    "weight": 11.2
+}

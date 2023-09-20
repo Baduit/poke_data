@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il fango attaccato alle zampe gli dà un’aderenza\ntale da permettergli di lanciarsi in una potente\ncorsa senza rischio di scivolare.",
+        "È testardo e fa tutto secondo il suo ritmo.\nPassa le giornate a giocare con il fango che\ncrea mangiando terra.",
+        "Adora giocare nel fango. Se non si fa il suo\nbagno di fango quotidiano, accumula stress e\nnon ascolta più le indicazioni del suo Allenatore.",
+        "È un Pokémon incredibilmente forte.\nPuò trasportare pesi 50 volte superiori al suo\ncome se niente fosse.",
+        "È così forte da riuscire a trasportare carichi\n50 volte più pesanti del proprio corpo.\nEccelle nell’utilizzo del fango.",
+        "Ricoprendosi le zampe con il fango che produce\nmasticando terra riesce a percorrere senza\nscivolare anche i sentieri più accidentati."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "name": "Mudbray",
+    "types": [
+        "Terra"
+    ],
+    "weight": 110.0
+}

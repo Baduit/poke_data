@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "The two minigears that mesh together\nare predetermined. Each will rebound\nfrom other minigears without meshing.",
+        "Interlocking two bodies and\nspinning around generates\nthe energy they need to live.",
+        "Two bodies comprise a fixed pair.\nThey spin around each other\nto generate energy.",
+        "Two bodies comprise a fixed pair.\nThey spin around each other\nto generate energy.",
+        "Interlocking two bodies and spinning around\ngenerates the energy they need to live.",
+        "The two minigears that mesh together are\npredetermined. Each will rebound from other\nminigears without meshing.",
+        "Interlocking two bodies and spinning around\ngenerates the energy they need to live.",
+        "The two minigears that mesh together are\npredetermined. Each will rebound from other\nminigears without meshing.",
+        "The two minigears that compose this Pokémon\nare closer than twins. They mesh well only with\neach other.",
+        "It’s suspected that Klink were the inspiration\nbehind ancient people’s invention of the\nfirst gears."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "name": "Klink",
+    "types": [
+        "Steel"
+    ],
+    "weight": 21.0
+}

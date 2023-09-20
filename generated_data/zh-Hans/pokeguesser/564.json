@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "根据对其骨骼的调查结果，\n它似乎能潜到大约\n１０００米的深海之中。",
+        "据说是大部分龟宝可梦的祖先。\n曾经生活在大约１亿年前的\n温暖大海里。",
+        "由古代的化石复活而来。\n曾生活在海里，\n但也会到陆地上来寻找猎物。",
+        "从１０００米深的深海到陆地，\n这样广阔的范围曾经都是它的狩猎场。",
+        "曾经栖息于古代的海洋。\n虽然只会爬着走，但为了\n寻找猎物也会到陆地上来。",
+        "由化石复活的宝可梦。\n人们认为它是很多\n龟宝可梦的祖先。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "name": "原盖海龟",
+    "types": [
+        "水",
+        "岩石"
+    ],
+    "weight": 16.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Mostra la propria forza spalancando le fauci.\nAttacca sollevando immani quantità di sabbia.",
+        "Immagazzina sabbia all’interno del corpo e l’espelle\ncon violenza dai pori, formando enormi vortici.",
+        "Mostra la propria forza spalancando le fauci.\nAttacca sollevando immani quantità di sabbia.",
+        "Immagazzina sabbia all’interno del corpo e l’espelle\ncon violenza dai pori, formando enormi vortici.",
+        "Protegge con zelo i Dwebble, perché lo aiutano\na liberarsi delle pietre che a volte si incastrano\nnei pori che ha sul dorso.",
+        "Quando si arrabbia diventa molto violento\ned espelle la sabbia che ha immagazzinato\nprovocando tempeste di sabbia."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "name": "Hippowdon",
+    "types": [
+        "Terra"
+    ],
+    "weight": 300.0
+}

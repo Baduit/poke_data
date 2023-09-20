@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Mit seinem Giftstachel am Kopf attackiert es\nBeute. Ist diese geschwächt, umschlingt es sie\nmit seinen zehn Tentakeln und gibt ihr den Rest.",
+        "Kriecht auf dem Meeresgrund oder am Strand\nherum. Die Korallen, die auf den Köpfen von\nCorasonn wachsen, sind seine Leibspeise.",
+        "Die Arme von Corasonn sind seine Leibspeise.\nHandwerker, die natürlich abgefallene Arme von\nCorasonn verarbeiten, mögen sie deshalb nicht.",
+        "Bis auf den Kopf wachsen all seine Körperteile\nschnell nach, wenn sie abgetrennt werden.\nDafür muss es nur eine Nacht durchschlafen.",
+        "Wird man von seinen Stacheln gestochen, setzt\nzunächst Taubheit ein, gefolgt von einem nahezu\nunerträglich starken Juckreiz.",
+        "Im Gegensatz zu den Garstella in Alola haben\ndie der Galar-Region noch nicht bemerkt, wie\nköstlich die Arme von Corasonn sind."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+    "name": "Garstella",
+    "types": [
+        "Gift",
+        "Wasser"
+    ],
+    "weight": 8.0
+}

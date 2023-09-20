@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Their poison is strong enough to eat through\nthe hull of a tanker, and they spit it indiscriminately\nat anything that enters their territory.",
+        "Tales are told of ships that wander into\nseas where Dragalge live, never to return.",
+        "Their poison is strong enough to eat through\nthe hull of a tanker, and they spit it indiscriminately\nat anything that enters their territory.",
+        "Tales are told of ships that wander into\nseas where Dragalge live, never to return.",
+        "This vicious Pokémon sprays a poisonous liquid\non opponents that come near. For whatever\nreason, it gets along really well with Dhelmise.",
+        "It blends in with seaweed to ambush its prey\nand then takes them down with a poisonous\nliquid strong enough to melt metal.",
+        "Dragalge uses a poisonous liquid capable of\ncorroding metal to send tankers that enter its\nterritory to the bottom of the sea.",
+        "Dragalge generates dragon energy by sticking\nthe plume on its head out above the ocean’s\nsurface and bathing it in sunlight."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "name": "Dragalge",
+    "types": [
+        "Poison",
+        "Dragon"
+    ],
+    "weight": 81.5
+}

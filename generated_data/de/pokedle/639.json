@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 5,
+    "height": 1.9,
+    "name": "Terrakium",
+    "types": [
+        "Gestein",
+        "Kampf"
+    ],
+    "weight": 260.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 1,
+    "height": 1.5,
+    "name": "Scyther",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 56.0
+}

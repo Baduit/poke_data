@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "怨念附在被丟棄的玩偶上，\n不斷尋找著丟棄自己的人，\n想要為自己報仇。",
+        "誕生自遭到捨棄時的怨念。\n據說只要讓牠感覺自己受到重視，\n牠就會滿意地變回原本的玩偶。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "name": "詛咒娃娃",
+    "types": [
+        "幽靈"
+    ],
+    "weight": 12.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Kappalores",
+    "types": [
+        "Wasser",
+        "Pflanze"
+    ],
+    "weight": 55.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Se disturbato, tira fuori gli artigli; se soddisfatto,\nfa le fusa. La sua incostanza piace a molti.",
+        "Il lunatico Glameow fa sinuosi movimenti di coda\nche ricordano i nastri della ginnastica artistica.",
+        "Se disturbato, tira fuori gli artigli; se soddisfatto, fa le fusa.\nLa sua incostanza piace a molti.",
+        "Il lunatico Glameow fa sinuosi movimenti di coda che ricordano\ni nastri della ginnastica artistica."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+    "name": "Glameow",
+    "types": [
+        "Normale"
+    ],
+    "weight": 3.9
+}

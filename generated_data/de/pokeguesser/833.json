@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Es schnappt sofort nach allem, was ihm\nunterkommt. Der Grund dafür ist anscheinend,\ndass seine wachsenden Vorderzähne jucken.",
+        "Im Kampf greift es mit dem steinharten Horn auf\nseinem Kopf an. Schreckt der Gegner zurück,\nschnappt es zu und lässt nicht wieder los."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "name": "Kamehaps",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 8.5
+}

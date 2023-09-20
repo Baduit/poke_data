@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sein Körper ist so leicht, dass es seine Füße im\nBoden verankert, damit es nicht davongeweht wird.",
+        "Es reitet auf dem Wind. Man sagt, wenn sich\nHoppspross versammeln, kommt der Frühling bald.",
+        "Hoppspross lässt sich vom Wind treiben. Wenn es bemerkt,\ndass ein Sturm aufkommt, verbindet es seine Blätter mit\nanderen Hoppspross, damit es nicht davongeweht wird.",
+        "Hoppspross lässt sich vom Wind treiben. Wenn es bemerkt,\ndass ein Sturm aufkommt, verbindet es seine Blätter mit\nanderen Hoppspross, damit es nicht davongeweht wird.",
+        "Seinen leichten Körper weht selbst eine Brise\ndavon. Es liebt es, sich vom warmen\nFrühlingswind treiben zu lassen.",
+        "Es lässt sich vom Wind treiben. Manchmal verirrt\nes sich, wenn es von einem Windstoß davon-\ngeweht wird."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "name": "Hoppspross",
+    "types": [
+        "Pflanze",
+        "Flug"
+    ],
+    "weight": 0.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 0.4,
+    "name": "Venipede",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 5.3
+}

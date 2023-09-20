@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Auf gerader Strecke erreicht es mühelos 100 km/h.\nNur die Kurven bereiten ihm große Schwierigkeiten.",
+        "Es stürzt sich mit 100 km/h auf Beute. Aber es kann\nnur geradeaus laufen und die Jagd misslingt oft.",
+        "Geradaks rennt immer mit vollem Tempo und nie im Zickzack,\nsondern nur gerade. Wenn ihm ein Hindernis im Weg ist, läuft\nes rechtwinklig daran vorbei. Für dieses Pokémon stellen\nleichte Kurven eine große Herausforderung dar.",
+        "Auf der Jagd rennt Geradaks so schnell es kann schnurstracks\nhinter seiner Beute her. Es erreicht zwar über 100 km/h, muss\naber erst aus vollem Lauf zum Stehen kommen, bevor es die\nRichtung wechseln kann.",
+        "Sein Fell ist kräftig und fest. Rasierpinsel, die aus\nseinen ausgefallenen Haaren hergestellt werden,\nsind absolute Luxusartikel.",
+        "Es erlegt seine Beute mit schnellen Bewegungen\nund scharfen Klauen. Kurven zu nehmen bereitet\nihm aber große Schwierigkeiten."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+    "name": "Geradaks",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.5
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Su intelecto e intuición son increíbles. No pierde la\ncompostura en ninguna situación.",
+        "Al ser mordido en la cabeza, Slowpoke absorbió unas\ntoxinas que liberaron su oculto poder.",
+        "Slowking dedica cada día tiempo a investigar, en un intento\npor resolver los misterios del mundo. Aunque, según parece,\na este Pokémon se le olvida todo lo que ha aprendido si se\nsepara del Shellder que lleva en la cabeza.",
+        "Slowking dedica cada día tiempo a investigar, en un intento\npor resolver los misterios del mundo. Aunque, según parece,\na este Pokémon se le olvida todo lo que ha aprendido si se\nsepara del Shellder que lleva en la cabeza.",
+        "El veneno de Shellder le confiere una inteligencia\nbrillante. Puede utilizar sus poderes psíquicos\ncon gran destreza.",
+        "Es muy famoso por su inteligencia y, en algunas\nregiones, hasta tienen un refrán que dice:\n“En caso de duda, pregúntale a Slowking”.",
+        "A menudo se le ocurren ideas geniales que\ncambiarían el mundo, pero tan pronto como las\ntiene se le olvidan.",
+        "Lo llaman el Sabio del Mar. Disfruta librando\nduelos de inteligencia con Oranguru que suelen\nterminar en tablas.",
+        "Las toxinas del Shellder impregnaron el cerebro\ndel anfitrión y despertaron el increíble intelecto\noculto que poseía Slowpoke.",
+        "Es capaz de dar respuesta a cualquier cuestión\nque se le formule, pero, por desgracia, nadie\nlogra descifrar una sola palabra de lo que dice."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "name": "Slowking",
+    "types": [
+        "Agua",
+        "Psíquico"
+    ],
+    "weight": 79.5
+}

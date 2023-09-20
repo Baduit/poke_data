@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Surskit",
+    "types": [
+        "Bug",
+        "Water"
+    ],
+    "weight": 1.7
+}

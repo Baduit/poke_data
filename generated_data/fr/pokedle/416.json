@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Apireine",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 38.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Sewaddle",
+    "types": [
+        "Coleottero",
+        "Erba"
+    ],
+    "weight": 2.5
+}

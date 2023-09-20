@@ -1,0 +1,29 @@
+{
+    "descriptions": [
+        "When SWALOT spots prey, it spurts out\na hideously toxic fluid from its pores\nand sprays the target.\fOnce the prey has weakened, this\nPOKéMON gulps it down whole with its\ncavernous mouth.",
+        "SWALOT has no teeth, so what it\neats, it swallows whole, no matter what.\nIts cavernous mouth yawns widely.\fAn automobile tire could easily fit\ninside this POKéMON’s mouth.",
+        "Its powerful stomach acid is capable of\ndigesting almost anything. The one thing\nin the whole world a SWALOT can’t digest is\nits own stomach.",
+        "It can swallow a tire whole in one gulp.\nIt secretes a horribly toxic fluid from\nthe pores on its body.",
+        "It can swallow a tire whole in one gulp.\nIt secretes a horribly toxic fluid from\nthe pores on its body.",
+        "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes.",
+        "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes.",
+        "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes.",
+        "It gulps anything that fits in its\nmouth. Its special enzymes can\ndissolve anything.",
+        "It gulps anything that fits in its\nmouth. Its special enzymes can\ndissolve anything.",
+        "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes.",
+        "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes.",
+        "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes.",
+        "It swallows anything whole.\nIt sweats toxic fluids from its\nfollicles to douse foes.",
+        "It swallows anything whole. It sweats toxic fluids\nfrom its follicles to douse foes.",
+        "It gulps anything that fits in its mouth. Its special\nenzymes can dissolve anything.",
+        "When Swalot spots prey, it spurts out a hideously toxic fluid\nfrom its pores and sprays the target. Once the prey has\nweakened, this Pokémon gulps it down whole with its\ncavernous mouth.",
+        "Swalot has no teeth, so what it eats, it swallows whole, no\nmatter what. Its cavernous mouth yawns widely. An automobile\ntire could easily fit inside this Pokémon’s mouth."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "name": "Swalot",
+    "types": [
+        "Poison"
+    ],
+    "weight": 80.0
+}

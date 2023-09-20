@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 6,
+    "height": 0.7,
+    "name": "Fletchinder",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 16.0
+}

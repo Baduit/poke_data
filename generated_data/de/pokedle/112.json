@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 1,
+    "height": 1.9,
+    "name": "Rizeros",
+    "types": [
+        "Boden",
+        "Gestein"
+    ],
+    "weight": 120.0
+}

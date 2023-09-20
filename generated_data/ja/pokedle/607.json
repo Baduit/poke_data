@@ -1,0 +1,11 @@
+{
+    "color": "白色",
+    "generation": 5,
+    "height": 0.3,
+    "name": "ヒトモシ",
+    "types": [
+        "ゴースト",
+        "ほのお"
+    ],
+    "weight": 3.1
+}

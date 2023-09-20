@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "火山の　洞穴に　生息。\n十字の　ツメを　食いこませて\n壁や　天井を　はい回る。",
+        "マグマのように　燃えたぎる\n血液が　体を　流れている。\n火山の　洞穴に　生息する。",
+        "火山の　洞穴に　生息。\n十字の　ツメを　食いこませて\n壁や　天井を　はい回る。",
+        "マグマのように　燃えたぎる\n血液が　体を　流れている。\n火山の　洞穴に　生息する。"
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "name": "ヒードラン",
+    "types": [
+        "ほのお",
+        "はがね"
+    ],
+    "weight": 430.0
+}

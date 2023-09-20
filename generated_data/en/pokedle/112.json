@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 1,
+    "height": 1.9,
+    "name": "Rhydon",
+    "types": [
+        "Ground",
+        "Rock"
+    ],
+    "weight": 120.0
+}

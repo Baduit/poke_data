@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Sie rollen Berge hinunter und hinterlassen\nSpurrillen. Halte dich von diesen Rillen fern.",
+        "Selbst Sprengstoff kann seinem harten Körper\nnichts anhaben. Häutet sich nur einmal jährlich.",
+        "Geowaz lebt hoch in den Bergen. Gibt es ein starkes\nErdbeben, rollt dieses Pokémon so lange den Berg\nhinunter, bis es schließlich unten angekommen ist.",
+        "Geowaz ist dafür bekannt, dass es Berghänge herunterrollt.\nDamit es nicht in die Häuser der Menschen hineinrollt, wurden\nGräben so an den Bergen angelegt, dass der Weg dieses\nPokémon umgeleitet wird.",
+        "Selbst Sprengstoff kann seinem harten Körper\nnichts anhaben. Es verabscheut Feuchtigkeit\nund Regen.",
+        "Einmal im Jahr häutet es sich. Die abgestreifte\nHaut wird oft von Bauern eingesammelt, da sie\nsich ausgezeichnet als Dünger verwenden lässt.",
+        "Im Alter hört es auf, sich zu häuten. Der Panzer\nbetagter Geowaz ist mit dichtem, grünem Moos\nbewachsen.",
+        "Es kann sich in die Luft sprengen. Diese\nExplosionen setzt es ein, um selbst steile\nBergpfade in rasantem Tempo zu meistern.",
+        "Nachdem es sich gehäutet hat, wird sein Körper\nweich und hell. Durch den Kontakt mit der Luft\nerhärtet er aber sofort wieder.",
+        "Nachdem es sich gehäutet hat, wird sein Körper\nweich und hell. Durch den Kontakt mit der Luft\nerhärtet er aber sofort wieder."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "name": "Geowaz",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 300.0
+}

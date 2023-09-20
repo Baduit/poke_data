@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 1,
+    "height": 1.0,
+    "name": "콘팡",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 30.0
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Je größer die Blütenblätter, desto mehr giftige\nPollen sind in der Blüte enthalten.",
+        "Es besitzt die größten Blätter der Welt.\nBei jedem Schritt streut es Giftpollen zu Boden.",
+        "Giflors giftige Pollen rufen böse allergische Anfälle hervor.\nDeshalb ist es ratsam, sich keiner schönen Blume im\nDschungel zu nähern, so anziehend sie auch sein mag.",
+        "Giflor hat die größten Blätter der Welt. Sie ziehen Beute an\nund bestäuben sie mit giftigen Sporen. Wenn die Beute sich\nnicht mehr rührt, fängt dieses Pokémon sie und frisst sie auf.",
+        "Es verstreut hochgiftige Pollen. Man erkennt\nGiflors Spur am leicht gelblichen Nebel,\nden es hinterlässt.",
+        "Giflors Pollen sind hochgiftig. Auf so manch\neigentümliches Käfer-Pokémon scheinen sie\naber eine anziehende Wirkung zu haben.",
+        "Wenn es seine großen Blütenblätter schüttelt,\num giftige Pollen zu verteilen, entsteht dabei\nein unglaublich großer Lärm.",
+        "Wenn es seine großen Blütenblätter schüttelt,\num giftige Pollen zu verteilen, entsteht dabei\nein unglaublich großer Lärm.",
+        "Es besitzt die größten Blütenblätter der Welt.\nBei jedem Schritt streut es große Mengen an\nGiftpollen zu Boden.",
+        "Je größer die Blütenblätter, desto mehr giftige\nPollen enthält die Blüte. Aber es ist auch umso\nerschöpfter, da sein Kopf so schwer wird."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "name": "Giflor",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 18.6
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Panferno",
+    "types": [
+        "Feuer",
+        "Kampf"
+    ],
+    "weight": 55.0
+}

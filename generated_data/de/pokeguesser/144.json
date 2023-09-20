@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ein Legendäres Vogel-Pokémon. Es kann Blizzards\nverursachen, indem es Feuchtigkeit gefriert.",
+        "Ein Legendäres Vogel-Pokémon, das angeblich\nin Gletschern verirrten Wanderern den Weg weist.",
+        "Arktos ist ein sagenumwobenes Vogel-Pokémon, das Eis\nmanipulieren kann. Das Schlagen seiner Flügel bringt die\nLuft zum Gefrieren. Es wird behauptet, dass es zu schneien\nbeginnt, wenn dieses Pokémon fliegt.",
+        "Arktos ist ein sagenumwobenes Vogel-Pokémon, das Eis\nmanipulieren kann. Das Schlagen seiner Flügel bringt die\nLuft zum Gefrieren. Man nimmt an, dass es zu schneien\nbeginnt, wenn dieses Pokémon fliegt.",
+        "Ein Legendäres Vogel-Pokémon, das im Winter\ndie Wasserpartikel in der Luft gefrieren lässt,\num Schnee zu erzeugen.",
+        "Ein Legendäres Vogel-Pokémon, das im Winter\ndie Wasserpartikel in der Luft gefrieren lässt,\num Schnee zu erzeugen.",
+        "Seine wunderschönen blauen Flügel sollen aus Eis\nbestehen. Es fliegt über schneebedeckte Berge,\nwährend sein langer Schweif hinter ihm flattert.",
+        "Arktos ist imstande, Eis zu manipulieren.\nMan sagt, es lebe in schneebedeckten Bergen,\nwo ewiger Winter herrscht."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "name": "Arktos",
+    "types": [
+        "Eis",
+        "Flug"
+    ],
+    "weight": 55.4
+}

@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 2,
+    "height": 1.0,
+    "name": "芭瓢虫",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 10.8
+}

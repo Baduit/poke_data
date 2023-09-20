@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "세계 곳곳을 뛰어다니며\n오염된 물을 정화시킨다.\n북풍과 함께 달려나간다.",
+        "순식간에 더럽고 탁한\n물도 깨끗하게 하는 힘을 가졌다.\n북풍이 다시 태어난 것이라고 한다.",
+        "솟아나는 물의 부드러움이 깃들어 있는 포켓몬이다.\n흐르는 듯한 몸놀림으로 대지를 달려\n탁해진 물을 맑게 하는 힘을 지녔다.",
+        "솟아나는 물의 부드러움이 깃들어 있는 포켓몬이다.\n흐르는 듯한 몸놀림으로 대지를 달려\n탁해진 물을 맑게 하는 힘을 지녔다."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "name": "스이쿤",
+    "types": [
+        "물"
+    ],
+    "weight": 187.0
+}

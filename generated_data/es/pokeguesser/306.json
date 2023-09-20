@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Hacen de toda una montaña su territorio. Cuantas más\ncicatrices tienen, más curtidos en disputas. ¡Mucha\natención!",
+        "Mientras busca hierro para comer, excava túneles en\nla roca con sus potentes cuernos de acero.",
+        "Aggron marca una montaña entera como su territorio y acaba\ncon todo lo que pueda ponerlo en peligro. Este Pokémon está\ncontinuamente patrullando la zona en defensa de su terreno.",
+        "Aggron es increíblemente cuidadoso con su hábitat. Si su\nmontaña sufre algún corrimiento de tierras o algún incendio,\ncargará con tierra nueva, plantará árboles y restaurará con\ncuidado el terreno.",
+        "Sus cuernos duros y afilados pueden perforar\nhasta las planchas de hierro más gruesas.\nDerriba a sus rivales cargando contra ellos.",
+        "En la antigüedad, hubo un monarca que llevaba\nun casco hecho a imagen de Aggron para que le\notorgase fuerza."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+    "name": "Aggron",
+    "types": [
+        "Acero",
+        "Roca"
+    ],
+    "weight": 360.0
+}

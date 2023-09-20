@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Eine harte Schale schützt dieses Pokémon.\nNur wenn es diese öffnet, wird es verwundbar.",
+        "Da es seine verwundbarste Stelle beim Klammern\npreisgibt, tut es dies nur in wirklichen Notfällen.",
+        "Nachts benutzt dieses Pokémon seine breite Zunge, um ein\nLoch in den Meeresboden zu graben. Darin schläft es.\nDabei schließt es seine Schale, aber die Zunge hängt heraus.",
+        "Nachts verwendet dieses Pokémon seine breite Zunge, um ein\nLoch in den Meeresboden zu graben. Darin schläft es. Dabei\nschließt es seine Schale, lässt aber seine Zunge heraushängen.",
+        "Ihre Schalen sind härter als Diamanten.\nVor langer Zeit sammelte man die Schalen\nvon Muschas und machte Schilde daraus.",
+        "Seine Zunge hängt immer aus seiner Schale.\nEs sucht nach Beute, indem es mit ihr gezielt\nden Sand am Meeresboden aufwirbelt.",
+        "Der Sand, der sich in Muschas’ Schale sammelt,\nentwickelt sich zu Perlen. Da es diese als\nstörend empfindet, spuckt es sie einfach aus.",
+        "Seine Zunge lässt es selbst bei geschlossener\nSchale immer heraushängen. Zieht man fest\ndaran, öffnet es vor Schreck seine Schale.",
+        "Seine Schale ist hart genug, um allen Attacken\nstandzuhalten. Wenn sie offen ist, kommt sein\nweiches Inneres zum Vorschein.",
+        "Seine Schale ist hart genug, um allen Attacken\nstandzuhalten. Wenn sie offen ist, kommt sein\nweiches Inneres zum Vorschein.",
+        "Es schwimmt rückwärts, indem es seine Schale\nöffnet und schließt, und ist damit überraschend\nschnell.",
+        "Eine harte Schale schützt dieses Pokémon.\nNur wenn es diese öffnet, wird es verwundbar."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "name": "Muschas",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 4.0
+}

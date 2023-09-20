@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 8,
+    "height": 1.0,
+    "name": "갈가부기",
+    "types": [
+        "물",
+        "바위"
+    ],
+    "weight": 115.5
+}

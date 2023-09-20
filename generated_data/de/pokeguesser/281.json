@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Die fröhliche Stimmung seines Trainers verleiht ihm\nEnergie für psychokinetische Kraft. Wenn es\nglücklich ist, tanzt und dreht es sich.",
+        "Seine Psycho-Kräfte erlauben es ihm, den Raum\num sich zu verformen und so in die Zukunft zu sehen.",
+        "Man sagt, dass ein Kirlia, das häufig positive Emotionen\nseines Trainers wahrnimmt, sehr schön wird. Dieses\nPokémon kontrolliert psychokinetische Energie mit\nseinem hochentwickelten Gehirn.",
+        "Kirlia benutzt die Hörner an seinem Kopf dazu, seine\npsychokinetische Energie zu verstärken. Wenn dieses\nPokémon seine spezielle Kraft einsetzt, wird die Luft\nverformt und ein Trugbild einer Landschaft erzeugt.",
+        "Wenn sich sein Trainer freut, tanzt es in einem\nSchwall von Energie fröhlich kreisend umher.",
+        "Seine Psycho-Kräfte erlauben es ihm, den Raum\num sich selbst zu verformen und so in die Zukunft\nzu sehen."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "name": "Kirlia",
+    "types": [
+        "Psycho",
+        "Fee"
+    ],
+    "weight": 20.2
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "２根鬍子是靈敏的雷達。\n即使在因為泥濘而渾濁的水中，\n也能偵查到獵物的位置。",
+        "滑溜溜的身體很難抓住。\n有的祭典甚至會舉辦\n看能徒手捉住多少隻的比賽。",
+        "全身黏黏滑滑的，\n就算被鳥寶可夢啄到，\n也可以馬上滑開溜走。",
+        "鬍鬚上滿是神經，\n能像人類的鼻子和舌頭\n那樣感知氣味和味道。",
+        "身體滑溜溜的很難抓住。\n某個地區流傳著泥泥鰍\n是由泥土凝結而成的說法。",
+        "會用２根長長的鬍鬚\n探索渾濁的河底。\n用濕滑的黏膜保護著身體。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "name": "泥泥鰍",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 1.9
+}

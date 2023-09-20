@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 9,
+    "height": 1.4,
+    "name": "Arboliva",
+    "types": [
+        "Grass",
+        "Normal"
+    ],
+    "weight": 48.2
+}

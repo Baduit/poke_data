@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 9,
+    "height": 0.2,
+    "name": "Shroodle",
+    "types": [
+        "Poison",
+        "Normal"
+    ],
+    "weight": 0.7
+}

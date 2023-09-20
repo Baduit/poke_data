@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 5,
+    "height": 0.4,
+    "name": "Woobat",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "weight": 2.1
+}

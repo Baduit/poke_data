@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Baltoy",
+    "types": [
+        "Ground",
+        "Psychic"
+    ],
+    "weight": 21.5
+}

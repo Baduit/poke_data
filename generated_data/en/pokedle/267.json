@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Beautifly",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 28.4
+}

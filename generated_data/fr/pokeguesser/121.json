@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Un noyau rouge trône en son centre.\nIl envoie des signaux radio mystérieux\nvers le ciel nocturne.",
+        "Un noyau rouge trône en son centre.\nIl envoie des signaux radio mystérieux\nvers le ciel nocturne.",
+        "Son cœur brille des couleurs de l’arc-en-ciel.\nOn raconte que c’est une pierre précieuse.",
+        "Un noyau rouge trône en son centre. Il envoie\ndes signaux radio mystérieux vers le ciel nocturne.",
+        "Le centre de Staross, son cœur, resplendit de sept\ndifférentes couleurs. Du fait de sa brillance naturelle,\non appelle ce Pokémon le « joyau des mers ».",
+        "Staross nage en faisant tournoyer son corps en forme d’étoile,\nun peu à la manière d’une hélice de bateau. Le cœur au centre\ndu corps de ce Pokémon brille de sept couleurs.",
+        "Son cœur lumineux envoie et reçoit des signaux\nmystérieux. Ils donnent la migraine à quiconque\ns’en approche.",
+        "La forme abstraite de son corps ne ressemble à\nrien de connu. On raconte dans les campagnes\nqu’il s’agit d’un envahisseur venu de l’espace.",
+        "On appelle son cœur lumineux « le joyau de la\nmer ». Les bijoux fabriqués à partir de celui-ci\nse vendent à prix d’or et en secret.",
+        "Ce Pokémon fait tourner son corps géométrique\npour se déplacer dans l’eau. Il semblerait qu’il\némette continuellement des ondes mystérieuses.",
+        "On dit que si le centre de son corps, appelé\nle cœur, brille de sept couleurs, c’est parce\nqu’il est en train de communiquer.",
+        "On dit que si le centre de son corps, appelé\nle cœur, brille de sept couleurs, c’est parce\nqu’il est en train de communiquer.",
+        "S’il déchaîne son pouvoir psychique puissant,\nson organe appelé « cœur » se met à briller\nde sept couleurs.",
+        "Il aspire du plancton quand il nage dans la mer\nen faisant tourner son corps à grande vitesse."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "name": "Staross",
+    "types": [
+        "Eau",
+        "Psy"
+    ],
+    "weight": 80.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 1,
+    "height": 1.1,
+    "name": "Butterfree",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 32.0
+}

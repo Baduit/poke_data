@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "I suoi forti poteri psichici modificano lo spazio\ncircostante rendendo visibili galassie lontane\nmilioni di anni luce.",
+        "Prevede il futuro dalla posizione e dal movimento\ndelle stelle. Conosce anche la durata della vita\ndell’Allenatore.",
+        "I suoi forti poteri psichici modificano lo spazio circostante\nrendendo visibili galassie lontane milioni di anni luce.",
+        "Prevede il futuro dalla posizione e dal movimento delle stelle.\nConosce anche la durata della vita dell’Allenatore.",
+        "Prevede il futuro osservando i moti delle stelle.\nPossiede terrificanti poteri psichici, ma per\nnatura non ama le ostilità.",
+        "Pare che un malfattore non si sia più fatto\nvedere dopo che Gothitelle gli aveva rivelato\ni suoi ultimi momenti."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "name": "Gothitelle",
+    "types": [
+        "Psico"
+    ],
+    "weight": 44.0
+}

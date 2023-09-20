@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 8,
+    "height": 0.5,
+    "name": "Dreepy",
+    "types": [
+        "Dragón",
+        "Fantasma"
+    ],
+    "weight": 2.0
+}

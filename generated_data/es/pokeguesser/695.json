@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Extiende su gorguera y genera energía eléctrica\nsuficiente para cubrir el consumo de electricidad de\nun rascacielos entero.",
+        "Si estimula sus músculos a base de electricidad, sus\npiernas alcanzan una potencia tal que puede recorrer\n100 metros en apenas cinco segundos.",
+        "Extiende su gorguera y genera energía eléctrica suficiente\npara cubrir el consumo de electricidad de un rascacielos\nentero.",
+        "Si estimula sus músculos a base de electricidad, sus piernas\nalcanzan una potencia tal que puede recorrer 100 metros en\napenas cinco segundos.",
+        "Venerado por una antigua civilización del\ndesierto, ahora desaparecida, llegó a Galar\njunto a sus tesoros y reliquias.",
+        "Al extender su gorguera y exponerse a la luz\nsolar, genera la energía eléctrica suficiente para\ncubrir el consumo de una metrópoli entera."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "name": "Heliolisk",
+    "types": [
+        "Eléctrico",
+        "Normal"
+    ],
+    "weight": 21.0
+}

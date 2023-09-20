@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 1,
+    "height": 1.5,
+    "name": "飞天螳螂",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 56.0
+}

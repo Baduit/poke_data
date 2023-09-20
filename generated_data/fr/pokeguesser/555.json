@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il entretient des flammes à 1 400 °C\ndans son corps. De quoi détruire un\ncamion-benne d’un coup de poing!",
+        "S’il a le dessous au combat, il se fige\ncomme un rocher, fait le vide dans son\nesprit et combat avec sa force mentale.",
+        "S’il est blessé dans un combat, il se fige comme\nun rocher, fait le vide dans son esprit et aiguise\nses sens.",
+        "Il entretient des flammes à 1 400 °C dans son corps.\nDe quoi détruire un camion-benne d’un coup de\npoing !",
+        "S’il est blessé dans un combat, il se fige comme un rocher,\nfait le vide dans son esprit et aiguise ses sens.",
+        "Il entretient des flammes à 1 400 °C dans son corps.\nDe quoi détruire un camion-benne d’un coup de poing !",
+        "Véritable tête brûlée, il possède assez de force\ndans ses gros bras pour réduire en poussière\nun camion-benne à coups de poing.",
+        "Sa puissance augmente à mesure que la flamme\nde son corps s’intensifie. La température\nde celle-ci peut parfois dépasser les 1 400 °C."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "name": "Darumacho",
+    "types": [
+        "Feu"
+    ],
+    "weight": 92.9
+}

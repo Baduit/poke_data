@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 8,
+    "height": 2.0,
+    "name": "鳃鱼海兽",
+    "types": [
+        "水",
+        "冰"
+    ],
+    "weight": 175.0
+}

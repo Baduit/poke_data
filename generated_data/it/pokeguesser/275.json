@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Un tempo era un temuto guardiano della foresta.\nSa leggere nella mente del nemico, anticipandolo.",
+        "Con le sue foglie provoca raffiche di vento della\nvelocità di 30 m/s che spazzano via interi edifici.",
+        "Shiftry è un misterioso Pokémon che vive sulla cima degli\nalberi più alti, di solito plurisecolari. Usa le foglie degli arti\nsuperiori come ventole per generare terribili raffiche di vento.",
+        "Le grandi ventole di Shiftry generano forti raffiche di vento\nalla velocità di 30 metri al secondo. La violenza del vento\nspazza via ogni cosa. Vive pacifico nel cuore della foresta.",
+        "Un tempo era un temuto guardiano della foresta.\nSa leggere nella mente del nemico anticipandolo.",
+        "Vive nella calma delle foreste. Si dice che sia\nin grado di creare raffiche di vento gelido\nagitando i suoi grandi ventagli."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "name": "Shiftry",
+    "types": [
+        "Erba",
+        "Buio"
+    ],
+    "weight": 59.6
+}

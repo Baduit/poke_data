@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Grimer è nato da fango esposto ai raggi X provenienti\ndalla luna. Ama nutrirsi di sostanze sudicie.",
+        "Prospera in zone paludose. Cresce nutrendosi dei\nliquami di scarico delle fabbriche.",
+        "Il corpo fangoso e gommoso di Grimer può passare attraverso\nogni apertura, anche la più angusta. Si intrufola dentro\nle condotte fognarie per bere le ripugnanti acque di scarico.",
+        "Grimer proviene dal fango depositato sui fondali inquinati.\nInfatti ama tutto ciò che è sudicio e tossico. Emana\ncontinuamente un fluido batterico velenoso da ogni parte\ndel corpo.",
+        "Si nutre principalmente di rifiuti industriali\nfangosi. Negli ultimi tempi, il numero di Grimer\nsta diminuendo.",
+        "È nato da fango esposto ai raggi X provenienti\ndalla luna. Per sopravvivere, deve conservare\nun’elevata popolazione batterica.",
+        "Proviene dal fango dei fondali marini. Non può\nsopravvivere in ambienti puliti perché i batteri\nnel suo corpo non riescono a moltiplicarsi.",
+        "Poiché gli scarichi industriali sono sempre\npiù puliti, fatica a trovare fonti di nutrimento.\nSembra che per questo rischi l’estinzione.",
+        "Formato da fanghi tossici solidificati, emana\nun tanfo nauseabondo ed è impossibile toccarlo.\nDove passa lui non cresce più nemmeno l’erba.",
+        "Formato da fanghi tossici solidificati, emana\nun tanfo nauseabondo ed è impossibile toccarlo.\nDove passa lui non cresce più nemmeno l’erba."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "name": "Grimer",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 30.0
+}

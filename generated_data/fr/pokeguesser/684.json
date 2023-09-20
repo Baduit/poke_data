@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il immobilise son adversaire à l’aide de filaments\nblancs, sucrés et collants qui ressemblent à de la\nbarbe à papa.",
+        "Il se gave de sucreries à longueur de journée, à tel\npoint que sa fourrure finit par ressembler à de la barbe\nà papa, sucrée et poisseuse.",
+        "Il immobilise son adversaire à l’aide de filaments blancs,\nsucrés et collants qui ressemblent à de la barbe à papa.",
+        "Il se gave de sucreries à longueur de journée, à tel point\nque sa fourrure finit par ressembler à de la barbe à papa,\nsucrée et poisseuse.",
+        "Il mange son propre poids en sucre chaque jour.\nS’il n’a pas sa dose de sucreries, il devient\nhorriblement grognon.",
+        "Sa douce fourrure possède une odeur sucrée\ncomme la barbe à papa. Il produit des filaments\ngluants pour empêtrer ses adversaires."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+    "name": "Sucroquin",
+    "types": [
+        "Fée"
+    ],
+    "weight": 3.5
+}

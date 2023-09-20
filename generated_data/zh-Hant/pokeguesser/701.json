@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "用速度快的招式壓倒對手。\n由於使出必殺技時的前置動作太長，\n有時會因此陷入危機。",
+        "會用輕盈的跳躍\n跳到對手的死角來戰鬥。\n也很擅長華麗的關節技。",
+        "利用發揮輕盈體型優勢的戰法，\n在消耗了對手的體力之後\n使用華麗的絕招分出勝負。",
+        "在使出致命的絕招之前\n一定要先擺出華麗的姿勢。\n有時也會在這一刻遭到反擊。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "name": "摔角鷹人",
+    "types": [
+        "格鬥",
+        "飛行"
+    ],
+    "weight": 21.5
+}

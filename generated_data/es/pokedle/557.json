@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Dwebble",
+    "types": [
+        "Bicho",
+        "Roca"
+    ],
+    "weight": 14.5
+}

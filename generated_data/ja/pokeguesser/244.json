@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "新しい　火山が　できるたび\n生まれてくると　伝えられる\n大地を　駆け巡る　ポケモン。",
+        "エンテイが　ほえると\n世界の　どこかの　火山が\n噴火すると　言われている。",
+        "マグマの　情熱を　宿した　ポケモン。\n火山の　噴火から　生まれたと　考えられ\nすべてを　焼き尽くす　炎を　噴き上げる。",
+        "マグマの　情熱を　宿した　ポケモン。\n火山の　噴火から　生まれたと　考えられ\nすべてを　焼き尽くす　炎を　噴き上げる。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "name": "エンテイ",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 198.0
+}

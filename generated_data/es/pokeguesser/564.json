@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Ya pululaba por las aguas hace 100 millones de años.\nTambién va a tierra a veces en busca de alimento.",
+        "Ha renacido de un fósil prehistórico. Puede sumergirse\nhasta 1000 m de profundidad.",
+        "Ya pululaba por las aguas hace 100 millones de años.\nTambién va a tierra a veces en busca de alimento.",
+        "Ha renacido de un fósil prehistórico. Puede sumergirse hasta\n1000 m de profundidad.",
+        "A juzgar por su estructura ósea, se calcula\nque podía sumergirse hasta 1 km de\nprofundidad.",
+        "Se dice que es el predecesor de numerosos\nPokémon tortuga. Hace unos 100 millones de\naños ya habitaba mares templados.",
+        "Se ha logrado reconstruir a partir de fósiles.\nAunque viviera en el mar, no dudaba en salir del\nagua a tierra firme en busca de presas.",
+        "Poseía un vasto territorio de caza, que abarcaba\ndesde la tierra firme hasta una profundidad\nmarina de 1 km.",
+        "Vivía en los mares de hace millones de años. Sale\na tierra para buscar presas, aunque solo se pueda\ndesplazar reptando.",
+        "Se piensa que es el antepasado de numerosos\nPokémon tortuga. Fue regenerado a partir de un\nfósil."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "name": "Tirtouga",
+    "types": [
+        "Agua",
+        "Roca"
+    ],
+    "weight": 16.5
+}

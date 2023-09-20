@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "阿罗拉的人气特产是绘有巨翅飞鱼\n在海浪上优雅跳跃的明信片及海报。",
+        "也有很多人是因为向往\n巨翅飞鱼那华丽的泳姿\n才开始冲浪的。",
+        "游动时速度上来后，\n甚至会从波浪上起飞，\n然后就这样滑翔１００米。",
+        "悠然地畅游在大海中。\n就算有觊觎食物残渣的铁炮鱼\n吸附在自己身上也毫不在意。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "name": "巨翅飞鱼",
+    "types": [
+        "水",
+        "飞行"
+    ],
+    "weight": 220.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 1,
+    "height": 1.5,
+    "name": "팬텀",
+    "types": [
+        "고스트",
+        "독"
+    ],
+    "weight": 40.5
+}

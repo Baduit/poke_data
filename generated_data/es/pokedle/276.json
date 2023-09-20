@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 3,
+    "height": 0.3,
+    "name": "Taillow",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 2.3
+}

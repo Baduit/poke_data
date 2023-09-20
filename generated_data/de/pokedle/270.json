@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Loturzel",
+    "types": [
+        "Wasser",
+        "Pflanze"
+    ],
+    "weight": 2.6
+}

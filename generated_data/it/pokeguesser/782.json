@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Trasmette le sue emozioni scuotendo le squame.\nNelle aree montane in cui vive riecheggia spesso\nun suono metallico.",
+        "Vive sulle montagne troppo impervie per gli\nesseri umani. Cresce e diventa più forte poco\na poco lottando con i propri simili.",
+        "Sbatte con violenza le squame che ha sul capo\ncontro le rocce e sul terreno per spaventare i\nnemici e per comunicare coi suoi simili.",
+        "Lotta senza dare mai le spalle al nemico.\nI guerrieri del passato lo sceglievano come\nalleato per la sua indole coraggiosa.",
+        "Impara a lottare facendo cozzare la squama che\nha sulla testa con quella dei suoi simili. In questo\nmodo affina le sue mosse e tempra il suo spirito.",
+        "Comunica con i suoi simili scuotendo le squame\ndure come il metallo."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+    "name": "Jangmo-o",
+    "types": [
+        "Drago"
+    ],
+    "weight": 29.7
+}

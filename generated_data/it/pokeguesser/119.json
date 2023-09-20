@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "In autunno, quando si riproduce, può essere visto\nrisalire impetuoso fiumi e torrenti.",
+        "Con il suo corno, perfora le rocce sul letto dei fiumi\nper farsi il nido. Difende le uova a costo della vita.",
+        "In autunno, i Seaking maschio sono soliti corteggiare le\nfemmine con particolari danze rituali. In questa stagione il\ncorpo di questi Pokémon assume una colorazione particolare.",
+        "Seaking protegge gelosamente le sue uova. Il maschio e\nla femmina si danno il cambio attorno alla tana e alle uova.\nLe uova vengono sorvegliate per oltre un mese.",
+        "Quando le giornate cominciano a rinfrescarsi,\nil suo corpo si tinge di rosso vivo, annunciando\ncosì l’inizio dell’autunno.",
+        "Gli appassionati di Seaking si dividono in due\ngruppi: gli estimatori del corno e gli amanti\ndelle pinne. Tra di loro non corre buon sangue.",
+        "Facendo girare il corno come la punta\ndi un trapano perfora anche la roccia.\nI maschi hanno colori più sgargianti.",
+        "I maschi danzano sul letto dei fiumi cercando\ndi attirare l’attenzione delle femmine, che si\nradunano attorno al miglior danzatore.",
+        "Il maschio di Seaking usa il corno che ha\nsulla testa per scavare il nido nelle rocce\nche si trovano sul letto dei fiumi.",
+        "Il maschio di Seaking usa il corno che ha\nsulla testa per scavare il nido nelle rocce\nche si trovano sul letto dei fiumi.",
+        "In autunno ingrassa in previsione della stagione\ndegli amori e assume colori sgargianti.",
+        "Perfora con il suo corno le rocce sul letto dei\nfiumi, costruendo tane che proteggono le Uova\ndalla corrente."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "name": "Seaking",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 39.0
+}

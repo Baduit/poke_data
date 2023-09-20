@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "虽然也拥有能伸能缩的柔软性，\n但它其实是由比任何金属\n都要结实的神秘物质构成的。",
+        "据说诞生于地幔之中，\n在距今约１万年前\n现身于地面之上。"
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "name": "雷吉斯奇鲁",
+    "types": [
+        "钢"
+    ],
+    "weight": 205.0
+}

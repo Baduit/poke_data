@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es verarbeitet Sonnenstrahlen in seinem\nEnergiekern zu Lichtkugeln weiter, um sie\nim Kampf auf seinen Gegner abzufeuern.",
+        "Es kann ganze Berge einebnen, indem es Energie\nentlädt, die es in seinem Kern gesammelt und\nverdichtet hat.",
+        "Es verarbeitet Sonnenstrahlen in seinem Energiekern zu\nLichtkugeln weiter, um sie im Kampf auf seinen Gegner\nabzufeuern.",
+        "Es kann ganze Berge einebnen, indem es Energie entlädt,\ndie es in seinem Kern gesammelt und verdichtet hat.",
+        "Es verarbeitet Sonnenstrahlen zu Energiekugeln\nvon ungeheurer Stärke. Nachts sowie bei Regen\nkann es diese jedoch nicht abfeuern.",
+        "Es verfügt über gewaltige Stärke und ist\ndeshalb bei Bauarbeitern sehr beliebt.\nDiese wählen es oft als Partner-Pokémon.",
+        "Wenn es mit geballter Kraft seine gesamte\nEnergie entlädt, führt das dazu, dass sich auf\nseinem Körper unzählige Risse auftun.",
+        "Es absorbiert Sonnenstrahlen, um sie als Energie\nwieder zu entladen. Üblicherweise versteckt es\nsich tief unter der Erde.",
+        "Aufgrund seiner Stärke arbeitet es zusammen mit\nMenschen und Patinaraja öfter mal als Aushilfe\nauf Baustellen oder in Bergwerken.",
+        "Seine Energiekugeln können einen Lastwagen\ndurch die Luft schleudern. Diese kann es aber\nnur bei schönem Wetter abfeuern."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+    "name": "Brockoloss",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 260.0
+}

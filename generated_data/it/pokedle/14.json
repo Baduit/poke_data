@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 1,
+    "height": 0.6,
+    "name": "Kakuna",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 10.0
+}

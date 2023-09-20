@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Vive en compañía de Dreepy, a los que hospeda\nen el interior de sus cuernos. Los dispara a\nvelocidad supersónica en combate.",
+        "Al parecer, los Dreepy que residen en sus\ncuernos esperan con ilusión el momento de ser\npropulsados a velocidad supersónica."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "name": "Dragapult",
+    "types": [
+        "Dragón",
+        "Fantasma"
+    ],
+    "weight": 50.0
+}

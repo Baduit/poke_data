@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "영력이 높아져서 껍질에서\n해방되었다. 영체로\n핵이 되는 영혼을 지킨다.",
+        "혼을 감싸는 영체의 몸은\n주의가 필요하다. 만지면\n돌처럼 움직일 수 없게 된다."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+    "name": "산호르곤",
+    "types": [
+        "고스트"
+    ],
+    "weight": 0.4
+}

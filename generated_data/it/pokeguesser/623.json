@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Si narra che gli antichi costruttori dei Golurk avessero\nordinato loro di proteggere gli uomini e i Pokémon.",
+        "Vola alla velocità del suono. Se rimuove il sigillo che\nha sul petto, sprigiona un’energia incontrollabile.",
+        "Si narra che gli antichi costruttori dei Golurk avessero\nordinato loro di proteggere gli uomini e i Pokémon.",
+        "Vola alla velocità del suono. Se rimuove il sigillo che ha sul\npetto, sprigiona un’energia incontrollabile.",
+        "Pare che sia stato creato dagli antichi per\naiutare nei lavori pesanti. Esegue gli ordini del\nsuo padrone senza battere ciglio.",
+        "Se il sigillo che ha sul petto viene rimosso, perde\nil controllo e distrugge tutto ciò che incontra,\nriducendo intere città in macerie.",
+        "Nelle mura degli antichi castelli si trovano dei\nbasamenti, simili a quelli dei cannoni, dai quali\ni Golurk potevano sparare i loro raggi.",
+        "Si dice che all’interno del corpo abbia un motore\nperpetuo che produce energia, ma a tutt’oggi\nnon è ancora chiaro se sia così."
+    ],
+    "height": 2.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+    "name": "Golurk",
+    "types": [
+        "Terra",
+        "Spettro"
+    ],
+    "weight": 330.0
+}

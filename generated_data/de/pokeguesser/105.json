@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Es ist klein und war ursprünglich sehr schwach.\nErst als es anfing Knochen einzusetzen, wurde es wild.",
+        "Der Knochen, den dieses Pokémon hält, ist seine\nPrimärwaffe. Es wirft ihn wie einen Bumerang.",
+        "Knogga ist eine entwickelte Form von Tragosso, die den\nVerlust der Mutter überwunden hat und stärker geworden ist.\nDie gestählte, abgehärtete Seele dieses Pokémon ist nur\nschwer zu brechen.",
+        "Knogga ist eine entwickelte Form von Tragosso, die den\nVerlust der Mutter überwunden hat und stärker geworden ist.\nDie gestählte, abgehärtete Seele dieses Pokémon ist nur\nschwer zu brechen.",
+        "Vor der Entwicklung war es schwach und\nängstlich. Jetzt ist es hitzköpfig und schlägt\nwild mit einem Knochen um sich.",
+        "Es wirft seinen Knochen bumeranggleich nach\nGrypheldis, dem Erzfeind seiner Vorstufe, um es\nvom Himmel zu holen und sich an ihm zu rächen.",
+        "Es wirft seinen Knochen nach Grypheldis, um es\nvom Himmel zu holen. Man nimmt an, dass es\nsich für seine Mutter an ihm rächen will.",
+        "Es kommuniziert mit seinen Kameraden durch\nrhythmisches Knochenklappern. Fast 50 Muster\nsind bisher bekannt.",
+        "Einst war es klein und schwach, doch jetzt ist es\ngeschickt im Umgang mit seinem Knochen und\nverhält sich äußerst brutal.",
+        "Einst war es klein und schwach, doch jetzt ist es\ngeschickt im Umgang mit seinem Knochen und\nverhält sich äußerst brutal.",
+        "Als es seine Trauer überwand, entwickelte es sich\nund wurde stärker. Mit seinem Knochen als Waffe\nstellt sich Knogga mutig seinen Feinden.",
+        "Durch die Entwicklung wurde der Schädel seiner\nMutter, den es stets trug, zu einem Teil von ihm\nund es bekam einen aggressiven Charakter."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "name": "Knogga",
+    "types": [
+        "Boden"
+    ],
+    "weight": 45.0
+}

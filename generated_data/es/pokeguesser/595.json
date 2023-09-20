@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "No puede generar electricidad por sí mismo, así que se\nencarama a Pokémon grandes y absorbe su energía\nestática.",
+        "Se agarra a Pokémon de gran tamaño, absorbe su\nelectricidad estática y la guarda en una bolsa interna.",
+        "No puede generar electricidad por sí mismo, así que se\nencarama a Pokémon grandes y absorbe su energía estática.",
+        "Se agarra a Pokémon de gran tamaño, absorbe su electricidad\nestática y la guarda en una bolsa interna.",
+        "No puede generar electricidad por sí mismo,\nasí que se encarama a otros Pokémon y absorbe\nsu energía estática.",
+        "Se agarra a otros Pokémon para absorber su\nelectricidad estática. Es muy común verlo\naferrado a las posaderas de un Yamper."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "name": "Joltik",
+    "types": [
+        "Bicho",
+        "Eléctrico"
+    ],
+    "weight": 0.6
+}

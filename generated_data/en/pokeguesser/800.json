@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Reminiscent of the Ultra Beasts, this life-form,\napparently asleep underground, is thought to\nhave come from another world in ancient times.",
+        "Light is apparently the source of its energy.\nIt has an extraordinarily vicious disposition\nand is constantly firing off laser beams.",
+        "It looks somehow pained as it rages around in\nsearch of light, which serves as its energy.\nIt’s apparently from another world.",
+        "Light is the source of its energy. If it isn’t\ndevouring light, impurities build up in it and on it,\nand Necrozma darkens and stops moving.",
+        "It survives by absorbing light. After a long time\nspent slumbering underground, impurities\naccumulated within it, causing its body to darken.",
+        "It needs light to survive, and it goes on a\nrampage seeking it out. Its laser beams will\ncut anything to pieces."
+    ],
+    "height": 2.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
+    "name": "Necrozma",
+    "types": [
+        "Psychic"
+    ],
+    "weight": 230.0
+}

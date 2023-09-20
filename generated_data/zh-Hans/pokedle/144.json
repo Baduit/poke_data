@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 1,
+    "height": 1.7,
+    "name": "急冻鸟",
+    "types": [
+        "冰",
+        "飞行"
+    ],
+    "weight": 55.4
+}

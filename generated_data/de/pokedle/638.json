@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 2.1,
+    "name": "Kobalium",
+    "types": [
+        "Stahl",
+        "Kampf"
+    ],
+    "weight": 250.0
+}

@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Son grand nez lui permet de lire\nles rêves d’autrui. Il adore les\nsonges amusants.",
+        "Son grand nez lui permet de lire\nles rêves d’autrui. Il adore les\nsonges amusants.",
+        "Il endort ses ennemis et dévore leurs songes.\nS’il mange trop de cauchemars, il fait une indigestion.",
+        "Si vous pensez avoir rêvé mais que vous ne vous en\nsouvenez pas, c’est que Soporifik a tout mangé.",
+        "Lorsque les enfants ont le nez qui les démange en dormant,\nc’est sans doute parce que ce Pokémon se tient au-dessus\nde leur oreiller, afin d’essayer de manger leurs rêves par\nleurs narines.",
+        "Lorsque les enfants ont le nez qui les démange en dormant,\nc’est sans doute parce que ce Pokémon se tient au-dessus\nde leur oreiller, afin d’essayer de manger leurs rêves par\nleurs narines.",
+        "Un Pokémon qui se nourrit de rêves.\nOn suppose qu’il a un ancêtre commun avec\nMunna et Mushana.",
+        "Les rêves agréables ont meilleur goût. S’il vous\nconsidère comme un ami, il peut transformer les\nvôtres en ceux qu’il a trouvés les plus délicieux.",
+        "Il aime musarder près des parcs d’attractions :\naprès y avoir passé une bonne journée, les\nenfants font de beaux rêves, dont il se délecte.",
+        "Il regarde ses proies dormir et avale leurs rêves.\nLes cauchemars ayant un petit goût aigrelet,\nil a tendance à les bouder.",
+        "Si vous dormez tout le temps près de lui,\nil partagera parfois avec vous les rêves\nqu’il a dévorés par le passé.",
+        "Si vous dormez tout le temps près de lui,\nil partagera parfois avec vous les rêves\nqu’il a dévorés par le passé."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "name": "Soporifik",
+    "types": [
+        "Psy"
+    ],
+    "weight": 32.4
+}

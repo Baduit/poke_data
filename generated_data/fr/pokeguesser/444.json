@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Toujours à la recherche d’objets\nbrillants, il arpente les grottes\npour constituer son butin.",
+        "Toujours à la recherche d’objets\nbrillants, il arpente les grottes\npour constituer son butin.",
+        "Toujours à la recherche d’objets brillants, il arpente\nles grottes pour constituer son butin.",
+        "Carmache accumule les pierres précieuses qu’il\ndéterre quand il entreprend d’agrandir son nid.",
+        "Toujours à la recherche d’objets brillants, il arpente\nles grottes pour constituer son butin.",
+        "Carmache accumule les pierres précieuses qu’il déterre quand\nil entreprend d’agrandir son nid.",
+        "Il perd parfois ses écailles quand il mue.\nLes remèdes à base d’écailles de Carmache\nsont de puissants toniques.",
+        "Il adore tout ce qui brille. Au fond de sa tanière,\nil contemple les joyaux qu’il a dérobés et les\nStrassie qu’il a kidnappés.",
+        "Il adore tout ce qui brille, et rien ne l’énerve plus\nqu’un Ténéfix s’en prenant à un Strassie. S’il est\ntémoin d’une telle agression, il passe à l’attaque.",
+        "Il mue régulièrement au cours de sa croissance.\nLes écailles ainsi tombées peuvent être pilées\npour préparer des remèdes traditionnels.",
+        "Il émet des ultrasons avec les deux appendices\nsur sa tête pour sonder les grottes obscures.",
+        "Il cache des pierres précieuses dans le sol\nde sa grotte, et accueille à coups de griffes\net de crocs quiconque ose y pénétrer."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "name": "Carmache",
+    "types": [
+        "Dragon",
+        "Sol"
+    ],
+    "weight": 56.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 3,
+    "height": 0.3,
+    "name": "毒蔷薇",
+    "types": [
+        "草",
+        "毒"
+    ],
+    "weight": 2.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Ein warmherziges Pokémon, das über heilende\nund segnende Kräfte verfügt. In längst\nvergangenen Zeiten herrschte es über Galar.",
+        "Ein legendärer König, der einst Galar regierte.\nCoronospa besitzt die Macht, Herzen zu\nbesänftigen und Pflanzen gedeihen zu lassen."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "name": "Coronospa",
+    "types": [
+        "Psycho",
+        "Pflanze"
+    ],
+    "weight": 7.7
+}

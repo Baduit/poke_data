@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Munja",
+    "types": [
+        "Insecte",
+        "Spectre"
+    ],
+    "weight": 1.2
+}

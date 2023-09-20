@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "当天空黑暗，落雷\n不断时，这只传说的\n宝可梦就会出现。",
+        "当天空黑暗，落雷\n不断时，这只传说的\n宝可梦就会出现。",
+        "能够随心所欲地操纵雷电。\n据传说，它的巢穴\n处在漆黑的雷云中。",
+        "传说的鸟宝可梦。\n据说只要它一摩擦翅膀，\n就会立刻发生落雷。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "name": "闪电鸟",
+    "types": [
+        "电",
+        "飞行"
+    ],
+    "weight": 52.6
+}

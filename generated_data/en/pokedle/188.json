@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Skiploom",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "weight": 1.0
+}

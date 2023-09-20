@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "會在自己喜歡的石頭上開洞\n當成住所。對石丸子還有\n小炭仔來說是天敵。",
+        "如果找不到大小合適\n的石頭來當成自己的家，\n牠也會住到河馬獸的洞裡。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "name": "石居蟹",
+    "types": [
+        "蟲",
+        "岩石"
+    ],
+    "weight": 14.5
+}

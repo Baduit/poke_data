@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "在踢中敌人的瞬间，\n脚底会变得像钻石般坚硬，\n将对手踢成碎片。",
+        "在踢中敌人的瞬间，\n脚底会变得像钻石般坚硬，\n将对手踢成碎片。",
+        "拥有卓越的平衡感。\n无论处于什么姿势都可以\n连续施展踢击的厉害角色。",
+        "腿能自由地伸缩，\n即使离得很远，\n也能把对手踢飞。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "name": "飞腿郎",
+    "types": [
+        "格斗"
+    ],
+    "weight": 49.8
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Les bateaux qui s’aventurent sur\nson territoire coulent, et Moyade\naspire l’énergie vitale des marins.",
+        "Il se déplace en projetant l’eau de mer\nqu’il accumule dans son corps. Son plat\npréféré est l’énergie vitale.",
+        "Il est presque entièrement fait d’eau de mer.\nOn dit qu’il vit dans un palais fait des épaves des\nbateaux qu’il a coulés.",
+        "Les bateaux qui s’aventurent sur son territoire\ncoulent, et Moyade aspire l’énergie vitale des marins.",
+        "Il est presque entièrement fait d’eau de mer. On dit qu’il vit\ndans un palais fait des épaves des bateaux qu’il a coulés.",
+        "Les bateaux qui s’aventurent sur son territoire coulent,\net Moyade aspire l’énergie vitale des marins.",
+        "On le trouve souvent près des bateaux de\ncroisière et des pétroliers, où il cherche\ndes proies à entraîner dans les abysses.",
+        "On raconte que ce Pokémon, redouté par\nles marins, ôte la vie de ses proies en les\nentraînant dans les abysses.",
+        "Son corps est composé presque entièrement\nd’une substance identique à l’eau de mer.\nLes épaves de navires sont ses bastions.",
+        "Les nuits de pleine lune, ils se réunissent\nà la surface de la mer pour attendre leurs proies."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "name": "Moyade",
+    "types": [
+        "Eau",
+        "Spectre"
+    ],
+    "weight": 135.0
+}

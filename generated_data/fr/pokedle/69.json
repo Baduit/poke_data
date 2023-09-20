@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 1,
+    "height": 0.7,
+    "name": "Chétiflor",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 4.0
+}

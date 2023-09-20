@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "腕の　形は　古代の　ドラゴン\nポケモンの　頭という　学説も\nあるが　証明されていない。",
+        "全身が　ドラゴンエネルギーの\n結晶。　すべての　ドラゴン\nポケモンの　力を　持つらしい。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+    "name": "レジドラゴ",
+    "types": [
+        "ドラゴン"
+    ],
+    "weight": 200.0
+}

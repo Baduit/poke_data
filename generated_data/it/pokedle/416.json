@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 4,
+    "height": 1.2,
+    "name": "Vespiquen",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 38.5
+}

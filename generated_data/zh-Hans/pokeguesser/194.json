@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在冰冷的水中生活。\n附近天气变凉之后，\n也会来到地上觅食。",
+        "为了在地面上行走时\n不让皮肤干燥，会用\n有毒的粘膜覆盖身体。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "name": "乌波",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 8.5
+}

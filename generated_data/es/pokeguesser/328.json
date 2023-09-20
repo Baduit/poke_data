@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Habita desiertos áridos. Cava fosas profundas, en las\nque espera que caiga su presa.",
+        "Excava fosas cóncavas de las cuales resulta imposible\nescapar y espera a que una presa caiga en su interior.",
+        "El nido de Trapinch está situado bajo la arena, en una zona\ncóncava. Este Pokémon espera con paciencia a que su presa\ncaiga en la misma. Con las fauces que tiene puede destruir\nhasta piedras.",
+        "Trapinch es un cazador paciente. Suele cavar una fosa\nprofunda en el desierto y esperar a que su presa caiga en\nella. Este Pokémon puede aguantar toda una semana sin\nbeber nada de agua.",
+        "Puede sobrevivir una semana entera sin comer.\nSe queda muy quieto en su fosa, esperando a\nque se acerquen sus presas.",
+        "Cava su nido de forma cóncava en la arena y, si\naparece una roca que le molesta, la destroza\ncon sus grandes mandíbulas.",
+        "Puede triturar rocas con su mandíbula, pero su\npeso le impide darse la vuelta si lo tumban. Los\nSandile sacan provecho de este punto débil.",
+        "Construye un nido, que también sirve de trampa,\ny espera pacientemente a su presa. Durante la\nnoche duerme enterrado en la arena.",
+        "Si una presa cae en las fosas cóncavas de arena\nque cava en el desierto, no podrá salir de ellas.",
+        "Excava fosas cóncavas, de las cuales resulta\nimposible escapar, y espera a que una presa\ncaiga en su interior."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "name": "Trapinch",
+    "types": [
+        "Tierra"
+    ],
+    "weight": 15.0
+}

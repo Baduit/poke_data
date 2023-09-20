@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Thundurus",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "weight": 61.0
+}

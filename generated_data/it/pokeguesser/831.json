@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Il suo vello riccioluto gli fornisce una perfetta\nimbottitura. Non si farebbe nulla nemmeno\ncadendo da un precipizio.",
+        "Se gli cresce troppo il pelo, non riesce più a\nmuoversi. Il tessuto fatto con la sua lana è\nsorprendentemente resistente."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+    "name": "Wooloo",
+    "types": [
+        "Normale"
+    ],
+    "weight": 6.0
+}

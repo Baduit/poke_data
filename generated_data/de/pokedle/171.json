@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 2,
+    "height": 1.2,
+    "name": "Lanturn",
+    "types": [
+        "Wasser",
+        "Elektro"
+    ],
+    "weight": 22.5
+}

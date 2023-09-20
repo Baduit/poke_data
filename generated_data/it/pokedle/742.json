@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 7,
+    "height": 0.1,
+    "name": "Cutiefly",
+    "types": [
+        "Coleottero",
+        "Folletto"
+    ],
+    "weight": 0.2
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 1,
+    "height": 1.3,
+    "name": "Nidoqueen",
+    "types": [
+        "Veleno",
+        "Terra"
+    ],
+    "weight": 60.0
+}

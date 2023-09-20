@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "由于会朝四周释放足以\n引起头痛的精神力量，\n其他生物都躲得远远的。",
+        "又被称为森林魔女。\n如果有人大吵大闹，可能会\n被它用触手上的爪子撕碎。"
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "name": "布莉姆温",
+    "types": [
+        "超能力",
+        "妖精"
+    ],
+    "weight": 5.1
+}

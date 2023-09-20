@@ -1,0 +1,10 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 0.8,
+    "name": "Accelgor",
+    "types": [
+        "Coleottero"
+    ],
+    "weight": 25.3
+}

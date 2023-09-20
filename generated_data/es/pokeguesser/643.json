@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Pokémon legendario capaz de abrasar el mundo con\nsus llamas. Ayuda a quienes persiguen un mundo\nveraz.",
+        "Cuando la cola de Reshiram arde, su energía calorífica\naltera la atmósfera, y el tiempo meteorológico cambia.",
+        "Pokémon legendario capaz de abrasar el mundo con sus\nllamas. Ayuda a quienes persiguen un mundo veraz.",
+        "Cuando la cola de Reshiram arde, su energía calorífica altera\nla atmósfera, y el tiempo meteorológico cambia.",
+        "Surca los cielos cual cohete a reacción\nexpulsando llamas por la cola. Se cree que\npodría reducir a cenizas el mundo entero.",
+        "Cuenta la leyenda que sus llamas reducirán a\ncenizas todo país cuyas gentes desprecien la\nverdad y estén mancilladas por la codicia."
+    ],
+    "height": 3.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "name": "Reshiram",
+    "types": [
+        "Dragón",
+        "Fuego"
+    ],
+    "weight": 330.0
+}

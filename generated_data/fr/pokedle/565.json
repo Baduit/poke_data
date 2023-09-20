@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Mégapagos",
+    "types": [
+        "Eau",
+        "Roche"
+    ],
+    "weight": 81.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "C’est une bonne pâte de nature, mais si par\nmalheur il s’énerve, il peut détruire tout ce qui\nl’entoure de son souffle puissant.",
+        "Il adore les enfants rieurs. Il n’hésite pas à\ndescendre de sa montagne pour venir en ville\njouer avec ses petits amis.",
+        "S’il apprend qu’un enfant avec lequel il s’est lié\nd’amitié est persécuté par ses camarades,\nil trouve leur maison et la réduit en cendres.",
+        "Il vient en ville pour jouer avec les enfants,\net les protège en cas de danger. Les parents\npeuvent donc avoir l’esprit tranquille !",
+        "Il vit dans les montagnes culminant à plus\nde 3 000 m d’altitude. Il se rend parfois en ville\npour jouer avec les petits enfants.",
+        "Il est d’un naturel sociable et aimable, mais quand\nil se met en colère, il déchaîne des bourrasques\nqui emportent tout sur leur passage."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "name": "Draïeul",
+    "types": [
+        "Normal",
+        "Dragon"
+    ],
+    "weight": 185.0
+}

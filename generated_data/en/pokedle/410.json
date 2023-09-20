@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Shieldon",
+    "types": [
+        "Rock",
+        "Steel"
+    ],
+    "weight": 57.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 7,
+    "height": 0.4,
+    "name": "好坏星",
+    "types": [
+        "毒",
+        "水"
+    ],
+    "weight": 8.0
+}

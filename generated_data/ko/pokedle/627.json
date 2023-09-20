@@ -1,0 +1,11 @@
+{
+    "color": "하양",
+    "generation": 5,
+    "height": 0.5,
+    "name": "수리둥보",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 10.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Sein Körper besteht aus Stein. Bricht im Kampf\netwas heraus, wird es durch Stein wieder ersetzt.",
+        "Die Steine, aus denen sein Körper besteht,\nstammen aus den unterschiedlichsten Ecken der Welt.",
+        "Regirock wurde vor langer Zeit von Menschen\nweggeschlossen. Wenn der Körper dieses Pokémon\nim Kampf Schaden nimmt, sucht es nach passenden\nSteinen, um sich selbst zu reparieren.",
+        "Regirocks Körper besteht komplett aus Steinen.\nErst kürzlich stellte man erstaunt fest, dass die\nSteine alle an unterschiedlichen Orten ausgegraben\nwurden.",
+        "Sein Körper besteht vollständig aus Steinen.\nWenn Teile davon abbröckeln, ersetzt Regirock\ndiese einfach durch neue Steine.",
+        "Selbst mit modernster Technologie konnten bei\nder Analyse seines Steinkörpers weder Herz noch\nGehirn gefunden werden."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "name": "Regirock",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 230.0
+}

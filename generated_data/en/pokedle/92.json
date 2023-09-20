@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 1,
+    "height": 1.3,
+    "name": "Gastly",
+    "types": [
+        "Ghost",
+        "Poison"
+    ],
+    "weight": 0.1
+}

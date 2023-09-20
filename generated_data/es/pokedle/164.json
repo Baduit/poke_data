@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 2,
+    "height": 1.6,
+    "name": "Noctowl",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 40.8
+}

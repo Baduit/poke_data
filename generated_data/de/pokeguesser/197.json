@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Mondlicht hat die genetische Struktur von Evoli\nverändert. Im Dunkeln wartet es auf Beute.",
+        "Wird es der Aura des Mondes ausgesetzt,\nglühen seine Ringe und es wird von einer\nmysteriösen Kraft durchströmt.",
+        "Nachtara hat sich dadurch entwickelt, dass es den Mondwellen\nausgesetzt war. Es versteckt sich im Schutze der Dunkelheit\nund wartet darauf, dass sich ein Feind bewegt. Die Ringe an\nseinem Körper leuchten auf, wenn es angreift.",
+        "Nachtara hat sich dadurch entwickelt, dass es den Mondwellen\nausgesetzt war. Es versteckt sich im Schutze der Dunkelheit\nund wartet darauf, dass sich ein Feind bewegt. Die Ringe an\nseinem Körper leuchten auf, wenn es angreift.",
+        "Ist es wütend, feuert es tödlichen Giftschweiß\naus all seinen Poren auf die Augen seines\nGegners ab.",
+        "Sein schwarzes Fell verschmilzt mit der Nacht.\nEs lauert seiner Beute geduldig auf und beißt\nihr bei erster Gelegenheit die Kehle durch.",
+        "Die Pupillen dieses nachtaktiven Pokémon sind\ngroß genug, um auch in der schwärzesten Nacht\nnoch seine Beute deutlich erkennen zu können.",
+        "Es lauert seiner Beute im Schutz der Dunkelheit\nauf. Greift es an, erzeugen die Ringe an seinem\nKörper ein schwaches, ominöses Leuchten.",
+        "Ist es wütend, feuert es giftigen Schweiß aus all\nseinen Poren auf die Augen seines Gegners ab.",
+        "Bei Vollmond oder bei Aufregung leuchten die\nringförmigen Muster auf seinem Körper gelb auf."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "name": "Nachtara",
+    "types": [
+        "Unlicht"
+    ],
+    "weight": 27.0
+}

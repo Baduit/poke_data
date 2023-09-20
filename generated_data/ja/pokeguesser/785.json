@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "好奇心旺盛な　メレメレの\n守り神。　雷雲を　呼び\n雷を　身体に　溜め込む。",
+        "目にも　止まらぬ　スピードで　敵を\nかく乱する。　ひどく　怒りっぽいが\nなんで　怒ったかは　すぐ　忘れる。",
+        "守り神と　呼ばれるが　気分を\n害する　人間や　ポケモンには\n襲い掛かる　荒ぶる神　でもある。",
+        "雷を　操る　メレメレの\n守り神。　好奇心旺盛で\n時折　人前に　現れる。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "name": "カプ・コケコ",
+    "types": [
+        "でんき",
+        "フェアリー"
+    ],
+    "weight": 20.5
+}

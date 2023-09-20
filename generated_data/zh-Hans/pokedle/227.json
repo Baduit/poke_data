@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 2,
+    "height": 1.7,
+    "name": "盔甲鸟",
+    "types": [
+        "钢",
+        "飞行"
+    ],
+    "weight": 50.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 3,
+    "height": 2.0,
+    "name": "트로피우스",
+    "types": [
+        "풀",
+        "비행"
+    ],
+    "weight": 100.0
+}

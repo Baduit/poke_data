@@ -1,0 +1,11 @@
+{
+    "color": "青色",
+    "generation": 6,
+    "height": 1.5,
+    "name": "ゲッコウガ",
+    "types": [
+        "みず",
+        "あく"
+    ],
+    "weight": 40.0
+}

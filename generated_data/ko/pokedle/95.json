@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 1,
+    "height": 8.8,
+    "name": "롱스톤",
+    "types": [
+        "바위",
+        "땅"
+    ],
+    "weight": 210.0
+}

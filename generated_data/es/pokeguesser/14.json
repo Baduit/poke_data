@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Casi incapaz de moverse, este Pokémon solo puede\nendurecer su caparazón para protegerse.",
+        "Se esconde de sus atacantes entre las ramas de los\nárboles mientras espera a evolucionar.",
+        "Kakuna permanece prácticamente inmóvil al encaramarse a\nlos árboles, aunque la actividad interna de su organismo\ntiene un ritmo frenético, pues se prepara para su evolución.\nPrueba de esto es la alta temperatura de su caparazón.",
+        "Kakuna permanece prácticamente inmóvil al encaramarse a\nlos árboles, aunque la actividad interna de su organismo\ntiene un ritmo frenético, pues se prepara para su evolución.\nPrueba de esto es la alta temperatura de su caparazón.",
+        "Aunque es casi incapaz de moverse, en caso\nde sentirse amenazado puede envenenar a los\nenemigos con su aguijón.",
+        "Aunque es casi incapaz de moverse, en caso\nde sentirse amenazado puede envenenar a los\nenemigos con su aguijón."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "name": "Kakuna",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 10.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Wer die von ihm verstreuten Schuppen berührt,\nwird gelähmt und muss sich setzen.",
+        "Seine Flügel sind mit staubähnlichen Schuppen\nüberzogen. Mit jedem Flügelschlag verliert es\nhochgiftigen Staub.",
+        "Omot ist ein nachtaktives Pokémon. Kleine Insekten,\ndie vom Licht in der Dunkelheit angezogen Straßenlaternen\numschwärmen, sind seine bevorzugte Beute.",
+        "Omot ist ein nachtaktives Pokémon. Kleine Insekten,\ndie vom Licht in der Dunkelheit angezogen Straßenlaternen\numschwärmen, sind seine bevorzugte Beute.",
+        "Berührt man die staubartigen Schuppen auf\nseinen Flügeln, heften diese sich hartnäckig am\nKörper an und sondern darüber hinaus Gift ab.",
+        "Berührt man die staubartigen Schuppen auf\nseinen Flügeln, heften diese sich hartnäckig am\nKörper an und sondern darüber hinaus Gift ab."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "name": "Omot",
+    "types": [
+        "Käfer",
+        "Gift"
+    ],
+    "weight": 12.5
+}

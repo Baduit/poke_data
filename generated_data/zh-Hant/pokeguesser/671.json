@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "會操縱自己培育的花朵。\n花潔夫人使出的落英繽紛\n有著壓倒性的力與美。",
+        "擁有數百年的壽命。\n據說牠終其一生都會\n不斷守護著庭園。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+    "name": "花潔夫人",
+    "types": [
+        "妖精"
+    ],
+    "weight": 10.0
+}

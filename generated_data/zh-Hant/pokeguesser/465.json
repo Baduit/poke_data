@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "最近的研究發現，牠這雙\n能夠自由伸縮的手臂其實\n是由成束的藤蔓形成的。",
+        "棲息的地方越溫暖，藤蔓就會\n長得越快。當藤蔓變得太長時，\n就會自己扯斷它來調整長度。"
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "name": "巨蔓藤",
+    "types": [
+        "草"
+    ],
+    "weight": 128.6
+}

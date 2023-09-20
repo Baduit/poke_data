@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Archéomire",
+    "types": [
+        "Acier",
+        "Psy"
+    ],
+    "weight": 60.5
+}

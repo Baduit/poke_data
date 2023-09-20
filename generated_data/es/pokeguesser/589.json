@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Se defienden de los ataques con el caparazón que\nroban a los Shelmet. Atacan con sus dos mortíferas\nlanzas.",
+        "Pokémon que evolucionó poniéndose el caparazón de\nShelmet. Su armazón de acero le protege todo el\ncuerpo.",
+        "Se defienden de los ataques con el caparazón que roban a\nlos Shelmet. Atacan con sus dos mortíferas lanzas.",
+        "Pokémon que evolucionó poniéndose el caparazón de\nShelmet. Su armazón de acero le protege todo el cuerpo.",
+        "Le roba el caparazón a un Shelmet y lo usa como\narmadura. Este Pokémon es extremadamente\npopular en la región de Galar.",
+        "Ataca a los enemigos con sus lanzas. Aparece\nrepresentado en pleno duelo contra un Sirfetch’d\nen un famoso cuadro."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+    "name": "Escavalier",
+    "types": [
+        "Bicho",
+        "Acero"
+    ],
+    "weight": 33.0
+}

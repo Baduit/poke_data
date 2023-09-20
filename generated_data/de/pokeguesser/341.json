@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Egal, wie schmutzig der Fluss ist, in dem sie leben,\nsie passen sich daran an und vermehren sich.\nSie sind hart im Nehmen.",
+        "Ein robustes Pokémon, das sich jeder Umgebung\nanpassen kann. Seine Zangen geben keine Beute frei.",
+        "Krebscorps ist kein heimisches Pokémon, sondern wurde als\nHaustier importiert. Schließlich verwilderte es. Dieses Pokémon\nist mittlerweile sehr robust und hat seine Population\nvergrößert.",
+        "Krebscorps fängt seine Beute mit seinen scharfen Krallen.\nEs hat keine besonderen Ansprüche an seine Nahrung,\nes frisst einfach alles. Dieses Pokémon lebt gern in\nschmutzigem Wasser.",
+        "Da immer mehr Krebscorps von überforderten\nTrainern in die Freiheit entlassen werden, sieht\nman dieses Pokémon nun auch oft in Alola.",
+        "Sie sind sehr gut darin, sich an ihre Umwelt\nanzupassen. In Gräben mit trübem Wasser\nfindet man nur sie und Barschwa.",
+        "Egal, wie schmutzig der Fluss ist, in dem sie\nleben, sie passen sich daran an und vermehren\nsich. Sie sind hart im Nehmen.",
+        "Es stammt eigentlich aus dem Ausland und\nverwilderte. Es passt sich auch an die dreckigsten\nFlüsse an."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "name": "Krebscorps",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 11.5
+}

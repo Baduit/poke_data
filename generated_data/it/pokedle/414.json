@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 4,
+    "height": 0.9,
+    "name": "Mothim",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 23.3
+}

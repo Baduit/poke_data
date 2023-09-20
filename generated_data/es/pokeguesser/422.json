@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "No hay que apretarle muy fuerte, ya que, si lo haces,\nsecreta un misterioso fluido morado.",
+        "Shellos adapta la forma y color de su cuerpo\ndependiendo del lugar en donde viva.",
+        "No hay que apretarle muy fuerte, ya que, si lo haces, secreta\nun misterioso fluido morado.",
+        "Shellos adapta la forma y color de su cuerpo dependiendo\ndel lugar en donde viva.",
+        "Suele vivir cerca del agua y su forma y color\nvarían en función de factores como su hábitat\no su alimentación.",
+        "Al tocarlo, segrega un fluido violáceo que\nmancha las manos y que es extremadamente\ndifícil de eliminar aún tras repetidos lavados.",
+        "Por lo general suele habitar en el agua, pero\ntambién puede moverse por tierra firme siempre\ny cuando su piel no se reseque por completo.",
+        "Cuando se siente amenazado, secreta un fluido\nmorado. Según se cree, podría tratarse de un\nfenómeno similar al de los sudores fríos.",
+        "Su aspecto cambia según el entorno. Al parecer,\nesta es la forma que adopta en mares de aguas\ncálidas.",
+        "Si se le aprieta muy fuerte, secreta un misterioso\nfluido morado que, aunque inofensivo, resulta\ndesagradable por su viscosidad."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "name": "Shellos",
+    "types": [
+        "Agua"
+    ],
+    "weight": 6.3
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es pequeño pero violento. No dudará en morder\ncualquier cosa que se mueva cerca.",
+        "Sus desarrolladas y potentes fauces pueden romper\ncualquier cosa. Su Entrenador debe tener cuidado.",
+        "Totodile tiene cuerpo pequeño, pero fuertes mandíbulas.\nA veces, piensa que solo está dando un mordisquito y hace\nunas heridas bastante considerables.",
+        "Totodile tiene cuerpo pequeño, pero fuertes mandíbulas.\nA veces, piensa que solo está dando un mordisquito y hace\nunas heridas bastante considerables."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+    "name": "Totodile",
+    "types": [
+        "Agua"
+    ],
+    "weight": 9.5
+}

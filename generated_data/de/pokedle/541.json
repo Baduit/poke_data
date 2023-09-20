@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Folikon",
+    "types": [
+        "Käfer",
+        "Pflanze"
+    ],
+    "weight": 7.3
+}

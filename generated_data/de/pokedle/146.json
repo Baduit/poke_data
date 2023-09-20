@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Lavados",
+    "types": [
+        "Feuer",
+        "Flug"
+    ],
+    "weight": 60.0
+}

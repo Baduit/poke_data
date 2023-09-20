@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 1,
+    "height": 0.5,
+    "name": "Mystherbe",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 5.4
+}

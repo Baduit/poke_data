@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Milotic ist atemberaubend schön. Man sagt,\ndass diejenigen, die es sehen, vergessen zu kämpfen.",
+        "Dies ist das schönste Pokémon der Welt. Es gibt\nviele Kunstwerke, die Milotic darstellen.",
+        "Milotic soll das schönste aller Pokémon sein. Es hat die\nMacht, Emotionen wie Wut und Feindseligkeit zu besänftigen\nund somit erbitterten Streit zu vermeiden.",
+        "Milotic lebt auf dem Grund großer Seen. Wenn dieses\nPokémon rosa leuchtet, gibt es eine Energiewelle ab,\ndie einem zornigen Herzen wohltuende Ruhe verschaffen\nkann.",
+        "Milotic soll das schönste aller Pokémon sein.\nEs hat schon so manchem Künstler\nals Quelle der Inspiration gedient.",
+        "Es lebt auf dem Grund von klaren, ungetrübten\nSeen. Zu Kriegszeiten taucht es empor, um die\nMenschen zu besänftigen.",
+        "Es soll das schönste Pokémon sein, aber Trainer,\ndie Barschwa trainiert haben, weil sie es mögen,\nsollen nicht so begeistert sein.",
+        "Es lebt auf dem Grund großer Seen. Es heißt, der\nAnblick seiner Schönheit befreie jedes Herz von\nUnreinheit.",
+        "Milotic soll das schönste aller Pokémon sein.\nEs hat schon so manchem Künstler als Quelle\nder Inspiration gedient.",
+        "Es heißt, der Anblick seiner wunderschönen\nGestalt könne selbst das verrohteste Herz\nerweichen."
+    ],
+    "height": 6.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "name": "Milotic",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 162.0
+}

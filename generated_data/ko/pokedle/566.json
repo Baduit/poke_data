@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 5,
+    "height": 0.5,
+    "name": "아켄",
+    "types": [
+        "바위",
+        "비행"
+    ],
+    "weight": 9.5
+}

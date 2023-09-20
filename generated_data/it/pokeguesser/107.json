@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sferra pugni così potenti da polverizzare persino\nil cemento. Si riposa dopo 3 minuti di lotta.",
+        "Questo Pokémon ha lo spirito di un pugile\nprofessionista. I suoi pugni sono più rapidi di un\ntreno superveloce.",
+        "Si dice che Hitmonchan abbia l’animo di un pugile destinato\na partecipare al campionato mondiale. Questo Pokémon\nha uno spirito indomito e non demorde mai di fronte\nalle avversità.",
+        "Si dice che Hitmonchan abbia l’animo di un pugile destinato\na partecipare al campionato mondiale. Questo Pokémon\nha uno spirito indomito e non demorde mai di fronte\nalle avversità.",
+        "Attacca facendo ruotare i pugni come un\ntrapano. Grazie ad essi, è in grado di perforare\npersino un muro di cemento.",
+        "Attacca facendo ruotare i pugni come un\ntrapano. Grazie ad essi, è in grado di perforare\npersino un muro di cemento.",
+        "I suoi pugni fendono l’aria a una tale velocità\nche basta venire sfiorati per riportare\nuna scottatura.",
+        "Fende l’aria con i suoi pugni. Tuttavia, dopo\ntre minuti di lotta deve riprendere fiato."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "name": "Hitmonchan",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 50.2
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "1초에 킥을 10번 날릴 정도로\n발을 사용하는 기술에 능하다.\n날카로운 울음소리로 위협한다.",
+        "싸우게 되면 체내의\n불꽃이 세차게 타오른다.\n킥은 파괴력이 굉장하다.",
+        "산과 들을 뛰어다니며 하반신을 단련한다.\n스피드와 파워를 겸비한 다리는\n1초에 10번 킥을 날린다.",
+        "부리에서 토해 내는 작열하는 불꽃과\n뛰어난 파괴력의 킥으로 싸운다.\n울음소리가 커서 무척 시끄럽다."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "name": "영치코",
+    "types": [
+        "불꽃",
+        "격투"
+    ],
+    "weight": 19.5
+}

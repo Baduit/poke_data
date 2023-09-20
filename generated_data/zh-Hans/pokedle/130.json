@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 1,
+    "height": 6.5,
+    "name": "暴鲤龙",
+    "types": [
+        "水",
+        "飞行"
+    ],
+    "weight": 235.0
+}

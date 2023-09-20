@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "This guardian deity of Akala is guilelessly cruel.\nThe fragrant aroma of flowers is the source of\nits energy.",
+        "As it flutters about, it scatters its strangely\nglowing scales. Touching them is said to restore\ngood health on the spot.",
+        "It heals the wounds of people and Pokémon by\nsprinkling them with its sparkling scales. This\nguardian deity is worshiped on Akala.",
+        "Although called a guardian deity, Tapu Lele is\ndevoid of guilt about its cruel disposition and\ncan be described as nature incarnate."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "name": "Tapu Lele",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "weight": 18.6
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Una delle temibili Ultracreature.\nÈ stata avvistata mentre correva a una velocità\nimpressionante.",
+        "Un’Ultracreatura che cerca di evitare ogni\ncontatto con le cose di questo mondo, come\nse lo considerasse contaminato.",
+        "Una forma di vita proveniente da un altro mondo.\nIl suo corpo esile e flessibile nasconde una forza\ninaspettata.",
+        "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "name": "Pheromosa",
+    "types": [
+        "Coleottero",
+        "Lotta"
+    ],
+    "weight": 25.0
+}

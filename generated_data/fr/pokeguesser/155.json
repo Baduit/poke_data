@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ce Pokémon est un grand timide.\nLes flammes sur son dos s’intensifient\nlorsqu’il prend peur.",
+        "Ce Pokémon est un grand timide.\nLes flammes sur son dos s’intensifient\nlorsqu’il prend peur.",
+        "Il est timide et se roule en boule pour se protéger.\nAttaqué, il s’enflamme le dos pour riposter.",
+        "Ce Pokémon est un grand timide. Les flammes sur\nson dos s’intensifient lorsqu’il prend peur.",
+        "Héricendre se protège en faisant jaillir des flammes de\nson dos. Ces flammes peuvent être violentes si le Pokémon\nest en colère. Cependant, s’il est fatigué, seules quelques\nflammèches vacillent laborieusement.",
+        "Héricendre se protège en faisant jaillir des flammes de\nson dos. Ces flammes peuvent être violentes si le Pokémon\nest en colère. Cependant, s’il est fatigué, seules quelques\nflammèches vacillent laborieusement."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "name": "Héricendre",
+    "types": [
+        "Feu"
+    ],
+    "weight": 7.9
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Puede controlar los árboles a su voluntad. Retiene\nhasta el fin de sus días a los humanos que se adentran\nen el bosque y lo mancillan.",
+        "Sus raíces le permiten controlar los árboles del\nbosque, al funcionar como un sistema nervioso.\nEs amable con los Pokémon que habitan su cuerpo.",
+        "Puede controlar los árboles a su voluntad. Retiene hasta el fin\nde sus días a los humanos que se adentran en el bosque y lo\nmancillan.",
+        "Sus raíces le permiten controlar los árboles del bosque, al\nfuncionar como un sistema nervioso. Es amable con los\nPokémon que habitan su cuerpo.",
+        "Es amable con los seres que habitan los\nbosques, pero se cuenta que devora a quienes\nlos mancillan.",
+        "Controla los árboles con sus raíces. Si alguien\ntala un árbol en los bosques en los que habita,\nserá maldecido de por vida.",
+        "Se cree que es un demonio del bosque. Los\nleñadores solo se adentran llevando consigo\nPokémon de tipo Fuego, a los que detesta.",
+        "Este Pokémon controla a los árboles alargando\nlas raíces que surgen de sus pies, para así\nplantar cara a quienes perjudican el bosque.",
+        "Los humanos lo temen porque devora a quienes\nosen talar los árboles, pero es amable con los\nPokémon que habitan en el bosque.",
+        "Puede extender las finas raíces que le brotan de\nlas extremidades inferiores para conectarse con\nel resto de los árboles y controlarlos a voluntad."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "name": "Trevenant",
+    "types": [
+        "Fantasma",
+        "Planta"
+    ],
+    "weight": 71.0
+}

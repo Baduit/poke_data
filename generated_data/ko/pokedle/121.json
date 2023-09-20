@@ -1,0 +1,11 @@
+{
+    "color": "보라",
+    "generation": 1,
+    "height": 1.1,
+    "name": "아쿠스타",
+    "types": [
+        "물",
+        "에스퍼"
+    ],
+    "weight": 80.0
+}

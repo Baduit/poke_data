@@ -1,0 +1,11 @@
+{
+    "color": "하양",
+    "generation": 4,
+    "height": 1.3,
+    "name": "눈여아",
+    "types": [
+        "얼음",
+        "고스트"
+    ],
+    "weight": 26.6
+}

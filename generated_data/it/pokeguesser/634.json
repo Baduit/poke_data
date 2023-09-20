@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Le due teste non vanno d’accordo e si contendono la\nposizione di comando in base a quale mangia di più.",
+        "Quando ha consumato tutto il cibo di un territorio, si\nsposta altrove. Le sue due teste non vanno d’accordo.",
+        "Le due teste non vanno d’accordo e si contendono la\nposizione di comando in base a quale mangia di più.",
+        "Quando ha consumato tutto il cibo di un territorio, si sposta\naltrove. Le sue due teste non vanno d’accordo.",
+        "Perlustra il suo territorio in cerca di cibo. Le due\nteste si trovano spesso in disaccordo quando\ndevono decidere in che direzione andare.",
+        "Le due teste si rubano il cibo a vicenda.\nÈ sempre ricoperto di ferite, anche se non\nha lottato con nessuno."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "name": "Zweilous",
+    "types": [
+        "Buio",
+        "Drago"
+    ],
+    "weight": 50.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Saca las orejas por encima de la hierba para explorar\nel territorio. Le protege su cuerno venenoso.",
+        "Cambia la orientación de las grandes orejas que\ntiene para oír mejor. Si se enfada, despliega sus\npúas venenosas.",
+        "Nidoran♂ ha desarrollado músculos para mover las orejas y\norientarlas en cualquier dirección. De este modo, es capaz de\ncaptar hasta el sonido más leve.",
+        "Nidoran♂ ha desarrollado músculos para mover las orejas y\norientarlas en cualquier dirección. De este modo, es capaz de\ncaptar hasta el sonido más leve.",
+        "Mantiene sus grandes orejas levantadas, siempre\nalerta. Si advierte peligro, ataca con las púas\nvenenosas.",
+        "Mantiene sus grandes orejas levantadas, siempre\nalerta. Si advierte peligro, ataca con las púas\nvenenosas.",
+        "Mantiene sus grandes orejas levantadas, siempre\nalerta. Si advierte peligro, ataca inoculando una\npotente toxina con su cuerno frontal.",
+        "Pequeño pero valiente. Arriesgaría la vida en\ncombate con tal de proteger a su compañera."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "name": "Nidoran♂",
+    "types": [
+        "Veneno"
+    ],
+    "weight": 9.0
+}

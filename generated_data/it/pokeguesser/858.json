@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Tiene alla larga gli esseri viventi che si trovano\nnei paraggi emettendo onde psichiche così forti\nda far venire il mal di testa.",
+        "È conosciuto anche come “maga del bosco”.\nSe qualcuno fa troppo chiasso rischia di essere\nfatto a pezzettini dagli artigli sul suo tentacolo."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "name": "Hatterene",
+    "types": [
+        "Psico",
+        "Folletto"
+    ],
+    "weight": 5.1
+}

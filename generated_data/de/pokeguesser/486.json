@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Man sagt, es habe Pokémon aus einem Eisberg,\nFelsen und Magma nach seinem Abbild geschaffen.",
+        "Es gibt eine Legende, wonach dieses Pokémon\ndie Kontinente mit einem Seil gezogen hat.",
+        "Man sagt, es habe Pokémon aus einem Eisberg, Felsen und\nMagma nach seinem Abbild geschaffen.",
+        "Es gibt eine Legende, wonach dieses Pokémon die Kontinente\nmit einem Seil gezogen hat.",
+        "Überall auf der Welt kursieren Legenden, denen\nzufolge Regigigas Pokémon nach seinem Abbild\ngeschaffen habe.",
+        "Man sagt, es habe aus verschiedenen Materialien\nPokémon erschaffen und dann die Kontinente an\nihren jetzigen Standort bewegt."
+    ],
+    "height": 3.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "name": "Regigigas",
+    "types": [
+        "Normal"
+    ],
+    "weight": 420.0
+}

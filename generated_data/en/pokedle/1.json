@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 1,
+    "height": 0.7,
+    "name": "Bulbasaur",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 6.9
+}

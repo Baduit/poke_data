@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Ninjask",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 12.0
+}

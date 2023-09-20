@@ -1,0 +1,11 @@
+{
+    "color": "하양",
+    "generation": 5,
+    "height": 1.2,
+    "name": "탱그릴",
+    "types": [
+        "물",
+        "고스트"
+    ],
+    "weight": 33.0
+}

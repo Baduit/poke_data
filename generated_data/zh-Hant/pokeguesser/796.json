@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "有人目擊到牠全身噴湧出\n駭人電流的情景。\n是神秘生物ＵＢ的一種。",
+        "從究極之洞出現。\n因為襲擊了發電廠，\n被認為電力就是牠的能量。",
+        "在這個世界是危險的異類，\n但在原本棲息的世界裡，\n牠似乎是常見的普通生物。",
+        "被稱為究極異獸。\n也有一些會像樹木一樣，\n把手腳刺進地面動也不動。"
+    ],
+    "height": 3.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "name": "電束木",
+    "types": [
+        "電"
+    ],
+    "weight": 100.0
+}

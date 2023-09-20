@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "据说是即将登顶雪山，\n却罹难的登山家的遗憾，\n附在岩石上诞生而成。",
+        "从大大的嘴巴里喷出冷气，\n把猎物瞬间冻得硬邦邦的。\n就这么嘎嘣嘎嘣地享用食物。",
+        "将猎物冻住，整个咬住。\n但喜欢吃的是迷你冰等\n原本就冻着的宝可梦。",
+        "不那么坚硬的岩石是它的本体。\n能够冻住空气中的水分，\n将冰之装甲裹在身上。",
+        "拥有火焰也无法融化的\n冰之躯体。能让空气中的\n水分在一瞬间冻结。",
+        "用令空气中的水分\n瞬间冻结的力量，\n将猎物冰冻起来。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "name": "冰鬼护",
+    "types": [
+        "冰"
+    ],
+    "weight": 256.5
+}

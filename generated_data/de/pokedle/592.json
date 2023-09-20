@@ -1,0 +1,11 @@
+{
+    "color": "Weiß",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Quabbel",
+    "types": [
+        "Wasser",
+        "Geist"
+    ],
+    "weight": 33.0
+}

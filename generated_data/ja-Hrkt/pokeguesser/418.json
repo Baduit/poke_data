@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "２ほんの　しっぽを　スクリューの\nように　まわして　およぐ。もぐる\nときは　うきぶくろが　しぼむ。",
+        "くびの　うきぶくろを　ふくらませ\nすいめんから　かおを　だして\nあたりの　ようすを　うかがっている。",
+        "２ほんの　しっぽを　スクリューの\nように　まわして　およぐ。もぐる\nときは　うきぶくろが　しぼむ。",
+        "くびの　うきぶくろを　ふくらませ\nすいめんから　かおを　だして\nあたりの　ようすを　うかがっている。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+    "name": "ブイゼル",
+    "types": [
+        "みず"
+    ],
+    "weight": 29.5
+}

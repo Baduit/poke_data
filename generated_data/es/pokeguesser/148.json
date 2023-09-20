@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Sus cristalinos orbes parecen darle al Pokémon el\npoder de controlar el clima libremente.",
+        "Es un Pokémon misterioso. Está rodeado de una sutil\naura y tiene la capacidad de cambiar el clima.",
+        "Dragonair acumula grandes cantidades de energía dentro de\nsí. Dicen que altera el clima de la zona en la que está\ndescargando energía a través de las esferas de cristal que\ntiene en el cuello y en la cola.",
+        "Dragonair acumula grandes cantidades de energía dentro de\nsí. Dicen que altera el clima de la zona en la que está\ndescargando energía a través de las esferas de cristal que\ntiene en el cuello y en la cola.",
+        "Se dice que sus cristalinos orbes confieren a\neste Pokémon el poder de controlar el clima.",
+        "Ha sido venerado desde tiempos ancestrales\npor los pueblos agrícolas, debido a que con sus\npoderes puede controlar el clima.",
+        "Existe la creencia de que puede controlar el\nclima y a menudo se hallan ofrendas a orillas\nde los lagos donde habita.",
+        "Se dice que ver a este Pokémon serpenteando\npor los cielos en año nuevo es augurio de buena\nsalud para el año entrante.",
+        "Según un testigo, está rodeado por una extraña\naura, que le da un aspecto misterioso y místico.",
+        "Según un testigo, está rodeado por una extraña\naura, que le da un aspecto misterioso y místico.",
+        "Vive en lagos y mares de aguas cristalinas. Su\npoder para controlar el clima le permite alzar el\nvuelo llevado por el viento.",
+        "Acumula energía en las esferas de la cola para\ncontrolar el clima. La sutil aura que lo rodea le\nconfiere un aspecto misterioso y místico."
+    ],
+    "height": 4.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "name": "Dragonair",
+    "types": [
+        "Dragón"
+    ],
+    "weight": 16.5
+}

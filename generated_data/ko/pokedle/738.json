@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 7,
+    "height": 1.5,
+    "name": "투구뿌논",
+    "types": [
+        "벌레",
+        "전기"
+    ],
+    "weight": 45.0
+}

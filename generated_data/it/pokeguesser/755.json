@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sparge tutto intorno spore che emettono\nuna luce intermittente. Chi la vede cade\nprofondamente addormentato.",
+        "Di giorno dorme mentre succhia sostanze\nnutritive dalle radici degli alberi. Di notte\nsi sveglia e va alla ricerca di nuove piante.",
+        "Sparge tutt’intorno spore brillanti. Nonostante il\npericolo, i tour notturni nei boschi in cui vivono\ni Morelull vanno molto di moda.",
+        "Gli piacciono i luoghi ombrosi e umidi.\nQuando scende la notte, le spore di cui sono\ncolmi i suoi cappelli si illuminano.",
+        "I cappelli sul suo capo sono molto gustosi e\ni Pokémon che vivono nei boschi se ne cibano.\nPer fortuna, ricrescono nel giro di una notte.",
+        "Vive nei boschi perennemente ombrosi. Sparge\ntutto intorno spore che emettono una luce\nintermittente con cui addormenta i nemici."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+    "name": "Morelull",
+    "types": [
+        "Erba",
+        "Folletto"
+    ],
+    "weight": 1.5
+}

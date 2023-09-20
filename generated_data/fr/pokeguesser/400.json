@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Les digues insubmersibles qu’il\nconstruit font le bonheur des\nhabitants proches.",
+        "Les digues insubmersibles qu’il\nconstruit font le bonheur des\nhabitants proches.",
+        "Il tranche les branches et les racines de ses incisives\naiguisées pour construire des barrages.",
+        "Il construit des barrages de boue et d’écorce le long\ndes fleuves. C’est un ouvrier de renom.",
+        "Il tranche les branches et les racines de ses incisives aiguisées\npour construire des barrages.",
+        "Il construit des barrages de boue et d’écorce le long\ndes fleuves. C’est un ouvrier de renom."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+    "name": "Castorno",
+    "types": [
+        "Normal",
+        "Eau"
+    ],
+    "weight": 31.5
+}

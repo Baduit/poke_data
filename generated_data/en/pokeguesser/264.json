@@ -1,0 +1,31 @@
+{
+    "descriptions": [
+        "LINOONE always runs full speed and only\nin straight lines. If facing an obstacle,\nit makes a right-angle turn to evade it.\fThis POKéMON is very challenged by\ngently curving roads.",
+        "When hunting, LINOONE will make a\nbeeline straight for the prey at a full\nrun. While this POKéMON is capable of\ftopping 60 mph, it has to come to a\nscreeching halt before it can turn.",
+        "It is exceedingly fast if it only has to run\nin a straight line. When it spots pond-\ndwelling prey underwater, it quickly leaps\nin and catches it with its sharp claws.",
+        "When running in a straight line, it can top\n60 miles per hour. However, it has a\ntough time with curved roads.",
+        "When running in a straight line, it can top\n60 miles per hour. However, it has a\ntough time with curved roads.",
+        "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails.",
+        "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails.",
+        "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails.",
+        "When running in a straight line, it\ncan easily top 60 miles an hour. It\nhas a tough time with curved roads.",
+        "When running in a straight line, it\ncan easily top 60 miles an hour. It\nhas a tough time with curved roads.",
+        "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails.",
+        "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails.",
+        "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails.",
+        "It charges prey at speeds over\n60 mph. However, because it can\nonly run straight, it often fails.",
+        "When running in a straight line, it can easily top\n60 miles an hour. It has a tough time with\ncurved roads.",
+        "It charges prey at speeds over 60 mph. However,\nbecause it can only run straight, it often fails.",
+        "Linoone always runs full speed and only in straight lines.\nIf facing an obstacle, it makes a right-angle turn to evade it.\nThis Pokémon is very challenged by gently curving roads.",
+        "When hunting, Linoone will make a beeline straight for the\nprey at a full run. While this Pokémon is capable of topping\n60 mph, it has to come to a screeching halt before it can turn.",
+        "Its fur is strong and supple. Shaving brushes\nmade with shed Linoone hairs are highly prized.",
+        "It uses its explosive speed and razor-sharp claws\nto bring down prey. Running along winding\npaths is not its strong suit."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+    "name": "Linoone",
+    "types": [
+        "Normal"
+    ],
+    "weight": 32.5
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es spießt die Beute mit seinen Scheren auf,\nehe es sie verspeist. Den Körper umgibt\nein robuster Panzer.",
+        "Sein robuster Körper wird von einem harten Panzer\ngeschützt. Es spießt die Beute mit seinen Scheren auf,\nehe es sie verspeist.",
+        "Von Armaldos hartem Panzer prallen alle Angriffe ab. Dieses\nPokémon hat zwei mächtige Klauen, die es ausfahren oder\neinziehen kann. Es hat so viel Kraft, dass es damit eine\nStahlplatte pulverisieren kann.",
+        "Armaldo ist eine Pokémon-Art, die vor vielen Jahren\nausgestorben ist. Dieses Pokémon soll sich auf seinen\nHinterbeinen fortbewegt haben, da dies für das Leben\nan Land bequemer war.",
+        "Es lebte an Land und jagte im Meer nach Beute.\nSeine scharfen Klauen waren seine größte Waffe.",
+        "Es hat früher im Meer gelebt und ist dann an\nLand gekommen. Man hat herausgefunden, dass\nes der Vorfahre einiger Käfer-Pokémon ist.",
+        "Nach seiner Entwicklung ging es an Land, sodass\nsich sein Unterkörper verstärkte. Ein Hieb seines\nSchweifs besitzt gewaltige Zerstörungskraft.",
+        "Es lebt an Land, kann aber auch gut schwimmen.\nZum Jagen taucht es ins Meer und erledigt Beute\nmit seinen scharfen Klauen."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "name": "Armaldo",
+    "types": [
+        "Gestein",
+        "Käfer"
+    ],
+    "weight": 68.2
+}

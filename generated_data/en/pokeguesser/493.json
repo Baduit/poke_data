@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "It is described in mythology as\nthe Pokémon that shaped the\nuniverse with its 1,000 arms.",
+        "It is told in mythology that this\nPokémon was born before the\nuniverse even existed.",
+        "It is said to have emerged from an\negg in a place where there was\nnothing, then shaped the world.",
+        "According to the legends of Sinnoh, this\nPokémon emerged from an egg and\nshaped all there is in this world.",
+        "According to the legends of Sinnoh, this\nPokémon emerged from an egg and\nshaped all there is in this world.",
+        "It is said to have emerged from an\negg in a place where there was\nnothing, then shaped the world.",
+        "It is said to have emerged from an\negg in a place where there was\nnothing, then shaped the world.",
+        "It is said to have emerged from an\negg in a place where there was\nnothing then shaped the world.",
+        "It is said to have emerged from an\negg in a place where there was\nnothing then shaped the world.",
+        "According to the legends of Sinnoh, this Pokémon\nemerged from an egg and shaped all there is in\nthis world.",
+        "It is told in mythology that this Pokémon was born\nbefore the universe even existed.",
+        "According to the legends of Sinnoh, this Pokémon\nemerged from an egg and shaped all there is in\nthis world.",
+        "It is told in mythology that this Pokémon was born\nbefore the universe even existed.",
+        "It is the heavenly fount from which pours the light that shines\nacross Hisui. Its luminance guides and protects all Pokémon.\nHisuian mythology states that Arceus is the creator of all things."
+    ],
+    "height": 3.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "name": "Arceus",
+    "types": [
+        "Normal"
+    ],
+    "weight": 320.0
+}

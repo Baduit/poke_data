@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il possède deux cerveaux séparés\nqui le font parfois agir de façon\ntotalement incohérente.",
+        "Il dégage sa puissance maximale\nquand ses cerveaux réfléchissent\nà la même chose.",
+        "Il possède deux cerveaux séparés qui le font parfois\nagir de façon totalement incohérente.",
+        "Il dégage le maximum de sa puissance psychique\nquand ses deux cerveaux réfléchissent à la même\nchose.",
+        "Il possède deux cerveaux séparés qui le font parfois agir\nde façon totalement incohérente.",
+        "Il dégage le maximum de sa puissance psychique quand\nses deux cerveaux réfléchissent à la même chose.",
+        "On prétend que lorsque ses deux cerveaux\nagissent à l’unisson, la portée de sa force mentale\npeut s’étendre sur un rayon d’un kilomètre.",
+        "Étant donné que ses deux cerveaux sont rarement\nsur la même longueur d’onde, il est impossible\nde prédire son comportement."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "name": "Méios",
+    "types": [
+        "Psy"
+    ],
+    "weight": 8.0
+}

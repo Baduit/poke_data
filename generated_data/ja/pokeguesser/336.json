@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "猛毒が　染み出している\n鋭い　切れ味の　尻尾で\n素早い　ザングースに　立ち向かう。",
+        "尻尾の　刀は　いつも　岩で\n研いでいるので　切れ味　ばつぐん。\nザングースとは　因縁の　あいだ。",
+        "先祖代々　ザングースと　戦ってきた。\n体の　キズは　激しい　戦いの　印。\n鋭い　切れ味の　尻尾で　攻撃するぞ。",
+        "刀の　ような　尻尾は　敵を　切り裂くのと\n同時に　染み出した　猛毒を　浴びせるぞ。\n宿敵　ザングースと　戦い　続ける。"
+    ],
+    "height": 2.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "name": "ハブネーク",
+    "types": [
+        "どく"
+    ],
+    "weight": 52.5
+}

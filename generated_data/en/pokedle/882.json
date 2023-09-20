@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 8,
+    "height": 2.3,
+    "name": "Dracovish",
+    "types": [
+        "Water",
+        "Dragon"
+    ],
+    "weight": 215.0
+}

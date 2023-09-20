@@ -1,0 +1,11 @@
+{
+    "color": "藍色",
+    "generation": 1,
+    "height": 0.4,
+    "name": "菊石獸",
+    "types": [
+        "岩石",
+        "水"
+    ],
+    "weight": 7.5
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "來自另一個世界的ＵＢ。\n會主動向人展示自己的身體，\n但不知道是想要自豪還是威嚇。",
+        "謎一般的生物──ＵＢ。\n被目擊到了一拳把大卡車\n打得粉碎的情景。",
+        "在這個世界是危險的異類，\n但在原本棲息的世界裡，\n牠似乎是常見的普通生物。",
+        "會向對手炫耀自己\n膨脹到異常程度的肌肉。\n是究極異獸的一種。"
+    ],
+    "height": 2.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+    "name": "爆肌蚊",
+    "types": [
+        "蟲",
+        "格鬥"
+    ],
+    "weight": 333.6
+}

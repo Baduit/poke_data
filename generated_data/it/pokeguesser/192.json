@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Con l’avvicinarsi della bella stagione, i suoi petali si\nfanno più vivi e splendenti.",
+        "Trae energia dalla luce del sole e si muove di continuo\nper cercare di assorbirne sempre di più.",
+        "Sunflora converte l’energia solare in nutrimento. È attivo\ndurante il giorno quando fa caldo. Tuttavia, appena il sole\ntramonta non fa più il minimo movimento.",
+        "Sunflora converte l’energia solare in nutrimento. È attivo\ndurante il giorno quando fa caldo. Tuttavia, appena il sole\ntramonta non fa più il minimo movimento."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+    "name": "Sunflora",
+    "types": [
+        "Erba"
+    ],
+    "weight": 8.5
+}

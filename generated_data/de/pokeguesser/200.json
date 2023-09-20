@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es nährt sich von der Angst anderer Wesen und\nnimmt diese in roten Kugeln auf. Schläft am Tage.",
+        "Es liebt Streiche und erschreckt nachts Menschen,\nindem es heult oder ihnen im Dunkeln auflauert.",
+        "Traunfugil erschreckt Menschen mit einem markerschütternden\nSchrei. Dieses Pokémon verwendet seine roten Kraftfelder\ndazu, die Ängste seiner Feinde aufzunehmen und sie in\nNahrung umzuwandeln.",
+        "Traunfugil erschreckt Menschen mit einem markerschütternden\nSchrei. Dieses Pokémon verwendet seine roten Kraftfelder\ndazu, die Ängste seiner Feinde aufzunehmen und sie in\nNahrung umzuwandeln.",
+        "Es lässt nichts unversucht, um Menschen\nzu erschrecken und ihnen Lebensenergie\nabzusaugen. Dafür übt es regelmäßig.",
+        "Hört man ein Schluchzen in einem leeren Zimmer,\nhandelt es sich dabei eindeutig um einen Streich\nvon Traunfugil.",
+        "Andere zu erschrecken ist sein Lebenssinn.\nWenn man das Ohr auf die roten Kugeln an\nseinem Hals legt, kann man Hilfeschreie hören.",
+        "Es genießt es, das Schluchzen eines Menschen\nnachzuahmen und andere damit zu erschrecken.\nWen das kaltlässt, den kann es nicht leiden."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+    "name": "Traunfugil",
+    "types": [
+        "Geist"
+    ],
+    "weight": 1.0
+}

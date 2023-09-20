@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Ils se mettent à danser à la tombée\nde la nuit. Le Lakmécygne qui danse\nau centre est le chef de la troupe.",
+        "Ses coups de bec sont très efficaces.\nIl plie son long cou et en inflige un\ndouloureux enchaînement.",
+        "Un Pokémon gracieux, mais aussi robuste. Il peut\nvoler des milliers de kilomètres grâce à ses ailes\npuissantes.",
+        "Ils se mettent à danser à la tombée de la nuit.\nLe Lakmécygne qui danse au centre est le chef de\nla troupe.",
+        "Un Pokémon gracieux, mais aussi robuste. Il peut voler\ndes milliers de kilomètres grâce à ses ailes puissantes.",
+        "Ils se mettent à danser à la tombée de la nuit. Le Lakmécygne\nqui danse au centre est le chef de la troupe."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+    "name": "Lakmécygne",
+    "types": [
+        "Eau",
+        "Vol"
+    ],
+    "weight": 24.2
+}

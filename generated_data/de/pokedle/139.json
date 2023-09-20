@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Amoroso",
+    "types": [
+        "Gestein",
+        "Wasser"
+    ],
+    "weight": 35.0
+}

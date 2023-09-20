@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Se qualcuno esterna emozioni troppo forti,\nlo affronta immediatamente e lo mette a\ntacere senza tanti convenevoli.",
+        "Zittisce gli avversari colpendoli con le nappe che\nha ai lati della testa. È così forte da mandare KO\ncon un colpo anche un pugile professionista."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
+    "name": "Hattrem",
+    "types": [
+        "Psico"
+    ],
+    "weight": 4.8
+}

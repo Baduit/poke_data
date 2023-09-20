@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Seine stark entwickelten Oberschenkelmuskeln\nverleihen ihm außergewöhnliche Agilität und\nSprungkraft.",
+        "Es lebt im dichten Dschungel. Es springt von\nAst zu Ast, wenn es sich einer Beute nähert.",
+        "Reptain kann sich mit den Blättern, die aus seinem\nKörper herauswachsen, im Wald hervorragend tarnen.\nDieses Pokémon ist ein wahrer Meister darin, auf die\nBäume des Dschungels zu klettern.",
+        "Dieses Pokémon fliegt geschickt von Ast zu Ast. Keinem\nPokémon wird es jemals gelingen, ein Reptain zu erwischen.\nDa kann es noch so schnell sein."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+    "name": "Reptain",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 21.6
+}

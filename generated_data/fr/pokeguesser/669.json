@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il confectionne la couronne qui orne sa tête en\nrécoltant du pollen. Elle recèle de nombreuses\npropriétés curatives.",
+        "Capable de libérer et de contrôler la force cachée\ndes plantes. La fleur qu’il tient fait partie de lui.",
+        "Après avoir trouvé une fleur à son goût, il ne la quitte\nplus de toute sa vie. Il se laisse porter au gré du vent.",
+        "Capable de libérer et de contrôler la force cachée des plantes.\nLa fleur qu’il tient fait partie de lui.",
+        "Après avoir trouvé une fleur à son goût, il ne la quitte plus\nde toute sa vie. Il se laisse porter au gré du vent.",
+        "Bien qu’il soit vulnérable sans le pouvoir\nde sa fleur, il voyagera jusqu’à en trouver\nune de la couleur et de la forme qu’il préfère."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "name": "Flabébé",
+    "types": [
+        "Fée"
+    ],
+    "weight": 0.1
+}

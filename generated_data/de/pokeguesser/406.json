@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Bei Sonnenlicht öffnet es seine Knospe und gibt\nPollen ab. Es lebt in der Nähe von sauberem Wasser.",
+        "Im Winter schließt es die Knospe. Im Frühjahr\nöffnet es die Knospe und gibt Pollen ab.",
+        "Bei Sonnenlicht öffnet es seine Knospe und gibt Pollen ab.\nEs lebt in der Nähe von sauberem Wasser.",
+        "Im Winter schließt es die Knospe. Im Frühjahr öffnet es\ndie Knospe und gibt Pollen ab.",
+        "Es verstreut giftigen Pollen. Je sauberer das\nWasser war, mit dem es gegossen wurde, desto\nstärker ist der Giftstoff.",
+        "Es hat ein feines Gespür für die kleinsten\nTemperaturveränderungen. Wenn sich seine\nKnospe öffnet, bricht bald der Frühling an."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "name": "Knospi",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 1.2
+}

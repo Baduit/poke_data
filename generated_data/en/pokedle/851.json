@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 8,
+    "height": 3.0,
+    "name": "Centiskorch",
+    "types": [
+        "Fire",
+        "Bug"
+    ],
+    "weight": 120.0
+}

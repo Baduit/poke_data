@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Il a gagné la côte après son\névolution. Une armure robuste\nrecouvre son corps.",
+        "Il a gagné la côte après son\névolution. Une armure robuste\nrecouvre son corps.",
+        "Ce Pokémon au corps blindé peut allonger ou\nrétracter ses énormes pinces pour embrocher ses\nproies.",
+        "Rien ne peut transpercer la cuirasse d’Armaldo.\nCe Pokémon embroche ses proies avec ses griffes\npour les avaler plus facilement.",
+        "Le puissant blindage d’Armaldo peut repousser toute attaque.\nLes énormes pinces de ce Pokémon peuvent s’allonger ou\nse rétracter. Elles peuvent transpercer une plaque d’acier.",
+        "Armaldo fait partie d’une espèce de Pokémon qui s’est\néteinte à l’époque préhistorique. On raconte que ce Pokémon\nmarchait sur ses pattes arrière, ce qui facilitait sa vie sur\nla terre ferme.",
+        "Ce Pokémon terrestre avait pour habitude\nd’aller chasser ses proies en mer à l’aide de\nses armes de prédilection : ses griffes acérées.",
+        "Considéré comme l’un des ancêtres des\nPokémon Insecte, il avait quitté la mer pour\ns’installer sur la terre ferme.",
+        "Depuis son évolution, il vit sur la terre ferme.\nSes membres inférieurs se sont développés\net ses coups de queue sont dévastateurs.",
+        "Bien que vivant sur la terre ferme, il est très\nbon nageur. Il plonge dans la mer à la recherche\nde proies et les abat avec ses pinces acérées."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "name": "Armaldo",
+    "types": [
+        "Roche",
+        "Insecte"
+    ],
+    "weight": 68.2
+}

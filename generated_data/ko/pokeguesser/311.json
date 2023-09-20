@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "스파크를 톡톡 만들어\n동료를 응원한다.\n전신주에서 전기를 흡수한다.",
+        "전신주에서 전기를 흡수한다.\n몸에 모은 전기를\n합선시켜 소리를 낸다.",
+        "항상 동료를 응원하고 있는 포켓몬이다.\n동료가 힘을 내면 몸을 합선시켜\n타다닥 불꽃 소리를 내며 기뻐한다.",
+        "동료를 응원할 때는 온몸에서\n전기 불꽃을 내 타다닥 빛난다.\n동료가 지면 큰 소리로 운다. "
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "name": "플러시",
+    "types": [
+        "전기"
+    ],
+    "weight": 4.2
+}

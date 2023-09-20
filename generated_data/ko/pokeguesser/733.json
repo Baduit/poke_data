@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "부리를 발열시켜 싸운다.\n그 온도는 100도를 훨씬 넘어\n쪼이기만 해도 큰 화상을 입는다.",
+        "체내의 가스를 부리 안에서\n폭발시켜 씨앗을 발사. 큰 바위도\n가루로 만들어버릴 정도의 파워다.",
+        "동료와 부리를 부딪히며\n커뮤니케이션한다. 부딪히는 강도나\n횟수로 기분을 전달한다.",
+        "암수의 사이가 좋다고 알려져 있다.\n행운을 부르기 위해\n결혼식에 데리고 온다."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "name": "왕큰부리",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 26.0
+}

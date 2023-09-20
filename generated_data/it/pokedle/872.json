@@ -1,0 +1,11 @@
+{
+    "color": "Bianco",
+    "generation": 8,
+    "height": 0.3,
+    "name": "Snom",
+    "types": [
+        "Ghiaccio",
+        "Coleottero"
+    ],
+    "weight": 3.8
+}

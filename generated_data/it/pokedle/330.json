@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 3,
+    "height": 2.0,
+    "name": "Flygon",
+    "types": [
+        "Terra",
+        "Drago"
+    ],
+    "weight": 82.0
+}

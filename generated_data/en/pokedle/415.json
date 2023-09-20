@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 4,
+    "height": 0.3,
+    "name": "Combee",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 5.5
+}

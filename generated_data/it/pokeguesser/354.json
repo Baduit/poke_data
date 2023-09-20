@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Un peluche divenuto Pokémon per la rabbia di essere\nstato buttato via da un bimbo, di cui è alla ricerca.",
+        "Peluche trasformato in Pokémon da un forte odio.\nAppena apre la sua bocca, sprigiona una forte\nenergia negativa.",
+        "Banette genera energia per lanciare terribili maledizioni,\nconficcandosi alcuni spilli nel corpo. Originariamente questo\nPokémon era un dolce peluche, successivamente gettato via.",
+        "Un’energia maledetta ha permeato l’imbottitura di un peluche\nvecchio e dimenticato, dando vita a Banette.\nQuesto Pokémon deve tenere sempre la bocca chiusa per\nevitare che l’energia accumulata scappi fuori.",
+        "È un peluche pieno di rancore per essere stato\nbuttato via. Cerca senza darsi pace il vecchio\nproprietario per vendicarsi.",
+        "È stato generato dalla rabbia per essere stato\nbuttato via. Si dice che se ci si prende cura di\nlui, tornerà a essere il peluche di un tempo."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "name": "Banette",
+    "types": [
+        "Spettro"
+    ],
+    "weight": 12.5
+}

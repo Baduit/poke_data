@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 1.1,
+    "name": "Seejong",
+    "types": [
+        "Eis",
+        "Wasser"
+    ],
+    "weight": 87.6
+}

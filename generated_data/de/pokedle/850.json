@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 8,
+    "height": 0.7,
+    "name": "Thermopod",
+    "types": [
+        "Feuer",
+        "Käfer"
+    ],
+    "weight": 1.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 6,
+    "height": 0.8,
+    "name": "Monorpale",
+    "types": [
+        "Acier",
+        "Spectre"
+    ],
+    "weight": 2.0
+}

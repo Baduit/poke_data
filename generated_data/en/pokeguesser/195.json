@@ -1,0 +1,35 @@
+{
+    "descriptions": [
+        "This carefree\nPOKéMON has an\neasy-going nature.\fWhile swimming, it\nalways bumps into\nboat hulls.",
+        "Due to its relaxed\nand carefree atti­\ntude, it often\fbumps its head on\nboulders and boat\nhulls as it swims.",
+        "Its body is always\nslimy. It often\nbangs its head on\fthe river bottom\nas it swims but\nseems not to care.",
+        "QUAGSIRE hunts for food by leaving\nits mouth wide open in water and waiting\nfor its prey to blunder in unaware.\fBecause the POKéMON does not move,\nit does not get very hungry.",
+        "QUAGSIRE hunts for food by leaving\nits mouth wide open in water and waiting\nfor its prey to blunder in unaware.\fBecause the POKéMON does not move,\nit does not get very hungry.",
+        "A QUAGSIRE hunts by leaving its mouth wide\nopen in water and waiting for its prey to\nblunder in. Because it doesn’t move, it\ndoes not get very hungry.",
+        "Due to its relaxed and carefree attitude,\nit often bumps its head on boulders and\nboat hulls as it swims.",
+        "This carefree POKéMON has an easygoing\nnature. While swimming, it always bumps\ninto boat hulls.",
+        "It has a sluggish nature. It lies\nat the river’s bottom, waiting for\nprey to stray into its mouth.",
+        "A dim-witted Pokémon. It doesn’t\ncare if it bumps its head into\nboats or rocks while swimming.",
+        "It has an easygoing nature. It\ndoesn’t care if it bumps its head on\nboats and boulders while swimming.",
+        "This carefree Pokémon has an\neasy-going nature. While swimming,\nit always bumps into boat hulls.",
+        "Due to its relaxed and carefree\nattitude, it often bumps its head on\nboulders and boat hulls as it swims.",
+        "It has an easygoing nature. It\ndoesn’t care if it bumps its head on\nboats and boulders while swimming.",
+        "It has an easygoing nature. It\ndoesn’t care if it bumps its head on\nboats and boulders while swimming.",
+        "It has an easygoing nature. It\ndoesn’t care if it bumps its head on\nboats and boulders while swimming.",
+        "It has an easygoing nature. It\ndoesn’t care if it bumps its head on\nboats and boulders while swimming.",
+        "It has a sluggish nature. It lies at the river’s bottom,\nwaiting for prey to stray into its mouth.",
+        "This carefree Pokémon has an easygoing nature.\nWhile swimming, it always bumps into boat hulls.",
+        "Quagsire hunts for food by leaving its mouth wide open in\nwater and waiting for its prey to blunder in unaware. Because\nthe Pokémon does not move, it does not get very hungry.",
+        "Quagsire hunts for food by leaving its mouth wide open in\nwater and waiting for its prey to blunder in unaware. Because\nthe Pokémon does not move, it does not get very hungry.",
+        "It has an easygoing nature. It doesn’t care if it\nbumps its head on boats and boulders\nwhile swimming.",
+        "Its body is always slimy. It often bangs its head\non the river bottom as it swims but seems not\nto care."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "name": "Quagsire",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "weight": 75.0
+}

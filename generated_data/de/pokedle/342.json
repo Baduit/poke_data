@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 3,
+    "height": 1.1,
+    "name": "Krebutack",
+    "types": [
+        "Wasser",
+        "Unlicht"
+    ],
+    "weight": 32.8
+}

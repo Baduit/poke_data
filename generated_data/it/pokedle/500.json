@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 5,
+    "height": 1.6,
+    "name": "Emboar",
+    "types": [
+        "Fuoco",
+        "Lotta"
+    ],
+    "weight": 150.0
+}

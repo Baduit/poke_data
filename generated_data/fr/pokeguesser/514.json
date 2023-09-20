@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il adore les aliments sucrés. Ils lui\nservent d’énergie pour alimenter le\nfeu à l’intérieur de son corps.",
+        "Son corps est en combustion. Il\nprojette des flammèches par la tête et\nla queue pour carboniser ses ennemis.",
+        "Son corps est en combustion. Il projette des\nflammèches par la tête et la queue pour carboniser\nses ennemis.",
+        "Quand il est excité, des flammèches brûlantes dansent\nsur sa tête et sa queue. Il raffole des choses sucrées.",
+        "Son corps est en combustion. Il projette des flammèches\npar la tête et la queue pour carboniser ses ennemis.",
+        "Quand il est excité, des flammèches brûlantes dansent\nsur sa tête et sa queue. Il raffole des choses sucrées."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+    "name": "Flamoutan",
+    "types": [
+        "Feu"
+    ],
+    "weight": 28.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Tentantel",
+    "types": [
+        "Pflanze",
+        "Stahl"
+    ],
+    "weight": 110.0
+}

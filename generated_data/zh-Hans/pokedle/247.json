@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 2,
+    "height": 1.2,
+    "name": "沙基拉斯",
+    "types": [
+        "岩石",
+        "地面"
+    ],
+    "weight": 152.0
+}

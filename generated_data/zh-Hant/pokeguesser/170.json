@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "２根觸手原本是鰭。\n會釋放電力讓獵物麻痺後進行襲擊。",
+        "在光線無法觸及的海底生活。\n讓觸手發光來與夥伴們交流。",
+        "會讓２根觸手微微發光，\n藉此引誘獵物靠近。\n是種在夜釣時很好用的寶可夢。",
+        "燈籠魚們會透過\n發光觸手的閃爍\n來宣示彼此的地盤。",
+        "從鰭變化而來的觸手\n之中，分別流通著\n正電以及負電。",
+        "在黑暗的海底，\n觸手上不斷閃爍的亮光\n是牠唯一的通訊手段。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "name": "燈籠魚",
+    "types": [
+        "水",
+        "電"
+    ],
+    "weight": 12.0
+}

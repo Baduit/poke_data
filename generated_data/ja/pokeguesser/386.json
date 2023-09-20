@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "隕石に　付着していた\n宇宙ウイルスの　ＤＮＡが\n変異して　生まれた　ポケモン。",
+        "宇宙ウィルスが　突然変異を\n起こして　ポケモンに　なった。\nオーロラの　近くに　現れる。",
+        "レーザーを　浴びた　宇宙ウィルスの　ＤＮＡが\n突然変異を　起こして　生まれた　ポケモン。\n胸の　水晶体が　脳みそ　らしい。",
+        "宇宙ウィルスから　誕生した　ポケモン。\n知能が　高く　超能力を　操る。\n胸の　水晶体から　レーザーを　出す。"
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "name": "デオキシス",
+    "types": [
+        "エスパー"
+    ],
+    "weight": 60.8
+}

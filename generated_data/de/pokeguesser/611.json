@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Mit seinen Fängen kriegt es sogar Felsen klein.\nGegen Artgenossen, die sein Revier passieren,\ngeht es besonders hart vor.",
+        "Da seine Hauer nicht mehr nachwachsen, wetzt es sie\nnach einem Kampf behutsam an den Felsen eines\nFlussbettes.",
+        "Mit seinen Fängen kriegt es sogar Felsen klein. Gegen\nArtgenossen, die sein Revier passieren, geht es besonders\nhart vor.",
+        "Da seine Hauer nicht mehr nachwachsen, wetzt es sie nach\neinem Kampf behutsam an den Felsen eines Flussbettes.",
+        "Da seine Hauer nicht mehr nachwachsen, wetzt\nes sie nach einem Kampf behutsam an einem\ngeeigneten Felsen eines Flussbettes.",
+        "Seine harte Haut schützt es wie eine Rüstung.\nEine seiner besten Taktiken besteht darin, Gegner\nbeim Tackle mit seinen Hauern zu durchbohren."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "name": "Sharfax",
+    "types": [
+        "Drache"
+    ],
+    "weight": 36.0
+}

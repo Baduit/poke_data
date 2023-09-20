@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It’s considered to be a good Pokémon for\nbeginners because of its friendliness, but its\ndisposition grows rougher as it grows up.",
+        "This Pokémon has lived with people since times\nlong ago. It can sense when its Trainer is in the\ndumps and will stick close by its Trainer’s side.",
+        "As they develop, their disposition grows more\nviolent and aggressive. Many Trainers find them\ntoo much to handle and abandon them.",
+        "When it rubs the rocks on its neck against you,\nthat’s proof of its love for you. However, the\nrocks are sharp, so the gesture is quite painful!",
+        "This Pokémon can bond very strongly with its\nTrainer, but it also has a habit of biting. Raising\na Rockruff for a long time can be challenging.",
+        "This Pokémon intimidates opponents by striking\nthe ground with the rocks on its neck. The\nmoment an opponent flinches, Rockruff attacks."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "name": "Rockruff",
+    "types": [
+        "Rock"
+    ],
+    "weight": 9.2
+}

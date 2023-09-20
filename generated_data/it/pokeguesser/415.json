@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il trio è insieme dalla nascita. È sempre impegnato\na portare il nettare dei fiori a Vespiquen.",
+        "Porta il nettare raccolto dai suoi simili. Di notte si\nriuniscono per formare un alveare e dormire.",
+        "Il trio è insieme dalla nascita. È sempre impegnato a portare\nil nettare dei fiori a Vespiquen.",
+        "Porta il nettare raccolto dai suoi simili. Di notte si riuniscono\nper formare un alveare e dormire.",
+        "I tre componenti non si separano mai.\nIn fatto di nettare, ognuno ha gusti\nleggermente diversi.",
+        "Raccoglie nettare dal tramonto all’alba\nper il bene del gruppo e di Vespiquen."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "name": "Combee",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 5.5
+}

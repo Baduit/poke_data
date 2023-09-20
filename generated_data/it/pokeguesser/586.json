@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Cambia dimora a seconda delle stagioni. Gli uomini\nsi accorgono del cambio di stagione osservando le\nsue corna.",
+        "Si spostano da un luogo all’altro al mutare delle\nstagioni. Per questo alcuni dicono che portano con\nsé la primavera.",
+        "Cambia dimora a seconda delle stagioni. Gli uomini\nsi accorgono del cambio di stagione osservando\nle sue corna.",
+        "Si spostano da un luogo all’altro al mutare delle stagioni.\nPer questo alcuni dicono che portano con sé la primavera."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+    "name": "Sawsbuck",
+    "types": [
+        "Normale",
+        "Erba"
+    ],
+    "weight": 92.5
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "曾經發生過乘著隨風球\n出發旅行的男人就這樣\n失蹤的事件。",
+        "日暮時分飛行的大群隨風球，\n即使一直盯著觀察，\n也會在一不留神間消失。",
+        "傳說如果被乘著風\n在暮色裡飛行的隨風球捉住，\n就會被帶到陰間去。",
+        "體內氣體的原料是靈魂。\n據說如果牠的身體開始消氣，\n就會去把人或寶可夢帶走。",
+        "也有人說牠是萬念俱灰的\n靈魂聚在一起的樣子。\n會在黑夜裡靜靜地飄盪。",
+        "會抓住人和寶可夢，\n然後運到某個地方。\n沒人知道那地方是哪裡。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "name": "隨風球",
+    "types": [
+        "幽靈",
+        "飛行"
+    ],
+    "weight": 15.0
+}

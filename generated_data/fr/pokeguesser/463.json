@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Sa longue langue est couverte en\npermanence d’une épaisse couche\nde bave anesthésiante.",
+        "Sa longue langue est couverte en\npermanence d’une épaisse couche\nde bave anesthésiante.",
+        "Il enroule tout dans sa langue extensible. Ceux qui\nl’approchent finissent couverts de bave.",
+        "Sa bave anesthésiante est chargée d’une substance\ncapable de faire fondre n’importe quelle matière.",
+        "Il enroule tout dans sa langue extensible. Ceux qui\nl’approchent finissent couverts de bave.",
+        "Sa bave anesthésiante est chargée d’une substance\ncapable de faire fondre n’importe quelle matière.",
+        "Il existe un concours visant à déterminer lequel\nd’entre eux a la langue la plus longue. Le record\nactuel est de 25 m.",
+        "Il est bien plus adroit avec sa langue qu’avec\nses autres membres, au point qu’elle peut même\nlui servir à ramasser un grain de riz minuscule.",
+        "Sa langue a l’incroyable faculté de s’allonger et\nd’atteindre plusieurs fois la taille de son corps.\nCe mystère de la nature reste entier.",
+        "Il est aussi habile avec sa langue que les êtres\nhumains le sont avec leurs mains. En revanche,\nil est maladroit quand il utilise ses doigts."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "name": "Coudlangue",
+    "types": [
+        "Normal"
+    ],
+    "weight": 140.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es ist trotz seines Äußeren schüchtern. Wird es\nwütend, schnappt es mit seinen Fängen zu.",
+        "Es kann fast jedes Pokémon vertreiben, indem es sein\nMaul weit öffnet und seine scharfen Reißzähne zeigt.",
+        "Granbull besitzt einen besonders ausgeprägten Unterkiefer.\nWegen seiner schweren Zähne wackelt es mit dem Kopf.\nEs beißt nur zu, wenn es erschreckt wird.",
+        "Granbull besitzt einen besonders ausgeprägten Unterkiefer.\nWegen seiner schweren Zähne wackelt es mit dem Kopf.\nEs beißt nur zu, wenn es erschreckt wird.",
+        "Ein ausgeprägter Unterkiefer und schwere\nZähne sind seine Waffen. Es beißt nur zu,\nwenn es verärgert wird.",
+        "Es ist noch schüchterner als Snubbull. Der\nKontrast zwischen seinem Äußeren und seinem\nWesen macht es bei jungen Leuten so beliebt.",
+        "Sein Unterkiefer ist sehr stark. Da es jedoch\nden Kampf scheut, kommt es nur selten dazu,\ndies zu demonstrieren.",
+        "Es ist bei jungen Leuten sehr beliebt. Aufgrund\nseines feigen und sensiblen Charakters ist es\nals Wache allerdings völlig ungeeignet."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "name": "Granbull",
+    "types": [
+        "Fee"
+    ],
+    "weight": 48.7
+}

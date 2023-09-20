@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Noacier",
+    "types": [
+        "Plante",
+        "Acier"
+    ],
+    "weight": 110.0
+}

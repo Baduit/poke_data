@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il arpente le fond des océans du haut de ses\ndouze pattes, en laissant derrière lui une traînée\nde miettes de Corayon.",
+        "Son poison provoque chez sa victime des\ndouleurs aiguës pendant trois jours et trois\nnuits, et laisse des séquelles irréversibles.",
+        "Il attaque ses ennemis en projetant des épines\nempoisonnées, et il utilise ses griffes pour\ntranspercer ceux qui l’approchent de trop près.",
+        "Avec ses douze pattes, il crée un dôme\nprotecteur qui lui permet de ne pas subir\nl’influence des marées.",
+        "Pour endurer les températures peu clémentes\nde Galar, il forme un dôme hermétique avec\nses pattes pour conserver sa chaleur corporelle.",
+        "Sa poche à venin interne regorge d’un poison\nsi violent que même un Wailord en souffrirait\npendant trois jours entiers."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "name": "Prédastérie",
+    "types": [
+        "Poison",
+        "Eau"
+    ],
+    "weight": 14.5
+}

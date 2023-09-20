@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Lunastein",
+    "types": [
+        "Gestein",
+        "Psycho"
+    ],
+    "weight": 168.0
+}

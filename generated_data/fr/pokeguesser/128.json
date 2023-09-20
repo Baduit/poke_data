@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Après avoir choisi sa cible, il fonce\ndessus tête baissée. Il est réputé\npour sa nature violente.",
+        "Après avoir choisi sa cible, il fonce\ndessus tête baissée. Il est réputé\npour sa nature violente.",
+        "Après s’être fouetté avec ses trois queues pour\naugmenter son agressivité, il charge.",
+        "Juste avant d’utiliser Charge, ce Pokémon agite\nfrénétiquement ses trois grandes queues.",
+        "Ce Pokémon n’est pas satisfait s’il ne détruit pas tout sur\nson passage. Lorsque Tauros ne trouve pas d’adversaire,\nil se rue sur de gros arbres et les déracine pour passer\nses nerfs.",
+        "Ce Pokémon n’est pas satisfait s’il ne détruit pas tout sur\nson passage. Lorsque Tauros ne trouve pas d’adversaire,\nil se rue sur de gros arbres et les déracine pour passer\nses nerfs.",
+        "Beaucoup de sociétés à travers le monde ont\nappris à monter Tauros au cours de leur histoire.\nLes premières à l’avoir fait habitaient à Alola.",
+        "Il s’agit normalement d’un Pokémon très agressif,\nmais les Tauros natifs d’Alola sont d’une nature\nun peu plus paisible.",
+        "Les Tauros vivent en troupeaux menés par ceux\ndont les cornes sont les plus grosses, les plus\nlongues et les plus abimées.",
+        "La douceur du climat local explique sans doute\npourquoi les Tauros d’Alola sont plus paisibles\nque leurs congénères d’outre-mer.",
+        "Ce Pokémon brutal est très endurant.\nRien n’arrête sa charge tant qu’il n’a pas\npulvérisé sa cible.",
+        "Ce Pokémon brutal est très endurant.\nRien n’arrête sa charge tant qu’il n’a pas\npulvérisé sa cible.",
+        "Il faut prendre garde quand un Tauros fouette\nson corps avec ses queues. Cela signifie qu’il\ns’apprête à charger à une vitesse démentielle.",
+        "Les Tauros vivant à Galar ont un tempérament\nviolent et ne tolèrent pas que les êtres humains\nmontent sur leur dos."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "name": "Tauros",
+    "types": [
+        "Normal"
+    ],
+    "weight": 88.4
+}

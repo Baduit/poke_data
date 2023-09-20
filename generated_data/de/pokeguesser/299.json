@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es schützt sich mit Objekten aus Eisen, die es\nmithilfe seiner immer nach Norden zeigenden\nmagnetischen Nase anzieht.",
+        "Seine magnetische Nase zeigt stets gen Norden.\nReisende überprüfen Nasgnet, um sich zu orientieren.",
+        "Nasgnet besitzt eine magnetische Nase, die immer nach\nNorden zeigt. Wenn sich zwei Nasgnet treffen, können sie\nsich einander nicht zuwenden, da ihre magnetischen Nasen\nsich gegenseitig abstoßen.",
+        "Nasgnet wurde zunächst als völlig unbeweglich beschrieben,\nda seine magnetische Nase immer nach Norden zeigt.\nGenauere Beobachtungen haben jedoch ergeben, dass es sich\npro Jahr tatsächlich etwa um 1 cm bewegt.",
+        "Seine magnetische Nase ist unbeirrbar und\nerweist sich daher als ganz hervorragender\nPartner für Pokémon-Trainer auf Reisen.",
+        "Es nutzt sein starkes Magnetfeld, um Beute zu\nsich heranzuziehen. Ebenso zieht es Objekte\naus Eisen an, um sich mit ihnen zu schützen.",
+        "Es bewegt sich nur 1 cm pro Jahr, aber in\nNotlagen bohrt es sich mit seinem Körper\nblitzschnell in den Boden.",
+        "Es jagt bewegungslos, indem es Beute mit\nseinem starken Magnetfeld zu sich heranzieht.\nManchmal sind jedoch auch Fressfeinde dabei."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "name": "Nasgnet",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 97.0
+}

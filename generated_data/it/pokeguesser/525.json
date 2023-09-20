@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "L’energia sovrabbondante cerca sfogo all’esterno\ndel corpo e si solidifica formando cristalli di colore\narancione.",
+        "Se è in forma, il suo nucleo è visibile. Si sposta\nrapidamente nelle quattro direzioni senza cambiare\norientamento.",
+        "L’energia sovrabbondante cerca sfogo all’esterno del corpo\ne si solidifica formando cristalli di colore arancione.",
+        "Se è in forma, il suo nucleo è visibile. Si sposta rapidamente\nnelle quattro direzioni senza cambiare orientamento.",
+        "I cristalli arancioni sul suo corpo sono fatti\ndi energia condensata. Un unico frammento\npotrebbe fornire carburante a 100 camion.",
+        "Perlustra le grotte alla ricerca di falde\nsotterranee. Quando trova l’acqua, la lecca\npiano piano per poterla assorbire.",
+        "L’energia che fuoriesce dal suo corpo forma dei\ncristalli arancioni talmente duri da frantumare\nanche i diamanti.",
+        "È un Pokémon molto ambito per i preziosi\ncristalli arancioni che ha sul corpo, fatti di\nenergia condensata.",
+        "Quando i cristalli arancioni cominciano a brillare,\nè bene fare attenzione perché è segno che\nil Pokémon sta per emettere energia.",
+        "Perlustra la zona intorno a sé servendosi dei\nrumori. Se irritato, insegue chi lo ha importunato\nsenza cambiare orientamento del corpo."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "name": "Boldore",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 102.0
+}

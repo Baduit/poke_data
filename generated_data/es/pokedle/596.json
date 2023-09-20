@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 5,
+    "height": 0.8,
+    "name": "Galvantula",
+    "types": [
+        "Bicho",
+        "Eléctrico"
+    ],
+    "weight": 14.3
+}

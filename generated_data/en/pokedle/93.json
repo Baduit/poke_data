@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 1,
+    "height": 1.6,
+    "name": "Haunter",
+    "types": [
+        "Ghost",
+        "Poison"
+    ],
+    "weight": 0.1
+}

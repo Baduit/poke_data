@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 4,
+    "height": 0.5,
+    "name": "방패톱스",
+    "types": [
+        "바위",
+        "강철"
+    ],
+    "weight": 57.0
+}

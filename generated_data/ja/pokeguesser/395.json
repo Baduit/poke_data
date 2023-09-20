@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "ジェットスキーに　負けない　速度で\n泳ぐ。翼の　縁は　鋭く\n流氷を　切断する。",
+        "クチバシから　伸びている　３本の\nツノは　強さの　象徴。\nリーダーが　一番　大きい。",
+        "ジェットスキーに　負けない　速度で\n泳ぐ。翼の　縁は　鋭く\n流氷を　切断する。",
+        "クチバシから　伸びている　３本の\nツノは　強さの　象徴。\nリーダーが　一番　大きい。"
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "name": "エンペルト",
+    "types": [
+        "みず",
+        "はがね"
+    ],
+    "weight": 84.5
+}

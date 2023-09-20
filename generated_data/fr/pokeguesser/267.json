@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Malgré les apparences, il est très\nagressif et attaque avec sa trompe\nquand on le dérange.",
+        "Malgré les apparences, il est très\nagressif et attaque avec sa trompe\nquand on le dérange.",
+        "Réputé pour les motifs de ses ailes aux couleurs vives.\nIl allonge sa trompe pour butiner le nectar.",
+        "Il est très agressif. Il pique sa proie avec son long\nmuseau étroit et absorbe sa vitalité.",
+        "La nourriture préférée de Charmillon est le pollen sucré\ndes fleurs. Si on veut voir ce Pokémon, il suffit de laisser\nune fleur en pot sur un rebord de fenêtre. Charmillon viendra\nsûrement voir s’il y a du pollen.",
+        "Charmillon a une longue trompe en spirale, particulièrement\npratique pour récupérer le pollen des fleurs. Ce Pokémon\nse laisse porter par les vents printaniers pendant qu’il butine."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "name": "Charmillon",
+    "types": [
+        "Insecte",
+        "Vol"
+    ],
+    "weight": 28.4
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Mühelos springt es selbst über 30-stöckige Häuser.\nSein Feuerschlag fügt dem Gegner Verbrennungen zu.",
+        "Trifft es auf einen hartnäckigen Gegner, schießen\nFlammen aus seinen Handgelenken. Seine starken\nBeine ermöglichen ihm, über Häuser zu springen.",
+        "Lohgock stößt heftige Flammen aus seinen Handgelenken\naus und greift seine Feinde mutig an. Je stärker ein Feind ist,\ndesto stärker lodern die Handgelenke dieses Pokémon.",
+        "Lohgock besitzt unglaublich starke Beine, mit denen\nes ein 30 Stockwerke hohes Gebäude mit einem Sprung\nüberwinden kann. Die flammenden Schläge dieses\nPokémon lassen verkohlte Gegner zurück."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "name": "Lohgock",
+    "types": [
+        "Feuer",
+        "Kampf"
+    ],
+    "weight": 52.0
+}

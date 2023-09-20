@@ -1,0 +1,11 @@
+{
+    "color": "노랑",
+    "generation": 5,
+    "height": 1.2,
+    "name": "모아머",
+    "types": [
+        "벌레",
+        "풀"
+    ],
+    "weight": 20.5
+}

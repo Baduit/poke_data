@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 1.0,
+    "name": "데구리",
+    "types": [
+        "바위",
+        "땅"
+    ],
+    "weight": 105.0
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Though it’s able to capture prey by freezing its\nsurroundings, it has trouble eating the prey\nafterward because its mouth is on top of its head.",
+        "The skin on its face is impervious to attack, but\nbreathing difficulties made this Pokémon go\nextinct anyway."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+    "name": "Arctovish",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "weight": 175.0
+}

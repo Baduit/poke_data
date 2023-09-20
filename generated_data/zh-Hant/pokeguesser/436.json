@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "會在古老的遺跡出現。\n身上的紋路不屬於伽勒爾文化，\n因此至今仍然謎團重重。",
+        "雖然人們說把銅鏡怪打磨到發光，\n牠就能映照出真相，\n但其實牠非常討厭被打磨。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "name": "銅鏡怪",
+    "types": [
+        "鋼",
+        "超能力"
+    ],
+    "weight": 60.5
+}

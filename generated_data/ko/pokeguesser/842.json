@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "달콤한 사과를 먹고 진화했다.\n몸에서 달콤한 향기를 내보내서\n먹이인 벌레포켓몬을 유인한다.",
+        "달콤한 꿀로 몸이 둘러싸여 있다.\n등의 껍질은 특히 더 달콤해서\n옛날에는 어린이 간식이었다."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+    "name": "단지래플",
+    "types": [
+        "풀",
+        "드래곤"
+    ],
+    "weight": 13.0
+}

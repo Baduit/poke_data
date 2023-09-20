@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Das Gift aus dem Giftsack in seinem Körper\nsondert es über die Haut ab. Berührt man es,\nbekommt man einen lähmenden Schock verpasst.",
+        "Es ändert sein Toxin auf chemischer Ebene,\num Strom zu erzeugen. Dieser ist zwar schwach,\nkann aber einen lähmenden Schlag verursachen."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "name": "Toxel",
+    "types": [
+        "Elektro",
+        "Gift"
+    ],
+    "weight": 11.0
+}

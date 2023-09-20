@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Quand il est gonflé à bloc, ses cristaux\norangés scintillent. Il cherche de l’eau\nsouterraine dans les grottes.",
+        "L’énergie de son corps qu’il ne parvient\npas à retenir s’écoule à l’extérieur et\nforme des cristaux orangés.",
+        "L’énergie de son corps qu’il ne parvient pas à retenir\ns’écoule à l’extérieur et forme des cristaux orangés.",
+        "Quand il est en forme, son noyau devient visible.\nIl peut se déplacer dans toutes les directions sans\nse tourner.",
+        "L’énergie de son corps qu’il ne parvient pas à retenir s’écoule\nà l’extérieur et forme des cristaux orangés.",
+        "Quand il est en forme, son noyau devient visible. Il peut\nse déplacer dans toutes les directions sans se tourner.",
+        "Chaque cristal orangé sur son corps est\nun condensé d’énergie pouvant fournir\ndu carburant à une centaine de poids lourds.",
+        "Il explore les grottes à la recherche de nappes\nphréatiques. L’eau étant l’une de ses faiblesses,\nil ne peut la boire que par petites lapées.",
+        "L’énergie qui émane de son corps s’est\ntransformée en cristaux orangés suffisamment\ndurs pour briser le diamant.",
+        "Géolithe est parfois pris pour cible à cause\nde ses cristaux orangés de grande valeur,\nformés d’énergie condensée.",
+        "Mieux vaut rester sur ses gardes quand ses cristaux\norange se mettent à briller, car cela indique\nqu’il va déchaîner son énergie pour frapper.",
+        "Il sonde les environs grâce au son. Lorsqu’un\nimportun le met en colère, il se lance à sa\npoursuite sans changer l’orientation de son corps."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "name": "Géolithe",
+    "types": [
+        "Roche"
+    ],
+    "weight": 102.0
+}

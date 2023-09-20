@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Les motifs sur leur fourrure sont\npropres à chaque Spinda. Son pas\nchancelant le rend difficile à viser.",
+        "Les motifs sur leur fourrure sont\npropres à chaque Spinda. Son pas\nchancelant le rend difficile à viser.",
+        "Les motifs sur leur fourrure sont propres à chaque\nSpinda. Son pas chancelant le rend difficile à viser.",
+        "La chance que deux Spinda avec les mêmes motifs se\nrencontrent est de moins d’une pour quatre milliards.",
+        "On raconte que chaque Spinda dispose d’un agencement\nde taches tout à fait unique. La démarche chancelante et\ntitubante de ce Pokémon donne l’impression qu’il danse.",
+        "On dit que chaque Spinda dispose d’un agencement de\ntaches unique. Ce Pokémon se déplace bizarrement, comme\ns’il titubait. Ses mouvements hésitants décontenancent\nses ennemis.",
+        "Bien qu’il semble peu assuré sur ses pattes,\nSpinda est quant à lui persuadé d’avancer\ntout droit, faisant fi de ses embardées.",
+        "Chaque Spinda possède un pelage unique.\nChercher les différences d’un Spinda à l’autre\nserait même un passe-temps pour certains.",
+        "Il déambule d’un pas chancelant. S’il marche\ntrop longtemps, il finit par avoir le tournis.",
+        "Chaque Spinda possède un pelage unique.\nCe Pokémon esquive les attaques de son\nadversaire grâce à d’imprévisibles oscillations."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "name": "Spinda",
+    "types": [
+        "Normal"
+    ],
+    "weight": 5.0
+}

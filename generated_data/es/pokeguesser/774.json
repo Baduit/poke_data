@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Vive en la capa de ozono hasta que su\ncaparazón se hace demasiado pesado y cae\nsin remisión a tierra firme.",
+        "Este Pokémon nació fruto de la mutación de\nnanopartículas. El caparazón que lo recubre\nse desprende al recibir un fuerte impacto.",
+        "Vive en la capa de ozono, donde puede resultar\npresa de Pokémon más fuertes. Al huir, acaba\nprecipitándose a tierra firme.",
+        "Lo recubre un duro caparazón que se quiebra\nen pedazos al impactar con la superficie de la\ntierra."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "name": "Minior",
+    "types": [
+        "Roca",
+        "Volador"
+    ],
+    "weight": 40.0
+}

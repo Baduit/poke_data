@@ -1,0 +1,11 @@
+{
+    "color": "藍色",
+    "generation": 3,
+    "height": 0.4,
+    "name": "青綿鳥",
+    "types": [
+        "一般",
+        "飛行"
+    ],
+    "weight": 1.2
+}

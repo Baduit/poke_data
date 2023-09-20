@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Crea un pallone da calcio infuocato palleggiando\ncon un sasso e poi tira una cannonata contro\nil nemico per abbrustolirlo.",
+        "Eccelle in attacco e in difesa. Se sente il tifo, a\nvolte si fa prendere dall’entusiasmo e inizia a\ndare spettacolo, finendo per trovarsi in difficoltà."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "name": "Cinderace",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 33.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Aspicot",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 3.2
+}

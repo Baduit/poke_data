@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "脸很严厉，但其实相当胆小。\n拼命威吓的表情在女性中很有人气。",
+        "呜呜声让对手不安。\n平时是很悠闲的家伙，\n１天中有一半时间都在睡觉哦。",
+        "喜欢亲近人，爱撒娇。\n它的动作与长相之间的反差\n好像会让年轻女性为之着迷。",
+        "它和看上去不同，其实很胆小。\n所以如果把它和小狗宝可梦\n放在一起，它就有可能会受到欺负。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+    "name": "布鲁",
+    "types": [
+        "妖精"
+    ],
+    "weight": 7.8
+}

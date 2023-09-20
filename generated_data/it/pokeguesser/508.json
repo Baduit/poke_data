@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Soccorre chi si trova in difficoltà sulle montagne\nspazzate da bufere di neve. I lunghi peli lo\nproteggono dal freddo.",
+        "Avvolti nel suo caldo manto si può dormire\nall’addiaccio su una montagna in inverno senza\ncorrere alcun pericolo.",
+        "Soccorre chi si trova in difficoltà sulle montagne spazzate\nda bufere di neve. I lunghi peli lo proteggono dal freddo.",
+        "Avvolti nel suo caldo manto si può dormire all’addiaccio su una\nmontagna in inverno senza correre alcun pericolo.",
+        "Intelligente, calmo e coraggioso, è il compagno\nideale degli addetti alle missioni di soccorso.",
+        "La sua intelligenza e docilità verso gli esseri\numani fanno sì che molti genitori si affidino\na lui per la cura dei figli.",
+        "Non teme il freddo grazie al manto lungo\ne caldo. Gli Stoutland che vivono ad Alola,\nperò, sembrano soffrire un po’ il caldo.",
+        "Ha un manto lungo e folto. In passato, nelle\nregioni fredde ogni famiglia aveva uno Stoutland.",
+        "Sembra gli piaccia vivere con gli esseri umani.\nGli esemplari selvatici catturati si affezionano\nnel giro di tre giorni.",
+        "Va molto fiero dei suoi splendidi baffi. Si dice\nche la loro lunghezza determini la sua\nsuperiorità o inferiorità rispetto ai suoi simili."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png",
+    "name": "Stoutland",
+    "types": [
+        "Normale"
+    ],
+    "weight": 61.0
+}

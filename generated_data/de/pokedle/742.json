@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 7,
+    "height": 0.1,
+    "name": "Wommel",
+    "types": [
+        "Käfer",
+        "Fee"
+    ],
+    "weight": 0.2
+}

@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 5,
+    "height": 2.1,
+    "name": "코바르온",
+    "types": [
+        "강철",
+        "격투"
+    ],
+    "weight": 250.0
+}

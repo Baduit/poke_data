@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Shieldon",
+    "types": [
+        "Roca",
+        "Acero"
+    ],
+    "weight": 57.0
+}

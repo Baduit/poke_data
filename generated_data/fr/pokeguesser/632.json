@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ils portent une armure de fer et se\nregroupent pour contrer les attaques\nde leurs prédateurs, les Aflamanoir.",
+        "Ils creusent des galeries dans les\nmontagnes. Les tunnels des Fermite\nsont de vrais labyrinthes.",
+        "Ils travaillent de concert pour protéger leur colonie\ndes terribles attaques de leur prédateur naturel,\nAflamanoir.",
+        "Ils portent une armure de fer et se regroupent pour\ncontrer les attaques de leurs prédateurs,\nles Aflamanoir.",
+        "Ils travaillent de concert pour protéger leur colonie\ndes terribles attaques de leur prédateur naturel, Aflamanoir.",
+        "Ils portent une armure de fer et se regroupent pour contrer\nles attaques de leurs prédateurs, les Aflamanoir.",
+        "Il dépose ses Œufs tout au fond de son terrier.\nLorsqu’un Aflamanoir l’attaque, il se défend\nà l’aide de ses mandibules.",
+        "Sa grande mâchoire réduit même les rochers\nen miettes. Il se bat avec sa colonie pour protéger\nses Œufs des attaques des Dunaconda."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "name": "Fermite",
+    "types": [
+        "Insecte",
+        "Acier"
+    ],
+    "weight": 33.0
+}

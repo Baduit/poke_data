@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Braviary",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 41.0
+}

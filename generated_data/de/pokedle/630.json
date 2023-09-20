@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Grypheldis",
+    "types": [
+        "Unlicht",
+        "Flug"
+    ],
+    "weight": 39.5
+}

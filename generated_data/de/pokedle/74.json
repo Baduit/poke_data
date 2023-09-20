@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Kleinstein",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 20.0
+}

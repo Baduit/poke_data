@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 2,
+    "height": 0.7,
+    "name": "Hoothoot",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 21.2
+}

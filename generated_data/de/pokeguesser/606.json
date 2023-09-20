@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es spricht, indem es seine Fingerspitzen leuchten\nlässt, doch noch konnte der Code dahinter nicht\nentziffert werden.",
+        "Es manipuliert die Gehirne seiner Gegner mit\nPsycho-Kräften, indem es die Bilder ihrer\nErinnerungen umgestaltet.",
+        "Es spricht, indem es seine Fingerspitzen leuchten lässt,\ndoch noch konnte der Code dahinter nicht entziffert werden.",
+        "Es manipuliert die Gehirne seiner Gegner mit Psycho-Kräften,\nindem es die Bilder ihrer Erinnerungen umgestaltet.",
+        "Mithilfe seiner Psycho-Kräfte gestaltet es die\nErinnerungen anderer um. Man weiß nie, ob es\neinen selbst bereits erwischt hat.",
+        "Es verfügt über mächtige Psycho-Kräfte. Seine\nin drei Farben leuchtenden Finger manipulieren\nandere und gestalten ihre Erinnerungen um.",
+        "Jedes Mal, wenn ein Megalon auf einer Farm\nauftaucht, verschwindet bald darauf ein Zwollock\nunter mysteriösen Umständen.",
+        "Es kann die Gedanken anderer manipulieren.\nManchmal wird es dabei beobachtet, wie es\nüber Weizenfelder gleitet."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+    "name": "Megalon",
+    "types": [
+        "Psycho"
+    ],
+    "weight": 34.5
+}

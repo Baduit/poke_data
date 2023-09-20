@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Durant",
+    "types": [
+        "Bicho",
+        "Acero"
+    ],
+    "weight": 33.0
+}

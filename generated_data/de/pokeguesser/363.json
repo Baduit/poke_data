@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Es ist noch kein guter Schwimmer und bewegt sich\nrollend schneller fort. Ist es froh, klatscht es mit\nseinen Flossen.",
+        "Sein Körper ist mit flauschigem Fell bedeckt.\nDas Fell sorgt dafür, dass es nicht friert, auch\nwenn es sich auf dem Eis hin und her rollt.",
+        "Seemops kann schneller rollen als laufen. Wenn Gruppen\ndieses Pokémon zusammen essen, klatschen sie gleichzeitig,\num ihre Freude zu zeigen. Deswegen sind ihre Mahlzeiten\nsehr laut.",
+        "Seemops bewegt sich fort, indem es seinen ballartigen Körper\nherumrollt. Wenn Eisschollen auftauchen, kann man dieses\nPokémon dabei beobachten, wie es über das Eis rollt und\ndas Meer überquert.",
+        "Der Körper von Seemops ist kugelrund und von\neiner dicken Speckschicht umgeben. Es kann\nschneller rollen als laufen.",
+        "Seemops lässt sich von den Wellen treiben, um\ndas Meer zu erkunden. Entdeckt es Beute, setzt\nes die Walraisa seiner Herde davon in Kenntnis."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "name": "Seemops",
+    "types": [
+        "Eis",
+        "Wasser"
+    ],
+    "weight": 39.5
+}

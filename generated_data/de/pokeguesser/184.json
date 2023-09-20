@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Seine langen Ohren sind hervorragende Sensoren.\nMit ihnen kann es Bewegungen im Fluss wahrnehmen.",
+        "Das blasenähnliche Muster auf seinem Bauch hilft\nihm, sich perfekt zu tarnen, wenn es im Wasser ist.",
+        "Azumarills lange Ohren dienen ihm als unentbehrliche\nSensoren. Wenn es sein Gehör fokussiert, kann dieses\nPokémon auch in reißenden Flüssen identifizieren,\nwelche Art von Beute sich in seiner Nähe befindet.",
+        "Azumarill kann aus Luft Ballons machen. Diese Luft-Ballons\nerzeugt es, wenn es ein ertrinkendes Pokémon erspäht.\nDurch die Ballons kann das Pokémon, das in Schwierigkeiten\ngeraten ist, atmen.",
+        "Es verbringt fast den ganzen Tag im Wasser.\nBei schönem Wetter lässt sich Azumarill an der\nOberfläche treiben und badet im Sonnenschein.",
+        "Azumarill kann mit Luft gefüllte Blasen erzeugen,\nin die es Azurill einhüllt, wenn diese im Fluss\nspielen."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "name": "Azumarill",
+    "types": [
+        "Wasser",
+        "Fee"
+    ],
+    "weight": 28.5
+}

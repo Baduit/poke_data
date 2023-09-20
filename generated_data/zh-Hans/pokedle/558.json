@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 5,
+    "height": 1.4,
+    "name": "岩殿居蟹",
+    "types": [
+        "虫",
+        "岩石"
+    ],
+    "weight": 200.0
+}

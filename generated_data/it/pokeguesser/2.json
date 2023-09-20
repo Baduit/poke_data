@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Dopo aver assorbito sufficienti sostanze nutrienti,\nil bulbo sulla schiena sboccia in un magnifico fiore.",
+        "Quando il bocciolo che ha sul dorso si gonfia, emana\nun dolce profumo. È indice dell’imminente fioritura.",
+        "C’è un germoglio piantato nella schiena di Ivysaur.\nPer sopportarne il peso, le zampe e il corpo crescono robusti.\nQuando inizia a passare più tempo esposto al sole, significa\nche il germoglio sboccerà presto in un grande fiore.",
+        "C’è un germoglio piantato nella schiena di Ivysaur.\nPer sopportarne il peso, le zampe e il corpo crescono robusti.\nQuando inizia a passare più tempo esposto al sole, significa\nche il germoglio sboccerà presto in un grande fiore.",
+        "Il suo bocciolo cresce assorbendo nutrimento e,\nquando è prossimo alla fioritura, emana un\nforte profumo.",
+        "Il suo bocciolo cresce assorbendo nutrimento e,\nquando è prossimo alla fioritura, emana un\nforte profumo.",
+        "Il bulbo sulla schiena è cresciuto così tanto\nda impedirgli di alzarsi in piedi sulle zampe\nposteriori.",
+        "L’esposizione alla luce solare lo rafforza\ne fa crescere il bocciolo che ha sul dorso."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "name": "Ivysaur",
+    "types": [
+        "Erba",
+        "Veleno"
+    ],
+    "weight": 13.0
+}

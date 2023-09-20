@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il ne laisse jamais échapper ses proies.\nSes mâchoires surpuissantes peuvent\nbroyer une voiture.",
+        "Ses yeux ont les mêmes propriétés que\ndes jumelles et lui permettent de voir\nles objets très éloignés en agrandi.",
+        "Un Pokémon extrêmement violent qui broie tout ce qui\nlui passe sous les yeux avec ses mâchoires.",
+        "Il ne laisse jamais échapper ses proies. Ses mâchoires\nsurpuissantes peuvent broyer une voiture.",
+        "Un Pokémon extrêmement violent qui broie tout ce qui\nlui passe sous les yeux avec ses mâchoires.",
+        "Il ne laisse jamais échapper ses proies. Ses mâchoires\nsurpuissantes peuvent broyer une voiture.",
+        "Ses yeux perçants lui permettent de détecter\nune petite proie à 50 km, même au cœur\nd’une tempête de sable.",
+        "Ses mâchoires sont si puissantes qu’il lui arrive\nde plier ou découper le corps de ses victimes\nsans même s’en rendre compte.",
+        "Il peut repérer une proie à une distance de\n50 km. Il s’approche alors en « nageant » dans\nle sable, puis lui saute dessus pour la croquer.",
+        "Lors des tempêtes de sable provoquées par\nLibégon, il se terre dans le sol, à l’affût d’une\nproie.",
+        "Il peut broyer d’épaisses plaques de fer\nd’un simple coup de mâchoire. On l’appelle\nle « tyran des sables ».",
+        "Il aime la violence, mais sait aussi se montrer\npatient lorsqu’il doit passer plusieurs jours\ndans le sable à attendre une proie."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "name": "Crocorible",
+    "types": [
+        "Sol",
+        "Ténèbres"
+    ],
+    "weight": 96.3
+}

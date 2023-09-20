@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 5,
+    "height": 0.8,
+    "name": "Voltula",
+    "types": [
+        "Käfer",
+        "Elektro"
+    ],
+    "weight": 14.3
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Seismitoad",
+    "types": [
+        "Acqua",
+        "Terra"
+    ],
+    "weight": 62.0
+}

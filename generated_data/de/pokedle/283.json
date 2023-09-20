@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.5,
+    "name": "Gehweiher",
+    "types": [
+        "Käfer",
+        "Wasser"
+    ],
+    "weight": 1.7
+}

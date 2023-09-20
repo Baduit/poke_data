@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "牢牢地粘在脚上的泥\n会提高抓地力，\n让它能够矫健的奔跑。",
+        "性格顽固，我行我素。\n吃土制作泥巴，\n玩泥巴是每天的功课。",
+        "非常喜欢玩泥巴。\n如果不每天在泥巴里玩的话，\n就会因压力而不听话。",
+        "相当有力气。\n即使驼着比自己重５０倍的货物\n也完全轻轻松松的。",
+        "力气很大，能轻松搬运\n比自己重５０倍的货物。\n非常擅长使用泥巴。",
+        "在把自己吃土制造出的泥巴\n涂在脚上之后，无论走在路况\n多么差的路上都不会打滑。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "name": "泥驴仔",
+    "types": [
+        "地面"
+    ],
+    "weight": 110.0
+}

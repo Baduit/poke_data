@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "雨が　少ない　乾燥した\n地域に　生息。１年に　１回\n黄色の　花を　咲かせる。",
+        "砂漠などの　過酷な　環境を　好む。\n体の　中に　たくわえた　水で\n３０日間　生きられる。",
+        "砂漠　など　乾燥した　地域に　生息。\n強い　花の　香りで　獲物を　誘い込み\n鋭い　体の　トゲを　飛ばして　仕留める。",
+        "雨の　少ない　厳しい　環境　ほど\nきれいで　香りの　強い　花を　咲かせる。\nトゲの　ついた　腕を　振り回して　戦う。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "name": "サボネア",
+    "types": [
+        "くさ"
+    ],
+    "weight": 51.3
+}

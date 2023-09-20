@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il lui arrive de remettre d’aplomb\nun Pikachu allié en lui envoyant\nune décharge électrique.",
+        "Il lui arrive de remettre d’aplomb\nun Pikachu allié en lui envoyant\nune décharge électrique.",
+        "Il élève sa queue pour surveiller les environs.\nElle attire souvent la foudre dans cette position.",
+        "Pikachu a de petites poches pleines d’électricité sur\nses joues. S’il se sent menacé, il laisse s’échapper\ndes décharges électriques.",
+        "Chaque fois que Pikachu découvre quelque chose de\nnouveau, il envoie un arc électrique. Lorsqu’on tombe\nsur une Baie carbonisée, ça signifie sans doute qu’un\nde ces Pokémon a envoyé une charge trop forte.",
+        "Ce Pokémon dispose de petites poches dans les joues pour\nstocker de l’électricité. Elles semblent se charger pendant\nque Pikachu dort. Il libère parfois un peu d’électricité\nlorsqu’il n’est pas encore bien réveillé.",
+        "Un projet de centrale électrique fonctionnant\nen rassemblant une foule de Pikachu a été\nrécemment annoncé.",
+        "Un Pokémon capable de condenser l’électricité.\nIl doit décharger l’énergie accumulée de temps\nen temps au risque d’accroître son stress.",
+        "Son corps peut accumuler de l’électricité.\nLes forêts abritant des groupes de Pikachu\nsont d’ailleurs souvent frappées par la foudre.",
+        "Quand il dort, il génère de l’électricité dans les\npoches de ses joues. S’il manque de sommeil,\nil ne peut plus émettre qu’un faible courant.",
+        "Ce Pokémon des bois accumule de l’électricité\ndans les poches de ses joues. Il ne faut pas les\ntoucher sous peine de recevoir une décharge.",
+        "Ce Pokémon des bois accumule de l’électricité\ndans les poches de ses joues. Il ne faut pas les\ntoucher sous peine de recevoir une décharge.",
+        "Plus la puissance électrique de Pikachu est élevée,\nplus les poches de ses joues sont extensibles.",
+        "Les Pikachu se disent bonjour en se frottant\nla queue et en y faisant passer du courant\nélectrique."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "name": "Pikachu",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 6.0
+}

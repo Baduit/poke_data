@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 9,
+    "height": 3.2,
+    "name": "Slither Wing",
+    "types": [
+        "Bug",
+        "Fighting"
+    ],
+    "weight": 92.0
+}

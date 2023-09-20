@@ -1,0 +1,37 @@
+{
+    "descriptions": [
+        "BARBOACH’s sensitive whiskers serve\nas a superb radar system.\nThis POKéMON hides in mud, leaving only\fits two whiskers exposed while it waits\nfor prey to come along.",
+        "BARBOACH’s body is covered with a\nslimy film. If a foe grabs it, this\nPOKéMON just slips out of the enemy’s\fgrip.\nThis POKéMON grows weak if the slimy\ncoating dries up.",
+        "Its body is covered with a slimy film.\nThe film acts as a barrier to prevent germs\nin muddy water from entering the\nBARBOACH’s body.",
+        "It probes muddy riverbeds with its two\nlong whiskers. A slimy film protects its\nbody.",
+        "It probes muddy riverbeds with its two\nlong whiskers. A slimy film protects its\nbody.",
+        "It coats its entire body with a\nslimy fluid so it can squirm and\nslip away if grabbed.",
+        "Its whiskers make a superb radar.\nThey are used to locate prey,\neven in the murkiest of water.",
+        "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud.",
+        "BARBOACH uses its whiskers to\ntaste things just as a person uses\nhis or her tongue to taste things.",
+        "BARBOACH uses its whiskers to\ntaste things just as a person uses\nhis or her tongue to taste things.",
+        "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud.",
+        "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud.",
+        "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud.",
+        "Its slimy body is hard to grasp. In\none region, it is said to have been\nborn from hardened mud.",
+        "It coats its entire body with a slimy fluid so it can\nsquirm and slip away if grabbed.",
+        "Its whiskers make a superb radar. They are used to\nlocate prey, even in the murkiest of water.",
+        "Barboach’s sensitive whiskers serve as a superb radar system.\nThis Pokémon hides in mud, leaving only its two whiskers\nexposed while it waits for prey to come along.",
+        "Barboach’s body is covered with a slimy film. If a foe grabs it,\nthis Pokémon just slips out of the enemy’s grip. This Pokémon\ngrows weak if the slimy coating dries up.",
+        "Its two whiskers provide a sensitive radar.\nEven in muddy waters, it can detect its\nprey’s location.",
+        "Its slippery body is hard to grasp, so much so\nthat there are festivals where people compete\nto see how many they can catch barehanded.",
+        "Its entire body is gooey. When pecked at by\nbird Pokémon, it slips and slides its way\nto freedom.",
+        "Its whiskers are filled with nerves. They can\nsense smells and flavors just as a person’s nose\nor tongue would.",
+        "Its slimy body is hard to grasp. In one region, it is\nsaid to have been born from hardened mud.",
+        "It probes muddy riverbeds with its two long\nwhiskers. A slimy film protects its body.",
+        "Makes its home in swamps with murky water. The poor visibility\nhides this Pokémon from predators, and the slime on its body\nmakes grasping it difficult."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "name": "Barboach",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "weight": 1.9
+}

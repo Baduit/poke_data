@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es fácil reconocerlo por tener una dura piel y un gran\ncuerno lleno de peligrosísimo veneno.",
+        "Un golpe de su poderosa cola puede partir un poste\nde teléfono como si fuese una cerilla.",
+        "La gruesa cola de Nidoking encierra una fuerza realmente\ndestructora. Con una vez que la agite, es capaz de tumbar\nuna torre metálica de transmisión. Una vez que este Pokémon\nse desboca, no hay quien lo pare.",
+        "La gruesa cola de Nidoking encierra una fuerza realmente\ndestructora. Con una vez que la agite, es capaz de tumbar\nuna torre metálica de transmisión. Una vez que este Pokémon\nse desboca, no hay quien lo pare.",
+        "Su piel dura como el acero refuerza el impacto\nal cargar contra sus enemigos. Su cuerno puede\natravesar hasta diamantes.",
+        "Su piel dura como el acero refuerza el impacto\nal cargar contra sus enemigos. Su cuerno puede\natravesar hasta diamantes.",
+        "Una vez que se desboca, no hay quien lo pare.\nSolo se calma ante Nidoqueen, su compañera de\ntoda la vida.",
+        "Presume de su hercúlea fuerza y combate\nvigorosamente con su robusta cola y su cuerno,\ncon el que hasta puede pulverizar diamantes."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "name": "Nidoking",
+    "types": [
+        "Veneno",
+        "Tierra"
+    ],
+    "weight": 62.0
+}

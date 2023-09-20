@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "当训练家高兴的时候，\n奇鲁莉安会充满能量，\n开心地转着圈跳舞。",
+        "可以通过操纵精神力量\n扭曲周围的空间来看清未来。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "name": "奇鲁莉安",
+    "types": [
+        "超能力",
+        "妖精"
+    ],
+    "weight": 20.2
+}

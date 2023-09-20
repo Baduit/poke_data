@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "見張り役は　鋭く　鳴いたり\n尻尾で　地面を　たたいたりして\n仲間に　危険を　知らせる。",
+        "遠くまで　見れるように　尻尾を\n使って　立つ。敵を　見つけると\n大声で　仲間に　知らせる。",
+        "眠る　ときには　交代で　見張りをする。\n危険を　察知すると　仲間を　おこすのだ。\n群れから　はぐれると　怖くて　眠れなくなる。",
+        "眠る　ときには　交代で　見張りをする。\n危険を　察知すると　仲間を　おこすのだ。\n群れから　はぐれると　怖くて　眠れなくなる。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+    "name": "オタチ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 6.0
+}

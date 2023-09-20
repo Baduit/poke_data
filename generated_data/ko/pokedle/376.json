@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 3,
+    "height": 1.6,
+    "name": "메타그로스",
+    "types": [
+        "강철",
+        "에스퍼"
+    ],
+    "weight": 550.0
+}

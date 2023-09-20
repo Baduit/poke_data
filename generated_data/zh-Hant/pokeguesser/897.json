@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "會利用視覺之外的感官\n去探測周圍的狀況。據說\n被牠踢到時靈魂就會出竅。",
+        "在漆黑的夜裡奔馳，吸取\n正在睡覺的生物的生命能量。\n喜愛孤獨與寂靜。"
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "name": "靈幽馬",
+    "types": [
+        "幽靈"
+    ],
+    "weight": 44.5
+}

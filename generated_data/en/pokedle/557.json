@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Dwebble",
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "weight": 14.5
+}

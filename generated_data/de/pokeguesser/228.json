@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Im Morgengrauen schallt sein ominöses Geheule\nüber das Gebiet, das es für sich beansprucht.",
+        "Sie treiben ihre Beute in die Enge und orientieren sich\ndabei anhand ihres Bellens, das nur sie verstehen.",
+        "Hunduster jagen in Gruppen. Sie kommunizieren miteinander\nüber verschiedene Arten von Geheul und treiben ihre Feinde in\ndie Enge. Die Zusammenarbeit dieser Pokémon ist einzigartig.",
+        "Hunduster jagen in Gruppen. Sie kommunizieren miteinander\nüber verschiedene Arten von Geheul und treiben ihre Feinde in\ndie Enge. Die Zusammenarbeit dieser Pokémon ist einzigartig.",
+        "Es ist auf Zusammenarbeit spezialisiert und\nfolgt den Befehlen seines Trainers aufs Wort.",
+        "Mit wiederholtem unheimlichen Heulen vor\nTagesanbruch machen sie auf die Existenz\nihres Rudels aufmerksam."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "name": "Hunduster",
+    "types": [
+        "Unlicht",
+        "Feuer"
+    ],
+    "weight": 10.8
+}

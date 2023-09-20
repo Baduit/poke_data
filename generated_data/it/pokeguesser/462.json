@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "A volte si attraggono l’un l’altro con la loro\npotentissima carica magnetica e poi non riescono\npiù a muoversi.",
+        "Si è evoluto in seguito all’esposizione a uno speciale\ncampo magnetico. Tre unità generano magnetismo.",
+        "A volte si attraggono l’un l’altro con la loro potentissima\ncarica magnetica e poi non riescono più a muoversi.",
+        "Si è evoluto in seguito all’esposizione a uno speciale campo\nmagnetico. Tre unità generano magnetismo.",
+        "Le sue tre unità generano magnetismo.\nQuando vola nel cielo notturno, viene spesso\nscambiato per un UFO.",
+        "Fluttua in aria trasmettendo e ricevendo\nmisteriose onde elettromagnetiche.",
+        "Sorveglia il suo territorio via radar ed elimina\nimmediatamente gli intrusi con un raggio\ndistruttore.",
+        "Ancora oggi c’è chi crede che Magnezone sia\nvenuto dallo spazio. Emette un’intensa forza\nmagnetica.",
+        "Si dice che venga controllato tramite onde\nelettromagnetiche provenienti dallo spazio,\nche capta con l’antenna posta sulla testa.",
+        "Si pensa che la sua struttura molecolare sia\nmutata in seguito all’esposizione a uno speciale\ncampo magnetico, che ha innescato l’evoluzione."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "name": "Magnezone",
+    "types": [
+        "Elettro",
+        "Acciaio"
+    ],
+    "weight": 180.0
+}

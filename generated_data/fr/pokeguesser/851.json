@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Quand il génère de la chaleur, sa température\nest d’environ 800 °C. Il se sert de son corps\ncomme d’un fouet pour sauter sur ses ennemis.",
+        "Il est de nature agressive. Non seulement\nson corps brûlant est dangereux, mais il possède\nen plus d’énormes crocs très pointus."
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "name": "Scolocendre",
+    "types": [
+        "Feu",
+        "Insecte"
+    ],
+    "weight": 120.0
+}

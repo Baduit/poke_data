@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ほかの　ポケモンの　住処でも\n居心地が　良ければ　居座って\n自分の　住処に　してしまう。",
+        "体を　大きく　見せて　相手を\n威圧するため　ふたまたの　尻尾で\nウエストを　ぎゅっと　絞っている。",
+        "ほかの　ポケモンの　住処でも\n居心地が　良ければ　居座って\n自分の　住処に　してしまう。",
+        "体を　大きく　見せて　相手を\n威圧するため　ふたまたの　尻尾で\nウエストを　ぎゅっと　絞っている。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+    "name": "ブニャット",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 43.8
+}

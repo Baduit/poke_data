@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 2.5,
+    "name": "Scolipede",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "weight": 200.5
+}

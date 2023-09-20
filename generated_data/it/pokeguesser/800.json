@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Pare che questo essere simile a un’Ultracreatura\nsia giunto da un altro mondo in tempi antichi e\nsia rimasto a lungo dormiente sottoterra.",
+        "La luce sembra essere la sua fonte di energia.\nÈ estremamente aggressivo e gli basta molto\npoco per mettersi a sparare raggi laser.",
+        "Pare che sia una creatura di un altro mondo.\nLa luce è la sua fonte d’energia e la cerca con\nfuria, rivelando sofferenza.",
+        "La luce è la sua fonte di energia. Quando non\nriesce a consumarne, accumula impurità che lo\nscuriscono e gli impediscono di muoversi.",
+        "La luce è la sua fonte d’energia. Deve il colore\nnero del corpo alle impurità accumulatesi al suo\ninterno mentre giaceva addormentato sottoterra.",
+        "Cerca con furia la luce di cui si nutre,\ndistruggendo ogni cosa al suo passaggio\ncon i suoi micidiali raggi laser."
+    ],
+    "height": 2.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
+    "name": "Necrozma",
+    "types": [
+        "Psico"
+    ],
+    "weight": 230.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 7,
+    "height": 0.6,
+    "name": "Oricorio",
+    "types": [
+        "Fuoco",
+        "Volante"
+    ],
+    "weight": 3.4
+}

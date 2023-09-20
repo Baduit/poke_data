@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "自由自在地指挥孩子们\n与敌人战斗。孩子们会\n为了蜂女王而拼上性命。",
+        "能释放越多费洛蒙的蜂女王，\n就能让越多的三蜜蜂\n听从自己的指挥。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "name": "蜂女王",
+    "types": [
+        "虫",
+        "飞行"
+    ],
+    "weight": 38.5
+}

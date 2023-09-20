@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Speichert Elektrizität in seinem Körper.\nBei einem Campingausflug kann man wohl kein\npraktischeres Pokémon dabeihaben!",
+        "Beim Verdauen der Nahrung entsteht\nelektrische Energie, die es in seinem\nStrombeutel speichert.",
+        "Es vergräbt sich unter Blättern, wo es nahezu\nregungslos verharrt und Humus frisst. Tritt man\nversehentlich auf es, verteilt es Stromschläge.",
+        "Wird es angegriffen, gewährt ihm sein robuster\nPanzer hervorragenden Schutz. Hartnäckige\nGegner greift es mit Elektro-Attacken an.",
+        "Es schützt sich mithilfe seines robusten Panzers.\nDurch die Spitzen an seinem Kiefer leitet es\nStrom, mit dem es sich gegen Angreifer wehrt.",
+        "Gefressenes Laub verwandelt es während der\nVerdauung in elektrische Energie, die in einem\nStrombeutel in seinem Magen gespeichert wird."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+    "name": "Akkup",
+    "types": [
+        "Käfer",
+        "Elektro"
+    ],
+    "weight": 10.5
+}

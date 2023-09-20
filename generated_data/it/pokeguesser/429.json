@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Recita incantesimi che tormentano il nemico.\nTuttavia, alcune formule portano felicità.",
+        "Tormenta i malcapitati con un verso simile a formule\nmagiche. Appare dovunque in qualsiasi momento.",
+        "Recita incantesimi che tormentano il nemico. Tuttavia, alcune\nformule portano felicità.",
+        "Tormenta i malcapitati con un verso simile a formule magiche.\nAppare dovunque in qualsiasi momento.",
+        "Appare dal nulla recitando formule magiche\nche causano sventura o provocano spaventose\nvisioni.",
+        "Conosce formule magiche e incantesimi\nd’amore. Molti fanno della sua ricerca la loro\nragione di vita.",
+        "È temuto perché lancia maledizioni e causa\nsventure, ma a volte decide di usare i suoi\nincantesimi per aiutare le persone.",
+        "Infligge tormenti al nemico recitando formule\nmalefiche che causano terribili emicranie o\nprovocano spaventose visioni."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "name": "Mismagius",
+    "types": [
+        "Spettro"
+    ],
+    "weight": 4.4
+}

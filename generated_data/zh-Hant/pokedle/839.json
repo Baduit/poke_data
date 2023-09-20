@@ -1,0 +1,11 @@
+{
+    "color": "黑色",
+    "generation": 8,
+    "height": 2.8,
+    "name": "巨炭山",
+    "types": [
+        "岩石",
+        "火"
+    ],
+    "weight": 310.5
+}

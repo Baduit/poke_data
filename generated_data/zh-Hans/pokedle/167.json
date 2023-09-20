@@ -1,0 +1,11 @@
+{
+    "color": "绿色",
+    "generation": 2,
+    "height": 0.5,
+    "name": "圆丝蛛",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 8.5
+}

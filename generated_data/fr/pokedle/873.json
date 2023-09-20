@@ -1,0 +1,11 @@
+{
+    "color": "Blanc",
+    "generation": 8,
+    "height": 1.3,
+    "name": "Beldeneige",
+    "types": [
+        "Glace",
+        "Insecte"
+    ],
+    "weight": 42.0
+}

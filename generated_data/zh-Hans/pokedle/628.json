@@ -1,0 +1,11 @@
+{
+    "color": "红色",
+    "generation": 5,
+    "height": 1.5,
+    "name": "勇士雄鹰",
+    "types": [
+        "一般",
+        "飞行"
+    ],
+    "weight": 41.0
+}

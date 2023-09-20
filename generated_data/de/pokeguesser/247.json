@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Sein Körper ist hart wie Fels. Es lässt mit\nHochdruck Gas ab, um wie eine Rakete nach\noben zu schießen.",
+        "Es ist sehr stark und sein Panzer ist steinhart. Setzt es\nFuchtler ein, kann es einen Berg umstürzen.",
+        "Pupitar erzeugt in seinem Körper ein Gas, das es komprimiert\nund kraftvoll ausstößt, um sich wie ein Düsenflugzeug\nanzutreiben. Sein Körper ist sehr robust und er hält auch\nmassivem Stahl stand.",
+        "Pupitar erzeugt in seinem Körper ein Gas, das es komprimiert\nund kraftvoll ausstößt, um sich wie ein Düsenflugzeug\nanzutreiben. Sein Körper ist robust und hält auch Angriffen mit\nmassivem Stahl stand.",
+        "Es kann seine Entwicklung nicht erwarten und\nstört andere, wenn es zum Stressabbau mithilfe\nvon komprimiertem Gas durch die Luft zischt.",
+        "Pupitar ist wild und gefährlich. In seinem\nsteinharten Panzer arbeitet es an der\nFertigstellung seines nächsten Körpers.",
+        "Trotz seiner harten Schale kann es sich frei\nbewegen. Es ist flink und äußerst zerstörerisch.",
+        "Obwohl es sich noch im Puppenstadium befindet,\nbewegt es sich rege. Es hat schon Arme und\nBeine unter seinem harten Panzer."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "name": "Pupitar",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 152.0
+}

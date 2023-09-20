@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "By blasting water from its hooves, it can\nglide across water. It excels at using\nleg moves while battling.",
+        "It crosses the world, running over\nthe surfaces of oceans and rivers.\nIt appears at scenic waterfronts.",
+        "When it is resolute, its body fills\nwith power and it becomes swifter.\nIts jumps are then too fast to follow.",
+        "When it is resolute, its body fills\nwith power and it becomes swifter.\nIts jumps are then too fast to follow.",
+        "It crosses the world, running over the surfaces of\noceans and rivers. It appears at scenic waterfronts.",
+        "When it is resolute, its body fills with power and it\nbecomes swifter. Its jumps are then too fast\nto follow.",
+        "It crosses the world, running over the surfaces of\noceans and rivers. It appears at scenic waterfronts.",
+        "When it is resolute, its body fills with power and it\nbecomes swifter. Its jumps are then too fast\nto follow.",
+        "Cobalion, Terrakion, and Virizion taught this\nPokémon how to fight. It dashes across the world,\nseeking more opportunities to further its training.",
+        "They say that Keldeo must survive harsh battles\nand fully develop the horn on its forehead\nbefore this Pokémon’s true power will awaken."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "name": "Keldeo",
+    "types": [
+        "Water",
+        "Fighting"
+    ],
+    "weight": 48.5
+}

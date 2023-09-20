@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Quando corre produce elettricità dalla base\ndella coda. A Galar è apprezzato soprattutto\nper l’aiuto che fornisce ai pastori nei pascoli.",
+        "È un golosone e aiuta gli uomini in cambio\ndi ghiottonerie. Corre di qua e di là\nemettendo scintille da tutto il corpo."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "name": "Yamper",
+    "types": [
+        "Elettro"
+    ],
+    "weight": 13.5
+}

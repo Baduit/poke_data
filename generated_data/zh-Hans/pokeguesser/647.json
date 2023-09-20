@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "从勾帕路翁、代拉基翁和\n毕力吉翁那里学会了战斗。\n驰骋全世界，不断修行。",
+        "据说当它挺过了艰难的战斗，\n额头上的角就能得到锻炼，\n从而激发出自己真正的力量。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "name": "凯路迪欧",
+    "types": [
+        "水",
+        "格斗"
+    ],
+    "weight": 48.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "C’est le rival de Séviper depuis\ndes générations. Ses griffes\naiguisées sont son meilleur atout.",
+        "C’est le rival de Séviper depuis\ndes générations. Ses griffes\naiguisées sont son meilleur atout.",
+        "C’est le rival de Séviper depuis des générations.\nSes griffes aiguisées sont son meilleur atout.",
+        "Son poil se hérisse dès qu’il sent un Séviper.\nIl lacère ses ennemis avec ses griffes acérées.",
+        "Chaque cellule du corps de Mangriff porte les stigmates\nde sa rivalité avec Séviper. Ce Pokémon est capable\nd’esquiver les attaques avec une agilité incroyable.",
+        "Mangriff est généralement à quatre pattes, mais lorsqu’il\nest en colère, il se lève sur ses pattes arrière et montre\nses griffes. Ce Pokémon est l’ennemi juré de Séviper depuis\nplusieurs générations."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+    "name": "Mangriff",
+    "types": [
+        "Normal"
+    ],
+    "weight": 40.3
+}

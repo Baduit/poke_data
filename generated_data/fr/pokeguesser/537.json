@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il fait gicler un liquide paralysant des\npustules sur sa tête, et attaque\nses ennemis à coups de vibrations.",
+        "Son coup de poing est plus fort quand il\nfait vibrer la pustule dessus. Il peut\nbriser un gros rocher d’un coup.",
+        "Son coup de poing est plus fort quand il fait vibrer\nla pustule dessus. Il peut briser un gros rocher d’un\ncoup.",
+        "Il fait gicler un liquide paralysant des pustules sur\nsa tête, et attaque ses ennemis à coups de vibrations.",
+        "Son coup de poing est plus fort quand il fait vibrer la pustule\ndessus. Il peut briser un gros rocher d’un coup.",
+        "Il fait gicler un liquide paralysant des pustules sur sa tête,\net attaque ses ennemis à coups de vibrations.",
+        "En faisant vibrer tous les pustules de son corps,\nil peut provoquer des secousses similaires à celles\nd’un séisme. Il est proche des Cradopaud.",
+        "Ce Pokémon est un excellent masseur grâce\naux vibrations de ses pustules. Les personnes\nâgées l’apprécient particulièrement."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+    "name": "Crapustule",
+    "types": [
+        "Eau",
+        "Sol"
+    ],
+    "weight": 62.0
+}

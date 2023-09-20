@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Los Bellossom suelen reunirse para bailar. Dicen que\nsus danzas son un ritual para invocar al sol.",
+        "Cuando acaba la estación de las lluvias, sale al sol e\ninicia una peculiar danza.",
+        "Cuando Bellossom se expone a gran cantidad de luz solar, le\nempiezan a girar las hojas que le rodean. La danza de este\nPokémon es famosa en las zonas del sur.",
+        "La belleza de las flores que le crecen a Bellossom depende\nde lo mal que oliera el Gloom a partir del cual evolucionó.\nA mayor hedor, mayor belleza. Por la noche, este Pokémon\ncierra los pétalos y se echa a dormir.",
+        "Abunda en los trópicos. Al bailar, sus pétalos se\nrozan y emiten un agradable sonido.",
+        "Los Bellossom se reúnen en ocasiones para\nejecutar una especie de danza, considerada\nun ritual para invocar al sol."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "name": "Bellossom",
+    "types": [
+        "Planta"
+    ],
+    "weight": 5.8
+}

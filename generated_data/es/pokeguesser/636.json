@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Se dice que nació del sol. Al evolucionar, cubre su\ncuerpo con llamas que brotan de sus cuernos.",
+        "Vive en las laderas de los volcanes. Emite fuego por\nsus cinco cuernos para ahuyentar a sus enemigos.",
+        "Se dice que nació del sol. Al evolucionar, cubre su cuerpo\ncon llamas que brotan de sus cuernos.",
+        "Vive en las laderas de los volcanes. Emite fuego por sus cinco\ncuernos para ahuyentar a sus enemigos.",
+        "Cuando ha de enfrentarse a un rival, expulsa a\ntravés de los cinco cuernos llamaradas que\nllegan a alcanzar temperaturas de 3000 ºC.",
+        "Utiliza las llamas para defenderse. La gente de\népocas pasadas tenía la creencia de que\nanidaba en el propio sol.",
+        "Antaño se creía que este Pokémon provenía del\nmismísimo sol.",
+        "Su cuerpo es cálido. Expulsa llamaradas por los\ncuernos con el fin de intimidar a sus enemigos y\npresas."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "name": "Larvesta",
+    "types": [
+        "Bicho",
+        "Fuego"
+    ],
+    "weight": 28.8
+}

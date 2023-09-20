@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il attaque en banc quand on menace\nson territoire. Ses dents aiguisées\npeuvent couler un navire.",
+        "Il attaque en banc quand on menace\nson territoire. Ses dents aiguisées\npeuvent couler un navire.",
+        "Il s’attaque en banc aux bateaux dont il dévore la\ncoque. Les rivières de la jungle forment son habitat.",
+        "Ce Pokémon vit dans les fleuves qui traversent les\nforêts tropicales. Il attaque en groupe ceux qui\ns’aventurent sur son territoire.",
+        "Les mâchoires surdéveloppées de Carvanha et ses crocs\nacérés sont si puissants qu’ils peuvent déchirer la coque\ndes bateaux. De nombreux navires ont été attaqués\net coulés par ce Pokémon.",
+        "Si un intrus s’aventure sur le territoire des Carvanha, ils se\nruent sur lui et le mordent à l’aide de leurs crocs acérés.\nEn revanche, lorsqu’il est seul, ce Pokémon devient tout\nà coup très timide.",
+        "Il protège son territoire en se déplaçant en banc.\nLe moindre intrus est raccompagné sans pitié,\nà grands claquements de mâchoire.",
+        "En banc, il guette l’odeur du sang et fond sur\nsa proie sans aucune pitié. Seul, il se montre\nplus timoré.",
+        "C’est un couard qui ne chasse jamais tout seul.\nDès qu’il se retrouve dans un groupe de cinq,\npar contre, il devient on ne peut plus féroce !",
+        "Grâce à sa mâchoire d’acier et ses dents\nacérées, il déchiquette sans peine les canots.\nBargantua et lui se disputent le menu fretin.",
+        "Il ne s’attaque jamais à une proie tout seul,\npréférant attendre l’arrivée de ses congénères\npour lancer l’assaut.",
+        "Il possède une mâchoire puissante garnie de\ndents acérées. Les marins ne s’approchent\njamais des eaux habitées par les Carvanha."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "name": "Carvanha",
+    "types": [
+        "Eau",
+        "Ténèbres"
+    ],
+    "weight": 20.8
+}

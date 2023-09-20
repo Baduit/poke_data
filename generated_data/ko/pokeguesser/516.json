@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "꼬리에서 발사하는 고압의 물은\n콘크리트 벽도 파괴할 수 있는\n위력을 지녔다.",
+        "물이 깨끗한 장소를 좋아한다.\n머리에 모아둔 물이 줄어들면\n꼬리에서 빨아올려 보급한다.",
+        "꼬리에서 발사하는 고압의 물은\n콘크리트 벽도 파괴할 수 있는\n위력을 지녔다.",
+        "물이 깨끗한 장소를 좋아한다.\n머리에 모아둔 물이 줄어들면\n꼬리에서 빨아올려 보급한다."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "name": "앗차키",
+    "types": [
+        "물"
+    ],
+    "weight": 29.0
+}

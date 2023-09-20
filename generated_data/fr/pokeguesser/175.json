@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il transforme les émotions\npositives des autres en bonheur\nqu’il stocke dans sa coquille.",
+        "Il transforme les émotions\npositives des autres en bonheur\nqu’il stocke dans sa coquille.",
+        "Sa coquille est remplie de joie. On dit que s’il est\nbien traité, il porte chance.",
+        "Un proverbe nous enseigne que le bonheur touchera\ncelui qui peut faire tenir debout un Togepi endormi.",
+        "L’énergie de Togepi provient des émotions positives et\ndu plaisir exprimé par les gens et les Pokémon.\nCe Pokémon accumule les sentiments de bonheur dans\nsa coquille, puis les partage avec les autres.",
+        "L’énergie de Togepi provient des émotions positives et\ndu plaisir exprimé par les gens et les Pokémon.\nCe Pokémon accumule les sentiments de bonheur dans\nsa coquille, puis les partage avec les autres.",
+        "Sa coquille est remplie de joie.\nOn dit que s’il est bien traité, il porte chance.",
+        "C’est un symbole de chance.\nOn dit que sa coquille est remplie de joie."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+    "name": "Togepi",
+    "types": [
+        "Fée"
+    ],
+    "weight": 1.5
+}

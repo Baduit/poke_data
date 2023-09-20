@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Trafigge la preda con gli aculei del collo e dopo\naverla immobilizzata la finisce con le sue tossine.",
+        "Incalza la preda con movimenti rapidi e la attacca\nripetutamente con le corna. Non si ferma fino al\ncolpo di grazia.",
+        "Trafigge la preda con gli aculei del collo e dopo averla\nimmobilizzata la finisce con le sue tossine.",
+        "Incalza la preda con movimenti rapidi e la attacca\nripetutamente con le corna. Non si ferma fino al colpo\ndi grazia.",
+        "Sbatte a terra la preda afferrandola con gli artigli\ndel collo per poi infilzarla con le punte velenose.",
+        "Lotta ferocemente con Centiskorch per il\ncontrollo sul territorio. Il perdente diventa\npreda del vincitore."
+    ],
+    "height": 2.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "name": "Scolipede",
+    "types": [
+        "Coleottero",
+        "Veleno"
+    ],
+    "weight": 200.5
+}

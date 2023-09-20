@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dieses Pokémon wurde lange Zeit erforscht,\num als Energiequelle für einen besonderen\nMotor zu dienen.",
+        "Sein Körper besteht aus Plasma. Mit ihm kann es\nin elektrische Geräte eindringen und für Chaos sorgen.",
+        "Dieses Pokémon wurde lange Zeit erforscht, um als\nEnergiequelle für einen besonderen Motor zu dienen.",
+        "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische\nGeräte eindringen und für Chaos sorgen.",
+        "Die Erfindung eines jungen Tüftlers hat zu der\nHerstellung verschiedener Geräte geführt, die\ndas Potenzial von Rotom nutzen können.",
+        "Mit seinem aus Plasma bestehenden Körper kann\nes in verschiedene Geräte schlüpfen. Es liebt es,\nandere zu erschrecken."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "name": "Rotom",
+    "types": [
+        "Elektro",
+        "Geist"
+    ],
+    "weight": 0.3
+}

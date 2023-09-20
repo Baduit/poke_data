@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Sein Puls ist konstant so hoch, dass sein Blut\nimmer in Wallung ist und es keine Sekunde\nstillhalten kann.",
+        "Würde es sich nicht bewegen, würde sein Stress\nunerträglich und es ginge ihm augenblicklich\nschlechter.",
+        "Muntier brennt darauf, sich auszutoben. Es kann nicht einmal\nfür eine Minute stillsitzen. Es gerät in Stress, wenn es sich\nnicht andauernd bewegen kann.",
+        "Muntier findet einfach keine Ruhe. Wenn es versucht\nzu schlafen, beginnt das Blut in seinen Adern zu pulsieren.\nDann muss es wie wild durch den Dschungel rennen,\num überhaupt Ruhe zu finden."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "name": "Muntier",
+    "types": [
+        "Normal"
+    ],
+    "weight": 46.5
+}

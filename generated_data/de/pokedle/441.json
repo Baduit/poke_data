@@ -1,0 +1,11 @@
+{
+    "color": "Schwarz",
+    "generation": 4,
+    "height": 0.5,
+    "name": "Plaudagei",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 1.9
+}

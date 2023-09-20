@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "一根毛髮也沒有的皮膚\n跟橡膠一樣不會導電，\n即使觸碰到也很安全。",
+        "會將電力儲存在鬆軟的毛中。\n因為儲存了太多電力，\n身上有些地方變得光禿禿的。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "name": "茸茸羊",
+    "types": [
+        "電"
+    ],
+    "weight": 13.3
+}

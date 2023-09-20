@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 7,
+    "height": 1.9,
+    "name": "Tokotoro",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 45.5
+}

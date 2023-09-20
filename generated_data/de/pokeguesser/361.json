@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Gerüchten zufolge sammeln sich Schneppke unter\nriesigen Blättern und leben dort friedlich zusammen.",
+        "Im Land des Schnees sagt eine Legende, dass in\nein Haus Wohlstand einzieht, wenn es darin lebt.",
+        "Schneppke lebt in Gebieten mit heftigem Schneefall.\nIn Jahreszeiten, in denen es nicht schneit, wie im Frühling\noder im Sommer, nimmt das Pokémon Reißaus, um in einer\nHöhle ein ruhiges Leben zwischen Stalaktiten und Stalagmiten\nzu führen.",
+        "Schneppke kann überleben, indem es nur Schnee und Eis\nzu sich nimmt. Alte Überlieferungen besagen, dass ein Haus,\nwelches von diesem Pokémon besucht wird, vielen kommenden\nGenerationen Glück und Erfolg beschert.",
+        "Schneppke hat sich rasant in Alola verbreitet.\nEs heißt, das Haus, in dem es lebt, werde über\nviele Generationen blühen und gedeihen.",
+        "Schneppke kann nur in besonders kalten\nGebieten leben. Selbst bei -100 °C hopst es\nmunter umher.",
+        "Es ernährt sich hauptsächlich von Eis und\nSchnee. Im warmen Alola kann es daher nur\nan wenigen Orten überleben.",
+        "Wohlhabende Leute aus kalten Gebieten haben\nalle in ihrer Kindheit mit Schneppke gespielt.",
+        "Erscheint es mitten in der Nacht, so sagt man,\nsteht starker Schneefall bevor. Es ernährt sich\nvon Eis und Schnee.",
+        "Schneppke kann nur in besonders kalten\nGebieten leben. Selbst bei -100 ºC hopst es\nmunter umher."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "name": "Schneppke",
+    "types": [
+        "Eis"
+    ],
+    "weight": 16.8
+}

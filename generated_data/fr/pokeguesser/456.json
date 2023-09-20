@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "La ligne qui fait le tour de son\ncorps stocke l’énergie solaire\net brille dans la nuit.",
+        "La ligne qui fait le tour de son\ncorps stocke l’énergie solaire\net brille dans la nuit.",
+        "La ligne qui fait le tour de son corps stocke l’énergie\nsolaire et brille dans la nuit.",
+        "Après une longue exposition au soleil, les motifs de\nses nageoires caudales luisent à la nuit tombée.",
+        "La ligne qui fait le tour de son corps stocke l’énergie solaire\net brille dans la nuit.",
+        "Après une longue exposition au soleil, les motifs de\nses nageoires caudales luisent à la nuit tombée.",
+        "Il stocke les rayons solaires grâce aux parties\nroses de sa peau, qui brillent ensuite. Il s’agirait\nen fait d’une technique de camouflage.",
+        "Avec sa double nageoire caudale, il peut bondir\nhors de l’eau. C’est souvent à ce moment que\nles Goélise de passage l’attrapent et le gobent.",
+        "Les motifs roses de sa peau brillent la nuit.\nDes stations balnéaires l’attirent avec de la\nnourriture, car il est très aimé des plongeurs.",
+        "Il attire ses proies avec ses nageoires caudales\nlumineuses. Il passe la journée à la surface\net se retire dans les abysses la nuit venue."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+    "name": "Écayon",
+    "types": [
+        "Eau"
+    ],
+    "weight": 7.0
+}

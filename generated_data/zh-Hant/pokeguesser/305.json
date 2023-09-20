@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "可多拉棲息的山區有\n豐富的泉水和鐵礦石，\n因此常會與人類起紛爭。",
+        "會互相碰撞身體來爭奪地盤。\n仔細看牠的鋼鐵盔甲，就會\n發現有傷痕及凹痕。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "name": "可多拉",
+    "types": [
+        "鋼",
+        "岩石"
+    ],
+    "weight": 120.0
+}

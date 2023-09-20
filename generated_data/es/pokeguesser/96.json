@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Adormece a sus enemigos y se come sus sueños.\nA veces se pone enfermo si come pesadillas.",
+        "Si crees haber tenido un buen sueño y no puedes\nacordarte, seguro que se lo ha comido un Drowzee.",
+        "Si a alguien le pica la nariz mientras duerme, seguro que es\nporque tiene a uno de estos Pokémon cerca de la almohada\nintentando sacarle los sueños por la nariz para comérselos.",
+        "Si a alguien le pica la nariz mientras duerme, seguro que es\nporque tiene a uno de estos Pokémon cerca de la almohada\nintentando sacarle los sueños por la nariz para comérselos.",
+        "Drowzee se alimenta de sueños. Se cree que\ncomparte antepasados con Munna y Musharna.",
+        "Los sueños divertidos son sus favoritos. Si\nconsigues hacerte su amigo, es posible que te\nenseñe el sueño más delicioso que haya tenido.",
+        "Se lo puede ver cerca de instalaciones lúdicas\ndonde, al caer la noche, sale a la caza de los\nsueños de los niños.",
+        "Duerme a sus víctimas para luego devorar sus\nsueños. Las pesadillas no son de su agrado, ya\nque al parecer tienen un regusto agrio.",
+        "Si se duerme siempre en compañía de un\nPokémon de esta especie, puede mostrar\nsueños que haya ingerido con anterioridad.",
+        "Si se duerme siempre en compañía de un\nPokémon de esta especie, puede mostrar\nsueños que haya ingerido con anterioridad."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "name": "Drowzee",
+    "types": [
+        "Psíquico"
+    ],
+    "weight": 32.4
+}

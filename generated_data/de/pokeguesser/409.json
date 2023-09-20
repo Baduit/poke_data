@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sein dicker Schädelknochen trotzt jedem Angriff.\nGleichzeitig stoppt er jedoch sein Hirnwachstum.",
+        "Sein Schädel ist hart wie Eisen. Es reißt\nDschungelbäume nieder, während es seine Beute jagt.",
+        "Sein dicker Schädelknochen trotzt jedem Angriff. Gleichzeitig\nstoppt er jedoch sein Hirnwachstum.",
+        "Sein Schädel ist hart wie Eisen. Es reißt Dschungelbäume\nnieder, während es seine Beute jagt.",
+        "Durch häufige Kopfstöße ist sein Schädel\nhart und dick geworden. Seine Hirnmasse litt\ndarunter und ist kleiner als bei Koknodon.",
+        "Es ist die Weiterentwicklung eines fossilen\nPokémon. Einmal entkam ein Rameidon und\nzerstörte per Kopfstoß ein ganzes Hochhaus.",
+        "Vor langer Zeit wurden die Fossilien dieses\nPokémon ausgegraben und aus den stahlharten\nSchädeln Helme hergestellt.",
+        "Dieses auf Kopfstöße spezialisierte urzeitliche\nPokémon soll einer Theorie zufolge wegen seines\nkleinen Hirns aus Dummheit ausgestorben sein."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "name": "Rameidon",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 102.5
+}

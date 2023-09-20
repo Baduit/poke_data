@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Los dibujos de sus coloridas alas son muy peculiares.\nLiba el néctar de las flores con su fina trompa.",
+        "Es un Pokémon agresivo. Con su boca larga y afilada\nataca a sus rivales para drenar sus fluidos.",
+        "La comida favorita de Beautifly es el dulce polen de las flores.\nSi quieres ver a este Pokémon, deja una maceta con flores al\nlado de la ventana y verás cómo aparece un ejemplar de\nBeautifly en busca de polen.",
+        "Beautifly tiene una boca enorme en espiral que parece una\naguja y le resulta muy útil para recolectar polen. Este\nPokémon va revoloteando de flor en flor para recogerlo."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "name": "Beautifly",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 28.4
+}

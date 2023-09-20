@@ -1,0 +1,11 @@
+{
+    "color": "白色",
+    "generation": 5,
+    "height": 1.1,
+    "name": "燃烧虫",
+    "types": [
+        "虫",
+        "火"
+    ],
+    "weight": 28.8
+}

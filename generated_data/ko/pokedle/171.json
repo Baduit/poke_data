@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 2,
+    "height": 1.2,
+    "name": "랜턴",
+    "types": [
+        "물",
+        "전기"
+    ],
+    "weight": 22.5
+}

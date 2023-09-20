@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "El olor que desprenden sus pétalos contiene una\nsustancia que calma el instinto agresivo.",
+        "El aliento de Meganium tiene el poder de revivir los\nrastrojos, además de regenerarlos.",
+        "La fragancia de la flor de Meganium aplaca y suaviza los\nánimos. Al luchar, este Pokémon libera mayor cantidad de\nesencia para disminuir el ánimo de combate de su oponente.",
+        "La fragancia de la flor de Meganium aplaca y suaviza los\nánimos. Al luchar, este Pokémon libera mayor cantidad de\nesencia para disminuir el ánimo de combate de su oponente."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "name": "Meganium",
+    "types": [
+        "Planta"
+    ],
+    "weight": 100.5
+}

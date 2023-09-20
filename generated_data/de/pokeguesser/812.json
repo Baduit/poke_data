@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Es kontrolliert die Macht seines speziellen\nBaumstumpfes durch Trommeln. Im Kampf\nmanipuliert es damit Wurzeln.",
+        "Wer die beste Trommeltechnik hat, wird zum\nAnführer. Da es ein ruhiges Gemüt hat, legt es\nviel Wert auf Harmonie in der Gruppe."
+    ],
+    "height": 2.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "name": "Gortrom",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 90.0
+}

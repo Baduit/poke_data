@@ -1,0 +1,11 @@
+{
+    "color": "Brun",
+    "generation": 7,
+    "height": 1.3,
+    "name": "Trépassable",
+    "types": [
+        "Spectre",
+        "Sol"
+    ],
+    "weight": 250.0
+}

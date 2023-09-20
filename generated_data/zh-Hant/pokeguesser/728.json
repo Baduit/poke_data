@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "因勤奮的性格而聞名。\n會用鼻子將體液吹成氣球，\n然後扔向敵人。",
+        "操縱水做的氣球。\n為了製造大大的氣球，\n孜孜不倦地反復練習。",
+        "靠著每天不斷地練習，\n用鼻子吹出的氣球\n會一點一滴地漸漸變大。",
+        "會乘著有彈性的水球\n做出大大的跳躍，\n像表演雜技般地戰鬥。",
+        "能吹出特別的氣球。\n靠富有彈力的氣球破裂時\n產生的衝擊力來痛擊對手。",
+        "每天拼命地練習，\n才終於能夠製造出\n又大又好用的氣球。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "name": "球球海獅",
+    "types": [
+        "水"
+    ],
+    "weight": 7.5
+}

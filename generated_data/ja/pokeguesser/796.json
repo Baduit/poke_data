@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "全身から　凄まじい　電撃を\nほとばしらせる　光景を　目撃。\n謎の　生物　ＵＢの　一種だ。",
+        "ウルトラホールから　出現した。\n発電所を　襲撃　したため\n電気が　エネルギーと　おもわれる。",
+        "この世界では　異質で　危険だが\n本来　棲んでいる　世界では\n普通に　見かける　生物らしい。",
+        "ウルトラビーストと　呼ばれる。\n樹木のように　地面に　手足を\n刺したまま　動かないもの　もいる。"
+    ],
+    "height": 3.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "name": "デンジュモク",
+    "types": [
+        "でんき"
+    ],
+    "weight": 100.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Si sube la temperatura del mar, infla el flotador de su\ncabeza y flota en grupo en la superficie.",
+        "Va a la deriva por mares cálidos. Siempre vuelve a\ndonde nació, por mucho que se haya alejado.",
+        "Si sube la temperatura del mar, infla el flotador de su cabeza\ny flota en grupo en la superficie.",
+        "Va a la deriva por mares cálidos. Siempre vuelve a donde\nnació, por mucho que se haya alejado."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+    "name": "Phione",
+    "types": [
+        "Agua"
+    ],
+    "weight": 3.1
+}

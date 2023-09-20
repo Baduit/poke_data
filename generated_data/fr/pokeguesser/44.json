@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "L’odeur du nectar de sa bouche est\nsi répugnante qu’elle agresse les\nnarines à deux kilomètres.",
+        "L’odeur du nectar de sa bouche est\nsi répugnante qu’elle agresse les\nnarines à deux kilomètres.",
+        "Il sent très mauvais ! Mais une personne sur 1 000\naime la puanteur de son corps nauséabond.",
+        "L’odeur du nectar de sa bouche est si répugnante\nqu’elle agresse les narines à 2 km.",
+        "La plupart du temps, Ortide dégage un parfum immonde du\npistil de sa fleur. Lorsqu’il se sent en danger, la puanteur est\nencore pire. Lorsque ce Pokémon se sent bien et en sécurité,\nil ne dégage aucune odeur nauséabonde.",
+        "Ortide bave un miel qui sent horriblement mauvais.\nApparemment, il adore cette odeur nauséabonde.\nIl en renifle les fumées toxiques et se met à baver\ndu miel de plus belle.",
+        "Il sent très mauvais, mais une personne sur mille\naime l’odeur de son corps nauséabond.",
+        "Il sent très mauvais, mais une personne sur mille\naime l’odeur de son corps nauséabond.",
+        "Ses pistils sécrètent une odeur incroyablement\nfétide qui fait perdre connaissance à\nses adversaires jusqu’à 2 km à la ronde.",
+        "Ce qui semble être sa bave est en fait du nectar\ntrès collant. Si on le touche, il est très difficile\nde s’en dépêtrer."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "name": "Ortide",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 8.6
+}

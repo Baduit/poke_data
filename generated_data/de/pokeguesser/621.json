@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Es jagt durch enge Höhlengänge und spießt seine\nGegner mit spitzen Klauen auf. Seine Kopfhaut ist\nfester als Stein.",
+        "Es erwärmt seinen Körper, indem es mit den Flügeln\ndas Sonnenlicht einfängt. Kühlt sein Körper ab,\nerstarrt es.",
+        "Es jagt durch enge Höhlengänge und spießt seine Gegner\nmit spitzen Klauen auf. Seine Kopfhaut ist fester als Stein.",
+        "Es erwärmt seinen Körper, indem es mit den Flügeln\ndas Sonnenlicht einfängt. Kühlt sein Körper ab, erstarrt es.",
+        "Seine rote Kopfhaut ist fester als Stein. Es jagt\nseine Gegner durch enge Höhlengänge und\nstürmt mit dem Kopf voran auf sie zu.",
+        "Es dringt in Schächte ein, die von Digda oder\nDigdri gegraben wurden. Dort wartet es still\nund geduldig auf seine Beute.",
+        "Shardrago lebt in Grotten. Kühlt sein Körper ab,\nerstarrt es, weshalb es regelmäßig Sonnenbäder\nnehmen muss.",
+        "Shardrago ist grausam und gerissen. Es nimmt die\nselbstgegrabenen Höhlen anderer Pokémon ein,\num sie zu seinem Unterschlupf zu machen."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "name": "Shardrago",
+    "types": [
+        "Drache"
+    ],
+    "weight": 139.0
+}

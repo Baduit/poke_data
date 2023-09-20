@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dieses Pokémon lebt in Eiswasser. Wird es an Land\nkalt, verlässt es das Wasser und sucht nach Futter.",
+        "Wenn es am Abend kühler wird, kommen sie an Land,\num nach Nahrung zu suchen.",
+        "Felino lebt eigentlich im Wasser. Manchmal kommt es jedoch\nan Land, um nach Nahrung zu suchen. An Land bedeckt es\nseinen Körper mit einem schleimigen Giftfilm.",
+        "Felino lebt eigentlich im Wasser. Manchmal kommt es jedoch\nan Land, um nach Nahrung zu suchen. An Land bedeckt es\nseinen Körper mit einem schleimigen Giftfilm.",
+        "Dieses Pokémon lebt in kaltem Wasser. Wenn die\nTemperaturen an Land tief genug fallen, verlässt\nes das Wasser und sucht dort nach Futter.",
+        "An Land bedeckt es seine Haut mit einer giftigen\nSchicht, die es vor dem Austrocknen bewahrt."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "name": "Felino",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 8.5
+}

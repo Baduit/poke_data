@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "当它张开头部的褶边\n用太阳光发电，就能使出\n威力强大的电属性招式。",
+        "拥有太阳能发电的结构。\n如果有人打扰它发电，\n它就会因心理压力而衰弱。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "name": "伞电蜥",
+    "types": [
+        "电",
+        "一般"
+    ],
+    "weight": 6.0
+}

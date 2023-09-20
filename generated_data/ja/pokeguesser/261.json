@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "しつこい　性格の　ポケモン。\n目をつけた　獲物が　ヘトヘトに\n疲れるまで　追いかけ回す。",
+        "鋭い　きゅうかくで　ねらった　獲物は\n絶対に　逃がさない。\nとっても　しつこい　性格だ。",
+        "動く　ものを　見つけると　すぐに　かみつく。\n獲物が　ヘトヘトに　なるまで　追いかけ回すが\n反撃されると　尻ごみする　ことも　あるよ。",
+        "なんでも　食べる　雑食性の　ポケモン。\n体に　比べ　大きな　キバが　特徴。\n尻尾の　毛を　逆立てて　敵を　威嚇する。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png",
+    "name": "ポチエナ",
+    "types": [
+        "あく"
+    ],
+    "weight": 13.6
+}

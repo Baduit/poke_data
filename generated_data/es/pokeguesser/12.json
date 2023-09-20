@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Adora el néctar de las flores. Puede localizar hasta las\nmás pequeñas cantidades de polen.",
+        "Tiene las alas protegidas con una capa impermeable,\nde ahí que pueda volar también cuando llueve.",
+        "Butterfree tiene una habilidad especial para encontrar\ndelicioso polen en las flores. Puede localizar, extraer y\ntransportar polen de flores que estén floreciendo a 10 km\nde distancia de su nido.",
+        "Butterfree tiene una habilidad especial para encontrar\ndelicioso polen en las flores. Puede localizar, extraer y\ntransportar polen de flores que estén floreciendo a 10 km\nde distancia de su nido.",
+        "Al mirar sus grandes ojos desde cerca, puede\nobservarse como en realidad están compuestos\nde incontables ojos diminutos.",
+        "Cuando lo atacan, Butterfree aletea con fuerza\ny esparce escamas venenosas con las que hace\nfrente a su adversario.",
+        "Si un Pokémon pájaro acecha a un Caterpie,\nButterfree esparcirá las escamas venenosas\nque recubren sus alas para ahuyentarlo.",
+        "Adora el néctar de las flores más bellas. Libra\nferoces disputas territoriales en los prados con\nlos Cutiefly.",
+        "Sus alas están recubiertas de escamas venenosas\nimpermeables que le permiten volar bajo la\nlluvia.",
+        "Sus alas están recubiertas de escamas venenosas\nimpermeables que le permiten volar bajo la\nlluvia.",
+        "Aletea a gran velocidad para lanzar al aire sus\nescamas extremadamente tóxicas.",
+        "Recoge néctar a diario y se lo adhiere al pelo de\nlas patas para llevarlo a su nido."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "name": "Butterfree",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 32.0
+}

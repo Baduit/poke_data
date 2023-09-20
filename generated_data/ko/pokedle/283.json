@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 3,
+    "height": 0.5,
+    "name": "비구술",
+    "types": [
+        "벌레",
+        "물"
+    ],
+    "weight": 1.7
+}

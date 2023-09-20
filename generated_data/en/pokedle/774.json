@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Minior",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "weight": 40.0
+}

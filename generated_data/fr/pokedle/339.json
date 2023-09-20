@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Barloche",
+    "types": [
+        "Eau",
+        "Sol"
+    ],
+    "weight": 1.9
+}

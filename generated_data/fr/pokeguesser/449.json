@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il peut obturer ses narines et\ntraverser le sable comme un ver.\nIl vit en colonies de 10 individus.",
+        "Il peut obturer ses narines et\ntraverser le sable comme un ver.\nIl vit en colonies de 10 individus.",
+        "Il vit dans des endroits arides. Il exsude du sable\ngranuleux au lieu de transpirer.",
+        "Il se recouvre de sable pour se protéger des\nmicrobes. Il n’aime pas l’eau.",
+        "Il vit dans des endroits arides. Il exsude du sable granuleux\nau lieu de transpirer.",
+        "Il se recouvre de sable pour se protéger des microbes.\nIl n’aime pas l’eau.",
+        "Il attrape ses proies en se déplaçant la gueule\nouverte. Il éjecte ensuite le sable qu’il a avalé\nau passage en l’expulsant par le nez.",
+        "Il est principalement actif pendant la journée.\nIl s’enfouit profondément dans le sable pour\ndormir, car les nuits désertiques sont très froides."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "name": "Hippopotas",
+    "types": [
+        "Sol"
+    ],
+    "weight": 49.5
+}

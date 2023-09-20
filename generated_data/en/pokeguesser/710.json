@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "The pumpkin body is inhabited by a spirit\ntrapped in this world. As the sun sets,\nit becomes restless and active.",
+        "It is said to carry wandering spirits\nto the place where they belong\nso they can move on.",
+        "The pumpkin body is inhabited by a spirit\ntrapped in this world. As the sun sets,\nit becomes restless and active.",
+        "It is said to carry wandering spirits\nto the place where they belong\nso they can move on.",
+        "Spirits that wander this world are placed into\nPumpkaboo’s body. They’re then moved on to\nthe afterlife.",
+        "The light that streams out from the holes in the\npumpkin can hypnotize and control the people\nand Pokémon that see it."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "name": "Pumpkaboo",
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "weight": 5.0
+}

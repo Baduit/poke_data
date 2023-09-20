@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "身体是融化成液状的钢铁。\n它能够将土壤中的铁或\n其它金属溶解后吸收进体内。",
+        "身体是融化成液状的钢铁。\n它能够将土壤中的铁或\n其它金属溶解后吸收进体内。",
+        "会溶解金属然后吃掉。\n通过让液态金属在体内\n循环来制造能量。",
+        "美录坦们虽然聚在一起生活，\n但当时机到来，会由最强的那１只\n吸收其他的伙伴来进化。"
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+    "name": "美录坦",
+    "types": [
+        "钢"
+    ],
+    "weight": 8.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 2,
+    "height": 0.5,
+    "name": "Chinchou",
+    "types": [
+        "Water",
+        "Electric"
+    ],
+    "weight": 12.0
+}

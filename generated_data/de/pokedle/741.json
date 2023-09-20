@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 7,
+    "height": 0.6,
+    "name": "Choreogel",
+    "types": [
+        "Feuer",
+        "Flug"
+    ],
+    "weight": 3.4
+}

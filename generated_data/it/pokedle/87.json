@@ -1,0 +1,11 @@
+{
+    "color": "Bianco",
+    "generation": 1,
+    "height": 1.7,
+    "name": "Dewgong",
+    "types": [
+        "Acqua",
+        "Ghiaccio"
+    ],
+    "weight": 120.0
+}

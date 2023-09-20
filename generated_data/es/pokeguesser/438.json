@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Prefiere entornos áridos. Sus ojos expulsan agua para\najustar los niveles de fluido corporal.",
+        "Prefiere entornos áridos. Sus ojos expulsan agua\npara ajustar sus niveles de hidratación corporal.",
+        "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar\nlos niveles de fluido corporal.",
+        "Prefiere entornos áridos. Sus ojos expulsan agua para ajustar\nsus niveles de hidratación corporal.",
+        "No le gusta el agua, por lo que suele vivir en\nlugares secos. Como hay poco verdor a su\nalrededor, suele destacar mucho.",
+        "Expulsa por los ojos el líquido corporal que le\nsobra. La composición química de este líquido\nse parece a la del sudor de los seres humanos.",
+        "Expulsa agua por los ojos, lo que da la impresión\nde que está llorando. Esto puede sorprender a\nlos enemigos y hacer que bajen la guardia.",
+        "Debido a que un exceso de humedad en su\ncuerpo puede provocarle la muerte, expulsa\nlíquido por los ojos como si fuera sudor.",
+        "Expulsa sudor y lágrimas por los ojos. El sudor\nes ligeramente salado y las lágrimas tienen un\nleve regusto amargo.",
+        "Vive en entornos áridos y pedregosos. Cuanto\nmás se secan sus esferas verdes, más destaca\nsu sutil lustre."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "name": "Bonsly",
+    "types": [
+        "Roca"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il cherche des feux follets pour\nles avaler. Ce qui se passe alors\ndans son corps est un mystère.",
+        "Il cherche des feux follets pour\nles avaler. Ce qui se passe alors\ndans son corps est un mystère.",
+        "Il aspire l’âme de ceux qui regardent dans son corps\ncreux où rougeoie son unique œil.",
+        "Son corps est creux. On raconte que celui qui regarde\nà l’intérieur finira aspiré par le néant.",
+        "Le corps de Téraclope est totalement creux. Il n’y a rien\ndu tout à l’intérieur. On raconte que son corps est comme\nun trou noir. Ce Pokémon peut absorber n’importe quoi,\nmais rien n’en ressort jamais.",
+        "Téraclope peut absorber des objets de toute taille.\nCe Pokémon hypnotise son ennemi en faisant des gestes\nmacabres et en attirant l’attention sur son unique œil.\nL’ennemi hypnotisé obéit ensuite aux ordres de Téraclope.",
+        "Son corps est complètement creux. Quand il ouvre\nla bouche, il aspire tout ce qui passe près de lui,\nà la façon d’un trou noir.",
+        "Il cherche des feux follets pour les avaler.\nCe qu’il se passe alors à l’intérieur de son corps\nvide est un mystère."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "name": "Téraclope",
+    "types": [
+        "Spectre"
+    ],
+    "weight": 30.6
+}

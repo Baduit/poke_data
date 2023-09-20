@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Combusken",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "weight": 19.5
+}

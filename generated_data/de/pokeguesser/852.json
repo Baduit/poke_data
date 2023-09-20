@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Zur Futtersuche kommt es an Land. Es ist sehr\nneugierig, weshalb es alles, was es sieht,\nzunächst einmal mit seinen Tentakeln haut.",
+        "Sein Verstand ist ungefähr auf dem Level eines\ndreijährigen Kindes. Es macht ihm nichts aus, dass\nseine Tentakel oft abreißen, da sie nachwachsen."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "name": "Klopptopus",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 4.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 8,
+    "height": 0.3,
+    "name": "Snom",
+    "types": [
+        "Hielo",
+        "Bicho"
+    ],
+    "weight": 3.8
+}

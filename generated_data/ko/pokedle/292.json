@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 3,
+    "height": 0.8,
+    "name": "껍질몬",
+    "types": [
+        "벌레",
+        "고스트"
+    ],
+    "weight": 1.2
+}

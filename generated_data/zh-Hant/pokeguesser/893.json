@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "集結成群生活在密林裡。\n攻擊性很強，令棲息在\n森林的寶可夢們畏懼不已。",
+        "生長在身上的藤蔓斷落後\n會化為土壤的養分，\n孕育森林裡的各種植物。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+    "name": "薩戮德",
+    "types": [
+        "惡",
+        "草"
+    ],
+    "weight": 70.0
+}

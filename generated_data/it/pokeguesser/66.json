@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Solleva Graveler ripetutamente per mantenersi forte.\nConosce ogni tipo di arte marziale.",
+        "Il suo corpo è formato interamente da muscoli. Non è\npiù alto di un bambino, ma può sollevare e lanciare\n100 adulti.",
+        "I particolari muscoli di Machop non si infiammano mai,\nnemmeno in caso di esercizio eccessivo. Questo Pokémon ha\nforza sufficiente per scagliare lontano un centinaio di uomini.",
+        "Machop si allena sollevando un Graveler come fosse un\nattrezzo ginnico. Esistono Machop che girano il mondo\nnel tentativo di imparare ogni tipo di arte marziale.",
+        "Prova un particolare piacere ad allenarsi.\nOsservando i suoi muscoli svilupparsi ogni\ngiorno, si sente spinto ad allenarsi ulteriormente.",
+        "Si allena ogni giorno sollevando Graveler.\nLa sua forza è tale che sarebbe in grado\ndi scagliare lontano 100 uomini.",
+        "Si allena assieme ai suoi simili per sviluppare\ni muscoli e acquisire sicurezza. Quando si sente\npronto, sfida Makuhita.",
+        "L’istinto lo spinge a preferire cibi ricchi\ndi nutrienti, in modo da poter sviluppare\ni muscoli nel modo più efficiente.",
+        "È piccolo, ma molto potente. La sua maestria\nin tutte le arti marziali lo rende un osso duro.",
+        "È piccolo, ma molto potente. La sua maestria\nin tutte le arti marziali lo rende un osso duro.",
+        "Il suo corpo è formato interamente da muscoli.\nNon è più alto di un bambino, ma può sollevare\ne lanciare 100 adulti.",
+        "Sempre traboccante di energia, passa il tempo\na sollevare massi. Così diventa ancora più forte."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "name": "Machop",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 19.5
+}

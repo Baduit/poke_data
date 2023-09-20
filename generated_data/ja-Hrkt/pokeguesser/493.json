@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "タマゴから　すがたを　あらわして\nせかいの　すべてを　うみだしたと\nシンオウしんわに　かたられている。",
+        "うちゅうが　まだ　ない　ころに\nさいしょに　うまれた　ポケモンと\nしんわの　なかで　かたられている。",
+        "タマゴから　すがたを　あらわして\nせかいの　すべてを　うみだしたと\nシンオウしんわに　かたられている。",
+        "うちゅうが　まだ　ない　ころに\nさいしょに　うまれた　ポケモンと\nしんわの　なかで　かたられている。"
+    ],
+    "height": 3.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "name": "アルセウス",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 320.0
+}

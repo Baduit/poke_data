@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 8,
+    "height": 0.5,
+    "name": "Dreepy",
+    "types": [
+        "Dragon",
+        "Ghost"
+    ],
+    "weight": 2.0
+}

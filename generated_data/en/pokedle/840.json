@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 8,
+    "height": 0.2,
+    "name": "Applin",
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "weight": 0.5
+}

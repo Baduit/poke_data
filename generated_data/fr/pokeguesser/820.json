@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Il amasse tellement de Baies dans sa queue\nqu’elles tombent les unes après les autres, mais\nil est si étourdi qu’il ne s’en rend pas compte.",
+        "On rencontre souvent ce Pokémon à Galar.\nAucune coquille de Baie ne résiste à ses incisives,\ndont il est très fier."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "name": "Rongrigou",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

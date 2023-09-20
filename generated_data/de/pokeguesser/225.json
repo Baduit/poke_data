@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Im eingerollten Schweif transportiert es Futter,\ndas es mit denen teilt, die sich verlaufen haben.",
+        "Es trägt den ganzen Tag Essen mit sich herum, das es\nmit Menschen teilt, die in den Bergen feststecken.",
+        "Botogel sammelt seine Nahrung in seinem Schweif. Es gab\neinmal einen berühmten Entdecker, der es dank eines Botogels\ngeschafft hat, einen der höchsten Berge der Welt zu besteigen.\nEs hatte seine Nahrung mit ihm geteilt.",
+        "Botogel sammelt seine Nahrung in seinem Schweif. Es gab\neinmal einen berühmten Entdecker, der es dank eines Botogels\ngeschafft hat, einen der höchsten Berge der Welt zu besteigen.\nEs hat seine Nahrung mit ihm geteilt.",
+        "Sie bevorzugen eigentlich kühle Gegenden,\naber die Botogel Alolas können bis zu einem\ngewissen Grad auch heißes Klima ertragen.",
+        "Es hat die Angewohnheit, seine eigene Nahrung\nmit Menschen und Pokémon zu teilen, und ist\ndeshalb stets unterwegs auf Futtersuche.",
+        "Es teilt sein Futter mit Menschen in Not. Da es\nein Allesfresser ist, kann es passieren, dass sie\nauch mal Käfer-Pokémon bekommen.",
+        "Dieses Pokémon sammelt seine Nahrung in\nseinem Schweif. Das Botogel mit dem größten\nSchweif ist der Anführer der Gruppe.",
+        "Es trägt immer Lebensmittel bei sich. Man sagt,\ndass viele Menschen in Not nur dank seiner\nNotration überlebt hätten.",
+        "Es hat die Angewohnheit, seine eigene Nahrung\nmit Menschen und Pokémon zu teilen, und ist\ndeshalb stets unterwegs auf Futtersuche."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "name": "Botogel",
+    "types": [
+        "Eis",
+        "Flug"
+    ],
+    "weight": 16.0
+}

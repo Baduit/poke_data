@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "In seinem Rücken speichert es sehr heißes Magma.\nRegnet es, kühlt das Magma ab und es wird\nlangsamer.",
+        "In seinem Körper fließt 1 200 °C heißes Magma. Nach\nEinsatz einer Feuer-Attacke schrumpft sein Höcker.",
+        "Camaub ist nicht besonders helle. Es nimmt nicht einmal wahr,\nwenn es getroffen wurde. Ein Hungergefühl allerdings kann es\nnicht einmal eine Sekunde lang aushalten. In seinem Körper\nbrodelt glühend heißes Magma.",
+        "Camaub speichert fast 1 200 °C heißes Magma in seinem\nKörper. Wenn es nass wird, kühlt das Magma ab und wird hart.\nDadurch wird der Körper dieses Pokémon schwer und seine\nBewegungen träge."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "name": "Camaub",
+    "types": [
+        "Feuer",
+        "Boden"
+    ],
+    "weight": 24.0
+}

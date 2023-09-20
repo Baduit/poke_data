@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 1.5,
+    "name": "Branawarz",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 62.0
+}

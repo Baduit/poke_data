@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 1,
+    "height": 2.5,
+    "name": "Lapras",
+    "types": [
+        "Agua",
+        "Hielo"
+    ],
+    "weight": 220.0
+}

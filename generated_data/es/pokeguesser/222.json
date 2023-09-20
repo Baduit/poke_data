@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Crece y muda continuamente. La parte superior de su\ncabeza es muy apreciada por su belleza.",
+        "Adoran las aguas cristalinas de los mares del sur, pues\nsu coral pierde color y se deteriora en aguas sucias.",
+        "Las ramas de Corsola brillan con belleza hasta en siete\ncolores cuando les da el sol. Si se le rompe alguna, el\nPokémon la regenera en tan solo una noche.",
+        "Las aguas templadas son el hábitat de Corsola. Allí se\nagrupan grandes bancos de estos Pokémon que sirven de\nescondite a Pokémon más pequeños. Cuando la temperatura\ndel agua baja, suelen migrar a los mares del sur.",
+        "De su cabeza brotan ramas de coral. Son muy\nfrágiles, pero pueden regenerarse en un lapso\nde tres días.",
+        "Cuando Mareanie lo persigue para hacerse con\nsus ramas de coral, Corsola se desprende de\nellas adrede para poder huir sin problemas.",
+        "La coloración rosa de los ejemplares de Alola es\nextraordinariamente viva e intensa debido a la\nabundancia de nutrientes de sus aguas.",
+        "En Alola abundan los Mareanie, su enemigo\nnatural, y por eso se ven muchos Corsola con\nramas de coral más cortas de lo normal.",
+        "Las ramas que le brotan de la cabeza se\nregeneran si se rompen. Las más bellas se\nemplean como amuleto en los partos.",
+        "Habita en mares cálidos. Antiguamente vivían en\nlas aguas costeras de Galar un gran número de\nejemplares."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+    "name": "Corsola",
+    "types": [
+        "Agua",
+        "Roca"
+    ],
+    "weight": 5.0
+}

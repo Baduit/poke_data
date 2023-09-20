@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 4,
+    "height": 0.2,
+    "name": "Knospi",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 1.2
+}

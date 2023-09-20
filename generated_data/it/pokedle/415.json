@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 4,
+    "height": 0.3,
+    "name": "Combee",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 5.5
+}

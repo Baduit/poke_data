@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Floravol",
+    "types": [
+        "Plante",
+        "Vol"
+    ],
+    "weight": 1.0
+}

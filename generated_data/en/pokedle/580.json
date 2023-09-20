@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Ducklett",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "weight": 5.5
+}

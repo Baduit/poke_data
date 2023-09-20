@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Hat eine eher sanfte Natur, doch bei Eindringlingen\nkennt es keine Gnade. Seine Stoßzähne\ndurchbohren sogar Eisen.",
+        "Wenn es mit seinen robusten Hauern Stahl durchbohrt,\nbleiben diese unversehrt. Es ist von einem festen\nPanzer umgeben.",
+        "Hat eine eher sanfte Natur, doch bei Eindringlingen kennt es\nkeine Gnade. Seine Stoßzähne durchbohren sogar Eisen.",
+        "Wenn es mit seinen robusten Hauern Stahl durchbohrt, bleiben\ndiese unversehrt. Es ist von einem festen Panzer umgeben.",
+        "Seine riesigen, robusten Hauer sind sein größter\nStolz. Es hält sie kräftig und gesund, indem es\nan Erde leckt, um Mineralstoffe aufzunehmen.",
+        "Es ist von Natur aus sanftmütig, aber wehe dem,\nder es wütend macht. Seine Stoßzähne reißen\nselbst Stahlträger in Stücke."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "name": "Maxax",
+    "types": [
+        "Drache"
+    ],
+    "weight": 105.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 4,
+    "height": 2.4,
+    "name": "Rhinastoc",
+    "types": [
+        "Sol",
+        "Roche"
+    ],
+    "weight": 282.8
+}

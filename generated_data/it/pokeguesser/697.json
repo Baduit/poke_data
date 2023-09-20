@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Grazie alle enormi fauci, che gli permettevano di\nmasticare una lastra di metallo come se fosse carta,\nera il più forte dei Pokémon preistorici.",
+        "Nell’era preistorica era il fiero re incontrastato\ndi tutti i Pokémon.",
+        "Grazie alle enormi fauci, che gli permettevano di masticare\nuna lastra di metallo come se fosse carta, era il più forte\ndei Pokémon preistorici.",
+        "Nell’era preistorica era il fiero re incontrastato di tutti\ni Pokémon.",
+        "Sembra che non si riesca a rigenerarlo alla\nperfezione. Secondo alcune teorie il suo corpo\nera ricoperto da un manto simile a un piumaggio.",
+        "Regnava incontrastato nell’era preistorica.\nLa sua enorme mandibola è così potente che\npuò masticare facilmente anche un’automobile.",
+        "Questo Pokémon è esistito 100 milioni d’anni fa.\nÈ molto feroce, ma il suo atteggiamento solenne\nrivela una personalità degna di un re.",
+        "Grazie alla sua mandibola può ridurre in frantumi\nun’auto con un morso solo. Regnava incontrastato\nnell’era preistorica."
+    ],
+    "height": 2.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "name": "Tyrantrum",
+    "types": [
+        "Roccia",
+        "Drago"
+    ],
+    "weight": 270.0
+}

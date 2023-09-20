@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 3,
+    "height": 0.3,
+    "name": "Roselia",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "weight": 2.0
+}

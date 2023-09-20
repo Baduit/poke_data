@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "ツノを　見つめていると　輪っかの\n中心に　吸いこまれそうな\n不思議な　気分に　なってしまう。",
+        "ツノの　曲がり具合が　まわりの\n空気の　流れを　微妙に　変え\n不思議な　空間を　作り出す。",
+        "見事な　形の　ツノは　美術品　として\n高く　売れた　ために　絶滅　寸前まで\n乱獲された　ことのある　ポケモン。",
+        "見事な　形の　ツノは　美術品　として\n高く　売れた　ために　絶滅　寸前まで\n乱獲された　ことのある　ポケモン。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "name": "オドシシ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 71.2
+}

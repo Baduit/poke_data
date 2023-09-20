@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Man sagt, es hause in Unterwasserhöhlen. Es kann\nmächtige Strudel generieren, wenn es gähnt.",
+        "Kein anderes Lebewesen kann in den Tiefen existieren,\nin denen es schläft und so Energie speichert.",
+        "Seedraking lebt in den Tiefen des Ozeans, die ansonsten\nverwaist sind. Lange hat man geglaubt, dass das Gähnen\ndieses Pokémon Strudel auslöst.",
+        "Seedraking schläft auf dem Meeresboden, wo ansonsten\nniemand lebt. Wenn ein Sturm aufkommt, wacht es auf und\nmacht sich auf die Suche nach Beute.",
+        "Wenn ein Sturm aufzieht, schwimmt es an die\nMeeresoberfläche. Stößt es auf ein Dragoran,\nbricht ein erbitterter Kampf zwischen ihnen aus.",
+        "Seine abgefallenen Schuppen tragen einen tiefen\nGlanz in sich und sind so hochwertig, dass selbst\nKönigshäuser mit ihnen beschenkt werden."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "name": "Seedraking",
+    "types": [
+        "Wasser",
+        "Drache"
+    ],
+    "weight": 152.0
+}

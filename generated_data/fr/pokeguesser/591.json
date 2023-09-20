@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il danse en faisant tournoyer les\ncoupoles en forme de Poké Ball de\nses bras pour attirer ses proies.",
+        "Il se sert de ses coupoles en forme de\nPoké Ball pour attirer ses proies, mais\npeu de Pokémon se laissent avoir.",
+        "Il se sert de ses coupoles en forme de Poké Ball pour\nattirer ses proies, mais peu de Pokémon se laissent\navoir.",
+        "Il danse en faisant tournoyer les coupoles en forme\nde Poké Ball de ses bras pour attirer ses proies.",
+        "Il se sert de ses coupoles en forme de Poké Ball pour attirer\nses proies, mais peu de Pokémon se laissent avoir.",
+        "Il danse en faisant tournoyer les coupoles en forme\nde Poké Ball de ses bras pour attirer ses proies.",
+        "Si l’on ne nettoie pas rapidement les spores\nempoisonnées qu’il répand, celles-ci donnent\nnaissance à des champignons.",
+        "Ce Pokémon a tendance à très peu se déplacer.\nQuand il voit une Poké Ball abandonnée au sol,\nil reste immobile à côté."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "name": "Gaulet",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 10.5
+}

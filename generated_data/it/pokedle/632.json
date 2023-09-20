@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Durant",
+    "types": [
+        "Coleottero",
+        "Acciaio"
+    ],
+    "weight": 33.0
+}

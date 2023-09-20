@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Protégé par sa solide carapace,\nil fonce sur ses ennemis en\nroulant comme un pneu.",
+        "En général, il reste immobile. Mais quand\non l’attaque, il se met à tourbillonner\nà toute vitesse et fonce sur l’ennemi.",
+        "Protégé par sa solide carapace, il fonce sur ses\nennemis en roulant comme un pneu.",
+        "En général, il reste immobile. Mais quand on l’attaque,\nil se met à tourbillonner à toute vitesse et fonce sur\nl’ennemi.",
+        "Protégé par sa solide carapace, il fonce sur ses ennemis\nen roulant comme un pneu.",
+        "En général, il reste immobile. Mais quand on l’attaque,\nil se met à tourbillonner à toute vitesse et fonce sur l’ennemi.",
+        "Il se propulse sur ses ennemis en tournant\ntrès vite sur lui-même. Il peut ainsi atteindre\nune vitesse d’environ 100 km/h.",
+        "Il se protège avec sa solide carapace et ses épines\nempoisonnées tandis qu’il rassemble l’énergie\nnécessaire à son évolution."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "name": "Scobolide",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 58.5
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Quand il trouve de petits Pokémon, il\nleur coud des vêtements de feuilles en\nutilisant ses coupoirs et son fil adhésif.",
+        "Il réchauffe les œufs avec la chaleur\nde l’humus. Il fabrique des langes pour\nles Larveyette avec des feuilles.",
+        "Il fabrique des vêtements de feuilles pour les\nPokémon encore jeunes grâce à son fil de soie\nadhésif.",
+        "Il réchauffe les Œufs avec la chaleur de l’humus.\nIl fabrique des langes pour les Larveyette avec\ndes feuilles.",
+        "Il fabrique des vêtements de feuilles pour les Pokémon\nencore jeunes grâce à son fil de soie adhésif.",
+        "Il réchauffe les Œufs avec la chaleur de l’humus. Il fabrique\ndes langes pour les Larveyette avec des feuilles."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+    "name": "Manternel",
+    "types": [
+        "Insecte",
+        "Plante"
+    ],
+    "weight": 20.5
+}

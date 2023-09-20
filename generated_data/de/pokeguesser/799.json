@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Eine Ultrabestie, die einigen Berichten zufolge\nganze Berge vertilgt und selbst mehrstöckige\nGebäude verschlingen kann.",
+        "Eine gefährliche Ultrabestie, die ununterbrochen\nmit Fressen beschäftigt zu sein scheint.\nEs wurden jedoch nie Exkremente gefunden.",
+        "In dieser Welt wirkt sein Aussehen gefährlich\nund fremdartig, doch in seiner ursprünglichen\nWelt ist es ein ganz gewöhnliches Lebewesen.",
+        "Eine unbekannte Lebensform, die zu den\nUltrabestien gehört. Sie scheint immer hungrig\nzu sein, da sie ununterbrochen frisst."
+    ],
+    "height": 5.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "name": "Schlingking",
+    "types": [
+        "Unlicht",
+        "Drache"
+    ],
+    "weight": 888.0
+}

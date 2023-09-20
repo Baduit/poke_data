@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Es verbringt sein ganzes Leben im Inneren eines\nApfels. Um sich vor Vogel-Pokémon, seinen\nFressfeinden, zu schützen, imitiert es einen Apfel.",
+        "Nach der Geburt kriecht es sofort in einen Apfel\nund verspeist dessen Inneres, um zu wachsen.\nSeine Entwicklung hängt von dessen Aroma ab."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "name": "Knapfel",
+    "types": [
+        "Pflanze",
+        "Drache"
+    ],
+    "weight": 0.5
+}

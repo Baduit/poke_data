@@ -1,0 +1,11 @@
+{
+    "color": "あかいろ",
+    "generation": 5,
+    "height": 2.5,
+    "name": "ペンドラー",
+    "types": [
+        "むし",
+        "どく"
+    ],
+    "weight": 200.5
+}

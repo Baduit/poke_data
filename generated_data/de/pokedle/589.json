@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Cavalanzas",
+    "types": [
+        "Käfer",
+        "Stahl"
+    ],
+    "weight": 33.0
+}

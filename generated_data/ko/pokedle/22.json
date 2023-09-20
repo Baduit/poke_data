@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 1,
+    "height": 1.2,
+    "name": "깨비드릴조",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 38.0
+}

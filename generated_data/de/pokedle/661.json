@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 6,
+    "height": 0.3,
+    "name": "Dartiri",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 1.7
+}

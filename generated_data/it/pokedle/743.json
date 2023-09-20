@@ -1,0 +1,11 @@
+{
+    "color": "Giallo",
+    "generation": 7,
+    "height": 0.2,
+    "name": "Ribombee",
+    "types": [
+        "Coleottero",
+        "Folletto"
+    ],
+    "weight": 0.5
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "신세를 지는 것을 싫어한다.\n트레이너의 지시를 듣지 않아\n친해지기 어렵다.",
+        "자존심이 강해서 사람에게\n먹이를 얻는 것을 싫어한다.\n긴 솜털이 추위를 막는다.",
+        "신세를 지는 것을 싫어한다.\n트레이너의 지시를 듣지 않아\n친해지기 어렵다.",
+        "자존심이 강해서 사람에게\n먹이를 얻는 것을 싫어한다.\n긴 솜털이 추위를 막는다."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "name": "팽도리",
+    "types": [
+        "물"
+    ],
+    "weight": 5.2
+}

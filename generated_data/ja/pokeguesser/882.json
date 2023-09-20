@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "ずば抜けた　脚力と　顎の\n力で　古代では　無敵だったが\n獲物を　獲り尽くし　絶滅した。",
+        "時速６０キロを　超える　自慢の\n脚力で　走れるが\n水中でしか　呼吸できない。"
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "name": "ウオノラゴン",
+    "types": [
+        "みず",
+        "ドラゴン"
+    ],
+    "weight": 215.0
+}

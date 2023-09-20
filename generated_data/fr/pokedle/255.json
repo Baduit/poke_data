@@ -1,0 +1,10 @@
+{
+    "color": "Rouge",
+    "generation": 3,
+    "height": 0.4,
+    "name": "Poussifeu",
+    "types": [
+        "Feu"
+    ],
+    "weight": 2.5
+}

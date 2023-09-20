@@ -1,0 +1,11 @@
+{
+    "color": "Verde",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Larvitar",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 72.0
+}

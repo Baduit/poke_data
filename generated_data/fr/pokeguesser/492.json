@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Les fleurs qui couvrent son corps\ns’ouvrent quand il est câliné avec\namour et perçoit de la gratitude.",
+        "Les fleurs qui couvrent son corps\ns’ouvrent quand il est câliné avec\namour et perçoit de la gratitude.",
+        "Il peut dissoudre les toxines dans l’air pour\ntransformer un désert en un champ de fleurs\nluxuriantes.",
+        "Il prend son essor pour répandre la gratitude lorsque\nles Gracidées fleurissent.",
+        "Il peut dissoudre les toxines dans l’air pour transformer\nun désert en un champ de fleurs luxuriantes.",
+        "Il prend son essor pour répandre la gratitude lorsque\nles Gracidées fleurissent."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "name": "Shaymin",
+    "types": [
+        "Plante"
+    ],
+    "weight": 2.1
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 4,
+    "height": 0.8,
+    "name": "Skorupi",
+    "types": [
+        "Poison",
+        "Bug"
+    ],
+    "weight": 12.0
+}

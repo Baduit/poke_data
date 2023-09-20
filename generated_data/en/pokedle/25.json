@@ -1,0 +1,10 @@
+{
+    "color": "Yellow",
+    "generation": 1,
+    "height": 0.4,
+    "name": "Pikachu",
+    "types": [
+        "Electric"
+    ],
+    "weight": 6.0
+}

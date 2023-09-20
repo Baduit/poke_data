@@ -1,0 +1,26 @@
+{
+    "descriptions": [
+        "Their wings are too tiny to allow them to fly.\nThey guard their posteriors with bones that were\ngathered by Mandibuzz.",
+        "Its wings are too tiny to allow it to fly.\nAs the time approaches for it to evolve,\nit discards the bones it was wearing.",
+        "They tend to guard their posteriors\nwith suitable bones they have found.\nThey pursue weak Pokémon.",
+        "Their wings are too tiny to allow them to\nfly. They guard their posteriors with\nbones that were gathered by Mandibuzz.",
+        "Their wings are too tiny to allow them to\nfly. They guard their posteriors with\nbones that were gathered by Mandibuzz.",
+        "Its wings are too tiny to allow it to fly. As the time\napproaches for it to evolve, it discards the bones\nit was wearing.",
+        "Its wings are too tiny to allow it to fly. As the time\napproaches for it to evolve, it discards the bones\nit was wearing.",
+        "Their wings are too tiny to allow them to fly.\nThey guard their posteriors with bones that were\ngathered by Mandibuzz.",
+        "It protects its plump posterior with the bones\nof prey it has consumed. As it grows, it \nreplaces the bones.",
+        "It can’t fly yet and must wait until its wings have\ndeveloped more. Since it’s still at a playful age,\nit hops around friskily.",
+        "Mandibuzz gives it the bones it wears. Vullaby’s\nwings are short, so it can’t fly yet, but it jumps\naround, dreaming of wide open skies.",
+        "Its healthy appetite leads to visible growth\nspurts. It often has to replace the bones it\nwears as its size increases.",
+        "It wears a bone to protect its rear.\nIt often squabbles with others of its kind over\nparticularly comfy bones.",
+        "Vullaby grow quickly. Bones that have gotten too\nsmall for older Vullaby to wear often get passed\ndown to younger ones in the nest."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+    "name": "Vullaby",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "weight": 9.0
+}

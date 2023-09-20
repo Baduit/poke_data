@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Escuchar su zumbido de forma continuada provoca\njaquecas. Casi no se le ve de lo rápido que es.",
+        "Se mueve tan rápido que a veces resulta invisible.\nLe atrae la savia de los árboles.",
+        "Ninjask se mueve de un lado a otro a tal velocidad que es\nimposible verlo. Sin embargo, como su zumbido no deja de\noírse, se pensó durante mucho tiempo que este Pokémon era\ninvisible.",
+        "Si Ninjask no recibe un entrenamiento adecuado, desobedece\na su Entrenador y empieza a dar zumbidos sin parar.\nPor ello, se dice que pone a prueba las habilidades de su\nEntrenador.",
+        "Escuchar su zumbido de forma continuada\nprovoca jaquecas persistentes. Se mueve con\ntanta rapidez que es casi imposible verlo.",
+        "Este Pokémon es tan rápido que, según dicen,\npuede esquivar cualquier ataque. Le encanta\nalimentarse de la dulce savia de los árboles."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "name": "Ninjask",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 12.0
+}

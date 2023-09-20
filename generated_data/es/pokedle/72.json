@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 1,
+    "height": 0.9,
+    "name": "Tentacool",
+    "types": [
+        "Agua",
+        "Veneno"
+    ],
+    "weight": 45.5
+}

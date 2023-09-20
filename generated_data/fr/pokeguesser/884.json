@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Son corps, semblable à du métal poli,\nallie légèreté et solidité.\nMalheureusement, il rouille facilement.",
+        "Son corps, composé d’un métal spécial, est léger\net lui offre une excellente mobilité. Il est toutefois\nsensible à la pluie et vit donc dans les grottes."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "name": "Duralugon",
+    "types": [
+        "Acier",
+        "Dragon"
+    ],
+    "weight": 40.0
+}

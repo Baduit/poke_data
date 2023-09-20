@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 6,
+    "height": 1.3,
+    "name": "거북손데스",
+    "types": [
+        "바위",
+        "물"
+    ],
+    "weight": 96.0
+}

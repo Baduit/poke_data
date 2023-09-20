@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 8,
+    "height": 3.0,
+    "name": "드래펄트",
+    "types": [
+        "드래곤",
+        "고스트"
+    ],
+    "weight": 50.0
+}

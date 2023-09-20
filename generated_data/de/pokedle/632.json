@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 5,
+    "height": 0.3,
+    "name": "Fermicula",
+    "types": [
+        "Käfer",
+        "Stahl"
+    ],
+    "weight": 33.0
+}

@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Vive in mare aperto trasportato dalle onde. Se si\nimbatte in un Pokémon ferito, lo riaccompagna a riva.",
+        "Abbraccia dolcemente con le sue pinne i Pokémon\ndeboli o feriti e li guarisce grazie a una speciale\nmembrana mucosa.",
+        "Vive in mare aperto trasportato dalle onde. Se si imbatte\nin un Pokémon ferito, lo riaccompagna a riva.",
+        "Abbraccia dolcemente con le sue pinne i Pokémon deboli\no feriti e li guarisce grazie a una speciale membrana mucosa.",
+        "Abbraccia i Pokémon feriti e li guarisce grazie a\nuno speciale liquido viscoso.\nNon si sa perché lo faccia.",
+        "Vive in mare aperto, lasciandosi trasportare\ndalle onde. Attorno gli si radunano molti\nPokémon di tipo Acqua.",
+        "I pescatori li portano sempre con sé quando\npartono per lunghe traversate, perché dove c’è\nun Alomomola non servono medici né medicine.",
+        "Sembra che aiuti i Pokémon indeboliti per\nnon rischiare di essere attaccato da eventuali\nloro predatori."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "name": "Alomomola",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 31.6
+}

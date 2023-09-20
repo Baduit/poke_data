@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 1.2,
+    "name": "Karippas",
+    "types": [
+        "Wasser",
+        "Gestein"
+    ],
+    "weight": 81.0
+}

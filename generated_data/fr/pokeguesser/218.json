@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Son corps est fait de magma.\nS’il cesse de bouger, il refroidit\net durcit.",
+        "Son corps est fait de magma.\nS’il cesse de bouger, il refroidit\net durcit.",
+        "Commun dans les régions volcaniques, il se déplace\nsans cesse pour trouver des endroits chauds.",
+        "Son corps est fait de magma. S’il cesse de bouger,\nil refroidit et durcit.",
+        "Du magma en fusion coule dans les veines de Limagma.\nSi ce Pokémon est refroidi, le magma se solidifie. Son corps\ndevient alors cassant et des morceaux s’en détachent,\ndiminuant ainsi sa taille.",
+        "Les veines de Limagma ne contiennent pas de sang.\nAu lieu de ça, du magma en fusion circule dans le corps\nde ce Pokémon, apportant les nutriments et l’oxygène\nnécessaires à ses organes."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+    "name": "Limagma",
+    "types": [
+        "Feu"
+    ],
+    "weight": 35.0
+}

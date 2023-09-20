@@ -1,0 +1,11 @@
+{
+    "color": "Yellow",
+    "generation": 9,
+    "height": 1.2,
+    "name": "Iron Moth",
+    "types": [
+        "Fire",
+        "Poison"
+    ],
+    "weight": 36.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "紅色",
+    "generation": 3,
+    "height": 1.2,
+    "name": "太陽岩",
+    "types": [
+        "岩石",
+        "超能力"
+    ],
+    "weight": 154.0
+}

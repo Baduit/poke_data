@@ -1,0 +1,11 @@
+{
+    "color": "Grün",
+    "generation": 5,
+    "height": 2.8,
+    "name": "Golgantes",
+    "types": [
+        "Boden",
+        "Geist"
+    ],
+    "weight": 330.0
+}

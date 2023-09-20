@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "La compatibilité entre ses deux rouages\nest prédéterminée. Ceux-ci ne se\nfixeront à aucun autre.",
+        "Le mouvement de ses deux corps\nenchâssés produit l’énergie qui\nlui est nécessaire pour vivre.",
+        "Le mouvement de ses deux corps enchâssés produit\nl’énergie qui lui est nécessaire pour vivre.",
+        "La compatibilité entre ses deux rouages est\nprédéterminée. Ceux-ci ne se fixeront à aucun autre.",
+        "Le mouvement de ses deux corps enchâssés produit l’énergie\nqui lui est nécessaire pour vivre.",
+        "La compatibilité entre ses deux rouages est prédéterminée.\nCeux-ci ne se fixeront à aucun autre.",
+        "Ses deux rouages sont plus soudés que des\njumeaux. Si on essaie de les combiner à d’autres\nrouages, ils ne s’entendent pas très bien.",
+        "Les humains auraient inventé les mécanismes\nà engrenages il y a fort longtemps, en observant\nce Pokémon."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "name": "Tic",
+    "types": [
+        "Acier"
+    ],
+    "weight": 21.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 5,
+    "height": 1.0,
+    "name": "Krokorok",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "weight": 33.4
+}

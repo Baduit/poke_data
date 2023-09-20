@@ -1,0 +1,11 @@
+{
+    "color": "Vert",
+    "generation": 8,
+    "height": 0.2,
+    "name": "Verpom",
+    "types": [
+        "Plante",
+        "Dragon"
+    ],
+    "weight": 0.5
+}

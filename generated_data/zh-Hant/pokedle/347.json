@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 3,
+    "height": 0.7,
+    "name": "太古羽蟲",
+    "types": [
+        "岩石",
+        "蟲"
+    ],
+    "weight": 12.5
+}

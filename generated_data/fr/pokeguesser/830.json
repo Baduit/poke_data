@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Les graines de son duvet sont remplies\nde nutriments. Elles sont emportées par le vent\net redonnent vitalité aux plantes et aux Pokémon.",
+        "Les fils tissés à partir du duvet sur sa tête sont\nsatinés et absolument somptueux. Le textile ainsi\ncréé est typique de la région de Galar."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+    "name": "Blancoton",
+    "types": [
+        "Plante"
+    ],
+    "weight": 2.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 6,
+    "height": 0.3,
+    "name": "Rocara",
+    "types": [
+        "Gestein",
+        "Fee"
+    ],
+    "weight": 5.7
+}

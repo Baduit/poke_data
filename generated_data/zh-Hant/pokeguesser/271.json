@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "傍晚時開始活動的\n夜行性寶可夢。\n喜歡吃河底的水苔。",
+        "住在日照充足的水邊。\n白天在水草做的床上睡覺，\n太陽下山後就會出來活動。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "name": "蓮帽小童",
+    "types": [
+        "水",
+        "草"
+    ],
+    "weight": 32.5
+}

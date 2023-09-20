@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es ernährt sich von Erde. Nachdem es einen Berg\nverspeist hat, schläft es ein, um zu wachsen.",
+        "Sie schlüpfen tief unter der Erde und fressen sich\ndurch das Erdreich bis zur Oberfläche durch,\nwo sie sich verpuppen.",
+        "Larvitar wurde tief unter der Erde geboren. Um an die\nOberfläche zu gelangen, muss es sich durch das Erdreich\nfressen. Erst dann bekommt es seine Eltern zu Gesicht.",
+        "Larvitar wurde tief unter der Erde geboren. Um an die\nOberfläche zu gelangen, muss es sich durch das Erdreich\nfressen. Erst dann bekommt es seine Eltern zu Gesicht.",
+        "Es wird unterirdisch geboren und frisst sich\ndurchs Erdreich an die Oberfläche zu seinen\nEltern. Es verabscheut grelles, blendendes Licht.",
+        "Es wächst durch die Nährstoffe im Boden.\nWenn es ungefähr einen ganzen Berg Erde\ngefressen hat, verpuppt es sich.",
+        "Sie schlüpfen tief unter der Erde und fressen sich\ndurch das Erdreich bis zur Oberfläche durch,\nwo sie sich verpuppen.",
+        "Es ernährt sich von Erde. Nachdem es einen Berg\nverspeist hat, schläft es ein, um zu wachsen."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "name": "Larvitar",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 72.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Morado",
+    "generation": 2,
+    "height": 1.8,
+    "name": "Crobat",
+    "types": [
+        "Veneno",
+        "Volador"
+    ],
+    "weight": 75.0
+}

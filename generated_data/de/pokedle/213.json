@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Pottrott",
+    "types": [
+        "Käfer",
+        "Gestein"
+    ],
+    "weight": 20.5
+}

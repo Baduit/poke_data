@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Schwalboss",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 19.8
+}

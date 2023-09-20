@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Hat ein sechseckiges Ohr. Sein durch das Erdreich\ngepresster Körper steht Stahl in Sachen Härte\nin nichts nach.",
+        "Wurde vor 100 Jahren nach einem großen Erdbeben in\neiner Erdspalte entdeckt. Es trägt eine Energiesphäre\nin sich.",
+        "Hat ein sechseckiges Ohr. Sein durch das Erdreich gepresster\nKörper steht Stahl in Sachen Härte in nichts nach.",
+        "Wurde vor 100 Jahren nach einem großen Erdbeben in einer\nErdspalte entdeckt. Es trägt eine Energiesphäre in sich.",
+        "Es wurde tief unter der Erde geboren.\nMit befreundeten Kleinstein und Rocara stellt es\nVergleiche an, wessen Körper am härtesten sei.",
+        "Die sechseckige Aushöhlung dient ihm als Ohr.\nEs bewegt sich immer auf Geräusche zu, fällt\njedoch ratlos um, sobald diese verstummen.",
+        "Das sechseckige Loch dient ihm als Ohr. Tief\ndarin liegt sein Energiekern versteckt. Wenn\njemand hineingreift, wird es wütend.",
+        "Dieses Pokémon wurde in den Klüften einer\nErdspalte entdeckt. Sein Körper setzt sich aus\njahrhundertealter Erde zusammen.",
+        "Sein Körper ist hart wie Stahl, aber nach einem\nlängeren Aufenthalt im Wasser weicht er wohl\nein wenig auf.",
+        "Es bewegt sich stets auf Geräuschquellen zu.\nDank seines Energiekerns fühlt es sich immer\nleicht warm an, wenn man es berührt."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "name": "Kiesling",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 18.0
+}

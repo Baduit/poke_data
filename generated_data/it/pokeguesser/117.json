@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Ha il corpo ispido di aculei pungenti. Un contatto\nfortuito può causare uno svenimento.",
+        "È capace di nuotare all’indietro agitando rapidamente\nle pinne pettorali e la robusta coda.",
+        "Seadra dorme dopo essersi sistemato tra i rami di un corallo.\nI cercatori di corallo spesso rischiano di essere punti dai suoi\naculei velenosi se non si accorgono della sua presenza.",
+        "Roteando turbinosamente, Seadra genera vortici così forti da\nriuscire a inghiottire persino un peschereccio. In questo modo\nil Pokémon indebolisce le prede e poi le inghiotte intere.",
+        "Il contatto con la sua pinna dorsale causa\nstordimento. Dorme con la coda avvolta intorno\nal corallo per non farsi portare via dalla corrente.",
+        "Il contatto con la sua pinna dorsale causa\nstordimento. Dorme con la coda avvolta intorno\nal corallo per non farsi portare via dalla corrente.",
+        "Il maschio si occupa dei piccoli. Quando li alleva,\nil veleno degli aculei dorsali diventa denso e\npotente.",
+        "Nonostante la misura ridotta, la sua bocca\nha un potere aspirante tale da permettergli di\nrisucchiare e inghiottire grosse prede all’istante."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "name": "Seadra",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 25.0
+}

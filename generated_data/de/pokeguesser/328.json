@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Es lebt in trockenen Wüstengebieten, wo es eine\nTrichterfalle baut und seelenruhig darauf wartet,\ndass Beute hinabrutscht.",
+        "Es baut sich ein trichterförmiges Loch, aus dem es\nkein Entrinnen gibt, und wartet, bis Beute hineinfällt.",
+        "Knacklions Bau ist eine Art in den Sand gegrabener Kessel.\nDieses Pokémon wartet geduldig darauf, dass Beute in seinen\nBau hineinfällt. Seine gigantischen Kiefer verfügen über\ngenügend Kraft, um einen Felsen zu zerquetschen.",
+        "Knacklion ist ein geduldiger Jäger. Es gräbt in einer Wüste\neine tiefe Grube und wartet auf Beute, die hineinfällt. Dieses\nPokémon kommt eine ganze Woche ohne Wasser aus.",
+        "Knacklion kann eine Woche überleben, ohne\nzu essen. Es wartet geduldig in seinem Bau\ndarauf, dass seine Beute zu ihm kommt.",
+        "Es gräbt im Sand und zerquetscht dabei mit\nseinem gigantischen Kiefer störende Felsen.\nSein Bau hat die Form eines Trichters.",
+        "Sein Kiefer kann sogar Felsen zermalmen, ist\naber so schwer, dass es sich nicht aufrichten\nkann, wenn es hinfällt. Das nutzen Ganovil aus.",
+        "Sein Bau dient gleichzeitig als Falle, in der es\nBeute auflauert. Nachts gräbt es sich zum\nSchlafen im Sand ein.",
+        "Der Bau, den es sich in der Wüste errichtet, ist\ntrichterförmig. Fällt man einmal hinein, gibt es\nkein Entkommen.",
+        "Es errichtet einen trichterförmigen Bau, aus dem\nes kein Entrinnen gibt, und wartet, bis Beute\nhineinfällt."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "name": "Knacklion",
+    "types": [
+        "Boden"
+    ],
+    "weight": 15.0
+}

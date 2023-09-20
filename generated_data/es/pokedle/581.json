@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 5,
+    "height": 1.3,
+    "name": "Swanna",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 24.2
+}

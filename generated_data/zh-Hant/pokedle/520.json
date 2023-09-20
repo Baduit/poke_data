@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 5,
+    "height": 0.6,
+    "name": "咕咕鴿",
+    "types": [
+        "一般",
+        "飛行"
+    ],
+    "weight": 15.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 4,
+    "height": 1.3,
+    "name": "Toxiquak",
+    "types": [
+        "Gift",
+        "Kampf"
+    ],
+    "weight": 44.4
+}

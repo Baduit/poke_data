@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "葉っぱを　かみ切り　口から　出す\n粘着糸で　縫い合わせる。\n自分で　服を　作る　ポケモン。",
+        "葉っぱから　服を　つくるので\nファッションデザイナーから\nマスコットとして　人気がある。",
+        "葉っぱを　かみ切り　口から　出す\n粘着糸で　縫い合わせる。\n自分で　服を　作る　ポケモン。",
+        "葉っぱから　服を　つくるので\nファッションデザイナーから\nマスコットとして　人気がある。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+    "name": "クルミル",
+    "types": [
+        "むし",
+        "くさ"
+    ],
+    "weight": 2.5
+}

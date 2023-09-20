@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Ama il nettare dei fiori. Ruba e mangia il nettare\nraccolto da Combee.",
+        "Vola qua e là di notte per derubare i Combee del\nloro nettare mentre dormono, e poi fuggire.",
+        "Ama il nettare dei fiori. Ruba e mangia il nettare raccolto\nda Combee.",
+        "Vola qua e là di notte per derubare i Combee del loro nettare\nmentre dormono, e poi fuggire."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "name": "Mothim",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 23.3
+}

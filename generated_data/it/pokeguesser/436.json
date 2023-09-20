@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Nell’antichità si credeva che una forza misteriosa\ndimorasse nei disegni sul dorso di Bronzor.",
+        "Il suo aspetto ricorda alcuni oggetti ritrovati in\nantiche tombe, ma non si sa se ci sia una relazione.",
+        "Nell’antichità si credeva che una forza misteriosa dimorasse\nnei disegni sul dorso di Bronzor.",
+        "Il suo aspetto ricorda alcuni oggetti ritrovati in antiche tombe,\nma non si sa se ci sia una relazione.",
+        "Appare fra le rovine antiche. Il disegno sul suo\ncorpo è un mistero irrisolto, perché non ha niente\na che fare con la cultura originaria di Galar.",
+        "Si dice che si illumini e rifletta la verità se viene\nlucidato, ma a Bronzor dà molto fastidio."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "name": "Bronzor",
+    "types": [
+        "Acciaio",
+        "Psico"
+    ],
+    "weight": 60.5
+}

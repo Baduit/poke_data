@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es isst am liebsten Blätter. Wird es von einem\nStaralili angegriffen, verteidigt es sich mit Stacheln.",
+        "Es haust in Wäldern und auf Wiesen. Bei Angriffen\nwehrt es sich mit den Giftstacheln auf seinem\nHinterteil.",
+        "Waumpel kann mit den Stacheln an seinem Hinterteil die Rinde\nvon Bäumen entfernen und ernährt sich von dem austretenden\nSaft. An den Füßen dieses Pokémon befinden sich Saugnäpfe,\nmit denen es auch an Glas nicht abrutscht.",
+        "Waumpel wird von Schwalboss als Beute angesehen.\nDieses Pokémon wehrt sich gegen angreifende Räuber,\nindem es die Stacheln an seinem Hinterteil auf sie richtet.\nEs schwächt seine Gegner mit dem Gift, das aus den\nStacheln austritt."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "name": "Waumpel",
+    "types": [
+        "Käfer"
+    ],
+    "weight": 3.6
+}

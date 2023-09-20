@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "發熱時的體溫大約有８００度。\n會像鞭子那樣彎曲身體，\n朝著敵人彈跳過去。",
+        "性情極具攻擊性。\n危險的不只是牠燒燙的身體，\n大大的獠牙也銳利無比。"
+    ],
+    "height": 3.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "name": "焚焰蚣",
+    "types": [
+        "火",
+        "蟲"
+    ],
+    "weight": 120.0
+}

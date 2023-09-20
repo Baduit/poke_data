@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 2,
+    "height": 0.2,
+    "name": "Natu",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "weight": 2.0
+}

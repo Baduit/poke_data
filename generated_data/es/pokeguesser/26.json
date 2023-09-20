@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Cuando se carga de electricidad, sus músculos se\ntensan y se vuelve más agresivo de lo normal.",
+        "Puede emitir ráfagas de 100 000 voltios capaces de\nacabar con rivales enormes.",
+        "Si las bolsas de los mofletes se le cargan demasiado, Raichu\nplanta la cola en el suelo para liberar electricidad. Es común\nencontrar zonas chamuscadas cerca de la madriguera de este\nPokémon.",
+        "Este Pokémon libera una débil carga eléctrica por todo su\ncuerpo que le hace brillar en la oscuridad. Raichu descarga\nelectricidad plantando la cola en el suelo.",
+        "Suelta descargas eléctricas de hasta 100 000\nvoltios, con lo que es capaz de derribar al mayor\nde los Pokémon.",
+        "Se vuelve más agresivo cuando se carga de\nelectricidad. Puede incluso llegar a atacar a su\nEntrenador si este no se anda con cuidado.",
+        "Se vuelve más agresivo a medida que acumula\nelectricidad. Hay quien afirma que esta le\nprovoca estrés.",
+        "Como la mayoría de Entrenadores prefiere a\nPikachu, no se ven muchos ejemplares de este\nPokémon.",
+        "Al acumular cierta cantidad de electricidad en\nel cuerpo, se vuelve agresivo. También brilla en\nla oscuridad.",
+        "Al acumular cierta cantidad de electricidad en\nel cuerpo, se vuelve agresivo. También brilla en\nla oscuridad.",
+        "Su larga cola le sirve como toma de tierra para\nprotegerse a sí mismo del alto voltaje que genera\nsu cuerpo.",
+        "Cuando ha descargado las bolsas de las mejillas,\nlevanta la cola y absorbe la carga eléctrica que\nhay en el ambiente."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "name": "Raichu",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 30.0
+}

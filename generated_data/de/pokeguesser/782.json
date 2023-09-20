@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Es übermittelt seine Gefühle durch das Rasseln\nseiner Schuppen, wodurch im Hochgebirge, in\ndem es lebt, ein metallisches Geräusch erhallt.",
+        "Es lebt auf Bergen, auf die sich kein Mensch\nwagt. Indem es gegen andere Miniras kämpft,\nwird es stetig stärker.",
+        "Mit der Schuppe an seinem Kopf schlägt es laut\nauf Steine oder auf den Boden, um seine Gegner\neinzuschüchtern oder Freunde zu rufen.",
+        "Im Kampf dreht es seinem Feind nie den Rücken\nzu. Weil es so unerschrocken ist, wurde es von\nKriegern uralter Völker als Partner bevorzugt.",
+        "Durch Aneinanderschlagen ihrer Kopfschuppen\nbringen sie einander das Kämpfen bei. Dadurch\nverbessern sich ihre Attacken und ihre Stimmung.",
+        "Es kommuniziert mit Artgenossen, indem es mit\nseinen Schuppen rasselt, die aus erhärtetem Fell\nbestehen und eine metallartige Konsistenz haben."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+    "name": "Miniras",
+    "types": [
+        "Drache"
+    ],
+    "weight": 29.7
+}

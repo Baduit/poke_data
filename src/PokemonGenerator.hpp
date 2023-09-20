@@ -32,6 +32,8 @@ class PokemonGenerator
 		{
 			std::map<Language, std::string> names;
 			std::map<Language, std::vector<std::string>> descriptions;
+			std::size_t generation;
+			std::filesystem::path color;
 		};
 		static PokemonSpecieInfo getPokemonSpeciesInfo(const std::filesystem::path& pokemon_specie_filename);
 
@@ -42,6 +44,8 @@ class PokemonGenerator
 			Type type;
 		};
 		static tl::generator<TypeInfo> getTypeInfo(std::filesystem::path type_filename);
+
+		static std::map<Language, Color> getColorInfo(std::filesystem::path color_filename);
 
 };
 

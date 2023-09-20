@@ -1,0 +1,11 @@
+{
+    "color": "Rosso",
+    "generation": 2,
+    "height": 0.9,
+    "name": "Delibird",
+    "types": [
+        "Ghiaccio",
+        "Volante"
+    ],
+    "weight": 16.0
+}

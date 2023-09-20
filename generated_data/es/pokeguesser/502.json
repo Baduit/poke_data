@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Gran espadachín. Utiliza sus dos vieiras con soltura al\nejecutar las técnicas que aprende con una disciplina\nespartana.",
+        "Tras un exhaustivo entrenamiento, Dewott puede\ndominar diversas técnicas para usar con sus vieiras.",
+        "Gran espadachín. Utiliza sus dos vieiras con soltura al ejecutar\nlas técnicas que aprende con una disciplina espartana.",
+        "Tras un exhaustivo entrenamiento, Dewott puede dominar\ndiversas técnicas para usar con sus vieiras."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+    "name": "Dewott",
+    "types": [
+        "Agua"
+    ],
+    "weight": 24.5
+}

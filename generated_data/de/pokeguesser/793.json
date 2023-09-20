@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Eine rätselhafte Ultrabestie. Einigen Berichten\nzufolge verwandelt sie harmlose Stadtbewohner\nper Symbiose in äußerst aggressive Menschen.",
+        "Eine Ultrabestie, die gelegentlich das Verhalten\neines jungen Mädchens an den Tag legt. Es ist\nnicht bekannt, ob sie dies bewusst tut.",
+        "Eines der Lebewesen aus einer anderen Welt,\ndie Ultrabestien genannt werden. Man glaubt,\ndass es über ein starkes Nervengift verfüge.",
+        "Anego kam durch eine Ultrapforte in diese Welt.\nEs scheint ein Parasit zu sein, der Pokémon\nund Menschen befällt."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+    "name": "Anego",
+    "types": [
+        "Gestein",
+        "Gift"
+    ],
+    "weight": 55.5
+}

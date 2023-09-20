@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Il suo corpo è formato da un gas volatile.\nCresce lentamente accumulando il pulviscolo\npresente nell’atmosfera.",
+        "Nell’antichità era conosciuto con il nome di\n“Figlio delle stelle”. Si dice che provenga da\nun altro mondo, ma non vi sono certezze.",
+        "Il suo corpo è formato da un gas instabile.\nPotrebbe volare via al minimo soffio di vento,\nma non sembra preoccuparsene.",
+        "Non si sa se provenga da questo mondo.\nQuando è in pericolo, si teletrasporta in\nun luogo sicuro dove rimane nascosto.",
+        "Proviene da un altro universo. Il suo corpo fatto\ndi gas è talmente leggero che può volar via\nal minimo soffio di vento.",
+        "Dotato di un’indole ingenua e curiosa, si caccia\nspesso nei guai. Quando le cose si mettono male,\nscappa teletrasportandosi."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+    "name": "Cosmog",
+    "types": [
+        "Psico"
+    ],
+    "weight": 0.1
+}

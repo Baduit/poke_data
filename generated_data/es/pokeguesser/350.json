@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Milotic es impresionantemente bello. Quienes lo ven,\ntemen perder las ganas de luchar contra él.",
+        "Es el Pokémon más hermoso del mundo. Milotic ha\ninspirado numerosas obras de arte.",
+        "De Milotic se dice que es el Pokémon más bello. Tiene la\ncapacidad de calmar sentimientos tales como el miedo y la\nhostilidad, y apaciguar las relaciones de áspera enemistad.",
+        "Milotic vive en lo más profundo de los lagos. Cuando\nintensifica el color rosa de la piel, libera una fuerte onda de\nenergía que tranquiliza a todo el que tenga el ánimo alterado.",
+        "Se dice que es el Pokémon más bello. Ha sido\nla fuente de inspiración de un gran número de\nartistas.",
+        "Milotic vive en lo más profundo de lagos de\nagua cristalina. En tiempos de guerra aparece\npara calmar el corazón de los hombres.",
+        "Dicen que es el Pokémon más bello, pero es algo\nque los Entrenadores forofos de los Feebas\nponen en tela de juicio.",
+        "Vive en lo más profundo de los grandes lagos.\nSe dice que su gran belleza purifica el corazón\nde todos aquellos que lo contemplen.",
+        "Se dice que es el Pokémon más bello. Ha sido\nla fuente de inspiración de un sinnúmero de\nartistas.",
+        "Se dice que su hermosa figura puede apaciguar\nel corazón de aquellos que tengan el ánimo\nalterado."
+    ],
+    "height": 6.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "name": "Milotic",
+    "types": [
+        "Agua"
+    ],
+    "weight": 162.0
+}

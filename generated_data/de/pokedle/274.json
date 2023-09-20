@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Blanas",
+    "types": [
+        "Pflanze",
+        "Unlicht"
+    ],
+    "weight": 28.0
+}

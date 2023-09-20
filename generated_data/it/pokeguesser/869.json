@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Agli Allenatori di cui si fida regala bacche\ndecorate con la panna.",
+        "La panna che Alcremie produce dalle mani\nè più dolce e gustosa quando è felice."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+    "name": "Alcremie",
+    "types": [
+        "Folletto"
+    ],
+    "weight": 0.5
+}

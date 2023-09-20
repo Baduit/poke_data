@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 7,
+    "height": 0.1,
+    "name": "Bombydou",
+    "types": [
+        "Insecte",
+        "Fée"
+    ],
+    "weight": 0.2
+}

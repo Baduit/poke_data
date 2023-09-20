@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 7,
+    "height": 1.5,
+    "name": "Vikavolt",
+    "types": [
+        "Bug",
+        "Electric"
+    ],
+    "weight": 45.0
+}

@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Su cuerpo está compuesto de acero líquido.\nFunde las partículas de hierro y otros metales\ndel subsuelo para luego absorberlas.",
+        "Su cuerpo está compuesto de acero líquido.\nFunde las partículas de hierro y otros metales\ndel subsuelo para luego absorberlas.",
+        "Funde metales para ingerirlos. Una vez licuados,\nlos hace circular por el interior de su cuerpo para\ngenerar energía.",
+        "Viven en grupos, pero, llegado el momento,\nel ejemplar más fuerte absorbe a sus camaradas\ny evoluciona."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+    "name": "Meltan",
+    "types": [
+        "Acero"
+    ],
+    "weight": 8.0
+}

@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Nessuno conosce il suo vero aspetto.\nPare che uno studioso sia morto di paura dopo\naver guardato sotto il panno che lo nasconde.",
+        "Soffre molto la solitudine e per poter avvicinare\ngli esseri umani e gli altri Pokémon, cela il suo\ntremendo aspetto sotto a un panno.",
+        "È un Pokémon tranquillo che soffre di solitudine.\nSe qualcuno cerca di sbirciare sotto il panno che\nlo nasconde, si oppone con forza.",
+        "Un Allenatore che ha visto cosa si cela sotto\nil suo panno per una folata di vento è andato\nincontro a una morte dolorosa la sera stessa.",
+        "Per non spaventare gli altri, cela il suo aspetto\nsotto a un panno che imita le fattezze di Pikachu,\nma questo lo rende ancor più inquietante.",
+        "Uno scienziato che studiava questo Pokémon\nmorì di una misteriosa malattia dopo aver\nguardato sotto il suo panno."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "name": "Mimikyu",
+    "types": [
+        "Spettro",
+        "Folletto"
+    ],
+    "weight": 0.7
+}

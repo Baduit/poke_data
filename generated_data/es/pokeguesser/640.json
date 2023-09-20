@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sus cuernos son hojas afiladas. Sacude a sus\nenemigos con sus relampagueantes movimientos y\nlos reduce.",
+        "Cuenta la leyenda que Virizion confunde a sus rivales\ncon rápidos movimientos para proteger a otros\nPokémon.",
+        "Sus cuernos son hojas afiladas. Sacude a sus enemigos con\nsus relampagueantes movimientos y los reduce.",
+        "Cuenta la leyenda que Virizion confunde a sus rivales con\nrápidos movimientos para proteger a otros Pokémon.",
+        "Según una leyenda, luchó con valentía junto\na Cobalion y Terrakion para proteger a los\nPokémon de Teselia.",
+        "Confunde a los enemigos con sus movimientos\nrelampagueantes y luego los rebana sin piedad\ncon sus afilados cuernos."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "name": "Virizion",
+    "types": [
+        "Planta",
+        "Lucha"
+    ],
+    "weight": 200.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 3,
+    "height": 0.4,
+    "name": "파비코",
+    "types": [
+        "노말",
+        "비행"
+    ],
+    "weight": 1.2
+}

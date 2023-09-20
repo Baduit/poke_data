@@ -1,0 +1,11 @@
+{
+    "color": "褐色",
+    "generation": 1,
+    "height": 0.3,
+    "name": "獨角蟲",
+    "types": [
+        "蟲",
+        "毒"
+    ],
+    "weight": 3.2
+}

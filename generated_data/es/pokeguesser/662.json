@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Lanza chispas por su pico y prende fuego a la hierba\nalta para así sorprender a sus presas y atraparlas\ncuando intentan escapar.",
+        "Cuanto más intenso sea el calor que se genera en la\nsaca de fuego de su vientre, más rápido es capaz de\nvolar. Sin embargo, la llama tarda en prender.",
+        "Lanza chispas por su pico y prende fuego a la hierba alta para\nasí sorprender a sus presas y atraparlas cuando intentan\nescapar.",
+        "Cuanto más intenso sea el calor que se genera en la saca\nde fuego de su vientre, más rápido es capaz de volar. Sin\nembargo, la llama tarda en prender.",
+        "Lanza chispas por el pico para atacar a su\npresa, a la que devora una vez calcinada.",
+        "No tolera bajo ningún concepto que otro\nFletchinder invada su territorio, cuyo radio\nabarca varios kilómetros.",
+        "Prende fuego a los arbustos con las chispas\nque suelta y aprovecha para cazar los Pokémon\nBicho que salen corriendo despavoridos.",
+        "La velocidad que alcanza nada más emprender\nel vuelo es de las más altas de entre todos los\nPokémon pájaro.",
+        "Lanza chispas al interior de la guarida de su\npresa y, cuando esta sale despavorida, la ataca\npor sorpresa con sus afiladas garras.",
+        "Defienden su territorio con suma agresividad.\nSe pelean entre sí por el control de las áreas de\ncaza."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "name": "Fletchinder",
+    "types": [
+        "Fuego",
+        "Volador"
+    ],
+    "weight": 16.0
+}

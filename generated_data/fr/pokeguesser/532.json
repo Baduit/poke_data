@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il combat avec une poutre. Quand il en\narrive à transporter de lourds madriers\nsans problème, l’évolution est proche.",
+        "Il porte toujours une poutre.\nIl apparaît sur les chantiers\npour aider aux travaux.",
+        "Il porte toujours une poutre. Il apparaît sur les\nchantiers pour aider aux travaux.",
+        "Il porte toujours une poutre en bois et aime aider aux\ntravaux. Il passe à un lourd madrier quand il grandit.",
+        "Il porte toujours une poutre. Il apparaît sur les chantiers\npour aider aux travaux.",
+        "Il porte toujours une poutre en bois et aime aider aux travaux.\nIl passe à un lourd madrier quand il grandit.",
+        "Il aime donner un coup de main sur les chantiers.\nLorsque le travail cesse à cause de la pluie,\nil brandit sa poutre de colère.",
+        "Lorsque Charpenti est capable de soulever\nune poutre faisant trois fois son poids,\nle jour de son évolution est proche."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "name": "Charpenti",
+    "types": [
+        "Combat"
+    ],
+    "weight": 12.5
+}

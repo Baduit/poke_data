@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Parasect está dominado por una seta parásita mayor\nque él. Dispersa esporas venenosas.",
+        "Cuanto más grande sea la seta de su lomo, más\nresistentes serán las esporas que esta suelta.",
+        "Parasect es conocido por destruir en plaga grandes árboles,\nabsorbiendo los nutrientes que tienen en la parte baja del\ntronco y las raíces. Cuando un árbol azotado por la plaga\nmuere, los Parasect van a por el siguiente al instante.",
+        "Parasect es conocido por destruir en plaga grandes árboles,\nabsorbiendo los nutrientes que tienen en la parte baja del\ntronco y las raíces. Cuando un árbol azotado por la plaga\nmuere, los Parasect van a por el siguiente al instante.",
+        "La gran seta en su lomo lo controla. A menudo\nlibra luchas territoriales contra Shiinotic.",
+        "La gran seta en su lomo dispersa esporas\nvenenosas, que pueden servir para elaborar\nremedios medicinales.",
+        "La mayor parte de su cuerpo está atrofiada,\nexcepto la seta del dorso, que controla al resto.\nSi se desprende, Parasect ya no podrá moverse.",
+        "Sus esporas venenosas se usan para elaborar\nremedios medicinales que en Alola, al parecer,\nson de calidad más bien mediocre.",
+        "Tras largo tiempo absorbiendo la energía del\nhuésped, la seta parásita del lomo es la que\nparece controlar la voluntad de este Pokémon.",
+        "Tras largo tiempo absorbiendo la energía del\nhuésped, la seta parásita del lomo es la que\nparece controlar la voluntad de este Pokémon."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "name": "Parasect",
+    "types": [
+        "Bicho",
+        "Planta"
+    ],
+    "weight": 29.5
+}

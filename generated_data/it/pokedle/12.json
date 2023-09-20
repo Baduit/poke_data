@@ -1,0 +1,11 @@
+{
+    "color": "Bianco",
+    "generation": 1,
+    "height": 1.1,
+    "name": "Butterfree",
+    "types": [
+        "Coleottero",
+        "Volante"
+    ],
+    "weight": 32.0
+}

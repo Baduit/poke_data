@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 1,
+    "height": 1.9,
+    "name": "코뿌리",
+    "types": [
+        "땅",
+        "바위"
+    ],
+    "weight": 120.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 8,
+    "height": 1.8,
+    "name": "Duraludon",
+    "types": [
+        "Steel",
+        "Dragon"
+    ],
+    "weight": 40.0
+}

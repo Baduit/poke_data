@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il est très farouche et se laisse\nrarement approcher. De plus, il\ndétecte les sons à plus d’1 km.",
+        "Il est très farouche et se laisse\nrarement approcher. De plus, il\ndétecte les sons à plus d’1 km.",
+        "Il aime le calme des montagnes. Son ouïe\nexceptionnelle entendrait une aiguille tomber à 1 km.",
+        "Ce Pokémon est une sorte de petite fée très rare.\nIl court vite se cacher s’il aperçoit un être humain.",
+        "Les Mélodelfe se déplacent en sautant doucement,\ncomme s’ils volaient. Leur démarche légère leur permet\nmême de marcher sur l’eau. On raconte qu’ils se promènent\nsur les lacs, les soirs où la lune est claire.",
+        "Les Mélodelfe se déplacent en sautant doucement,\ncomme s’ils volaient. Leur démarche légère leur permet\nmême de marcher sur l’eau. On raconte qu’ils se promènent\nsur les lacs, les soirs où la lune est claire.",
+        "Il n’aime pas être aperçu par les humains.\nIl préfère donc vivre paisiblement en groupes\nau fond des montagnes.",
+        "Une tradition raconte qu’apercevoir un Mélodelfe\ngambader joyeusement signifie que l’on fera\nun heureux mariage.",
+        "Il préfère vivre au fond des montagnes, loin des\nhumains et des Pokémon, car il peut entendre\nune aiguille tomber à un kilomètre de distance.",
+        "Selon certains scientifiques, c’est parce qu’il\na le mal du pays qu’il fixe le ciel les soirs de\npleine lune.",
+        "Ce Pokémon à l’aspect féérique semble très\nattaché à son habitat et ne se montre que\nrarement.",
+        "Ce Pokémon à l’aspect féérique semble très\nattaché à son habitat et ne se montre que\nrarement.",
+        "Ce Pokémon s’apparente à une petite fée\nqui n’apparaît que rarement devant les humains.\nIl court se cacher dès qu’il ressent une présence.",
+        "Capable d’entendre une aiguille tomber à plus\nd’un kilomètre, ce Pokémon préfère les endroits\ncalmes et isolés."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "name": "Mélodelfe",
+    "types": [
+        "Fée"
+    ],
+    "weight": 40.0
+}

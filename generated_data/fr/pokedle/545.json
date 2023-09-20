@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 5,
+    "height": 2.5,
+    "name": "Brutapode",
+    "types": [
+        "Insecte",
+        "Poison"
+    ],
+    "weight": 200.5
+}

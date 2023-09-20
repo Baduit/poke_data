@@ -1,0 +1,11 @@
+{
+    "color": "Grau",
+    "generation": 4,
+    "height": 1.3,
+    "name": "Bollterus",
+    "types": [
+        "Gestein",
+        "Stahl"
+    ],
+    "weight": 149.5
+}

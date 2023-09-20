@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Des flammes fusent de ses\npoignets et ses coups brûlent\nl’ennemi.",
+        "Des flammes fusent de ses\npoignets et ses coups brûlent\nl’ennemi.",
+        "Il peut bondir par-dessus un bâtiment de 30 étages.\nSes poings enflammés brûlent ses adversaires.",
+        "Quand il est face à un ennemi, il laisse s’échapper\ndes gerbes de flammes par ses poignets. Ses jambes\nlui permettent de sauter par-dessus les immeubles.",
+        "Au combat, Braségali envoie des flammes ardentes de\nses poignets. Il fait preuve d’un courage exceptionnel.\nPlus l’ennemi est puissant, plus les poignets de ce Pokémon\nsont ardents.",
+        "Braségali a des jambes incroyablement puissantes. Il peut\nsauter par-dessus un immeuble de trente étages. Les coups\nde poing enflammés de ce Pokémon peuvent carboniser\nses ennemis."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "name": "Braségali",
+    "types": [
+        "Feu",
+        "Combat"
+    ],
+    "weight": 52.0
+}

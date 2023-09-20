@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Paras",
+    "types": [
+        "Insecte",
+        "Plante"
+    ],
+    "weight": 5.4
+}

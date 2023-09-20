@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "온몸을 수축시킨 뒤 100kg의\n모래를 콧구멍으로 내뿜는다.\n모래가 없으면 무기력해진다.",
+        "독특한 똬리 형태는\n모래주머니의 모래를 더 효율적으로\n분사하기 위함이다."
+    ],
+    "height": 3.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "name": "사다이사",
+    "types": [
+        "땅"
+    ],
+    "weight": 65.5
+}

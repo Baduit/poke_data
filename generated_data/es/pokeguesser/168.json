@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Teje su telaraña desde atrás y desde su boca. Es muy\ndifícil saber dónde está cada cual.",
+        "Pega hilos de seda a sus presas y las libera para\nseguirlas más tarde y localizar también a sus amigos.",
+        "Ariados tiene unas patas con forma de garfio que le permiten\ncorrer por techos y superficies verticales. Este Pokémon\noprime al rival con una tela de araña fina y resistente.",
+        "Ariados tiene unas patas con forma de garfio que le permiten\ncorrer por techos y superficies verticales. Este Pokémon\noprime al rival con una tela de araña fina y resistente.",
+        "En ciertas regiones, se utiliza la telaraña de\nAriados para tejer. La tela tejida con este\nhilo tiene fama de ser muy resistente.",
+        "Teje su telaraña con el abdomen o la boca.\nInmoviliza a sus presas con su hilo y se alimenta\nlentamente de sus fluidos corporales.",
+        "Ronda por la noche en busca de presas a las\nque inmoviliza con su hilo para luego clavarles\nlos colmillos.",
+        "Captura a sus presas con el hilo que segrega.\nAl caer la noche, abandona su tela y sale a\ncazar activamente."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "name": "Ariados",
+    "types": [
+        "Bicho",
+        "Veneno"
+    ],
+    "weight": 33.5
+}

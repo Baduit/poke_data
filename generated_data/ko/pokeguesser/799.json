@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "산을 깎아 먹고 빌딩을\n삼키는 모습이 보고되었다.\n울트라비스트 중 하나이다.",
+        "위험생물 비스트의 일종.\n항상 무언가를 먹고 있는 듯하지만\n왜인지 배설물은 발견되지 않았다.",
+        "이 세계와는 성질이 다르고\n위험하지만 원래 살던 세계에서는\n흔히 볼 수 있는 생물인 듯하다.",
+        "UB라고 불리는 미지의 생명체.\n늘 배가 고픈 상태인 것인지\n계속해서 무언가를 먹고 있다."
+    ],
+    "height": 5.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "name": "악식킹",
+    "types": [
+        "악",
+        "드래곤"
+    ],
+    "weight": 888.0
+}

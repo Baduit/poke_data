@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Pare che le sfere di cristallo diano a questo Pokémon\nil pieno controllo sulle condizioni atmosferiche.",
+        "Pokémon etereo che emana un’aura mite e ha la\ncapacità di mutare il clima.",
+        "Dragonair accumula un’enorme quantità d’energia all’interno\ndel corpo. Si dice che sia in grado di mutare le condizioni\nmeteorologiche circostanti scaricando energia dai cristalli\ndel collo e della coda.",
+        "Dragonair accumula un’enorme quantità d’energia all’interno\ndel corpo. Si dice che sia in grado di mutare le condizioni\nmeteorologiche circostanti scaricando energia dai cristalli\ndel collo e della coda.",
+        "Si dice che le sfere di cristallo che ha sul corpo\ngli permettano di controllare le condizioni\natmosferiche.",
+        "Fin dall’antichità è venerato dai popoli dediti\nall’agricoltura per la sua capacità di controllare\nle condizioni atmosferiche.",
+        "Si crede che abbia il potere di controllare le\ncondizioni atmosferiche. Presso i laghi in cui\nvive non mancano mai offerte a lui dedicate.",
+        "Si dice che se si vede questo Pokémon\nserpeggiare nel cielo all’inizio dell’anno,\nsi avranno dodici mesi di ottima salute.",
+        "Chi lo ha incontrato racconta che questo\nPokémon è circondato da un’aura misteriosa.",
+        "Chi lo ha incontrato racconta che questo\nPokémon è circondato da un’aura misteriosa.",
+        "Vive in mari e laghi dalle acque limpide.\nGrazie alla sua capacità di controllare il clima,\nsfrutta il vento per spiccare il volo.",
+        "Accumula energia nelle sfere che ha sulla coda\ne controlla le condizioni atmosferiche. Avvolto\ndalla sua aura ha un aspetto misterioso."
+    ],
+    "height": 4.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "name": "Dragonair",
+    "types": [
+        "Drago"
+    ],
+    "weight": 16.5
+}

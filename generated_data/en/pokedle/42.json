@@ -1,0 +1,11 @@
+{
+    "color": "Purple",
+    "generation": 1,
+    "height": 1.6,
+    "name": "Golbat",
+    "types": [
+        "Poison",
+        "Flying"
+    ],
+    "weight": 55.0
+}

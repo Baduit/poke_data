@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 8,
+    "height": 0.4,
+    "name": "Orbeetle",
+    "types": [
+        "Bicho",
+        "Psíquico"
+    ],
+    "weight": 40.8
+}

@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "喜歡乾燥的地方，\n下雨時不會從岩石裡出來。\n有著很強的地盤意識。",
+        "厚實的鉗子是牠最大的武器。\n硬度高到甚至能讓\n超甲狂犀的護具裂開。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "name": "岩殿居蟹",
+    "types": [
+        "蟲",
+        "岩石"
+    ],
+    "weight": 200.0
+}

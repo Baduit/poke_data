@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Si assicura a un ramo con il filo gelido che\nproduce dalla bocca e dorme fingendosi\nun ghiacciolo.",
+        "Si nutre della neve accumulatasi sul terreno.\nPiù ne mangia, più gli aculei sul suo dorso\ndiventano grandi."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+    "name": "Snom",
+    "types": [
+        "Ghiaccio",
+        "Coleottero"
+    ],
+    "weight": 3.8
+}

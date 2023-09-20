@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "It draws out and controls the hidden power\nof flowers. The flower Flabébé holds\nis most likely part of its body.",
+        "When it finds a flower it likes, it dwells on\nthat flower its whole life long. It floats in the\nwind’s embrace with an untroubled heart.",
+        "It draws out and controls the hidden power\nof flowers. The flower Flabébé holds\nis most likely part of its body.",
+        "When it finds a flower it likes, it dwells on\nthat flower its whole life long. It floats in the\nwind’s embrace with an untroubled heart.",
+        "It’s not safe without the power of a flower, but\nit will keep traveling around until it finds one\nwith the color and shape it wants.",
+        "Flabébé wears a crown made from pollen it’s\ncollected from its flower. The crown has hidden\nhealing properties."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "name": "Flabébé",
+    "types": [
+        "Fairy"
+    ],
+    "weight": 0.1
+}

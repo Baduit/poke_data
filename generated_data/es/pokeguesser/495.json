@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Cuando recibe los rayos de sol, se mueve mucho más\nrápido que de costumbre. Usa mejor sus lianas que\nsus manos.",
+        "Sintetiza la luz del sol que recoge con su cola. Esta\nse le queda abatida cuando le fallan las energías.",
+        "Cuando recibe los rayos de sol, se mueve mucho más rápido\nque de costumbre. Usa mejor sus lianas que sus manos.",
+        "Sintetiza la luz del sol que recoge con su cola. Esta se le\nqueda abatida cuando le fallan las energías."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "name": "Snivy",
+    "types": [
+        "Planta"
+    ],
+    "weight": 8.1
+}

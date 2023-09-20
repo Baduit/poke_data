@@ -1,0 +1,11 @@
+{
+    "color": "Violet",
+    "generation": 7,
+    "height": 1.0,
+    "name": "Lampignon",
+    "types": [
+        "Plante",
+        "Fée"
+    ],
+    "weight": 11.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "When it is not feeling well, its mucus\ngets watery and the power of its\nIce-type moves decreases.",
+        "Its nose is always running. It sniffs the\nsnot back up because the mucus\nprovides the raw material for its moves.",
+        "Their snot is a barometer of health.\nWhen healthy, their snot is sticky and\nthe power of their ice moves increases.",
+        "Their snot is a barometer of health.\nWhen healthy, their snot is sticky and\nthe power of their ice moves increases.",
+        "Its nose is always running. It sniffs the snot back up\nbecause the mucus provides the raw material for\nits moves.",
+        "Their snot is a barometer of health. When healthy,\ntheir snot is sticky and the power of their ice\nmoves increases.",
+        "Its nose is always running. It sniffs the snot back up\nbecause the mucus provides the raw material for\nits moves.",
+        "Their snot is a barometer of health. When healthy,\ntheir snot is sticky and the power of their ice\nmoves increases.",
+        "When this Pokémon is in good health, its snot\nbecomes thicker and stickier. It will smear its snot\non anyone it doesn’t like.",
+        "It sniffles before performing a move, using its\nfrosty snot to provide an icy element to any\nmove that needs it."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "name": "Cubchoo",
+    "types": [
+        "Ice"
+    ],
+    "weight": 8.5
+}

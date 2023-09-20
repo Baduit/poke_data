@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "On l’appelle “Pokémon mirage”\nen raison de sa rareté. On a\ndécouvert sa mue.",
+        "On l’appelle “Pokémon mirage”\nen raison de sa rareté. On a\ndécouvert sa mue.",
+        "On l’appelle « Pokémon mirage » en raison de sa\nrareté. On a découvert sa mue.",
+        "Ce Pokémon est plein de vitalité. Il mue et grandit très\nrégulièrement.",
+        "Minidraco mue constamment, renouvelant sans arrêt sa peau.\nEn effet, l’énergie vitale de son corps augmente régulièrement\net sa mue lui permet d’éviter d’atteindre des niveaux\nincontrôlables.",
+        "Minidraco mue constamment, renouvelant sans arrêt sa peau.\nEn effet, l’énergie vitale de son corps augmente régulièrement\net sa mue lui permet d’éviter d’atteindre des niveaux\nincontrôlables.",
+        "Il grandit en enchaînant les mues.\nLes bottes faites avec la peau de ces mues\nsont des produits de grand luxe.",
+        "La première preuve de l’existence de ce\nPokémon est due à un pêcheur ayant bataillé\n10 heures pour le tirer hors de l’eau.",
+        "Encore faible, il se cache dans les eaux\nprofondes et se nourrit de ce qui tombe de\nla surface. Il mène une existence paisible.",
+        "Il grandit en muant quasiment tous les jours.\nSa peau est toute douce après la mue.",
+        "L’existence de ce Pokémon mythique n’a été\nconfirmée que récemment par un pêcheur.",
+        "L’existence de ce Pokémon mythique n’a été\nconfirmée que récemment par un pêcheur.",
+        "Ce Pokémon vit près des courants d’eau\npuissants, comme au pied des cascades.\nIl grandit en opérant une succession de mues.",
+        "On a longtemps douté de l’existence de\nce Pokémon. La petite bosse sur son front\nest en fait sa corne en pleine croissance."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "name": "Minidraco",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 3.3
+}

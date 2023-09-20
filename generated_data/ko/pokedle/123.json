@@ -1,0 +1,11 @@
+{
+    "color": "초록",
+    "generation": 1,
+    "height": 1.5,
+    "name": "스라크",
+    "types": [
+        "벌레",
+        "비행"
+    ],
+    "weight": 56.0
+}

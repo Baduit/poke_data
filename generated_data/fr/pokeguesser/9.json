@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Les trombes d’eau projetées par\nles canons de sa carapace peuvent\npercer le métal le plus résistant.",
+        "Les trombes d’eau projetées par\nles canons de sa carapace peuvent\npercer le métal le plus résistant.",
+        "Il écrase ses adversaires de tout son poids pour leur\nfaire perdre connaissance. Il rentre dans sa carapace\ns’il se sent en danger.",
+        "Ce Pokémon brutal est armé de canons hydrauliques.\nSes puissants jets d’eau sont dévastateurs.",
+        "Tortank dispose de canons à eau émergeant de sa carapace.\nIls sont très précis et peuvent envoyer des balles d’eau\ncapables de faire mouche sur une cible située à plus de 50 m.",
+        "Tortank dispose de canons à eau émergeant de sa carapace.\nIls sont très précis et peuvent envoyer des balles d’eau\ncapables de faire mouche sur une cible située à plus de 50 m.",
+        "Une fois sa cible dans sa ligne de mire,\nil projette des jets d’eau plus puissants\nqu’une lance à incendie.",
+        "Une fois sa cible dans sa ligne de mire,\nil projette des jets d’eau plus puissants\nqu’une lance à incendie.",
+        "Il écrase ses adversaires de tout son poids\npour leur faire perdre connaissance.\nIl rentre dans sa carapace s’il se sent en danger.",
+        "Les canons sur sa carapace tirent des jets d’eau\ncapables de percer même de l’acier trempé."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "name": "Tortank",
+    "types": [
+        "Eau"
+    ],
+    "weight": 85.5
+}

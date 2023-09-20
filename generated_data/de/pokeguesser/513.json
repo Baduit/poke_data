@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Ein kultiviertes Pokémon, das Beeren vor dem\nVerzehr stets anbrät. Es bietet den Menschen\ngerne seine Hilfe an.",
+        "Das Feuer in seinem Kopfbüschel erreicht\nTemperaturen von bis zu 300 °C. Es ist in\nVulkanhöhlen zu Hause.",
+        "Ein kultiviertes Pokémon, das Beeren vor dem Verzehr stets\nanbrät. Es bietet den Menschen gerne seine Hilfe an.",
+        "Das Feuer in seinem Kopfbüschel erreicht Temperaturen\nvon bis zu 300 °C. Es ist in Vulkanhöhlen zu Hause."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "name": "Grillmak",
+    "types": [
+        "Feuer"
+    ],
+    "weight": 11.0
+}

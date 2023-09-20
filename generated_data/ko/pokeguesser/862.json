@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "엄청난 성량을 가졌다.\n샤우팅하며 위협하는 모습은\n블로킹이라 불린다.",
+        "싸움을 반복하면서 진화한다.\n팔을 크로스하고 우렁차게 외치면\n어떤 상대라도 풀죽게 된다."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "name": "가로막구리",
+    "types": [
+        "악",
+        "노말"
+    ],
+    "weight": 46.0
+}

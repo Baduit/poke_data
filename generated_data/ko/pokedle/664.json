@@ -1,0 +1,10 @@
+{
+    "color": "검정",
+    "generation": 6,
+    "height": 0.3,
+    "name": "분이벌레",
+    "types": [
+        "벌레"
+    ],
+    "weight": 2.5
+}

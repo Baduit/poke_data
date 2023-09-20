@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Masquerain",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "weight": 3.6
+}

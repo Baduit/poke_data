@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Compare accanto a Pokémon e uomini tormentati\ndagli incubi per nutrirsi di tutti i loro brutti sogni.",
+        "Si nutre dei sogni di uomini e Pokémon. Se mangia\nsogni piacevoli, esala un fumo di colore rosa.",
+        "Compare accanto a Pokémon e uomini tormentati dagli incubi\nper nutrirsi di tutti i loro brutti sogni.",
+        "Si nutre dei sogni di uomini e Pokémon. Se mangia sogni\npiacevoli, esala un fumo di colore rosa.",
+        "Appare vicino al guanciale nel cuore della notte.\nQuando mangia i sogni, i motivi che ha sul\ncorpo si illuminano lievemente.",
+        "Si nutre di sogni. Esala un fumo rosa se sono\nsogni piacevoli e nero se sono incubi."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "name": "Munna",
+    "types": [
+        "Psico"
+    ],
+    "weight": 23.3
+}

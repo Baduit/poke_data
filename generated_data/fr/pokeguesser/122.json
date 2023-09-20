@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "En modifiant les molécules de l’air\ndu bout de ses doigts, il parvient\nà créer un mur invisible devant lui.",
+        "En modifiant les molécules de l’air\ndu bout de ses doigts, il parvient\nà créer un mur invisible devant lui.",
+        "Les murs invisibles qu’il matérialise du bout des doigts\nrepoussent les attaques les plus puissantes.",
+        "Il adore imiter les gens. On le dit capable de créer\nde véritables murs juste en les mimant.",
+        "M. Mime est un pantomime hors pair. Ses gestes et ses\nmouvements parviennent à faire croire que quelque chose\nd’invisible existe réellement. Lorsqu’on y croit, ces choses\ndeviennent palpables.",
+        "M. Mime est un pantomime hors pair. Ses gestes et ses\nmouvements parviennent à faire croire que quelque chose\nd’invisible existe réellement. Lorsqu’on y croit, ces choses\ndeviennent palpables.",
+        "Il est tellement doué pour l’art du mime qu’il est\ncapable de faire apparaître un vrai mur sous\nle regard médusé de son public.",
+        "Grâce à ses talents de mime, il est capable de\nfaire apparaître de vrais murs. Applaudissez-le,\nau risque de recevoir une ou deux Torgnoles !",
+        "Ce Pokémon très doué pour le mime s’entraîne\nsans cesse. Il arrive à faire croire que quelque\nchose d’inexistant est réel.",
+        "Ce Pokémon très doué pour le mime s’entraîne\nsans cesse. Il arrive à faire croire que quelque\nchose d’inexistant est réel.",
+        "De nombreux savants pensent que ses mains\nse sont développées pour faire de la pantomime.",
+        "Son talent pour le mime est indéniable.\nIl émet des ondes du bout des doigts pour créer\nun mur qui le protège de nombreuses attaques."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "name": "M. Mime",
+    "types": [
+        "Psy",
+        "Fée"
+    ],
+    "weight": 54.5
+}

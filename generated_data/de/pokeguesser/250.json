@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Sein Körper soll in sieben Farben leuchten. Im Flug\nzieht es einen Regenbogen hinter sich her.",
+        "Es wird sich dem Trainer offenbaren, der reinen\nHerzens ist, und ihm seine bunten Schwingen zeigen.",
+        "Ho-Ohs Federn leuchten in sieben Farben, je nachdem aus\nwelchem Winkel das Licht auf sie fällt. Die Federn sollen ihrem\nBesitzer Glück bringen. Dieses Pokémon lebt am Fuße eines\nRegenbogens.",
+        "Ho-Ohs Federn leuchten in sieben Farben, je nachdem aus\nwelchem Winkel das Licht auf sie fällt. Die Federn sollen ihrem\nBesitzer Glück bringen. Dieses Pokémon lebt am Fuße eines\nRegenbogens."
+    ],
+    "height": 3.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "name": "Ho-Oh",
+    "types": [
+        "Feuer",
+        "Flug"
+    ],
+    "weight": 199.0
+}

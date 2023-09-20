@@ -1,0 +1,11 @@
+{
+    "color": "갈색",
+    "generation": 7,
+    "height": 0.5,
+    "name": "모래꿍",
+    "types": [
+        "고스트",
+        "땅"
+    ],
+    "weight": 70.0
+}

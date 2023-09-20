@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 6,
+    "height": 1.6,
+    "name": "Chesnaught",
+    "types": [
+        "Grass",
+        "Fighting"
+    ],
+    "weight": 90.0
+}

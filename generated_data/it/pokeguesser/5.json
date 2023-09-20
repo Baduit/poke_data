@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Fa cadere a terra il nemico colpendolo con la coda,\nper poi finirlo con gli artigli affilati.",
+        "Quando agita la sua coda infuocata porta la\ntemperatura a livelli insostenibili.",
+        "Charmeleon distrugge il nemico senza pietà con i suoi\nartigli affilati. Quando incontra un avversario molto forte\ndiventa aggressivo. In questo stato di grande agitazione\nla fiamma della coda diventa di colore bianco bluastro.",
+        "Charmeleon distrugge il nemico senza pietà con i suoi\nartigli affilati. Quando incontra un avversario molto forte\ndiventa aggressivo. In questo stato di grande agitazione\nla fiamma della coda diventa di colore bianco bluastro.",
+        "Si infervora durante le lotte più dure e talvolta\nsputa fiamme bluastre.",
+        "Si infervora durante le lotte più dure e talvolta\nsputa fiamme bluastre.",
+        "Ha un’indole feroce. Usa la coda fiammeggiante\ncome una frusta e lacera l’avversario con gli\nartigli affilati.",
+        "Se s’infervora nella lotta, sputa potenti fiamme\nche inceneriscono l’area circostante."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "name": "Charmeleon",
+    "types": [
+        "Fuoco"
+    ],
+    "weight": 19.0
+}

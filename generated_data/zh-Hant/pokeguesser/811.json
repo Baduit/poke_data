@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "越是能用２根木棒敲奏出\n激烈節拍的啪咚猴，越是\n能獲得夥伴們的尊敬。",
+        "打著激烈的節拍戰鬥時，\n由於過於忘我，甚至不會\n意識到自己已經把對手打昏了。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "name": "啪咚猴",
+    "types": [
+        "草"
+    ],
+    "weight": 14.0
+}

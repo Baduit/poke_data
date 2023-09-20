@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Sus afilados colmillos lo atraviesan todo. No es\nautóctono de Alola, sino que proviene de otra\nregión.",
+        "Deambula todo el día en busca de alimento. Al\nanochecer, exhausto, se deja caer en cualquier\nlugar y se queda dormido.",
+        "El estómago le ocupa gran parte de su largo\ncuerpo. Alimentar a este auténtico tragaldabas\nno es moco de pavo, por el coste que conlleva.",
+        "Pese a ser omnívoro, siente predilección por los\nalimentos frescos o incluso seres vivos. Por eso\nmarcha por los caminos en busca de presas."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "name": "Yungoos",
+    "types": [
+        "Normal"
+    ],
+    "weight": 6.0
+}

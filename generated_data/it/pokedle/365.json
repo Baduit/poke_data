@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 3,
+    "height": 1.4,
+    "name": "Walrein",
+    "types": [
+        "Ghiaccio",
+        "Acqua"
+    ],
+    "weight": 150.6
+}

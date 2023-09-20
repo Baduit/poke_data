@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Man sagt, es bringe Glück. Es ist sehr mitfühlend\nund teilt seine Eier mit Verletzten.",
+        "Es legt mehrere Eier am Tag. Sie sind sehr nahrhaft\nund außerordentlich schmackhaft.",
+        "Chaneira legt täglich ausgesprochen nahrhafte Eier.\nSie sind so köstlich, dass sie sogar von Menschen\nverspeist werden, die gar keinen Appetit haben.",
+        "Chaneira legt täglich ausgesprochen nahrhafte Eier.\nSie sind so köstlich, dass sie sogar von Menschen\nverspeist werden, die gar keinen Appetit haben.",
+        "Die Eier, die es legt, sind ausgesprochen\nnahrhaft. Sie sind die Leibspeise vieler\nPokémon.",
+        "Es ist äußerst selten und kann zudem sehr\nschnell davonlaufen. Schafft man es trotzdem,\neins zu fangen, bringt es angeblich Glück.",
+        "Es hat gelernt, rasch davonzulaufen, da es viele\nPokémon auf die nahrhaften und köstlichen Eier\nabgesehen haben, die es legt.",
+        "Einst wurde es exzessiv von Wilddieben gejagt,\ndie es auf das Ei in seinem Beutel abgesehen\nhatten. Mittlerweile ist es daher sehr selten.",
+        "Chaneira ist sehr warmherzig und freundlich. Es\nkümmert sich liebevoll um verletzte Lebewesen,\nindem es seine nahrhaften Eier mit ihnen teilt.",
+        "Chaneira ist sehr warmherzig und freundlich. Es\nkümmert sich liebevoll um verletzte Lebewesen,\nindem es seine nahrhaften Eier mit ihnen teilt.",
+        "Seine Eier sind äußerst nahrhaft und schmecken\nköstlich, weshalb sie als erlesene Kochzutat\ngelten.",
+        "Dieses ursprünglich eher träge Pokémon hat\ngelernt, schnell davonzulaufen, um seine Eier vor\nRäubern schützen zu können."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "name": "Chaneira",
+    "types": [
+        "Normal"
+    ],
+    "weight": 34.6
+}

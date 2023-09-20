@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Inganna spesso il nemico assumendone la forma e\nlasciandolo esterrefatto, per poi darsi alla fuga.",
+        "Si protegge dai pericoli trasformandosi in essere\numano o in un altro Pokémon, nascondendo così la\nsua vera identità.",
+        "Inganna spesso il nemico assumendone la forma e lasciandolo\nesterrefatto, per poi darsi alla fuga.",
+        "Si protegge dai pericoli trasformandosi in essere umano o in\nun altro Pokémon, nascondendo così la sua vera identità.",
+        "È un Pokémon molto timido. Quando non è\ncircondato dai suoi simili, assume sembianze\ndiverse dalle quelle abituali.",
+        "Se un bambino chiacchierone diventa di colpo\ntaciturno, potrebbe essere in realtà uno Zorua\nche ne ha preso le sembianze.",
+        "Pare che abbia sviluppato l’abilità di alterare le\nsue sembianze per via della sua natura timorosa.",
+        "Quando è in cerca di cibo, capita persino che\nappaia in città assumendo sembianze umane.\nSi trasforma principalmente in bambini."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "name": "Zorua",
+    "types": [
+        "Buio"
+    ],
+    "weight": 12.5
+}

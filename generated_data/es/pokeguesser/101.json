@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Explotan a la mínima. Por eso se les tiene mucho\nmiedo. Estos Pokémon reciben el mote de Bomba Ball.",
+        "Almacena una enorme cantidad de electricidad en su\ncuerpo. Una pequeña sacudida le hará explotar.",
+        "Los Electrode se alimentan de la electricidad de la atmósfera.\nEn días de tormenta con rayos, es fácil verlos explotando por\ntodos lados tras haber consumido demasiada electricidad.",
+        "Una de las características de Electrode es la atracción que\nsiente hacia la electricidad. Son Pokémon problemáticos que\nsuelen agruparse cerca de centrales eléctricas para nutrirse\nde la energía recién generada.",
+        "Almacena tal cantidad de energía eléctrica en\nsu cuerpo que el más leve impacto puede\nprovocar una gran explosión.",
+        "Almacena tal cantidad de energía eléctrica en\nsu cuerpo que el más leve impacto puede\nprovocar una gran explosión."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "name": "Electrode",
+    "types": [
+        "Eléctrico"
+    ],
+    "weight": 66.6
+}

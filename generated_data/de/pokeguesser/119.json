@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Im Herbst, zur Paarungszeit, sieht man diese\nPokémon kraftvoll Bäche und Flüsse hinaufschwimmen.",
+        "Es baut Nester, indem es Steine im Fluss mit seinem\nHorn aushöhlt. Es verteidigt seine Eier mit dem Leben.",
+        "Im Herbst kann man männliche Golking dabei beobachten,\nwie sie Balztänze in Flussbetten aufführen, um die weiblichen\nExemplare zu beeindrucken. Während dieser Zeit ist die Farbe\ndieser Pokémon am schönsten.",
+        "Golking gibt sehr viel acht auf seine Brut. Es patrouilliert um\nsein Nest und die Eier herum, wobei sich das männliche und\ndas weibliche Exemplar abwechseln. Das Bewachen der Eier\nbeschäftigt dieses Pokémon für über einen Monat.",
+        "Wenn es kälter wird, färbt sich sein ganzer\nKörper tiefrot. Dieser Anblick versetzt die\nLeute in Herbststimmung.",
+        "Golkings Fangemeinde spaltet sich in zwei\nLager, die sich gegenseitig nicht riechen können:\ndie Hornenthusiasten und die Flossenfans.",
+        "Sein Horn rotiert wie ein Bohrer und höhlt selbst\ndie härtesten Felsen aus. Männliche Golking\nerstrahlen in besonders prächtigen Farben.",
+        "Männliche Golking tanzen in Flussbetten, um die\nweiblichen Exemplare zu beeindrucken, die sich\ndann um den allerbesten Tänzer scharen.",
+        "Männliche Exemplare dieses Pokémon höhlen\nmit dem Horn an ihrem Kopf Steine im Flussbett\naus, um sich so ein Nest zu bauen.",
+        "Männliche Exemplare dieses Pokémon höhlen\nmit dem Horn an ihrem Kopf Steine im Flussbett\naus, um sich so ein Nest zu bauen.",
+        "Im Herbst legt es an Gewicht zu und erscheint\nin prächtigen Farben, um so einen Partner\nanzulocken.",
+        "Es laicht in Löchern, die es mit seinem Horn in\nFelsen des Flussbettes gebohrt hat, damit seine\nEier nicht vom Wasser fortgespült werden."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "name": "Golking",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 39.0
+}

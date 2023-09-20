@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 9,
+    "height": 1.0,
+    "name": "Varoom",
+    "types": [
+        "Steel",
+        "Poison"
+    ],
+    "weight": 35.0
+}

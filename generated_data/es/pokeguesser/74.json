@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Aparecen en llanos y montañas. Como parecen rocas,\nla gente se tropieza con ellos o los pisa.",
+        "Es imposible distinguirlos de las rocas. Para probar su\ndureza, chocan entre sí en duelo.",
+        "Cuanto más larga es la vida de Geodude, mayor es el desgaste\ny la erosión que sufre, y más redondeada la forma que va\nadquiriendo. Sin embargo, el corazón permanece siempre duro,\nrocoso y tosco.",
+        "Cuando Geodude duerme profundamente, se entierra a\nmedias en el suelo y no se despierta ni aunque lo pisen sin\nquerer. Por la mañana, se dedica a buscar comida rodando\nladera abajo.",
+        "Aunque su forma invita a lanzarlo cual bola de\nnieve, su peso y dureza hacen de esta una\nactividad de riesgo nada recomendable.",
+        "Se encuentran en masa en las cunetas de los\ncaminos. Un investigador con mucho tiempo libre\nllegó a contar una vez una centena de Geodude.",
+        "Con la edad, su temperamento se amansa y su\ncuerpo se va alisando hasta adquirir una forma\ncompletamente redonda.",
+        "Escala a manos desnudas las pendientes de las\nmontañas. Al parecer, esta fue la fuente de\ninspiración para la práctica de la escalada libre.",
+        "Se suele encontrar en senderos de montaña y\nsitios parecidos. Conviene andar con cuidado\npara no pisarlo sin querer y provocar su enfado.",
+        "Se suele encontrar en senderos de montaña y\nsitios parecidos. Conviene andar con cuidado\npara no pisarlo sin querer y provocar su enfado."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "name": "Geodude",
+    "types": [
+        "Roca",
+        "Tierra"
+    ],
+    "weight": 20.0
+}

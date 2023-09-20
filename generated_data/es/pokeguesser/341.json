@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Por sucio o contaminado que esté el río, se adaptan\nrápido y se multiplican. Poseen una gran fuerza vital.",
+        "Su organismo le permite adaptarse a cualquier\nentorno. Sus pinzas nunca sueltan a su presa.",
+        "En un principio, se importaban Corphish como mascota. Pero,\nal final, se hicieron salvajes. Este Pokémon es muy resistente\ny ha aumentado su población de forma considerable.",
+        "Corphish atrapa a su presa con finas pinzas. En lo referente a\ncomida no es delicado; se come lo que sea. Tampoco tiene\nningún problema en vivir en aguas sucias.",
+        "Son muchos los Entrenadores que lo liberan sin\nterminar de criarlo, y su población ha crecido\ntanto que se les ha empezado a avistar en Alola.",
+        "Posee una excelente capacidad para adaptarse\na su entorno. Solo Corphish o Feebas habitan\nlas aguas estancadas de los canales.",
+        "Por muy sucio o contaminado que esté el río, se\nadaptan rápido y se multiplican. Poseen una gran\nfuerza vital.",
+        "Si bien procede del extranjero, ahora se halla en\nestado salvaje. Puede vivir hasta en los ríos más\nsucios."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "name": "Corphish",
+    "types": [
+        "Agua"
+    ],
+    "weight": 11.5
+}

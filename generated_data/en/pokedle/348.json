@@ -1,0 +1,11 @@
+{
+    "color": "Gray",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Armaldo",
+    "types": [
+        "Rock",
+        "Bug"
+    ],
+    "weight": 68.2
+}

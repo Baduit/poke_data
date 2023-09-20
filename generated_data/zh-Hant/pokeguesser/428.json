@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "每年會換２次毛。\n用這種毛製成的\n圍巾和帽子非常保暖。",
+        "警戒心很強。雖然不喜歡戰鬥，\n但牠能夠用柔韌的雙腳\n使出強而有力的踢腿。",
+        "總是注意著周圍的狀況。\n危險逼近時，就會給對手\n奉上破壞力十足的踢腿。",
+        "炎熱的季節結束後，\n就會換上富含空氣的\n體毛以備寒天來臨。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "name": "長耳兔",
+    "types": [
+        "一般"
+    ],
+    "weight": 33.3
+}

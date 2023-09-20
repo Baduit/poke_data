@@ -1,0 +1,11 @@
+{
+    "color": "Rot",
+    "generation": 5,
+    "height": 1.6,
+    "name": "Flambirex",
+    "types": [
+        "Feuer",
+        "Kampf"
+    ],
+    "weight": 150.0
+}

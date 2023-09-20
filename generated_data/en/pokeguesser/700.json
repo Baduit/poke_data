@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "It sends a soothing aura from its\nribbonlike feelers to calm fights.",
+        "It wraps its ribbonlike feelers around\nthe arm of its beloved Trainer\nand walks with him or her.",
+        "It sends a soothing aura from its\nribbonlike feelers to calm fights.",
+        "It wraps its ribbonlike feelers around\nthe arm of its beloved Trainer\nand walks with him or her.",
+        "Its ribbonlike feelers give off an aura that\nweakens hostility in its prey, causing them\nto let down their guard. Then it attacks.",
+        "When this Pokémon sights its prey, it swirls its\nribbonlike feelers as a distraction. A moment\nlater, it pounces.",
+        "Once a fight breaks out, it will unflinchingly\ncharge at dragon Pokémon that are many times\nlarger than itself.",
+        "Sylveon wraps its ribbonlike feelers around its\nTrainer’s arm because this touch enables it to\nread its Trainer’s feelings.",
+        "By releasing enmity-erasing waves from its\nribbonlike feelers, Sylveon stops any conflict.",
+        "There’s a Galarian fairy tale that describes\na beautiful Sylveon vanquishing a dreadful\ndragon Pokémon.",
+        "It emits a soothing aura from its ribbon-shaped organs. It wraps\nthese appendages around quarrelers to instantly restore calm to\nthe situation."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "name": "Sylveon",
+    "types": [
+        "Fairy"
+    ],
+    "weight": 23.5
+}

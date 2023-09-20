@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "生まれたときから　備わっている\n不思議な　力を　使うと　どんな\nポケモンとも　心が　通い合う。",
+        "どんな　ポケモンとでも　心を\n通い合わせる　ことが　できる\n不思議な　能力を　持っている。",
+        "生まれたときから　備わっている\n不思議な　力を　使うと　どんな\nポケモンとも　心が　通い合う。",
+        "どんな　ポケモンとでも　心を\n通い合わせる　ことが　できる\n不思議な　能力を　持っている。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "name": "マナフィ",
+    "types": [
+        "みず"
+    ],
+    "weight": 1.4
+}

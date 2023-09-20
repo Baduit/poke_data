@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Sobrevuela un área en busca de presas. Puede\nconcentrar una potente carga eléctrica entre\nsus mandíbulas para atacar a sus rivales.",
+        "En su estómago posee un órgano que genera\nenergía eléctrica. Los Pokémon pájaro no\npueden hacer nada contra los rayos que lanza.",
+        "El órgano que posee en el abdomen genera\nelectricidad. Libera la energía acumulada en sus\ngrandes mandíbulas con una potente descarga.",
+        "Aturde al enemigo con su vuelo acrobático y\naprovecha el desconcierto para propinarle una\ndescarga en forma de rayo.",
+        "Acumula en sus enormes mandíbulas la carga\neléctrica que genera en su abdomen y la libera\nen forma de rayos de alto voltaje.",
+        "Cuando vuela llevando consigo un Charjabug\na modo de batería adicional, puede liberar\npotentes descargas electromagnéticas."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "name": "Vikavolt",
+    "types": [
+        "Bicho",
+        "Eléctrico"
+    ],
+    "weight": 45.0
+}

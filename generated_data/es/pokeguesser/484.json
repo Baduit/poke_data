@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Se dice que vive en una dimensión espacial paralela.\nAparece en la mitología.",
+        "Tiene la habilidad de distorsionar el espacio. La\nmitología de Sinnoh lo describe como una deidad.",
+        "Se dice que vive en una dimensión espacial paralela. Aparece\nen la mitología.",
+        "Tiene la habilidad de distorsionar el espacio. La mitología de\nSinnoh lo describe como una deidad."
+    ],
+    "height": 4.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "name": "Palkia",
+    "types": [
+        "Agua",
+        "Dragón"
+    ],
+    "weight": 336.0
+}

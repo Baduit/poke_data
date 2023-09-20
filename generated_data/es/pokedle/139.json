@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Omastar",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 35.0
+}

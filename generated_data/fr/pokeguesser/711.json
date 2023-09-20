@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Les nuits de nouvelle lune, ce Pokémon erre dans\nles rues en chantant d’une voix lugubre.\nCeux qui l’entendent sont maudits.",
+        "Il enserre ses proies dans ses bras, semblables\nà de longues mèches de cheveux. Il se délecte\nde leur souffrance en chantonnant gaiement.",
+        "Les nuits de nouvelle lune, ce Pokémon erre dans les rues\nen chantant d’une voix lugubre. Ceux qui l’entendent sont\nmaudits.",
+        "Il enserre ses proies dans ses bras, semblables à\nde longues mèches de cheveux. Il se délecte de\nleur souffrance en chantonnant gaiement.",
+        "Les lugubres lamentations nocturnes de\nson ventre seraient en fait les cris de souffrance\nd’âmes en peine, résonnant depuis l’au-delà.",
+        "Les soirs de nouvelle lune, il frappe aux portes\ndes maisons. Si quelqu’un a le malheur de lui\nouvrir, il l’emporte aussitôt dans l’au-delà."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "name": "Banshitrouye",
+    "types": [
+        "Spectre",
+        "Plante"
+    ],
+    "weight": 12.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "黑色",
+    "generation": 8,
+    "height": 1.1,
+    "name": "大炭車",
+    "types": [
+        "岩石",
+        "火"
+    ],
+    "weight": 78.0
+}

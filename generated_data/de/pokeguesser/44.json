@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Dieses Pokémon sondert einen übelriechenden\nGeruch ab. Trotzdem halten einige Leute es im Haus.",
+        "Der Honig, den es abgibt, riecht so entsetzlich,\ndass sich sogar Nasen in 2 km Entfernung rümpfen.",
+        "Duflor produziert einen ekelerregenden Gestank aus\ndem Stempel seiner Blume. Wenn es in Gefahr gerät,\nwird der Gestank noch unerträglicher. Wenn sich dieses\nPokémon in Sicherheit befindet, stößt es keinen\nGestank aus.",
+        "Aus Duflors Mund tropft übelst riechender Honig.\nDiesen Gestank scheint es zu lieben, denn es\nschnieft die giftigen Dämpfe ein und sabbert danach\nnoch mehr Honig.",
+        "Aus seinem Mund tropft übelriechender Honig.\nBekommt man etwas davon ab, haftet sein\nGestank selbst nach 10 Waschgängen noch an.",
+        "Der Honig, der er aus seinem Mund tropft, riecht\nzwar übel, lässt sich aber durch Trocknen und\nErwärmen zu wirkungsvoller Medizin verarbeiten.",
+        "Es riecht unglaublich widerlich. Trotzdem gibt\nes unter tausend Menschen mindestens einen,\ndem der Gestank gefällt.",
+        "Es riecht unglaublich widerlich. Trotzdem gibt\nes unter tausend Menschen mindestens einen,\ndem der Gestank gefällt.",
+        "Sein Stempel sondert einen unglaublich faulen\nGestank ab. Dieser stechende Geruch kann selbst\nbis zu 2 km entfernte Gegner bewusstlos machen.",
+        "Was wie Speichel aussieht, ist eigentlich Honig.\nEr ist sehr klebrig und wenn man ihn berührt,\nbekommt man ihn nicht mehr ab."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "name": "Duflor",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 8.6
+}

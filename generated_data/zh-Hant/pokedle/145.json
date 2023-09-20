@@ -1,0 +1,11 @@
+{
+    "color": "黃色",
+    "generation": 1,
+    "height": 1.6,
+    "name": "閃電鳥",
+    "types": [
+        "電",
+        "飛行"
+    ],
+    "weight": 52.6
+}

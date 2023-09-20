@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 4,
+    "height": 1.0,
+    "name": "Snover",
+    "types": [
+        "Planta",
+        "Hielo"
+    ],
+    "weight": 50.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "파랑",
+    "generation": 3,
+    "height": 2.0,
+    "name": "라티오스",
+    "types": [
+        "드래곤",
+        "에스퍼"
+    ],
+    "weight": 60.0
+}

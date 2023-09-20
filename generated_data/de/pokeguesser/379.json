@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Im Laufe der Jahrtausende, die es unterirdisch lebte,\nwurde sein Körper durch Druck und Wärme hart.",
+        "Sein Körper ist härter als jedes andere Metall.\nUntersuchungen zufolge ist es innen hohl.",
+        "Registeel hat einen Körper, der härter ist als jede Art von\nMetall. Sein Körper scheint hohl zu sein. Niemand hat eine\nAhnung, was dieses Pokémon wohl frisst.",
+        "Registeel wurde vor langer Zeit von den Menschen\neingesperrt. Das Metall, aus dem sein Körper besteht,\nist eine seltsame Substanz, die nicht von dieser Welt sein soll.",
+        "Es besteht aus einer seltsamen Substanz, die\nrobuster als jedes Metall, jedoch zugleich auch\nweich und elastisch ist.",
+        "Gerüchten zufolge wurde dieses Pokémon tief\nim Mantel des Planeten geboren und kam vor\netwa 10 000 Jahren an die Oberfläche."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "name": "Registeel",
+    "types": [
+        "Stahl"
+    ],
+    "weight": 205.0
+}

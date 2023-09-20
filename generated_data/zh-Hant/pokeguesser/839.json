@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "平時性情溫和，但在人類\n破壞礦山時會大發雷霆，\n用１５００度的大火將他們燒盡。",
+        "進入戰鬥狀態後，\n牠會把煤炭山燃燒得通紅，\n飛撒火花來燒焦四周。"
+    ],
+    "height": 2.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "name": "巨炭山",
+    "types": [
+        "岩石",
+        "火"
+    ],
+    "weight": 310.5
+}

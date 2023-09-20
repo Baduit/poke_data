@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "有著不管看到什麼都會咬上去\n的習性。這似乎是因為長門牙\n的時候會癢的緣故。",
+        "會用頭上硬如岩石的角攻擊敵人。\n趁其不備之時大口咬住對方，\n一旦咬住便再也不會鬆口。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "name": "咬咬龜",
+    "types": [
+        "水"
+    ],
+    "weight": 8.5
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "橙色的结晶是能量块。\n一块结晶可提供１００辆\n翻斗车所需的燃料。",
+        "在洞窟里寻找地下水。\n对水本身不是很适应，\n所以都是一点点慢慢舔。",
+        "从身体里溢出的能量\n变成了橙色的结晶。\n其硬度连钻石都能弄碎。",
+        "橙色的结晶是大大的能量块。\n因为很有价值，\n所以有时会被袭击。",
+        "橙色的结晶开始发光的时候，\n一定特别小心，因为它\n马上就会射出能量。",
+        "通过声音来探测四周。\n要是惹它生气了，它会连\n身体方向也不转就朝你追来。"
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "name": "地幔岩",
+    "types": [
+        "岩石"
+    ],
+    "weight": 102.0
+}

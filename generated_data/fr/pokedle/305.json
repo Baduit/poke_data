@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Galegon",
+    "types": [
+        "Acier",
+        "Roche"
+    ],
+    "weight": 120.0
+}

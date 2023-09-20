@@ -1,0 +1,10 @@
+{
+    "color": "灰色",
+    "generation": 5,
+    "height": 0.3,
+    "name": "螺釘地鼠",
+    "types": [
+        "地面"
+    ],
+    "weight": 8.5
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Il préfère les climats chauds et\nhumides. Ses lianes peuvent\ncapturer une proie en un clin d’œil.",
+        "Il préfère les climats chauds et\nhumides. Ses lianes peuvent\ncapturer une proie en un clin d’œil.",
+        "Même si son corps est très frêle, ce Pokémon est\nextrêmement rapide quand il attaque ses adversaires.",
+        "Son bourgeon ressemble à un visage humain.\nSelon la légende, Chétiflor serait un type de\nmandragore légendaire.",
+        "Le corps long et flexible de Chétiflor lui permet de se tordre\net d’osciller pour éviter tout type d’attaque, même les plus\npuissantes. Ce Pokémon crache un fluide corrosif qui peut\nmême dissoudre le fer.",
+        "Le corps long et flexible de Chétiflor lui permet de se tordre\net d’osciller pour éviter tout type d’attaque, même les plus\npuissantes. Ce Pokémon crache un fluide corrosif qui peut\nmême dissoudre le fer.",
+        "Il préfère les endroits chauds et humides.\nIl capture les Pokémon Insecte avec ses lianes\npour les dévorer.",
+        "Il préfère les endroits chauds et humides.\nIl capture les Pokémon Insecte avec ses lianes\npour les dévorer."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "name": "Chétiflor",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 4.0
+}

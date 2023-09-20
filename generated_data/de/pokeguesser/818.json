@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Zu seinen vielen geheimen Talenten gehört es,\nWasser aus den Fingern zu schießen und mit der\nMembran am Rücken durch die Lüfte zu segeln.",
+        "Die Wasserschüsse aus seinen Fingern erreichen\nGeschwindigkeiten von bis zu Mach 3. Mit seiner\nNickhaut erkennt es Schwachpunkte des Gegners."
+    ],
+    "height": 1.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "name": "Intelleon",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 45.2
+}

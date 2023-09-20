@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 5,
+    "height": 1.0,
+    "name": "骑士蜗牛",
+    "types": [
+        "虫",
+        "钢"
+    ],
+    "weight": 33.0
+}

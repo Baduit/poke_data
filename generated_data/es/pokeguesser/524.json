@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Su oreja tiene forma hexagonal. Su cuerpo fue\ncomprimido bajo tierra. Por eso, es duro como el\nacero.",
+        "Descubierto en unas grietas generadas por un\nterremoto hace 100 años. Tiene un núcleo energético\nen su cuerpo.",
+        "Su oreja tiene forma hexagonal. Su cuerpo fue comprimido\nbajo tierra. Por eso, es duro como el acero.",
+        "Descubierto en unas grietas generadas por un terremoto hace\n100 años. Tiene un núcleo energético en su cuerpo.",
+        "Nació en las profundidades subterráneas.\nSiempre se compara con sus compañeros\nGeodude y Carbink para ver quién es más duro.",
+        "La cavidad hexagonal es su oído. Camina hacia\ndonde se emite cualquier sonido, pero si este\ncesa pierde el equilibrio y cae al suelo.",
+        "El agujero con forma de hexágono es su oído, y\nen su interior cuenta con un núcleo de energía,\npor lo que se enfurece si meten la mano dentro.",
+        "Fue descubierto entre las grietas de una falla.\nSu cuerpo está compuesto por una tierra que\ndata de cientos de años.",
+        "Su cuerpo es casi tan duro como el acero, pero\nal parecer puede reblandecerse levemente si\npermanece sumergido en agua mucho tiempo.",
+        "Se dirige hacia cualquier sonido que perciba.\nEs ligeramente cálido al tacto, debido al efecto\nde su núcleo energético."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "name": "Roggenrola",
+    "types": [
+        "Roca"
+    ],
+    "weight": 18.0
+}

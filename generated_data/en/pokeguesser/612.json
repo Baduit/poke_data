@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "They are kind but can be relentless\nwhen defending territory. They challenge\nfoes with tusks that can cut steel.",
+        "Their sturdy tusks will stay sharp even\nif used to cut steel beams. These\nPokémon are covered in hard armor.",
+        "Its tusks are incredibly destructive.\nThey can easily slice through a thick,\nsturdy steel column every time.",
+        "Its tusks are incredibly destructive.\nThey can easily slice through a thick,\nsturdy steel column every time.",
+        "They are kind but can be relentless when defending\nterritory. They challenge foes with tusks that can\ncut steel.",
+        "Their sturdy tusks will stay sharp even if used to cut\nsteel beams. These Pokémon are covered in\nhard armor.",
+        "They are kind but can be relentless when defending\nterritory. They challenge foes with tusks that can\ncut steel.",
+        "Their sturdy tusks will stay sharp even if used to cut\nsteel beams. These Pokémon are covered in\nhard armor.",
+        "Its resilient tusks are its pride and joy. It licks up\ndirt to take in the minerals it needs to keep its\ntusks in top condition.",
+        "While usually kindhearted, it can be terrifying if\nangered. Tusks that can slice through steel beams\nare how Haxorus deals with its adversaries."
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "name": "Haxorus",
+    "types": [
+        "Dragon"
+    ],
+    "weight": 105.5
+}

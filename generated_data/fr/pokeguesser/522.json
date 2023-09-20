@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Leur crinière scintille quand ils lâchent\nune décharge électrique. Ils se servent\nde ces scintillements pour communiquer.",
+        "Il apparaît quand le ciel est à l’orage.\nIl capte les éclairs avec sa crinière\net accumule de l’électricité.",
+        "Il apparaît quand le ciel est à l’orage. Il capte les\néclairs avec sa crinière et accumule de l’électricité.",
+        "Sa crinière luit quand il lâche des décharges.\nIl module leur rythme et leur nombre pour\ncommuniquer avec ses pairs.",
+        "Il apparaît quand le ciel est à l’orage. Il capte les éclairs\navec sa crinière et accumule de l’électricité.",
+        "Sa crinière luit quand il lâche des décharges. Il module\nleur rythme et leur nombre pour communiquer avec ses pairs."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+    "name": "Zébibron",
+    "types": [
+        "Électrik"
+    ],
+    "weight": 29.8
+}

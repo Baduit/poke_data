@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 1,
+    "height": 2.0,
+    "name": "Sulfura",
+    "types": [
+        "Feu",
+        "Vol"
+    ],
+    "weight": 60.0
+}

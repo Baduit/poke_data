@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il suo spesso cranio, che sopporta qualunque\nimpatto, è ridotto, e il cervello non si è sviluppato.",
+        "Il suo cranio è duro come il ferro. È violento e abbatte\ngli alberi della giungla mentre va a caccia di prede.",
+        "Il suo spesso cranio, che sopporta qualunque impatto,\nè ridotto, e il cervello non si è sviluppato.",
+        "Il suo cranio è duro come il ferro. È violento e abbatte gli\nalberi della giungla mentre va a caccia di prede.",
+        "A furia di testate, il suo cranio è diventato\nspesso e robusto, ma il cervello si è\nrimpicciolito rispetto a quello di Cranidos.",
+        "Un Rampardos, evolutosi da un Cranidos\nrigenerato da un fossile, fuggì da un laboratorio\ne abbatté un enorme palazzo a testate.",
+        "In tempi antichi gli uomini si servivano dei fossili\ndel cranio di questi Pokémon, più duro\ndell’acciaio, per fabbricare elmi.",
+        "Questo antico Pokémon eccelle nel dare testate.\nSecondo una teoria, si è estinto perché troppo\nottuso. Il suo cervello è infatti molto piccolo."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "name": "Rampardos",
+    "types": [
+        "Roccia"
+    ],
+    "weight": 102.5
+}

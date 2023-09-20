@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "They warn others of danger by\nvibrating their cheeks to create\na high-pitched sound.",
+        "By vibrating its cheeks, it emits sound\nwaves imperceptible to humans. It uses\nthe rhythm of these sounds to talk.",
+        "By vibrating its cheeks, it emits\nsound waves imperceptible to humans\nand warns others of danger.",
+        "By vibrating its cheeks, it emits\nsound waves imperceptible to humans\nand warns others of danger.",
+        "By vibrating its cheeks, it emits sound waves\nimperceptible to humans and warns others\nof danger.",
+        "By vibrating its cheeks, it emits sound waves\nimperceptible to humans. It uses the rhythm of\nthese sounds to talk.",
+        "By vibrating its cheeks, it emits sound waves\nimperceptible to humans and warns others\nof danger.",
+        "By vibrating its cheeks, it emits sound waves\nimperceptible to humans. It uses the rhythm of\nthese sounds to talk.",
+        "Graceful ripples running across the water’s\nsurface are a sure sign that Tympole are singing\nin high-pitched voices below.",
+        "It uses sound waves to communicate with\nothers of its kind. People and other Pokémon\nspecies can’t hear its cries of warning."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+    "name": "Tympole",
+    "types": [
+        "Water"
+    ],
+    "weight": 4.5
+}

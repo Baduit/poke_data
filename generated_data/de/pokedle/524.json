@@ -1,0 +1,10 @@
+{
+    "color": "Blau",
+    "generation": 5,
+    "height": 0.4,
+    "name": "Kiesling",
+    "types": [
+        "Gestein"
+    ],
+    "weight": 18.0
+}

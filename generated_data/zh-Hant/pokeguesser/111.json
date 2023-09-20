@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "頭腦簡單，一次只能思考\n一件事。一旦牠開始猛衝，\n在睡著之前都不會停下來。",
+        "頭腦簡單，一次只能思考\n一件事。一旦牠開始猛衝，\n在睡著之前都不會停下來。",
+        "頭腦很差但力氣很大，\n只要撞擊就能把\n高樓大廈撞得粉粹。",
+        "腦子裡只能記住一件事。\n一旦開始猛衝，不管理由是什麼\n都會很快感到無所謂而忘掉。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "name": "獨角犀牛",
+    "types": [
+        "地面",
+        "岩石"
+    ],
+    "weight": 115.0
+}

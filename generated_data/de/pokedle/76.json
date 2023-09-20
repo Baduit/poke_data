@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 1.4,
+    "name": "Geowaz",
+    "types": [
+        "Gestein",
+        "Boden"
+    ],
+    "weight": 300.0
+}

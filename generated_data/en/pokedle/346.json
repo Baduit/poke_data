@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Cradily",
+    "types": [
+        "Rock",
+        "Grass"
+    ],
+    "weight": 60.4
+}

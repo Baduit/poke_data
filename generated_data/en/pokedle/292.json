@@ -1,0 +1,11 @@
+{
+    "color": "Brown",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Shedinja",
+    "types": [
+        "Bug",
+        "Ghost"
+    ],
+    "weight": 1.2
+}

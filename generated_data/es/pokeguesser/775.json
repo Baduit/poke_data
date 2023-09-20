@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Pasa la vida entera sumido en un profundo\nsueño. Toda su actividad parece reflejar los\nsueños que tiene en ese momento.",
+        "El tronco que agarra es un regalo que le dieron\nsus padres al nacer. También se aferra al brazo\nde todo aquel Entrenador con el que congenie.",
+        "Duerme continuamente desde que nace. Cuando\nel sueño en el que está sumido es especialmente\nprofundo, se queda inmóvil.",
+        "El motivo de su letargo vitalicio es la sustancia\nsomnífera que contienen las hojas de las que\nse alimenta."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "name": "Komala",
+    "types": [
+        "Normal"
+    ],
+    "weight": 19.9
+}

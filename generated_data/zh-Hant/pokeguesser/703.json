@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "出生在高溫高壓的地底深處。\n從寶石的部分釋放光束保護身體。",
+        "雖然並不是很稀有，\n但閃閃發光的寶石身體\n很受女性歡迎。",
+        "據說在地底的深處，\n有著小碎鑽族群和牠們的女王\n所居住的寶石王國。",
+        "為了不讓身上的寶石失去光芒，\n小碎鑽的群體會用蓬鬆的鬍子\n互相打磨彼此的身體。",
+        "會從嵌在身體的寶石\n發射出高能量的光線，\n將來襲的敵人一掃而盡。",
+        "據說在世界的某處，有個\n沉睡著許多小碎鑽的礦床，\n群體的女王也在那裡。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+    "name": "小碎鑽",
+    "types": [
+        "岩石",
+        "妖精"
+    ],
+    "weight": 5.7
+}

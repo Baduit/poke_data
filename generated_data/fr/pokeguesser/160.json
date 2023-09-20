@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Ce Pokémon à l’air pataud est\ncapable d’attaquer à la vitesse\nde l’éclair pour mordre sa proie.",
+        "Ce Pokémon à l’air pataud est\ncapable d’attaquer à la vitesse\nde l’éclair pour mordre sa proie.",
+        "Ce Pokémon à l’air pataud est capable d’attaquer\nà la vitesse de l’éclair pour mordre sa proie.",
+        "Quand il mord avec sa puissante mâchoire, il secoue\nsa tête pour déchiqueter sa pauvre victime.",
+        "Aligatueur impressionne ses ennemis en ouvrant son\nénorme gueule. Pendant les combats, il piétine le sol\nde ses puissantes pattes arrière avant de charger ses\nadversaires à pleine vitesse.",
+        "Aligatueur impressionne ses ennemis en ouvrant son\nénorme gueule. Pendant les combats, il piétine le sol\nde ses puissantes pattes arrière avant de charger ses\nadversaires à pleine vitesse."
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+    "name": "Aligatueur",
+    "types": [
+        "Eau"
+    ],
+    "weight": 88.8
+}

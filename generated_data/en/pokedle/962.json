@@ -1,0 +1,11 @@
+{
+    "color": "White",
+    "generation": 9,
+    "height": 1.5,
+    "name": "Bombirdier",
+    "types": [
+        "Flying",
+        "Dark"
+    ],
+    "weight": 42.9
+}

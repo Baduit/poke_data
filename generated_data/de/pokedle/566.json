@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Flapteryx",
+    "types": [
+        "Gestein",
+        "Flug"
+    ],
+    "weight": 9.5
+}

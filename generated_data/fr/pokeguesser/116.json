@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il niche à l’ombre du corail. Quand\nil se sent menacé, il disparaît\ndans un nuage d’encre opaque.",
+        "Il niche à l’ombre du corail. Quand\nil se sent menacé, il disparaît\ndans un nuage d’encre opaque.",
+        "Il abat les insectes volants en leur tirant un jet\nd’encre depuis la surface de l’eau. Ses tirs sont\ntoujours précis.",
+        "Il niche à l’ombre du corail. Quand il se sent menacé,\nil disparaît dans un nuage d’encre opaque.",
+        "Hypotrempe mange des petits insectes et de la mousse\ntrouvée sur les cailloux. Lorsque les courants océaniques\nsont trop forts, ce Pokémon peut s’ancrer en accrochant\nsa queue aux rochers ou aux coraux.",
+        "Lorsque Hypotrempe sent un danger, il libère instinctivement\nune épaisse encre noire pour pouvoir s’échapper.\nCe Pokémon nage en agitant sa nageoire dorsale.",
+        "Lorsqu’il est menacé, ce Pokémon crache une\nencre spéciale ou de l’eau pour se défendre.",
+        "Lorsqu’il est menacé, ce Pokémon crache une\nencre spéciale ou de l’eau pour se défendre.",
+        "Il vit dans les mers calmes. Quand on l’attaque,\nil crache de l’encre noire et profite de la diversion\npour s’enfuir.",
+        "Hypotrempe crée des tourbillons en dansant\nsous l’eau. Il s’amuse à comparer la taille des\nremous qu’il fait avec ceux de ses congénères."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "name": "Hypotrempe",
+    "types": [
+        "Eau"
+    ],
+    "weight": 8.0
+}

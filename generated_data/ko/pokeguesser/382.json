@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "많은 비와 큰 해일로 바다를\n넓힌 신화의 포켓몬이다.\n그란돈과 격하게 싸웠다.",
+        "많은 비를 내리게 하는 능력으로\n바다를 넓혔다고 전해진다.\n해구의 밑바닥에서 잠들어 있었다.",
+        "자연의 힘에 의해 원시회귀하여\n원래의 모습을 되찾는다. 그 힘은\n폭풍을 불러들이며 바다를 확장한다.",
+        "바다의 화신이라 전해지는 포켓몬.\n자연의 힘을 갈구하여 그란돈과\n사투를 반복한다는 전설이 있다."
+    ],
+    "height": 4.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "name": "가이오가",
+    "types": [
+        "물"
+    ],
+    "weight": 352.0
+}

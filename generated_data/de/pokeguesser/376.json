@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Dank seiner vier vernetzten Hirne kann es Gegner\nbesser als ein Supercomputer mit komplizierten\nFormeln analysieren.",
+        "Mehrere Metang bilden dieses Pokémon. Mit seinen\nvier Gehirnen besitzt es die Intelligenz eines\nSupercomputers.",
+        "Metagross hat insgesamt vier Gehirne. Diese können\nschwierige Berechnungen schneller durchführen als ein\nSupercomputer. Dieses Pokémon kann durch die\nLüfte schweben, indem es seine vier Beine einklappt.",
+        "Metagross ist aus der Verschmelzung zweier Metang\nhervorgegangen. Auf der Jagd drückt es seine Beute\nmit seinem massigen Körper zu Boden. Dann frisst es\nsein hilfloses Opfer mit seinem großen Maul auf.",
+        "Mit seinen spitzen Beinkrallen und dem massigen\nKörper drückt es seine Beute zu Boden und\nzerkaut sie dann mit seinen Zähnen am Bauch.",
+        "Es ging aus der Verschmelzung zweier Metang\nhervor. Dank vier Gehirnen und paralleler Daten-\nverarbeitung sind Berechnungen im Nu gelöst.",
+        "Es besitzt nicht nur Psycho-Kräfte, sondern ist\nauch sehr stark. Beute packt es mit seinen vier\nBeinen und hält sie mit seinen Krallen fest.",
+        "Es kann seine Gegner besser analysieren als ein\nSupercomputer und treibt sie mit kühlem Kopf in\ndie Enge.",
+        "Metagross, die auf verschneiten Bergen leben,\nsind besonders aktiv, da Temperaturen unter\ndem Gefrierpunkt ihren Magnetismus verstärken.",
+        "Dieses Pokémon entstand aus der Fusion zweier\nMetang. Es bezwingt Gegner mithilfe seiner\nIntelligenz, die der eines Supercomputers gleicht."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "name": "Metagross",
+    "types": [
+        "Stahl",
+        "Psycho"
+    ],
+    "weight": 550.0
+}

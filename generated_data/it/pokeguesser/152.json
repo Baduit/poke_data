@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Un dolce profumo si diffonde dalla sua testa.\nÈ docile e ama scaldarsi al sole.",
+        "Usa la foglia sulla sua testa per misurare la\ntemperatura e l’umidità. Ama crogiolarsi al sole.",
+        "Nella lotta, Chikorita sventola la sua foglia in modo da tenere\na bada il nemico. Tuttavia, la foglia emana anche un aroma\ndolce, che calma il Pokémon avversario, creando un’atmosfera\ngradevole e rilassata tutt’attorno.",
+        "Nella lotta, Chikorita sventola la sua foglia in modo da tenere\na bada il nemico. Tuttavia, la foglia emana anche un aroma\ndolce, che calma il Pokémon avversario, creando un’atmosfera\ngradevole e rilassata tutt’attorno."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "name": "Chikorita",
+    "types": [
+        "Erba"
+    ],
+    "weight": 6.4
+}

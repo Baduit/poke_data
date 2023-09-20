@@ -1,0 +1,42 @@
+{
+    "descriptions": [
+        "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey.",
+        "Eats bugs in\ngrassy areas. It\nhas to flap its\fshort wings at\nhigh speed to\nstay airborne.",
+        "Eats bugs in\ngrassy areas. It\nhas to flap its\fshort wings at\nhigh speed to\nstay airborne.",
+        "Inept at flying\nhigh. However, it\ncan fly around\fvery fast to\nprotect its ter­\nritory.",
+        "It flaps its short\nwings to flush out\ninsects from tall\fgrass. It then\nplucks them with\nits stubby beak.",
+        "Very protective of\nits territory, it\nflaps its short\fwings busily to\ndart around at\nhigh speed.",
+        "To protect its\nterritory, it\nflies around\fceaselessly,\nmaking high-\npitched cries.",
+        "SPEAROW has a very loud cry that can\nbe heard over half a mile away.\nIf its high, keening cry is heard\fechoing all around, it is a sign that\nthey are warning each other of danger.",
+        "SPEAROW has a very loud cry that can\nbe heard over half a mile away.\nIf its high, keening cry is heard\fechoing all around, it is a sign that\nthey are warning each other of danger.",
+        "Its loud cry can be heard over half a mile\naway. If its high, keening cry is heard\nechoing all around, it is a sign that they\nare warning each other of danger.",
+        "It busily flits around here and there.\nEven if it is frail, it can be a tough\nfoe that uses MIRROR MOVE.",
+        "Eats bugs in grassy areas. It has to flap\nits short wings at high speed to stay\nairborne.",
+        "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey.",
+        "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey.",
+        "It flaps its short wings to flush out\ninsects from tall grass. It then\nplucks them with its stubby beak.",
+        "Very protective of its territory, it\nflaps its short wings busily to\ndart around at high speed.",
+        "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey.",
+        "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey.",
+        "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey.",
+        "It flaps its small wings busily to\nfly. Using its beak, it searches\nin grass for prey.",
+        "Very protective of its territory, it flaps its short\nwings busily to dart around at high speed.",
+        "Eats bugs in grassy areas. It has to flap its short\nwings at high speed to stay airborne.",
+        "Spearow has a very loud cry that can be heard over\nhalf a mile away. If its high, keening cry is heard echoing all\naround, it is a sign that they are warning each other of danger.",
+        "Spearow has a very loud cry that can be heard over\nhalf a mile away. If its high, keening cry is heard echoing all\naround, it is a sign that they are warning each other of danger.",
+        "Its short wings make it inept at flying.\nIt moves about hurriedly and pecks at\nBug-type Pokémon in the tall grass.",
+        "Farmers whose fields are troubled by bug\nPokémon appreciate Spearow for its vigorous\nappetite and look after it.",
+        "Its reckless nature leads it to stand up to\nothers—even large Pokémon—if it has to protect\nits territory.",
+        "Due to its short wings, it can’t fly long\ndistances. It wanders about restlessly and\npecks at bug Pokémon.",
+        "Inept at flying high. However, it can fly around\nvery fast to protect its territory.",
+        "Inept at flying high. However, it can fly around\nvery fast to protect its territory."
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "name": "Spearow",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 2.0
+}

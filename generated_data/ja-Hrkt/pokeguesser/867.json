@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "つよい　のろいを　こめて　かかれた\nこだいの　えが　デスマスの\nたましいを　とりこみ　うごきだした。",
+        "かげの　ような　からだに　ふれては\nいけない。　えに　きざまれた\nおそろしい　きおくを　みせられるぞ。"
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+    "name": "デスバーン",
+    "types": [
+        "じめん",
+        "ゴースト"
+    ],
+    "weight": 66.6
+}

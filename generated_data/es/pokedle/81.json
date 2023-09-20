@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 1,
+    "height": 0.3,
+    "name": "Magnemite",
+    "types": [
+        "Eléctrico",
+        "Acero"
+    ],
+    "weight": 6.0
+}

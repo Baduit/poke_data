@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Este Pokémon es una vieja figurilla de barro que cobró\nvida mediante la exposición a extraños rayos de luz.",
+        "Dicen que es una figurilla de barro elaborada por una\ncivilización de hace 20 000 años que cobró vida.",
+        "Se cree que los Claydol son figuras de barro hechas por\nhumanos primitivos y que un misterioso rayo les hizo cobrar\nvida. Este Pokémon se desplaza levitando.",
+        "Claydol es un enigma, una figura de barro procedente de una\ncivilización antigua de hace más de 20 000 años. Este\nPokémon dispara rayos por las manos.",
+        "Su cuerpo se disuelve si se moja, razón por la\nque emplea su poder psíquico para crear una\nbarrera a su alrededor los días de lluvia.",
+        "Se cree que fue creado por humanos primitivos\nque tomaron como modelo algo caído del cielo.\nDispara rayos por las manos.",
+        "Al parecer, este misterioso Pokémon nació a\npartir de una figurilla de barro creada por una\ncivilización de hace más de 20 000 años.",
+        "Dicen que surgió de una figurilla de barro hecha\npor una antigua civilización. Usa telequinesia\npara levitar y moverse."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "name": "Claydol",
+    "types": [
+        "Tierra",
+        "Psíquico"
+    ],
+    "weight": 108.0
+}

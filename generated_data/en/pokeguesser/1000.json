@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+        "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "name": "Gholdengo",
+    "types": [
+        "Steel",
+        "Ghost"
+    ],
+    "weight": 30.0
+}

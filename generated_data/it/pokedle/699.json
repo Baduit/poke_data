@@ -1,0 +1,11 @@
+{
+    "color": "Blu",
+    "generation": 6,
+    "height": 2.7,
+    "name": "Aurorus",
+    "types": [
+        "Roccia",
+        "Ghiaccio"
+    ],
+    "weight": 225.0
+}

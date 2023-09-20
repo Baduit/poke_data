@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Die Schläge, die es austeilt, können Beton\npulverisieren. Es muss sich im Kampf alle\ndrei Minuten ausruhen.",
+        "Der Geist eines Profi-Boxers hat dieses Pokémon\ninspiriert. Seine Faustschläge sind schneller als\nein Hochgeschwindigkeitszug.",
+        "Nockchan besitzt das Herz eines Boxers, der sich auf eine\nWeltmeisterschaft vorbereitet. Dieses Pokémon hat einen\nunbeugsamen Willen und gibt niemals auf.",
+        "Nockchan besitzt das Herz eines Boxers, der sich auf eine\nWeltmeisterschaft vorbereitet. Dieses Pokémon hat einen\nunbeugsamen Willen und gibt niemals auf.",
+        "Mit seinen rotierenden Hieben vermag es, sich\nwie eine Bohrmaschine Stück für Stück durch\nBetonwände zu bohren.",
+        "Mit seinen rotierenden Hieben vermag es, sich\nwie eine Bohrmaschine Stück für Stück durch\nBetonwände zu bohren.",
+        "Seine Fäuste zerschneiden regelrecht die Luft.\nSie sind so schnell, dass selbst die geringste\nBerührung Verbrennungen verursacht.",
+        "Seine Fäuste zerschneiden die Luft. Es muss\njedoch alle drei Minuten eine kurze Pause\neinlegen."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "name": "Nockchan",
+    "types": [
+        "Kampf"
+    ],
+    "weight": 50.2
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 3,
+    "height": 1.1,
+    "name": "Vibrava",
+    "types": [
+        "Ground",
+        "Dragon"
+    ],
+    "weight": 15.3
+}

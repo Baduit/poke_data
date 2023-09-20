@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 7,
+    "height": 0.3,
+    "name": "Meteno",
+    "types": [
+        "Gestein",
+        "Flug"
+    ],
+    "weight": 40.0
+}

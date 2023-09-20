@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "行動迅速，會噴出毒液來戰鬥。\n敏捷蟲擔綱主角的電影\n和漫畫擁有極高的人氣。",
+        "脫殼後變得更輕巧了。\n為了防止乾燥，會將\n帶狀的黏膜裹在身上。"
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+    "name": "敏捷蟲",
+    "types": [
+        "蟲"
+    ],
+    "weight": 25.3
+}

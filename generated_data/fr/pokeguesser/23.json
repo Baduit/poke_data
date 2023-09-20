@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il se faufile dans l’herbe sans un\nbruit et frappe dans le dos quand\nsa proie s’y attend le moins.",
+        "Il se faufile dans l’herbe sans un\nbruit et frappe dans le dos quand\nsa proie s’y attend le moins.",
+        "Plus il est âgé, plus son corps est long. Il se love\nautour des arbres pour se reposer.",
+        "Il se déplace en silence pour dévorer des œufs de\nRoucool ou de Piafabec.",
+        "Abo s’enroule en spirale pour dormir. Sa tête reste relevée\nde telle sorte que cette position lui permette de réagir\nrapidement si une menace survenait.",
+        "Abo s’enroule en spirale pour dormir. Sa tête reste relevée\nde telle sorte que cette position lui permette de réagir\nrapidement si une menace survenait.",
+        "Il peut se déboîter la mâchoire pour avaler\ntout rond des proies plus grosses que lui.\nIl se replie ensuite sur lui-même pour digérer.",
+        "Il aime tout particulièrement les œufs des\nPokémon oiseaux. Comme il les avale d’un coup,\nil lui arrive de s’étouffer et de s’évanouir.",
+        "Plus il est âgé, plus son corps est long.\nLa nuit, il s’enroule autour de branches d’arbres\npour se reposer.",
+        "Plus il est âgé, plus son corps est long.\nLa nuit, il s’enroule autour de branches d’arbres\npour se reposer."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "name": "Abo",
+    "types": [
+        "Poison"
+    ],
+    "weight": 6.9
+}

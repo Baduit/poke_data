@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "如果認真起來，大齒輪外圈的\n齒輪會和小齒輪完全接合。\n此時轉速將會大幅提升。",
+        "被認為是工業技術的象徵。\n有許多伽勒爾當地的公司\n選擇牠作為企業的標誌。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+    "name": "齒輪組",
+    "types": [
+        "鋼"
+    ],
+    "weight": 51.0
+}

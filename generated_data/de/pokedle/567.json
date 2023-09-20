@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Aeropteryx",
+    "types": [
+        "Gestein",
+        "Flug"
+    ],
+    "weight": 32.0
+}

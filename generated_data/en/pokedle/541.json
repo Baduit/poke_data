@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 5,
+    "height": 0.5,
+    "name": "Swadloon",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "weight": 7.3
+}

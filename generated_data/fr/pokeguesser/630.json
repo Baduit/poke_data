@@ -1,0 +1,24 @@
+{
+    "descriptions": [
+        "Il construit des nids en os. Il attrape\nles proies affaiblies avec ses serres\net les transporte allègrement au nid.",
+        "Il guette le sol depuis les airs et\nfond sur les proies affaiblies.\nIl aime s’apprêter avec des ossements.",
+        "Il tournoie dans les airs en quête d’une proie sur\nlaquelle il fondra avant de l’emporter avec aisance\nà son nid.",
+        "Il guette le sol depuis les airs et fond sur les proies\naffaiblies. Il aime s’apprêter avec des ossements.",
+        "Il tournoie dans les airs en quête d’une proie sur laquelle\nil fondra avant de l’emporter avec aisance à son nid.",
+        "Il guette le sol depuis les airs et fond sur les proies affaiblies.\nIl aime s’apprêter avec des ossements.",
+        "Les Vaututrice femelles se parent d’ossements\npour leur parade nuptiale. On attend toujours\nde découvrir si les mâles existent ou pas.",
+        "Il tournoie, haut dans le ciel, à la recherche\nd’un Pokémon affaibli. Sa proie favorite est\nle petit Osselait.",
+        "Il utilise avec dextérité les ossements de\nses proies pour construire son nid. La plupart\nde ces os appartenaient à des Osselait.",
+        "Il est toujours à la recherche de nourriture pour\nVostourno. Quand il trouve un Pokémon affaibli,\nil fond sur la proie et l’emporte dans son nid.",
+        "Malgré son naturel brutal, il recueille volontiers\nles Vostourno égarés et prend soin d’eux\njusqu’à ce qu’ils soient en âge de quitter le nid.",
+        "Il se pare d’ossements qu’il a ramassés.\nIl semblerait qu’il choisisse la forme des os\nqu’il porte selon les dernières tendances."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "name": "Vaututrice",
+    "types": [
+        "Ténèbres",
+        "Vol"
+    ],
+    "weight": 39.5
+}

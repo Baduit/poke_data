@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Pokémon menzionato nelle leggende. Pare che il\ntempo abbia avuto origine alla nascita di Dialga.",
+        "Ha il potere di controllare il tempo. Descritto nei miti\ndella regione di Sinnoh come un’antica divinità.",
+        "Pokémon menzionato nelle leggende. Pare che il tempo abbia\navuto origine alla nascita di Dialga.",
+        "Ha il potere di controllare il tempo. Descritto nei miti della\nregione di Sinnoh come un’antica divinità."
+    ],
+    "height": 5.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "name": "Dialga",
+    "types": [
+        "Acciaio",
+        "Drago"
+    ],
+    "weight": 683.0
+}

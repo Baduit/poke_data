@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "승리를 부르는 포켓몬이다.\n비크티니와 함께하는 트레이너는\n그 어떤 승부에서도 승리한다고 한다.",
+        "비크티니가 무한히 만들어내는\n에너지를 나누어 받으면\n전신에 파워가 넘친다.",
+        "승리를 부르는 포켓몬이다.\n비크티니와 함께하는 트레이너는\n그 어떤 승부에서도 승리한다고 한다.",
+        "비크티니가 무한히 만들어내는\n에너지를 나누어 받으면\n전신에 파워가 넘친다."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "name": "비크티니",
+    "types": [
+        "에스퍼",
+        "불꽃"
+    ],
+    "weight": 4.0
+}

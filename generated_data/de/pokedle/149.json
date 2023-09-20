@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 2.2,
+    "name": "Dragoran",
+    "types": [
+        "Drache",
+        "Flug"
+    ],
+    "weight": 210.0
+}

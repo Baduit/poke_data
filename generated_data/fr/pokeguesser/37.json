@@ -1,0 +1,25 @@
+{
+    "descriptions": [
+        "Il envoie des boules de feu. Avec\nl’âge, ses six queues en forment de\nnouvelles.",
+        "Il envoie des boules de feu. Avec\nl’âge, ses six queues en forment de\nnouvelles.",
+        "Il n’a qu’une seule queue à la naissance. Sa queue\nse divise à la pointe au fil des ans.",
+        "Quand il est jeune, ce Pokémon a six queues\nmagnifiques. De nouvelles queues apparaissent tout\nau long de sa croissance.",
+        "À sa naissance, Goupix a une queue blanche. Cette queue se\ndivise en six si le Pokémon reçoit de l’amitié de la part de\nson Dresseur. Les six queues sont courbées et magnifiques.",
+        "À l’intérieur du corps de Goupix se trouve une flamme\nqui ne s’éteint jamais. Pendant la journée, lorsque\nla température augmente, ce Pokémon crache des flammes\npour éviter que son corps ne devienne trop chaud.",
+        "Un Pokémon très populaire de par son pelage\net ses superbes queues. Au fur et à mesure de\nsa croissance, elles se multiplient en se divisant.",
+        "Certaines personnes prennent ce Pokémon pour\nun fantôme à cause des flammes qui sortent de\nsa bouche, similaires à des âmes de défunts.",
+        "Ses queues magnifiques en font un Pokémon\ntrès populaire. Il faut toutefois les lui brosser\nfréquemment pour éviter les nœuds.",
+        "Il attrape ses proies en manipulant des boules\nde feu. Élevé depuis son plus jeune âge, il se\nrévélera aussi affectueux qu’un Pokémon Chiot.",
+        "Sa fourrure et sa queue sont magnifiques.\nCette dernière se divise lors de la croissance.",
+        "Sa fourrure et sa queue sont magnifiques.\nCette dernière se divise lors de la croissance.",
+        "Quand il est jeune, ce Pokémon a six queues\nmagnifiques. De nouvelles queues apparaissent\ntout au long de sa croissance.",
+        "Avec l’âge, la fourrure de ses six queues devient\nde plus en plus belle et soyeuse.\nElle est chaude au toucher."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "name": "Goupix",
+    "types": [
+        "Feu"
+    ],
+    "weight": 9.9
+}

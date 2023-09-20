@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Una volta essiccato, il fango che produce\ndalla bocca resiste alla pioggia e al vento, tanto\nche un tempo vi si rivestivano i muri delle case.",
+        "È particolarmente bravo a sferrare calci con le\nzampe infangate, così potenti da ridurre in un\nammasso di ferraglia persino un grosso camion.",
+        "Rimane calmo e imperturbabile in qualsiasi\ncircostanza. Produce un fango speciale\nmescolando nella sua bocca terra e saliva.",
+        "È in grado di percorrere strade di montagna\nper tre giorni e tre notti senza fermarsi\ntrainando dei carichi di ben 10 tonnellate.",
+        "Il fango secco che ricopre le sue zampe è più\nduro della pietra. È così forte da fare a pezzi\nun camion con un calcio solo.",
+        "È così resistente da poter attraversare l’intera\nregione di Galar trainando carichi di oltre\n10 tonnellate senza mai riposarsi."
+    ],
+    "height": 2.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "name": "Mudsdale",
+    "types": [
+        "Terra"
+    ],
+    "weight": 920.0
+}

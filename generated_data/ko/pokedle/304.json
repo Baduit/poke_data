@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 3,
+    "height": 0.4,
+    "name": "가보리",
+    "types": [
+        "강철",
+        "바위"
+    ],
+    "weight": 60.0
+}

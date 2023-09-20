@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Ein kaltblütiges Pokémon, das Gegner zunächst mit\neiner Schar von Gladiantri lähmt und dann zweiteilt.",
+        "Es rückt seinen Opfern mit einer Schar von Gladiantri\nim Gefolge auf den Pelz. Den letzten Hieb übernimmt\nes selbst.",
+        "Ein kaltblütiges Pokémon, das Gegner zunächst mit einer\nSchar von Gladiantri lähmt und dann zweiteilt.",
+        "Es rückt seinen Opfern mit einer Schar von Gladiantri im\nGefolge auf den Pelz. Den letzten Hieb übernimmt es selbst.",
+        "Es heißt, dass ein Caesurio ungeachtet seiner\nStärke seinen Rang als Anführer abtreten muss,\nwenn die Klinge an seinem Kopf schartig wird.",
+        "Es führt eine Gruppe von Gladiantri an. Selbst\nwenn es dem Gegner den finalen Stoß versetzt,\nbleibt sein Gesichtsausdruck stets unverändert.",
+        "Es hat stets ein Gefolge aus mehreren Gladiantri\nund achtet immer streng darauf, dass ihm keiner\nseiner Handlanger in den Rücken fällt.",
+        "Sie streiten sich mit Sharfax aufs Heftigste um\ndas Vorrecht auf Orte mit Felsen, an denen\nsie ihre Klingen schärfen können."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "name": "Caesurio",
+    "types": [
+        "Unlicht",
+        "Stahl"
+    ],
+    "weight": 70.0
+}

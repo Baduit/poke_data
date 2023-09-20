@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Scovate le tracce della preda, rimane di guardia\nsul posto senza battere ciglio fino al calare\ndel sole, poi cede alla stanchezza.",
+        "È ghiotto di Rattata e Raticate, ma poiché\nè un Pokémon diurno, non ne incontra molti.\nLa perseveranza è la sua dote di spicco.",
+        "È stato introdotto ad Alola in passato per\nfare fronte alla sovrappopolazione di Rattata.",
+        "È un Pokémon molto paziente, ma quando\ntrova un Rattata, di cui va pazzo, perde\nil controllo e lo assale."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+    "name": "Gumshoos",
+    "types": [
+        "Normale"
+    ],
+    "weight": 14.2
+}

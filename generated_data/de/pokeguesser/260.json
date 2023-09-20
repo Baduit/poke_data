@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Schon ein Hieb seiner steinharten Arme schlägt\nselbst den stärksten Felsen zu Bruch.",
+        "Es kann im Schwimmen ein großes Schiff ziehen.\nSeine Gegner schlägt es mit Schlägen seiner Arme\nzurück.",
+        "Sumpex ist sehr stark. Es kann mit Leichtigkeit einen Felsblock\nbewegen, der über eine Tonne wiegt. Weiterhin ist es mit\neinem exzellenten Sehvermögen ausgestattet, wodurch es\nauch in trüben Gewässern sehen kann.",
+        "Sumpex kann Stürme voraussagen, indem es feine\nVeränderungen der Geräusche von Wellen und Wind\nmit seinen Flossen wahrnimmt. Wenn eine Sturmfront\naufzieht, häuft es Felsbrocken an, um sich zu schützen."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "name": "Sumpex",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 81.9
+}

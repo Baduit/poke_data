@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "心臓の　鼓動が　速く\n全身の　血が　たぎっているため\n１秒も　じっと　していられない。",
+        "体を　動かしていないと\nストレスが　たまりすぎて\n具合が　悪くなって　しまうのだ。",
+        "いつも　暴れたくて　ウズウズ　している。\n１分でも　座っている　ことが　耐えられない。\n動いて　いないと　ストレスが　たまってしまう。",
+        "じっとしている　ことが　できない　ポケモンだ。\n眠ろうとしても　体の　血が　たぎってしまい\n森中を　駆けまわらないと　収まらない。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "name": "ヤルキモノ",
+    "types": [
+        "ノーマル"
+    ],
+    "weight": 46.5
+}

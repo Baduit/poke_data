@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Es lebt in der Nähe von Wasser in Wäldern.\nTagsüber verlässt es diese, um ein Sonnenbad\nzu nehmen.",
+        "Es weiß, wo es reinstes Quellwasser finden kann.\nTrägt andere Pokémon auf seinem Rücken dorthin.",
+        "Es lebt in der Nähe von Wasser in Wäldern. Tagsüber verlässt\nes diese, um ein Sonnenbad zu nehmen.",
+        "Es weiß, wo es reinstes Quellwasser finden kann.\nTrägt andere Pokémon auf seinem Rücken dorthin."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+    "name": "Chelcarain",
+    "types": [
+        "Pflanze"
+    ],
+    "weight": 97.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Jaune",
+    "generation": 2,
+    "height": 0.6,
+    "name": "Caratroc",
+    "types": [
+        "Insecte",
+        "Roche"
+    ],
+    "weight": 20.5
+}

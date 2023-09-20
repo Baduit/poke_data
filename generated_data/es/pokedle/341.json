@@ -1,0 +1,10 @@
+{
+    "color": "Rojo",
+    "generation": 3,
+    "height": 0.6,
+    "name": "Corphish",
+    "types": [
+        "Agua"
+    ],
+    "weight": 11.5
+}

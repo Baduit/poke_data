@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 0.3,
+    "name": "Taillow",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 2.3
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Forests where Swadloon live have superb\nfoliage because the nutrients they make\nfrom fallen leaves nourish the plant life.",
+        "It protects itself from the cold\nby wrapping up in leaves. It stays on\nthe move, eating leaves in forests.",
+        "Preferring dark, damp places,\nit spends the entire day eating\nfallen leaves that lie around it.",
+        "Preferring dark, damp places,\nit spends the entire day eating\nfallen leaves that lie around it.",
+        "Forests where Swadloon live have superb foliage\nbecause the nutrients they make from fallen leaves\nnourish the plant life.",
+        "It protects itself from the cold by wrapping up in\nleaves. It stays on the move, eating leaves\nin forests.",
+        "Forests where Swadloon live have superb foliage\nbecause the nutrients they make from fallen leaves\nnourish the plant life.",
+        "It protects itself from the cold by wrapping up in\nleaves. It stays on the move, eating leaves\nin forests."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+    "name": "Swadloon",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "weight": 7.3
+}

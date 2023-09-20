@@ -1,0 +1,11 @@
+{
+    "color": "Blanco",
+    "generation": 3,
+    "height": 0.6,
+    "name": "Wingull",
+    "types": [
+        "Agua",
+        "Volador"
+    ],
+    "weight": 9.5
+}

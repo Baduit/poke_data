@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Their white fur is coated in a special oil\nthat makes it easy for them to\ndeflect attacks.",
+        "Their white fur feels amazing to touch.\nTheir fur repels dust and prevents\nstatic electricity from building up.",
+        "Cinccino’s body is coated\nin a special oil that helps it\ndeflect attacks, such as punches.",
+        "Cinccino’s body is coated\nin a special oil that helps it\ndeflect attacks, such as punches.",
+        "Their white fur feels amazing to touch. Their fur\nrepels dust and prevents static electricity from\nbuilding up.",
+        "Cinccino’s body is coated in a special oil that helps\nit deflect attacks, such as punches.",
+        "Their white fur feels amazing to touch. Their fur\nrepels dust and prevents static electricity from\nbuilding up.",
+        "Cinccino’s body is coated in a special oil that helps\nit deflect attacks, such as punches.",
+        "The white parts of its coat are covered in an oil\nsecreted from its body, so this Pokémon can\nslide right away from its enemies’ attacks.",
+        "The oil that seeps from its body is really\nsmooth. For people troubled by bad skin,\nthis oil is an effective treatment.",
+        "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won’t tolerate even a speck of the stuff.",
+        "A special oil that seeps through their fur helps\nthem avoid attacks. The oil fetches a high price\nat market."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "name": "Cinccino",
+    "types": [
+        "Normal"
+    ],
+    "weight": 7.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 1.4,
+    "name": "Crustle",
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "weight": 200.0
+}

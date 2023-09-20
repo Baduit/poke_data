@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Con sus enormes y magníficas alas, puede seguir\nvolando sin tener que aterrizar para descansar.",
+        "Tiene energía para volar todo el día con sus grandes\nalas. Lucha con su afilado pico.",
+        "A Fearow se le reconoce por tener un pescuezo y un pico\nlargos que le permiten cazar en tierra y agua. Tiene una\ngran habilidad moviendo el fino pico para atrapar a sus presas.",
+        "A Fearow se le reconoce por tener un pescuezo y un pico\nlargos que le permiten cazar en tierra y agua. Tiene una\ngran habilidad moviendo el fino pico para atrapar a sus presas.",
+        "Son de destacar su dureza y resistencia.\nPuede volar sin parar durante un día entero\naunque lleve una pesada carga.",
+        "En algunos murales de épocas arcaicas se han\nhallado pinturas de un Pokémon que guarda un\ngran parecido con Fearow.",
+        "Es peligroso pasear con comida por su territorio,\nya que supone exponerse a que en cualquier\nmomento se abalance para robarla.",
+        "En Alola, se alimenta de Pokémon pez. A menudo\nse lo puede ver sobrevolando el mar en círculos\nen busca de presas.",
+        "Este Pokémon ha existido desde tiempos\nremotos. Al menor atisbo de peligro, alza el\nvuelo y huye.",
+        "Este Pokémon ha existido desde tiempos\nremotos. Al menor atisbo de peligro, alza el\nvuelo y huye."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "name": "Fearow",
+    "types": [
+        "Normal",
+        "Volador"
+    ],
+    "weight": 38.0
+}

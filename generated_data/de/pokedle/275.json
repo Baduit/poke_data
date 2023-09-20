@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 3,
+    "height": 1.3,
+    "name": "Tengulist",
+    "types": [
+        "Pflanze",
+        "Unlicht"
+    ],
+    "weight": 59.6
+}

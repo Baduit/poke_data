@@ -1,0 +1,11 @@
+{
+    "color": "Green",
+    "generation": 3,
+    "height": 2.0,
+    "name": "Tropius",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "weight": 100.0
+}

@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Aumenta su potencia si se aprieta el cinturón. Un\nThroh salvaje teje su propio cinturón usando lianas.",
+        "Si se topa con un rival más fuerte, ansía lanzarlo por\nlos aires. Al hacerse más fuerte, cambia su cinturón.",
+        "Aumenta su potencia si se aprieta el cinturón. Un Throh\nsalvaje teje su propio cinturón usando lianas.",
+        "Si se topa con un rival más fuerte, ansía lanzarlo por los aires.\nAl hacerse más fuerte, cambia su cinturón.",
+        "Su técnica de lanzamiento es formidable. El\nsudor que exhala durante el combate impregna\nsu cinturón, cuyo color se vuelve más intenso.",
+        "Entrenan en grupos de cinco individuos. Si alguno\nes incapaz de seguir el ritmo, arroja el cinturón y\nabandona la cuadrilla."
+    ],
+    "height": 1.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png",
+    "name": "Throh",
+    "types": [
+        "Lucha"
+    ],
+    "weight": 55.5
+}

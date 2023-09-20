@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il se nourrit du nectar et du pollen des fleurs.\nAyant la capacité de percevoir l’aura des\nchoses, il sait quelles fleurs vont bientôt éclore.",
+        "Ils volettent gaiement en nombre au-dessus de\nla tête de certaines personnes dont l’aura\ns’apparenterait à celle d’une fleur.",
+        "Il aime le nectar et le pollen, et se dispute\nces denrées avec Papilusion dans les champs\nde fleurs.",
+        "Il perçoit l’aura des êtres vivants, ce qui lui\npermet de se jouer de son adversaire en\nprévoyant et en anticipant ses mouvements.",
+        "Ce Pokémon raffole du pollen et du nectar.\nIl volette souvent près des Tournicoton\npour collecter leur pollen.",
+        "Il perçoit l’aura de son ennemi et anticipe\nses mouvements. Il parvient ainsi à éviter\nles attaques et à riposter dans la foulée."
+    ],
+    "height": 0.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "name": "Bombydou",
+    "types": [
+        "Insecte",
+        "Fée"
+    ],
+    "weight": 0.2
+}

@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "Su cremoso cuerpo surgió a partir de la unión\nde partículas odoríferas de dulces aromas\npresentes en el aire.",
+        "Se dice que las pastelerías donde ha aparecido\nMilcery tienen casi todas las papeletas para\nsaborear las mieles del éxito."
+    ],
+    "height": 0.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "name": "Milcery",
+    "types": [
+        "Hada"
+    ],
+    "weight": 0.3
+}

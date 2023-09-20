@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 2,
+    "height": 0.5,
+    "name": "千针鱼",
+    "types": [
+        "水",
+        "毒"
+    ],
+    "weight": 3.9
+}

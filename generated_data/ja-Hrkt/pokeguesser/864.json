@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "れいりょくが　たかまり　カラから\nときはなたれた。　れいたいで\nかくの　たましいを　まもっている。",
+        "たましいを　おおう　れいたいの\nからだには　ちゅうい。　ふれると\nいしのように　うごけなく　なるぞ。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+    "name": "サニゴーン",
+    "types": [
+        "ゴースト"
+    ],
+    "weight": 0.4
+}

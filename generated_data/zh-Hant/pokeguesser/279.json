@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "鼓脹得大大的鳥嘴\n是連幼稚園生那麼大的\n孩子都能裝進去的大小。",
+        "收集食物是年輕♂的工作。\n會在大大的鳥嘴裡儲藏食物，\n運送到夥伴等待的巢穴中。",
+        "會把小型寶可夢裝進牠那\n脹鼓鼓的鳥嘴中運送，\n但沒人知道會被牠帶到哪裡去。",
+        "會用大大的鳥嘴\n撈起弱丁魚然後吞下。\n一次可以吃下３０隻以上。",
+        "把小型寶可夢和蛋\n放進嘴裡，並運送到\n安全地方的空中送貨員。",
+        "會貼著海面飛行，\n用大大的鳥嘴連著海水一起\n把食物撈起來帶走。"
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "name": "大嘴鷗",
+    "types": [
+        "水",
+        "飛行"
+    ],
+    "weight": 28.0
+}

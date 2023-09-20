@@ -1,0 +1,11 @@
+{
+    "color": "Blue",
+    "generation": 3,
+    "height": 1.5,
+    "name": "Salamence",
+    "types": [
+        "Dragon",
+        "Flying"
+    ],
+    "weight": 102.6
+}

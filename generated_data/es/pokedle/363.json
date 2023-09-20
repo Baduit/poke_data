@@ -1,0 +1,11 @@
+{
+    "color": "Azul",
+    "generation": 3,
+    "height": 0.8,
+    "name": "Spheal",
+    "types": [
+        "Hielo",
+        "Agua"
+    ],
+    "weight": 39.5
+}

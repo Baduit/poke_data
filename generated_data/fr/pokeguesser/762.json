@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        "Pour mieux se défendre, il a fait pousser sur\nson corps un calice assez solide pour résister\naux coups de bec des Pokémon oiseaux.",
+        "Il passe son temps à gambader joyeusement.\nSa silhouette pleine d’entrain et son parfum\nagréable ont le don d’attirer les autres Pokémon.",
+        "Confiant en la protection offerte par son solide\ncalice, il n’hésite pas à jouer avec les Pokémon\noiseaux. Il se fait picorer, mais il s’en moque.",
+        "Sa démarche sautillante fait balancer le calice\nqui se dresse sur sa tête. Recevoir un coup\nde sépale est très douloureux !",
+        "Il danse en tournant sur lui-même et répand\nune douce odeur dans son sillage. Sentir celle-ci\nprovoque un profond sentiment de bonheur.",
+        "Lorsqu’un Bleuseille le picore, il commence\npar se défendre avec son calice, et lui assène\nensuite de violents coups de pied."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+    "name": "Candine",
+    "types": [
+        "Plante"
+    ],
+    "weight": 8.2
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 7,
+    "height": 0.4,
+    "name": "Garstella",
+    "types": [
+        "Gift",
+        "Wasser"
+    ],
+    "weight": 8.0
+}

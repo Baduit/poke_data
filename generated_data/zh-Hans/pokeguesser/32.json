@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "一直竖起它的大耳朵\n感知周围的情形。当它\n察觉到危险便会使用毒针。",
+        "一直竖起它的大耳朵\n感知周围的情形。当它\n察觉到危险便会使用毒针。",
+        "额头上的角含有剧毒。\n警戒心强，无论何时都\n竖着自己大大的耳朵。",
+        "身材虽小，却性格勇敢。\n为了保护相好的雌性，\n会不顾生命果敢地战斗。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "name": "尼多朗",
+    "types": [
+        "毒"
+    ],
+    "weight": 9.0
+}

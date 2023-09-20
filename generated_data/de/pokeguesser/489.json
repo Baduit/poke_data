@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Steigt die Meerestemperatur, bläst es seinen\nSchwimmbeutel auf und treibt in Schwärmen\nauf dem Wasser.",
+        "Lässt sich in warmen Meeren treiben, kehrt aber\nimmer an den Platz seiner Geburt zurück.",
+        "Steigt die Meerestemperatur, bläst es seinen Schwimmbeutel\nauf und treibt in Schwärmen auf dem Wasser.",
+        "Lässt sich in warmen Meeren treiben, kehrt aber immer\nan den Platz seiner Geburt zurück."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+    "name": "Phione",
+    "types": [
+        "Wasser"
+    ],
+    "weight": 3.1
+}

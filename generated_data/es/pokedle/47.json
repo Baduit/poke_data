@@ -1,0 +1,11 @@
+{
+    "color": "Rojo",
+    "generation": 1,
+    "height": 1.0,
+    "name": "Parasect",
+    "types": [
+        "Bicho",
+        "Planta"
+    ],
+    "weight": 29.5
+}

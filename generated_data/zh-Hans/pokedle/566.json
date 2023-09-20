@@ -1,0 +1,11 @@
+{
+    "color": "黄色",
+    "generation": 5,
+    "height": 0.5,
+    "name": "始祖小鸟",
+    "types": [
+        "岩石",
+        "飞行"
+    ],
+    "weight": 9.5
+}

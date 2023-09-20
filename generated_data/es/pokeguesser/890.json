@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Se alimenta de la energía que brota de la tierra\nde Galar absorbiéndola por el núcleo del pecho.",
+        "Fue hallado en el interior de un meteorito caído\nhace 20 000 años. Por lo visto, está relacionado\ncon el misterio que rodea al fenómeno Dinamax."
+    ],
+    "height": 20.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "name": "Eternatus",
+    "types": [
+        "Veneno",
+        "Dragón"
+    ],
+    "weight": 950.0
+}

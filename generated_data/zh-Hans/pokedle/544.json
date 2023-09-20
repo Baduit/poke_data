@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 5,
+    "height": 1.2,
+    "name": "车轮球",
+    "types": [
+        "虫",
+        "毒"
+    ],
+    "weight": 58.5
+}

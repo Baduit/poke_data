@@ -1,0 +1,11 @@
+{
+    "color": "灰色",
+    "generation": 1,
+    "height": 0.3,
+    "name": "コイル",
+    "types": [
+        "でんき",
+        "はがね"
+    ],
+    "weight": 6.0
+}

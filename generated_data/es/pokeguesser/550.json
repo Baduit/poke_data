@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Los de color azul y los de color rojo siempre se\npelean. Son muy violentos, pero su sabor es\nexcepcional.",
+        "Los Basculin con la raya roja y aquellos con la raya\nazul se llevan fatal, pero algunos tienden a agruparse.",
+        "Los de color azul y los de color rojo siempre se pelean. Son\nmuy violentos, pero su sabor es excepcional.",
+        "Los Basculin con la raya roja y aquellos con la raya azul se\nllevan fatal, pero algunos tienden a agruparse.",
+        "Este Pokémon tiene un carácter violento y feroz.\nLas peleas entre los de color azul y los de color\nrojo para marcar territorio son frecuentes.",
+        "Es tan violento que en los lagos donde aparece\nun banco de Basculin solo son capaces de\nquedarse Corphish o Crawdaunt.",
+        "Muy popular entre los Pescadores por su fiereza.\nHa proliferado debido a la introducción ilegal de\nejemplares en los lagos.",
+        "Un alimento básico de la dieta de antaño. A los\njóvenes se les daba Basculin de raya roja por su\nalto contenido en ácidos grasos."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "name": "Basculin",
+    "types": [
+        "Agua"
+    ],
+    "weight": 18.0
+}

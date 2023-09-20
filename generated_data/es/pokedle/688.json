@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 6,
+    "height": 0.5,
+    "name": "Binacle",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 31.0
+}

@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "Il suo aspetto dipende dal luogo in cui si evolve.\nTutto ciò che ha intorno va a costituire il suo corpo.",
+        "Con l’evoluzione, il manto di Burmy diventa parte del\ncorpo di questo Pokémon. Non se ne separa mai.",
+        "Il suo aspetto dipende dal luogo in cui si evolve. Tutto ciò\nche ha intorno va a costituire il suo corpo.",
+        "Con l’evoluzione, il manto di Burmy diventa parte del corpo\ndi questo Pokémon. Non se ne separa mai."
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+    "name": "Wormadam",
+    "types": [
+        "Coleottero",
+        "Erba"
+    ],
+    "weight": 6.5
+}

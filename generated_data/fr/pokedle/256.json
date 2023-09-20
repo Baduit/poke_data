@@ -1,0 +1,11 @@
+{
+    "color": "Rouge",
+    "generation": 3,
+    "height": 0.9,
+    "name": "Galifeu",
+    "types": [
+        "Feu",
+        "Combat"
+    ],
+    "weight": 19.5
+}

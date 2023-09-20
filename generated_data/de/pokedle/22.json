@@ -1,0 +1,11 @@
+{
+    "color": "Braun",
+    "generation": 1,
+    "height": 1.2,
+    "name": "Ibitak",
+    "types": [
+        "Normal",
+        "Flug"
+    ],
+    "weight": 38.0
+}

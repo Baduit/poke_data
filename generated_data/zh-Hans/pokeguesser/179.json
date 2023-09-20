@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "用咩利羊的毛制成的\n衣服容易起静电，\n所以会做特殊加工。",
+        "绒毛摩擦产生的电力会被储存起来。\n如果觉得可爱而直接用手碰它的话，\n就会被啪地一下电得又麻又痛。"
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "name": "咩利羊",
+    "types": [
+        "电"
+    ],
+    "weight": 7.8
+}

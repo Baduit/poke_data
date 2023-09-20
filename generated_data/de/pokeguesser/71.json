@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Dieses Pokémon soll in großen Kolonien\ntief im Dschungel leben, doch niemand\nkann dies bestätigen.",
+        "Selbst die härtesten Objekte werden zersetzt,\nwenn der Körper sie erst aufgenommen hat.",
+        "Aus Sarzenias Kopf ragt eine lange Ranke hervor, die es\nbewegt, als wäre sie ein kleines Lebewesen. Nähert sich\nahnungslose Beute dieser Falle, verschlingt Sarzenia\nsie im Ganzen.",
+        "Aus Sarzenias Kopf ragt eine lange Ranke hervor, die es\nbewegt, als wäre sie ein kleines Lebewesen. Nähert sich\nahnungslose Beute dieser Falle, verschlingt Sarzenia\nsie im Ganzen.",
+        "Es lockt Beute mit einem Duft an, der an Honig\nerinnert. Was in sein Maul gelangt, wird samt\nKnochen binnen eines Tages zersetzt.",
+        "Es lockt Beute mit einem Duft an, der an Honig\nerinnert. Was in sein Maul gelangt, wird samt\nKnochen binnen eines Tages zersetzt."
+    ],
+    "height": 1.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "name": "Sarzenia",
+    "types": [
+        "Pflanze",
+        "Gift"
+    ],
+    "weight": 15.5
+}

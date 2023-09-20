@@ -1,0 +1,11 @@
+{
+    "color": "蓝色",
+    "generation": 1,
+    "height": 0.9,
+    "name": "玛瑙水母",
+    "types": [
+        "水",
+        "毒"
+    ],
+    "weight": 45.5
+}

@@ -1,0 +1,11 @@
+{
+    "color": "회색",
+    "generation": 5,
+    "height": 1.2,
+    "name": "휠구",
+    "types": [
+        "벌레",
+        "독"
+    ],
+    "weight": 58.5
+}

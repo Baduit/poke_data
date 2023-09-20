@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "Il maschio minaccia il nemico facendo ondeggiare gli\nornamenti del capo. La femmina eccelle nel volo.",
+        "Il maschio ha una decorazione sulla fronte. Per indole,\nnon si affeziona a nessuno tranne l’Allenatore.",
+        "Il maschio minaccia il nemico facendo ondeggiare gli\nornamenti del capo. La femmina eccelle nel volo.",
+        "Il maschio ha una decorazione sulla fronte. Per indole, non si\naffeziona a nessuno tranne l’Allenatore.",
+        "Eccelle nel volo. La femmina è particolarmente\nresistente, ma il maschio la batte in velocità.",
+        "È tanto intelligente quanto orgoglioso.\nDiventare Allenatori di questo Pokémon equivale\na guadagnarsi il rispetto e l’ammirazione di tutti."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "name": "Unfezant",
+    "types": [
+        "Normale",
+        "Volante"
+    ],
+    "weight": 29.0
+}

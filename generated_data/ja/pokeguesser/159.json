@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "キバは　抜けても　次から　次に\n生えてくる。いつも　口の中には\n４８本の　キバが　そろっている。",
+        "一度　かみつくと　キバが\n抜けるまで　絶対に　離さない。\n抜けた　キバは　すぐに　生えてくる。",
+        "一度　かみついたら　絶対に　離さない。\nキバの　先が　釣り針　みたいに　反り返って\nいるので　一度　刺さると　抜けなく　なるのだ。",
+        "一度　かみついたら　絶対に　離さない。\nキバの　先が　釣り針　みたいに　反り返って\nいるので　一度　刺さると　抜けなく　なるのだ。"
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+    "name": "アリゲイツ",
+    "types": [
+        "みず"
+    ],
+    "weight": 25.0
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Este Pokémon es muy leal. No solo ayuda a\nEntrenadores, sino que también se preocupa por\notros Pokémon.",
+        "Un robusto pelaje cubre su cuerpo a modo de capa\ny disminuye el daño que recibe en los ataques.",
+        "Este Pokémon es muy leal. No solo ayuda a Entrenadores,\nsino que también se preocupa por otros Pokémon.",
+        "Un robusto pelaje cubre su cuerpo a modo de capa y\ndisminuye el daño que recibe en los ataques.",
+        "El recio y oscuro pelaje que le cubre el lomo\ncrece tan rápido que mantenerlo corto resulta\nde lo más caro.",
+        "Obedece sin rechistar las órdenes de su dueño.\nAhora bien, ignora sin pudor a todo aquel que\nconsidere inferior.",
+        "Con el paso del tiempo, su oscuro pelaje se\nvuelve duro y resistente, lo que le sirve como\nligera protección contra colmillos y cuernos.",
+        "Ha convivido mucho tiempo con los humanos,\ncomo atestiguan las pinturas rupestres donde\naparece representado.",
+        "Es muy inteligente y cariñoso. Existen ciertas\nteorías que lo consideran el primer Pokémon\nque se convirtió en compañero de los humanos.",
+        "El pelaje negro que lo recubre es tan denso y\nelástico que puede repeler incluso los colmillos\nmás afilados."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "name": "Herdier",
+    "types": [
+        "Normal"
+    ],
+    "weight": 14.7
+}

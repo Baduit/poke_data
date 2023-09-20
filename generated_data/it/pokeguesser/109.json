@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Il suo corpo fatto a pallone è pieno di orribili sostanze\ngassose, che emanano un puzzo disgustoso.",
+        "Fluttua a mezz’aria grazie ai gas che ha in corpo.\nQuesti sono maleodoranti e altamente esplosivi.",
+        "Se Koffing si agita, aumenta la tossicità dei suoi gas interni\ne li espelle violentemente da tutto il corpo. Questo Pokémon\nriesce anche a gonfiarsi fino al punto di esplodere.",
+        "Koffing è costituito da sostanze velenose. Mischia tossine\ncon rifiuti putrefatti per scatenare reazioni chimiche che\ngenerano un micidiale gas velenoso. Con l’aumento della\ntemperatura, sale la quantità di gas prodotto da Koffing.",
+        "Nei luoghi caldi i suoi gas interni rischiano di\nespandersi fino a farlo scoppiare, quindi bisogna\nfare attenzione.",
+        "Nei luoghi caldi i suoi gas interni rischiano di\nespandersi fino a farlo scoppiare, quindi bisogna\nfare attenzione.",
+        "Il suo corpo è gonfio di gas velenosi.\nVa nelle discariche attratto dall’odore\ndi rifiuti putrescenti.",
+        "È ghiotto di aria inquinata.\nSi dice che in passato a Galar ci fossero\nmolti più Koffing rispetto a ora."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "name": "Koffing",
+    "types": [
+        "Veleno"
+    ],
+    "weight": 1.0
+}

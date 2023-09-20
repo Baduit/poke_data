@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Camina moviendo las caderas de forma llamativa.\nPuede hacer que la gente baile a su ritmo.",
+        "Habla emitiendo sonidos que parecen humanos. Se\nestá intentando descifrar lo que dice cuando habla.",
+        "Jynx camina con ritmo, balanceándose y moviendo las caderas\ncomo si estuviera bailando. Realiza unos movimientos tan\nvistosos y atractivos que no hay quien pueda resistirse a\nmover las caderas.",
+        "Jynx camina con ritmo, balanceándose y moviendo las caderas\ncomo si estuviera bailando. Realiza unos movimientos tan\nvistosos y atractivos que no hay quien pueda resistirse a\nmover las caderas.",
+        "Se bambolea con un ritmo peculiar que, en el\ncaso de los ejemplares que viven en Alola, es\nrealmente cautivador.",
+        "Sus particulares gritos recuerdan al lenguaje\nhumano. Algunos artistas han compuesto temas\nespecíficamente para estos Pokémon.",
+        "Parece moverse como si estuviera bailando un\nritmo de su propia invención. Mueve mucho las\ncaderas al andar.",
+        "Parece moverse como si estuviera bailando un\nritmo de su propia invención. Mueve mucho las\ncaderas al andar.",
+        "En cierta parte de Galar se conocía a Jynx como\nla Reina del Hielo y se reverenciaba con cierto\ntemor.",
+        "Los ejemplares que habitan en Galar poseen\nuna voz tan delicada y hermosa que incluso\ncuentan con su propio grupo de admiradores."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "name": "Jynx",
+    "types": [
+        "Hielo",
+        "Psíquico"
+    ],
+    "weight": 40.6
+}

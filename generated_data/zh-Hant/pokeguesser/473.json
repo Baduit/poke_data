@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在１萬年前的壁畫上也能見到\n牠的身影。曾有一段時期，\n人們認為牠已經滅絕了。",
+        "牠的力量就如外表那樣強大。\n天氣越是寒冷，牠的冰牙\n就會長得越粗、越長、越結實。"
+    ],
+    "height": 2.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "name": "象牙豬",
+    "types": [
+        "冰",
+        "地面"
+    ],
+    "weight": 291.0
+}

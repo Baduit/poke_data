@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "在远古时代曾凭借自己强大的\n下半身而所向无敌，但因吃光了\n赖以为生的植物而灭绝了。",
+        "会用尾部结实的肌肉\n发电。与下半身相比，\n上半身真的太小了。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "name": "雷鸟龙",
+    "types": [
+        "电",
+        "龙"
+    ],
+    "weight": 190.0
+}

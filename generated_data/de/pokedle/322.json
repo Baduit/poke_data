@@ -1,0 +1,11 @@
+{
+    "color": "Gelb",
+    "generation": 3,
+    "height": 0.7,
+    "name": "Camaub",
+    "types": [
+        "Feuer",
+        "Boden"
+    ],
+    "weight": 24.0
+}

@@ -1,0 +1,11 @@
+{
+    "color": "Gris",
+    "generation": 4,
+    "height": 1.3,
+    "name": "Bastiodon",
+    "types": [
+        "Roche",
+        "Acier"
+    ],
+    "weight": 149.5
+}

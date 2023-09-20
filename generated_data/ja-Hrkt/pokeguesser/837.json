@@ -1,0 +1,13 @@
+{
+    "descriptions": [
+        "およそ４００ねんまえに　たんこうで\nみつかった。　からだの　ほとんどが\nせきたんと　おなじ　せいぶん。",
+        "いわだらけの　あくろを　ものともせず\nいちりんしゃのように　はしりまわる。\nせきたんを　もやして　いきている。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "name": "タンドン",
+    "types": [
+        "いわ"
+    ],
+    "weight": 12.0
+}

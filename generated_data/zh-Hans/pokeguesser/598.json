@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "用尖刺刺裂岩壁之后，\n它会用触手的尖端\n接触裂缝吸收营养。",
+        "拥有比钢铁还坚硬的尖刺。\n会利用触手上的尖刺\n攀附在岩壁上移动。"
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "name": "坚果哑铃",
+    "types": [
+        "草",
+        "钢"
+    ],
+    "weight": 110.0
+}

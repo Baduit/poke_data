@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "喜欢吃水果。会用超音波击中水果，\n然后只挑选出已成熟的来食用，\n是个美食家。",
+        "寻找作为食物的水果，四处飞翔。\n能用超音波判断水果熟了没有。",
+        "到了太阳落山时，\n它便会离开居住的洞窟四处飞行，\n用超音波寻找熟透的果实。",
+        "可以控制所有频率的音波。\n就算是体型巨大的宝可梦，\n也对它的超音波束手无策。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "name": "嗡蝠",
+    "types": [
+        "飞行",
+        "龙"
+    ],
+    "weight": 8.0
+}

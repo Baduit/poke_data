@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "２本の　尻尾を\nスクリューの　ように　回して　泳ぐ。\n潜る　ときは　浮き袋が　しぼむ。",
+        "首の　浮き袋を　ふくらませ\n水面から　顔を　だして\n辺りの　様子を　うかがっている。",
+        "２本の　尻尾を\nスクリューの　ように　回して　泳ぐ。\n潜る　ときは　浮き袋が　しぼむ。",
+        "首の　浮き袋を　ふくらませ\n水面から　顔を　だして\n辺りの　様子を　うかがっている。"
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+    "name": "ブイゼル",
+    "types": [
+        "みず"
+    ],
+    "weight": 29.5
+}

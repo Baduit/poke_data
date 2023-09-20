@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "氷漬けの　上半身が\n震えると　電気が　つくられる。\n歩くことが　非常に　苦手。",
+        "古代の　海辺で　暮らし　餌を\n体の　氷で　保存できたが\n動きが　鈍いため　絶滅した。"
+    ],
+    "height": 2.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+    "name": "パッチルドン",
+    "types": [
+        "でんき",
+        "こおり"
+    ],
+    "weight": 150.0
+}

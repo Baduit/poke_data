@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Enfrían el aire a su alrededor y crean partículas de\nhielo mediante las cuales congelan a sus oponentes.",
+        "Vive en las cumbres nevadas. Migró hacia el sur\ndurante la era glaciar hace muchísimos años.",
+        "Enfrían el aire a su alrededor y crean partículas de hielo\nmediante las cuales congelan a sus oponentes.",
+        "Vive en las cumbres nevadas. Migró hacia el sur durante la era\nglaciar hace muchísimos años.",
+        "Su cuerpo se derrite en los días calurosos. Al\ncongelarse recobra su aspecto original, aunque\nligeramente deformado.",
+        "Sus orígenes se remontan a la era glacial. Usa\npartículas de hielo para congelar a su enemigo y\nhacerlo después añicos de un cabezazo.",
+        "Exhala partículas de hielo para congelar a sus\nrivales. Los Vanillish de la región de Alola son\nmás pequeños que el resto.",
+        "Un Pokémon muy resistente que logró sobrevivir\na la glaciación. En las regiones cálidas goza de\ngran popularidad.",
+        "Bebe agua pura para agrandar su cuerpo de\nhielo. Apenas se ven ejemplares durante los\ndías soleados.",
+        "Congela a sus enemigos con un vaho a -100 °C,\npero no llega a arrebatarles la vida debido a su\ncarácter benévolo."
+    ],
+    "height": 1.1,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "name": "Vanillish",
+    "types": [
+        "Hielo"
+    ],
+    "weight": 41.0
+}

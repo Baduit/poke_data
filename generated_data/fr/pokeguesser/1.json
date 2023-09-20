@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Au matin de sa vie, la graine sur\nson dos lui fournit les éléments\ndont il a besoin pour grandir.",
+        "Au matin de sa vie, la graine sur\nson dos lui fournit les éléments\ndont il a besoin pour grandir.",
+        "Il a une étrange graine plantée sur son dos.\nElle grandit avec lui depuis sa naissance.",
+        "Au matin de sa vie, la graine sur son dos lui fournit\nles éléments dont il a besoin pour grandir.",
+        "Bulbizarre passe son temps à faire la sieste sous le soleil.\nIl y a une graine sur son dos. Il absorbe les rayons du soleil\npour faire doucement pousser la graine.",
+        "Bulbizarre passe son temps à faire la sieste sous le soleil.\nIl y a une graine sur son dos. Il absorbe les rayons du soleil\npour faire doucement pousser la graine.",
+        "Il peut survivre plusieurs jours sans manger\ngrâce aux nutriments contenus dans le bulbe\nsur son dos.",
+        "Il peut survivre plusieurs jours sans manger\ngrâce aux nutriments contenus dans le bulbe\nsur son dos.",
+        "Il y a une graine sur son dos depuis sa naissance.\nElle grossit un peu chaque jour.",
+        "Quand il est jeune, il absorbe les nutriments\nconservés dans son dos pour grandir\net se développer."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "name": "Bulbizarre",
+    "types": [
+        "Plante",
+        "Poison"
+    ],
+    "weight": 6.9
+}

@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "It can return to its Trainer’s location\nregardless of the distance\nseparating them.",
+        "Many people believe that, deep in the\nforest where Tranquill live, there is\na peaceful place where there is no war.",
+        "No matter where in the world it goes,\nit knows where its nest is, so it\nnever gets separated from its Trainer.",
+        "No matter where in the world it goes,\nit knows where its nest is, so it\nnever gets separated from its Trainer.",
+        "Many people believe that, deep in the forest where\nTranquill live, there is a peaceful place where there\nis no war.",
+        "No matter where in the world it goes, it knows\nwhere its nest is, so it never gets separated from\nits Trainer.",
+        "Many people believe that, deep in the forest where\nTranquill live, there is a peaceful place where there\nis no war.",
+        "No matter where in the world it goes, it knows\nwhere its nest is, so it never gets separated from\nits Trainer.",
+        "It can fly moderately quickly. No matter how far\nit travels, it can always find its way back to its\nmaster and its nest.",
+        "These bright Pokémon have acute memories.\nApparently delivery workers often choose them\nas their partners."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "name": "Tranquill",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "weight": 15.0
+}

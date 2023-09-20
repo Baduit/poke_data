@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "사람이나 포켓몬이 싫어하는 감정을\n가질 때 발생시키는 마이너스 에너지를\n코로 빨아들여서 건강해진다.",
+        "민가에 숨어들어 도둑질을\n하고 속상해하는 사람의\n마이너스 에너지도 얻는다."
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+    "name": "메롱꿍",
+    "types": [
+        "악",
+        "페어리"
+    ],
+    "weight": 5.5
+}

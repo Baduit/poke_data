@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "利用精神力量在空中飛翔，\n被稱為古代都市的守護神。\n也有人認為牠是守護神的使者。",
+        "人們在象徵鳥飛過的沙漠\n地下進行調查，結果在那裡\n發現了疑似古代都市的遺跡。"
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "name": "象徵鳥",
+    "types": [
+        "超能力",
+        "飛行"
+    ],
+    "weight": 14.0
+}

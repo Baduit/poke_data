@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "Nada rotando sus dos colas a modo de tornillo.\nCuando bucea, el flotador se pliega.",
+        "Hincha el flotador de su cuello para flotar y saca la\ncabeza de la superficie del agua para explorar sus\nalrededores.",
+        "Nada rotando sus dos colas a modo de tornillo. Cuando\nbucea, el flotador se pliega.",
+        "Hincha el flotador de su cuello para flotar y saca la cabeza\nde la superficie del agua para explorar sus alrededores."
+    ],
+    "height": 0.7,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+    "name": "Buizel",
+    "types": [
+        "Agua"
+    ],
+    "weight": 29.5
+}

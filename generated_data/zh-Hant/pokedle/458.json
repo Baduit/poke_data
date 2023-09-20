@@ -1,0 +1,11 @@
+{
+    "color": "藍色",
+    "generation": 4,
+    "height": 1.0,
+    "name": "小球飛魚",
+    "types": [
+        "水",
+        "飛行"
+    ],
+    "weight": 65.0
+}

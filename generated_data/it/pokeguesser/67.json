@@ -1,0 +1,23 @@
+{
+    "descriptions": [
+        "Il suo corpo muscoloso è così forte che usa una\ncintura antiforza per regolare i suoi movimenti.",
+        "È così forte da sollevare un autocarro con una sola\nmano. Aiuta le persone nei lavori pesanti.",
+        "I muscoli perfettamente tonici di Machoke possiedono\nla durezza dell’acciaio. Questo Pokémon è così forte\nda riuscire a sollevare un lottatore di sumo con un dito.",
+        "Machoke si allena ogni giorno con esercizi di body building,\naiutando l’uomo nei lavori fisicamente pesanti. Nei giorni\ndi riposo, si reca in campagna o in montagna per allenarsi\nancora.",
+        "Grazie al costante allenamento fisico ha\nsviluppato una forza straordinaria, di cui si\nserve per aiutare gli uomini nel loro lavoro.",
+        "È sempre disponibile ad aiutare nei lavori\npesanti, considerandoli un allenamento\nper accrescere la sua forza muscolare.",
+        "Quando incontra un nemico davvero formidabile,\nsi toglie la cintura che usa per contenere la sua\nforza e scatena tutta la sua potenza.",
+        "Gli artisti sono rapiti dalla perfezione dei suoi\nmuscoli ben sviluppati e spesso lo scelgono\ncome soggetto delle loro sculture.",
+        "La cintura che porta attorno alla vita serve\na contenere la sua energia. Senza di essa\nsarebbe inarrestabile.",
+        "La cintura che porta attorno alla vita serve\na contenere la sua energia. Senza di essa\nsarebbe inarrestabile.",
+        "Il suo corpo muscoloso è così forte che usa\nuna cintura per contenere la sua potenza.",
+        "Ha un fisico vigoroso e instancabile. Aiuta\nle persone a trasportare carichi e a svolgere\naltri lavori pesanti."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "name": "Machoke",
+    "types": [
+        "Lotta"
+    ],
+    "weight": 70.5
+}

@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Si diverte a rimbalzare come una palla. Più acqua di\nmare ingolla, più in alto riesce a rimbalzare.",
+        "Mangia una tonnellata di cibo al giorno. Si diverte a\nspruzzare con forza l’acqua marina attraverso il suo\nsfiatatoio.",
+        "Le narici di Wailmer sono posizionate sopra gli occhi.\nÈ un giocherellone e ama spaventare le persone sparando\ndalle narici l’acqua del mare, che accumula all’interno\ndel proprio corpo.",
+        "Wailmer accumula acqua all’interno del proprio corpo per\ntrasformarsi in un pallone e rimbalzare al suolo. Questo\nPokémon aumenta l’altezza del balzo incrementando\nla quantità d’acqua con cui si gonfia.",
+        "Si diverte a spaventare la gente.\nAma gonfiarsi riempiendosi d’acqua e rimbalzare\nqua e là.",
+        "Gioca spruzzando l’acqua di mare dalle narici\nsituate sopra gli occhi.\nMangia una tonnellata di Wishiwashi al giorno.",
+        "Nuota con la bocca aperta, ingoiando cibo e\nacqua marina, poi espelle l’acqua in eccesso\nspruzzandola dallo sfiatatoio.",
+        "Molto raramente si possono vedere gruppi\ndi questi Pokémon adagiati a riva, segno che\nin tempi antichi vivevano sulla terraferma.",
+        "Gioca spruzzando l’acqua di mare dalle narici\nsituate sopra gli occhi. Mangia una tonnellata\ndi Wishiwashi al giorno.",
+        "Se inghiotte molta acqua diventa una specie\ndi palla rimbalzante. Ha bisogno di una\ntonnellata di cibo al giorno."
+    ],
+    "height": 2.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "name": "Wailmer",
+    "types": [
+        "Acqua"
+    ],
+    "weight": 130.0
+}

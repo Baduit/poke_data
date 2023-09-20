@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Si se exalta durante un combate reñido, arroja chispas\ny ascuas de los intersticios entre su plumaje\nmientras vuela.",
+        "Llega a alcanzar los 500 km/h al perseguir a su presa,\na quien le asesta el golpe de gracia con una patada\nmuy potente.",
+        "Si se exalta durante un combate reñido, arroja chispas y\nascuas de los intersticios entre su plumaje mientras vuela.",
+        "Llega a alcanzar los 500 km/h al perseguir a su presa, a\nquien le asesta el golpe de gracia con una patada muy\npotente.",
+        "Wingull y Pikipek son sus presas favoritas.\nLes asesta un potente golpe y después las\natrapa sin remisión con sus garras afiladas.",
+        "Se abalanza en línea recta sobre su presa a una\nvelocidad de 500 km/h mientras arroja chispas\ny ascuas de los intersticios entre su plumaje.",
+        "Sus alas son resistentes al fuego, por lo que se\nsolían usar sus plumas para confeccionar trajes\nde bombero.",
+        "Su presa favorita son los Pokémon pájaro, a los\ncuales se acerca a velocidades vertiginosas y\nderriba con la temible potencia de sus patas.",
+        "Su presa predilecta son los Pokémon pájaro.\nIntimida a sus rivales lanzando ascuas desde\nlos intersticios de su plumaje.",
+        "Arremete contra sus presas a una velocidad de\n500 km/h y les asesta el golpe de gracia con una\npatada muy potente, sin dejarles escapatoria."
+    ],
+    "height": 1.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "name": "Talonflame",
+    "types": [
+        "Fuego",
+        "Volador"
+    ],
+    "weight": 24.5
+}

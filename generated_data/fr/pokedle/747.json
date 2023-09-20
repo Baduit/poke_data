@@ -1,0 +1,11 @@
+{
+    "color": "Bleu",
+    "generation": 7,
+    "height": 0.4,
+    "name": "Vorastérie",
+    "types": [
+        "Poison",
+        "Eau"
+    ],
+    "weight": 8.0
+}

@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "Es un legendario pájaro Pokémon. Dicen que aparece\nentre las nubes lanzando enormes rayos brillantes.",
+        "Legendario Pokémon pájaro del que se dice que vive\nen los nubarrones. Controla los rayos eléctricos.",
+        "Zapdos es un Pokémon pájaro legendario que tiene la\nhabilidad de controlar la electricidad. Suele vivir en\nnubarrones. Este Pokémon gana mucha fuerza si le alcanzan\nlos rayos.",
+        "Zapdos es un Pokémon pájaro legendario que tiene la\nhabilidad de controlar la electricidad. Suele vivir en\nnubarrones. Este Pokémon gana mucha fuerza si le alcanzan\nlos rayos.",
+        "Este Pokémon pájaro legendario solo aparece\ncuando el cielo se torna oscuro y caen rayos\nsin cesar.",
+        "Este Pokémon pájaro legendario solo aparece\ncuando el cielo se torna oscuro y caen rayos\nsin cesar.",
+        "Posee el poder de controlar la electricidad a su\nantojo. Según la creencia popular, anida oculto\nen oscuros nubarrones de tormenta.",
+        "Una de las aves legendarias. Dicen que, cuando\neste Pokémon frota las alas, cae al instante un\nrelámpago del cielo."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "name": "Zapdos",
+    "types": [
+        "Eléctrico",
+        "Volador"
+    ],
+    "weight": 52.6
+}

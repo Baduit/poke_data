@@ -1,0 +1,19 @@
+{
+    "descriptions": [
+        "Sa queue est aussi agile que ses\nmains. Il vit en haut des grands\narbres.",
+        "Sa queue est aussi agile que ses\nmains. Il vit en haut des grands\narbres.",
+        "Il vit sur les plus hautes cimes. Sautant de branche\nen branche, sa queue lui assure un bon équilibre.",
+        "Sa queue est si forte qu’il peut l’utiliser pour se\nsuspendre aux branches des arbres.",
+        "L’extrémité de la queue de Capumain ressemble à une main\net peut être utilisée de façon ingénieuse. Malheureusement,\nce Pokémon utilise tellement sa queue que ses véritables\nmains sont devenues très maladroites.",
+        "L’extrémité de la queue de Capumain ressemble à une main\net peut être utilisée de façon ingénieuse. Malheureusement,\nce Pokémon utilise tellement sa queue que ses véritables\nmains sont devenues très maladroites.",
+        "À force d’utiliser sa queue à tort et à travers,\nelle est devenue plus habile que ses mains.\nIl l’utilise pour faire son nid en haut des arbres.",
+        "Il guette ses proies depuis la cime des arbres.\nQuand il aperçoit un Croquine, son mets préféré,\nil se jette dessus."
+    ],
+    "height": 0.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "name": "Capumain",
+    "types": [
+        "Normal"
+    ],
+    "weight": 11.5
+}

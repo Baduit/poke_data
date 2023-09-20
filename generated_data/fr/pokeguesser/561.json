@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+        "On dit qu’il parcourt toujours le même\nitinéraire parce qu’il a gardé la mémoire\nde la ville antique qu’il protégeait.",
+        "Il était le dieu protecteur d’une ville\nantique. Il repoussait les envahisseurs\nà coups de pouvoir psychique.",
+        "Il était le dieu protecteur d’une ville antique.\nIl repoussait les envahisseurs à coups de pouvoir\npsychique.",
+        "Dieu protecteur d’une ville antique, il suivait toujours\nle même itinéraire afin de prévenir tout risque\nd’invasion.",
+        "Il était le dieu protecteur d’une ville antique. Il repoussait\nles envahisseurs à coups de pouvoir psychique.",
+        "Dieu protecteur d’une ville antique, il suivait toujours\nle même itinéraire afin de prévenir tout risque d’invasion.",
+        "Il vole grâce à ses pouvoirs psychiques.\nCertains disent qu’il était le dieu protecteur\nd’une ville antique, d’autres, son messager.",
+        "En fouillant sous le sable du désert survolé\npar Cryptéro, on a retrouvé les vestiges\nde ce que l’on croit être une ville antique."
+    ],
+    "height": 1.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "name": "Cryptéro",
+    "types": [
+        "Psy",
+        "Vol"
+    ],
+    "weight": 14.0
+}

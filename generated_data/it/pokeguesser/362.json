@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Per difendersi, riveste il suo corpo con un’armatura\ndi ghiaccio, fatta congelando l’umidità dell’aria.",
+        "Capace di congelare istantaneamente l’umidità\ndell’atmosfera, finisce per surgelare la preda.",
+        "Il corpo di Glalie è fatto di pietra rivestita da un’armatura\ndi ghiaccio. Questo Pokémon ha la capacità di congelare\nl’umidità nell’atmosfera e darle le forme più svariate.",
+        "Glalie ha la capacità di sfruttare il ghiaccio a suo vantaggio.\nAd esempio riesce a congelare la preda all’istante. Dopo\naverla immobilizzata nel ghiaccio, se la mangia con gusto\ne in tutta calma.",
+        "Lo sconforto degli scalatori smarritisi a un passo\ndalla vetta ha animato certe rocce di montagna\ne dato vita a questo Pokémon.",
+        "Congela le prede in un istante soffiando\naria gelida dalla grande bocca e poi\nle sgranocchia ancora ghiacciate.",
+        "Congela la preda prima di affondarvi i denti.\nTuttavia, preferisce cibarsi di Pokémon già\nghiacciati come Vanillite.",
+        "Poiché il suo corpo è fatto di una pietra non\nparticolarmente dura, congela l’umidità intorno\na lui per rivestirsi di un’armatura di ghiaccio.",
+        "Neppure il fuoco riesce a sciogliere il suo corpo\ndi ghiaccio. Può congelare istantaneamente\nl’umidità dell’atmosfera.",
+        "È capace di ghiacciare istantaneamente\nl’umidità dell’atmosfera. Sfrutta questo\npotere per congelare la preda."
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "name": "Glalie",
+    "types": [
+        "Ghiaccio"
+    ],
+    "weight": 256.5
+}

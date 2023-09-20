@@ -1,0 +1,22 @@
+{
+    "descriptions": [
+        "Ses cornes forment une grande\nmâchoire attachée à sa tête. Elle\npeut broyer des barres de fer.",
+        "Ses cornes forment une grande\nmâchoire attachée à sa tête. Elle\npeut broyer des barres de fer.",
+        "Il utilise son visage charmeur pour tromper ses\nennemis avant de les mordre avec ses énormes\nmâchoires.",
+        "Ses cornes forment une grande mâchoire attachée\nà sa tête. Elle peut broyer des barres de fer.",
+        "Les énormes mâchoires de Mysdibule sont en réalité\ndes cornes en métal transformées. Son visage doux et gentil\nest un leurre pour tromper l’ennemi. Quand l’ennemi s’y attend\nle moins, il le croque d’un coup de mâchoire.",
+        "Il ne faut pas se fier au visage mignon de ce Pokémon. Il est\ntrès dangereux. Mysdibule leurre son ennemi, puis le croque\navec son énorme mâchoire constituée en fait des cornes\ntransformées.",
+        "Rusé et dangereux, ce Pokémon profite de son\nair candide pour tromper ses ennemis, et les\ngobe d’un trait dès qu’ils ont le dos tourné.",
+        "Il possède deux bouches. Celle au sommet de sa\ntête ne percevant pas les saveurs, il s’en sert\npour manger les aliments qui lui déplaisent.",
+        "Trompés par son visage innocent, ses ennemis\nse font happer par ses énormes mâchoires\net ne peuvent plus s’échapper.",
+        "Ses cornes d’acier forment une grande mâchoire\navec laquelle il mord férocement ses adversaires."
+    ],
+    "height": 0.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "name": "Mysdibule",
+    "types": [
+        "Acier",
+        "Fée"
+    ],
+    "weight": 11.5
+}

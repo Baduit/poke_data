@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 2,
+    "height": 1.4,
+    "name": "Morlord",
+    "types": [
+        "Wasser",
+        "Boden"
+    ],
+    "weight": 75.0
+}

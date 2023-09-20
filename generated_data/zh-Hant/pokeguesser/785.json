@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "擁有旺盛的好奇心，\n是美樂美樂的守護神。\n會呼喚雷雨雲，把雷儲存在體內。",
+        "以迅雷不及掩耳的速度擾亂敵人。\n雖然極度易怒，但卻很快就會\n忘記為何生氣。",
+        "雖被稱為守護神，但會去\n襲擊惹自己不開心的人或寶可夢，\n是個性情凶悍的神。",
+        "操縱雷電，是美樂美樂的\n守護神。有著旺盛的好奇心，\n會不時在人們面前現身。"
+    ],
+    "height": 1.8,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "name": "卡璞・鳴鳴",
+    "types": [
+        "電",
+        "妖精"
+    ],
+    "weight": 20.5
+}

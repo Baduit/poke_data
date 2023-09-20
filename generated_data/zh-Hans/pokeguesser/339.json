@@ -1,0 +1,18 @@
+{
+    "descriptions": [
+        "２根胡子是灵敏的雷达。\n即使在泥泞浑浊的水中，\n也能侦查到猎物的位置。",
+        "滑溜溜的身体很难抓牢。\n甚至因此诞生了比试\n徒手捕捉量的节日。",
+        "全身滑腻腻的。\n即使被鸟宝可梦啄到，\n也能哧溜一下滑着逃走。",
+        "胡子上布满神经。\n能像人类的鼻子和舌头那样\n感知气味和味道。",
+        "身体滑溜溜的很难抓住。\n某个地区流传着泥泥鳅\n是由泥土凝结而成的说法。",
+        "会用２根长长的胡须\n探索浑浊的河底。\n用湿滑的粘膜保护着身体。"
+    ],
+    "height": 0.4,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "name": "泥泥鳅",
+    "types": [
+        "水",
+        "地面"
+    ],
+    "weight": 1.9
+}

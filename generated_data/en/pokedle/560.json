@@ -1,0 +1,11 @@
+{
+    "color": "Red",
+    "generation": 5,
+    "height": 1.1,
+    "name": "Scrafty",
+    "types": [
+        "Dark",
+        "Fighting"
+    ],
+    "weight": 30.0
+}

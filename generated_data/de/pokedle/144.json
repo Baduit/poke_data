@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 1,
+    "height": 1.7,
+    "name": "Arktos",
+    "types": [
+        "Eis",
+        "Flug"
+    ],
+    "weight": 55.4
+}

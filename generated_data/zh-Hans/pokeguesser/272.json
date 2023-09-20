@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "快乐的音乐节奏会让\n乐天河童的细胞活性化，\n使其发挥出强大的力量。",
+        "乐天河童会跟着\n欢快的音乐摇摆身体，\n从而增强自己的力量。"
+    ],
+    "height": 1.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "name": "乐天河童",
+    "types": [
+        "水",
+        "草"
+    ],
+    "weight": 55.0
+}

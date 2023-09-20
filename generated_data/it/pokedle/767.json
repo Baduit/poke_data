@@ -1,0 +1,11 @@
+{
+    "color": "Grigio",
+    "generation": 7,
+    "height": 0.5,
+    "name": "Wimpod",
+    "types": [
+        "Coleottero",
+        "Acqua"
+    ],
+    "weight": 12.0
+}

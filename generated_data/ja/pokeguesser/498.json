@@ -1,0 +1,15 @@
+{
+    "descriptions": [
+        "敵の　攻撃を　身軽に　避けて\n鼻から　火の玉を　撃ち出す。\n炎で　木の実を　焼いて　食べる。",
+        "焼いた　木の実を　食べるのが\n大好きだが　興奮しすぎて\nときどき　真っ黒焦げに　しちゃう。",
+        "敵の　攻撃を　身軽に　避けて\n鼻から　火の玉を　撃ち出す。\n炎で　木の実を　焼いて　食べる。",
+        "焼いた　木の実を　食べるのが\n大好きだが　興奮しすぎて\nときどき　真っ黒焦げに　しちゃう。"
+    ],
+    "height": 0.5,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "name": "ポカブ",
+    "types": [
+        "ほのお"
+    ],
+    "weight": 9.9
+}

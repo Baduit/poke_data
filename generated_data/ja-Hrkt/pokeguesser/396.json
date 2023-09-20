@@ -1,0 +1,16 @@
+{
+    "descriptions": [
+        "たくさんの　むれで　こうどうする。\nからだは　ちいさいが　はばたく\nちからは　ひじょうに　つよい。",
+        "むしポケモンを　ねらって　のやまを\nおおぜいの　むれで　とびまわる。\nなきごえが　とても　やかましい。",
+        "たくさんの　むれで　こうどうする。\nからだは　ちいさいが　はばたく\nちからは　ひじょうに　つよい。",
+        "むしポケモンを　ねらって　のやまを\nおおぜいの　むれで　とびまわる。\nなきごえが　とても　やかましい。"
+    ],
+    "height": 0.3,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "name": "ムックル",
+    "types": [
+        "ノーマル",
+        "ひこう"
+    ],
+    "weight": 2.0
+}

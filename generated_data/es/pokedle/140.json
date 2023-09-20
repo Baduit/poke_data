@@ -1,0 +1,11 @@
+{
+    "color": "Marrón",
+    "generation": 1,
+    "height": 0.5,
+    "name": "Kabuto",
+    "types": [
+        "Roca",
+        "Agua"
+    ],
+    "weight": 11.5
+}

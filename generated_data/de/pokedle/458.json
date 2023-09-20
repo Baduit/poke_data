@@ -1,0 +1,11 @@
+{
+    "color": "Blau",
+    "generation": 4,
+    "height": 1.0,
+    "name": "Mantirps",
+    "types": [
+        "Wasser",
+        "Flug"
+    ],
+    "weight": 65.0
+}

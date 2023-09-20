@@ -1,0 +1,11 @@
+{
+    "color": "Amarillo",
+    "generation": 3,
+    "height": 1.0,
+    "name": "Beautifly",
+    "types": [
+        "Bicho",
+        "Volador"
+    ],
+    "weight": 28.4
+}

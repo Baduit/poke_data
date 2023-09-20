@@ -1,0 +1,36 @@
+{
+    "descriptions": [
+        "METAGROSS has four brains in total.\nCombined, the four brains can breeze\nthrough difficult calculations faster\fthan a supercomputer.\nThis POKéMON can float in the air by\ntucking in its four legs.",
+        "METAGROSS is the result of two METANG\nachieving fusion. When hunting, this\nPOKéMON pins the prey to the ground\funder its massive body. It then eats\nthe helpless victim using the large \nmouth on its stomach.",
+        "METAGROSS has four brains that are joined\nby a complex neural network. As a result of\nintegration, this POKéMON is smarter than\na supercomputer.",
+        "It is formed by two METANG fusing.\nIts four brains are said to be superior\nto a supercomputer.",
+        "It is formed by two METANG fusing.\nIts four brains are said to be superior\nto a supercomputer.",
+        "METANG combined to form it.\nWith four brains, it has the\nintelligence of a supercomputer.",
+        "METANG combined to form it.\nWith four brains, it has the\nintelligence of a supercomputer.",
+        "METANG combined to form it.\nWith four brains, it has the\nintelligence of a supercomputer.",
+        "It folds its four legs when flying.\nIts four brains are said to be\nsuperior to a supercomputer.",
+        "It folds its four legs when flying.\nIts four brains are said to be\nsuperior to a supercomputer.",
+        "Metang combined to form it.\nWith four brains, it has the\nintelligence of a supercomputer.",
+        "Metang combined to form it.\nWith four brains, it has the\nintelligence of a supercomputer.",
+        "With four linked brains, it’s more\nintelligent than a supercomputer, and\nit uses calculations to analyze foes.",
+        "With four linked brains, it’s more\nintelligent than a supercomputer, and\nit uses calculations to analyze foes.",
+        "With four linked brains, it’s more intelligent than a\nsupercomputer, and it uses calculations to\nanalyze foes.",
+        "Metang combined to form it. With four brains, it has\nthe intelligence of a supercomputer.",
+        "Metagross has four brains in total. Combined, the four brains\ncan breeze through difficult calculations faster than a\nsupercomputer. This Pokémon can float in the air by tucking in\nits four legs.",
+        "Metagross is the result of two Metang achieving fusion.\nWhen hunting, this Pokémon pins the prey to the ground under\nits massive body. It then eats the helpless victim using the\nlarge mouth on its stomach.",
+        "It firmly pins its prey using its four claws and\nlarge body. Then the teeth in the mouth on its\nstomach chew the prey to bits.",
+        "A linkage of two Metang, this Pokémon can\nperform any calculation in a flash by utilizing\nparallel processing in its four brains.",
+        "It boasts not only psychic powers but also\nfantastic strength. It grabs its prey with its four\nlegs and holds them in place with its claws.",
+        "It analyzes its opponents with more accuracy\nthan a supercomputer, which enables it to\ncalmly back them into a corner.",
+        "Because the magnetic powers of these Pokémon\nget stronger in freezing temperatures, Metagross\nliving on snowy mountains are full of energy.",
+        "Metagross is the result of the fusion of two\nMetang. This Pokémon defeats its opponents\nthrough use of its supercomputer-level brain."
+    ],
+    "height": 1.6,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "name": "Metagross",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "weight": 550.0
+}

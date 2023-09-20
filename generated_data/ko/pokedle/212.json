@@ -1,0 +1,11 @@
+{
+    "color": "빨강",
+    "generation": 2,
+    "height": 1.8,
+    "name": "핫삼",
+    "types": [
+        "벌레",
+        "강철"
+    ],
+    "weight": 118.0
+}

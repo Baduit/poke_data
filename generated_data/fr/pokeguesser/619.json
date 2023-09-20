@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        "Il découpe ses ennemis avec ses griffes\nacérées et les terrasse avec ses\nenchaînements de coups hyper fluides.",
+        "Il emploie des enchaînements élégants.\nLorsqu’il se concentre, leur vitesse\net leur tranchant augmentent.",
+        "Il se flatte d’être très rapide. Pour compenser la\nfaiblesse de ses coups, il en assène un très grand\nnombre.",
+        "Il découpe ses ennemis avec ses griffes acérées\net les terrasse avec ses enchaînements de coups\nhyper fluides.",
+        "Il se flatte d’être très rapide. Pour compenser la faiblesse\nde ses coups, il en assène un très grand nombre.",
+        "Il découpe ses ennemis avec ses griffes acérées et les terrasse\navec ses enchaînements de coups hyper fluides.",
+        "Au petit jour, on peut voir des meutes de\nKungfouine qui s’entraînent en effectuant\ndes mouvements lents et méthodiques.",
+        "Il s’isole en montagne pour s’entraîner avec\nses congénères. Les techniques de coups de\npied ou de poing changent d’une meute à l’autre.",
+        "Les Kungfouine bien entraînés sont capables\nd’asséner plus de cent coups par minute\ndu tranchant de la main.",
+        "De nature brutale malgré sa petite taille, il inflige\nune série de coups majestueux aux inconscients\nqui s’approchent trop près de lui."
+    ],
+    "height": 0.9,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+    "name": "Kungfouine",
+    "types": [
+        "Combat"
+    ],
+    "weight": 20.0
+}

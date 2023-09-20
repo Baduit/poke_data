@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+        "Nei cieli di Galar non ha rivali. La vista del suo\ncorpo di acciaio nero e lucente intimorisce\ni suoi avversari.",
+        "È dotato di eccellenti capacità di volo e di\ngrande intelligenza. Nella regione di Galar si\nrende utile come taxi del cielo."
+    ],
+    "height": 2.2,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "name": "Corviknight",
+    "types": [
+        "Volante",
+        "Acciaio"
+    ],
+    "weight": 75.0
+}

@@ -1,0 +1,28 @@
+{
+    "descriptions": [
+        "It sprays a vile-smelling fluid\nfrom the tip of its tail to attack.\nIts range is over 160 feet.",
+        "It sprays a stinky fluid from its\ntail. The fluid smells worse the\nlonger it is allowed to fester.",
+        "It attacks by spraying a horribly\nsmelly fluid from the tip of its tail.\nAttacks from above confound it.",
+        "It attacks by spraying a repugnant\nfluid from its tail, but the stench\ndulls after a few squirts.",
+        "It attacks by spraying a repugnant\nfluid from its tail, but the stench\ndulls after a few squirts.",
+        "It attacks by spraying a horribly\nsmelly fluid from the tip of its tail.\nAttacks from above confound it.",
+        "It attacks by spraying a horribly\nsmelly fluid from the tip of its tail.\nAttacks from above confound it.",
+        "It attacks by spraying a horribly\nsmelly fluid from the tip of its tail.\nAttacks from above confound it.",
+        "It attacks by spraying a horribly\nsmelly fluid from the tip of its tail.\nAttacks from above confound it.",
+        "It sprays a vile-smelling fluid from the tip of its tail\nto attack. Its range is over 160 feet.",
+        "It sprays a stinky fluid from its tail. The fluid smells\nworse the longer it is allowed to fester.",
+        "It sprays a vile-smelling fluid from the tip of its tail\nto attack. Its range is over 160 feet.",
+        "It sprays a stinky fluid from its tail. The fluid smells\nworse the longer it is allowed to fester.",
+        "In its belly, it reserves stinky fluid that it shoots\nfrom its tail during battle. As this Pokémon’s diet\nvaries, so does the stench of its fluid.",
+        "It digs holes in the ground to make its nest.\nThe stench of the fluid it lets fly from the tip\nof its tail is extremely potent.",
+        "Sprays a poisonous fluid to take down prey. Sometimes, unable\nto stomach the stench of its own fluid, it leaves the bested\nprey uneaten."
+    ],
+    "height": 1.0,
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "name": "Skuntank",
+    "types": [
+        "Poison",
+        "Dark"
+    ],
+    "weight": 38.0
+}
