@@ -13,7 +13,7 @@ constexpr std::string_view help_message =
 
 struct PokemonData
 {
-	pokemon::MetaData metadata;
+	std::vector<std::pair<std::size_t, std::string>> names_with_id;
 	std::vector<pokemon::OneLanguagePokemon> pokemons;
 };		
 
@@ -23,6 +23,7 @@ std::pair<std::filesystem::path, std::filesystem::path> handle_args(int argc, ch
 std::map<pokemon::Language, PokemonData> extract_pokemon_data(const std::filesystem::path& input_dir);
 std::filesystem::path generate_data_directory(const std::filesystem::path& output_dir);
 std::filesystem::path generate_language_directory(const pokemon::Language& language, const std::filesystem::path& generated_dir);
+pokemon::MetaData generate_metadata(std::vector<std::pair<std::size_t, std::string>> names_with_id); // Copy intended
 std::filesystem::path generate_pokeguesser_directory(const std::filesystem::path& language_dir);
 void write_pokeguesser_data(const std::filesystem::path& pokeguesser_directory, const std::vector<pokemon::OneLanguagePokemon>& pokemons);
 std::filesystem::path generate_pokedle_directory(const std::filesystem::path& language_dir);
@@ -39,7 +40,8 @@ int main(int argc, char** argv)
 	
 		for (const auto& [language, data]: pokemon_data)
 		{
-			const auto& [metadata, pokemons] = data;
+			const auto& [names_with_id, pokemons] = data;
+			auto metadata = generate_metadata(names_with_id);
 			std::filesystem::path language_dir = generate_language_directory(language, generated_dir);
 			write_to_file(language_dir / "metadata.json", metadata);
 			std::filesystem::path pokeguesser_directory = generate_pokeguesser_directory(language_dir);
@@ -84,7 +86,7 @@ std::map<pokemon::Language, PokemonData> extract_pokemon_data(const std::filesys
 	{
 		for (auto&& [language, pokemon]: complete_pokemon.generatePkemonByLanguage())
 		{
-			pokemon_data[language].metadata.names.push_back(pokemon.name);
+			pokemon_data[language].names_with_id.emplace_back(pokemon.id, pokemon.name);
 			pokemon_data[language].pokemons.push_back(std::move(pokemon));
 		}
 	}
@@ -105,6 +107,12 @@ std::filesystem::path generate_language_directory(const pokemon::Language& langu
 	if (!std::filesystem::create_directory(language_dir))
 		throw std::runtime_error(std::format("Can't create the language directory : {}", language_dir.string()));
 	return language_dir;
+}
+
+pokemon::MetaData generate_metadata(std::vector<std::pair<std::size_t, std::string>> names_with_id)
+{
+	std::ranges::sort(names_with_id, [](const auto& a, const auto& b) { return a.first < b.first; });
+	return pokemon::MetaData{ .names = std::views::transform(names_with_id, [](auto&& n){ return n.second; }) | std::ranges::to<std::vector>()};
 }
 
 std::filesystem::path generate_pokeguesser_directory(const std::filesystem::path& language_dir)
